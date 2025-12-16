@@ -18,6 +18,15 @@ annotations/
 cord_000001.json
 sroie_000145.json
 
+---
+
+## Full dataset download
+
+The full dataset (~1.05 GB, 2800 samples) is hosted externally to keep this repository lightweight:
+
+👉 https://huggingface.co/datasets/mankind1023/receipt-dataset-standardized
+
+---
 
 **Pairing rule:**
 
