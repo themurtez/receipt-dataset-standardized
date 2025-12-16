@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Dompet",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 13636,
+    "tax": 1364,
+    "tip": 0.0,
+    "total": 15000,
+    "accounting_category": "food and beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Peanut & Cheese",
+      "quantity": 1,
+      "unit_price": 13636,
+      "total_price": 13636,
+      "category": "snack",
+      "accounting_category": "food and beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 5000
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000183.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Peanut & Cheese 13,636\nSubTotal: 13,636\nPBI: 1,364\nTotal: 15,000\ncash: 20,000\nChange: 5,000\n"
+  }
+}

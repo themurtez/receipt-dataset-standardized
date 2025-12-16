@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Pingo Doce - Distribuição Alimentar, S.A.",
+    "address": "R Actor Antonio Silva, N7, 1649-033 Lisboa",
+    "phone": "213828600",
+    "tax_id": "510779614",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-10-20",
+    "time": "14:28:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 20.13,
+    "tax": 1.11,
+    "tip": 0.0,
+    "total": 18.89,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PET FOOD",
+      "quantity": 1,
+      "unit_price": 0.85,
+      "total_price": 0.85,
+      "category": "Pet Supplies",
+      "accounting_category": "Pet Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "SPAGHETTI",
+      "quantity": 1,
+      "unit_price": 0.75,
+      "total_price": 0.75,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "VITAL FRT VERM",
+      "quantity": 1,
+      "unit_price": 0.47,
+      "total_price": 0.47,
+      "category": "Beverages",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "VITAL MANGA/LAR",
+      "quantity": 1,
+      "unit_price": 0.94,
+      "total_price": 0.94,
+      "category": "Beverages",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_205727.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Pingo Doce - Distribuição Alimentar, S.A.\nR Actor Antonio Silva,N7,1649-033 Lisboa\n...\nTOTAL A PAGAR\n18,89\n..."
+  }
+}

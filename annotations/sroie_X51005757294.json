@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (M) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000306020352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-18",
+    "time": "15:12:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 10.0,
+    "tax": 0.6,
+    "tip": 0.0,
+    "total": 10.6,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CARBON FIBER CARTRIDGE C10-98#10",
+      "quantity": 2,
+      "unit_price": 5.3,
+      "total_price": 10.6,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 9.4
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005757294.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "31803042\nMR. D.I.Y. (M) SDN BHD\n(CO.REG :860671-D)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000306020352)\n(IOI PUCHONG)\n-TAX INVOICE-\nCARBON FIBER CARTRIDGE C10-98#10\nCC22-52-62 - 25\n9063785 2 X 5.30 10.60\nItem(s) : 1 Qty(s) : 2\n-------------------------------------------------------------------\nTotal Incl. GST@6% RM 10.60\nCASH RM 20.00\nCHANGE RM 9.40\nGST @6% included in total RM 0.60\n-------------------------------------------------------------------\n18-03-18 15:12 SH01 ZJ86 T3 R000060727\nOPERATOR TRAINEE CASHIER\nEXCHANGE ARE ALLOWED WITHIN\n7 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

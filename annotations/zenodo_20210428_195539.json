@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Repsol",
+    "address": "AV 23 de Julho 9, 2800-099 Cova da Piedade",
+    "phone": "212750778",
+    "tax_id": "507193920",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-01-12",
+    "time": "08:24:00",
+    "currency": "EUR",
+    "payment_method": "Cartão Bancario",
+    "subtotal": 76.19,
+    "tax": 12.64,
+    "tip": 0.0,
+    "total": 76.19,
+    "accounting_category": "Fuel and Tobacco",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "TAB.ROTHSWIT",
+      "quantity": 1,
+      "unit_price": 4.3,
+      "total_price": 4.3,
+      "category": "Tobacco",
+      "accounting_category": "Tobacco",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "TAB.ROTHSWIT",
+      "quantity": 1,
+      "unit_price": 4.3,
+      "total_price": 4.3,
+      "category": "Tobacco",
+      "accounting_category": "Tobacco",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "GASOLEO",
+      "quantity": 53.47,
+      "unit_price": 1.314,
+      "total_price": 70.26,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_195539.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "REPSOL\nE1505 - E.S. COVA DA PIEDADE\nROQUE & SOUSA - COM. COMB., LD\nAV 23 de Julho 9\n2800-099 COVA DA PIEDADE\nCAP. SOCIAL: 75000\nNIF: 507193920 TEL/FAX: 212750778\n\nDATA/HORA: 12-01-19 08:24 Factura: 193684\nOperador: Jose Carlos POS: 001\n\nARTIGO B. QT. IVA/EX. PREÇO VALOR\nTAB.ROTHSWIT 1.00 A 4.300 4.30\nTAB.ROTHSWIT 1.00 A 4.300 4.30\nGASOLEO 3 53,47 1,314 70,26\nDesconto 0,050 /1 -2,67\n\nT.IVA Sem IVA IVA(%) IVA TOTAL\n0 8,60 0,00 0,00 8,60\n3 54,95 23,00 12,64 67,59\nTOTAL EUROS 76,19\nQUOTA SOCIO 0,00\nCARTAO BANCARIO 76,19\n\njsQU - Processado por Programa\nCertificado N.: 1237/AT\n\n*** OBRIGADO E BOA VIAGEM ***\nN.I.F.: 510776914\nNome: flikhome\nMorada: lx\nLocalidade: o\nMatricula:\n\nIVA incluido a taxa em vigor"
+  }
+}

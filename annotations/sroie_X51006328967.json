@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Tanjongmas Bookcentre (PJ) Sdn Bhd",
+    "address": "Lot F15, Giant Bandar Puteri, Jalan Puteri 1/1, Bdr Puteri, 47100 Puchong, Selangor",
+    "phone": "03-8060 4233",
+    "tax_id": "002147033088",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-03-17",
+    "time": "21:35:00",
+    "currency": "MYR",
+    "payment_method": "Visa",
+    "subtotal": 62.0,
+    "tax": 3.51,
+    "tip": 0.0,
+    "total": 62.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Calculator Scientific",
+      "quantity": 1,
+      "unit_price": 53.0,
+      "total_price": 53.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "M&G R3 Gel Pen 0.5mm 3's",
+      "quantity": 1,
+      "unit_price": 5.4,
+      "total_price": 5.4,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Faber Castell Super True",
+      "quantity": 1,
+      "unit_price": 3.6,
+      "total_price": 3.6,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006328967.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TANJONGMAS BOOKCENTRE (PJ) SDN BHD\nCO. NO. 373665-A\nLOT F15, GIANT BANDAR PUTERI\nJALAN PUTERI 1/1, BDR PUTERI\n47100 PUCHONG, SELANGOR\n03-8060 4233\n( NO. ID GST: 002147033088 )\nTAX INVOICE\nBILL: 28544\nCASH1 #10-02 17/03/2017 21:35\nB.CODE & DESC. QTY U/PRICE AMT\n4971850134824 1 53.00 53.00\nCALCULATOR SCIENTIFIC\n27932 1 5.40 5.40\nM&G R3 GEL PEN 0.5MM 3'S\n955684639363 1 3.60 3.60\nFABER CASTEL SUPER TRUE\nSUB-TOTAL 62.00\nTotal GST(I) 3.51\nTOTAL ITEM(S): 3\nTOTAL QUANTITY(S): 3\nTOTAL INCL GST RM 62.00\nCARD TYPE : VISA 62.00\nCARD NO :\nTHANK YOU, PLEASE COME AGAIN.\nGOODS SOLD ARE NOT RETURNABLE.\nGST Taxable Amt. GST Amt\nSR(I) - 6% 58.49 3.51"
+  }
+}

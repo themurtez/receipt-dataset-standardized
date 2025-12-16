@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "The Coffee Bean & Tea Leaf (M) Sdn. Bhd.",
+    "address": "Lot F36, First Floor, Aeon Mall Bdr Dato' Onn, No.3 Jln Dato' Onn 3, Bdr Dato' Onn, 81100 Johor Bahru, Johor",
+    "phone": "",
+    "tax_id": "000384106496",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-08",
+    "time": "14:26:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 11.32,
+    "tax": 0.68,
+    "tip": 0.0,
+    "total": 12.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Cafe Latte - S",
+      "quantity": 1,
+      "unit_price": 11.32,
+      "total_price": 11.32,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006414677.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "THE COFFEE BEAN & TEA LEAF (M) SDN. BHD.\nCompany No.:441970-H\nLot F36, First Floor,\nAeon Mall Bdr Dato' Onn,\nNo.3 Jln Dato' Onn 3, Bdr Dato' Onn\n81100 Johor Bahru, Johor\nGST No.:000384106496\nTax Invoice\n08/04/2018 14:26 B512222\nQty Descriptions Amount\n1 CAFE LATTE -S 11.32 T\nSTTL 11.32\n6% GST 0.68\nTOTAL 12.00\nCASH 12.00\nCHANGE 0.00\nGST Summary Amount Tax\nT:6% GST 11.32 0.68\nZ:Zero Rated 0.00 0.00\nPASSION FOR COFFEE & TEA SINCE 1963\nAll Bean Points earned from\nJan-Dec will expire by\n31st March the following year\nScan and provide us your feedback!\nWIFI Password - WIFI Password\n9pjz6i8n\nTBL\nCsh:PT17750 OL-PT AZMEER SHAH\nPOS:T002 Shf:201804081"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Worten",
+    "address": "Edifício Amoreiras Plaza, Rua Maria Ulrich, 1, 1070-169 Lisboa",
+    "phone": "",
+    "tax_id": "PT503630330",
+    "website": "www.worten.pt"
+  },
+  "transaction": {
+    "date": "2018-11-15",
+    "time": "14:31:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 35.99,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 35.99,
+    "accounting_category": "Electronics",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "IRRAD. DELEO",
+      "quantity": 1,
+      "unit_price": 39.99,
+      "total_price": 39.99,
+      "category": "Electronics",
+      "accounting_category": "Electronics",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": -4.0,
+    "change_due": 0.01
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_173053.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Worten\nVRT Amoreiras\nWORTEN Equipamentos para o Lar SA\nEdificio Amoreiras Plaza, Rua Maria Ulrich, 1 1070-169\nLisboa\n\nRegistada CRC Porto sob no 503630330\nNIF: PT503630330\nC.S. 4.600.00 EUR SIMPE: P(100125)\nFatura Simplificada Original\nNo: FS HK4002/024498 15/11/2018 14:31\nNIF: P157076914\nIVA: DESCRICAO\nPequenos Domesticos:\n\n(C) 5600192865299 IRRAD.DELEO\nKUNF120000 KOR\nTOTAL A PAGAR 39.99\n\nNumerario 40.00\nTROCO 0.01\n\n23.002 32.51 7.48\nE7v1-Processado por programa certificado\n\nN. 1356/\n5198 0002 54313 189917 160102086728056\n\nIVA INCLUIDO\nTalao Indispensavel para troca\nPrazo de devolucao: 15 dias\n\n*** OBRIGADO ***\nNao estao abrangidos pela politica\nde satisfacao/devolucao de artigos com\nativacao em caixa\n\nPara mais informacoes consultar\nwww.worten.pt"
+  }
+}

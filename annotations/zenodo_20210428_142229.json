@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Sulaman Minimercado",
+    "address": "Rua das Pretas, 21, 1150-270 Lisboa",
+    "phone": "920076129",
+    "tax_id": "513889949",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-02",
+    "time": "13:54:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 7.99,
+    "tax": 1.49,
+    "tip": 0.0,
+    "total": 7.99,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Artigos diario",
+      "quantity": 1,
+      "unit_price": 7.99,
+      "total_price": 7.99,
+      "category": "Daily Articles",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_142229.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SULAMAN MINIMERCADO\nTEMPEROS DA SEMANA UNIPESSOAL, LDA.\nCONTRIB. 513889949 TEL. 920076129\nRUA DAS PRETAS,21\n1150-270 LISBOA\nFATURA SIMPLIFICADA\nORIGINAL\nDATA 2019/02/02 - 13:54 Nº A/26706\nCliente: FLIKEHOME\nMorada: LISBOA\nCont. Nº 510776914\nArtigo Qtd Preço € Valor €\n...\nArtigos diario 1 Un x 7,99 = 7,99\n#001 Total 7,99\nNumerário 7,99\nTroco 0,00\nIVA Incluído à taxa indicada\nTaxa% Sujeito IVA Total\n23,00 6,50 1,49 7,99\nJG1F-Processado por programa certificado\nNº 88/AT - 1 A/26706\nOpr: SULAMAN\nOBRIGADO - VOLTE SEMPRE"
+  }
+}

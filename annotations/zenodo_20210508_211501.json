@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Aki Mafra",
+    "address": "Stand. Quinta das Pevides, 2640-440 Mafra",
+    "phone": "261 091 200",
+    "tax_id": "500216218",
+    "website": "www.aki.pt"
+  },
+  "transaction": {
+    "date": "2013-04-13",
+    "time": "17:21:00",
+    "currency": "EUR",
+    "payment_method": "Cartão Bancário",
+    "subtotal": 41.11,
+    "tax": 9.45,
+    "tip": 0.0,
+    "total": 50.56,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Madex Acet Cerejeira 750ml",
+      "quantity": 2,
+      "unit_price": 10.29,
+      "total_price": 20.58,
+      "category": "Paint",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Betume Massa Alisar Axton",
+      "quantity": 1,
+      "unit_price": 2.99,
+      "total_price": 2.99,
+      "category": "Construction",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Axton Ext MT 8x1.5LT-LU",
+      "quantity": 1,
+      "unit_price": 26.99,
+      "total_price": 26.99,
+      "category": "Tools",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_211501.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Aki Mafra\nVendedor José Nornha Gorjão\nStand. Quinta das Pevides, 2640-440 Mafra\nTel. 261 091 200\nwww.aki.pt\nSoc. Dist. - Distribuiçao de Bricolage, SA\nData da Fatura: 13/04/2012 17:21\nNome: FEELSLIKEHOME LDA\nMorada:RUA SARAVIA DE ARVALHO N244 3Dt0 1077\nCcimento N°: 910025102 162814\nIVA: N°10776914\nIVA Codigo Descrição Valor\n23.0% 362526 MADEx ACB CEREJEIRA 750ML 20.58€\n2 X 10,29€\n23.0% 426637 BETUME MASSA ALISAR AXTON 2.99€\n4006614 Axtn Ext MT 8x1.5LT-LU 26.99€\nTaxa Liquida IVA\nRecapitulativo IVA\n23.0% 41,11 9,45\nTotal: 50,56€\n1530052 LISBOA\nNota AKI: 9301023151285763\nPontos ganhos: 50\nPontos acumulados: 179\nOBRIGADO POR COMPRA NA NOSSA LOJA"
+  }
+}

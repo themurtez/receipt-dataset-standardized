@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "COP",
+    "payment_method": "cash",
+    "subtotal": 46000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 46000.0,
+    "accounting_category": "retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "DEPT04",
+      "quantity": 1,
+      "unit_price": 24000.0,
+      "total_price": 24000.0,
+      "category": "general goods",
+      "accounting_category": "retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "DEPT01",
+      "quantity": 1,
+      "unit_price": 22000.0,
+      "total_price": 22000.0,
+      "category": "general goods",
+      "accounting_category": "retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 4000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000593.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "DEPT04                    24,000\nDEPT01                    22,000\nTL                        46,000\nTOTAL                    46,000\nCASH                     50,000\nCHANGE                   4,000"
+  }
+}

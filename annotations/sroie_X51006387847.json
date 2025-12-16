@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "BEMED (SP) SDN. BHD.",
+    "address": "No.49, Jalan Omar G U3/G, Subang Perdana, 40150 Shah Alam, Selangor D.E.",
+    "phone": "03-7845 8155",
+    "tax_id": "001734164480",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-04-15",
+    "time": "04:56:46",
+    "currency": "MYR",
+    "payment_method": "MASTER",
+    "subtotal": 835.0,
+    "tax": 35.66,
+    "tip": 0.0,
+    "total": 835.0,
+    "accounting_category": "Health & Personal Care",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PRISTIN OMEGA-3 FISH OIL 2X150'S(V/P)",
+      "quantity": 1,
+      "unit_price": 300.0,
+      "total_price": 300.0,
+      "category": "Supplements",
+      "accounting_category": "Health & Personal Care",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ALPHA LIPID LIFE LINE 450MG 450G",
+      "quantity": 2,
+      "unit_price": 165.0,
+      "total_price": 330.0,
+      "category": "Supplements",
+      "accounting_category": "Health & Personal Care",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BO-(DERMAPRO OINT) 15G",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Ointment",
+      "accounting_category": "Health & Personal Care",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006387847.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "POSTED\nBEMED (SP) SDN. BHD.\nNo.49, Jalan Omar G U3/G,\nSubang Perdana,\n40150 Shah Alam, Selangor D.E.\n03-7845 8155\nGST Reg : 001734164480\nCASH RECEIPT\nCB#: 83078570476 15/Apr/2017 04:56:46\nCashier : be ()\nQty Code&Desc Price Total\n1 PRISTIN OMEGA-3 FISH OIL 2X150'S(V/P) 208250 300.00 300 B/\n2 ALPHA LIPID LIFE LINE 450MG 450G 184810 165.00 330 B/\n1 BO-(DERMAPRO OINT) 15G 173104 5.00 5 ZRL\n4 Type: 3\nSubTotal: 835.00\nRounding Adj: 0.00\nTotal Inclusive GST: 835.00\nMASTER\nGST Summary: Amount (MYR) Tax (MYR)\nSR 594.34 35.66\nZRL 5.00 0.00\nONG GUAT CHYE\nPoints :\n1.124\nThank you.\nPlease come again."
+  }
+}

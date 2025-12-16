@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Kobe Japanese Steak",
+    "address": "69838 Highway 111, Rancho Mirage, CA 92270-2837",
+    "phone": "760-324-1717",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-22",
+    "time": "20:31:12",
+    "currency": "USD",
+    "payment_method": "VISA",
+    "subtotal": 158.07,
+    "tax": 0.0,
+    "tip": 15.0,
+    "total": 173.07,
+    "accounting_category": "Dining",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Transaction Total",
+      "quantity": 1,
+      "unit_price": 158.07,
+      "total_price": 158.07,
+      "category": "Dining",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1117-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KOBE JAPANESE STEAK\n69838 HIGHWAY 111\nRANCHO MIRAGE, CA 92270-2837\n760-324-1717\n\nServer ID: 1           Sale\n\nXXXXXXXXXXXX4757\nVISA           Entry Method: Chip\nAmount:$               158.07\nTip:                       15.00\nTotal:                  173.07\n\n02/22/19                                20:31:12\nInv #: 000000061      Appr Code: B39001\nApprd: Online\n\nVISA DEBIT\nAID: A0000000031010\nTVR: 80 00 80 80 00\nTSI: 68 00\n\nCustomer Copy"
+  }
+}

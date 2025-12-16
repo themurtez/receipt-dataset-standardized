@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 55500.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 55500.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Nasi Kuning",
+      "quantity": 2,
+      "unit_price": 36500.0,
+      "total_price": 73000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "DISCOUNT ITEM",
+      "quantity": 1,
+      "unit_price": -29200.0,
+      "total_price": -29200.0,
+      "category": "Discount",
+      "accounting_category": "Discount & Rebates",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "CENTIK PLANGI",
+      "quantity": 3,
+      "unit_price": 6500.0,
+      "total_price": 19500.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "DISCOUNT ITEM",
+      "quantity": 1,
+      "unit_price": -7800.0,
+      "total_price": -7800.0,
+      "category": "Discount",
+      "accounting_category": "Discount & Rebates",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "MIKA KECIL",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Miscellaneous",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.5
+    },
+    {
+      "name": "PLASTIK SEDANG",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Miscellaneous",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.5
+    },
+    {
+      "name": "SENDOK MAKAN",
+      "quantity": 2,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Miscellaneous",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.5
+    },
+    {
+      "name": "GARPU",
+      "quantity": 2,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Miscellaneous",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.5
+    }
+  ],
+  "summary": {
+    "total_items": 11,
+    "rounding": 0.0,
+    "change_due": 44500.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000231.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "2X\nNASI KUNING @36500 73,000\nDISC ITEM -40.000%\nAMOUNT -29,200\n3X @6500\nCENTIK PLANGI 19,500\nDISC ITEM -40.000%\nAMOUNT -7,800\n1X @0\nMIKA KECIL 0\n1X @0\nPLASTIK SEDANG 0\n1X @0\nSENDOK MAKAN 0\n1X @0\nSENDOK MAKAN 0\n1X @0\nGARPU 0\n1X @0\nGARPU 0\n11.00xITEMs\nSUBTOTAL 55,500\nTOTAL 55,500\nCASH 100,000\nCHANGE 44,500"
+  }
+}

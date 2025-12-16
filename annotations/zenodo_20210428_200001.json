@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Galp",
+    "address": "GAR. RISMAR Campo de Ourique\n1350 Lisboa",
+    "phone": "707 504 257",
+    "tax_id": "PT50019406",
+    "website": "clientes@galp.com"
+  },
+  "transaction": {
+    "date": "2019-04-19",
+    "time": "11:52:00",
+    "currency": "EUR",
+    "payment_method": "NUMERARIO",
+    "subtotal": 101.21,
+    "tax": 18.93,
+    "tip": 0.0,
+    "total": 101.21,
+    "accounting_category": "fuel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Gasóleo Simples",
+      "quantity": 69.13,
+      "unit_price": 1.464,
+      "total_price": 101.21,
+      "category": "fuel",
+      "accounting_category": "fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_200001.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "galp\n\nDOCUMENTO DE VENDA\nGAR. RISMAR Campo de Ourique\nGAS PIRAMIDE CUNHA COSTA\n\nAv. de Correia Teles 20 B\n1350 091 Lisboa Tel. 211383933\nNIF PT50019406\nFatUralRecibo\n\nQuantidade Preco Preço\nUnitano\n69.13 € 1.\nGASOLO SIMPLES Bomba 01 EUR\nICES OH EUR 11010\n\n23.00 %IVA A\n\nTotal\n\nEUR\n\nEUR\n\nPreço\n\nA\n\nEUR\n\n101.21\nEUR\n18.93\n\n101.21\n\nCliente: 3561\nNome: LIKEHOME\nMorada: LISBOA\nCódigo Postal:\nLocalidade:\nNo Contribuinte: 510776914\nMatricula: 61-GZ-05\nOperador: Carlos Filipe\nDoc. N°\n0120100410041M0AA00010H1222019/000041/0\n\nfyBE - Processado por Programa\nCertificado n.o 1396/AT\n\nData Hora NºTr POS No° Turno\n19-04-19 11:52 51108 01 0001 770\nRegime IVA de Caixa nos casos\nseja aplicável ao cliente\n\nDescontos até 1get/com de\ne:NU\nome NLOSaEU os\nE + Ambiente. Consulte galp.com\n\n\nTotal\nNUMERARIO\n\n101.21\nEUR\n\nExperimentem os combusnva\n+PERFORMANCE, +PROTEQ Continente\n\nA sua opcão é importante!\nVá a opiniao.galp.com/postos\ne receba desconto 2 eur em\nEvologic, o combustível mais evolu[ido\n\n101.21\n\n9 901151082020191000041002101 21\n"
+  }
+}

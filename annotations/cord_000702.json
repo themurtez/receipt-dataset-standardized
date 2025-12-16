@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "A Fung",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 76181.0,
+    "tax": 7418.0,
+    "tip": 0.0,
+    "total": 83600.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Bihun Campur",
+      "quantity": 1,
+      "unit_price": 43181.0,
+      "total_price": 43181.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Jeruk Murni",
+      "quantity": 1,
+      "unit_price": 20000.0,
+      "total_price": 20000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Es Nona Regular",
+      "quantity": 1,
+      "unit_price": 13000.0,
+      "total_price": 13000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 16200.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000702.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BIHUN CAMPUR 1 43,181 43,181\nJERUK MURNI 1 20,000 20,000\nES NONA REGULAR 1 13,000 13,000\nTOTAL 76,181\nTAX 10.00 % 7,418\nGRAND TOTAL 83,600\nTUNAI 100,000\nKEMBALI 16,200"
+  }
+}

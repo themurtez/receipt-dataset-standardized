@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "Rest. Tertulia do Monte",
+    "address": "Av. Sabóia 515 D - Estoril",
+    "phone": "21 4681508 / 91 2447858",
+    "tax_id": "508 336 600",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-09-02",
+    "time": "14:27:00",
+    "currency": "EUR",
+    "payment_method": "Debit Card",
+    "subtotal": 63.3,
+    "tax": 8.9,
+    "tip": 0.0,
+    "total": 72.2,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Vieiras Salteadas",
+      "quantity": 1,
+      "unit_price": 14.9,
+      "total_price": 14.9,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Tranche de Salmão",
+      "quantity": 1,
+      "unit_price": 15.8,
+      "total_price": 15.8,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Bife da Vazia com batat",
+      "quantity": 1,
+      "unit_price": 20.4,
+      "total_price": 20.4,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Tasaltetelle Vegetariano",
+      "quantity": 1,
+      "unit_price": 14.2,
+      "total_price": 14.2,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PEDRAS PQ",
+      "quantity": 2,
+      "unit_price": 1.5,
+      "total_price": 3.0,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "IMPERIAL",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "REFRIGE",
+      "quantity": 1,
+      "unit_price": 2.4,
+      "total_price": 2.4,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_183710.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "REST. TERTULIA DO MONTE\nSaber e Receber Rest. e Bebidas, Lda\nAv. Saboia 515 D - Estoril\nNIF: 508 336 600\nTel: 21 4681508 / 91 2447858\n\n2019-09-02\nOriginal\n14:27 MESA N: 30/0\n\n#Cliente 51076914\n0000 000\nContribuente: 51076914\n\nDescricao IVA VALOR\n1 Vieiras Salteadas 13% 14,90\n1 Tranche de Salmao 13% 15,80\n1 Bife da Vazia com batat 13% 20,40\n1 Tasaltetelle Vegetariano 13% 14,20\n2 PEDRAS PQ 23%\nPreco: 1,50/Unidade 3,00\n1 IMPERIAL 23% 1,50\n1 REFRIGE. 23% 2,40\n\nTAXA IVA INCID.\n13% 7,51 57,79\n23% 1,29 5,61\nTOTAL INCIDENCIAS: 8,80 63,30\nTOTAL: Eur 72,20\n\nPago por Cartao de Debito\nObrigado Volte Sempre\n\nF 1\n\nProcessado por programa\ncertificado n. 196/AI\n\nREFERENTE A:\nCM 1AL961/7288\n\nLicenca: Saber e Receber Restaurante e Bebidas Lda"
+  }
+}

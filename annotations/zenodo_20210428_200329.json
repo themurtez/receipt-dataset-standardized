@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "GAR RIBAMAR",
+    "address": "Rua Carreira Teles 20, 1350-095 Lisboa",
+    "phone": "215960380",
+    "tax_id": "PT500119406",
+    "website": "opinio.galp.com/postos"
+  },
+  "transaction": {
+    "date": "2024-09-19",
+    "time": "12:34:00",
+    "currency": "EUR",
+    "payment_method": "NUMERARIO",
+    "subtotal": 32.52,
+    "tax": 7.48,
+    "tip": 0.0,
+    "total": 40.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GASOLEO SIMPLES",
+      "quantity": 26.86,
+      "unit_price": 1.489,
+      "total_price": 40.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_200329.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "galp\nDOCUMENTO DE VENDA\nGAR. RIBAMAR (Campo de Ourique)\nGAR RIBAMAR F CUNHA COSTA\nRua Carreira Teles 20 1\n1350-095 Lisboa Tel 215960380\nNIF: PT500119406\nFatura/Recibo\nQuantidade\nPreço Unitario\n26.86 L Bomba 01\nGASOLEO SIMPLES EUR 40.00 A\n1.489 EUR / L\nTotal EUR 40.00\n23 00 % IVA A EUR 7.48\nCliente: 3561\nNome: FLIKEHOME\nMorada: LISBOA\nCodigo Postal:\nLocalidade:\nNº Contribuinte: 510776914\nMatricula: 64-TO-15\nOperador: Paulo Freitas\nDoc Nº:\n012010004110fAAAAAAAA006112720219/00005413\nIMLZ - Processado por Programa\nCertificado n.º 1396/AT\nData Hora N MT POS N Op Turno\n24-09-19 12:34:56/63 01 0002 831\nRegime IVA de Caixa nos casos em que tal\nseja aplicável ao cliente\nclientes@galp.com / Tel. 707 504 257\nA sua opinião é importante!\nPartilhe connosco em\nopinio.galp.com/postos\nTotal EUR 40.00\nNUMERARIO EUR 40.00\n9 901567630219650900004000000000000400.0"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "IKEA Portugal",
+    "address": "Rua Pe de Mouro, 2714-511 Sintra, Portugal",
+    "phone": "214 001 000",
+    "tax_id": "503219700",
+    "website": "www.ikea.pt"
+  },
+  "transaction": {
+    "date": "2019-02-27",
+    "time": "10:41:00",
+    "currency": "EUR",
+    "payment_method": "Card",
+    "subtotal": 93.46,
+    "tax": 21.49,
+    "tip": 0.0,
+    "total": 114.95,
+    "accounting_category": "Home Goods",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GRUSBLAD edred quent 150x200",
+      "quantity": 5,
+      "unit_price": 22.99,
+      "total_price": 114.95,
+      "category": "Bedding",
+      "accounting_category": "Home Goods",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_192504.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Obrigado por visitar a IKEA Alfragide\nIKEA Portugal - IKEA Purchasing Services\nRua Pe de Mouro 2686, 2714-511 Sintra\nCapita Social 25.000.001 Freitas\nNIPC: 503 219 700 R.C.Com.Sob 0600F\nSoc.Ano. 503 219 700\nDoc.No: DEV 36.903219700759258\nCodigo de credito\n0367003304332068/27.02.19\n-----------------------------------\nDoc Original: fac 0100620128005/429\nNIF: 19239395085\nNome: ERIKA BONELLI\nMorada: RUA SOUSA MARTINS N°27 5°\nPais: PT\nCP: 1050-217\nCidade: LISBOA\nCarga em Nossas Instalacoes\nData: 2019-02-27 10:41\nLocal de descarga:\nMorada: RUA SOUSA MARTINS N°27 5°\nPais: PT\nCP: 1050-217\nCidade: LISBOA\nNota de Devolução # 948252\nDevolução 20271750\nGRUSBLAD edred quent 150x200 22,99\n0\nDevolução 20271750\nGRUSBLAD edred quent 150x200 22,99\n0\nDevolução 20271750\nGRUSBLAD edred quent 150x200 22,99\n0\nDevolução 20271750\nGRUSBLAD edred quent 150x200 22,99\n0\nDevolução 20271750\nGRUSBLAD edred quent 150x200 22,99\n0\n-----------------------------------\nTotal = 114,95\nTotal de artigos Devoluç -5 114,95\nTroco Cartão Devoluç 6275894xxxxxx0245\n114,95 EUR\nSaldo atual\nInclui IVA: Taxa Liquido IVA\n23.00% de 93,46 21,49\nIXY2: Processado por: 1999/AT\nPrograma Certificado POS Equip Trans\nData Hora Loja\n27.02.19 10:41 367 33\nConsulte nosso horário em www.ikea.pt\nA mercadoria foi colocada à disposiçaão\ndo cliente na data da compra alin. f)\nDL. Art°36 CIVA. A IKEA Não atua como\nentidade exportadora."
+  }
+}

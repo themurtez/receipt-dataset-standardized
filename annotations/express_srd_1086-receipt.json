@@ -1,0 +1,118 @@
+{
+  "merchant": {
+    "name": "Calogero's",
+    "address": "919 Franklin Ave., Garden City, NY 11530",
+    "phone": "516-294-2922",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-20",
+    "time": "20:29:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 145.0,
+    "tax": 12.51,
+    "tip": 0.0,
+    "total": 157.51,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Shrimp Scampi",
+      "quantity": 1,
+      "unit_price": 27.0,
+      "total_price": 27.0,
+      "category": "Entree",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chicken Milanese",
+      "quantity": 2,
+      "unit_price": 23.0,
+      "total_price": 46.0,
+      "category": "Entree",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Veal Milanese",
+      "quantity": 1,
+      "unit_price": 27.0,
+      "total_price": 27.0,
+      "category": "Entree",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Grey Goose",
+      "quantity": 3,
+      "unit_price": 10.0,
+      "total_price": 30.0,
+      "category": "Alcohol",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pineapple Juice",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Belvedere",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Alcohol",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Becks Non Alcoholic",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Corona",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Alcohol",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Comp Item",
+      "quantity": 1,
+      "unit_price": -12.0,
+      "total_price": -12.0,
+      "category": "Discount",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 9,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1086-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Calagero's\nCalogero's\n919 Franklin Ave.\nGarden City, NY 11530\n516-2942922\nTable #2\nTrans #: 137017 Serv: Manager 2\n4/20/2018 8:29 PM # Cust:4\nQuan Descript Cost\n1 Shrimp Scampi $27.00\n2 Chicken Milanese $46.00\n1 Veal Milanese $27.00\n3 Grey Goose $30.00\n1 Pineapple Juice $3.00\n1 Belvedere $12.00\n1 Becks Non Alcoholic $6.00\n1 Corona $6.00\n1 Comp Item ($12.00)\nNet Total: $145.00\nTax $12.51\nTOTAL: $157.51\nAmount Due $157.51\nFOLLOW US ON\nFACEBOOK AND INSTAGRAM\n@calogerosgc"
+  }
+}

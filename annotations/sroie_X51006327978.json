@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "SOON FATT S/R",
+    "address": "LOT 1504, BATU 8 1/2, JALAN KLANG LAMA, 46000 PETALING JAYA, SELANGOR.",
+    "phone": "016-2014209",
+    "tax_id": "000788250624",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-09-02",
+    "time": "12:00:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 362.5,
+    "tax": 14.86,
+    "tip": 0.0,
+    "total": 362.5,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "A1 Bihun Istimewa 3KG",
+      "quantity": 10,
+      "unit_price": 10.0,
+      "total_price": 100.0,
+      "category": "Grocery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "YSF Buah Keras 3KG",
+      "quantity": 1,
+      "unit_price": 36.8,
+      "total_price": 36.8,
+      "category": "Grocery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Hobe Red Kidney Bean 425GM",
+      "quantity": 1,
+      "unit_price": 58.0,
+      "total_price": 58.0,
+      "category": "Grocery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cap Lang Jagung Manis 425GM",
+      "quantity": 1,
+      "unit_price": 53.8,
+      "total_price": 53.8,
+      "category": "Grocery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Dairy Champ Evap 390GM",
+      "quantity": 1,
+      "unit_price": 113.9,
+      "total_price": 113.9,
+      "category": "Grocery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 14,
+    "rounding": 0.0,
+    "change_due": 37.5
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006327978.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Y SOON FATT S/R (81497-P)\nLOT 1504, BATU 8 1/2, JALAN KLANG LAMA,\n46000 PETALING JAYA, SELANGOR.\nTEL : 016-2014209\nGST REG NO : 000788250624\n\nTAX INVOICE\n\nDESC QTY PRICE AMOUNT TAXCODE\n(RM) (RM)\n51190030 A1 BIHUN ISTIMEWA 3KG\n10 * 10.00 100.00 ZRL\n060400063 YSF BUAH KERAS 3KG\n1 * 36.80 36.80 SR\n012700054 HOBE RED KIDNEY BEAN 425GM\n1 * 58.00 58.00 SR\n51580020 CAP LANG JAGUNG MANIS 425GM\n1 * 53.80 53.80 SR\n50460020 DAIRY CHAMP EVAP 390GM\n1 * 113.90 113.90 SR\n\nTotal Inc. GST 6%: 362.50\nRounding Adjustment: 0.00\nFinal Total : 362.50\n\nCash : 400.00\nChange : 37.50\n\nGST Summary Amount(RM)\n----------------------\nZRL 0 % 100.00 0.00\nSR 6 % 247.64 14.86\n\nCO2102772 9/2/2017 12:00 PM\nT03 2006\n"
+  }
+}

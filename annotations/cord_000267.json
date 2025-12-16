@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 41000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 41000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BBQ Chicken Pedas",
+      "quantity": 1,
+      "unit_price": 41000.0,
+      "total_price": 41000.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 9000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000267.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 BBQ Chicken Pedas 41,000\nITEMS 1 Total 41,000\nPay Cash 50,000 Change 9,000"
+  }
+}

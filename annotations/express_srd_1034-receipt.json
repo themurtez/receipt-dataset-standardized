@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "La Source",
+    "address": "39 Rue Alain Chartier, 75015 Paris",
+    "phone": "01.48.26.44.81",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2015-08-02",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 15.45,
+    "tax": 1.55,
+    "tip": 0.0,
+    "total": 17.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Perrier",
+      "quantity": 1,
+      "unit_price": 5.8,
+      "total_price": 5.8,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Coca-Cola",
+      "quantity": 1,
+      "unit_price": 5.8,
+      "total_price": 5.8,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Jus Orange",
+      "quantity": 1,
+      "unit_price": 4.4,
+      "total_price": 4.4,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1034-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "La Source\n39, Rue Alain Chartier\n75015 Paris\n\n#0022 Caisse 2 02-08-2015\n\nNOTE\n\n1 PERRIER 5.80\n1 COCA-COLA 5.80\n1 JUS ORANGE 4.40\n\nTOTAL EURO *17.00\n\nH.T TVA 10% 15.45\nDONT TVA 10% 1.55\nTotal TTC 17.00\n\nTl.: 01.48.26.44.81\nPRIX NET\nMERCI DE VOTRE VISITE"
+  }
+}

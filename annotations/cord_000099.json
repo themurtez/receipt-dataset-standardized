@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "VND",
+    "payment_method": "Cash",
+    "subtotal": 40910.0,
+    "tax": 4090.0,
+    "tip": 0.0,
+    "total": 45000.0,
+    "accounting_category": "Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "S-Ovaltine Macchiat",
+      "quantity": 1,
+      "unit_price": 22000.0,
+      "total_price": 22000.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "S-Hazelnut Milk Tea",
+      "quantity": 1,
+      "unit_price": 20000.0,
+      "total_price": 23000.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 60000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000099.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1X S-Ovaltine Macchiat @22,000 22,000\n50%\nNo Ice\n1X S-Hazelnut Milk Tea @20,000 23,000\nBubbles 3,000\n50%\nNo Ice\nPB1: 4,090\nSubtotal: 40,910\nTotal: 45,000\nCash: 105,000\nCHANGE: 60,000"
+  }
+}

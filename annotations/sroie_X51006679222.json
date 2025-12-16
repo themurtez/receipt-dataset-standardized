@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Eight Ounce Coffee Co.",
+    "address": "F.K06, First Floor, The Gardens Mall, Mid Valley City, Lingkaran Syed Putra, 59200 Kuala Lumpur.",
+    "phone": "",
+    "tax_id": "002063339520",
+    "website": "www.geniuspos.com.my"
+  },
+  "transaction": {
+    "date": "2018-05-24",
+    "time": "16:29:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 37.64,
+    "tax": 2.26,
+    "tip": 0.0,
+    "total": 39.9,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Hot Chocolate",
+      "quantity": 1,
+      "unit_price": 13.0,
+      "total_price": 13.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cappucino",
+      "quantity": 1,
+      "unit_price": 13.0,
+      "total_price": 13.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Caramel Almond Crepe",
+      "quantity": 1,
+      "unit_price": 13.9,
+      "total_price": 13.9,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 10.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006679222.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "EIGHT OUNCE COFFEE CO. THE GARDENS MALL\nF.K06, First Floor, The Gardens Mall,\nMid Valley City, Lingkaran Syed Putra,\n59200 Kuala Lumpur.\nGST No. 002063339520\nTax Invoice\nInvoice.No: POS022881\nDate: 24-05-2018 4:29 PM\nTransaction by: Cashier\nTakeaway\nNo Description\nAmt (RM) Code\n1 Hot Chocolate 13.00 SR\n1 Cappucino 13.00 SR\n1 Caramel Almond Crepe 13.90 SR\nTotal Sales Inclusive 6% GST (3) 39.90\nTotal 39.90\nCash 50.00\nChange 10.10\nGST Summary Amount Tax\nSR @ GST 6% 37.64 2.26\nThank You Please Come Again!\nPowered by Genius POS\nwww.geniuspos.com.my\nLoo"
+  }
+}

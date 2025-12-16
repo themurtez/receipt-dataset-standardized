@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Tous Les Jours",
+    "address": "Unknown",
+    "phone": "Unknown",
+    "tax_id": "Unknown",
+    "website": "Unknown"
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "KRW",
+    "payment_method": "Cash",
+    "subtotal": 49000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 49000.0,
+    "accounting_category": "Food",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Soft Steamed Chococa",
+      "quantity": 1,
+      "unit_price": 10000.0,
+      "total_price": 10000.0,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Soft Steamed Cheesec",
+      "quantity": 1,
+      "unit_price": 10000.0,
+      "total_price": 10000.0,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Mini Castella Origin",
+      "quantity": 1,
+      "unit_price": 11000.0,
+      "total_price": 11000.0,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Redbean Bread",
+      "quantity": 2,
+      "unit_price": 9000.0,
+      "total_price": 18000.0,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 51000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000549.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "[MD] SOFT STEAMED CHOCOCA 10,000\n[MD] SOFT STEAMED CHEESEC 10,000\n[MD] MINI CASTELLA ORIGIN 11,000\n2 REDBEAN BREAD 18,000\nTOTAL 49,000\nCASH 100,000\nCHANGE 51,000"
+  }
+}

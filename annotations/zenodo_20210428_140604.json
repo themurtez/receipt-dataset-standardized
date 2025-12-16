@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Manuel Brites & Filhos, LDA",
+    "address": "R.Fernandes Fonseca, LJ 301/2 - CC. Mouraria, 1100-238 Lisboa",
+    "phone": "",
+    "tax_id": "T.218870118",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-25",
+    "time": "11:37:00",
+    "currency": "EUR",
+    "payment_method": "Dinheiro",
+    "subtotal": 3.98,
+    "tax": 0.92,
+    "tip": 0.0,
+    "total": 4.9,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CONJ 4 CALICE",
+      "quantity": 1,
+      "unit_price": 4.9,
+      "total_price": 4.9,
+      "category": "Kitchenware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_140604.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MANUEL BRITES & FILHOS, LDA\nR.Fernandes Fonseca,LJ 301/2-CC.Mouraria\n1100-238 LISBOA-T.218870118-NC:500177686\nMat.C.R.C.Lisboa 1254 C.Social 27932,69\n\n2019-02-25 (LJ:01       FATURA\n11:37     ORIGINAL    C3/1318014\nCI:          5677 NIF:510776914\nFLIKEHOME MEDIACAO IMOBILIARIA LDA\nLISBOA\n\nIva      Cod.      Descricao     Qtd   Preco\n23 8693357315815 CONJ 4 CALICE  1x     4.90\n\nSUB-TOTAL:                         3.98\nDinheiro                           4.90\n\nTOTAL........                      4.90\n\nTaxa       Incidencias Iva  Valor Iva\n3- 23.00%           3.98        0.92\n\nOBRIGADO PELA VISITA\nPRAZO DE TROCAS : 15 DIAS\nN.registos:           1   N.artigos : 1.000\nOperador: Geral\nB6ng-Processado por programa certificado 560/AT"
+  }
+}

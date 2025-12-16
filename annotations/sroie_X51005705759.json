@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "MYDIN MART SRI MUDA",
+    "address": "4-20, Jalan Ria 25/62 Taman Sri Muda, Seksyen 25, 40400 Shah Alam Selangor",
+    "phone": "03-51217970",
+    "tax_id": "000429166592",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-08-01",
+    "time": "03:56:06",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 109.9,
+    "tax": 6.19,
+    "tip": 0.0,
+    "total": 109.9,
+    "accounting_category": "Business Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ABBA FILE HD CVR SILVER F4",
+      "quantity": 10,
+      "unit_price": 5.7,
+      "total_price": 57.0,
+      "category": "Office Supplies",
+      "accounting_category": "Business Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PAPER ONE COPIER PAPER A4",
+      "quantity": 1,
+      "unit_price": 47.5,
+      "total_price": 47.5,
+      "category": "Office Supplies",
+      "accounting_category": "Business Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PLASTIC BAG",
+      "quantity": 2,
+      "unit_price": 0.2,
+      "total_price": 0.4,
+      "category": "Miscellaneous",
+      "accounting_category": "Miscellaneous Expense",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "QUALITY BRWN FILE, ASSRT",
+      "quantity": 2,
+      "unit_price": 2.5,
+      "total_price": 5.0,
+      "category": "Office Supplies",
+      "accounting_category": "Business Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 15,
+    "rounding": 0.0,
+    "change_due": 40.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005705759.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MYDIN TRI SHAAS SDN BHD (728515-M) MYDIN MART SRI MUDA 4-20, Jalan Ria 25/62 Taman Sri Muda Seksyen 25, 40400 Shah Alam Selangor Tel : 03-51217970 Fax : 03-51218059 GST ID: 000429166592 RECEIPT Terminal: 195 - 5505POS011 Trans #: 319242 Date : 1/08/2017 03:56:06PM Cashier : CH102723 MSM- RAWANI ABBA FILE HD CVR SILVER F4 404/A EA .S 9557225100066 10 * 5.70 57.00 PAPER ONE COPIER PAPER A4 70GM 5 CAR .S 8993242592476 1 * 47.50 47.50 PLASTIC BAG RM0.20 EA .S 300000017984 2 * 0.20 0.40 QUALITY BRWN FILE, ASSRT EA .S 9555052493786 2 * 2.50 5.00 Item Count 15 total 109.90 Rounding Adjustment 0.00 Total After Rounding 109.90 Cash 150.00 CHANGE 40.10 GST Rate Amt Excl GST(RM) Tax(RM) S = 6% 103.71 6.19 Z = 0% 0.00 0.00 * Your Total Savings 2.00 * Points Missed: 103 Join our Meriah Loyalty Programme today! Print Date: 1/08/2017 03:56:08PM"
+  }
+}

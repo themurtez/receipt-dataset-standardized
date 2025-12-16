@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Dynamic",
+    "address": "Address Unavailable",
+    "phone": "Phone Unavailable",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 23600.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 23600.0,
+    "accounting_category": "Food",
+    "category_confidence": 0.8
+  },
+  "items": [
+    {
+      "name": "PIS COK KEJU",
+      "quantity": 1,
+      "unit_price": 11500.0,
+      "total_price": 9200.0,
+      "category": "Food Item",
+      "accounting_category": "Snacks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "COKLAT KEJU",
+      "quantity": 1,
+      "unit_price": 11000.0,
+      "total_price": 8800.0,
+      "category": "Food Item",
+      "accounting_category": "Snacks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BANANA KISMIS",
+      "quantity": 1,
+      "unit_price": 8000.0,
+      "total_price": 5600.0,
+      "category": "Food Item",
+      "accounting_category": "Snacks",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 26400.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000063.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Dynamic\n\nPIS COK KEJU 11,500\nDISC ITEM -20.000%\nAMOUNT -2,300\nCOCKLAT KEJU 11,000\nDISC ITEM -20.000%\nAMOUNT -2,200\nBANANA KISMIS 8,000\nDISC ITEM -30.000%\nAMOUNT -2,400\nSUBTOTAL 23,600\nTOTAL 23,600\nCASH 50,000\nCHANGE 26,400"
+  }
+}

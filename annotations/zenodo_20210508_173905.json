@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Worten",
+    "address": "Edificio Amoreiras Plaza, Rua Maria Ulrich, 1 1070-169 Lisboa",
+    "phone": "",
+    "tax_id": "503630330",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-11-01",
+    "time": "18:27:00",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 40.64,
+    "tax": 9.35,
+    "tip": 0.0,
+    "total": 49.99,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Irradiador Oleo ORBEGOZO R",
+      "quantity": 1,
+      "unit_price": 49.99,
+      "total_price": 49.99,
+      "category": "Home Appliances",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.01
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_173905.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "WRT Amoreiras\nWORTEN Equipamentos para o Lar SA\nEdificio Amoreiras Plaza, Rua Maria Ulrich, 1 1070-169\nLisboa\nRegistada CRC Porto sob nº 503630330\nNIF: PT503630330\nC.S: 4.600.00 EUR SIRPEE: PT001257\nFatura Original\nNro: FV HAX003/009275 01/11/2018 18:27\nCliente: FLIKHEome MEDIACAO IMOBILIARIA LDA\nNIF: PT510776914\nMorada: LISBOA\nLocal: LISBOA\nC. Postal:\nIVA DESCRICAO VALOR\nPequenos Domesticas:\n(C) 843604543607 IRRADIADOR OLEO\nORBEGOZO R\n49,99\nTOTAL A PAGAR 49,99\nNumerario 50,00\nTROCO 0,01\n\t€\tIVA Total Liq. IVA Total\n23,00% 40,64 9,35 49,99\n\t€\n0000000025049 6019009\nVdCr-Processado por programa certificado\nN. 1356/\n5196 0003 58323 250905 - 100120284515296\nLocal carga: Morada da loja\nLocal descarga: Morada do cliente\nData: 01/11/2018 Hora: 18:27\nIVA INCLUIDO\nTalao Indispensável para troca\nPrazo de devolucao: 15 dias\n*** OBRIGADO ***\nNão estão abrangidos pela política de\nsatisfação/devolução os artigos com ativação em caixa\n"
+  }
+}

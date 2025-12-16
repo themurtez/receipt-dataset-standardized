@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "99 Speed Mart S/B",
+    "address": "Lot P.T. 33198, Batu 4, Jalan Kapar, Mukim Kapar, 42100 Klang, Selangor",
+    "phone": "",
+    "tax_id": "000181747712",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-06-04",
+    "time": "21:28:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 1.98,
+    "tax": 0.12,
+    "tip": 0.0,
+    "total": 2.1,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Gardenia Squiggles Cho",
+      "quantity": 2,
+      "unit_price": 1.05,
+      "total_price": 2.1,
+      "category": "Snacks",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 3.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619854.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "99 SPEED MART S/B (519537-X)\nLOT P.T. 33198, BATU 4\nJALAN KAPAR, MUKIM KAPAR\n42100 KLANG, SELANGOR\n1174-PERMATA MAGNA\nGST ID. NO : 000181747712\nINVOICE NO : 17689/103/70184\n09:28PM 560811 04-06-16\n9178 GARDENIA SQUIGGLES CHO\n@2 X RM 1.05\nTotal Sales (Inclusive GST) RM 2.10\nCASH RM 5.10\nCHANGE RM 3.00\nGST Summary Amount(RM) Tax(RM)\ns = 6% 1.98 .12\nThank You, Please come again\nKeep the invoice for applicable returns"
+  }
+}

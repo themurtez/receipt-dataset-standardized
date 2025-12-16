@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Chandra Datta Kandel",
+    "address": "Rua dos Fanqueiros nº102/108\n1100 232 Lisboa",
+    "phone": "",
+    "tax_id": "260788546",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-04-29",
+    "time": "09:54:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 2.03,
+    "tax": 0.47,
+    "tip": 0.0,
+    "total": 2.5,
+    "accounting_category": "Retail",
+    "category_confidence": 0.85
+  },
+  "items": [
+    {
+      "name": "Vassoura",
+      "quantity": 1,
+      "unit_price": 2.03,
+      "total_price": 2.03,
+      "category": "Household",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_225028.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Chandra Datta Kandel\nNIF 260788546\nRua dos Fanqueiros nº102/108\n1100 232 Lisboa\n\nFactura Simplificada nº 32 32/55047\nOriginal Data: 2019-04-29 09:54\nNome: 510776914\nContribuinte: 510776914\n\nDesignação        Qt  IVA  Preço\nVassoura          1  23%  2.50 €\n\nTotal liquido:    2.03 €\n\nResumo IVA:       23%  0.47 €\nTotal IVA:             0.47 €\n\nTotal:           2.50 €\n\nNºInterno FS 55047\nbQYP-Processado por programa certificado 1380/AT Keyinvoice"
+  }
+}

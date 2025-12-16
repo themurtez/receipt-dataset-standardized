@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "SYARIKAT PERNIAGAAN GIN KEE",
+    "address": "NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR",
+    "phone": "03-40210276",
+    "tax_id": "000750673920",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-12",
+    "time": "13:02:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 7.5,
+    "tax": 0.45,
+    "tip": 0.0,
+    "total": 7.95,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SANCORA PAINT BRUSH",
+      "quantity": 1,
+      "unit_price": 7.95,
+      "total_price": 7.95,
+      "category": "Paint Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005677332.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SYARIKAT PERNIAGAAN GIN KEE (81109-A) NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR. TEL: 03-40210276 GST ID: 000750673920 SIMPLIFIED TAX INVOICE CASH Doc No. : CS00012693 Date: 12/01/2018 Cashier : USER Time: 13:02:00 Salesperson : Ref.: Item Qty S/Price Amount Tax 1 1/2\" SANCORA PAINT BRUSH 1 7.95 7.95 SR Total Qty: 1 Total Sales (Excluding GST) : 7.50 Discount : 0.00 Total GST : 0.45 Rounding : 0.00 Total Sales (Inclusive of GST) : 7.95 CASH : 7.95 G T. SUMMARY T x C de 6 Amt (RM) T x (RM) 7.50 0.45 Total: 7.50 0.45 G COD S SOLD ARE NOT RETURNABLE THANK YOU."
+  }
+}

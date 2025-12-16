@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Worten",
+    "address": "Edificio Amoreiras Plaza, Rua Maria Ulrich, 1 1070-169, Lisboa",
+    "phone": "",
+    "tax_id": "503630330",
+    "website": "www.worten.pt"
+  },
+  "transaction": {
+    "date": "2019-05-05",
+    "time": "11:47:00",
+    "currency": "EUR",
+    "payment_method": "Cartao Cliente",
+    "subtotal": 12.2,
+    "tax": 2.8,
+    "tip": 0.0,
+    "total": 15.0,
+    "accounting_category": "Services",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Servicos Tecnicos",
+      "quantity": 1,
+      "unit_price": 12.2,
+      "total_price": 15.0,
+      "category": "Services",
+      "accounting_category": "Services",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 16.77
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_200738.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Worten\nWORTEN Equipamentos para o Lar SA\nEdificio Amoreiras Plaza, Rua Maria Ulrich, 1 1070-169\nLisboa\nRegistada CRC Porto sob n 503630330\nNIF: 503630330\nCapital : 8.156.000,00 EUR SIRPEE: P1001257\nFatura Original\nNo. F ARX006/001750 05/05/2019 11:47\nCliente: FIXEHOME LDA\nNIF: PT507769194\nMorada: AV D LIBERDADE 36 1 B\nLocal : LISBOA\nC. Postal: 1200\nIVA  DESCRICAO  VALOR\nServicos Tecnicos:\nConsulta 7100004666303 SERV ENCOMENDA\nPECAS/ACESS\n15,00\nN S 592723\nTOTAL A PAGAR 15,00\nNumerario 31,77\nTROCO 16,77\nC ) IVA Total Liq. IVA Total\n23.003 12,20 2,80 15,00\nn 19055006663005950951983\nJSSD-Processado por programa certificado\nN. 1356/Cartao Cliente no XXXXXXXXX40872X\n35359 215550 35359 215550 1042150472134X\nLocal carga: Morada da loja\nLocal descarga: Morada do Cliente\nData : 05/05/2019 Hora: 11:47\nIVA INCLUIDO\nTalao Indispensavel para troca\nPrazo de devolucao: 15 dias\n*** OBRIGADO ***\nNao estao abrangidos pela politica de\nsatisfacao/devolucoes os artigos com\nativaçao em caixa\nPara mais informacoes Consultar\nwww.worten.pt\n"
+  }
+}

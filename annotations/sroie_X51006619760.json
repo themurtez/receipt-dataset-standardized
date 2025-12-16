@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "KEDAI UBAT & RUNCIT HONG NING SDN. BHD.",
+    "address": "NO.8, JALAN LANG KUNING, KEPONG BARU, 52100 KUALA LUMPUR",
+    "phone": "03-6273 2163",
+    "tax_id": "002006136456",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-01-02",
+    "time": "11:41:47",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 27.46,
+    "tax": 1.64,
+    "tip": 0.0,
+    "total": 29.1,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CLOROX BLEACH ORIGINAL 4L",
+      "quantity": 1,
+      "unit_price": 11.9,
+      "total_price": 11.9,
+      "category": "Household",
+      "accounting_category": "Cleaning Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "COCON SALT & LEMON CANDY",
+      "quantity": 4,
+      "unit_price": 4.3,
+      "total_price": 17.2,
+      "category": "Food",
+      "accounting_category": "Candy",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619760.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KEDAI UBAT & RUNCIT HONG NING SDN. BHD.\n(717853-P)\n(GST ID No: 002006136456)\nNO.8, JALAN LANG KUNING,\nKEPONG BARU,\n52100 KUALA LUMPUR\nTel: 03-6273 2163\nBill No : POS/118958\nDate : 02/01/16 11:41:47 AM\nCashier : admin\nPayment : Cash\n\nItem Qty Price Amount\nCLOROX BLEACH ORIGINAL 4L @11.23\n935862313 1 11.90 11.90 SR\nCOCON SALT & LEMON CANDY @4.06\n935643701 4 4.30 17.20 SR\n\nNet Amt @ GST 6% : 29.10\nCash Paid : 29.10\nCard Paid : 0.00\nChange : 0.00\nRound Adj. : 0.00\nGST Summary Amount Tax\nSR @6% 27.46 1.64\n\nTHANK YOU\nPLEASE COME AGAIN"
+  }
+}

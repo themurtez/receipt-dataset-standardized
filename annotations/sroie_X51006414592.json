@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "UNIHUKKA INTERNATIONAL SDN BHD",
+    "address": "12, Jalan Tampoi 7/4, Kawasan Perindustrian Tampoi, 81200 Johor Bahru, Johor",
+    "phone": "",
+    "tax_id": "867388-U",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-13",
+    "time": "18:12:00",
+    "currency": "USD",
+    "payment_method": "CASH",
+    "subtotal": 7.6,
+    "tax": 0.43,
+    "tip": 0.0,
+    "total": 7.6,
+    "accounting_category": "Restaurants/Dining",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "1 Meat + 3 Vege",
+      "quantity": 1,
+      "unit_price": 7.1,
+      "total_price": 7.1,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Add Vegetable",
+      "quantity": 1,
+      "unit_price": 0.5,
+      "total_price": 0.5,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006414592.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "UNIHUKKA INTERNATIONAL SDN BHD\n13 Apr 2018 18:12\n(867388-U)\n12, Jalan Tampoi 7/4,Kawasan Perindustrian\nTampoi,81200 Johor Bahru,Johor\nTAX INVOICE\nInvoice # : OR18041302160363\n\nItem                  Qty        Total\nSR I001000000035- 1 Meat + 3 Vege\n$7.10                 1          $7.10\nSR I001000000064-Add Vegetable\n$0.50                 1          $0.50\n\nTotal Amount: $7.60\nGST @6%: $0.43\nNett Total: $7.60\n\nPayment Mode          Amount\nCASH                  $7.60\nChange                $0.00\n\nGST Summary          Amount($)     Tax($)\nSR = GST @6%         7.17          0.43\n\nGST REG #000656195584\nBAR WANG RICE@PERMAS JAYA\n(Price Inclusive Of GST)\nThank You & Come Again!\nLike and Follow Us on Facebook!\nFacebook.com/BarWangRice\n"
+  }
+}

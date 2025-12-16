@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "99 SPEED MART S/B",
+    "address": "LOT P.T. 33198, BATU 4, JALAN KAPAR, MUKIM KAPAR, 42100 KLANG, SELANGOR, 1558-TMN PUSAT KEPONG",
+    "phone": "",
+    "tax_id": "000181747712",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-09-20",
+    "time": "21:46:00",
+    "currency": "MYR",
+    "payment_method": "cash",
+    "subtotal": 13.4,
+    "tax": 0.8,
+    "tip": 0.0,
+    "total": 14.2,
+    "accounting_category": "beverages",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TIGER BEER BOTTLE 660ML",
+      "quantity": 1,
+      "unit_price": 14.2,
+      "total_price": 14.2,
+      "category": "beverages",
+      "accounting_category": "beverages",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.8
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006620437.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "99 SPEED MART S/B (519537-X)\nLOT P.T. 33198, BATU 4\nJALAN KAPAR, MUKIM KAPAR\n42100 KLANG, SELANGOR\n1558-TMN PUSAT KEPONG\nGST ID. NO : 000181747712\nINVOICE NO : 17796/103/T0356\n09:46PM 561915 20-09-16\n559 TIGER BEER BOTTLE 660ML RM14.20 s\nTotal Sales (Inclusive GST) RM 14.20\nCASH RM 15.00\nCHANGE RM .80\nGST Summary Amount(RM) Tax(RM)\ns = 6% 13.40 .80\nThank You. Please come again\nKeep the invoice for applicable returns"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Tomas Ribeiro",
+    "address": "Pingo Doce, Avenida Actor António Silva, Lisboa",
+    "phone": "213136180",
+    "tax_id": "500296393",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-08-11",
+    "time": "15:22:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 17.42,
+    "tax": 0.79,
+    "tip": 0.0,
+    "total": 14.01,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Melão V. Selec. PD",
+      "quantity": 1,
+      "unit_price": 3.56,
+      "total_price": 3.56,
+      "category": "Fruits & Vegetables",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Laranja XL",
+      "quantity": 1,
+      "unit_price": 1.47,
+      "total_price": 1.47,
+      "category": "Fruits & Vegetables",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Uva Preta",
+      "quantity": 1,
+      "unit_price": 4.67,
+      "total_price": 4.67,
+      "category": "Fruits & Vegetables",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Kiwi Green Zespri",
+      "quantity": 1,
+      "unit_price": 0.9,
+      "total_price": 0.9,
+      "category": "Fruits & Vegetables",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Morango MB 500G",
+      "quantity": 1,
+      "unit_price": 3.78,
+      "total_price": 3.78,
+      "category": "Fruits & Vegetables",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Saco Plast Recicl PD",
+      "quantity": 1,
+      "unit_price": 0.1,
+      "total_price": 0.1,
+      "category": "Cleaning Products",
+      "accounting_category": "Household",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_201347.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TOMAS RIBEIRO\nTel.: 213136180\nPingo Doce - Distribuição Alimentar, S.A.\nLojas: R Actor António Silva, nº 7, 1649-033, Lisboa\nRegisto: C.R.C. Lisboa-Matrícula/NIPC: 500296393\nArtigos\nFRUTAS E VEGETAIS\nC 6Z MELAO V. SELEC. PD\n3.560 X 0,99\nPoupança Imediata\nC 6Z LARANJA XL 3/4/5\n1.486 X 0,99\nPoupança Imediata\nC 6Z UVA PRETA\n1.786 X 2,63\nPoupança Imediata\nC 6Z KIWI GREEN ZESPRI\n0,924 X 3,99\nC 6Z MORANGO MB 500G\n2 X 1,89\nPoupança Imediata\nDETERG. E PROD. LIMPEZA\nE 23% SACO PLAST RECICL PD\nResumo\nTOTAL\nTOTAL POUPANÇA\nTOTAL À PAGAR\nTOTAL PAGO\nEURO\nTaxa C, 12%\nE 23%\nNesta Compra Poupo\n\n3,56\n(1,08)\n1,47\n(0,50)\n4,67\n(1,78)\n0,90\n3,78\n\n0,10\n17,42\n3,41\n\n14,01\n\nPagamentos\n14,01\n\nValor s/IVA\n13,08\n0,02\n\nAtendido por: Filipa Lobo\n408784 2019-08-11 15:22 0001 004 00440\n\nFilkhome Lda\nMorada: AV da Liberdade 36\nMorada do Cliente\nData: 2019-08-11 Hora: 15:22\nNecessário para troca em 15 dias\nApoio ao Cliente\n"
+  }
+}

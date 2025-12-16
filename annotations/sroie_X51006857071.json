@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "K Stationery & Office Supplies",
+    "address": "NO.9, Jalan Manis 3, Taman Segar, Cheras, 56100 Kuala Lumpur",
+    "phone": "03-91321611",
+    "tax_id": "001506548064",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-07-15",
+    "time": "12:07:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 148.0,
+    "tax": 6.38,
+    "tip": 0.0,
+    "total": 148.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Name Card",
+      "quantity": 1,
+      "unit_price": 148.0,
+      "total_price": 148.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006857071.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "K STATIONERY & OFFICE SUPPLIES\nNO.9, JALAN MANIS 3, TAMAN SEGAR\nCHERAS, 56100 KUALA LUMPUR.\nTEL: 03-91321611 | FAX: 03-91321654\nEmail: kstationery@gmail.com\nCompany Reg No.: 001260452-W\nGST Reg No.: 001506548064\nTAX INVOICE\nInvoice No.: CSA34539\nDate : 15/07/2017 12:07\nCashier #: 1\nNAME CARD RM Code\n1 x 148.00 148.00 SR\nSubtotal : 148.00\nTotal Excl. of GST 139.62\nTotal Incl. of GST 148.00\nPayment : 148.00\nChange Due : 0.00\nTotal Item(s) : 1\nGST Summary Amount(RM) Tax (RM)\nSR @ 6% 139.62 8.38\n****** THANK YOU! ******\n**** PLEASE COME AGAIN ****"
+  }
+}

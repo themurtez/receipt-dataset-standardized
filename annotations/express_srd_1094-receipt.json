@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Pokeatery CV",
+    "address": "18911 Lake Chabot Road, Castro Valley, CA 94546",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-12-29",
+    "time": "14:01:00",
+    "currency": "USD",
+    "payment_method": "Visa",
+    "subtotal": 13.5,
+    "tax": 1.25,
+    "tip": 1.48,
+    "total": 16.23,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Poke Box Regular, Avocado",
+      "quantity": 1,
+      "unit_price": 13.5,
+      "total_price": 13.5,
+      "category": "Food & Beverage",
+      "accounting_category": "Meal",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1094-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Pokeatery CV\n18911 Lake Chabot Road\nCastro Valley, CA 94546\nDecember 29, 2018 2:01 PM\nRamelle\nReceipt: 3zCW\nAuthorization: 060071\nCHASE VISA\nAID A0 00 00 00 03 10 10\nPoke Box\nRegular, Avocado ($1.00) $13.50\nSubtotal $13.50\nCastro Valley Sales Tax $1.25\nTip $1.48\nTotal $16.23\nVisa 0642 (Chip) $16.23"
+  }
+}

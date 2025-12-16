@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "A Fung",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 49636.0,
+    "tax": 4964.0,
+    "tip": 0.0,
+    "total": 54600.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Baso Tahu",
+      "quantity": 1,
+      "unit_price": 43636.0,
+      "total_price": 43636.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Nasi Putih",
+      "quantity": 1,
+      "unit_price": 6000.0,
+      "total_price": 6000.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 5500.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000056.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BASO TAHU 1 43.636 43,636\nNASI PUTIH 1 6.000 6,000\nTOTAL 49,636\nTAX 10.00 % 4,964\nGRAND TOTAL 54,600\nTUNAI 60,100\nKEMBALI 5.500"
+  }
+}

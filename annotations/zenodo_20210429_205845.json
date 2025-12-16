@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Prime Food, SA",
+    "address": "Praca dos Restauradores, n.62-68, 1250-110 Lisboa",
+    "phone": "211325435",
+    "tax_id": "504273183",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-10-21",
+    "time": "13:45:51",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 3.36,
+    "tax": 0.44,
+    "tip": 0.0,
+    "total": 3.8,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Nata",
+      "quantity": 2,
+      "unit_price": 1.0,
+      "total_price": 2.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cafe",
+      "quantity": 1,
+      "unit_price": 1.8,
+      "total_price": 1.8,
+      "category": "Beverage",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 6.2
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_205845.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Fabrica da Nata - Restauradores\nPrime Food, SA\nMorada: Praca dos Restauradores, n.62-68\n1250-110 Lisboa\nSede: Rua Ivone Silva n.6 19.\nNo. Contribuinte: 504273183\nTelefone: 211325435\nE-mail: primefood@primefood.pt\n\nFatura simplificada FS 022/1349832\nOriginal\nData: 2019-10-21        Hora: 13:45:51\n\nQt Artigo    IV     Total\n2  Nata     13    2.00\n1  Cafe     13    1.80\n3  *CHEIO   13    0.00\n\nTotal:           3.80\nTroco:           6.20\n\nTaxa        Base   IVA      Total\n13.00     3.36   0.44     3.80\n\nAtendido por: Souto\n** Codigo WC 3366 **\nProcessado por Computador\nIVA Incluido\n\nCopyright GrupoPIE, SA"
+  }
+}

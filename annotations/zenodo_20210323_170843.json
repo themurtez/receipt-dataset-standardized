@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Sol Dourado Shopping",
+    "address": "Sítio do Semino 484 A, 8125-303 Quarteira",
+    "phone": "963301878",
+    "tax_id": "247408958",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-07-12",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "cash",
+    "subtotal": 11.5,
+    "tax": 2.65,
+    "tip": 0.0,
+    "total": 14.15,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Suporte para Telemovel",
+      "quantity": 1,
+      "unit_price": 3.95,
+      "total_price": 3.95,
+      "category": "Electronics",
+      "accounting_category": "Accessories",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lampada LED",
+      "quantity": 1,
+      "unit_price": 1.95,
+      "total_price": 1.95,
+      "category": "Home Improvement",
+      "accounting_category": "Lighting",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lampada LED",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Home Improvement",
+      "accounting_category": "Lighting",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lampada LED",
+      "quantity": 2,
+      "unit_price": 1.75,
+      "total_price": 3.5,
+      "category": "Home Improvement",
+      "accounting_category": "Lighting",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "LED Lampada",
+      "quantity": 1,
+      "unit_price": 2.25,
+      "total_price": 2.25,
+      "category": "Home Improvement",
+      "accounting_category": "Lighting",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 5.85
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_170843.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SOL DOURADO SHOPPING\nCHEN SHUANG\nContribuinte Nr 247408958\nSITIO DO SEMINO 484 A\n8125-303 QUARTEIRA\nTel: 963301878\n2019-07-12\n\nNome : Flikehome Algarve, Lda\nCont.Nr: 514407395\nMorada : lisboal\n\nORIGINAL\nFatura Nr: FAC 201/00084215\n\nIVA Descricao\n\n23% SUPORTE PARA TELEMOVEL\n1 X 3.95\n\n23% LAMPADA LED\n1 X 1.95\n\n23% LAMPADA LED\n1 X 2.50\n\n23% LAMPADA LED\n2 X 1.75\n\n23% LED LAMPADA\n1 X 2.25\n\nTotal A Pagar Euros: 14.15\nNumero De Artigos: 6\n\nRecebido (Euros) : 20.00\nTroco (Euros) : 5.85\n\nIVAX Base IVA Total\n23% 11.50 2.65 14.15\n\nTotal: 14.15 Euros\n\nFatura indispensavel para troca em 8 dias.\ne7Gz - Processado por Programa\nCertificado Nr: 1174/A1\nOBRIGADO E VOLTE SEMPRE"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Buca di Beppo",
+    "address": "Universal City, CA 91608",
+    "phone": "818.509.9463",
+    "tax_id": "",
+    "website": "bucadibeppo.com"
+  },
+  "transaction": {
+    "date": "2016-07-15",
+    "time": "19:57:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 100.26,
+    "tax": 9.02,
+    "tip": 0.0,
+    "total": 109.28,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Iced Tea",
+      "quantity": 1,
+      "unit_price": 3.29,
+      "total_price": 3.29,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Sm Garlic Bread",
+      "quantity": 1,
+      "unit_price": 9.99,
+      "total_price": 9.99,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "9oz Buca Chianti (2 @14.00)",
+      "quantity": 2,
+      "unit_price": 14.0,
+      "total_price": 28.0,
+      "category": "Alcohol",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Gl Buca Chianti",
+      "quantity": 1,
+      "unit_price": 10.0,
+      "total_price": 10.0,
+      "category": "Alcohol",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Sm Chop Antipasto Salad",
+      "quantity": 1,
+      "unit_price": 18.99,
+      "total_price": 18.99,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Lg Supremo Pizza",
+      "quantity": 1,
+      "unit_price": 29.99,
+      "total_price": 29.99,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1170-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Buca di Beppo\nStore#0511\nUniversal City, CA 91608\n818.509.9463\nServer: Molly 07/15/2016\nTable 53/1 7:57 PM\nGuests: 3 40020\nOrder Type: Dining\nIced Tea 3.29\nSm Garlic Bread 9.99\n9oz Buca Chianti (2 @14.00) 28.00\nGl Buca Chianti 10.00\nSm Chop Antipasto Salad 18.99\nLg Supremo Pizza 29.99\nSubtotal 100.26\nTax 9.02\nTotal 109.28\nBalance Due 109.28"
+  }
+}

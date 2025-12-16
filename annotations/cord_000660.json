@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Card payment Debit",
+    "subtotal": 210000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 115500.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "LPS201 BL1 M",
+      "quantity": 1,
+      "unit_price": 70000.0,
+      "total_price": 38500.0,
+      "category": "Clothing",
+      "accounting_category": "Apparel",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "LPS270B W43 M",
+      "quantity": 1,
+      "unit_price": 70000.0,
+      "total_price": 38500.0,
+      "category": "Clothing",
+      "accounting_category": "Apparel",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "LPS978B RES M",
+      "quantity": 1,
+      "unit_price": 70000.0,
+      "total_price": 38500.0,
+      "category": "Clothing",
+      "accounting_category": "Apparel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000660.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "LPS201 BL1 M LW\n1 70,000 70,000\nOffer disc 45% -31,500\nLPS270B W43 M LW\n1 70,000 70,000\nOffer disc 45% -31,500\nLPS978B RES M LW\n1 70,000 70,000\nOffer disc 45% -31,500\nTotal Discount 94,500\nGrand Total 115,500\nCard payment Debit 115,500"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "VISA",
+    "subtotal": 125000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 125000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Six",
+      "quantity": 1,
+      "unit_price": 125000.0,
+      "total_price": 125000.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHOCOLATE BANANA",
+      "quantity": 2,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHOCOLATE CHOCOLATE",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "RED VELVET",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MOCHA",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "LIME & STRAWBERRIES",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Box of 6",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PL. Bag Box 6",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000550.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Six 125,000\n2 CHOCOLATE BANANA\n1 CHOCOLATE CHOCOLATE\n1 RED VELVET\n1 MOCHA\n1 LIME & STRAWBERRIES\n1 Box of 6\n1 PL. Bag Box 6\nTOTAL 125,000\nVISA 125,000"
+  }
+}

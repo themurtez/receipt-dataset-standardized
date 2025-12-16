@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "The Cut Steakhouse & Burgers",
+    "address": "Lot L1-4 Star Avenue Mall, Jalan Zuhal U5/179 Seksyen U5, Pusat Komersial Arena Bintang, 40150 Shah Alam, Selangor",
+    "phone": "03-78316111",
+    "tax_id": "000974557184",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-01-01",
+    "time": "21:14:17",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 158.08,
+    "tax": 9.48,
+    "tip": 0.0,
+    "total": 167.55,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Beef Steak Escalope",
+      "quantity": 2,
+      "unit_price": 37.5,
+      "total_price": 75.0,
+      "category": "Entree",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Chicken Dome",
+      "quantity": 1,
+      "unit_price": 27.5,
+      "total_price": 27.5,
+      "category": "Entree",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Tenderloin",
+      "quantity": 1,
+      "unit_price": 43.5,
+      "total_price": 43.5,
+      "category": "Entree",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Warm Water",
+      "quantity": 4,
+      "unit_price": 1.5,
+      "total_price": 6.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": -0.01,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006334742.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "The Cut Steakhouse & Burgers\nLot L1-4 Star Avenue Mall\nJalan Zuhal U5/179 Seksyen U5\nPusat Komersial Arena Bintang\n40150 Shah Alam, Selangor\nTel : 03-78316111\n(GST Reg. No : 000974557184)\nTax Invoice\nTable 30\nINV No. : 507684 Pax(s): 4\nDate : 01-01-2017 21:14:17\nCashier: Sham\nDescription Qty U.price total TAX\n---\nBeef Steak Escalope 2 x 37.50 75.00\nChicken Dome 1 x 27.50 27.50\nTenderloin 1 x 43.50 43.50\nWARM WATER 4 x 1.50 6.00\n---\nTotal QTY: 8\nTotal (Excluding GST 158.08\nGST Payable (6%): 9.48\nTotal (Inclusive): 167.56\nRounding Adj: -0.01\nTOTAL: 167.55"
+  }
+}

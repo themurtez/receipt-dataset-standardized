@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "BOOK T.A.K (TAMAN DAYA) SDN BHD",
+    "address": "NO. 55, 57 & 59, JALAN SAGU 18, TAMAN DAYA, 81100 JOHOR BAHRU, JOHOR.",
+    "phone": "",
+    "tax_id": "789117-W",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-12-25",
+    "time": "20:13:39",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 9.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 9.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "KF MODELLING CLAY KIDDY FISH",
+      "quantity": 1,
+      "unit_price": 9.0,
+      "total_price": 9.0,
+      "category": "Art Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 1.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X00016469612.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "tan woon yann\nBOOK TA .K (TAMAN DAYA) SDN BHD\n789117-W\nNO. 55 57 & 59, JALAN SAGU 18,\nTAMAN DAYA,\n81100 JOHOR BAHRU,\nJOHOR.\n\nDocument No.: TD01167104\nDate: 25/12/2018 8:13:39 PM\nCashier : MANIS\nMember :\n\nCASH BILL\n\nCODE/DESC PRICE Disc AMOUNT\nQTY RM RM\n9556939040116 KF MODELLING CLAY KIDDY FISH\n1 PC * 9.00 0.00 9.00\n\nTotal : 9.00\nRoun  ding Adjustment : 0.00\nRound: d Total (RM): 9.00\nCash 10.00\nCHANGE 1.00\n\nGOODS SOLD ARE NOT RETURNABLE OR\nEXCHANGEABLE\n谢谢 惠顾, 请再来!\n\nTHANK YOU\nPLEASE COME AGAIN !"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (M) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000306020352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-01-08",
+    "time": "11:55:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 61.04,
+    "tax": 3.66,
+    "tip": 0.0,
+    "total": 64.7,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CUSHION 43X43CM",
+      "quantity": 1,
+      "unit_price": 14.9,
+      "total_price": 14.9,
+      "category": "Home",
+      "accounting_category": "Home Decor",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "COLANDER 12610#XS",
+      "quantity": 1,
+      "unit_price": 5.9,
+      "total_price": 5.9,
+      "category": "Kitchen",
+      "accounting_category": "Kitchenware",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "S/S SQUARE STAND SSB0775-A#",
+      "quantity": 1,
+      "unit_price": 6.5,
+      "total_price": 6.5,
+      "category": "Kitchen",
+      "accounting_category": "Kitchenware",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MOSQUITO RACKET 108#",
+      "quantity": 5,
+      "unit_price": 2.5,
+      "total_price": 12.5,
+      "category": "Garden",
+      "accounting_category": "Insect Control",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "STEMGLASS ST01-9AW/6WGB-CG 8ST 9oz",
+      "quantity": 1,
+      "unit_price": 13.5,
+      "total_price": 13.5,
+      "category": "Kitchen",
+      "accounting_category": "Glassware",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MOSQUITO RACKET 108#",
+      "quantity": 1,
+      "unit_price": 24.9,
+      "total_price": 24.9,
+      "category": "Garden",
+      "accounting_category": "Insect Control",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "RETURNED ITEM",
+      "quantity": -1,
+      "unit_price": -13.5,
+      "total_price": -13.5,
+      "category": "Return",
+      "accounting_category": "Returns",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 35.3
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619765.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. D.I.Y. (M) SDN BHD\nCo-REG:860671-D\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000306020352)\n(SELAYANG MALL)\n-TAX INVOICE-\nCUSHION 43X43CM *S\nNZ-06/07 - 5/40\n9032550 1 X 14.90 14.90\nCOLANDER 12610#XS *S\n1A00 - 6/96\n6934091490607 1 X 5.90 5.90\nS/S SQUARE STAND SSB0775-A# *S\nUK11 - 5/80\n6942008427899 1 X 6.50 6.50\nPOT HOLDER (SQUARE) *S\nMC52 - 10/300\n9067846 5 X 2.50 12.50\nMOSQUITO RACKET 108# *S\nNA41/2-51 - 25/50\n9021485 1 X 13.50 13.50\nSTEMGLASS ST01-9AW/6WGB-CG 8ST 9oz *S\nQA31-42 - 8\n8992787966728 1 X 24.90 24.90\nMOSQUITO RACKET 108# *S\nNA41/2-51 - 25/50\n9021485 -1 X 13.50 -13.50\nItem(s) : 7 Qty(s) : 9\nTOTAL INCL. GST@6% RM 64.70\nCASH RM 100.00\nCHANGE RM 35.30\nGST @6% included in total RM 3.66\n08-01-16 11:55 SHO1 ZJ08 T3 RO00270508\nOPERATOR SLC - EALIL ARASI\nEXCHANGE ARE ALLOWED WITHIN\n3 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND.\n* DUPLICATE COPY *\n08-01-2016 11:56"
+  }
+}

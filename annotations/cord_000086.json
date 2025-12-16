@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 20000.0,
+    "tax": 2060.0,
+    "tip": 0.0,
+    "total": 22660.0,
+    "accounting_category": "Food",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BUNCIS MUDA",
+      "quantity": 1,
+      "unit_price": 20000.0,
+      "total_price": 20000.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000086.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 BUNCIS MUDA  TE 20.000\nQty: 1 Subtotal 20.000\nSC 600\nTax Total 2.060\nGrand Total 22.660"
+  }
+}

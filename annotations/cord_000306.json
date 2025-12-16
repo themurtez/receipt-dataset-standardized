@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "NATURE REPUB",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 25975.0,
+    "tax": 2727.0,
+    "tip": 0.0,
+    "total": 30000.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PAKET DOSIRAK 1",
+      "quantity": 1,
+      "unit_price": 25975.0,
+      "total_price": 25975.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000306.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "NATURE REPUB\nPAKET DOSIRAK 1\nPAKET DOSIRAK 1\nICE SWEET JASMINE GREENTEA\nSubtotal 25,975\nServices 1,298\nTax 2,727\nTotal 30,000"
+  }
+}

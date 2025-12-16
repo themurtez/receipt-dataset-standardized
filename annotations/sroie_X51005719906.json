@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Zen and coffee 28 S/B",
+    "address": "No 53, Jalan 3/62A, Bandar Menjalara, 52200 Kuala Lumpur.",
+    "phone": "03-62619337",
+    "tax_id": "001363259392",
+    "website": "www.arms-fnb.com"
+  },
+  "transaction": {
+    "date": "2018-03-25",
+    "time": "21:27:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 105.0,
+    "tax": 5.95,
+    "tip": 0.0,
+    "total": 105.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Saba Shioyaki Wazen (20mins)",
+      "quantity": 1,
+      "unit_price": 26.0,
+      "total_price": 26.0,
+      "category": "Main Course",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Unagi Don",
+      "quantity": 1,
+      "unit_price": 28.0,
+      "total_price": 28.0,
+      "category": "Main Course",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Spicy ASARI Pasta",
+      "quantity": 1,
+      "unit_price": 19.0,
+      "total_price": 19.0,
+      "category": "Main Course",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ebi Mentai Pasta",
+      "quantity": 1,
+      "unit_price": 22.0,
+      "total_price": 22.0,
+      "category": "Main Course",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Jasmine Green Tea",
+      "quantity": 1,
+      "unit_price": 10.0,
+      "total_price": 10.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005719906.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Zen and coffee 28 S/B\nNo 53, Jalan 3/62A,\nBandar menjalara,\n52200 Kuala Lumpur.\n(GST Number: 001363259392)\n\nDate: 25 Mar 2018 9:27PM\nReceipt No: 57269\nServed By: Cashier\nPax: 2\nTable: L2\n\n1 Saba shioyaki wazen (20mins) 26.00 S\n1 Unagi don 28.00 S\n1 Spicy ASARI Pasta 19.00 S\n1 Ebi Mentai Pasta 22.00 S\n1 Jasmine Green Tea 10.00 S\n* Extra 1 Tea Cup\n\nSubtotal: 105.00\nTotal: 105.00\nCash: 105.00\nChange: 0.00\n\n*********** GST Summary ***********\nTax Code Amount Tax\nS @6% 99.05 5.95\n***********************************\n\nBusiness Hour :\nMON-FRI 11:30am -10:00pm\nSAT-SUN 11:00am-10:00pm\n\nTel: 03-62619337\nEmail: zenandcoffee88@gmail.com\nFacebook: zenandcoffee\nInstagram: ZenAndCoffee\nWifi Password: zenandcoffee\n\nThank You, Please come again.\n\nPowered by ARMS F&B (www.arms-fnb.com)"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Hiro Japanese Restaurant",
+    "address": "3007 NE 163rd Street, North Miami Beach, FL 33160",
+    "phone": "(305) 948-3687",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-02-13",
+    "time": "13:09:45",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 15.9,
+    "tax": 1.28,
+    "tip": 0.0,
+    "total": 17.18,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Ton Katsu",
+      "quantity": 1,
+      "unit_price": 8.95,
+      "total_price": 8.95,
+      "category": "Main Course",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Makimono",
+      "quantity": 1,
+      "unit_price": 6.95,
+      "total_price": 6.95,
+      "category": "Main Course",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1129-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "HIRO JAPANESE RESTAURANT\n3007 NE 163RD STREET\nNorth Miami Beach, FL 33160\n(305) 948-3687\nServer: HUGO\nOrder #: 209744\nStation: 2\nTable: 12\nDine In Guests: 2\n1 (L)Ton Katsu 8.95\n1 (L) Makimono 6.95 \nSUB TOTAL: 15.90\nTax 1: 1.28\nTOTAL: $17.18\n>> Ticket #: 20 <<\n2/13/2018 1:09:45 PM\nTHANK YOU!"
+  }
+}

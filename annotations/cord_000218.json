@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "BCA Card",
+    "subtotal": 398000.0,
+    "tax": 41949.0,
+    "tip": 0.0,
+    "total": 421641.0,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Grilled Dorry Fish",
+      "quantity": 1,
+      "unit_price": 42000.0,
+      "total_price": 42000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Set Menu Family",
+      "quantity": 1,
+      "unit_price": 318000.0,
+      "total_price": 318000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Teppan Seafood Udon",
+      "quantity": 1,
+      "unit_price": 38000.0,
+      "total_price": 38000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000218.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Grilled Dorry Fish 42,000\n1 Set Menu Family 318,000\n1 Teppan Seafood Udon 38,000\nSUBTOTAL 398,000\nDisc 10% XXI 39,800\nSC 6% 21,492\nPBI 10% 41,949\nTOTAL 421,641\nBCA Card 421,641"
+  }
+}

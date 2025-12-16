@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Restaurant Jiawei",
+    "address": "13, Jln Tasik Utama 8, Medan Niaga Damai Sg Besi, 57000 KL",
+    "phone": "",
+    "tax_id": "002693074-K",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-11-05",
+    "time": "13:14:32",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 27.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 27.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Butter Cream Chicken Rice",
+      "quantity": 3,
+      "unit_price": 9.0,
+      "total_price": 27.0,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 23.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008128062.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "RESTAURANT JIAWEI\nJIAWEI HOUSE\n002693074-K\n13, JLN TASIK UTAMA 8\nMEDAN NIAGA DAMAI SG BESI\n57000 KL\nINVOICE\n\nInvoice :13834    Cashier :admin\nPOS No: 1\nDate : 11/5/2018 13:14:32\nTable : T. AWAY 1\nITEM       QTY    U/P(RM)  DISC(%)   Amt(RM)\nButter Cream Chicken Rice\n3          9.00   0.00     2\nSub Total Before Discount RM 27.00\nService Charge            RM 0.00\nTotal Sales               RM 27.00\nRounding Adjustment       RM 0.00\nTOTAL                     RM 27.00\nCASH                      RM 50.00\nCHANGE                    RM 23.00"
+  }
+}

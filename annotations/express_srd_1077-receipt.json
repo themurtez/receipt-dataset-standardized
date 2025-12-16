@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Naanching",
+    "address": "103 Montgomery St, Jersey City, NJ 07302",
+    "phone": "",
+    "tax_id": "2019840709",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-24",
+    "time": "19:14:55",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 56.0,
+    "tax": 3.71,
+    "tip": 0.0,
+    "total": 69.79,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Chicken Lollipop",
+      "quantity": 1,
+      "unit_price": 9.0,
+      "total_price": 9.0,
+      "category": "Appetizer",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Thai Fried Rice",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Chicken Tikka Masala",
+      "quantity": 1,
+      "unit_price": 16.0,
+      "total_price": 16.0,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Naan",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Side",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Vegetable Biryani",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Mango Lassi",
+      "quantity": 1,
+      "unit_price": 4.0,
+      "total_price": 4.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1077-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "NAANCHING\n103 MONTGOMERRY ST\nJERSEY CITY, NJ 07302\n2019840709\n\nORDER: SECOND FLOOR 19\nDine-in\n\nCashier: Kiran\n24-Mar-2019 7:14:55P\n1   Chicken Lollipop       Med $9.00\n   \n1   Thai Fried Rice        $12.00\n        Vegetables $0.00\n        Med $0.00\n \n1   Chicken Tikka Masala   $16.00\n        MILD PLEASE\n \n1   Naan                   $3.00\n1   Vegetable Biryani      $12.00\n        MAKE IT MILD PLEASE\n\n1   Mango Lassi            $4.00\n\nSubtotal                   $56.00\nTax                        $3.71\nService Charge (18.0%)    $10.08\n\nTotal                     $69.79"
+  }
+}

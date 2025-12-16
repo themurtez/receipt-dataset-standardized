@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "TOUS LES JOURS",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "KRW",
+    "payment_method": "CARD",
+    "subtotal": 123000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 123000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "POTATO SAUSAGE BREAD",
+      "quantity": 1,
+      "unit_price": 19000.0,
+      "total_price": 19000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "OREO GREEN TEA SPREAD",
+      "quantity": 1,
+      "unit_price": 52000.0,
+      "total_price": 52000.0,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "WHITE CHOCO BANANA SPREAD",
+      "quantity": 1,
+      "unit_price": 52000.0,
+      "total_price": 52000.0,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000221.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TOUS LES JOURS\nABC STORE\n123-4567\n1 POTATO SAUSAGE BREAD 19,000\n1 OREO GREEN TEA SPREAD 52,000\n1 WHITE CHOCO BANANA SPREAD 52,000\nTOTAL 123,000\nCARD 123,000"
+  }
+}

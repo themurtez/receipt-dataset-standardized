@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Minipreço",
+    "address": "Lg Do Calhariz, 10 1200-086 Lisboa",
+    "phone": "",
+    "tax_id": "503300388",
+    "website": "www.minipreco.com"
+  },
+  "transaction": {
+    "date": "2019-02-05",
+    "time": "08:49:00",
+    "currency": "EUR",
+    "payment_method": "Visa Electron",
+    "subtotal": 5.54,
+    "tax": 0.08,
+    "tip": 0.0,
+    "total": 5.62,
+    "accounting_category": "grocery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "JOG NATURAL DIA 6*2",
+      "quantity": 2,
+      "unit_price": 1.87,
+      "total_price": 3.74,
+      "category": "grocery",
+      "accounting_category": "grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SAO COMPRAS",
+      "quantity": 2,
+      "unit_price": 0.27,
+      "total_price": 0.54,
+      "category": "grocery",
+      "accounting_category": "grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TAMPA P/ DIA 12X125",
+      "quantity": 3,
+      "unit_price": 0.38,
+      "total_price": 1.14,
+      "category": "grocery",
+      "accounting_category": "grocery",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_191839.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MINIPREÇO\nLOJA N 2114\nLG DO CALHARIZ,10\n1200-086 LISBOA\nNumero Fiscal de Contribuinte: 503300388\nTerminal Pagamento Automatico: 00038122\nData: 2019/02/05 Hora: 08:49\nPeriodo: 059 Transação: 003 Mensagem: 908\nNumero Comerciate: 0001401386\nx x x\nCOMPRA CHIP 0000\nPRIME: SUITES/BICA\nCartão 00 ************7641/**:00.0087\n000000000032010\nVISA ELECTRON\nConta/Autorização: AUT:017145\nEUR: MILLENNIUM BCP\nEUR: VISA ELEC PP N\n*\nREDINERCIE\nINOVACAO E CONFIANCA\n*\nPROCESSADO POR SIBS\n"
+  }
+}

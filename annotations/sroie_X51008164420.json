@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Popular Book Co. (M) Sdn Bhd",
+    "address": "No 8, Jalan 7/118B, Desa Tun Razak, 56000 Kuala Lumpur, Malaysia",
+    "phone": "03-42601064/66",
+    "tax_id": "001492992000",
+    "website": "www.popular.com.my"
+  },
+  "transaction": {
+    "date": "2018-04-03",
+    "time": "19:19:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 6.89,
+    "tax": 0.41,
+    "tip": 0.0,
+    "total": 7.3,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Max HD-10K Stapler",
+      "quantity": 1,
+      "unit_price": 7.3,
+      "total_price": 7.3,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "WBD Issues 20% Rebate",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Rebate",
+      "accounting_category": "Discounts",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 2.7
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008164420.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "POPULAR BOOK\nCO. (M) SDN BHD\n(Co. No. 113825-W)\n(GST Reg No. 001492992000)\nNo 8, Jalan 7/118B, Desa Tun Razak\n56000 Kuala Lumpur, Malaysia\nAMPANG POINT CENTRE\nTel : 03-42601064/66\n---------------------------------------\n03/04/18 19:19 Slip No.: 6030099332\nMazidah Yasin Trans: 80272\n---------------------------------------\nDescription Amount\nMax HD-10K Stapler 7.30 T\nWBD Issues 20% Rebate\nTotal RM Incl. of GST 7.30\nCash -10.00\nCHANGE 2.70\n---------------------------------------\nItem Count 2\nGST Summary Amount (RM) Tax (RM)\nT @ 6% 6.89 0.41\nZ @ 0% 0.00 0.00\n---------------------------------------\nTotal Savings 0.00\n---------------------------------------\nBE A POPULAR CARD MEMBER\nAND ENJOY SPECIAL DISCOUNTS\nTHANK YOU. PLEASE COME AGAIN.\nwww.popular.com.my\nBuy Chinese books online\nwww.popularonline.com.my"
+  }
+}

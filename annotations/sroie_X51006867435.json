@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Guardian Health And Beauty Sdn Bhd",
+    "address": "No 15 Jalan Bandar Rawang 10, Bandar Baru Rawang",
+    "phone": "03-60922052",
+    "tax_id": "000847794616",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-18",
+    "time": "17:46:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 2.28,
+    "tax": 0.13,
+    "tip": 0.0,
+    "total": 2.28,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.85
+  },
+  "items": [
+    {
+      "name": "100 Plus 500ML",
+      "quantity": 1,
+      "unit_price": 2.28,
+      "total_price": 2.28,
+      "category": "Beverage",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.02,
+    "change_due": 0.7
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006867435.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Guardian Health And Beauty Sdn Bhd\nBandar Baru Rawang\nNo 15 Jalan Bandar Rawang 10\nBandar Baru Rawang\nTel:03-60922052\nCompany Reg #101068-K\nWSI Reg #000847794616\n\n121062680 100 PLUS 500ML RM 2.28 S\nSUBTOTAL 2.28\n\nTOTAL (WSI INCL.) 2.28\nCASH 3.00\nROUNDING ADJUSTMENT 0.02\nCHANGE DUE 0.70\n\nWSI - Rate - WSI Excl - WSI Amt\nS 6% 2.15 0.13\n\nThank You For Shopping\nAt Guardian\nAll Amounts Are in RM\nGoods sold are non-refundable.\nDispensed medicines sold are\nnot returnable.\nAll exchanges and returns including\nGuardian brand products must be made\nwithin 7 days with original receipts and\nproduct in original condition.\nST:8282 CTR:10305 Taxinv:2177/\n17:46 18/03/18\n"
+  }
+}

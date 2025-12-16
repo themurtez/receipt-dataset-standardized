@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "R Actor António Silva, Nº7, 1649-033 Lisboa",
+    "phone": "213136180",
+    "tax_id": "500269993",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-08-16",
+    "time": "16:00:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 8.26,
+    "tax": 0.1,
+    "tip": 0.0,
+    "total": 8.36,
+    "accounting_category": "groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Pão Carcaça BIJOU45G",
+      "quantity": 10,
+      "unit_price": 0.09,
+      "total_price": 0.9,
+      "category": "bakery",
+      "accounting_category": "groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Mant PQ Açores 250",
+      "quantity": 4,
+      "unit_price": 1.39,
+      "total_price": 5.56,
+      "category": "dairy",
+      "accounting_category": "groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Saco Plástico Reciclável",
+      "quantity": 1,
+      "unit_price": 0.1,
+      "total_price": 0.1,
+      "category": "cleaning supplies",
+      "accounting_category": "groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 11.64
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_204145.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PINGO DOCE\nTOMAS RIBEIRO\nTel.: 213136180\nPingo Doce Distribuição Alimentar S.A.\nSede: R Actor António Silva, N7, 1649-033 Lisboa\nC.R.C. Lisboa-Matricula/NIPC: 500269993\nALVREE: P100079203 C. Social: 33.808.115 EUR\nArtigos\nPADARIA/PASTELARIA\nC 6% PAO CARCAÇA/BIJOU45G\n10,000 X 0,09 0,90\nC 6% PAO CARCAÇA/BIJOU45G\n10,000 X 0,09 0,90\nC 6% PAO CARCAÇA/BIJOU45G\n10,000 X 0,09 0,90\nPRODUTOS LACTEOS\nC 6% MANT PQ AÇORES 250\n4 X 1,39 5,56\nDETERG. E PROD. LIMPEZA\nE 23% SACO PLAST REICL PD\n0,10\nResumo\nTOTAL A PAGAR 8,36\nPagamentos\nTOTAL PAGO 20,00\nTROCO 11,64\nEURO 20,00\nResumo IVA\nTaxa Valor s/IVA Valor IVA Valor c/IVA\nC 6% 7,79 0,47 8,26\nE 23% 0,08 0,02 0,10\nAtendido por: Luis Fonseca\n407394 2019-08-16 16:00 0082 0004 0440\nvBDo-Processado por programa certificado 369/AT\nFatura Simplificada FS 044004190100621/079361\nvia Original Data de emissão:16-08-2019\nN. Contribuinte: 510776914\nFactura necessaria para troca em 15 dias (Artigos Têxtil e Calçado prazo 30 dias)\nNão se trocam medicamentos e artigos assinalados\nApoio ao Cliente\n808 20 45 45 / 210 11 44 11 (24 horas)"
+  }
+}

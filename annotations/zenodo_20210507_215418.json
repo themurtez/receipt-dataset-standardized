@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Posto da Lourinha",
+    "address": "Rua Fernando Vicente, Zona Ind. Arenes, 2560-687 Torres Vedras",
+    "phone": "262 996 039",
+    "tax_id": "502215810",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-16",
+    "time": "15:30:00",
+    "currency": "EUR",
+    "payment_method": "Multibanco Manual",
+    "subtotal": 67.59,
+    "tax": 15.55,
+    "tip": 0.0,
+    "total": 83.14,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Gasoleo Simples",
+      "quantity": 66.71,
+      "unit_price": 1.209,
+      "total_price": 83.14,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_215418.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AGRI POWER\nPosto da Lourinha\nTransocale, Aluguer de Veiculos, Lda.\nNIF: 502215810 | Cap. Social - 125.000€\nRua Fernando Vicente, Zona Ind. Arenes\n2560-687 Torres Vedras\nTel: 262 996 039\n\nFatura-Recibo: POST A1/645005\nData 2017-11-16 Hora 15:30\n\nCliente: F LIKE HOME\nContribuinte: 510776914\nMatricula: 55-CI-40\n\nGasoleo Simples Bomba 2\n66,71L 1,209€/L 23,00% 83,14€\n\nTotal €\n83,14\n\nPagam\nMultibanco Manual 83,14€\nTroco 0,00€\n\nTaxa Incidência IVA Total\n23.00% 67.59 15.55 83,14\n\ncwPB - Processado por programa\ncertificado nº311/AT, WARESOFT\n\nOBRIGADO BOA VIAGEM"
+  }
+}

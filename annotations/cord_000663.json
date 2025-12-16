@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 16363.0,
+    "tax": 1636.0,
+    "tip": 0.0,
+    "total": 17999.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "THAI ICED TEA (L)",
+      "quantity": 1,
+      "unit_price": 16363.0,
+      "total_price": 16363.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000663.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "THAI ICED TEA (L)\n1 16,363 16,363\nJumlah Item 1\nSub Total 16,363\nPajak Resto 1,636\nGrand Total 17,999"
+  }
+}

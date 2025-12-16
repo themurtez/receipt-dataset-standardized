@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "ROGERIO PAIS, LDA",
+    "address": "AVENIDA ALMIRANTE REIS, 9-E, 1150-007 LISBOA",
+    "phone": "218853901, 966008696",
+    "tax_id": "500544000",
+    "website": "www.ticasgest.pt"
+  },
+  "transaction": {
+    "date": "2018-06-29",
+    "time": "15:44:00",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 10.98,
+    "tax": 2.52,
+    "tip": 0.0,
+    "total": 13.5,
+    "accounting_category": "Hardware",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Torneira esquadria mist",
+      "quantity": 1,
+      "unit_price": 7.5,
+      "total_price": 7.5,
+      "category": "Plumbing",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Forquilha PVC 40",
+      "quantity": 1,
+      "unit_price": 1.45,
+      "total_price": 1.45,
+      "category": "Plumbing",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Forquilha PVC 32",
+      "quantity": 1,
+      "unit_price": 1.15,
+      "total_price": 1.15,
+      "category": "Plumbing",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Reducao cromada 3/4Fx1",
+      "quantity": 1,
+      "unit_price": 2.6,
+      "total_price": 2.6,
+      "category": "Plumbing",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Reducao 1/2x3/8M",
+      "quantity": 1,
+      "unit_price": 0.8,
+      "total_price": 0.8,
+      "category": "Plumbing",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_203536.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROGERIO PAIS, LDA\nFERRAGENS * FERRAMENTAS * MAQUINAS * UTILIDADES\nAVENIDA ALMIRANTE REIS, 9-E * 1150-007 LISBOA\nTel/Fax 218853901 Tel. 966008696\n* Sociedade por quotas * Capital Social\n5.012,92€ REG.CRC. 34852\nNIB: 0033 0000 01280286463 52\n \nFA TURA SIMPLIFICADA N:\n2018-06-29 FS 1A1801/5607\nOriginal\n15:44 BALCAO 1\nContribuinte: 510776914\n \nDESCRICAO IVA VALOR\n1 Torneira esquadria mist 23% 7,50\n1 Forquilha PVC 40 23% 1,45\n1 Forquilha PVC 32 23% 1,15\n1 Reducao cromada 3/4Fx1 23% 2,60\n1 Reducao 1/2x3/8M 23% 0,80\n \nTAXA IVA INCID.\n23% 2,52 10,98\nTOTAL INCIENCIAS: 2,52 10,98\n \nTOTAL: Eur 13,50\n \nPago em Numerario\nValor entregue: 13,50\nTroco: 0,00\n \nImplementado por www.ticasgest.pt\n \nqc58-Processado por programa\ncertificado n. 217/AT\n \nOs servicos e/ou bens foram realizados e/ou colocados a disposicao do adquirente nesta data (Art. 36 do CIVA, No5 alinea F)\n \nLicenca: ROGERIO PAIS, LDA\nContribuinte: 500544000"
+  }
+}

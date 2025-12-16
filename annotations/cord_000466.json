@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "LUNA'S",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-10-31",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 94546.0,
+    "tax": 9454.0,
+    "tip": 0.0,
+    "total": 104000.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "NEW BEEF SPAGHETTI",
+      "quantity": 1,
+      "unit_price": 38182.0,
+      "total_price": 38182.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "P/F AMERICAN FAV",
+      "quantity": 1,
+      "unit_price": 29091.0,
+      "total_price": 29091.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "PAKET HAPPY HOUR",
+      "quantity": 1,
+      "unit_price": 27273.0,
+      "total_price": 27273.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000466.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "LUNA'S\n31 OCT 2017\n1 NEW BEEF SPAGHETTI 38,182\n1 P/F AMERICAN FAV 29,091\n1 PAKET HAPPY HOUR 27,273\n1 GARLIC BREAD\n1 DILMAH ENGLISH TEA\nSUBTOTAL 94,546\nTAX 9,454\nTOTAL 104,000"
+  }
+}

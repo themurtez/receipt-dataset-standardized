@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Estacionamento Lisboa E.E.M",
+    "address": "Avenida de Berna nº1, 1050 Lisboa",
+    "phone": "",
+    "tax_id": "503311332",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-20",
+    "time": "17:27:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 0.61,
+    "tax": 0.14,
+    "tip": 0.0,
+    "total": 0.75,
+    "accounting_category": "Parking",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Estadia",
+      "quantity": 1,
+      "unit_price": 0.75,
+      "total_price": 0.75,
+      "category": "Parking",
+      "accounting_category": "Parking",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_204622.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Câmara Municipal de Loureiro\nEstacionamento Lisboa E.E.M\nAvenida de Berna nº1\n1050 Lisboa\nNIF: 503311332\n\n20/05/2019 17:27 T19/401/0419\nCaixa: 401 Cód. Operador: 14\nNúm Recibo: 19/401/008369\n\nCliente: Consumidor Final\nN.I.F.:\n\n** CLoureiro-Rot. ** Estadia\nNúmero bilhete 02010089278\nTarifa: Parque\nEntrada: 20/05/2019 16:59\nPagamento: 20/05/2019 17:27\nDur. Estadia: 0d 00h 28m\nValor: 0,75 €\n\nBase incid.: 0,61 €\nI.V.A.(23%): 0,14 €\n\nTOTAL: 0,75 €\n\n*** ORIGINAL ***\n\naZWp-Processado por Programa\nCertificado n. 1250/AT\n\nObrigado pela sua visita\nData emissao: 20/05/2019 17:27"
+  }
+}

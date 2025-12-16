@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 154200.0,
+    "tax": 16480.0,
+    "tip": 0.0,
+    "total": 181271.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "SWEET ICE TEA",
+      "quantity": 1,
+      "unit_price": 16900.0,
+      "total_price": 16900.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "OREO MILK BLEND",
+      "quantity": 1,
+      "unit_price": 29900.0,
+      "total_price": 29900.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "FRIED RC SPOOD",
+      "quantity": 1,
+      "unit_price": 39900.0,
+      "total_price": 39900.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "SHISHA",
+      "quantity": 1,
+      "unit_price": 17000.0,
+      "total_price": 17000.0,
+      "category": "Misc",
+      "accounting_category": "Entertainment",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "MASHED POTATO",
+      "quantity": 1,
+      "unit_price": 23900.0,
+      "total_price": 23900.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000376.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 SWEET ICE TEA 16,900\n1 OREO MILK BLEND 29,900\n1 FRIED RC SPOOD 39,900\n1 SHISHA 17,000\n1 MASHED POTATO 23,900\nSUBTOTAL 156,200\nTAX 16,480\nS CHARGE 5.5% 9,591\nDUE 181,271"
+  }
+}

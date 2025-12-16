@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "ROGERIO PAIS, LDA",
+    "address": "AVENIDA ALMIRANTE REIS, 9-E, 1150-007 LISBOA",
+    "phone": "218853901",
+    "tax_id": "500544000",
+    "website": "www.ticasgest.pt"
+  },
+  "transaction": {
+    "date": "2019-05-15",
+    "time": "09:19:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 66.99,
+    "tax": 15.41,
+    "tip": 0.0,
+    "total": 82.4,
+    "accounting_category": "Hardware",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Misturadora pedal TITAN",
+      "quantity": 1,
+      "unit_price": 69.0,
+      "total_price": 69.0,
+      "category": "Tools",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cimento Escuro 1 kg",
+      "quantity": 3,
+      "unit_price": 1.6,
+      "total_price": 4.8,
+      "category": "Materials",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Areia amarela 5 lts",
+      "quantity": 2,
+      "unit_price": 2.2,
+      "total_price": 4.4,
+      "category": "Materials",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Canelas pl argamassa pe",
+      "quantity": 1,
+      "unit_price": 4.2,
+      "total_price": 4.2,
+      "category": "Tools",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_223411.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROGERIO PAIS, LDA\nFERRAGENS * FERRAMENTAS * MAQUINAS * UTILIDADES\nAVENIDA ALMIRANTE REIS, 9-E , 1150-007 LISBOA\nTel/Fax 213853901 Tel. 966008696\n* Sociedade por quotas * Capital Social\n5.012,92€ REG.CRC. 34852\nNIB: 0033 0000 01280286463 52\n\n2019-05-15 FATURA SIMPLIFICADA N:\nOriginal FS 1A1901/3839\n09:19 BALCAO 1\n\nContribuinte: 510776914\n\nDESCRICAO IVA VALOR\n1 Misturadora pedal TITAN 23% 69,00\n3 Cimento Escuro 1 kg 23% 4,80\n Preco: 1,60/UNIDADE\n2 Areia amarela 5 lts 23% 4,40\n Preco: 2,20/UNIDADE\n1 Canelas pl argamassa pe 23% 4,20\n\nTAXA IVA INCID\n23% 15,41 66,99\nTOTAL INCIDENCIAS: 15,41 66,99\n\nTOTAL: Eur 82,40\nPago em Numerario\nValor entregue: 82,40\nTroco: 0,00\n\nImplementado por www.ticasgest.pt\n\nV6bw-Processado por programa\ncertificado n. 217/AT\n\nOs serviços e/ou bens foram realizados e/ou colocados a disposicao do adquirente nesta data (Art.\n. 36 do CIVA, No5 alinea F)\n\nLicenca: ROGERIO PAIS, LDA\nContribuinte: 500544000"
+  }
+}

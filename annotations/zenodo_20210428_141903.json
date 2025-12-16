@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "R Actor Antonio Silva N7, 1600-035 Lisboa",
+    "phone": "218855591",
+    "tax_id": "500869993",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-09",
+    "time": "11:15:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 20.97,
+    "tax": 2.35,
+    "tip": 0.0,
+    "total": 12.57,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Airwick Ele 23% Amb Comp",
+      "quantity": 2,
+      "unit_price": 6.99,
+      "total_price": 13.98,
+      "category": "Cleaning Products",
+      "accounting_category": "Household Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Poupanca Imediata",
+      "quantity": 1,
+      "unit_price": -5.6,
+      "total_price": -5.6,
+      "category": "Discount",
+      "accounting_category": "Discount",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Airwick Ele 23% Amb Comp",
+      "quantity": 1,
+      "unit_price": 2.99,
+      "total_price": 2.99,
+      "category": "Cleaning Products",
+      "accounting_category": "Household Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 7.43
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_141903.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Pingo Doce\nCAMPO SANTANA\nTel.: 218855591\nPingo Doce - Distribuicao Alimentar, S.A.\nSede: R Actor Antonio Silva N7, 1600-035 Lisboa\nRegisto: C.R.C Lisboa/NIF/Contribuinte: 500869993\nANREE: P1001730 v. Social: 33 808 115 tbc\n\nArtigos\nDETERG E PROD LIMPEZA\nE 23% AMB COMP AIRWICK ELE\n2 X 6.99                13,98\nPoupanca Imediata                       (5,60)\nE 23% AMB COMP AIRWICK ELE            2,99\nPoupanca Imediata\nResumo\nTOTAL                             20,97\nTOTAL POUPANCA                        8,40\nTOTAL A PAGAR                         12,57\nPagamentos\nTOTAL PAGO                           20,00\nTROCO                                 7,43\nEURO                                  20,00\nResumo IVA\nTaxa   Valor s/IVA    Valor IVA       Valor c/IVA\n10.22                                 2.35\n\nNESTA COMPRA POUPOL\n8,40 €\nAtendido por: Sandra Nunes\n\nFatura/Recibo\nF1 0081006190106/G00000993\nData de emissão: 09-02-2019\nN. Contribuinte: 510776914\n\nLocal carga.: CAMPO SANTANA\nMorada Lisboa Lisboa\n\nData*  2019-02-09 Hora: 11:15\n\nApoio ao Cliente\n808 20 45 45 / 210 11 44 11 (24 horas)"
+  }
+}

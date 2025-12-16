@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Inang's Kitchen",
+    "address": "The Energy Building",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-09-19",
+    "time": "12:23:00",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 15000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 15000.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Sop AYM BNG",
+      "quantity": 2,
+      "unit_price": 7000.0,
+      "total_price": 14000.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Teh Tarik P",
+      "quantity": 1,
+      "unit_price": 15000.0,
+      "total_price": 15000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 40000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000279.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "INANG'S KITCHEN\nTHE ENERGY BUILDING\n\n19-09-2019 12:23\n\nSOP AYM BNG     7,000\nSOP AYM BNG    -7,000\nTEH TARIK P   15,000\nTOTAL         15,000\nCASH          55,000\nKEMBALI       40,000\n"
+  }
+}

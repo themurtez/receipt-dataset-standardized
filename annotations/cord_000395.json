@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Hoqq",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 141817.0,
+    "tax": 14182.0,
+    "tip": 0.0,
+    "total": 155999.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Bakmi Ayam Spc Ng",
+      "quantity": 3,
+      "unit_price": 24545.0,
+      "total_price": 73635.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Box Bakmie (M)",
+      "quantity": 3,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Bakmi Ultah",
+      "quantity": 1,
+      "unit_price": 68182.0,
+      "total_price": 68182.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Box Yi Fu Mie (L)",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 4001.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000395.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "3 Bakmi Ayam Spc Ng 73.635\n3 Box Bakmie (M) 0\n1 Bakmi Ultah 68.182\n1 Box Yi Fu Mie (L) 0\nSubtotal 141.817\nPB 1 14.182\n8 Total 155.999\nBayar 160.000\nKembali 4.001"
+  }
+}

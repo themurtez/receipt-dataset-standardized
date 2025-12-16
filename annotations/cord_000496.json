@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Saujana Tawona Street Snacks",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 56000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 56000.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BBQ Chicken Pedas",
+      "quantity": 1,
+      "unit_price": 41000.0,
+      "total_price": 41000.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Mineral Water 600 ml",
+      "quantity": 1,
+      "unit_price": 8000.0,
+      "total_price": 8000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Teh Pucuk 350 ml",
+      "quantity": 1,
+      "unit_price": 7000.0,
+      "total_price": 7000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 4000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000496.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Saujana Tawona\nStreet Snacks\n1 BBQ Chicken 41,000\n- Pedas\n1 Mineral Water 600 ml 8,000\n1 Teh Pucuk 350 ml 7,000\nITEMS : 3 56,000\nTotal......... 56,000\nPay Cash 60,000 Change 4,000"
+  }
+}

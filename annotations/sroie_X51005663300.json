@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "LIM SENG THO HARDWARE TRADING",
+    "address": "No 7, Simpang Off Batu Village, Jalan Ipoh Batu 5, 51200 Kuala Lumpur, MALAYSIA",
+    "phone": "03-6258 7191",
+    "tax_id": "GST Reg No. 001269075968",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-02-02",
+    "time": "10:06:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 7.0,
+    "tax": 0.4,
+    "tip": 0.0,
+    "total": 7.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "BEG GUNI",
+      "quantity": 10,
+      "unit_price": 0.7,
+      "total_price": 7.0,
+      "category": "Goods",
+      "accounting_category": "Inventory",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 10,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005663300.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "3 18 02 01 3\nLIM SENG THO HARDWARE TRADING\nNo 7, Simpang Off Batu Village,\nJalan Ipoh Batu 5, 51200 Kuala Lumpur.\nMALAYSIA\nTel & Fax No : 03-6258 7191\n03-6258 7191\nCompan, Reg No. (002231061-T)\nGST Reg No. 001269075968\nTAX INVOICE\nInvoice No CS 24146\nDate 02/02/2018 10:06\nCashier #: LST\nRM Code\nBEG GUNI\n10.00 NOS x 0.70 7.00 SR\nSubtotal : 7.00\nTotal incl. of GST 7.00\nPayment : 7.00\nChange Due : 0.00\nTotal Item(s) : 10\nGST Summary Amount(RM) Tax(RM)\nSR @ 6% 6.60 0.40\n********** THANK YOU **********\n***** PLEASE COME AGAIN *****\n*GOODS SOLD ARE NOT RETURNABLE*\n"
+  }
+}

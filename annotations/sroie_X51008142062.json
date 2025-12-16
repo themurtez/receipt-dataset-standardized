@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "KEDAI PAPAN YEW CHUAN",
+    "address": "LOT 276 JALAN BANTING, 43800 DENGKIL, SELANGOR.",
+    "phone": "03-87686092",
+    "tax_id": "000781500416",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-02",
+    "time": "14:17:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 341.0,
+    "tax": 20.46,
+    "tip": 0.0,
+    "total": 361.46,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "100211 BATU SIMEN",
+      "quantity": 1200,
+      "unit_price": 0.23,
+      "total_price": 292.56,
+      "category": "Building Materials",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "101870 PASIR HALUS (D)",
+      "quantity": 1,
+      "unit_price": 65.0,
+      "total_price": 68.9,
+      "category": "Building Materials",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1201,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008142062.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KEDAI PAPAN YEW CHUAN\n(0005583085-K)\nLOT 276 JALAN BANTING\n43800 DENGKIL, SELANGOR.\nTEL: 03-87686092 FAX: 03-87686092\nGST ID: 000781500416\nTAX INVOICE\nBill To:\nSUCI ALAM JAYA TRANSPORT\nNO 1 JALAN AMAN 2\nTAMAN DESA 43800\nDENGKIL SELANGOR\n017-6057770\nDoc No.: CS00012389 Date: 02/05/2018\nCashier: USER Time: 14:17:00\nSalesperson: Ref.:\nItem Qty S/Price S/Price (GST) (GST)\nAmount Tax\n100211 BATU SIMEN\n1,200 0.23 0.24 292.56 SR\n101870 PASIR HALUS (D)\n1 65.00 68.90 SR\nTotal Qty: 1,201 361.46\nTotal Sales (Excluding GST): 341.00\nDiscount : 0.00\nTotal GST : 20.46\nRounding : 0.00\nTotal Sales (Inclusive of GST): 361.46\nCASH : 361.46\nChange : 0.00\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR 6 341.00 20.46\nTotal : 341.00 20.46\nGOODS SOLD ARE NOT RETURNABLE. THANK YOU."
+  }
+}

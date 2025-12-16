@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Pastelaria MouraPão II",
+    "address": "Av. da Marina Loja 5 e 6 8125-466",
+    "phone": "289301396",
+    "tax_id": "509875646",
+    "website": "mourapao@clix.pt"
+  },
+  "transaction": {
+    "date": "2019-02-26",
+    "time": "10:19:52",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 3.73,
+    "tax": 0.62,
+    "tip": 0.0,
+    "total": 4.35,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Cereais Queijo",
+      "quantity": 1,
+      "unit_price": 1.9,
+      "total_price": 1.9,
+      "category": "Food",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Nectar pessego",
+      "quantity": 1,
+      "unit_price": 1.65,
+      "total_price": 1.65,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cafe",
+      "quantity": 1,
+      "unit_price": 0.8,
+      "total_price": 0.8,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_185942.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Pastelaria MouraPão II\nManuel Odília & Paulo Barbosa, Lda\nAv. da Marina Loja 5 e 6 8125-466\nTel. 289301396\nN. Contrib. 509875646\nRegisto na Cons. Loulé n.509875646\nCapital Social 6000 Euros\nmourapao@clix.pt\n\nNome flikehome algarve lda\nN.C. 514407395\n\nFatura-Recibo FT 014/6789\nOriginal\n2019-02-26 10:19:52\n\nQt Artigo IV Total\n1 Cereais Queijo 13 1.90\n1 Nectar pessego 23 1.65\n1 Cafe 13 0.80\nTotal 4.35\n\nTaxa Base IVA Total\n13.00 2.39 0.31 2.70\n23.00 1.34 0.31 1.65\nTotal 3.73 0.62 4.35\n\nEmp 1\nIVA incluido\n\nConsultas:\nObrigado e volte sempre\n\ntrVE-Processado por programa\ncertificado n. 0071/AT\n"
+  }
+}

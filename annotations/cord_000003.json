@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 259000.0,
+    "tax": 52416.0,
+    "tip": 9600.0,
+    "total": 302016.0,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Bintang Bremer",
+      "quantity": 1,
+      "unit_price": 59000.0,
+      "total_price": 59000.0,
+      "category": "Beverages",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chicken H-H",
+      "quantity": 1,
+      "unit_price": 190000.0,
+      "total_price": 190000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ades",
+      "quantity": 1,
+      "unit_price": 10000.0,
+      "total_price": 10000.0,
+      "category": "Beverages",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000003.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Bintang Bremer 1 59,000\nChicken H-H 1 190,000\nAdes 1 10,000\nSub Total 259,000\nService 9,600\nTax 52,416\nDiscount 19,000\nTOTAL 302,016"
+  }
+}

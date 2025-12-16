@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "99 Speed Mart S/B",
+    "address": "Lot P.T. 33198, Batu 4, Jalan Kapar, Mukim Kapar, 42100 Klang, Selangor, 1237-Tmn Indah Perdana",
+    "phone": "",
+    "tax_id": "000181747712",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-08-19",
+    "time": "11:30:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 4.69,
+    "tax": 0.1,
+    "tip": 0.0,
+    "total": 4.7,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Gardenia Wholemeal 400",
+      "quantity": 1,
+      "unit_price": 2.99,
+      "total_price": 2.99,
+      "category": "Grocery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Gardenia Cream Roll CH",
+      "quantity": 2,
+      "unit_price": 1.7,
+      "total_price": 3.4,
+      "category": "Grocery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": -0.01,
+    "change_due": 45.3
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619782.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "99 SPEED MART S/B (519537-X)\nLOT P.T. 33198, BATU 4\nJALAN KAPAR, MUKIM KAPAR\n42100 KLANG, SELANGOR\n1237-TMN INDAH PERDANA\nGST ID. NO : 000181747712\nINVOICE NO : 17764/102/T0077\n11:30AM 561490 19-08-16\n8050 GARDENIA WHOLEMEAL 400 RM2.99 Z\n9180 GARDENIA CREAM ROLL CH RM1.70 S\n@2 X RM .85\nTotal Sales (Inclusive GST) RM 4.69\nRounding Adjustment .01\nRounding RM 4.70\nCASH RM 50.00\nCHANGE RM 45.30\nGST Summary Amount(RM) Tax(RM)\ns = 6% 1.60 .10\nz = 0% 2.99 .00\nThank You. Please come again\nKeep the invoice for applicable returns\n"
+  }
+}

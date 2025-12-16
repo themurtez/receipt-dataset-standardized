@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Auto-Estradas do Atlântico, SA",
+    "address": "Apartado 327 EC Torres Vedras 2564-912 TORRES VEDRAS",
+    "phone": "261318900",
+    "tax_id": "504290592",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-12",
+    "time": "16:46:04",
+    "currency": "EUR",
+    "payment_method": "Cartão Bancário",
+    "subtotal": 2.9,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 2.9,
+    "accounting_category": "Toll",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Toll Charge",
+      "quantity": 1,
+      "unit_price": 2.9,
+      "total_price": 2.9,
+      "category": "Transportation",
+      "accounting_category": "Toll",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210324_190533.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Auto-Estradas do Atlântico, SA\nCafética\nApartado 327 EC Torres Vedras\n2564-912 TORRES VEDRAS\nTelefone: 261318900 Fax: 261318562\nNIF: 504290592 Matrc. CRC Torres Vedras: 3830\nCapital Social: 55.000.000 €\nFACTURA SIMPLIFICADA\nRecibo: FS 08111101902/0023689 Original\nData e Hora: 2019-02-12 16:46:04\nSaida: 0811 - Loures\nVia: 110 Portageiro: 00195\nEntrada: 2101 - Ericeira\nTítulo: Bem Lido-Trânsito-\nModo de Pagamento: Cartão Bancário\nClasse: 1 Taxa: 2,90 €\nPAGAMENTO AUTOMATICO num: 7442\nBANCO BPI ***********1290\nLocal de pagamento: A08-11\nIVA incluído à taxa normal\n\nProcessado por programa certificado\nn.2011/AT\nObrigado e Boa Viagem!"
+  }
+}

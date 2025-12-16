@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Mydin",
+    "address": "4-20, Jalan Ria 25/62 Taman Sri Muda Saksyen 25, 40400 Shah Alam Selangor",
+    "phone": "03-51217970",
+    "tax_id": "000429166592",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-02-04",
+    "time": "03:30:27",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 80.27,
+    "tax": 4.83,
+    "tip": 0.0,
+    "total": 85.1,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "MyClip Binder Clip 12S 25MM",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MyClip Binder Clip 15MM",
+      "quantity": 2,
+      "unit_price": 12.0,
+      "total_price": 24.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MyClip Binder Clip 15MM",
+      "quantity": 10,
+      "unit_price": 1.0,
+      "total_price": 10.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Partner Envelope 4.5IN X 9.5IN",
+      "quantity": 2,
+      "unit_price": 2.2,
+      "total_price": 4.4,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Quality Litter Tray IT-1196-Mix",
+      "quantity": 3,
+      "unit_price": 14.9,
+      "total_price": 44.7,
+      "category": "Household Supplies",
+      "accounting_category": "Household Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 18,
+    "rounding": -0.1,
+    "change_due": 15.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005587267.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MYDIN\nTRI SHAAS SDN BHD (728515-M)\nMYDIN MART SRI MUDA\n4-20, Jalan Ria 25/62 Taman Sri Muda\nSaksjen 25, 40400 Shah Alam Selangor\nTel : 03-51217970 Fax : 03-51218059\nGST ID: 000429166592\n\nRECEIPT\nTerminal : 195 - 5505POS011\nDate : 4/02/2017 03:30:27PM\nCashier : CH107691\nMSH - WEIINE\n\nMYCLIP BINDER CLIP 12S 25MM 12S EA .S\n2901060611145 1 * 2.00 2.00\nMYCLIP BINDER CLIP 15MM 12S CS .S\n2901060611213 2 * 12.00 24.00\nMYCLIP BINDER CLIP 15MM 12S EA .S\n2901060611206 10 * 1.00 10.00\nPARTNER E/LOPE 4.5INX9.5IN W4292 EA\n9550320469655 2 * 2.20 4.40\nQUALITY LITTER TRAY 1T-1196-MIX EA .S\n9555052401196 3 * 14.90 44.70\n\nItem Count 18\n\n86.10\nRounding Adjustment -0.10\nTotal After Rounding 85.10\n\nCash 100.10\nCHANGE 15.00\n\nGST Rate Amt Excl GST(RM) Tax(RM)\nS = 6% 80.27 4.83\nZ = 0% 0.00 0.00\n\n* Your Total Savings 8.00 *\n\nPoints Missed: 85\nTrans # 261172\n\nPrint Date: 4/02/2017 03:30:29PM\nNote: Any request for production of full\ntax invoice must be made within 3 months\nfrom the date of purchase. If the request\nis not made within the prescribed\ntime frame, MYDIN may based on its absolute\ndiscretion reject the request.\nThank You and Please Come Again"
+  }
+}

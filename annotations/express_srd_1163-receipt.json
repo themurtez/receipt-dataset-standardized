@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "BEN'S BAYSIDE",
+    "address": "211-37 26th Avenue, Bayside, NY 11360",
+    "phone": "(718) 229-2367",
+    "tax_id": "",
+    "website": "Bayside@BensDeli.net"
+  },
+  "transaction": {
+    "date": "2017-03-05",
+    "time": "12:41:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 37.95,
+    "tax": 3.37,
+    "tip": 0.0,
+    "total": 41.32,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "DOUBLE DIP",
+      "quantity": 2,
+      "unit_price": 13.99,
+      "total_price": 27.98,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "KNISH",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "ROUND",
+      "quantity": 1,
+      "unit_price": 3.99,
+      "total_price": 3.99,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "KASHE SIDE",
+      "quantity": 1,
+      "unit_price": 3.99,
+      "total_price": 3.99,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "COFFEE",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "WATER",
+      "quantity": 2,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1163-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BEN'S BAYSIDE\n211-37 26th Avenue\nBayside, NY 11360\nPhone: (718)229-2367\nEmail: Bayside@BensDeli.net\n\n0032 Table 45 #Party 3\nJESSICA M Svrck: 12:05 03/05/17\nDINING ROOM\n\n2 DOUBLE DIP, 1 tky, bowl barley,\n1 past, bowl barley 27.98\n1 KNISH 0.00\n1 ROUND 3.99\n1 KASHE SIDE 3.99\n1 COFFEE 0.00\n2 WATER 0.00\n\nSub Total: 37.95\nTax : 3.37\nTotal : 41.32\n\n03/05 12:41 T2017\n\nSuggested Gratuity\nGRAT 15% 5.69\nGRAT 18% 6.83\n"
+  }
+}

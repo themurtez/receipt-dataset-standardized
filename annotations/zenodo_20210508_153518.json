@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Mª do Rosário da Graça Roque Fernandes",
+    "address": "R. Dr. César Raul da Costa Andrade Lote 61 Loja, 2655-242 Ericeira, PT",
+    "phone": "965401376",
+    "tax_id": "510776914",
+    "website": "erimetal.ericeira@gmail.com"
+  },
+  "transaction": {
+    "date": "2018-08-06",
+    "time": "12:38:05",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 41.22,
+    "tax": 7.71,
+    "tip": 0.0,
+    "total": 41.22,
+    "accounting_category": "Purchase",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Candeeiro Pinça Regulável",
+      "quantity": 1,
+      "unit_price": 16.9,
+      "total_price": 16.9,
+      "category": "Lighting",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lâmpada Halogénio G9 220/28W",
+      "quantity": 2,
+      "unit_price": 1.4,
+      "total_price": 2.8,
+      "category": "Lighting",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cortina Banheiro",
+      "quantity": 1,
+      "unit_price": 12.4,
+      "total_price": 12.4,
+      "category": "Bathroom Accessories",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Estendal Varanda",
+      "quantity": 1,
+      "unit_price": 5.4,
+      "total_price": 5.4,
+      "category": "Household Items",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Toalheiro Classico 60cm",
+      "quantity": 1,
+      "unit_price": 5.9,
+      "total_price": 5.9,
+      "category": "Bathroom Accessories",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lâmpada Esférica E14 25W",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Lighting",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_153518.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Mª do Rosário da Graça Roque Fernandes\nR. Dr. César Raul da Costa Andrade Lote 61 Loja\n2655-242 Ericeira\nPT\nemail: erimetal.ericeira@gmail.com\nweb:\ntelef.: 965401376\nnif: 189578084\n\nNome: LIKEHOME, LDA\n\nMorada\nEriceira\n\nContribuinte: 510776914\nFATURA SIMPLIFICADA N° 4708/2018\nIdentificação unica: FS 2018/4708 (ORIGINAL)\nDATA: 2018-08-06 HORA: 12:38:05\n\nCód. Preço Desc. Iva Total\nCandeeiro Pinça Regulável\n1,000 x 16,90 0% 23% 16.90\n\nLâmpada Halogénio G9 220/28W\n2,000 x 1,40 0% 23% 2.80\n\nCortina Banheiro\n1,000 x 12,40 0% 23% 12.40\n\nEstendal Varanda\n1,000 x 5,40 0% 23% 5.40\n\nToalheiro Classico 60cm\n1,000 x 5,90 0% 23% 5.90\n\nLâmpada Esferica E14 25W\n1,000 x 1,00 0% 23% 1.00\n\nNumero de Artigos: 8\nTOTAL: 41,22\n\nDescontos 4.58\n\nDetalhe da Liquidação\n\nMULTIBANCO\nDetalhe do IVA 41,22\n\nTaxa Incidência Valor Total\n23 % 33.51 7.71 41.22\n\nFnY - Processado por programa certificado\nn° 0097/AT Magnisoft - OranGest\nObrigado pela sua preferência\nAté Breve\n"
+  }
+}

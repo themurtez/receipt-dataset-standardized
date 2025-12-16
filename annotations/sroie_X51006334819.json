@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "BEMED (SP) SDN. BHD.",
+    "address": "No.49, Jalan Omar G U3/G, Subang Perdana, 40150 Shah Alam, Selangor D.E.",
+    "phone": "03-7845 8155",
+    "tax_id": "001734164480",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-01-20",
+    "time": "08:06:50",
+    "currency": "MYR",
+    "payment_method": "MASTER",
+    "subtotal": 203.0,
+    "tax": 11.49,
+    "tip": 0.0,
+    "total": 203.0,
+    "accounting_category": "Health Products",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ALPHA LIPID LIFE LINE 450MG 450G",
+      "quantity": 1,
+      "unit_price": 195.0,
+      "total_price": 195.0,
+      "category": "Health Supplement",
+      "accounting_category": "Health Products",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "DR FIT VEGE HIGH FIBER 15'SX12G",
+      "quantity": 1,
+      "unit_price": 33.0,
+      "total_price": 33.0,
+      "category": "Dietary Fiber",
+      "accounting_category": "Health Products",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006334819.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BEMED (SP) SDN. BHD.\nNo.49, Jalan Omar G U3/G,\nSubang Perdana,\n40150 Shah Alam, Selangor D.E.\n03-7845 8155\nGST Reg: 001734164480\nCASH RECEIPT\nCo# 70274707814 20/Jan/2017 08:06:50\nCashier: be()\nQty Code&Desc Price Total\nALPHA LIPID LIFE LINE 450MG 450G\n1 184810 195.00 195 SR\nDR FIT VEGE HIGH FIBER 15'SX12G\n1 202930 33.00 38 SR\n2 Type: 2\nSubTotal: 203.00\nRounding Adj. 0.00\nTotal Inclusive GST: 203.00\nMASTER\nGST Summary: Amount (MYR)\nSR 181.51 11.49\nG QUAT CHYE\nPoints: 3,243\nThank you.\nPlease come again."
+  }
+}

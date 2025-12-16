@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "AEON CO. (M) BHD",
+    "address": "3RD FLR, AEON TAMAN MALURI SC, JLN JEJAKA, TAMAN MALURI, CHERAS, 55100 KUALA LUMPUR",
+    "phone": "1-300-80-AEON",
+    "tax_id": "002017394683",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-12",
+    "time": "13:07:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 42.48,
+    "tax": 0.01,
+    "tip": 0.0,
+    "total": 42.5,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PLASTICS BAG",
+      "quantity": 1,
+      "unit_price": 0.2,
+      "total_price": 0.2,
+      "category": "Bags",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "WG W/O H&F",
+      "quantity": 1,
+      "unit_price": 13.94,
+      "total_price": 13.94,
+      "category": "Groceries",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "WC W/O H&F",
+      "quantity": 1,
+      "unit_price": 14.81,
+      "total_price": 14.81,
+      "category": "Groceries",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "WC W/D H&F",
+      "quantity": 1,
+      "unit_price": 13.53,
+      "total_price": 13.53,
+      "category": "Groceries",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.02,
+    "change_due": 7.5
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005757248.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "31803022\nAEON CO. (M) BHD (126926-H)\n3RD FLR, AEON TAMAN MALURI SC\nJLN JEJAKA, TAMAN MALURI\nCHERAS, 55100 KUALA LUMPUR\nGST ID: 002017394683\nSHOPPING HOURS\nSUN-THU:1000 HRS - 2200 HRS\nFRI-SAT:1000 HRS - 2300 HRS\n1 x 000001388854 0.20SR\nPLASTICS BAG\n1 x 000001617575 13.94ZR\nWG W/O H&F\n1 x 000005161775 14.81ZR\nWC W/O H&F\n1 x 000000361775 13.53ZR\nWC W/D H&F\nSub-total 42.48\nTotal Sales Incl GST 42.48\nRounding Adj 0.02\nTotal After Adj Incl GST 42.50\nCASH 50.00\nItem Count 4 Change Amt 7.50\nInvoice No: 2018031210060010139\nGST Summary Amount Tax\nSR @ 6% 0.19 0.01\nZR @ 0% 42.28 0.00\nTotal 42.47 0.01\n12/03/2018 13:07 1008 001\n03046562 HEMADAS A/L BALOO\nAEON BANDAR PUCHONG\nTEL 1-300-80-AEON (2366)\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN"
+  }
+}

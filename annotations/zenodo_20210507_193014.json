@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "JMTD Ferragens do Combro Lda",
+    "address": "Calçada do Combro Nº3, 1200-110 Lisboa",
+    "phone": "21 347 67 62",
+    "tax_id": "513 350 535",
+    "website": "jose.m.a.duarte@sapo.pt"
+  },
+  "transaction": {
+    "date": "2017-11-21",
+    "time": "16:10:00",
+    "currency": "EUR",
+    "payment_method": "Not specified",
+    "subtotal": 14.96,
+    "tax": 3.44,
+    "tip": 0.0,
+    "total": 18.4,
+    "accounting_category": "Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Cola e Veda",
+      "quantity": 1,
+      "unit_price": 9.0,
+      "total_price": 9.0,
+      "category": "Supplies",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Buchas de Plastico",
+      "quantity": 1,
+      "unit_price": 7.0,
+      "total_price": 7.0,
+      "category": "Supplies",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Fichas Macho",
+      "quantity": 2,
+      "unit_price": 1.2,
+      "total_price": 2.4,
+      "category": "Supplies",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_193014.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "JMTD FERRAGENS DO COMBRO LDA\nFERRAGENS. FERRAMENTAS. CHAVES FECHADURAS\nMAT. ELÉCTRICO. MAT. CANALIZAÇÃO\nCALÇADA DO COMBRO N°3, 1200-110 LISBOA\nEmail: jose.m.a.duarte@sapo.pt\nNIF: 513 350 535\nTel. 21 347 67 62\nFATURA SIMPLIFICADA\nORIGINAL\nDATA 21/11/2017 16:10 N°A/20731\nCliente: FLKEHOME Lda\nMorada\nCont.N°: 510776914\nArtigo Ctd Preço € Valor €\nCola e Veda\n23% 1 Un x 9,00 9,00\n1Cx. Buchas de Plastico\n23% 1 Un x 7,00 7,00\nFichas Macho\n23% 2 Un x 1,20 = 2,40\n#004\nTOTAL 18,40\n----------------------\nNumerário 18,40\nTroco 0,00\nIVA Incluido á taxa indicada\nTaxas Sujeito IVA Total\n23,00 14,96 3,44 18,40\nData de carga 21/11/2017\nHora de carga 16:20\nLocal carga: N/Instalações\nMatrícula\nData descarga:\nHora descarga: V/Instalações\nLocal: \npro-Processado por programa certificado\nN° 88/AT _ 1 A/20731\nOpr: Administrador\nOBRIGADO - VOLTE SEMPRE"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "merchant": {
+    "name": "Zoca Restaurant",
+    "address": "98 Garfield Parkway, Bethany Beach, DE 19930",
+    "phone": "(302) 616-2120",
+    "tax_id": "",
+    "website": "www.zoca.restaurant"
+  },
+  "transaction": {
+    "date": "2019-07-30",
+    "time": "19:53:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 164.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 152.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Flying Dog Numero Uno BTL",
+      "quantity": 1,
+      "unit_price": 8.0,
+      "total_price": 8.0,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "House Recipe",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sandia Margarita",
+      "quantity": 2,
+      "unit_price": 13.0,
+      "total_price": 26.0,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Totem Honey Bee",
+      "quantity": 1,
+      "unit_price": 11.0,
+      "total_price": 11.0,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Queso Fresco Guacamole",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Queso Fundido Mexican Street Corn Dip",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Salsa De Molcajete",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Taquitos Carne Asada",
+      "quantity": 2,
+      "unit_price": 15.0,
+      "total_price": 30.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Taquitos Baja California Shrimp",
+      "quantity": 1,
+      "unit_price": 14.0,
+      "total_price": 14.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Mole Enchilada",
+      "quantity": 1,
+      "unit_price": 19.0,
+      "total_price": 19.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Quesadilla Chicken",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 11,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1056-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ZOCA RESTAURANT\n98 GARFIELD PARKWAY\nBETHANY BEACH, DE 19930\n(302) 616-2120\nWWW.ZOCA.RESTAURANT\n\nCheck #: 5033        7/30/19\nServer: Madi B      7:53 PM\nTable: 31/2           Guests: 5\n\n1 Flying Dog Numero Uno BTL          8.00\n1 House Recipe                               12.00\n2 Sandia Margarita (@13.00/ea)      26.00\n1 Totem Honey Bee                        11.00\n1 Queso Fresco Guacamole           12.00\n1 Queso Fundido Mexican Street Corn Dip   12.00\n1 Salsa De Molcajete                       12.00\n2 Taquitos Carne Asada (@15.00/ea) 30.00\n1 Taquitos Baja California Shrimp    14.00\n1 Mole Enchilada                            19.00\n1 Quesadilla Chicken                      12.00\n\nSub-total                                       164.00\n\nCOMPLIMENTARY\nITEM COMPS:\n  1 Queso Fundido Mexican Street Corn Dip\n                                                       -12.00\n\nSub-total                                       152.00\nSales Tax                                        0.00\nTOTAL                                           152.00"
+  }
+}

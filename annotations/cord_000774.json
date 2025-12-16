@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Master",
+    "subtotal": 150000.0,
+    "tax": 15000.0,
+    "tip": 7500.0,
+    "total": 172500.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SANGU TIMBEL KOMPLIT",
+      "quantity": 1,
+      "unit_price": 45000.0,
+      "total_price": 45000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "SANGU TUTUG ONCOM",
+      "quantity": 1,
+      "unit_price": 45000.0,
+      "total_price": 45000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "TOGE LAUK ASIN",
+      "quantity": 1,
+      "unit_price": 20000.0,
+      "total_price": 20000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "TERONG BEJEUG",
+      "quantity": 1,
+      "unit_price": 15000.0,
+      "total_price": 15000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "TEH SEREH",
+      "quantity": 1,
+      "unit_price": 25000.0,
+      "total_price": 25000.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000774.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "...\n1 SANGU TIMBEL KOMPLIT       45.000\n1 SANGU TUTUG ONCOM          45.000\n1 TOGE LAUK ASIN             20.000\n1 TERONG BEJEUG              15.000\n1 TEH SEREH                  25.000\nSubtotal                   150.000\nPPN 10%                     15.000\nSer  5%                      7.500\n5 Total                    172.500\n...\nMaster\n..."
+  }
+}

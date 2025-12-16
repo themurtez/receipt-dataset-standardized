@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "FILKEMMED LDA",
+    "address": "",
+    "phone": "",
+    "tax_id": "510768784",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-10-16",
+    "time": "14:53:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 4.15,
+    "tax": 0.22,
+    "tip": 0.0,
+    "total": 4.37,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BARQUETAS ALMOADADAS",
+      "quantity": 1,
+      "unit_price": 3.25,
+      "total_price": 3.25,
+      "category": "Food",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Unknown item",
+      "quantity": 1,
+      "unit_price": 0.95,
+      "total_price": 0.95,
+      "category": "Miscellaneous",
+      "accounting_category": "Other",
+      "category_confidence": 0.7
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_203111.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AV. DO JOAO II, N 11\nLOJA CTP / CP LARQUEIRO (B)\nFATURA/RECEIPT N\nFR CTP: 2017/FR881097102\nCTT081097102/6529\n2017-10-16 14:53\nNIF: 510768784\nQTD DESIGNACAO IVA QUANTIA\n1 BARQUETAS ALMOADADAS 1) 3,20\nRDP 8876017/7983P\nTotal S/IVA: 4,15 Eur\nTotal desconto s/IVA: 0,00\nTotal IVA: 0.22 Eur\nTotal: 4.37 Eur\nQUATRO EUROS E TRINTA E SETE CENTIMOS\n"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Pasaraya Borong Pintar SDN BHD",
+    "address": "No 19-G&19-1&19-2 Jalan Tasik Utama 4, Medan Niaga Tasik Damai",
+    "phone": "016-5498845",
+    "tax_id": "(124525-H)",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-14",
+    "time": "16:06:34",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 0.9,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 0.9,
+    "accounting_category": "Retail",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "GB CR-CORN",
+      "quantity": 1,
+      "unit_price": 0.9,
+      "total_price": 0.9,
+      "category": "Grocery",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 4.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005447842.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PASARAYA BORONG PINTAR SDN BHD\nBR No.: (124525-H)\nNO 19-G&19-1&19-2 JALAN TASIK UTAMA 4,\nMEDAN NIAGA TASIK DAMAI\n016-5498845,\nGST No. :\n14/03/2018 4:06:34PM\nTAX INVOICE\nTRN: CR0008955\nCOUNTER 3 CASHIER: 1\nQTY UOM UNITAmt Exc. Amt Inc. GST\nPrice Tax Tax Code\nGB CR-CORN\n1 WALK 0.90 0.90 0.90 ZRL\n*Total QTY: 1.00 0.90\nTotal Includes GST 0% 0.90\nCustomer's Payment\nCash 5.00\nChange 4.10\nGST Summary Amount (RM) Tax (RM)\nZRL = 0 % 0.90 0.00\n*Goods sold are not returnable\nThank you for shopping at PASARAYA\nBORONG PINTAR SDN BHD"
+  }
+}

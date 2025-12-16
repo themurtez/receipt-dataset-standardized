@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "GOPAY",
+    "subtotal": 75000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 75000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "DAGING SAPI + B. TELOR BESAR",
+      "quantity": 1,
+      "unit_price": 75000.0,
+      "total_price": 75000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000608.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 DAGING SAPI\n+B. TELOR BESAR\n\nSubtotal 75.000\nDelivery 0\nTotal 75.000\n\nGOPAY 75.000\nKembalian 0\n"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "BHPetrol Palekbang",
+    "address": "Lot 1626, Mukim Kampung Laut, Tumpat, 16200 Palekbang, Kelantan",
+    "phone": "1-300-22-2828",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-24",
+    "time": "22:02:55",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 6.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 6.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PPF",
+      "quantity": 6,
+      "unit_price": 1.0,
+      "total_price": 6.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005742068.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BHPetrol Palekbang\nLot 1626, Mukim Kampung Laut\nTumpat\n16200 Palekbang, Kelantan\n\nPREPAY CHIT NUMBER\n29721\n\nTHIS IS NOT A RECEIPT\nA Tax Invoice will be issued upon the\ncompletion of the sale transaction\n\n24-03-2018 22:02:55 Cashier: 465\nTransaction No: 1-8046\n\nItem U\\Price Qnty Amount\n----------------------------------\nPPF P1 1.000 6 6.00\n----------------------------------\nTOTAL AMOUNT\nCASH RM 6.00\n\nThank You. Please Come Again\nCustomer Service 1-300-22-2828\n"
+  }
+}

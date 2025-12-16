@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "SUN WONG KUT SDN BHD",
+    "address": "176 JLN SUNGEI BESI, 57100 KUALA LUMPUR",
+    "phone": "03-9221345",
+    "tax_id": "001580630016",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-02-21",
+    "time": "11:19:00",
+    "currency": "MYR",
+    "payment_method": "Visa",
+    "subtotal": 88.17,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 88.17,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "FuelSave 95",
+      "quantity": 39.54,
+      "unit_price": 2.23,
+      "total_price": 88.17,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005447833.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SUN WONG KUT SDN BHD\nCompany No: 20965-W\nSite: 1046\n176 JLN SUNGEI BESI.\n57100 KUALA LUMPUR.\nTelephone: 03-9221345\nGST No: 001580630016\n\nInvoice number: 60000483942\n\n39.54 litre Pump # 07\nFuelSave 95 RM 88.17 C\n2.230 RM / litre\nTotal RM 88.17\nVisa RM 88.17\nRelief GST C RM 0.00\nTotal Gross C RM 88.17\n\nShell Loyalty Card\n6018840059147765\nPoints Awarded: 39\n\nDate Time Num OPT\n21/02/18 11:19 40278 07\n\nDiesel & Petrol RON95\ngiven Relief under Section\n56 (3) (b) GST Act 2014\n\nThank you\nPlease come again"
+  }
+}

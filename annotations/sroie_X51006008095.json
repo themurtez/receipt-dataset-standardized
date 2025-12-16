@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "BOON SENG PAPER SDN BHD",
+    "address": "12, JALAN BUNGA TANJUNG, 2/16 SEKSYEN 2, 40000 SHAH ALAM, SELANGOR",
+    "phone": "03-5519 0823",
+    "tax_id": "001005957120",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-19",
+    "time": "13:01:43",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 30.0,
+    "tax": 1.8,
+    "tip": 0.0,
+    "total": 31.8,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TAPE",
+      "quantity": 12,
+      "unit_price": 2.5,
+      "total_price": 30.0,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 12,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006008095.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BOON SENG PAPER SDN BHD (1248717-W) 12, JALAN BUNGA TANJUNG, 2/16 SEKSYEN 2, 40000 SHAH ALAM, SELANGOR Tel : 03-5519 0823 Fax : 03-5519 0823 GST ID : 001005957120 Tax Invoice No. : CS180319-0015 TAPE @ 2.50 Qty RM Tax 12 30.00 Total Amt Incl. GST @ 6% : 31.80 Rounding Adjustment: 0.00 Total Amt Payable: 31.80 Paid Amount: 31.80 Change: 0.00 Total Qty Tender: 12 Deposit: GST Summary Amount (RM) Tax (RM) SR @ 6% 30.00 1.80 Total 30.00 1.80 THANK YOU Goods Sold are not returnable 19/03/2018 1:01:43 PM"
+  }
+}

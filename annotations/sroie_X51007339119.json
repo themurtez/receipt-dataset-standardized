@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "SANYU STATIONERY SHOP",
+    "address": "NO. 31G&33G, JALAN SETIA INDAH X, U13/X, 40170 SETIA ALAM",
+    "phone": "+6012-918 7937",
+    "tax_id": "001531760640",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-17",
+    "time": "",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 1.89,
+    "tax": 0.11,
+    "tip": 0.0,
+    "total": 2.0,
+    "accounting_category": "Stationery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "WHITE MEMO PAD 3.5''x5'' S-3550",
+      "quantity": 2,
+      "unit_price": 1.0,
+      "total_price": 2.0,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007339119.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SANYU STATIONERY SHOP\nNO. 31G&33G, JALAN SETIA INDAH X ,U13/X 40170 SETIA ALAM\nMobile /Whatsapps : +6012-918 7937\nTel: +603-3362 4137\nGST ID No: 001531760640\nOwned By :\nSANYU SUPPLY SDN BHD (1135772-K) TAX INVOICE\nCASH SALES COUNTER\n1. 2015-0156 WHITE MEMO PAD 3.5''x5'' S-3550\n2 X 1.0000 - 2.00 SR\nTotal Sales Inclusive GST @6% 2.00\nDiscount 0.00\nTotal 2.00\nRound Adj 0.00\nFinal Total 2.00\nCASH 2.00\nCHANGE 0.00\nGST Summary Amount(RM) Tax(RM)\nSR @ 6% 1.89 0.11\nINV NO: CS-SA-0124981 Date : 17/11/2017\nGoods sold are not Returnable & Refundable\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN.\nTERIMA KASIH SILA DATANG LAGI\n** PLEASE KEEP THIS RECEIPT FOR PROVE OF\nPURCHASE DATE FOR I.T PRODUCT WARRANTY\nPURPOSE **\nFollow us in Facebook : Sanyu.Stationery"
+  }
+}

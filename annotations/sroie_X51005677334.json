@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Syarikat Perniagaan Gin Kee",
+    "address": "No 290, Jalan Air Panas, Setapak, 53200, Kuala Lumpur.",
+    "phone": "03-40210276",
+    "tax_id": "000750673920",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-31",
+    "time": "11:33:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 78.0,
+    "tax": 4.68,
+    "tip": 0.0,
+    "total": 82.68,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "1701 6/8 Batu (Bag)",
+      "quantity": 5,
+      "unit_price": 6.36,
+      "total_price": 31.8,
+      "category": "Building Materials",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "2167 4.5KG Renderoc Plug",
+      "quantity": 1,
+      "unit_price": 50.88,
+      "total_price": 50.88,
+      "category": "Building Materials",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005677334.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS,\nSETAPAK,\n53200, KUALA LUMPUR.\nTEL : 03-40210276\nGST ID : 000750673920\nSIMPLIFIED TAX INVOICE\nCASH\nDoc No : CS00013066 Date: 31/01/2018\nCashier : USER Time: 11:33:00\nSalesperson : Ref.:\nItem Qty S/Price Amount Tax\n1701 5 6.36 31.80 SR\n6/8 BATU (BAG)\n2167 1 50.88 50.88 SR\n4.5KG RENDEROC PLUG\nTotal Qty: 6 82.68\nTotal Sales (Excluding GST) 78.00\nDiscount : 0.00\nTotal GST : 4.68\nRounding : 0.00\nTotal Sales (Inclusive of GST) : 82.68\nCASH : 82.68\nChange :\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR 6 78.00 4.68\nTotal : 78.00 4.68\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU."
+  }
+}

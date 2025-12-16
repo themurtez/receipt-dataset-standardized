@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "SCLAVIA",
+    "address": "OLAMIA",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "KREDIT BCA",
+    "subtotal": 73638.0,
+    "tax": 7364.0,
+    "tip": 0.0,
+    "total": 81000.0,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TEH PANAS",
+      "quantity": 1,
+      "unit_price": 5455.0,
+      "total_price": 5455.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ES TEH TAWAR",
+      "quantity": 1,
+      "unit_price": 6364.0,
+      "total_price": 6364.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "NASI CAH JAMUR",
+      "quantity": 1,
+      "unit_price": 32728.0,
+      "total_price": 32728.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BIHUN GORENG AYAM",
+      "quantity": 1,
+      "unit_price": 29091.0,
+      "total_price": 29091.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": -2.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000603.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SCLAVIA\nOLAMIA\n\n1   TEH PANAS                  5,455\n1   ES TEH TAWAR               6,364\n1   NASI CAH JAMUR           32,728\n1   BIHUN GORENG AYAM        29,091\n\nITEMS :4                  73,638\nVAT 10%                    7,364\nBefore Rounding          81,002\nRounding                     -2\nTotal........             81,000\nKREDIT BCA\n"
+  }
+}

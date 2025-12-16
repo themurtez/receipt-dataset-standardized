@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "Akira",
+    "address": "385 Rt 9 W, Glenmont, NY 12077",
+    "phone": "518-434-8880",
+    "tax_id": "",
+    "website": "www.akirasushigroup.com"
+  },
+  "transaction": {
+    "date": "2018-11-16",
+    "time": "18:48:19",
+    "currency": "USD",
+    "payment_method": "Unpaid",
+    "subtotal": 93.58,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 93.58,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Hf Chk Steak",
+      "quantity": 1,
+      "unit_price": 22.95,
+      "total_price": 22.95,
+      "category": "Entree",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Med Noodle",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Side",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sushi Deluxe",
+      "quantity": 1,
+      "unit_price": 20.75,
+      "total_price": 20.75,
+      "category": "Entree",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Glenmont Roll",
+      "quantity": 1,
+      "unit_price": 15.95,
+      "total_price": 15.95,
+      "category": "Entree",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Philly R",
+      "quantity": 1,
+      "unit_price": 6.5,
+      "total_price": 6.5,
+      "category": "Entree",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sp Tuna R",
+      "quantity": 1,
+      "unit_price": 6.5,
+      "total_price": 6.5,
+      "category": "Entree",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Salmon R",
+      "quantity": 1,
+      "unit_price": 13.0,
+      "total_price": 13.0,
+      "category": "Entree",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1006-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Akira\n385 Rt 9 W\nGlenmont, NY 12077\n518-434-8880\nwww.akirasushigroup.com\n2018-11-16 18:48:19\n#37 PICKUP\nLe-----\nPhil\nQTY ITEM Amt\n1 Hf Chk Steak(K) $22.95\nMed $2.00\nNoodle\n1 Sushi Deluxe $20.75\n1 Glenmont Roll $15.95\n1 Philly R $6.50\n1 Sp Tuna R $6.50\n1 Salmon R $13.00\nSubtotal $93.58\nTax $0.00\nTotal: $93.58\n*** Unpaid ***"
+  }
+}

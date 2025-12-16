@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "SAM SAM TRADING CO",
+    "address": "67, JLN MEWAH 25/63 TMN SRI MUDA, 40400 SHAH ALAM.",
+    "phone": "03-51213881",
+    "tax_id": "001006288896",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-29",
+    "time": "20:17:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 14.1,
+    "tax": 0.8,
+    "tip": 0.0,
+    "total": 14.1,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "HE EDG UNICORN TWIN SUPER GLUE USG-99",
+      "quantity": 1,
+      "unit_price": 5.2,
+      "total_price": 5.2,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SS EZL A4 CYBER MIX COLOR PAPER 100'S8",
+      "quantity": 1,
+      "unit_price": 8.9,
+      "total_price": 8.9,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 5.9
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005255805.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SAM SAM TRADING CO\n(742016-W)\n67, JLN MEWAH 25/63 TMN SRI MUDA,\n40400 SHAH ALAM.\nTEL/FAX : 03-51213881\nGST NO: 001006288896\n\nTAX INVOICE\nHE EDG UNICORN TWIN SUPER GLUE USG-99-\n9557368063013 1 X 5.20 5.20 S\nSS EZL A4 CYBER MIX COLOR PAPER 100'58\n2270008 1 X 8.90 8.90 S\nNo. Qtys: 2 No. Items: 2\nTAX AMT (S) 6% RM 13.30\nGST 6% RM 0.80\nTAX AMT (Z) 0% RM 0.00\nGST 0% RM 0.00\nTAX AMT (E) 6% RM 0.00\nEXC GST 6% RM 0.00\nTOTAL RM 14.10\nCASH RM 20.00\nCHANGE RM 5.90\n\nTHANK YOU FOR SHOPPING\nGOODS SOLD ARE NOT RETURNABLE.\nFriday, 29-12-2017 Time : 20:17\nCas. r : SAM SAM\nWc5 SWH 01 Inv:RO00721136"
+  }
+}

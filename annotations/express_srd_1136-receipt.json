@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "The Shawarma Factory",
+    "address": "14817 S. Western Ave, Gardena, CA 90249",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-04-10",
+    "time": "12:34:00",
+    "currency": "USD",
+    "payment_method": "Visa",
+    "subtotal": 11.99,
+    "tax": 1.14,
+    "tip": 0.0,
+    "total": 13.13,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Flame Broiled Chicken",
+      "quantity": 1,
+      "unit_price": 11.99,
+      "total_price": 11.99,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1136-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "The Shawarma Factory\n14817 S. Western Ave\nGardena, CA 90249\nApr 10, 2019  12:34 PM\nVince\n\nTicket: #29\nAuthorization 173245          Visa 7286\nReceipt 03WE\n\nVISA DEBIT\nAID A0 00 00 00 03 10 10\n\nFOR HERE\n\nFlame Broiled Chicken                  $11.99\n1/2 Chicken, Hummus , House Salad\n\nSubtotal                          $11.99\nSales Tax                          $1.14\n                                    \nTotal                             $13.13\n"
+  }
+}

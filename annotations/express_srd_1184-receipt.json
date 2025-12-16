@@ -1,0 +1,118 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2013-03-22",
+    "time": "21:53:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 178.0,
+    "tax": 15.35,
+    "tip": 0.0,
+    "total": 193.35,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BEEFEATER-MARTINI",
+      "quantity": 1,
+      "unit_price": 11.5,
+      "total_price": 11.5,
+      "category": "Beverage",
+      "accounting_category": "Alcohol",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "ROSEMARY CAIPIRINHA",
+      "quantity": 1,
+      "unit_price": 13.0,
+      "total_price": 13.0,
+      "category": "Beverage",
+      "accounting_category": "Alcohol",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "CRABCAKES",
+      "quantity": 1,
+      "unit_price": 17.0,
+      "total_price": 17.0,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BLACK PEPPER BACON",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Food",
+      "accounting_category": "Appetizer",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Millenium 2#",
+      "quantity": 1,
+      "unit_price": 52.0,
+      "total_price": 52.0,
+      "category": "Food",
+      "accounting_category": "Entree",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "NY SIRLOIN",
+      "quantity": 1,
+      "unit_price": 46.0,
+      "total_price": 46.0,
+      "category": "Food",
+      "accounting_category": "Entree",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BRUSSEL SPROUTS",
+      "quantity": 1,
+      "unit_price": 13.0,
+      "total_price": 13.0,
+      "category": "Food",
+      "accounting_category": "Side",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ESPRESSO",
+      "quantity": 1,
+      "unit_price": 4.5,
+      "total_price": 4.5,
+      "category": "Beverage",
+      "accounting_category": "Non-Alcoholic",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "LAUREN'S HAZELNUT TORTE",
+      "quantity": 1,
+      "unit_price": 9.0,
+      "total_price": 9.0,
+      "category": "Food",
+      "accounting_category": "Dessert",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 9,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1184-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "0193 Table 54 #Party 2\nWILLIAM L SvрСk: 10 8:07р 03/22/13\nDINING ROOM\nT5 MAIN DINING\n\n1 BEEFEATER-MARTINI 11.50\n1 ROSEMARY CAIPIRINHA 13.00\n1 CRABCAKES 17.00\n1 BLACK PEPPER BACON 12.00\n1 Millenium 2# 52.00\n1 NY SIRLOIN 46.00\n1 BRUSSEL SPROUTS 13.00\n1 ESPRESSO 4.50\n1 LAUREN'S HAZELNUT TORTE 9.00\n\nSub Total: 178.00\nTax : 15.35\nSub Total: 193.35\n\n03/22 9:53р TOTAL: 193.35"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Lename Comercio Industria e Representacao, Lda",
+    "address": "Rua Sao Paulo, 275-275A, 1200-430 LISBOA",
+    "phone": "213 932 697",
+    "tax_id": "510776914",
+    "website": "www.lename.pt"
+  },
+  "transaction": {
+    "date": "2017-11-06",
+    "time": "00:00:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 12.5,
+    "tax": 2.88,
+    "tip": 0.0,
+    "total": 15.38,
+    "accounting_category": "Furniture",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Armadura Flu T5 Fluija 1x35w Bai Est",
+      "quantity": 1,
+      "unit_price": 12.5,
+      "total_price": 12.5,
+      "category": "Furniture",
+      "accounting_category": "Furniture",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_200800.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Lename Comercio Industria e Representacao, Lda\nRua Sao Paulo, 275-275A\n1200-430 LISBOA\nN Contribuinte: 510776914\nFatura Simplificada serie y n° 507/7\nCodigo AT FS 2017A99077\nRef\n411866.397\nDesignacao\nArmadora Flu T5 Fluija 1x35w Bai Est\nQtd\n1.00\nPr. Unit.\nTotal I.V.A\n12.5000\nTotal\n12.5000\nData efetiva de entrega dos bens ou da prestacao do\nservico: 06.11.2017\nSoftware PHC- KLIN-Processado por programa certificado\nn° 0006/AT 20170625)\nTotal liquido €\n12.50\nDesconto Comercial €\n0.00\nBase Incidencia I.V.A € 12.5000\nTotal IVA €\n2.38\nTOTAL €\n15.38\nTaxa IVA\n23.00%\n13.00%\n0.00%\n4.00%\nBase Incidencia €\n12.50\n0.00\n0.00\n0.00\nValor IVA €\n2.88\n0.00\n0.00\n0.00\nDL"
+  }
+}

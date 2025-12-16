@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "GAR RIBAMAR-F. CUNHA COSTA",
+    "address": "Rua Correia Teles 20 B, 1350-099 Lisboa",
+    "phone": "213825993",
+    "tax_id": "PT501019406",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-16",
+    "time": "16:10:47",
+    "currency": "EUR",
+    "payment_method": "Cartão Débito",
+    "subtotal": 10.0,
+    "tax": 1.87,
+    "tip": 0.0,
+    "total": 10.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Gasóleo Simples",
+      "quantity": 1,
+      "unit_price": 10.0,
+      "total_price": 10.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_200430.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "galp\n>>>>>>>>> DOCUMENTO DE VENDA <<<<<<<<<\nGAR RIBAMAR (Campo de Ourique) 11272\nGAR RIBAMAR-F. CUNHA COSTA\nRua Correia Teles 20 B\n1350-099 Lisboa Tel.213825993\nNIF PT501019406\nFatura/Recibo\nBomba 01\nGASOLEO SIMPLES EUR 10.00\n1.474 EUR/L\nTotal\nEUR 10.00\n23.00 % IVA A EUR 1.87\nCliente: 3561\nNome: FLikeHOME\nMorada: LISBOA\nCodigo Postal:\nLocalidade:\nNo Contribuinte: 510776914\nMatricula: 64-TO-15\nOperador: Paulo Freitas\nDoc. No\n0100011410F4AA0000012272019/005113\nK4Dp - Processado Por Proqrama\nCertificado no 1396/AT\nData Hora No Process\n16-05-19 16:09 55411 01 002 818\nRegime IVA de Caixa nos casos em que este\nseja aplicavel ao cliente\nclientes@galp.com / Tel. 707 504 257\nDescontos até 16ct/l com cartão Universo\nPague com saldo do Cartão Continente\nExperimente os combustiveis EVOLOGIC\n+PERFORMANCE, +PROTECAO, +POUPANCA E + AMBIENTE. Consulte galp.com.\nA sua opinião é importante!\nVá a opiniao.galp.com/postos\ne receba desconto 2 eur em combustivel Evologic, o combustivel mais evoluido\nTotal\nCARTAO DÉBITO EUR 10.00\nTerminal Pagamento Automatico: 00611497\nData: 2019-05-16\nPeriodo:050 Transacao:005 BANCO BPI\nBAIALHA DE ALMEIDA/M.DRA\nCARTAO: ****0485/75\nA0000000032010 VISA ELEC PL\nCOMPRA 10,00E VELOc DNB\nID ESTAB .0001010941 AUT:707064\nPROCESSADO POR SIBS\n9015541012201905160000000001"
+  }
+}

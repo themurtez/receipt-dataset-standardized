@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 22000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 22000.0,
+    "accounting_category": "sales",
+    "category_confidence": 0.8
+  },
+  "items": [
+    {
+      "name": "DEPT01",
+      "quantity": 1,
+      "unit_price": 22000.0,
+      "total_price": 22000.0,
+      "category": "general goods",
+      "accounting_category": "sales",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 78000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000270.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "DEPT01 22,000\nTOTAL 22,000\nCASH 100,000\nCHANGE 78,000"
+  }
+}

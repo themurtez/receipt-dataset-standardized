@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Galp A. Giao Coutinho II",
+    "address": "R. Tomás da Fonseca Torre G, Piso 0, 1600-209 Lisboa",
+    "phone": "",
+    "tax_id": "515021250",
+    "website": "galp.com"
+  },
+  "transaction": {
+    "date": "2019-02-18",
+    "time": "11:09:33",
+    "currency": "EUR",
+    "payment_method": "Cartão Debito",
+    "subtotal": 1.99,
+    "tax": 0.17,
+    "tip": 0.0,
+    "total": 1.99,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "A MANIQUE AMS BLANK",
+      "quantity": 1,
+      "unit_price": 1.99,
+      "total_price": 1.99,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_192347.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "galp\nDOCUMENTO DE VENDA\nA. GIAO COUTINHO II - 11062\nSIENER ANTUNES, LDA.\nR. Tomás da Fonseca Torre G, Piso 0\n1600-209 Lisboa Tel: 210024250\nNIF: 515021250\nFatura/Recibo\nQuantidade Preço Unitário Preço\n\n1 x EUR 1.99 EUR 1.99 A\nA MANIQUE AMS BLANK EUR 1.99\nTotal EUR 1.99\n23.0% IVA A EUR 0.17\n\nCliente: 47703\nNome: FILE HOME\n\nTotal\nCARTÃO DEBITO\nEUR 1.99\n\nPagamento Automático: 00069817\nData: 2019-02-18 Hora: 11:09:33\nPedido: 542 Transacção: 023 Mensagem: 931\nMILLENNIUM BCP\n\nMARIA SOBRAL JOSÉ\nCARTAO: ************7396/32\nCOMPRA 1,99€ MB MULTIBANCO\nAUT: AJ7469 PROCESSADA POR SIBS\n"
+  }
+}

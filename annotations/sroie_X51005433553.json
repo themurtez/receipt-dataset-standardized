@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "YHM Aeon Tebrau City",
+    "address": "S117, Second Floor,\nAeon Tebrau City,\n1, Jalan Desa Tebrau,\nTaman Desa Tebrau,\n81100 Johor Bahru, Johor.",
+    "phone": "",
+    "tax_id": "002105827328",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-11",
+    "time": "18:20:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 13.1,
+    "tax": 0.74,
+    "tip": 0.0,
+    "total": 13.1,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Green Tea",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Kake Udon R",
+      "quantity": 1,
+      "unit_price": 8.8,
+      "total_price": 8.8,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Enoki Tempura",
+      "quantity": 1,
+      "unit_price": 2.8,
+      "total_price": 2.8,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 7.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005433553.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "YHM Aeon Tebrau City\nS117, Second Floor,\nAeon Tebrau City,\n1, Jalan Desa Tebrau,\nTaman Desa Tebrau,\n81100 Johor Bahru, Johor.\n002105827328\n* TAX INVOICE *\nOrder No.: 1000219  11/03/2018 06:20 PM\nReceipt No.: G03-1220615\tPax: 1\nCashier :Cashier\nEat In\nItem\tQty\tU.Price\tAmount Tax\nFG-400019 1 1.50 1.50  SR\nGreen Tea\nFG-H00001 1 8.80 8.80  SR\nKake Udon R\nFG-H00100 1 2.80 2.80  SR\nEnoki Tempura\n-------------------\nSubTotal : 13.10\nTotal  : 13.10\nTOTAL:MYR 13.10\nTotal Excluded Tax  12.36\n0.74\nPayment Details\nCash\t20.10\nCash Change\t7.00\nTax Summary\nTax Code  %\tAmount(MYR)\tTax(MYR)\nSR\t6\t  \t13.6\t\t\t\t0.74\n\n**** Thank You ****\nPlease Come Again."
+  }
+}

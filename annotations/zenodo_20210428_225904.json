@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "A. S. D. Pacheco LIS-CAS",
+    "address": "Posto Galp - 14190, Galpogrio S.A.",
+    "phone": "963911779",
+    "tax_id": "503049745",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-29",
+    "time": "12:42:00",
+    "currency": "EUR",
+    "payment_method": "Cartão Bancário",
+    "subtotal": 22.21,
+    "tax": 4.15,
+    "tip": 0.0,
+    "total": 22.21,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GASOLINA EVOLUTION 95",
+      "quantity": 13.11,
+      "unit_price": 1.694,
+      "total_price": 22.21,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_225904.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "A. S. D. Pacheco LIS-CAS\nPosto Galp - 14190\nGalpogrio S.A.\nTel.: 963911779\nNIF: 503049745\n\nData: 29/05/2019 12:42\nOPT Nr.: 4 Turno: 539\nFatura/Recibo: FR 141907420191109/3556\nWm Ref.: 006904\n\nBomba: 4\nGASOLINA EVOLUTION 95\n1.694 EUR/L\n13.11 L\nEUR 22.21\n\nTotal EUR 22.21\nCartão Bancário\n\nIVA 23.00% EUR 4.15\n\nGALP D PACHECO LISBO\n1000-000 LISBOA\nIdent.Tip: 003594995\n2019/05/29 12:40:14\nPer.: 032 Tr.: 0042\nMILLENNIUM BCP\nMARIA SOBRAL/JOSE\nCARTAO: ***398/68\nAUTORIZACAO: 320081\n\nVISA ELECTRON\nAUTORIZAÇÃO E COMPRA\n\nVISA ELEC PP N\nID. Estab.: 0000993899\nAUT: 321909\n\nREDUNICRE\nINOVAÇÃO E CONFIANÇA\nPROCESSADO POR SIBS\n\nDados de cliente\n\nNIF: 510776914\nMATRICULA: 20-ID-84\nPortugal\n\nK.xAB - Processado por Programa\nCertificado n.º 1396/AT\n\nObrigado\nBoa Viagem"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "CASA MAGANE",
+    "address": "RUA SÃO JOÃO DA MATA NRQ 25 E 27, 1200-847 LISBOA",
+    "phone": "213975314, 966536578",
+    "tax_id": "220378541",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-04",
+    "time": "17:18:00",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 5.85,
+    "tax": 1.35,
+    "tip": 0.0,
+    "total": 7.2,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TORNEIRA",
+      "quantity": 1,
+      "unit_price": 5.95,
+      "total_price": 5.95,
+      "category": "Hardware",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TEFLON",
+      "quantity": 1,
+      "unit_price": 1.25,
+      "total_price": 1.25,
+      "category": "Hardware",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210427_162019.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CASA MAGANE\nHEMAL VINODLAL\nCONTRIBUINTE 220378541 TEL 213975314\nTELF.MOVEL 966536578\nRUA SÃO JOÃO DA MATA NRQ 25 E 27\n1200-847 LISBOA\nNIB:0010 0000 501 8878 000 176\n\nFATURA SIMPLIFICADA\nORIGINAL - 2ª Via\nDATA 2019/03/04 - 17:18    N9 A/23694\n\nCliente: FLIKEHOME\nMorada: \nCont.N°: 510776914\n                Artigo    Qtd    Preço €   Valor €\nTORNEIRA 23%\n   1 Un x      5,95     =    5,95\nTEFLON 23%\n   1 Un x      1,25     =    1,25\n                #002\nTOTAL...................................  7,20\nNumerário...............................  7,20\nTroco..................................  0,00\n\nIVA Incluido à taxa indicada\nTaxa%  Sujeito   IVA     Total\n23,00      5,85     1,35    7,20\n\nnG47-Processado por programa certificado\nN9 88/AT - 1 A/23694\n\nOpr: OPERADOR\nOBRIGADO POR SERMOS A SUA PREFERÊNCIA!"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 399000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 399000.0,
+    "accounting_category": "Sales",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SKECHERS GIRLS NO COLOR, 4",
+      "quantity": 1,
+      "unit_price": 399000.0,
+      "total_price": 399000.0,
+      "category": "Footwear",
+      "accounting_category": "Sales",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000763.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SKE82285LB 1 399000.00 399000.00\nBK000004\nSKECHERS GIRLS NO COLOR, 4\nGROSS TOTAL 399000.00\nNET TOTAL 399000.00"
+  }
+}

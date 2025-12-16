@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "ROGERIO PAIS, LDA",
+    "address": "AVENIDA ALMIRANTE REIS, 9-E, 1150-007 LISBOA",
+    "phone": "218853901",
+    "tax_id": "510776914",
+    "website": "www.ticasgest.pt"
+  },
+  "transaction": {
+    "date": "2019-02-07",
+    "time": "16:51:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 4.31,
+    "tax": 0.99,
+    "tip": 0.0,
+    "total": 5.3,
+    "accounting_category": "Cleaning Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Spray Limpeza Juntas Az",
+      "quantity": 1,
+      "unit_price": 4.31,
+      "total_price": 4.31,
+      "category": "Cleaning Supplies",
+      "accounting_category": "Cleaning Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_144106.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROGERIO PAIS, LDA\nFERRAGENS * FERRAMENTAS * MAQUINAS * UTILIDADES\nAVENIDA ALMIRANTE REIS, 9-E * 1150-007 LISBOA\nTel/Fax 218853901 Tel. 966008696\n* Sociedade por quotas * Capital Social\n5.012,92€ REG.CRC. 34852\nNIB: 0033 0000 01280286463 52\n\n2019-02-07 FATURA SIMPLIFICADA N.\nOriginal FS 1A1901/1152\n16:51 BALCAO 1\n\nContribuinte: 510776914\n----------------------------\nDESCRICAO IVA VALOR\n1 Spray Limpeza Juntas Az 23% 5,30\n----------------------------\nTAXA IVA INCID.\n23% 0,99 4,31\n\nTOTAL: Eur 5,30\n\nPago em Numerario\nValor entregue: 5,30\nTroco: 0,00\n\nImplementado por www.ticasgest.pt\nHAWM-Processado por programa\ncertificado n. 217/AT\n\nOs servicos e/ou bens foram realizados e/ou colo\ncados a'disposicao do adquirente nesta data (Art\n. 36 do CIVA, No5 a'linea F)\n\nLicenca: ROGERIO PAIS, LDA\nContribuinte: 500544000"
+  }
+}

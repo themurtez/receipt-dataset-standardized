@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (KUCHAI) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000473792512",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-01-24",
+    "time": "11:44:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 54.15,
+    "tax": 3.25,
+    "tip": 0.0,
+    "total": 57.4,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TISSUE HOLDER Z-66#VS",
+      "quantity": 2,
+      "unit_price": 5.3,
+      "total_price": 10.6,
+      "category": "Home Supplies",
+      "accounting_category": "Home Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "HOOK 1526#",
+      "quantity": 2,
+      "unit_price": 2.3,
+      "total_price": 4.6,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PLACEMAT 145#",
+      "quantity": 2,
+      "unit_price": 1.9,
+      "total_price": 3.8,
+      "category": "Home Supplies",
+      "accounting_category": "Home Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "FURNITURE S/MAT 2PCS 3243#",
+      "quantity": 2,
+      "unit_price": 2.5,
+      "total_price": 5.0,
+      "category": "Furniture",
+      "accounting_category": "Furniture",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PARTITION 1072 10CM",
+      "quantity": 2,
+      "unit_price": 7.3,
+      "total_price": 14.6,
+      "category": "Home Supplies",
+      "accounting_category": "Home Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CNY DECO A002# 26CM",
+      "quantity": 1,
+      "unit_price": 10.9,
+      "total_price": 10.9,
+      "category": "Decorations",
+      "accounting_category": "Decorations",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CNY DECO A003# 21CM",
+      "quantity": 1,
+      "unit_price": 7.9,
+      "total_price": 7.9,
+      "category": "Decorations",
+      "accounting_category": "Decorations",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "FREE 2016 CNY RED PACKET",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Promotional",
+      "accounting_category": "Promotional",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 13,
+    "rounding": 0.0,
+    "change_due": 42.6
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619709.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. D.I.Y. (KUCHAI) SDN BHD\nCo-REG:750441-W\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000473792512)\n(KEPONG)\n--TAX INVOICE--\nTISSUE HOLDER Z-66#VS\nMC22-32 - 10/120\n9068477 2 X 5.30 10.60\nHOOK 1526#\nMG12/3-32/ - 36/360\n9068722 2 X 2.30 4.60\nPLACEMAT 145#\nIF31 - 20/300\n9062301 2 X 1.90 3.80\nFURNITURE S/MAT 2PCS 3243#\nMF13-22/3 - 24/360\n9067630 2 X 2.50 5.00\nPARTITION 1072 10CM\nIA12 - 12/72\n4947989310729 2 X 7.30 14.60\nCNY DECO A002# 26CM\nXE11-22 - 30\n8711469 1 X 10.90 10.90\nCNY DECO A003# 21CM\nIE21 - 60\n8711468 1 X 7.90 7.90\nFREE 2016 CNY RED PACKET\n99292 1 X 0.00 0.00\nItem(s) : 8 Qty(s) : 13\nTOTAL INCL. GST@6% RM 57.40\nCASH RM 100.00\nCHANGE RM 42.60\nGST @6% included in total RM 3.25\n24-01-16 11:44 SH01 R003 T1 R000379771\nOPERATOR KPC - BASHUDEV NEUPANE\nEXCHANGE ARE ALLOWED WITHIN\n3 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

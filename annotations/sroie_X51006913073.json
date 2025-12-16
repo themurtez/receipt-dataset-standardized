@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "UNIHAKKA INTERNATIONAL SDN BHD",
+    "address": "12, Jalan Tampoi 7/4, Kawasan Perindustrian Tampoi, 81200 Johor Bahru, Johor",
+    "phone": "",
+    "tax_id": "867388-U",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-27",
+    "time": "18:25:00",
+    "currency": "USD",
+    "payment_method": "Cash",
+    "subtotal": 10.09,
+    "tax": 0.61,
+    "tip": 0.0,
+    "total": 10.7,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Herbal Tea (Iced)",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "1 Meat + 3 Vege",
+      "quantity": 1,
+      "unit_price": 7.1,
+      "total_price": 7.1,
+      "category": "Meal",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Imported Veggies",
+      "quantity": 1,
+      "unit_price": 1.6,
+      "total_price": 1.6,
+      "category": "Vegetable",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006913073.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "UNIHAKKA INTERNATIONAL SDN BHD\n27 May 2018 18:25\n(867388-U)\n12, Jalan Tampoi 7/4,Kawasan Perindustrian\nTampoi,81200 Johor Bahru,Johor\nTAX INVOICE\nInvoice # : OR18052702160246\nItem Qty Total\nSR I00100000053- Herbal Tea (Iced)\n$2.00 1 $2.00\nSR I00100000035- 1 Meat + 3 Vege\n$7.10 1 $7.10\nSR I00100000170- Imported Veggies\n$1.60 1 $1.60\nTotal Amount: $10.70\nGST @6%: $0.61\nNett Total: $10.70\nPayment Mode Amount\nCASH\n$10.70\nChange\n$0.00\nGST Summary Amount($) Tax($)\nSR = GST @6% 10.09 0.61\nGST REG #000656195584\nBAR WANG RICE@PERMAS JAYA\n(Price Inclusive Of GST)\nThank You & Come Again!\nLike and Follow Us on Facebook!\nFacebook.com/BarWangRice"
+  }
+}

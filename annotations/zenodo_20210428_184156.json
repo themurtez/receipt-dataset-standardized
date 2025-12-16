@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Intermarche Supermercados LDA",
+    "address": "Estrada Nacional 116, Km 1, Edificio Intermarche, 2655-139 Ericeira",
+    "phone": "",
+    "tax_id": "514163623",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-01-29",
+    "time": "11:01:11",
+    "currency": "EUR",
+    "payment_method": "MB",
+    "subtotal": 40.05,
+    "tax": 7.49,
+    "tip": 0.0,
+    "total": 40.05,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Gasoleo",
+      "quantity": 31.31,
+      "unit_price": 1.279,
+      "total_price": 40.05,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_184156.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "INTERICERIA - Supermercados LDA\nEstrada Nacional 116, Km 1\nEdificio Intermarche\nConfr. 514163623\n2655-139 Ericeira\nData Hora POS Operador Turno\n29-01-2019 11:01:11 1 304 3121\nFactura/Recibo\nFT6173PT100A9C9007EA965/1513\n----------------------------------------------------------------------------\nQtd. Preco Unit IVA Produto Sub-Total\n----------------------------------------------------------------------------\nBomba:8 Mangueira:4\n31.31 Lt 1.279 Eur/Lt GASOLEO\n23 % 40.05 Eur\n----------------------------------------------------------------------------\nNIF: 510776914\nNome Cliente\nDesconhecido\nMorada Desconhecido\nMB 40.05\nIva 23.00 %: 7.49 Eur\nTotal Venda: 40.05 Eur\n----------------------------------------------------------------------------\nBens/Servicos colocados ao dispos\n do cliente final no acto da venda\nObrigado e Boa Viagem\nXuGI-Processado por prog. certificado 166/AT\n"
+  }
+}

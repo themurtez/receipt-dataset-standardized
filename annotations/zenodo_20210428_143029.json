@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "ZHANG HUANZHEN",
+    "address": "RUA SANTA MARTA N.43-A, 1150-293 LISBOA",
+    "phone": "966889798",
+    "tax_id": "22960720",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-04",
+    "time": "14:24:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 3.4,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 3.4,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "IVA Description O% Ambiente",
+      "quantity": 4,
+      "unit_price": 0.85,
+      "total_price": 3.4,
+      "category": "Retail",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_143029.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ZHANG HUANZHEN\nZHANG HUANZHEN\nContribuinte Nr: 22960720\nRUA SANTA MARTA N.43-A\n1150-293 LISBOA\nTel: 966889798\n2019-02-04 14:24\n\nNome : FLIKE HOME\nCont.Nr: 510776914\nMorada\n\nORIGINAL\nFatura Nr: FAC 202/00016717\n\nIVA Descricao\nO% Ambientador\n\n4 X 0.85 3.40\n\nTotal A Pagar Euros: 3.40\nNumero De Artigos: 4\n\nRecebido (Euros) : 3.40\nTroco (Euros) : 0.00\n\nIVA-NAO CONFER DIREITO A DEDUCAO\nTotal: 3.40Euros\n\nFatura indispensavel para troca em 8 dias\ngz6L - Processado por Programa\nCertificado Nr: 1174/AT\nOBRIGADO E VOLTE SEMPRE"
+  }
+}

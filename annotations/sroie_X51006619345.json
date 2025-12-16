@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "The Store (Malaysia) Sdn. Bhd.",
+    "address": "Lot 34817, Jalan Batu Ambar, Taman Kok Lian, 51200 Kuala Lumpur",
+    "phone": "",
+    "tax_id": "000364929024",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-02-06",
+    "time": "12:34:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 9.24,
+    "tax": 0.56,
+    "tip": 0.0,
+    "total": 9.8,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Plasticware-Normal (MCH)",
+      "quantity": 2,
+      "unit_price": 4.9,
+      "total_price": 9.8,
+      "category": "Household Items",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.2
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619345.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "THE STORE (MALAYSIA) SDN. BHD. (8199-K)\nLOT 34817 JALAN BATU AMBAR\nTAMAN KOK LIAN\n51200 KUALA LUMPUR,\nGST REG: NO : 000364929024\n\n06-02-2016 (Sat) 12:34\nRN : 1012-3006-0028\n1012/3006 TS - K.LUMPUR (TAMAN KOK LIAN)\nCASHIER:0007777 Ain Najjini\n\nPLASTICWARE-NORMAL (MCH)\n200000:365873 2@ 4.90 9.80 S\n\nTOTAL ITEM                       2\nTOTAL SALES INCLUSIVE GST   9.80\nTOTAL PAYABLE AMOUNT        9.80\nCASH                               10.00\nCHANGE                          0.20\n\nGST SUMMARY AMOUNT(RM)\nS: GST 6%                9.24                  0.56\nZ: GST 0%                0.00                 0.00\n--------------------------------------------------\nMOHON KAD THE STORE DAN KUMPULKAN\nMATA GANJARAN HARI INI\n\nTERIMA KASIH KERANA MEMBELI BELAH\nDI THE STORE"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Bella Pasta",
+    "address": "223 Newport Ave, Pawtucket, RI 02861",
+    "phone": "(401) 722-6297",
+    "tax_id": "",
+    "website": "www.bellapastari.com"
+  },
+  "transaction": {
+    "date": "2019-08-09",
+    "time": "16:28:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 28.48,
+    "tax": 2.28,
+    "tip": 0.0,
+    "total": 30.76,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Steak Tip Skewers",
+      "quantity": 1,
+      "unit_price": 12.99,
+      "total_price": 12.99,
+      "category": "Entree",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Piatto Gorgonzola",
+      "quantity": 1,
+      "unit_price": 12.99,
+      "total_price": 12.99,
+      "category": "Entree",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Root Beer",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1009-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Bella Pasta\n223 Newport Ave\nPawtucket, RI 02861\n(401) 722-6297\nwww.bellapastari.com\nCheck us out on\ngoogle/facebook/yelp/Trip\nAdvisor\nServer: PM BAR P\n08/09/19 4:28 PM\nCheck #4 Table 21\nSteak Tip Skewers $12.99\nPiatto Gorgonzola $12.99\nRoot Beer $2.50\nSubtotal $28.48\nTax $2.28\nTotal $30.76\nCheck us out on Grub hub and Uber Eats for\nDelivery!!\nRestaurant Hours\nSunday 3:00pm - 8:00pm"
+  }
+}

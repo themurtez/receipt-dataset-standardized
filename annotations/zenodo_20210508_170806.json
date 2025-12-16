@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Worten",
+    "address": "Amoreiras Plaza, Rua Mario Ulrich, 1070-169 Lisboa",
+    "phone": "",
+    "tax_id": "503630330",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-11-20",
+    "time": "16:52:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 16.25,
+    "tax": 3.74,
+    "tip": 0.0,
+    "total": 19.99,
+    "accounting_category": "Electronics",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Pequenos Domesticos - Convector Eletrico",
+      "quantity": 1,
+      "unit_price": 19.99,
+      "total_price": 19.99,
+      "category": "Electronics",
+      "accounting_category": "Electronics",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_170806.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "WORTEN\nAmoreiras\nEdificio Amoreiras Plaza, Rua Mario Ulrich, 1070-169\nRegistada CRC Porto sob no 503630330\nNIF: PT503630330\nC.S. 4.600.000,00 EUR SIEMPEE: PIG1051\nFatura Original\nNO: FT HKK003060/2018 20/11/2018 16:52:56\nCliente: FLEXIHANNE MEDICACO IMOBILIARIA LDA\nNIF: PT510767914\nMorada: LISBOA\nLocal: LISBOA\nIVA DESCRICAO VALOR\nPequenos Domesticos:\n(C) 5601986230 CONVECTOR ELETRICO\nKLKTT K 19,99\nTOTAL A PAGAR 19,99\nMuesario 20.00\nTROCO 0,01\n£IVA Total L\"q. IVA\n23,00% 16,25 3,74 19,99\n10001003006019861981\nukx1-Processado por programa certificado\nN. 1356/\n5198 0003 60691 268433 - 1000065042501177\nLocal carga: Morada da loja\nLocal descarga: Morada do cliente\nData: 20/11/2018 Hora: 16:52\nIVA INCLUIDO\nTalon Indispensavel para troca\nPrazo de devolucao: 15 dias\n***OBRIGADO ***\nNao estao abrangidos pela politica de\nsatisfacao/devolucao os artigos com\nativacao em caixa\nPara mais informacoes ligue"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Manuel Odilia & Paulo Barbosa, Lda",
+    "address": "Av. da Marina Loja 5 e 6 8125-468",
+    "phone": "289301396",
+    "tax_id": "509875645",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-21",
+    "time": "11:30:09",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 1.42,
+    "tax": 0.18,
+    "tip": 0.0,
+    "total": 1.6,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Cafe/Pastel",
+      "quantity": 1,
+      "unit_price": 1.6,
+      "total_price": 1.6,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_190834.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Manuel Odilia & Paulo Barbosa, Lda\nAv. da Marina Loja 5 e 6 8125-468\nTel: 289301396\nN. Contrib. 509875645\nRegisto na Cons. Loule n.509875645\nCapital Social 6000 Euros\nmourapao@clix.pt\n\nNome flikehome algarve lda\nN.C. 514407395\n\nFatura-Recibo FT 014/6775\nOriginal\n2019-02-21 11:30:09\n\nQt Artigo IV Total\n1 Cafe/Pastel 13 1.60\nTotal 1.60\n\nTaxa Base IVA Total\n13.00 1.42 0.18 1.60\n\nEmp 1\nIVA incluido\n\nConsultas:\nObrigado e volte sempre\n\nsVL9-Processado por programa\ncertificado n. 0071/AT\n\nCopyright GrupoPIE, SA"
+  }
+}

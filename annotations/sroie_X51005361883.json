@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "TEO HENG STATIONERY & BOOKS",
+    "address": "No. 53, Jalan Besar, 45600 Batang Berjuntai, Selangor Darul Ehsan",
+    "phone": "03-3271 9872",
+    "tax_id": "000689913856",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-18",
+    "time": "",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 4.6,
+    "tax": 0.28,
+    "tip": 0.0,
+    "total": 4.9,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "JIANYU STELL RULER 30CM THICK",
+      "quantity": 1,
+      "unit_price": 3.3,
+      "total_price": 3.3,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "LAMINATE FILM",
+      "quantity": 1,
+      "unit_price": 1.3,
+      "total_price": 1.3,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.02,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005361883.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TEO HENG STATIONERY & BOOKS\n(001451637-M)\nNO. 53, JALAN BESAR, 45600 BATANG BERJUNTAI\nSELANGOR DARUL EHSAN\nTEL : 03-3271 9872 FAX : 03-3271 9457\nGST No. : 000689913856\nSIMPLIFIED TAX INVOICE\nCASH\nReceipt No. : CS1801/26874 Date: 18/01/2018\nITEM QTY U/P DISC% AMOUNT\n(RM)\n9557068000035 1 3.50 5.69 3.30\n- JIANYU STELL RULER 30CM THICK\n1 1 1.30 0.00 1.30\n- LAMINATE FILM\nTotal Qty: 2 4.60\nSUB-TOTAL (EX) : 4.60\nTOTAL TAX : 0.28\nROUNDING : 0.02\nTOTAL : 4.90\nCASH : 4.90\nCHANGE : 0.00\nGST SUMMARY\nTAX CODE % AMOUNT TAX\n(RM) (RM)\nSR 6.00 4.60 0.28\nTOTAL : 4.60 0.28\nNote: (*) Indicated The Item Sold Has Been Related\nTo GST (Goods & Services Tax).\nGOODS SOLD ARE NOT RETURNABLE.\nTHANK YOU."
+  }
+}

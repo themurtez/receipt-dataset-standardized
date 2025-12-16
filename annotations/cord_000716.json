@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "VMB BCA",
+    "subtotal": 100000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 100000.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ANGUS DBL CHEESE BURGER",
+      "quantity": 6,
+      "unit_price": 97000.0,
+      "total_price": 97000.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TAKE AWAY CHARGE",
+      "quantity": 1,
+      "unit_price": 3000.0,
+      "total_price": 3000.0,
+      "category": "Service charge",
+      "accounting_category": "Service",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000716.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "6 ANGUS DBL CHS BURG 97,000.00\n1 TAKE AWAY CHARGE 3,000.00\n\nSUB-TOTAL 100,000.00\nAMOUNT DUE 100,000.00\nVMB BCA 100,000.00\nCHANGE 0.00"
+  }
+}

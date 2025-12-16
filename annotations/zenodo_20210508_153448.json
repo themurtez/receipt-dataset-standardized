@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Mª do Rosário da Graça Roque Fernandes",
+    "address": "R. Dr César Raul de Costa Andrade Lote 61 Loja, 2655-242 Ericeira, PT",
+    "phone": "965401376",
+    "tax_id": "189578084",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-08-04",
+    "time": "15:06:21",
+    "currency": "EUR",
+    "payment_method": "DINHEIRO",
+    "subtotal": 8.4,
+    "tax": 1.23,
+    "tip": 0.0,
+    "total": 7.56,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Lâmpada Led GU10 5W 6400k",
+      "quantity": 2,
+      "unit_price": 4.2,
+      "total_price": 8.4,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 2.44
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_153448.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Mª do Rosario da Graça Roque Fernandes\nR. Dr César Raul de Costa Andrade Lote 61 Loja\n2655-242 Ericeira\nPT\nemail: erimetal.ericeira@gmail.com\nweb\nTel: 965401376\nNIF 189578084\n\nNome: FLIXEHOME, LDA\nMorada\nEriceira\n\nContribuinte: 510776914\nFATURA SIMPLIFICADA Nº 4685/2018\nidentificação única FS 2018/4685\nDATA: 2018-08-04 HORA: 15:06:21\n\nQtd.      Preço     Desc.   Iva    Total\nLâmpada Led GU10 5W 6400k\n2,000 x   4.20     0%       23%  8.40\n\nNumero de Artigos: 2\n\nDescontos  0,84\nDetalhe da Liquidação\nTROCO\nDINHEIRO\nDetalhe do IVA\n\nTaxa    Incidência    Valor   Total\n▉ 23%   6,15\n\nTotal          7.56\n\nAI+0 - Processador por programa certificado n° 0097/AT Magnisoft - OranGet\n\nObrigado pela sua preferência\nAté Breve"
+  }
+}

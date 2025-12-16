@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "SYARIKAT PERNIAGAAN GIN KEE",
+    "address": "NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR.",
+    "phone": "03-40210276",
+    "tax_id": "000750673920",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-15",
+    "time": "14:24:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 10.5,
+    "tax": 0.63,
+    "tip": 0.0,
+    "total": 11.13,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "HOES PIN",
+      "quantity": 3,
+      "unit_price": 1.06,
+      "total_price": 3.18,
+      "category": "Hardware",
+      "accounting_category": "Tools",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "4' HOES HANDLE",
+      "quantity": 1,
+      "unit_price": 7.95,
+      "total_price": 7.95,
+      "category": "Hardware",
+      "accounting_category": "Tools",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005676548.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS,\nSETAPAK,\n53200, KUALA LUMPUR.\nTEL: 03-40210276\nGST ID: 000750673920\nSIMPLIFIED TAX INVOICE\nCASH\nDoc No. : CS00012751 Date: 15/01/2018\nCashier : USER Time: 14:24:00\nSalesperson : Ref.:\nItem Qty S/Price Amount Tax\n2876 3 1.06 3.18 SR\nHOES PIN\n1937 1 7.95 7.95 SR\n4' HOES HANDLE\nTotal Qty 4 11.13\nTotal Sales (Excluding GST) : 10.50\nDiscount : 0.00\nTotal GST : 0.63\nRounding : 0.00\nTotal Sales (Inclusive of GST) : 11.13\nCASH : 11.13\nChange : 0.00\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR 6 10.50 0.63\nTotal : 10.50 0.63\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU."
+  }
+}

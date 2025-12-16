@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Salon Du Chocolat",
+    "address": "Lot 26-27, Level G2, Jln Dutamas 1, Solaris Dutamas, 50480 KL",
+    "phone": "+603 6211 2300",
+    "tax_id": "000895864832",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-02-19",
+    "time": "14:19:38",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 20.4,
+    "tax": 1.35,
+    "tip": 0.0,
+    "total": 23.8,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Mineral Water",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Beverages",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Chocolate Waffle-Half Moon",
+      "quantity": 1,
+      "unit_price": 17.9,
+      "total_price": 17.9,
+      "category": "Desserts",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.01,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005719857.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Salon Du Chocolat\nALI BABA INTERNATIONAL SDN BHD(955950-H)\nPublika Shopping Gallery\nLot 26-27,Level G2,Jln Dutamas 1,\nSolaris Dutamas,50480 KL.\nTel: +603 6211 2300\n(GST Reg. No : 000895864832)\nGUEST CHECK\nTable 11\nCheck #: 186242 Pax(s): 3\nDate : 19--02-2018 14:19:38\nCashier: CASHIER\nDescription Qty U.price Total TAX\nMineral Water 1 x 2.50 2.50 SR\nChocolate Waffle-Half Moon 1 x 17.90 17.90 SR\nTotal (Excluding GST): 20.40\nServ. Charge (10%): 2.04\nGST Payable: 1.35\nTotal (Inclusive of GST): 23.79\nRounding Adj: 0.01\nTOTAL: 23.80\nClosed: 19-02-2018\nServer: CASHIER\nGST Summary Amount(RM) Tax(RM)\n**** Thank You ****\nPlease Come Again"
+  }
+}

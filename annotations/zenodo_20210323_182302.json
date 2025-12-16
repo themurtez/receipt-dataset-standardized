@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Deck Bar",
+    "address": "Marcelo da Silveira Shou, Vilamoura",
+    "phone": "",
+    "tax_id": "260398946",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-24",
+    "time": "23:43:00",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 11.0,
+    "tax": 1.7,
+    "tip": 0.0,
+    "total": 11.0,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Pregos",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Imperial 20cl",
+      "quantity": 3,
+      "unit_price": 1.5,
+      "total_price": 4.5,
+      "category": "Beverages",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_182302.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "DECK BAR\nby Adelino Shou\nde: Marcelo da Silveira Shou\nVILAMOURA\n8125\nN/CONTRIBUINTE:260398946\nFATURA/RECIBO NR. 102 A19/8277\nORIGINAL\nDATA: 24/03/2019 HORA:23:43\nVENDEDOR: A casa\nCLIENTE: 999\nFLIKE HOME ALGARVE\nV/CONTRIBUINTE: 514407395\n\nQTD DESCRIÇÃO PRC IVA TOTAL\n\n1.00 Pregos 5.00 13% 5.00\n1.00 IMPERIAL 20cl 1.50 23% 1.50\n1.00 IMPERIAL 20cl 1.50 23% 1.50\n1.00 IMPERIAL 20cl 1.50 23% 1.50\n\ntotal Documento.......... 11.00\nEntregou........... 11.00\n\nReparticao do Iva\n4.42 13% 0.58\n4.88 23% 1.12\n\nMULTIBANCO........... 11.00\n\nGolfinoSoft v(2018)11.00.01\np3xC-Processado por programa certificado n.116/A\n\nMUITO OBRIGADO"
+  }
+}

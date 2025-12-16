@@ -1,0 +1,145 @@
+{
+  "merchant": {
+    "name": "AEON CO. (M) BHD",
+    "address": "3RD FLR, AEON TAMAN MALURI SC JLN JEJAKA, TAMAN MALURI CHERAS, 55100 KUALA LUMPUR",
+    "phone": "1-300-80-AEON (2368)",
+    "tax_id": "002017394688",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-10",
+    "time": "13:04:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 127.37,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 127.35,
+    "accounting_category": "Grocery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CHEK HUP 2IN1",
+      "quantity": 1,
+      "unit_price": 15.56,
+      "total_price": 15.56,
+      "category": "Grocery",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "MSWM ENZO RT",
+      "quantity": 1,
+      "unit_price": 10.28,
+      "total_price": 10.28,
+      "category": "Grocery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "VALENCIA ORANGE",
+      "quantity": 1,
+      "unit_price": 18.5,
+      "total_price": 18.5,
+      "category": "Grocery",
+      "accounting_category": "Fruit",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "US RED GLOBE",
+      "quantity": 1,
+      "unit_price": 10.0,
+      "total_price": 10.0,
+      "category": "Grocery",
+      "accounting_category": "Fruit",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CN PEAR",
+      "quantity": 1,
+      "unit_price": 10.5,
+      "total_price": 10.5,
+      "category": "Grocery",
+      "accounting_category": "Fruit",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHN FUJI AP 4S",
+      "quantity": 1,
+      "unit_price": 14.0,
+      "total_price": 14.0,
+      "category": "Grocery",
+      "accounting_category": "Fruit",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "AUS SEEKA KIWI",
+      "quantity": 1,
+      "unit_price": 10.9,
+      "total_price": 7.9,
+      "category": "Grocery",
+      "accounting_category": "Fruit",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHILE ANGELENO",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Grocery",
+      "accounting_category": "Fruit",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CUT FRUITS 1.99",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Grocery",
+      "accounting_category": "Fruit",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHERRY SUNGOLD",
+      "quantity": 1,
+      "unit_price": 4.8,
+      "total_price": 4.8,
+      "category": "Grocery",
+      "accounting_category": "Fruit",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TURKEY CHERRY 2",
+      "quantity": 1,
+      "unit_price": 18.9,
+      "total_price": 11.9,
+      "category": "Grocery",
+      "accounting_category": "Fruit",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SUSHI SET-PTC",
+      "quantity": 1,
+      "unit_price": 15.0,
+      "total_price": 15.0,
+      "category": "Grocery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 12,
+    "rounding": -0.02,
+    "change_due": 22.65
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007846305.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AEON CO. (M) BHD (126926-H)\n3RD FLR, AEON TAMAN MALURI SC \nJLN JEJAKA, TAMAN MALURI\nCHERAS, 55100 KUALA LUMPUR\nGST ID : 002017394688\nSHOPPING HOURS\nSUN-THU:1000 HRS - 2230 HRS\nFRI-SAT:1000 HRS - 2300 HRS\n-------------------------------------\n1x 0000001033566           15.56SR\nCHEK HUP 2IN1\nItem promo @12.99          -2.57\n1x 000006429720           10.28SR\nMS SWM ENZO RT\n1x 0000006137475          18.50SR\nVALENCIA ORANGE\n1x 000000812627           10.00SR\nUS RED GLOBE\n1x 000006454333           10.50SR\nCN PEAR\n1x 000004023432           14.00SR\nCHN FUJI AP 4S\n1x 000000826349           10.90SR\nAUS SEEKA KIWI\nItem promo @9.00          -1.90\n7.90SR\n1x 000007773877            2.50SR\nCHILE ANGELENO\n1x 000000386658            2.50SR\nCUT FRUITS 1.99\n1x 000004291022           4.80SR\nCHERRY SUNGOLD\n1x 000007802317          18.90SR\nTURKEY CHERRY 2\nItem promo @11.90        -7.00\n1x 000000135412           15.00SR\nSUSHI SET-PTC\nSub-total                       127.37\nTotal Sales Incl GST         127.37\nRounding Adj                  -0.02\nTotal After Adj Incl GST  127.35\nCASH                           150.00\nItem Count 12  Change Amt  22.65\nInvoice No: 2018061010100170023\nGST Summary         Amount    Tax\nSR @ 0%                 127.37    0.00\nTotal                      127.37    0.00\n10/06/2018 13:04    1010 017 0170023\n0252828 PJ CST ZAHIR\nREGULAR STAMP(S)    :      4\nBONUS STAMP(S)      :      0 \nTOTAL STAMP(S)     :       4\nAEON Stamps Loyalty Program \"Product(s)\"\nsold are neither exchangeable nor\nrefundable\nAEON PERMAS JAYA\nTEL 1-300-80-AEON (2368)\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN\n"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Brisa Concessao Rodoviaria, S.A.",
+    "address": "Quinta da Torre da Aguilha, Edificio Brisa, 2785-599 Sao Domingos de Rana",
+    "phone": "",
+    "tax_id": "NIPC 502 790 024",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-29",
+    "time": "17:57:11",
+    "currency": "EUR",
+    "payment_method": "Cartao Bancario",
+    "subtotal": 20.95,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 20.95,
+    "accounting_category": "Tolls",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Toll Fee",
+      "quantity": 1,
+      "unit_price": 20.95,
+      "total_price": 20.95,
+      "category": "Tolls",
+      "accounting_category": "Tolls",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210322_135306.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Brisa Concessao Rodoviaria, S.A.\nQuinta da Torre da Aguilha Edificio Brisa\n2785-599 Sao Domingos de Rana\nMCRC Cascais e NIPC 502 790 024\nCapital Social: 75 000 000 €\n\nFACTURA SIMPLIFICADA\nRecibo: FS 02221061902/0009834 Original\nData e Hora: 2019-03-29 17:57:11\nSaida: 0222 - Paderne\nVia: 106 Portageiro: 02984\n\nEntrada: 0211 - Coina pv\nTitulo: Bem lido-Transito-\nModo de Pagamento: Cartao Bancario\nClasse: 1 Taxa: 20,95 €\n\nPAGAMENTO AUTOMATICO num: 5286\nNOVO BANCO **********5911\nLocal de pagamento: A02-22\n\nIVA incluido à taxa normal\n\nObrigado e Boa Viagem!"
+  }
+}

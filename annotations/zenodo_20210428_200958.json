@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "ARTISANI - Loja de Campo de Ourique",
+    "address": "Av. Alvares Cabral, 65B\n1250-017 Lisboa",
+    "phone": "",
+    "tax_id": "508847265",
+    "website": "www.vbss.pt"
+  },
+  "transaction": {
+    "date": "2019-04-12",
+    "time": "21:03:07",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 11.79,
+    "tax": 2.71,
+    "tip": 0.0,
+    "total": 14.5,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Uni Caixa S",
+      "quantity": 1,
+      "unit_price": 14.5,
+      "total_price": 14.5,
+      "category": "Food and Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_200958.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ARTISANI - Loja de Campo de Ourique\nSabores do dia - Gelado Artesanal , lda\nAv. Alvares Cabral, 65B\n1250-017 Lisboa\nNIF: 508847265\nC.S: 100,000,00 Eur\n2019-04-12 FATURA-RECIBO N:\nOriginal FT 10A1901Z1/2209\n21:03:07 BALCAO 1\n@Cliente 510776914\n0000 000\nContribuinte: 510776914\nQTD UNI DESCRICAO IVA VALOR\n1 Uni Caixa S 23% 14,50\nPreco: 14,50/Unidade\nIVA INCID\n23% 2,71 11,79\nTOTAL INCIDENCIAS: 2,71 11,79\nTOTAL: Eur 14,50\nVendido por: Andreia Figueira\nPago em Numerario\nValor entregue: 14,50\nTroco: 0,00\nPowered by www.vbss.pt\nE3wX-Processado por programa\ncertificado n. 196/AT\nOs servicos e/ou bens foram realizados e/ou\nu colocados a disposicao do adquirente es\nfa data (Art. 36 do CIVA, No5 aInea F)\nLicenca: Sabores do dia - Gelado Artesanal , lda\nContribuinte: 508847265"
+  }
+}

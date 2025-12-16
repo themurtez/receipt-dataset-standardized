@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "THE TOAST F&B SDN BHD",
+    "address": "LOT 2110&2111 JALAN PERMAS UTARA, BANDAR BARU PERMAS, 81750 JOHOR BAHRU JOHOR",
+    "phone": "07-3886880",
+    "tax_id": "002069884928",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-08",
+    "time": "15:09:12",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 18.9,
+    "tax": 1.07,
+    "tip": 0.0,
+    "total": 18.9,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TEH (ICE)",
+      "quantity": 1,
+      "unit_price": 3.5,
+      "total_price": 3.5,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "KAMPUNG",
+      "quantity": 1,
+      "unit_price": 10.0,
+      "total_price": 10.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BUTTER KAYA",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SUGARCANE (ICE)",
+      "quantity": 1,
+      "unit_price": 2.9,
+      "total_price": 2.9,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 31.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006414714.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "THE TOAST F&B SDN BHD (965752-T)\nLOT 2110&2111 JALAN PERMAS UTARA\nBANDAR BARU PERMAS\n81750 JOHOR BAHRU JOHOR\nTel: 07-3886880\nGST ID No: 002069884928\nTAX INVOICE\nPS8418042783 08/04/2018\nS/P: POS1 Loc: PMS\nWalk In\nTable: 39\nItem Qty U.Price Disc Amount\n404 TEH (ICE)\n1 3.50 0.00 3.50 S\n220 KAMPUNG\n1 10.00 0.00 10.00 S\n101 BUTTER KAYA\n1 2.50 0 .00 2.50 S\n440 SUGARCANE (ICE)\n1 2.90 0.00 2.90 S\nTotal Items: 4\nSub Total: 18.90\nLess Discount: 0.00\nRound: 0.00\nTotal Due (GST Inc): 18.90\nPaid: Cash 50.00\nChange: 31.10\nS:GST(6%) 17.83 1.07\nPlease Come Again!\n08/04/2018 03:09:12 pm"
+  }
+}

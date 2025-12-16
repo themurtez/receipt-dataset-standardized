@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "UNihak International SDN BHD",
+    "address": "12, Jalan Tampoi 7/4, Kawasan Perindustrian Tampoi, 81200 Johor Bahru, Johor",
+    "phone": "",
+    "tax_id": "GST REG #000656195584",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-19",
+    "time": "18:22:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 9.34,
+    "tax": 0.56,
+    "tip": 0.0,
+    "total": 9.9,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "2 Vege",
+      "quantity": 1,
+      "unit_price": 3.3,
+      "total_price": 3.3,
+      "category": "Vegetables",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Veggies",
+      "quantity": 1,
+      "unit_price": 1.3,
+      "total_price": 1.3,
+      "category": "Vegetables",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Imported Veggies",
+      "quantity": 1,
+      "unit_price": 1.6,
+      "total_price": 1.6,
+      "category": "Vegetables",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Seafood (S)",
+      "quantity": 1,
+      "unit_price": 3.7,
+      "total_price": 3.7,
+      "category": "Seafood",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006414671.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "UNIHAKKA INTERNATIONAL SDN BHD\n19 Apr 2018 18:22\n(867388-U)\n12, Jalan Tampoi 7/4,Kawasan Perindustrian\nTampoi,81200 Johor Bahru,Johor\nTAX INVOICE\nInvoice # : OR18041902170358\nItem                 Qty        Total\nSR 100100000030- 2 Vege\n$3.30             1            $3.30\n \nSR 100100000169- Veggies\n$1.30             1            $1.30\n \nSR 100100000170- Imported Veggies\n$1.60             1            $1.60\n \nSR 100100000008- Seafood (S)\n$3.70             1            $3.70\nTotal Amount: $9.90\nGST @6%: $0.56\nNett Total: $9.90\nPayment Mode      Amount\nCASH              $9.90\nChange            $0.00\nGST Summary       Amount($)  Tax($)\nSR = GST @6%      9 34       0 56\nGST REG #000656195584\nBAR WANG RICE@PERMAS JAYA\n(Price Inclusive Of GST)\nThank You & Come Again!\nLike and Follow Us on Facebook!\nFacebook.com/BarWangRice"
+  }
+}

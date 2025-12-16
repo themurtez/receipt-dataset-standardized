@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Dia Portugal - Sup. Soc. Unip., Lda",
+    "address": "Qta Fonte Edif Alvares Cabral, 02/70 190 Paco Arcos",
+    "phone": "",
+    "tax_id": "PT503003808",
+    "website": "www.minipreco.pt"
+  },
+  "transaction": {
+    "date": "2019-08-27",
+    "time": "18:00:00",
+    "currency": "EUR",
+    "payment_method": "Visa Electron",
+    "subtotal": 0.99,
+    "tax": 0.06,
+    "tip": 0.0,
+    "total": 1.05,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "P.G. MAGRO NATURAL",
+      "quantity": 1,
+      "unit_price": 0.99,
+      "total_price": 1.05,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_211236.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Dia Portugal - Sup. Soc. Unip., Lda\nQta Fonte Edif Alvares Cabral\n02/70 190 Paco Arcos\nC.R.C./NUM. Contrib: PT503003808\nCapital Social Empresa: 51,802,855,12\nNome Cliente:\nFIKIEHOME\nDirecao Cliente:\nNum. Contribuinte: 510776914\nLocalidade:\nCoD. Post:\nFatura/Recibo\nFT 021140330191002/00008127\nCaixa: 3 Data: 2019-08-27 Hora: 18:00\nCodigo de Userario: 52900\nCodigo Descricao Total\nIva Pvp/Uniti Quantidade Desconios\n5112 P.G. MAGRO NATURAL 1,05\n1 1,05 1 1,05\nTotaL a Pagar Euros 1,05\nMultibanco Troco\nIVA: 01 Tipo IVA Base IVA 0,99 0,06 1,05\nTotal 1,05\nLocal Carga:\nLg Do Calhariz 10\n1200-086 Lisboa Data: 2019-08-27 Hora : 18:00\nLocal Descarga: Morada Do Cliente\ne6ur-Processado por prog.cert.nº1752/AT\nwww.minipReco.pt\nSirpree Piooo245\nMINIPRECO\n1200-086 LISBOA\nTerminal Pagamento Automatico: 00003123\n2019-08-27 17:55:01 per072 tr087 Msg934\nMillennium BCP Prime Suites/Bica\nCartao: *****7764/31\n000000003210 Visa Electron\n1,05 Velc PP N\nCompra\nEisab:0001408186 AUT:182396\nRedunicre E Confiança\nInovacao E Processado Por Sibs"
+  }
+}

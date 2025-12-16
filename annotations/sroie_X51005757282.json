@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "TSH POWER HARDWARE TRADING",
+    "address": "13-1, Jalan PJU 5/10, Dataran Sunway, Kota Damansara, 47810, Petaling Jaya, Selangor",
+    "phone": "012-373 2096",
+    "tax_id": "002458685-T",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-09-12",
+    "time": "16:42:33",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 23.11,
+    "tax": 1.39,
+    "tip": 0.0,
+    "total": 24.5,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "308# DRAWER",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "LOCK C 2 - HL500 / HL502",
+      "quantity": 1,
+      "unit_price": 18.0,
+      "total_price": 18.0,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "LOCAL SEAL WHITE TAPE",
+      "quantity": 1,
+      "unit_price": 0.5,
+      "total_price": 0.5,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 25.5
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005757282.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "31803037\nPurchase\nTSH POWER HARDWARE\nTRADING\n002458685-T\n13-1, Jalan PJU 5/10,\nDataran Sunway, Kota Damansara,\n47810, Petaling Jaya, Selangor\nTel: 012-373 2096\nTAX INVOICE\nGST Reg No: 000460664832\ninvoice No : 01-144366\nDate : 12/09/2017 4:42:33 PM\nDescription Qty Price Amount\n308# DRAWER 1 6.00 6.00 SR*\nLOCK C 2 - HL500 / HL502\nTAXON GARDEN 1 18.00 18.00 SR*\nTAPE 1/2 X 3/4 FX-105B\nLOCAL SEAL WHITE 1 0.50 0.50 SR*\nTAPE\n---------------------------------------------\nSub Total: 0.50\nRound Amt: 0.00\nNET TOTAL : 24.50\nCash Received : 50.00\nChange : 25.50\nGST Summary Amount(RM)\nSR=6.00% 23.11\nTax(RM) 1.39\n****Thank You.****\nPlease Come Again."
+  }
+}

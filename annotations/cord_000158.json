@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "KFC",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 35454.0,
+    "tax": 3546.0,
+    "tip": 0.0,
+    "total": 39000.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "KFC DAY",
+      "quantity": 1,
+      "unit_price": 34545.0,
+      "total_price": 34545.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHARGE TA",
+      "quantity": 1,
+      "unit_price": 909.0,
+      "total_price": 909.0,
+      "category": "Service Fee",
+      "accounting_category": "Fees",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 61000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000158.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 KFC DAY 34,545\n1 CHARGE TA 909\nSub Total 35,454\nP. Rest 10 % 3,546\nTotal 39,000\ncash 100,000\nKemcali 61,000\n2 Items,"
+  }
+}

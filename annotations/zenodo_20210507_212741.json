@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Silectrica - Soc Elect Portuguesa Lda",
+    "address": "Rua da Madalena, 176 1100-324 Lisboa",
+    "phone": "218 866 012",
+    "tax_id": "500557721",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-13",
+    "time": "12:06:20",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 9.6,
+    "tax": 2.21,
+    "tip": 0.0,
+    "total": 11.81,
+    "accounting_category": "Electrical Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "LÂMPADA FL 50W 230V GU10 560111",
+      "quantity": 4,
+      "unit_price": 3.69,
+      "total_price": 14.76,
+      "category": "Electrical Supplies",
+      "accounting_category": "Electrical Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_212741.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SILECTRICA-Soc Elect Portuguesa Lda\nArmazém de material eléctrico\nRua da Madalena, 176 1100-324\nLisboa\nTelef.: 218 866 012\nFax: 218 869 682 Tim: 960 283 163\nEmail: siletrica@sapo.pt Nif 500557721\nCRC Lisboa Nº 23932 C.S 24.900 €\nFatura Simplificada N° FS\nData: 2017-11-13 Hora: 12:06:20\nContribuinte: 510776914\nDESIGNAÇÃO DESC. IVA VALOR\nLÂMPADA FL 50W 230V GU10 560111\n4 3.69 20% 23% 11.81 €\nTotal 11,81 €\nMercadoria IVA Valor IVA\n0,00 € 0% 0,00 €\n9,60 € 23% 2,21 €\nIBAN BCP: PT50 0033 0000\n45433594388 05\nObrigado Volte Sempre\nmNVO- Processado por programa\ncertificado nº 1318/AT\n"
+  }
+}

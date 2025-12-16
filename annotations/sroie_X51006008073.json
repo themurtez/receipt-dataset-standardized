@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "PRINT EXPERT SDN BHD",
+    "address": "NO 18, 20, 22, JALAN BUNGA TANJONG 2/16, 40000 SHAH ALAM, SELANGOR",
+    "phone": "03-55250588",
+    "tax_id": "000886677504",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-12",
+    "time": "16:32:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 94.34,
+    "tax": 5.66,
+    "tip": 0.0,
+    "total": 100.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "DESIGN",
+      "quantity": 1,
+      "unit_price": 31.8,
+      "total_price": 31.8,
+      "category": "Graphic Design",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "FOAMBOARD 91X46CM",
+      "quantity": 3,
+      "unit_price": 63.6,
+      "total_price": 190.8,
+      "category": "Signage",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "DESIGN",
+      "quantity": 2,
+      "unit_price": 31.8,
+      "total_price": 63.6,
+      "category": "Graphic Design",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "ROLLUP BUNTING",
+      "quantity": 2,
+      "unit_price": 178.08,
+      "total_price": 356.16,
+      "category": "Signage",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "DESIGN",
+      "quantity": 1,
+      "unit_price": 31.8,
+      "total_price": 31.8,
+      "category": "Graphic Design",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "FLYERS",
+      "quantity": 100,
+      "unit_price": 0.73,
+      "total_price": 73.14,
+      "category": "Printing",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "DEPOSIT (CS00489793)",
+      "quantity": 1,
+      "unit_price": -647.3,
+      "total_price": -647.3,
+      "category": "Deposit",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 110,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006008073.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PRINT EXPERT SDN BHD\n989625-A\nNO 18, 20, 22, JALAN BUNGA TANJONG 2/16,\n40000 SHAH ALAM, SELANGOR\nTEL 03-55250588\nFAX 03-55107309\nGSTD 000886677504\nDoc No. SO00046284 DEPT:\nCashier : USER Date: 12/01/2018\nSalesperson. ATHIRAH Time 16:32:00\nDescription Qty Price Amount\nDESIGN 1 31.80 31 80\nFOAMBOARD 91X46CM 3 63 60 190.80\nDESIGN 2 31 80 63.60\nROLLUP BUNTING 2 178.08 356.16\nDESIGN 1 31.80 31.80\nFLYERS 100 0.73 73.14\nDEPOSIT (CS00489793) 1 -647.30 -647.30\nTotal Qty 110\nTotal Sales (Excluding GST) : 94.34\nDiscount 0.00\nTotal GST 5.66\nRounding 0.00\nTotal Sales (Inclusive of GST) 100.00\nTHANK YOU. HAVE A NICE DAY !"
+  }
+}

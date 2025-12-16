@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (M) Sdn Bhd",
+    "address": "Lot 1851-A & 1851-B, Jalan KPB 6, Kawasan Perindustrian Balakong, 43300 Seri Kembangan, Selangor",
+    "phone": "",
+    "tax_id": "000306020352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-24",
+    "time": "18:02:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 14.9,
+    "tax": 0.84,
+    "tip": 0.0,
+    "total": 20.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Multipurpose Broom 737P w/4ft",
+      "quantity": 2,
+      "unit_price": 6.5,
+      "total_price": 13.0,
+      "category": "Cleaning Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Hose Pump C88351#",
+      "quantity": 1,
+      "unit_price": 1.9,
+      "total_price": 1.9,
+      "category": "Tools",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 5.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005757351.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "31803054\nMR. D.I.Y. (M) SDN BHD\n(CO.REG :806671-D)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000306020352)\n(IOI PUCHONG)\n-TAX INVOICE-\nMULTIPURPOSE BROOM 737P W/4FT *S\nWA16 - 24\n9555221300282 2 X 6.50 13.00\nHOSE PUMP C88351# *S\nKE23-33-53 - 12/120\n9074333 1 X 1.90 1.90\nItem(s) : 2 Qty(s) : 3\nTotal Incl. GST@6% RM 14.90\nCASH RM 20.00\nCHANGE RM 5.10\nGST @6% included in total RM 0.84\n*-------------------------------------------------------*\n24-03-18 18:02 SHO1 ZJ86 T1 R000112043\nOPERATOR TRAINEE CASHIER\nEXCHANGE ARE ALLOWED WITHIN\n7 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "AEON CO. (M) BHD",
+    "address": "3RD FLR, AEON TAMAN MALURI SC\nJLN JEJAKA, TAMAN MALURI\nCHERAS, 55100 KUALA LUMPUR",
+    "phone": "",
+    "tax_id": "002017394688",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-27",
+    "time": "13:48:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 99.9,
+    "tax": 5.39,
+    "tip": 0.0,
+    "total": 99.9,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "NATUREL PREMIU",
+      "quantity": 1,
+      "unit_price": 11.25,
+      "total_price": 11.25,
+      "category": "Grocery",
+      "accounting_category": "Household Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "JOY DISHWASHIN",
+      "quantity": 1,
+      "unit_price": 10.5,
+      "total_price": 10.5,
+      "category": "Grocery",
+      "accounting_category": "Household Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "303027 COOK KN",
+      "quantity": 1,
+      "unit_price": 45.9,
+      "total_price": 43.15,
+      "category": "Kitchenware",
+      "accounting_category": "Household Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "CED NATURAL HIM",
+      "quantity": 1,
+      "unit_price": 4.59,
+      "total_price": 4.59,
+      "category": "Grocery",
+      "accounting_category": "Household Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "BL 5004C 4 GAL",
+      "quantity": 1,
+      "unit_price": 4.9,
+      "total_price": 4.61,
+      "category": "Grocery",
+      "accounting_category": "Household Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "KLEENEX FT SOF",
+      "quantity": 1,
+      "unit_price": 12.15,
+      "total_price": 12.15,
+      "category": "Household",
+      "accounting_category": "Household Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "ONWARDS TOM &",
+      "quantity": 1,
+      "unit_price": 13.65,
+      "total_price": 13.65,
+      "category": "Retail",
+      "accounting_category": "General Merchandise",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006913007.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AEON CO. (M) BHD (126926-H)..."
+  }
+}

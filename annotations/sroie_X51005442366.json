@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Triple Six Point Enterprise 666",
+    "address": "No 14B 16 Jalan Permas 4/3 Bandar Baru Permas Jaya",
+    "phone": "016-7574666",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-22",
+    "time": "16:01:20",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 22.6,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 22.6,
+    "accounting_category": "Sales",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "VS FUJI 500ml",
+      "quantity": 1,
+      "unit_price": 10.0,
+      "total_price": 10.0,
+      "category": "Beverage",
+      "accounting_category": "Sales",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Apollo cake original 30s",
+      "quantity": 1,
+      "unit_price": 6.8,
+      "total_price": 6.5,
+      "category": "Food",
+      "accounting_category": "Sales",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "TG Cashew nuts mixed Almond smoke",
+      "quantity": 1,
+      "unit_price": 4.2,
+      "total_price": 4.2,
+      "category": "Snacks",
+      "accounting_category": "Sales",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "TG Coated coconut peanuts",
+      "quantity": 1,
+      "unit_price": 1.9,
+      "total_price": 1.9,
+      "category": "Snacks",
+      "accounting_category": "Sales",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005442366.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Triple Six Point Enterprise 666\nNo 14B 16 Jalan Permas 4/3 Bandar Baru Permas Jaya\nTel : 016-7574666\nReceipt no: REC-001488\nDate: 22-03-2018 04:01:20 PM\nPayment Type: Cash\nReceipt\n(Receipt No.: REC-001488)\nQTY ITEM PRICE TOTAL\n(RM) (RM)\n1x VS FUJI500ml 10.00 10.00\n1x Apollo cake 6.80 6.50\noriginal 30s\n(Disc: 0.3000)\n1x TG Cashew 4.20 4.20\nnuts mixwd\nAlmond smoke\n1x TG Coated 1.90 1.90\ncoconut\npeanuts\nDiscount . . . . . . . 0.30\nTotal Amount 22.60\nTendered 22.60"
+  }
+}

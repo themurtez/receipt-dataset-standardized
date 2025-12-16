@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Chatpata Restaurant Inc",
+    "address": "1683 Route 9, Clifton Park, NY 12065",
+    "phone": "5182801190",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-19",
+    "time": "17:28:12",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 17.85,
+    "tax": 1.25,
+    "tip": 0.0,
+    "total": 19.1,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chicken Korma",
+      "quantity": 1,
+      "unit_price": 11.95,
+      "total_price": 11.95,
+      "category": "Entree",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Naan (Plain Naan)",
+      "quantity": 1,
+      "unit_price": 1.95,
+      "total_price": 1.95,
+      "category": "Side",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Kheer",
+      "quantity": 1,
+      "unit_price": 3.95,
+      "total_price": 3.95,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1125-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CHATPATA RESTAURANT INC\n1683 ROUTE 9\nCLIFTON PARK, NY 12065\n5182801190\n\nCashier: Kamal\n19-Mar-2019 5:28:12P\n\n1 6.5 Chicken Korma $11.95\n1 10.1 Naan (Plain Naan) $1.95\n1 13.1 Kheer $3.95\n\nSubtotal $17.85\nTax $1.25\nTotal $19.10\n\nOnline: https://clover.com/r/KQ23F4T9N8T6T\n\nOrder KQ23F4T9N8T6T"
+  }
+}

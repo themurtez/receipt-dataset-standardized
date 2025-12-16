@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Restaurant Name",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 50909.0,
+    "tax": 5091.0,
+    "tip": 0.0,
+    "total": 56000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Kupon 7",
+      "quantity": 1,
+      "unit_price": 42727.0,
+      "total_price": 42727.0,
+      "category": "Promotion",
+      "accounting_category": "Discount",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "MINERAL WATER",
+      "quantity": 1,
+      "unit_price": 8182.0,
+      "total_price": 8182.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000192.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Kupon 7 42,727\nMINERAL WATER 8,182\nSubtotal 50,909\nPB1 (10%) 5,091\nDine In Total 56,000\nCash 56,000"
+  }
+}

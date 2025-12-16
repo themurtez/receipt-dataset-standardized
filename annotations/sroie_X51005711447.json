@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "RESTORAN WAN SHENG",
+    "address": "No.2, Jalan Temenggung 19/9, Seksyen 9, Bandar Mahkota Cheras, 43200 Cheras, Selangor",
+    "phone": "",
+    "tax_id": "001335787520",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-14",
+    "time": "10:22:59",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 2.17,
+    "tax": 0.13,
+    "tip": 0.0,
+    "total": 2.3,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Kopi O (B)",
+      "quantity": 1,
+      "unit_price": 2.1,
+      "total_price": 2.1,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Take Away",
+      "quantity": 1,
+      "unit_price": 0.2,
+      "total_price": 0.2,
+      "category": "Service Fee",
+      "accounting_category": "Service",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005711447.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "RESTORAN WAN SHENG\n002043319-W\nNo.2, Jalan Temenggung 19/9,\nSeksyen 9, Bandar Mahkota Cheras,\n43200 Cheras, Selangor\nGST REG NO: 001335787520\nTax Invoice\nINV No.: 1044151  Cashier: Thandar\nDate : 14-03-2018 10:22:59\n---------------------------------\nDescription      Qty   U.price  Total  TAX\n---------------------------------\nKopi O (B)       1 x     2.10    2.10  SR\nTake Away        1 x     0.20    0.20  SR\n---------------------------------\nTotal QTY: 2\nTotal (Excluding GST):         2.17\nGST payable (6%):              0.13\nTotal (Inclusive of GST):      2.30\nTOTAL:                         2.30\n---------------------------------\nCASH :                         2.30\n---------------------------------\nGST Summary      Amount(RM)  Tax(RM)\nSR      (@ 6%)     2.17      0.13"
+  }
+}

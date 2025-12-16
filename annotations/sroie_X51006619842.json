@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "YIN MA (M) SDN.BHD.",
+    "address": "NO.2, JALAN UDANG SIAR 2, TAMAN SRI SEGAMBUT, 52000 KUALA LUMPUR.",
+    "phone": "",
+    "tax_id": "000119906304",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-06-03",
+    "time": "12:26:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 30.84,
+    "tax": 1.86,
+    "tip": 0.0,
+    "total": 32.7,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "STORAGE BOX(SM)",
+      "quantity": 3,
+      "unit_price": 10.9,
+      "total_price": 32.7,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 17.3
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619842.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "YIN MA (M) SDN.BHD.(974306-T)\nNO.2, JALAN UDANG SIAR 2,\nTAMAN SRI SEGAMBUT,\n52000 KUALA LUMPUR.\nGST REG NO:000119906304\n\nInvoice No : 44795\nDate : 03 Jun 2016 12:26pm\nCounter : 401\n\n9555112913331 STORAGE BOX(SM 10.90.S\n9555112913331 STORAGE BOX(SM 10.90 S\n9555112913331 STORAGE BOX(SM 10.90 S\n-----------------------------------\nNo of items: 3\nTotal Incl. GST:RM 32.70\nCash:RM 50.00\nChange:RM 17.30\nServed by YINMA SEGAMBUT\n\n************* GST Summary *************\nGST Code Amount(RM) Tax(RM)\nS @6.0% 30.84 1.86\n***************************************\n\nRef No: 00500055998044795\nEXCHANGE ARE ALLOWED WITHIN\n3 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND.\nTHANK YOU.\nWELCOME AGAIN.\n"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "VND",
+    "payment_method": "",
+    "subtotal": 390000.0,
+    "tax": 32120.0,
+    "tip": 0.0,
+    "total": 393320.0,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Dom Cha Vire 81s",
+      "quantity": 1,
+      "unit_price": 155000.0,
+      "total_price": 155000.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "P J Cotes du",
+      "quantity": 2,
+      "unit_price": 105000.0,
+      "total_price": 210000.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000302.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Dom Cha Vire 81s 1x 155,000 155,000\nP J Cotes du 2x 105,000 210,000\nSubtotal 365,000\nDiscount 20.00% 73,000\nService 71,320\nTax 32,120\nTotal 393,320"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Gardenia Bakeries (KL) Sdn Bhd",
+    "address": "Lot 3, Jalan Pelabur 23/1, 40300 Shah Alam, Selangor",
+    "phone": "03-55423228",
+    "tax_id": "000381399040",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-10-29",
+    "time": "11:39:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 57.96,
+    "tax": 0.8,
+    "tip": 0.0,
+    "total": 58.86,
+    "accounting_category": "Bakery supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "O.C. White",
+      "quantity": 9,
+      "unit_price": 2.13,
+      "total_price": 19.17,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Wholemeal",
+      "quantity": 6,
+      "unit_price": 2.78,
+      "total_price": 16.68,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "O.C. Jumbo",
+      "quantity": 3,
+      "unit_price": 2.97,
+      "total_price": 8.91,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Twig-Choc",
+      "quantity": 10,
+      "unit_price": 1.33,
+      "total_price": 13.3,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006557170.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GARDENIA BAKERIES (KL) SDN BHD (139386 X)\nLot 3, Jalan Pelabur 23/1,\n40300 Shah Alam, Selangor.\nTel: 03-55423228 Fax:03-55423213\nGST ID: 000381399040\nTAX INVOICE / ADJUSTMENT NOTE\nCash Inv No.: 7029F711\nDate: 29/10/2017\nMAKASSAR FRESH MARKET SDN BHD\nGROUND FLOOR, NO. 4 & 6,\nJALAN SS 15/4B,\n47500 SUBANG JAYA, SELANGOR\nTotal 0% supplies: 44.76\nTWIG-CHOC\nTotal 6% supplies (excl. GST): 13.30\nGST: 0.80\nTotal 6% supplies (Inc. GST): 14.10\nTotal 0% supplies: 44.76\nTotal Payable: 58.86\nCUSTOMER'S COPY"
+  }
+}

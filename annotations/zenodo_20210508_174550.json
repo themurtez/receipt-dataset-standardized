@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Worten",
+    "address": "Edificio Amoreiras Plaza, Rua Maria Ulrich, 1 1070-169, Lisboa",
+    "phone": "+351 300 500 310",
+    "tax_id": "PT 500 539 030",
+    "website": "www.worten.pt"
+  },
+  "transaction": {
+    "date": "2018-11-11",
+    "time": "16:36:00",
+    "currency": "EUR",
+    "payment_method": "IVA INCLUIDO",
+    "subtotal": 20.32,
+    "tax": 4.67,
+    "tip": 0.0,
+    "total": 24.99,
+    "accounting_category": "Electronics",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Maq.Cafe Filtro VERONA 6 V",
+      "quantity": 1,
+      "unit_price": 24.99,
+      "total_price": 24.99,
+      "category": "Small Appliances",
+      "accounting_category": "Electronics",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.01
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_174550.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Worten\nWORTEN Equipamentos para o lar SA\nEdificio Amoreiras Plaza, Rua Maria Ulrich, 1 1070-169\nLisboa\nRegistada RC Porto cm 50053030\nNIF: PT50053030\nSede: 4000.00.00 EUR Simprep: PT001250\nFatura Original\nHora: 11/11/2018 16:36\nCliente: FIHAMEDIS MEDIRAU IMOBILIARIA LDA\nNIF: PT 501078614\nMorada: LISBOA\nLocal: LISBOA\n354\nIVA DESCRIÇÃO VALOR\nPequenos Domésticos (E)\n841423620145 MAQ.CAFE FILTRO VERONA 6 V 24.99\nTOTAL A PAGAR 24.99\nNumerário 25.00\nTroco 0.01\nC) 23.008 20.32 4.67\nTotal Lig. IVA Tot\n.\n\nDMC\n1861101550935651981\nDNNK-Processado por programa certificado\nN 1356/\n5196 0003 55936 231179 - 100040709481479\nLocal carga: Morada da loja\nLocal descarga: Morada do cliente\nData: 11/11/2018 Hora: 16:36\nIVA INCLUIDO\nTalão Indispensável para troca\nPrazo de devolução: 15 dias\n*** OBRIGADO ***\nNão estão abrangidos pela política de\nsatisfação/devolução os artigos com ativação em caixa\nPara mais informações consultar\nwww.worten.pt\n"
+  }
+}

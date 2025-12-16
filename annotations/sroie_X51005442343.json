@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "YONG TAT HARDWARE TRADING",
+    "address": "NO 4, JALAN PERJIRANAN 10, TAMAN AIR BIRU, 81700 PASIR GUDANG, JOHOR.",
+    "phone": "07-2514733",
+    "tax_id": "001570349056",
+    "website": "YONGTAT99@YAHOO.COM.MY"
+  },
+  "transaction": {
+    "date": "2018-03-13",
+    "time": "12:41:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 67.92,
+    "tax": 4.08,
+    "tip": 0.0,
+    "total": 72.0,
+    "accounting_category": "Hardware Sales",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "0.6MM X 50' X 50' AR RED GASKET",
+      "quantity": 1,
+      "unit_price": 67.92,
+      "total_price": 72.0,
+      "category": "Hardware",
+      "accounting_category": "Gasket",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 30.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005442343.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "YONG TAT HARDWARE TRADING (JM0292457-D) NO 4,JALAN PERJIRANAN 10, TAMAN AIR BIRU, 81700 PASIR GUDANG, JOHOR. TEL. 07-2514733 FAX: 07-2514733 YONGTAT99@YAHOO.COM.MY GST ID: 001570349056 TAX INVOICE Doc No.: Cs0005862 Date: 13/03/2018 Cashier: USER Time: 12:41:00 Salesperson: Ref: Item Qty S/Price (GST) (GST) Amount Tax 8603 1.00 SHTS 67.92 72.00 72.00 SR 0.6MM X 50' X 50' AR RED GASKET Total Qty: 1.00 Total Sales (Excluding GST): 67.92 Discount: 0.00 Total GST: 4.08 Rounding: 0.00 Total Sales (Inclusive of GST): 72.00 CASH : 102.00 Change 30.00 GST SUMMARY Tax Code % Amt (RM) Tax (RM) SR 6 67.92 4.08 Total: 67.92 4.08 GOODS SOLD ARE NOT RETURNABLE. THANK YOU."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "SKCA HARDWARE & TIMBER SDN. BHD.",
+    "address": "LOT 204 & 205, JALAN BATU 12 1/4, KG. DUSUN NANING, 43100 HULU LANGAT, SELANGOR DARUL EHSAN.",
+    "phone": "603-90213004",
+    "tax_id": "001828540416",
+    "website": "www.skcahardwaretsb.tk"
+  },
+  "transaction": {
+    "date": "2017-11-01",
+    "time": "11:20:04",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 133.96,
+    "tax": 8.04,
+    "tip": 0.0,
+    "total": 142.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ZZ-207 Colex Black Basic 6724MIX",
+      "quantity": 1,
+      "unit_price": 43.0,
+      "total_price": 43.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.75
+    },
+    {
+      "name": "ZZ-206 Colex Black Basic 6723MIX",
+      "quantity": 2,
+      "unit_price": 43.0,
+      "total_price": 86.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.75
+    },
+    {
+      "name": "Black Rain Shoe 41 (08) 2928MIX",
+      "quantity": 1,
+      "unit_price": 13.0,
+      "total_price": 13.0,
+      "category": "Apparel",
+      "accounting_category": "Apparel",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 10.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006713996.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SKCA HARDWARE & TIMBER SDN. BHD.\nCO. REG. NO.: 946207-D\nLOT 204 & 205, JALAN BATU 12 1/4,\nKG. DUSUN NANING, 43100 HULU LANGAT,\nSELANGOR DARUL EHSAN.\nTEL: 603-90213004 FAX: 603-90213004\nemail: skcahtsbhl@gmail.com\nwebsite: www.skcahardwaretsb.tk\nGST ID : 001828540416\nTAX INVOICE\nItem(s) Amt (RM) Tax\n07 # ZZ-207 COLEX BLACK BASIC\n6724MIX 43.00 ST\n06 # ZZ-206 COLEX BLACK BASIC\n6723MIX 2 X 43.00 86.00 ST\nBLACK RAIN SHOE 41 (08) RAIN S\n2928MIX 13.00 ST\nTotal (Incl GST @ 6%) 142.00\nTotal 142.00\nCASH 152.00\nChange 10.00\nTotal Qty : 4\nSummary Amt (RM) Tax (RM)\nST = 6% 133.96 8.04\nTHANK YOU, PLEASE COME AGAIN.\nGOODS SOLD ARE NOT REFUNDABLE.\n01-Nov-2017 11:20:04AM R05934\nCashier:CASHIER O1 MOD1 Shift: 01\nVersion 91.1.15_C"
+  }
+}

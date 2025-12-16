@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Domino's Pizza",
+    "address": "30, Jln Kebudayaan 7, Tmn Universiti, 81300 Skudai, Johor",
+    "phone": "1-300-888-333",
+    "tax_id": "0016942651248",
+    "website": "www.dominos.com.my"
+  },
+  "transaction": {
+    "date": "2018-04-28",
+    "time": "13:14:55",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 45.7,
+    "tax": 1.75,
+    "tip": 0.0,
+    "total": 30.9,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "6\" HT (KB)",
+      "quantity": 1,
+      "unit_price": 15.6,
+      "total_price": 15.6,
+      "category": "Pizza",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "6\" HT (KB)",
+      "quantity": 1,
+      "unit_price": 15.6,
+      "total_price": 15.6,
+      "category": "Pizza",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CWAH",
+      "quantity": 1,
+      "unit_price": 14.5,
+      "total_price": 14.5,
+      "category": "Other Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 70.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006414711.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TAX INVOICE\nDOMINO'S PIZZA\nGST REF NO : 0016942651248\nDOMINO'S PIZZA TAMAN UNIVERSITI\n30, Jln Kebudayaan 7, Tmn Universiti\n81300 Skudai, Johor\nCARRY OUT NOW Pay By: CASH\nOrder : 8554 By : 5586\nOrder Time :13:14:55 Date :28/04/18\nName: MRS YUEN\nPickup Time: 13:29:55\nQty Menu Desc Coupon Disc Price\n1 6\"HT (KB) LSF1-PSI 15.60\n1 6\"HT (KB) LSF1-PSI 15.60\n1 CWAH AOAI-ADI 14.50\n14.80 45.70\nTotal Items : 3\nSub-Total : 45.70\nCoupon Discount : 14.80\nGrand Total : 30.90\nPayment : 101.00\nChange Due : 70.10\n*6% GST Included : 1.75\nSUPPORT OUR SMILE CAMPAIGN : )\nDid we smile at you?\nLet us know at\nwww.dominos.com.my/smile and\nreceive a 30% off side item e-coupon\nupon survey submission\nSurvey Code: CBD280740855414\nThank you for visiting Domino's.\nPlease Come Again!\n1-300-888-3333\nwww.dominos.com.my\nWe are compliant to the PDPA 2010.\nVisit www.dominos.com.my/terms to view our Personal Data Protection Policy.\nOwned by\nDommal Food Services Sdn Bhd\nCo. No. 419060-A"
+  }
+}

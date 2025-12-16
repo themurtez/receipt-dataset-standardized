@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Sulaman Minimercado",
+    "address": "Rua das Pretas, 21, 1150-270 Lisboa",
+    "phone": "920076129",
+    "tax_id": "513889949",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-11-25",
+    "time": "13:06:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 3.24,
+    "tax": 0.75,
+    "tip": 0.0,
+    "total": 3.99,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Artigos Limpeza",
+      "quantity": 1,
+      "unit_price": 3.99,
+      "total_price": 3.99,
+      "category": "Cleaning Supplies",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.01,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_222030.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SULAMAN MINIMERCADO\nTEMPEROS DA SEMANA UNIPESSOAL,LDA.\nCONTRIB.513889949 TEL.920076129\nRUA DAS PRETAS,21\n1150-270 LISBOA\nFATURA SIMPLIFICADA\nORIGINAL\nDATA 2019/11/25 - 13:06 Nº A/35454\nCliente: FLIKEHOME Lda\nMorada: LISBOA\nCont.Nº 5107776914\nArtigo Qtd Preço ε Valor ε\nArtigos Limpeza 1 Un x 3,99 = 3,99\nTOTAL\nNumerário 4,00\nTroco 0,01\nIVA Incluído\nTaxa% Sujeito IVA Total\n23,00 3,24 0,75 3,99\nKwad-Processado por programa certificado\nNº 88/AT - 1 A/35454\nOpr: SULAMAN\nOBRIGADO - VOLTE SEMPRE"
+  }
+}

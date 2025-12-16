@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "One Three Seafood Restaurant Sdn Bhd",
+    "address": "No.1, Taman Sri Dengkil, Jalan Air Hitam, 43800 Dengkil, Selangor",
+    "phone": "",
+    "tax_id": "000670224384",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-14",
+    "time": "20:41:44",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 59.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 59.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Tilapia",
+      "quantity": 1,
+      "unit_price": 28.0,
+      "total_price": 28.0,
+      "category": "Seafood",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Vege item",
+      "quantity": 1,
+      "unit_price": 16.0,
+      "total_price": 16.0,
+      "category": "Vegetable",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "White Rice",
+      "quantity": 1,
+      "unit_price": 7.0,
+      "total_price": 7.0,
+      "category": "Grains",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Beverage",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Drinks",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Herbal Tea Item",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Tea",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008164969.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ONE THREE SEAFOOD RESTAURANT SDN BHD\n(1120908-M)\nNO.1, TAMAN SRI DENGKIL, JALAN AIR HITAM\n43800 DENGKIL, SELANGOR.\n(GST Reg. No : 000670224384)\nTax Invoice\nTable 24\nBill#:V001-540401 Order#: 140508\nDate : 14-06-2018 20:41:44\nCashier: 113 CASHIER             Pax(s): 0\n----------------------------------------\nQty Description Total   TAX\n----------------------------------------\n\n1  D 28.00 SR\nTilapia\n1  D 16.00 SR\nVege item\n1  D  7.00 SR\nWhite Rice\n1  D  5.00 SR\nBeverage\n1  D  3.00 SR\nHerbal Tea Item\n\n----------------------------------------\nTotal (Excluding GST):         59.00\nTotal (Inclusive of GST):      59.00\nTOTAL:                     59.00\n----------------------------------------\nClosed: 1                14-06-2018  21:22:27\nServer: 113 CASHIER\nCASH :                     59.00\n\nGST Summary    Amount(RM)    Tax(RM)\nSR  @ 0%           59.00         0.00\n\n        **** Thank You ***\n         Please Come Again\n"
+  }
+}

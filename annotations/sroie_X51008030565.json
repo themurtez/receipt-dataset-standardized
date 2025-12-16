@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Restoran Wan Sheng",
+    "address": "No.2, Jalan Temenggung 19/9, Seksyen 9, Bandar Mahkota Cheras, 43200 Cheras, Selangor",
+    "phone": "",
+    "tax_id": "001335787520",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-04",
+    "time": "14:26:20",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 7.37,
+    "tax": 0.43,
+    "tip": 0.0,
+    "total": 7.8,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Teh (B)",
+      "quantity": 1,
+      "unit_price": 2.2,
+      "total_price": 2.2,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cham (B)",
+      "quantity": 1,
+      "unit_price": 2.2,
+      "total_price": 2.2,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Milo (B)",
+      "quantity": 1,
+      "unit_price": 2.8,
+      "total_price": 2.8,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Take Away",
+      "quantity": 3,
+      "unit_price": 0.2,
+      "total_price": 0.6,
+      "category": "Service Charge",
+      "accounting_category": "Other",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008030565.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "RESTORAN WAN SHENG\n002043319-W\nNo.2, Jalan Temenggung 19/9,\nSeksyen 9, Bandar Mahkota Cheras,\n43200 Cheras, Selangor\nGST REG NO: 001335787520\nTax Invoice\nINV No.: 1076565 Cashier: Thandar\nDate : 04-04-2018 14:26:20\nDescription Qty U.price Total TAX\nTeh (B) 1 x 2.20 2.20 SR\nCham (B) 1 x 2.20 2.20 SR\nMilo (B) 1 x 2.80 2.80 SR\nTake Away 3 x 0.20 0.60 SR\nTotal QTY: 6\nTotal (Excluding GST): 7.37\nGST payable (6%): 0.43\nTotal (Inclusive of GST): 7.80\nTOTAL: 7.80\nCASH : 7.80\nGST Summary Amount (RM) Tax (RM)\nSR (@ 6%) 7.37 0.43"
+  }
+}

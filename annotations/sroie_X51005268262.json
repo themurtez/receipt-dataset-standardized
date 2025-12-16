@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Home Master Hardware & Electrical",
+    "address": "No.113G & 115G, Jalan Setia Gembilang, U13/3G Bandar Setia Alam, 40170 Bandar Setia Alam, Selangor.",
+    "phone": "",
+    "tax_id": "001637511168",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-22",
+    "time": "14:03:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 15.9,
+    "tax": 0.9,
+    "tip": 0.0,
+    "total": 15.9,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "24MMx7Y M.ONE TAPE",
+      "quantity": 1,
+      "unit_price": 15.9,
+      "total_price": 15.9,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 34.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005268262.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "HOME MASTER HARDWARE & ELECTRICAL\nNO.113G & 115G, JALAN SETIA GEMBILANG\nU13/3G BANDAR SETIA ALAM,\n40170 BANDAR SETIA ALAM,\nSELANGOR.\nCompany Reg No.: SA0371155P\nGST Reg No.: 001637511168\nTAX INVOICE\nInvoice No.: CS 57832\nDate: 22/12/2017 14:03\nCashier #: CASHIER\nRM Code\n24MMx7Y M.ONE TAPE\n1.00 x 15.90 15.90 SR\nSubtotal: 15.90\nTotal Excl. of GST 15.00\nTotal Incl. of GST 15.90\nTotal Amt Rounded 15.90\nPayment: 50.00\nChange Due: 34.10\nTotal Item(s): 1\nG Summary Amount(RM) Tax(RM)\nSR @ 6% 15.00 0.90\n............ THANK YOU ............\nANY GOODS RETURN PLEASE DO WITHIN\n7 DAYS WITH ORIGINAL RECEIPT TQ^^"
+  }
+}

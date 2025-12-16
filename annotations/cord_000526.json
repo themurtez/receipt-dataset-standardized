@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "CA PHÊ",
+    "address": "Sample Address",
+    "phone": "Sample Phone",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 14000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 14000.0,
+    "accounting_category": "Beverages",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Passionfruit Mojito",
+      "quantity": 1,
+      "unit_price": 14000.0,
+      "total_price": 14000.0,
+      "category": "Beverage",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 36000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000526.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Passionfruit Mojito 14.000\n+S\n+Ice\nSubtotal 14.000\nTotal 14.000\nCASH 50.000\nKembalian 36.000"
+  }
+}

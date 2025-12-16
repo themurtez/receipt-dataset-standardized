@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "THE TOAST F&B SDN BHD",
+    "address": "LOT 2110&2111 JALAN PERMAS UTARA, BANDAR BARU PERMAS, 81750 JOHOR BAHRU JOHOR",
+    "phone": "07-3886880",
+    "tax_id": "002069884928",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-11-05",
+    "time": "08:35:38",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 31.0,
+    "tax": 1.76,
+    "tip": 0.0,
+    "total": 31.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "WM TUNA",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "CANTONESE",
+      "quantity": 1,
+      "unit_price": 10.0,
+      "total_price": 10.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "T/A KAMPUNG",
+      "quantity": 1,
+      "unit_price": 10.4,
+      "total_price": 10.4,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "KOPI-HOT",
+      "quantity": 2,
+      "unit_price": 2.8,
+      "total_price": 5.6,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 20.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006913051.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "THE TOAST F&B SDN BHD (965782-T)\nLOT 2110&2111 JALAN PERMAS UTARA\nBANDAR BARU PERMAS\n81750 JOHOR BAHRU JOHOR\nTel: 07-3886880\nGST ID No 002069884928\nTAX INVOICE\nPS8418053885 11/05/2018\nS/P: POS Loc: PMS\nWalk In\nTable: 27\nItem Qty U.Price Disc Amount\n711 WM TUNA\n1 5.00 0.00 5.00 S\n224 CANTONESE\n1 10.00 0.00 10.00 S\n220Z T/A KAMPUNG\n1 10.40 0.00 10.40 S\n301 KOPI-HOT\n2 2.80 0.00 5.60 S\nTotal Items: 4\nSub Total: 31.00\nLess Discount: 0.00\nRound: 0.00\nTotal Due (GST Inc): 31.00\nPaid: Cash\nChange: 20.00\nS:GST(6%) 29.24 1.76\nPlease Come Again!\n11/05/2018 08:35:38 pm"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Dona Mercedes Restaurant",
+    "address": "1030 1/2 San Fernando Rd, San Fernando CA 91341",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 22.25,
+    "tax": 2.22,
+    "tip": 0.0,
+    "total": 24.47,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Chicharon",
+      "quantity": 1,
+      "unit_price": 2.25,
+      "total_price": 2.25,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Pupusa Queso",
+      "quantity": 3,
+      "unit_price": 2.25,
+      "total_price": 6.75,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Platanos Orden",
+      "quantity": 1,
+      "unit_price": 7.75,
+      "total_price": 7.75,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Diet Coke",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Quesadilla salvadorena",
+      "quantity": 2,
+      "unit_price": 2.0,
+      "total_price": 4.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1008-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Dona Mercedes Restaurant\n1030 1/2 San Fernando Rd\nSan Fernando CA 91341\nVero\nCENTER L\n1 CHicharon                       $2.25\n3 Pupusa  Queso               $6.75\n1 Platanos Orden              $7.75\n1 Diet coke                       $1.50\n2 Quesadilla salvadorena $4.00\n\nSUBTOTAL: $22.25\nTAX: $2.22\nTOTAL: $24.47\n\nTIP SUGGESTIONS\n18%: $4.40\n20%: $4.89\n25%: $6.12\n\nThank You!"
+  }
+}

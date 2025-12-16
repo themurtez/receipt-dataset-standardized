@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "LUBRIALBUFEIRA, LDA",
+    "address": "EST MONTECHORO-LOURE MOSQUEIRA 8200-353 ALBUFEIRA",
+    "phone": "707 504 257",
+    "tax_id": "PT508669999",
+    "website": "opinao.galp.com/postos"
+  },
+  "transaction": {
+    "date": "2019-06-20",
+    "time": "11:31:17",
+    "currency": "EUR",
+    "payment_method": "CARTAO DEBITO",
+    "subtotal": 60.0,
+    "tax": 11.22,
+    "tip": 0.0,
+    "total": 60.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GASOLEO SIMPLES",
+      "quantity": 44.15,
+      "unit_price": 1.359,
+      "total_price": 60.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210322_172022.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "galp\n\nPRE-PAGAMENTO\n\nLUBRIALBUFEIRA, LDA - 19107\nLUBRIALBUFEIRA UNIPESSOAL LDA\nEST. MONTECHORO-LOURE MOSQUEIRA\n8200-353 ALBUFEIRA Tel.\nNIF PT508669999\nFatura/Recibo\n\nQuantidade Preço Unitário Preço\n\n44.15 L Bomba 06\nGASOLEO SIMPLES EUR 60.00\n1.359 EUR / L EUR 60.00\n\n23.00 % IVA A EUR 11.22\n\nCliente: 19414\nNome: LIKEHOME ALGARVE LDA\nMorada:\nCódigo Postal:\nLocalidade:\nNIF Adquirinte: 514407395\nMatricula: 59-IV-86\nOperador: Valentina Rublova\nDoc. Nº\nWB1T Processado por Programa\nCertificado n.º 1996/AT\n\nData Hora N.Trn Pos N.ºOp Turno\n20-06-19 11:30 56128 01 002 810\nRegime IVA de Caixa nos casos em que tal\nseja aplicável ao cliente\nclientes@galp.com Tel 707 504 257\n\nA sua opinião é importante!\nPartilhe-a connosco em\nopinao.galp.com/postos\n\nTotal EUR 60.00\nCARTAO DEBITO EUR 60.00\n\nTerminal Pagamento Automático: 00669589\nData: 2019-06-20 Hora: 11:31:17\nPedido: 006 Transacção: 058 Mensagem: 091\nMILLENNIUM BCP\nAMARAL/SALVADOR\nCarteira: ****1008/26\nVISA ELECTRON\nCOMPRA 60,00 EUR\nID ESTAB.: 000124402 AUT: 161540\nPROCESSADO POR SIBS"
+  }
+}

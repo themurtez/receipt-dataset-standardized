@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "flikephone algarve",
+    "address": "Av. da República, 39 - 8500-740 Cubes",
+    "phone": "289 896 284",
+    "tax_id": "PT 514407395",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-06-20",
+    "time": "14:50:49",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 18.87,
+    "tax": 1.13,
+    "tip": 0.0,
+    "total": 20.0,
+    "accounting_category": "Transportation",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Inteiro",
+      "quantity": 1,
+      "unit_price": 18.87,
+      "total_price": 20.0,
+      "category": "Ticket",
+      "accounting_category": "Transportation",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210322_172402.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "EVA\nmt\nExpressasa Qualidade\nFATURA SIMPLIFICADA\nTitulo de Transporte\nORIGINAL\nNr.: 02614/91001EA\n20-06-2019 14:50:49\nNr. de Bilhetes: 9100188582\nOrigem : LAGOA\nDestino : LISBOA SETE RIOS\nQTD| Tipo | Taxa Ilquido | IVA | Total\n1 INTEIRO 6,00% 18,87 1,13 20,00\nTOTAL: 18,87 1,13 20,00\nIVA incluido a Taxa Indicada\nNome: flikephone algarve\nNIF: PT 514407395\nrGzd-Processado por programa\ncertificado N.1143/AT\nAMI-TT (19.6.19)"
+  }
+}

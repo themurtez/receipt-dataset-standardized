@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Royaltea",
+    "address": "No. 23, Jalan Sutera Tanjung 8/3, Taman Sutera Utama, 81300 Skudai, Johor, Malaysia.",
+    "phone": "",
+    "tax_id": "000344043520",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-09-05",
+    "time": "12:22:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 10.28,
+    "tax": 0.62,
+    "tip": 0.0,
+    "total": 10.9,
+    "accounting_category": "Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Royal Milk Tea",
+      "quantity": 1,
+      "unit_price": 10.28,
+      "total_price": 10.9,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006912959.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "**Royaltea**\n(1199794-K)\nNo. 23, Jalan Sutera Tanjung 8/3,\nTaman Sutera Utama\n81300 Skudai\nJohor,Malaysia.\nGST ID : 000344043520\nWi-Fi: 01134229888\nTAX INVOICE\nInvoice No : STU001/59572\nDate : 09/05/2018 #1 12:22 PM\nCashier : Yu Jie\nRef No : 5OTA\nPRN ON : 09/05/2018 12:23 PM\n------------------------------------------\nQTY ITEM RM\n------------------------------------------\n*** Retail/Takeaway ***\n1 Royal Milk Tea 10.90 SR\n1 Black Tea\n1 Cold\n1 Pearl\n1 Less Ice\n1 50% Sugar\n------------------------------------------\n1 SubTotal 10.90\nNet Total 10.90\nCash 11.00\nCHANGE 0.10\n---------- 09/05/2018 12:23 PM ------------\nTax Summary Amount Tax\nSR:Inclusive of GST @6% 10.28 0.62\nTHANK YOU, PLEASE COME AGAIN\nGoods Sold Are Non Refundable"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "UNihak International SDN BHD",
+    "address": "12, Jalan Tampoi 7/4, Kawasan Perindustrian Tampoi, 81200 Johor Bahru, Johor",
+    "phone": "",
+    "tax_id": "867388-U",
+    "website": "facebook.com/BarWangRice"
+  },
+  "transaction": {
+    "date": "2018-03-27",
+    "time": "18:46:00",
+    "currency": "USD",
+    "payment_method": "CASH",
+    "subtotal": 6.9,
+    "tax": 0.39,
+    "tip": 0.0,
+    "total": 6.9,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Fried Noodle (S)",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pork",
+      "quantity": 1,
+      "unit_price": 2.7,
+      "total_price": 2.7,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Vegetable",
+      "quantity": 2,
+      "unit_price": 1.1,
+      "total_price": 2.2,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005442333.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "UNiHAKKA INTERNATIONAL SDN BHD\n27 Mar 2018 18:46\n(867388-U)\n12, Jalan Tampoi 7/4, Kawasan Perindustrian\nTampoi, 81200 Johor Bahru, Johor\nTAX INVOICE\nInvoice # : OR18032702170334\n\nItem\nSR 100100000056-Fried Noodle (S)\n$2.00 1 $2.00\nSR 100100000008 - Pork\n$2.70 1 $2.70\nSR 100100000015 - Vegetable\n$1.10 2 $2.20\n\nTotal Amount: $6.90\nGST @6%: $0.39\nNett Total: $6.90\n\nPayment Mode\nCASH $6.90\nChange $0.00\n\nGST REG #000656195584\nBAR WANG RICE @PERMAS JAYA\n(Price Inclusive Of GST)\nThank You & Come Again!\nLike and Follow Us on Facebook!\nFacebook.com/BarWangRice\n"
+  }
+}

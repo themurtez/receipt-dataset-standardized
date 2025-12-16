@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "TIMES BOOKSTORES",
+    "address": "LOT F21 & 22, CITTA MALL, NO 1, JLN PJU 1A/4, 47301",
+    "phone": "03-56360199",
+    "tax_id": "000423100416",
+    "website": "timesbookstore@btqc.com.my"
+  },
+  "transaction": {
+    "date": "2017-04-23",
+    "time": "10:00:53",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 11.68,
+    "tax": 0.69,
+    "tip": 0.0,
+    "total": 12.37,
+    "accounting_category": "Stationery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PILOT BP-1RT BALLPOINT PEN",
+      "quantity": 1,
+      "unit_price": 1.41,
+      "total_price": 1.49,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PILOT FUDE MAKASE BRUSH PEN",
+      "quantity": 1,
+      "unit_price": 5.56,
+      "total_price": 5.99,
+      "category": "Stationery",
+      "accounting_category": "Art Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PILOT M.PENCIL S.GRIP 05H",
+      "quantity": 1,
+      "unit_price": 4.71,
+      "total_price": 4.89,
+      "category": "Stationery",
+      "accounting_category": "Writing Instruments",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": -0.02,
+    "change_due": 37.65
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006387812.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TIMES BOOKSTORES ... [truncated for brevity] ... 23/04/2017"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 118101.0,
+    "tax": 10736.0,
+    "tip": 0.0,
+    "total": 120000.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "KP BRANDING L",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Other",
+      "accounting_category": "Merchandise",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "M/POKO STD XXL5",
+      "quantity": 1,
+      "unit_price": 17100.0,
+      "total_price": 17100.0,
+      "category": "Baby Products",
+      "accounting_category": "Merchandise",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "HANSP LSI FOOT 6",
+      "quantity": 2,
+      "unit_price": 11200.0,
+      "total_price": 22400.0,
+      "category": "Health Products",
+      "accounting_category": "Merchandise",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CIPAIN PATCH 4S",
+      "quantity": 3,
+      "unit_price": 26200.0,
+      "total_price": 78600.0,
+      "category": "First Aid",
+      "accounting_category": "Merchandise",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 1900.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000077.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KP BRANDING\nDisc.\nM/POKO STD XXL5 1 17,100 17,100\nHANSLPI FOOT 6 2 11,200 22,400\nCIPAIN PATCH 4S 3 26,200 78,600\nTotal Item 4 118,101\nTotal Disc.  1\nTotal Belanja 118,101\nTunai 120,000\nKembalian 1,900\nPPN 10,736\nKritik&Saran: 15000959. SMS: 0817111234"
+  }
+}

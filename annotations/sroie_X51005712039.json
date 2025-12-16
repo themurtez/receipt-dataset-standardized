@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "L TWO FLORIST & HANDICRAFT",
+    "address": "No. 49, Jalan Mahagoni 7/2, Seksyen 4 Bandar Utama, 44300 Batang Kali, Selangor",
+    "phone": "012-3216447",
+    "tax_id": "002062543-P",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-21",
+    "time": "11:01:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 9.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 9.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "NE3555",
+      "quantity": 2,
+      "unit_price": 1.0,
+      "total_price": 2.0,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "1 1/2\" Safety Pin",
+      "quantity": 1,
+      "unit_price": 7.0,
+      "total_price": 7.0,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 11.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005712039.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "L TWO FLORIST & HANDICRAFT\n002062543-P\nNO. 49, JALAN MAHAGONI 7/2,\nSEKSYEN 4 BANDAR UTAMA,\n44300 BATANG KALI, SELANGOR.\nTEL: 012-3216447\nCASH\nRECEIPT #: CS00007203 DATE: 21/03/2018\nSALESPERSON: 001 TIME: 11:01:00\nCASHIER: USER\nITEM QTY U/P AMOUNT\nNE3555 2 1.00 2.00\n1 1/2\" SAFETY PIN\nSB/01-3 1 7.00 7.00\nSATIN BIAS TAPE 12MMX3Y\nTOTAL QTY: 3\nSUB-TOTAL : 9.00\nDISC : 0.00\nTAX : 0.00\nROUNDING : 0.00\nTOTAL 9.00\nCASH 20.00\nCHANGE 11.00\nBARANG YANG DIJUAL TIDAK BOLEH\nDITUKAR."
+  }
+}

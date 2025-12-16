@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "AKI Mafra",
+    "address": "Rua Comendador José Noronha Gorjão, Urbanização Quinta das Pevides, 2640-408 Mafra",
+    "phone": "261 091 200",
+    "tax_id": "506488558",
+    "website": "www.aki.pt"
+  },
+  "transaction": {
+    "date": "2019-05-23",
+    "time": "12:38:00",
+    "currency": "EUR",
+    "payment_method": "Dinheiro",
+    "subtotal": 14.95,
+    "tax": 2.8,
+    "tip": 0.0,
+    "total": 20.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.85
+  },
+  "items": [
+    {
+      "name": "KIT 4 PES SOMMIER",
+      "quantity": 1,
+      "unit_price": 14.95,
+      "total_price": 14.95,
+      "category": "Furniture",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 5.05
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_223735.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AKI Mafra\nRua Comendador José Noronha Gorjão\nUrbanização Quinta das Pevides\n2640-408 Mafra\nTel.: 261 091 200\nwww.aki.pt\n\nR.Qta do Paizinho 10/12,2790-237 Carnaxide\nCRC Cascais - Cap.social 3.232.052 EUR\nNIPC: 506488558 N ́Reg.CEE: PT006680\n\nFatura\nNúmero: FT 05540311/0006586\nData: 23/05/2019 12:38\nNome: FEELSLIKEHOME LDA\nMorada: A.V. DA LIBERDADE 36 1°B\nLocalidade: 1250-145 LISBOA\nNIF: 510776914\n\nI VA CÓD IGO DESCRIÇÃO VALOR\n\nVENDA\n23,0% 3317623 KIT 4 PES SOMMIER 14,95€\nTotal 14,95€\nDinheiro 20,00€\nTroco 5,05€\n\nRECAPITULATIVO IVA\nTAXA  LÍQ.  IVA\n23.0%  12,15  2,80\n\nN° cartão AKI: 93010132005258763\nPontos ganhos: 14\nPontos acumulados: 169\n\nJá ganhou com o seu cartão AKI: 180,00€\n\n0554 3 91005208 265282\n\no v02050403110006586v\nLocal de carga: morada da loja\nLocal de descarga: morada do cliente\nData e hora do transporte: data e hora da fatura\n\nFATURA INDISPENSÁVEL PARA\nTROCA E DEVOLUCAO ATE 100 DIAS\nGoJ iv-Emitido por programa\nCertificado n°2286/AT.\n\nOBRIGADO POR COMPRAR NA NOSSA LOJA"
+  }
+}

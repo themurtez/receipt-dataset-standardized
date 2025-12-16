@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "CONTENTO",
+    "address": "15, JALAN PERMAS 10/7, PERMAS 81750 MASAI JOHOR",
+    "phone": "",
+    "tax_id": "JM0761170-K",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-20",
+    "time": "17:19:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 21.6,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 21.6,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Bubble M T",
+      "quantity": 2,
+      "unit_price": 5.9,
+      "total_price": 11.8,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Yam M T",
+      "quantity": 1,
+      "unit_price": 4.9,
+      "total_price": 4.9,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Addon",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Snack",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "W. Cho",
+      "quantity": 1,
+      "unit_price": 3.9,
+      "total_price": 3.9,
+      "category": "Snack",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 8.4
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005442388.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CONTENTO (JM0761170-K)\n15, JALAN PERMAS 10/7, PERMAS\n81750 MASAI JOHOR\n\n20/03/18 17:19 000000#001429\n\n2x 5.90 (Toml)\nBubble M T RM 11.80\n1x 4.90\nYam M T RM 4.90\n1x 1.00 (Snack)\nADD ON RM 1.00\n1x 3.90\nW. Cho RM 3.90\n\nITEMS 50\nTOTAL RM 21.60\nCASH RM 30.00\nCHANGE RM 8.40\n\nTHANK YOU\nFORWARD TO YOUR NEXT VISIT"
+  }
+}

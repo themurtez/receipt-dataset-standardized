@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "MAGIA&MESA LDA",
+    "address": "ET MONUMENTAL 179A 9000 100",
+    "phone": "N. Contrib. 510089926",
+    "tax_id": "N.I.F. 510769914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-23",
+    "time": "23:42:33",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 42.65,
+    "tax": 6.95,
+    "tip": 0.0,
+    "total": 49.6,
+    "accounting_category": "food_and_drinks",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Atum",
+      "quantity": 1,
+      "unit_price": 13.95,
+      "total_price": 13.95,
+      "category": "food_and_drinks",
+      "accounting_category": "food_and_drinks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Bordois",
+      "quantity": 4,
+      "unit_price": 5.0,
+      "total_price": 20.0,
+      "category": "food_and_drinks",
+      "accounting_category": "food_and_drinks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Imperial",
+      "quantity": 2,
+      "unit_price": 1.15,
+      "total_price": 2.3,
+      "category": "beverages",
+      "accounting_category": "beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Risoto Chuco",
+      "quantity": 1,
+      "unit_price": 13.35,
+      "total_price": 13.35,
+      "category": "food_and_drinks",
+      "accounting_category": "food_and_drinks",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_215734.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MAGIA&MESA LDA\nET MONUMENTAL 179A 9000 100\nTel.\nN. Contrib. 510089926\nmagiaemesa@gmail.com\nFLM\nN.I.F. 510769914\nFatura Recibo FT 002/9161\nOriginal\n2017-11-23 23:42:33\n1 Atum \t\t\t\t\t12 \t13.95\n4 Bordois \t\t\t\t12 \t20.00\n2 Imperial 0.20\t\t12 \t2.05\n1 Risoto Chuco \t\t12 \t13.60\nTotal \t\t\t\t\t\t49.60\nTaxa\t\tBase\t\tIVA\t\tTotal\n12.00\t\t24.11\t\t2.89\t\t27.00\n22.00\t\t18.54\t\t4.06\t\t22.60\nTotal\t\t42.65\t\t6.95\t\t49.60\nEmp 7\nIVA incluido\nConsultas: DC 002/98914\nObrigado e volte sempre\nSBOR Processado por programa\ncertificado n. 0071/AT\nCopyright GrupoPIE SA"
+  }
+}

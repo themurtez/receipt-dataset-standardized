@@ -1,0 +1,136 @@
+{
+  "merchant": {
+    "name": "99 Speed Mart S/B",
+    "address": "Lot P.T. 33198, Batu 4, Jalan Kapar, Mukim Kapar, 42100 Klang, Selangor",
+    "phone": "",
+    "tax_id": "000181747712",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-05-11",
+    "time": "10:12:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 167.19,
+    "tax": 10.03,
+    "tip": 0.0,
+    "total": 177.22,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Anchor Serbuk Cuci 4kg",
+      "quantity": 2,
+      "unit_price": 9.4,
+      "total_price": 18.8,
+      "category": "Cleaning Supplies",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Dove Cream Bar Soap 100",
+      "quantity": 10,
+      "unit_price": 2.65,
+      "total_price": 26.5,
+      "category": "Personal Care",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Fernleaf Full Crm Milk",
+      "quantity": 1,
+      "unit_price": 40.95,
+      "total_price": 40.95,
+      "category": "Dairy",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Colgate Great Regular",
+      "quantity": 2,
+      "unit_price": 7.99,
+      "total_price": 15.98,
+      "category": "Personal Care",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lee Kum Kee Sos Tiram C",
+      "quantity": 3,
+      "unit_price": 7.6,
+      "total_price": 22.8,
+      "category": "Sauces",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cheong Chan Sos Karamel",
+      "quantity": 1,
+      "unit_price": 5.09,
+      "total_price": 5.09,
+      "category": "Sauces",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Mister Potato Chips BB",
+      "quantity": 2,
+      "unit_price": 3.95,
+      "total_price": 7.9,
+      "category": "Snacks",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Marigold HL Milk 1L",
+      "quantity": 2,
+      "unit_price": 6.35,
+      "total_price": 12.7,
+      "category": "Dairy",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Bintang Tepung Jagung 4",
+      "quantity": 1,
+      "unit_price": 1.35,
+      "total_price": 1.35,
+      "category": "Baking",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Nutella Ferrero Hazeln",
+      "quantity": 1,
+      "unit_price": 14.65,
+      "total_price": 14.65,
+      "category": "Spreads",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Nutriplus Cheese Chick",
+      "quantity": 2,
+      "unit_price": 5.25,
+      "total_price": 10.5,
+      "category": "Prepared Foods",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 27,
+    "rounding": -0.02,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006620189.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "99 SPEED MART S/B (519537-X)\nLOT P.T. 33198, BATU 4\nJALAN KAPAR, MUKIM KAPAR\n42100 KLANG, SELANGOR\n1605-TMN SRI BINTANG\nGST ID. NO : 000181747712\nINVOICE NO : 17664/103/T0027\n\n10:12AM 560272 11-05-16\n\n967 ANCHOR SERBUK CUCI 4KG RM18.80\n@2 X RM 9.40\n886 DOVE CREAM BAR SOAP 100 RM26.50\n@10 X RM 2.65\n5551 FERNLEAF FULL CRM MILK RM40.95\n2267 COLGATE GREAT REGULAR RM15.98\n@2 X RM 7.99\n265 LEE KUM KEE SOS TIRAM C RM22.80\n@3 X RM 7.60\n193 CHEONG CHAN SOS KARAMEL RM5.09\n2394 MISTER POTATO CHIPS BB RM7.90\n@2 X RM 3.95\n8019 MARIGOLD HL MILK 1L RM12.70\n@2 X RM 6.35\n706 BINTANG TEPUNG JAGUNG 4 RM1.35\n2216 NUTELLA FERRERO HAZELN RM14.65\n9547 NUTRIPLUS CHEESE CHICK RM10.50\n@2 X RM 5.25\n\nTotal Sales (Inclusive GST) RM 177.22\nRounding Adjustment RM -.02\nRounding RM 177.20\nCREDIT RM 177.20\nCHANGE RM .00\n\nGST Summary Amount(RM) Tax(RM)\ns = 6% 167.19 10.03\n\nThank You. Please come again\nKeep the invoice for applicable returns"
+  }
+}

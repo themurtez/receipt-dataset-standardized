@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "BCA Debit",
+    "subtotal": 58000.0,
+    "tax": 5800.0,
+    "tip": 0.0,
+    "total": 63800.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chic Namban Bento",
+      "quantity": 1,
+      "unit_price": 58000.0,
+      "total_price": 58000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000532.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 CHIC NAMBAN BENTO 58,000\nSUBTTL 58,000\nPb1 10% 5,800\nTOTAL 63,800\nBCA DEBIT 63,800"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "UNIHAKKA INTERNATIONAL SDN BHD",
+    "address": "12, Jalan Tampoi 7/4, Kawasan Perindustrian Tampoi, 81200 Johor Bahru, Johor",
+    "phone": "",
+    "tax_id": "867388-U",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-10",
+    "time": "18:19:00",
+    "currency": "USD",
+    "payment_method": "CASH",
+    "subtotal": 11.51,
+    "tax": 0.69,
+    "tip": 0.0,
+    "total": 12.2,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Herbal Tea (Iced)",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Rice (S)",
+      "quantity": 1,
+      "unit_price": 0.5,
+      "total_price": 0.5,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Imported Veggies",
+      "quantity": 1,
+      "unit_price": 1.6,
+      "total_price": 1.6,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Add Chicken",
+      "quantity": 1,
+      "unit_price": 3.7,
+      "total_price": 3.7,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "3 Vege",
+      "quantity": 1,
+      "unit_price": 4.4,
+      "total_price": 4.4,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006913032.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "UNIHAKKA INTERNATIONAL SDN BHD\n10 May 2018 18:19\n(867388-U)\n12, Jalan Tampoi 7/4,Kawasan Perindustrian\nTampoi,81200 Johor Bahru,Johor\nTAX INVOICE\nInvoice # : OR18051002160303\nItem Qty Total\nSR 100100000053- Herbal Tea (Iced)\n$2.00 1 $2.00\nSR 100100000013- Rice (S)\n$0.50 1 $0.50\nSR 100100000170- Imported Veggies\n$1.60 1 $1.60\nSR 100100000114- Add Chicken\n$3.70 1 $3.70\nSR 100100000031- 3 Vege\n$4.40 1 $4.40\nTotal Amount: $12.20\nGST @6%: $0.69\nNett Total: $12.20\nPayment Mode Amount\nCASH $12.20\nChange $0.00\nGST Summary Amount($) Tax($)\nSR = GST @6% 11.51 0.69\nGST REG #000656195584\nBAR WANG RICE@PERMAS JAYA\n(Price Inclusive Of GST)\nThank You & Come Again!\nLike and Follow Us on Facebook!\nFacebook.com/BarWangRice"
+  }
+}

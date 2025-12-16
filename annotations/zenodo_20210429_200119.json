@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "R Actor António Silva, N7, 1649-033 Lisboa",
+    "phone": "213136180",
+    "tax_id": "500829993",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-07-03",
+    "time": "16:03:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 0.8,
+    "tax": 0.19,
+    "tip": 0.0,
+    "total": 0.99,
+    "accounting_category": "Purchase",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "DETERG. E PROD. LIMPEZA",
+      "quantity": 1,
+      "unit_price": 0.99,
+      "total_price": 0.99,
+      "category": "Cleaning Products",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_200119.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "pingo doce\nTOMAS RIBEIRO\nTel.: 213136180\nPingo Doce Distribuição Alimentar, S.A.\nR Actor António Silva,N7,1649-033 Lisboa\nRegisto: C.R.C. Lisboa-Matricula/NIPC: 500829993\nANREEE: PTCO1730 C. Social: 33,808,115 EUR\n---------------------------\nArtigos\nDETERG. E PROD. LIMPEZA 0,99\n23% FILTR CAFÉ HOME7 N°4\n---------------------------\nResumo O,99\nTOTAL A PAGAR\nPagamentos 0,99\nPago 0,99\n---------------------------\nResumo IVA\nValor s/IVA Valor IVA Valor c/IVA\n23% 0,80 0,19 0,99\n\nAtendido por: Simónica Santos\n---------------------------\nkj9S-Processado por programa certificado 369/AT\nFatura/Recibo FT 04400021901010617/003644\n1ª Via Original Data de emissão:03-07-2019\nN Contribuinte: 510776914\nNome:.... Feels Like Home\nMorada.  .. AV DA LIBERDADE 36 1B 1250/145\nLocalidade.. Lisboa\n\nLocal carga....TOMAS RIBEIRO\nMorada de descarga.: Morada do cliente\nData: 2019-07-03 Hora: 16:03\n---------------------------\nFactura necessaria para troca em 15 dias\n(Artigos Têxtil e Calçado prazo 30 dias)\nNão se trocam medicamentos e artigos assinalados\n\n---------------------------\nApoio ao Cliente\n808 20 45 45 / 210 11 44 11 (24 horas)\n"
+  }
+}

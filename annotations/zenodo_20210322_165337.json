@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "R Actor Antonio Silva, N7, 1649-033 Lisboa",
+    "phone": "282380110",
+    "tax_id": "500892993",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-06-20",
+    "time": "12:00:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 2.86,
+    "tax": 0.66,
+    "tip": 0.0,
+    "total": 3.52,
+    "accounting_category": "Grocery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "MERCEARIA + PET FOOD",
+      "quantity": 1,
+      "unit_price": 2.86,
+      "total_price": 3.52,
+      "category": "Grocery",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 16.48
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210322_165337.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "pingo doce\nfeito para pogar bem\nLAGOA\nTel.: 282380110\nPingo Doce Distribuição Alimentar, S.A.\nSede: R Actor Antonio Silva, N7, 1649-033 Lisboa\nRegisto: C.R.C. Lisboa Matrícula/ NIPC: 500892993\nAntee: P1001730 C. Social: 33.808.115 EUR\nArtigos\nMERCERIA + PET FOOD 3.52\nE 23% CAFE PD DESCOB. 16X6L\nResunno\nTOTAL A PAGAR 3.52\nPagamentos\nRe ENTRY 20.00\nEURO 20.00\nResun fio iva\nD. 23% 2.86 0.66 3.52\nAtendido por: Ines Santos\n070681 2019-06-20 12:00 0003 0007 0761\nAT\nFatura/Recibo FT 076100710911117520/099125\nLa Via Duplicado Data de emissão: 20-06-2019\nN. Contribuinte: 514047395\nNome: FLIKEHOME ALGARYE\nMorada:\nLISBOA\n...\nMorada\n.\n.\nLISBOA\nLocal carga:\n.\n.\nLAGOA\nLocal descarga: Morada do cliente\nData: 2019-06-20 Hora: 12:00\nFactura necessaria para troca e 15 dias\n(Artigos Têxtil Calçado atraso 30 dias)\nNão se trocam medicamentos e artigos assinalados\nApoio ao Cliente\n808 29 45 45 / 210 11 41 11 (24 horas)\n"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Caldera Brewery & Restaurant",
+    "address": "590 Clover Lane, Ashland, OR",
+    "phone": "(541) 482-HOPS",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-28",
+    "time": "19:06:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 36.5,
+    "tax": 1.1,
+    "tip": 0.0,
+    "total": 37.6,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Glass Imp Stout",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Beverage",
+      "accounting_category": "Beer",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Ashland Amber",
+      "quantity": 1,
+      "unit_price": 7.0,
+      "total_price": 7.0,
+      "category": "Beverage",
+      "accounting_category": "Beer",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Butter Noodles",
+      "quantity": 1,
+      "unit_price": 4.75,
+      "total_price": 4.75,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Oatmeal Stout",
+      "quantity": 1,
+      "unit_price": 7.0,
+      "total_price": 7.0,
+      "category": "Beverage",
+      "accounting_category": "Beer",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Mahi Mahi TACO",
+      "quantity": 1,
+      "unit_price": 12.75,
+      "total_price": 12.75,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1058-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Caldera BREWERY & RESTAURANT\n590 Clover Lane\nAshland, OR\n(541) 482-HOPS\nServer: Hope\n12/28/2017\nGuests: 2 7:06 PM\n#20071\nGlass Imp Stout 5.00\nAshland Amber 7.00\nButter Noodles 4.75\nOatmeal Stout 7.00\nMahi Mahi TACO 12.75\nSubtotal 36.50\nTax 1.10\nTotal 37.60\nBalance Due 37.60\nCheers from Caldera Brewery & Restaurant\nPlease Drive Carefully\nWE SELL CANS, BOTTLES AND GROWLERS TO GO"
+  }
+}

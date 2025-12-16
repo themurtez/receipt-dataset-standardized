@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Deck Bar",
+    "address": "Vilamoura 8125",
+    "phone": "",
+    "tax_id": "N/Contribuinte: 260389846",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-21",
+    "time": "23:54:00",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 17.5,
+    "tax": 2.55,
+    "tip": 0.0,
+    "total": 17.5,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Pregos",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Pregos",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Imperial 20cl",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Imperial 20cl",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Imperial 20cl",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Imperial 20cl",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_182335.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "DECK BAR\nby Adelino Shou\nde: Marcelo da Silveira Shou\nVILAMOURA\n8125\nN/CONTRIBUINTE: 260389846\nFATURA/RECIBO NR. 102 A19/8031\nORIGINAL\nDATA: 21/03/2019 HORA: 23:54\nVENDEDOR: A casa\nCLIENTE: 999\nFLIKE HOME ALGARVE\nV/CONTRIBUINTE: 514407395\n\nQTD DESCRICAO PRC IVA TOTAL\n1.00 Pregos 5.00 13% 5.00\n1.00 Pregos 5.00 13% 5.00\n1.00 IMPERIAL 20cl 1.50 23% 1.50\n1.00 IMPERIAL 20cl 1.50 23% 1.50\n1.00 IMPERIAL 20cl 1.50 23% 1.50\n1.00 IMPERIAL 20cl 1.50 23% 1.50\n\nTotal Documento........ 17.50\nEntregou.................. 17.50\n\nReparticao do Iva\n8.85 13% 1.15\n6.10 23% 1.40\n\nNUMERARIO............... 17.50\nGolfinhoSoft v(2018)11.00.01\noIPy-Processado por programa certificado n.116/A\n\nMUITO OBRIGADO"
+  }
+}

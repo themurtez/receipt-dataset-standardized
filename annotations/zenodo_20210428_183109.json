@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "LELIMEL-MATERIAIS DE CONSTRUÇÃO, LDA",
+    "address": "Casal Cordeiro, 2655-000 ERICEIRA, ERICEIRA",
+    "phone": "261862767",
+    "tax_id": "510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-01-03",
+    "time": "11:35:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 10.41,
+    "tax": 2.39,
+    "tip": 0.0,
+    "total": 12.8,
+    "accounting_category": "Construction Materials",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "DESCARGA AUTOCLISMO SIMPLES",
+      "quantity": 1,
+      "unit_price": 10.23,
+      "total_price": 12.8,
+      "category": "Construction Materials",
+      "accounting_category": "Construction Materials",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_183109.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "LELIMEL-MATERIAIS DE CONSTRUÇÃO,LDA\nCasal Cordeiro\n2655-000 ERICEIRA ERICEIRA\nTel: 261862767 NIF:\n501382670\nEmail: geral@lelimel.com\nFAHRlra-receibo\nDADos DO Cliente\nFEELS LIKE HOME\nN° Data Xérox data\nFaxtwo\nN° FR 14/8266\n1350-310 LISBOA LISBOA\nN° Contribuinte: 510776914\nData de emissão: 2019-01-03 11:35\nData de entrega: 03.01.2019\nRef Design QTD Desc P.Unit IVA P.Total\nASECO168 DESCARGA AUTCOLISMO SIMPLES\n1,000 12,23 10,23 12,80\nSoftware PHC - ourc-Processado por programa certificado n°\n0006/AT 2019-11\nTaga Base de Incidência Valor do I.V.A.\n6.00% 10,41 0,62\n13.00% 10,41 1,41\n23.00% 10,41 2,39\nTotal Ilíquido: 10.41\nDesconto Comercial:\nDesconto Financeiro\nBase de Incidência de I.V.A.: 10,41\nTotal de I.V.A.: 2,39\nTOTAL DO DOCUMENTO EUR 12,80\nTROCO EUR\nDocumento pago no acto de emissão\nTalao indispensável para efeito de trocas\nLocal Carga Nossas instalações\nLocal de descarga Morada do Cliente\nData/Hora carga 03.01.2019 11:35\nDocumento Processado por Computador\nObrigado - Volte Sempre"
+  }
+}

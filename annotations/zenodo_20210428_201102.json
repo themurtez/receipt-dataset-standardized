@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "El Corte Inglés",
+    "address": "Avenida António Augusto de Aguiar, Lisboa",
+    "phone": "",
+    "tax_id": "NIF 501 525 882",
+    "website": "www.elcorteingles.pt"
+  },
+  "transaction": {
+    "date": "2019-05-05",
+    "time": "12:14:00",
+    "currency": "EUR",
+    "payment_method": "Debit",
+    "subtotal": 56.83,
+    "tax": 13.07,
+    "tip": 0.0,
+    "total": 69.9,
+    "accounting_category": "Clothing",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Denim K Shirt",
+      "quantity": 1,
+      "unit_price": 69.9,
+      "total_price": 69.9,
+      "category": "Clothing",
+      "accounting_category": "Clothing",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_201102.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "EL CORTE INGLES - GRANDES ARMAZENS, S.A.\nAvenida António Augusto de Aguiar, Lisboa\nNIF 501 525 882\nEL CORTE INGLES - LOJA LISBOA\nVISITE-NOS EM: WWW.ELCORTEINGLES.PT\n\nFATURA\n\n6QHC1YEW2Q6068DMLP0B4GT\nVendedor T.T EmpCent Operac. Data Hora EdPIZn T\n10886471 9 0040140 03768698 05/Mai/19 12:14 010200 00\n\nCODIGO DE CONTROLO: 9015EAFFCC\nDescrição Quantidade Valor\n\nDENIM K SHIRT 1 C 69,90\n\nTOTAL 69,90\n\nCARTAO PDP 0190103591706\nC.ECI DEBITO EM CONTA ********1547019 AUT:991215\n\nDetalhe discriminado tipo imposto: IVA INCLUÍDO\n(C) IMP 23,00% Base 56,83 Quota 13,07 Total 69,90\n\n(N. TOTAL DE ARTIGOS: 1)\n\nATEND, POR: INES RIBEIRO\n\nDados do cliente:\nNo Contribuinte: 510776914\nFLIKEROME\nR\n\nNo Fatura: FC 014019376A/000156 05-06-2019\nBev-Processado por programa certificado No 2502/AT"
+  }
+}

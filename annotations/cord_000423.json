@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 22000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 22000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "[MD] Soft Steamed Cheesec",
+      "quantity": 1,
+      "unit_price": 10000.0,
+      "total_price": 10000.0,
+      "category": "Dessert",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Choco Custard Pastry",
+      "quantity": 1,
+      "unit_price": 12000.0,
+      "total_price": 12000.0,
+      "category": "Pastry",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 78000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000423.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 [MD] SOFT STEAMED CHEESEC 10,000\n1 CHOCO CUSTARD PASTRY 12,000\nTOTAL 22,000\nCASH 100,000\nCHANGE 78,000\n"
+  }
+}

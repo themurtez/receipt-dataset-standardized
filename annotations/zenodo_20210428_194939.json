@@ -1,0 +1,163 @@
+{
+  "merchant": {
+    "name": "Pão da Vila",
+    "address": "Praça da República 4, 2655 368 Ericeira",
+    "phone": "261865958",
+    "tax_id": "510776914",
+    "website": "www.paodavila.pt"
+  },
+  "transaction": {
+    "date": "2019-05-01",
+    "time": "16:11:06",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 82.42,
+    "tax": 11.13,
+    "tip": 0.0,
+    "total": 93.55,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Hamb Classico",
+      "quantity": 3,
+      "unit_price": 18.9,
+      "total_price": 18.9,
+      "category": "Main Course",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Pizza 4Queijos Trugada",
+      "quantity": 1,
+      "unit_price": 13.6,
+      "total_price": 13.6,
+      "category": "Main Course",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Pizza Marguerita",
+      "quantity": 3,
+      "unit_price": 13.5,
+      "total_price": 13.5,
+      "category": "Main Course",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Pizza Tropical",
+      "quantity": 1,
+      "unit_price": 16.5,
+      "total_price": 16.5,
+      "category": "Main Course",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Bacon Burger",
+      "quantity": 1,
+      "unit_price": 13.5,
+      "total_price": 13.5,
+      "category": "Main Course",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Omelete Simples",
+      "quantity": 1,
+      "unit_price": 13.9,
+      "total_price": 13.9,
+      "category": "Main Course",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Espargos Cogumelos",
+      "quantity": 2,
+      "unit_price": 13.9,
+      "total_price": 13.9,
+      "category": "Main Course",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Sopa",
+      "quantity": 1,
+      "unit_price": 3.5,
+      "total_price": 3.5,
+      "category": "Starter",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Omelete queijo e fiamb",
+      "quantity": 1,
+      "unit_price": 4.9,
+      "total_price": 4.9,
+      "category": "Main Course",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Agua Sem Gás 0,5",
+      "quantity": 4,
+      "unit_price": 1.2,
+      "total_price": 1.2,
+      "category": "Drink",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Ice Tea",
+      "quantity": 1,
+      "unit_price": 1.9,
+      "total_price": 1.9,
+      "category": "Drink",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Imperial",
+      "quantity": 4,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Drink",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Coca Cola",
+      "quantity": 1,
+      "unit_price": 1.8,
+      "total_price": 1.8,
+      "category": "Drink",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Café refeição",
+      "quantity": 5,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Drink",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 26,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_194939.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Barata & Miranda Lda\nPraça da República 4\n2655 368 Ericeira\nTel. 261865958\nN. Contrib. 5006321620\nRegistro na Cons. n\nCapital Social\n95.000,00\nwww.paodavila.pt\nN.C. 510776914\nFatura simplificada FS 207/38043\nOriginal\n2019-05-01 16:11:06\n----------------------------------------\nQt Artigo\n3 Hamb Classico       13     18.90\n1 Pizza 4Queijos       13     13.60\n1 Pizza Marguerita     13     16.50\n1 Pizza Tropical       13     16.50\n1 Bacon Burger         13     13.50\n1 Omelete Simples      13     13.90\n2  O. Espargos Cogumelos\n1 Sopa                 13     3.50\n1 Omelete queijo e fiamb 13   4.90\n4 Agua Sem Gás 0,5     23     1.20\n4 Ice Tea              23     1.90\n4 Imperial             23     2.50\n1 Coca Cola            23     1.80\n5 Café refeição        13     1.00\n----------------------------------------\nTotal                 93.55\n----------------------------------------\nBase\n13.00   78.02\n23.00    4.40\nTotal   82.42\nIVA\n10.13\n1.13\nTotal\n82.42\n11.13\n93.55\nDirect Customer Support\nProcessed by\nTipo de venda: Numerário\nProcessado por Computador\nTotal         93.55\nIVA Incluído\nProdutos adquiridos colocados à\ndisposição do cliente no dia 2019 05 01\nInformalizado por\nInstagram: paodavila\n-----------------------------------------\nObrigado e volte sempre\nThank you for your visit\nPão da Vila\nwww.paodavila.pt\nFacebook/Instagram: paodavila\nObrigado e volte sempre\nDuk: Processado por programa\nCertificado n. 001/1/AI\nCopyright GrupoPIE, SA"
+  }
+}

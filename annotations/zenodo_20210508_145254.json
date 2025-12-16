@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "Lisboa, Portugal",
+    "phone": "213 247 330",
+    "tax_id": "PT509829993",
+    "website": "www.pingodoce.pt"
+  },
+  "transaction": {
+    "date": "2018-10-06",
+    "time": "12:30:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 1.15,
+    "tax": 0.26,
+    "tip": 0.0,
+    "total": 1.41,
+    "accounting_category": "Cleaning Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Detergente P. Roupa Limpeza",
+      "quantity": 1,
+      "unit_price": 1.41,
+      "total_price": 1.41,
+      "category": "Cleaning Supplies",
+      "accounting_category": "Cleaning Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 18.59
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_145254.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "pingo doce\nsabe bem pagar tao pouco\n1° Dezembro\nTeln. 213 247 330\nPingo Doce — Distribuicao Alimentar, S.A,\nSede: R Actor Antonio Silva, N7, 1649-033 Lisboa\nRegisto C.R.C. Lisboa - Matrícula/NIPC: 500829993\nRegisto Preço Dist. Dec. AMREE: PTO1730\nCapital Social - 15.680,115 EUR\n.\nArtigos\nDETERG. P. ROU. LIMPEZA 1,41\nE 23% 1,15 CAP ULTRA PROD500\nResumo 1,41\nTOTAL A PAGAR EUR\nTOTAL PAGO 20,00\nTROCO 18,59\nResumo IVA\nTaxa Valor s/IVA Valor IVA Valor c/IVA\nE 23% 0,26 1,41\n4-.\n.\n\n1701000\nCartao n°: 101 119 8\nCombustivel ganho na compra: 0 EUR\nSaldo em: 2011-11-2018: 0 EUR a usufruir\ne de todas as vantangens Poupa Mais.\nregiste-se em www.poupamais.pt\n\nAtendido por: INES COELHO\n*1758236* 06-10-2018 12:30 0036 0004 045 I\nFatura/Recibo FDT 04510041B010167/001093\nVia Original Data de Emissão: 06-10-2018\nN. Contribuinte: 510767914 Nome\nMoradai: LISBOA\nLocalidade: LISBOA\nLocal carga...|° Dezembro\nLocal de carga: Morada do cliente\nData: 2018-10-06 Hora: 12:30\nFSEA-Processado por programa\ncertificado n°9359/AT\nFactura necessaria para troca em 15 dias\n(artigos Textil e Calçado prazo 30 dias)\nNão se trocam medicarnentos e artigos assinalados\nApoio ao Cliente\n808 20 45 45 / 210 11 44 11 (24 horas)\nwww.pingodoce.pt\n\nPREÇOS SEMPRE BAIXOS E\nGRANDES OPORTUNIDADES\nDE POUPANCA IMEDIATA"
+  }
+}

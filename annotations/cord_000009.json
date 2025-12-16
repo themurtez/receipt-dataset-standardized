@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "THB",
+    "payment_method": "cash",
+    "subtotal": 40.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 40.0,
+    "accounting_category": "Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Thai Iced Tea",
+      "quantity": 2,
+      "unit_price": 20.0,
+      "total_price": 40.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 60.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000009.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "THAI ICED TEA\n2 @20.000 40.000\nSUB-TOTAL 40.000\nGRANDTOTAL 40.000\nCASH 100.000\nCHANGED 60.000"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Broadview Marketing Sdn Bhd",
+    "address": "No. 9-G, Jalan Dinar D U3/D, Taman Subang Permai, Sek. U3, 40150 Shah Alam, Selangor D.E.",
+    "phone": "03-78459183",
+    "tax_id": "000203587568",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-03-06",
+    "time": "17:02:54",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 16.98,
+    "tax": 1.02,
+    "tip": 0.0,
+    "total": 18.0,
+    "accounting_category": "Sales",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SR+ HM BM03 040 24 M36 (2KG)",
+      "quantity": 1,
+      "unit_price": 16.98,
+      "total_price": 18.0,
+      "category": "Goods",
+      "accounting_category": "Retail",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006392273.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Broadview Marketing Sdn Bhd (728344-M)\nNo. 9-G, Jalan Dinar D U3/D\nTaman Subang Permai, Sek. U3,\n40150 Shah Alam, Selangor D.E.\n03-78459183\nGST Reg No: 000203587568\n\nTax Invoice\nBill No : BM-161113\nDate : 03/06/2017 5:02:54 PM\nCashier : Merlin\n\nDescription Qty Price Amount\n1 SR+ HM BM03 040 1 16.98 18.00\n  24 M36 (2kg)\n\nTotal 18.00\nTotal Item Discount: 0.00\nTotal Sales Inclusive GST:  18.00\n\nCash Received: 18.00\nOK\n\nGST Summary\nTax Code % Taxable Amount GST\nSR 5.00 16.98 1.02\n\nGST: 1.02\n* GST Include Item\n\nThank You. Please Come Again."
+  }
+}

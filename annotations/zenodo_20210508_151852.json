@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Farmacia Central de Telheiras",
+    "address": "Rua Prof. Eduardo Araujo Coelho, 5-A, 1600-235 Lisboa",
+    "phone": "218872060",
+    "tax_id": "514170689",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-09-10",
+    "time": "18:39:24",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 2.63,
+    "tax": 0.16,
+    "tip": 0.0,
+    "total": 2.79,
+    "accounting_category": "Healthcare",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Ben-U-Ron, 1000 mg x 18 comp",
+      "quantity": 1,
+      "unit_price": 2.79,
+      "total_price": 2.79,
+      "category": "Pharmaceuticals",
+      "accounting_category": "Healthcare",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_151852.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "FARMACIA CENTRAL DE TELHEIRAS\nDC - DOSE CERTA, LDA\nRUA PROF. EDUARDO ARAUJO COELHO, 5-A\n1600-235 LISBOA\n11061         NIF:514170689\nDra Tânia Filipa Matos Rocha\nTel.: 218872060\nCapital Soc.: 39.848.901,00 Eu\nFATURA N.: F U009/14995\nData: 10-09-2018  18:39:24\nVenda n.: 166246 (ANA PAULA)\nNome: FLIKEHOME\nMorada: LX\nContribuinte n.: 510776914\nProduto            PVP    PRef   Qt   Comp  Líquido   IVA\nBen-U-Ron, 1000 mg x 18 comp\n                  2,79    1,79      1   0,00     2,79     6%\nTotal(Euros): 2,79\nTotais de IVA:\nTaxa   Valor   Valor IVA   Líquido\n6%    2,63        0,16        2,79\nImportância Liquidada\n(09920)\nq2PD-Processado por programa certificado\nnº 432/AT\nNÃO SE TROCAM MEDICAMENTOS E PRODUTOS\n   HORÁRIO\n DIAS ÚTEIS: 9H00 às 21H00\n  SÁBADO: 9H00 às 20H00\nACONSELHAMENTO NUTRICIONAL - ISETEMBRO"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 62727.0,
+    "tax": 6272.0,
+    "tip": 0.0,
+    "total": 69000.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "S-Ovaltine Macchiato",
+      "quantity": 2,
+      "unit_price": 22000.0,
+      "total_price": 44000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "S-KOI Cafe Macchiato",
+      "quantity": 1,
+      "unit_price": 25000.0,
+      "total_price": 25000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 31000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000645.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "2X S-Ovaltine Macchiato @22,000 44,000\n25%\n1X S-KOI Cafe Macchiato @25,000 25,000\n25%\nPB1: 6,272\nSubtotal: 62,727\nTotal: 69,000\nCash: 100,000\nCHANGE: 31,000"
+  }
+}

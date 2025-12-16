@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 18000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 18000.0,
+    "accounting_category": "Beverages",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Es Kopi Rupa",
+      "quantity": 1,
+      "unit_price": 18000.0,
+      "total_price": 18000.0,
+      "category": "Beverages",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 1000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000799.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Es Kopi Rupa 1 18.000\nTotal 18.000\nTunai 19.000\nKembali 1.000"
+  }
+}

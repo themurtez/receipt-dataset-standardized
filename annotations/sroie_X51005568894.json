@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Vivopac Marketing Sdn Bhd",
+    "address": "14 Jalan Manis 4 Taman Segar 56100 KL",
+    "phone": "03-91334364",
+    "tax_id": "000565805056",
+    "website": "www.vivopac.com"
+  },
+  "transaction": {
+    "date": "2017-01-17",
+    "time": "13:31:27",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 44.0,
+    "tax": 2.64,
+    "tip": 0.0,
+    "total": 46.65,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PP - 14x20 0.04mm",
+      "quantity": 1,
+      "unit_price": 14.6,
+      "total_price": 14.6,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "PP - 16x26 0.04mm",
+      "quantity": 1,
+      "unit_price": 14.6,
+      "total_price": 14.6,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "24 x 28 (75HT) Red",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "26 x 33 (85HT) Red",
+      "quantity": 1,
+      "unit_price": 8.0,
+      "total_price": 8.0,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "1 OPP Tapes",
+      "quantity": 1,
+      "unit_price": 0.8,
+      "total_price": 0.8,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.01,
+    "change_due": 5.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005568894.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "VIVOPAC MARKETING SDN BHD (1070687-M)\n14 JALAN MANIS 4 TAMAN SEGAR 56100 KL\nTEL: 03-91334364 FAX: 03-91310522\nwww.vivopac.com\nGST REG: 000565805056\nTAX INVOICE\n\nDoc #: CS21532619\nDate : 17/01/2017 01:31:27 PM\nTerminal : T02 Cashier : AI\nDESCRIPTION PRICE Disc AMOUNT TAX\nQTY RM RM CODE\nPP - 14x20 0.04mm\n1.00 PKT * 14.6000 14.60 SR\nPP - 16x26 0.04mm\n1.00 PKT * 14.6000 14.60 SR\n24 x 28 (75HT) Red\n1.00 PKT * 6.0000 6.00 SR\n26 x 33 (85HT) Red\n1.00 PKT * 8.0000 8.00 SR\n1 OPP Tapes\n1.00 PCS * 0.8000 0.80 SR\nItem Count: 5 Item Qty: 5\nSub Total (Exclusive GST) : 44.00\nGST 6% : 2.64\nRounding Adj. : 0.01\nRounded Total (RM): 46.65\nCash 51.65\nCash Change 5.00\nGST Summary Amount(RM) Tax(RM)\nSR @ 6 % 44.00 2.64\nTerms & Conditions\nGoods sold are not refundable with cash.\nFor exchange of goods sold the following apply:\n1. The original receipt must be presented\n2. Exchange is done within 7 days from date of receipt\n3. In good condition and in it's original packing"
+  }
+}

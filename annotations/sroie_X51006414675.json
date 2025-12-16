@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Domino's Pizza",
+    "address": "No.12, Jalan Permas Jaya 10, Bandar Baru Permas Jaya, 81750 Masai, Johor",
+    "phone": "1-300-888-333",
+    "tax_id": "001694261248",
+    "website": "www.dominos.com.my"
+  },
+  "transaction": {
+    "date": "2018-04-11",
+    "time": "18:07:35",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 21.6,
+    "tax": 0.7,
+    "tip": 0.0,
+    "total": 12.4,
+    "accounting_category": "Food",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "MCWBQ",
+      "quantity": 1,
+      "unit_price": 3.8,
+      "total_price": 3.8,
+      "category": "Pizza",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "REV (CAN)",
+      "quantity": 1,
+      "unit_price": 3.5,
+      "total_price": 3.5,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "6\"HT (KC)",
+      "quantity": 1,
+      "unit_price": 14.3,
+      "total_price": 14.3,
+      "category": "Pizza",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006414675.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TAX INVOICE\nDOMINO'S PIZZA\nGST REF NO : 001694261248\nDOMINO'S PIZZA PERMAS JAYA\nNo.12, Jalan Permas Jaya 10,\nBandar Baru Permas Jaya, 81750 Masai\nJohor\n\nCARRY OUT NOW           Pay By: CASH\nOrder     : 5633       By  : 1036\nOrder time : 18:07:35  Date : 11/04/18\n\nName: MRS ANGES\nPickup Time: 18:22:35\n\nQty  Menu    Desc      Coupon   Disc   Price\n1    MCWBQ            LVD1P-P9          3.80\n1    REV (CAN)        LVD1P-P9          3.50\n1    6\"HT (KC)        LVD1P-P9         14.30\n\n                                  9.20  21.60\nTotal Items                        :\nSub Total                          : 21.60\nCoupon Discount    :               : 9.20\nGrand Total         :              : 12.40\nPayment                            : 12.50\nChange Due                         : 00.10\n*6% GST Included   :               : 0.70\n\nSUPPORT OUR SMILE CAMPAIGN :)\nDid we smile at you?\nLet us know at\nwww.dominos.com.my/smile and\nreceive a 30% off side item e-coupon\nupon survey submission\nSurvey Code: CBD111560563307\n\nThank you for visiting Domino's.\nPlease Come Again!\n1-300-888-333\nwww.dominos.com.my\n\nWe are compliant to the PDPA 2010.\nVisit www.dominos.com.my/terms\nto view our Personal Data\nProtection Policy.\n\nOwned by\nDommal Food Services Sdn Bhd\nCo. No. 419060-A"
+  }
+}

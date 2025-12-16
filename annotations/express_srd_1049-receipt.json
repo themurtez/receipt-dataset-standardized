@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "Kickin Kajun Kapolei",
+    "address": "Ka Makana Ali'i, 91-5431 Kapolei Parkway, Suite 426, Kapolei, HI 96707",
+    "phone": "(808) 628-4771",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-07-18",
+    "time": "17:47:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 74.0,
+    "tax": 3.49,
+    "tip": 0.0,
+    "total": 77.49,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Margarita",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Add Tequila",
+      "quantity": 1,
+      "unit_price": 4.0,
+      "total_price": 4.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Strawberry Daiquiri",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Add Vodca",
+      "quantity": 1,
+      "unit_price": 4.0,
+      "total_price": 4.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Snow Combo",
+      "quantity": 1,
+      "unit_price": 54.0,
+      "total_price": 54.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Kickin Sauce",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Condiment",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Mild",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Condiment",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1049-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KICKIN KAJUN KAPOLEI\nKa Makana Ali'i\n91-5431 Kapolei Parkway, Suite 426\nKapolei, HI 96707\n(808) 628-4771\n\nServer: Chenay B\nTable: Table 2\nDate: 7/18/19, 5:47 PM\n\nMargarita $6.00\nAdd Tequila +$4.00\nStrawberry Daiquiri $6.00\nAdd Vodca +$4.00\nSnow Combo $54.00\nKickin Sauce +$0.00\nMild +$0.00\n\nSubtotal: $74.00\nTotal Tax: $3.49\n\nTotal: $77.49\n\nReceipt Total: $38.75\n"
+  }
+}

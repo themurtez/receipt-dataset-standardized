@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "N*RISH POLE",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 88000.0,
+    "tax": 9240.0,
+    "tip": 0.0,
+    "total": 101640.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SMOKY PAN CLASSIC",
+      "quantity": 1,
+      "unit_price": 59000.0,
+      "total_price": 59000.0,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chicken Popcorn",
+      "quantity": 1,
+      "unit_price": 29000.0,
+      "total_price": 29000.0,
+      "category": "Appetizer",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000571.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "N*RISH POLE\n\n1 SMOKY PAN CLASSIC 59,000\n1 Chicken Popcorn 29,000\nSUBTOTAL 88,000\nSC 5% 4,400\nPB1 10% 9,240\nTOTAL 101,640\nTotal item :2"
+  }
+}

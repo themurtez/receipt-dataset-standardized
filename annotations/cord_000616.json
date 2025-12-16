@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "A Fung",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Tunai",
+    "subtotal": 51636.0,
+    "tax": 5164.0,
+    "tip": 0.0,
+    "total": 56800.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Baso Kwetiau",
+      "quantity": 1,
+      "unit_price": 43636.0,
+      "total_price": 43636.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "A. Mineral Botol",
+      "quantity": 1,
+      "unit_price": 8000.0,
+      "total_price": 8000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 3200.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000616.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "FOODPRINT\n\nBASO KWETIAU 1 43,636 43,636\nA. MINERAL BOTOL 1 8,000 8,000\n\nTAX 10.00%\nDFP\nGRAND TOTAL 51,636\nTUNAI 60,000\nKEMBALI 3,200"
+  }
+}

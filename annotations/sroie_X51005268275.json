@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "LIGHTROOM GALLERY SDN BHD",
+    "address": "No: 28, JALAN ASTANA 1C, BANDAR BUKIT RAJA, 41050 KLANG SELANGOR D.E, MALAYSIA",
+    "phone": "03-3362 4395",
+    "tax_id": "000584089600",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-20",
+    "time": "04:01:23",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 263.02,
+    "tax": 15.78,
+    "tip": 0.0,
+    "total": 278.8,
+    "accounting_category": "Lighting",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "YE36 BK 12W WW LED TRACK LIGHT",
+      "quantity": 2,
+      "unit_price": 45.29,
+      "total_price": 90.57,
+      "category": "Lighting",
+      "accounting_category": "Lighting",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "YE44 35W WW BK TRACK HOLDER",
+      "quantity": 1,
+      "unit_price": 155.66,
+      "total_price": 155.66,
+      "category": "Lighting",
+      "accounting_category": "Lighting",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "1METER TRACK-BK",
+      "quantity": 1,
+      "unit_price": 16.99,
+      "total_price": 16.79,
+      "category": "Lighting",
+      "accounting_category": "Lighting",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005268275.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "LIGHTROOM GALLERY SDN BHD\nNo: 28, JALAN ASTANA 1C, BANDAR BUKIT RAJA, 41050 KLANG SELANGOR D.E, MALAYSIA\nROC No.: (1072825-A)\nGST No.: 000584089600\nTel:03-3362 4395 Fax:03-3362 4395\n\nCREDIT NOTE\nStation: CASHIER C/N No: LCN00212\nCashier: ANGELA Cover: 1\nBill Date: 20/11/2017\nBill Start: 20/11/2017 03:57:01 PM\n\nCode : 300-E0009\nName : ESWARAN 012-6369400\nAddress :\n:\nGST No. :\n\nYT51129\nYE36 BK 12W WW LED TRACK LIGHT SR\n2 * RM 45.29 UNI ( 5.43)=RM 90.57\nSR\nYT52683\nYE44 35W WW BK TRACK HOLDER\n1 * RM 155.66 UNI ( 9.34)=RM 155.66 SR\nCH50688\n1METER TRACK-BK\n1 * RM 16.99 UNI ( 1.01)=RM 16.79\nSR\nRM39.80 CONTRA W LCN00211\n0 * UNIT\n\nSub Total : RM 263.02\nItem Discount : RM 0.20\nService Charge : RM 0.00\nGST/TAX 6% : RM 15.78\n\nTOT: RM 278.80\nCASH : RM 278.80\nCHANGE: RM 0.00\n\nItem Count : 4\nQty Count : 4.0\nClosed Bill: 20/11/2017 04:01:23 PM\n\nThank You, Please come again.\nGoods Sold are not refundable, returnable\nBANK ACC MBB 5128 4851 2118\nBANK ACC MBB 5626 4732 1744\nBANK ACC AMBANK 888 100 123 3706\n\nGST Summary Amount (RM) Tax(RM)\n----------------------------\nSR @ 6% 263.02 15.78\nZR/OS/EZ 0.00 0.00"
+  }
+}

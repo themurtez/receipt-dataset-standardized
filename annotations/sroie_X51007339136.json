@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Sanyu Stationery Shop",
+    "address": "No. 31G&33G, Jalan Setia Indah X, U13/X, 40170 Setia Alam",
+    "phone": "+603-3362 4137",
+    "tax_id": "001531760640",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-28",
+    "time": "17:26:39",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 44.25,
+    "tax": 2.65,
+    "tip": 0.0,
+    "total": 46.9,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Pro Adhesive Label",
+      "quantity": 1,
+      "unit_price": 2.2,
+      "total_price": 2.2,
+      "category": "Office Supplies",
+      "accounting_category": "Stationery",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Restaurant Order Chit NCR",
+      "quantity": 3,
+      "unit_price": 2.9,
+      "total_price": 8.7,
+      "category": "Office Supplies",
+      "accounting_category": "Stationery",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "EC Thermal Roll Blue",
+      "quantity": 1,
+      "unit_price": 36.0,
+      "total_price": 36.0,
+      "category": "Office Supplies",
+      "accounting_category": "Stationery",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 53.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007339136.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SANYU STATIONERY SHOP\nNO. 31G&33G, JALAN SETIA INDAH X ,U13/X\n40170 SETIA ALAM\nMobile /Whatsapps : +6012-918 7937\nTel: +603-3362 4137\nGST ID No: 001531760640 TAX INVOICE\nCash Sales Counter\n1. 2008-0040    PRO ADHESIVE LABEL (WHITE)\n  2585\n  1 X 2.2000 - 2.20 SR\n2. 2012-0029 RESTAURANT ORDER CHIT NCR\n  3.5\"x6\"\n 3 X 2.9000   - 8.70 SR\n3. 7002-0014 SONOFAX - EC THERMAL ROLL\n (BLUE) - (57MMx60MMx12MM)\n (10ROLL/PKT)\n 1 X 36.0000  - 36.00 SR\nTotal Sales Inclusive GST @6% 46.90\nDiscount ------------- 0.00\nTotal 46.90\nRound Adj ------------ 0.00\nFinal Total 46.90\nCASH 100.00\nCHANGE 53.10\nGST Summary Amount(RM) Tax(RM)\nSR @ 6% 44.25 2.65\nINV NO: CS-SA-0133215\nDate : 28/12/2017\nTotal Qty: 5\nPrint Time : Thursday, 28 December, 2017 5:26:39 PM\nGoods sold are not Returnable & Refundable\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN.\nTERIMA KASIH SILA DATANG LAGI\nPLEASE KEEP THIS RECEIPT FOR PROVE OF\nPURCHASE DATE FOR I.T PRODUCT WARRANTY\nPURPOSE\nFollow us in Facebook : Sanyu.Stationery"
+  }
+}

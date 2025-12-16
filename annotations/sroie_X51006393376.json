@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "99 Speed Mart S/B",
+    "address": "Lot P.T. 2814, Jalan Angsa, Taman Berkeley, 41150 Klang, Selangor, 1214-Jinjiang Utara",
+    "phone": "",
+    "tax_id": "000181747712",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-05-10",
+    "time": "14:31:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 10.85,
+    "tax": 0.65,
+    "tip": 0.0,
+    "total": 11.5,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CRISPI ROLL 12 GRAIN",
+      "quantity": 1,
+      "unit_price": 6.85,
+      "total_price": 6.85,
+      "category": "Food",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CS 1002 A5 H/COVER NOT",
+      "quantity": 1,
+      "unit_price": 4.65,
+      "total_price": 4.65,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 40.5
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006393376.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "31705509\n99 SPEED MART S/B (519537-X)\nLOT P.T. 2814, JALAN ANGSA,\nTAMAN BERKELEY\n41150 KLANG, SELANGOR\n1214-JINJANG UTARA\nGST ID, NO : 000181747712\nINVOICE NO : 18028/103/70269\n02:31PM 565497 10-05-17\n355 CRISPI ROLL 12 GRAIN ZE RM4.85 s\n9413 CS 1002 A5 H/COVER NOT RM4.65 s\nTotal Sales (Inclusive GST) RM 11.50\nCASH RM 52.00\nCHANGE RM 40.50\nGST Summary Amount(RM) Tax(RM)\ns=6% 10.85 .65\nThank You. Please come again\nKeep the invoice for applicable returns"
+  }
+}

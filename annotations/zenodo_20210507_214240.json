@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Worten",
+    "address": "Edifício Amoreiras Plaza, Rua Amália Rodrigues, 1-1070-169 Lisboa",
+    "phone": "",
+    "tax_id": "503630330",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-02",
+    "time": "17:45:00",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 443.06,
+    "tax": 101.9,
+    "tip": 0.0,
+    "total": 544.96,
+    "accounting_category": "Electronics",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Grelhador de Placas Flama",
+      "quantity": 1,
+      "unit_price": 34.99,
+      "total_price": 34.99,
+      "category": "Home Appliance",
+      "accounting_category": "Electronics",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "LQ3401ER Alguidar LQ ROBIS",
+      "quantity": 1,
+      "unit_price": 44.99,
+      "total_price": 44.99,
+      "category": "Home Appliance",
+      "accounting_category": "Electronics",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ferro Vapor Flama",
+      "quantity": 1,
+      "unit_price": 24.99,
+      "total_price": 24.99,
+      "category": "Home Appliance",
+      "accounting_category": "Electronics",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TV LED LG 49\"",
+      "quantity": 1,
+      "unit_price": 439.99,
+      "total_price": 439.99,
+      "category": "TV",
+      "accounting_category": "Electronics",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_214240.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Worten\nNI Worten\nDocument de Dévc\nEdificio Amoreiras Plaz\nTulisillos 1070-169\nRegisto\nIn 44 1 l ITA SIMPLES: PI\nYcteura\noisece: ХХХ/ООО\\ ММ\nВ\nda II I alo mle\nCliente: Uu\nG\nVia 53\nFabricado\nIE\n1040504\nNIR potenciar\nAtaética\n0D\nLista\n043.06\n05......\n01.5\n5e1\nfE-ou anapanianos\nE\n54 1\nL4.56\nDeng\nlocal càrga: Móra\nHola upon: Móra\nLoçal déclarga\nFata: 02\nIVA\nTa: 02\n10: 1:01\nIVA lnelu\nTalão ir des\nPraco de dé\n***\nkei\nexonão abr\nestão abrig\nsotiai feito\natica Indispensa\nda o 21:45 q\nesiricoihatla\nestíque de lója\n11:45\\2221\\12\\2022 LULA\nèdhuga"
+  }
+}

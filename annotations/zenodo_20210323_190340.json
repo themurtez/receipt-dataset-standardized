@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "Vero Vero",
+    "address": "Av. Joao II, N. 30, 49 60, Lisboa",
+    "phone": "",
+    "tax_id": "501214756",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-22",
+    "time": "19:09:05",
+    "currency": "EUR",
+    "payment_method": "MS AUTOMATICO",
+    "subtotal": 11.12,
+    "tax": 1.58,
+    "tip": 0.0,
+    "total": 12.7,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Noodles Integrais",
+      "quantity": 1,
+      "unit_price": 1.78,
+      "total_price": 1.78,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Batata",
+      "quantity": 1,
+      "unit_price": 2.98,
+      "total_price": 2.98,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Rebentos 'baw'",
+      "quantity": 1,
+      "unit_price": 0.7,
+      "total_price": 0.7,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ameal 'baw'",
+      "quantity": 1,
+      "unit_price": 1.78,
+      "total_price": 1.78,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Knorr",
+      "quantity": 1,
+      "unit_price": 0.28,
+      "total_price": 0.28,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Tokyo",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Rebentos 'baw'",
+      "quantity": 1,
+      "unit_price": 1.1,
+      "total_price": 1.1,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_190340.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Vero Vero\nNIF: 501214756\nRegisto n°: C-8050-01\nDate: 2019-02-22 Hora: 19:09:05\nMetodo de Pagamento:\nMS AUTOMATICO\nO produto faturado ----"
+  }
+}

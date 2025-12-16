@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "SILECTRICA",
+    "address": "LISBOA",
+    "phone": "",
+    "tax_id": "Ident. FPA: 00746930",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-04-02",
+    "time": "15:01:08",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 12.25,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 12.25,
+    "accounting_category": "Utilities",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "COMPRA",
+      "quantity": 1,
+      "unit_price": 12.25,
+      "total_price": 12.25,
+      "category": "Utilities",
+      "accounting_category": "Utilities",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_180443.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SILECTRICA\n\nLISBOA\nIdent. FPA: 00746930\n2019 04-02 15:01:08\n\n002 Tr: 013 M: 531\nMILLENNIUM BCP\nMANUEL ARROUBE/JOSE\n\nCARTAO: ****8902/37\n501649FF20\nMULTIBANCO\nCOMPRA 12,25€\nAUT: 506779 MB\n\nCOPIA CLIENTE\nPROCESSADO POR SIBS"
+  }
+}

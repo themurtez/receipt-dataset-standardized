@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Auchan Amoreiras",
+    "address": "Av. Eng. Duarte Pacheco, C.C. Amoreiras, Lisboa",
+    "phone": "210459700",
+    "tax_id": "502679790",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-11-30",
+    "time": "14:03:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 14.9,
+    "tax": 2.79,
+    "tip": 0.0,
+    "total": 14.9,
+    "accounting_category": "Domestic Goods",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Pequeno Doméstico",
+      "quantity": 1,
+      "unit_price": 14.9,
+      "total_price": 14.9,
+      "category": "Household",
+      "accounting_category": "Domestic Goods",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 5.1
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_221438.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AUCHAN AMOREIRAS\nTEL: 210459700 / FAX: 217043495\nAUCHAN RETAIL PORTUGAL S.A.\nSede: Trav. Teixeira Junior, 1\n1300-553 Lisboa\nMat.C.R.C. Lisboa n. 1 Ao. Secao\nCapital Social 84.025.000 Euros\nSIREE : PT500219790\nContribuinte Nr 502679790\nINVOICE No. 124072209110000/128465\nORIGINAL\nClient: FEELSLIKEHOME LDA\nAddress: NOT COMMUNICATED\nPostal Code: 0000000\nContact No.: 510776914\nTAX ITEM/QTY PRICE VALUE\nPequeno Doméstico\n12 SEELINCE 880438 14.90\n1 VOLUTE\nTOTAL PAID 14.90\nNUMERARIO 20.00\nCHANGE 5.10\nTAX SUMMARY\nTAX BASE VALUE\nIVA 23% 12.11 2.79\nTAX 1/8QUAD 11/8 3 1/3 ART. CIVA\nTOTAL 14.90\nHUG30019 29948400006/102147072\nLocation of Delivery:\nIssued Date: 2019-11-30 14:03\nProcessed by program\ncertified n. 1104/AT\nAttended by: Rosa Barreirinhas\nExchanges and Returns with invoice\nup to 30 days. Know the conditions.\nVAT 08 exempt under art 27 n. 3\nCIVA or regimen good in 2nd hand\nPersonal data presented\nare intended for the transaction\n"
+  }
+}

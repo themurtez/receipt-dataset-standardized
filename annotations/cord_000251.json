@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Drops",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2023-10-27",
+    "time": "23:46:00",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 17727.0,
+    "tax": 1773.0,
+    "tip": 0.0,
+    "total": 19500.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SpuPrice Cadburry",
+      "quantity": 1,
+      "unit_price": 17727.0,
+      "total_price": 17727.0,
+      "category": "Chocolate",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 80000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000251.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Drops\n\nLokasi Mampang Prapatan\nJakarta\nRetno Rudi Maria\n27-October-2023 23:46\n\n1 SpuPrice Cadburry 17,727\nSubtotal: 17,727\nPDI: 1,773\n\nTotal: 19,500\nCash: 100,000\nChange: 80,000"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Marugame Udon",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Mandiri",
+    "subtotal": 81818.0,
+    "tax": 8182.0,
+    "tip": 0.0,
+    "total": 90000.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Carbonara Udon",
+      "quantity": 1,
+      "unit_price": 49091.0,
+      "total_price": 49091.0,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Egg Tempura[P]",
+      "quantity": 1,
+      "unit_price": 8182.0,
+      "total_price": 8182.0,
+      "category": "Food",
+      "accounting_category": "Side",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ebi Tempura",
+      "quantity": 1,
+      "unit_price": 13636.0,
+      "total_price": 13636.0,
+      "category": "Food",
+      "accounting_category": "Side",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cold Ocha",
+      "quantity": 1,
+      "unit_price": 10909.0,
+      "total_price": 10909.0,
+      "category": "Beverage",
+      "accounting_category": "Drink",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000649.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MARUGAME UDON\n\nCARBONARA UDON\nEGG TEMPURA[P]\nEBI TEMPURA\nCOLD OCHA\n\nSUB.TOTAL 81,818\nRESTAURANT TAX 8,182\n\nGRAND TOTAL 90,000\n~MANDIRI ..[90,000]\n\nChange:0"
+  }
+}

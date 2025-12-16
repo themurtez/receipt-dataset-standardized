@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "CTT - Correios de Portugal",
+    "address": "Av. D. Joao II, n. 13, 1999-001 Lisboa",
+    "phone": "",
+    "tax_id": "510768614",
+    "website": "www.ctt.pt"
+  },
+  "transaction": {
+    "date": "2019-03-04",
+    "time": "14:36:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 5.0,
+    "tax": 0.16,
+    "tip": 0.0,
+    "total": 5.16,
+    "accounting_category": "Postal Services",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SACUETAS ALMOFADADAS",
+      "quantity": 2,
+      "unit_price": 0.35,
+      "total_price": 0.7,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Reg. int.",
+      "quantity": 1,
+      "unit_price": 4.3,
+      "total_price": 4.3,
+      "category": "Postal Services",
+      "accounting_category": "Postal Services",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_153631.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CTT - Correios de Portugal, SA\nAberta\nAv. D. Joao II, n. 13\n1999-001 Lisboa\nN.U.P.C. 500077568\nCap.Social 75.000.000,00 EUR\nLoja CTT RESTAURADORES-L\nFatura/Recibo N.\nFR CTT2019FRB017047\nData de Emissao\n2019-03-04 14:36\nNome: FLTKE HUME 084\nMorada:\nCod Postal:\nNIF: 510768614\nQTD DESIGNACAO IVA QUANTIA\n1 Reg. int. 0% 4.30\nRH638506819PT\n2 SACUETAS ALMOFADADAS 23% 0.70\nTotal s/IVA: 5.00 Eur\nDesconto s/IVA:\nTotal IVA: 0.16 Eur\nTotal: 5.16 Eur\nCinco Euros e Dezasseis Centimos\nTaxa Valor s/IVA Valor IVA Valor Total\n0% 4.30 0.00 4.30\n23% 0.70 0.16 0.86\n1) isento - Art. 9 No. 23/24 do CIVA\nValor liquidado na data de emissao\nBens ou serviços disponibilizados ao\nadquirente na data de emissao deste\ndocumento\ninforme-se sobre as condicoes\nespecificas de troca, devolucao e\nassistencia tecnica em www.ctt.pt.\nAjuda.\n153-Processado por programa certificado\nn_1330/AT"
+  }
+}

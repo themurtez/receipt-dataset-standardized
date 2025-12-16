@@ -1,0 +1,163 @@
+{
+  "merchant": {
+    "name": "Aeon Co. (M) Bhd",
+    "address": "3RD FLR, AEON TAMAN MALURI SC, JLN JEJAKA, TAMAN MALURI, CHERAS, 55100 KUALA LUMPUR",
+    "phone": "1-300-80-AEON (2366)",
+    "tax_id": "002017394688",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-03",
+    "time": "12:42:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 147.45,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 147.45,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SUSHI SET - PTC",
+      "quantity": 1,
+      "unit_price": 15.0,
+      "total_price": 15.0,
+      "category": "Food",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHEK HUP 2IN1",
+      "quantity": 1,
+      "unit_price": 15.65,
+      "total_price": 15.65,
+      "category": "Beverages",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "LUCOZADE SPORT",
+      "quantity": 1,
+      "unit_price": 22.5,
+      "total_price": 22.5,
+      "category": "Beverages",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "JAPAN SUN FUJI",
+      "quantity": 1,
+      "unit_price": 7.9,
+      "total_price": 7.9,
+      "category": "Fruits",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHILE ANGELENO",
+      "quantity": 1,
+      "unit_price": 10.9,
+      "total_price": 10.9,
+      "category": "Fruits",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "AUS SEEKA KIWI",
+      "quantity": 1,
+      "unit_price": 8.0,
+      "total_price": 8.0,
+      "category": "Fruits",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BLUEBERRY",
+      "quantity": 1,
+      "unit_price": 4.8,
+      "total_price": 4.8,
+      "category": "Fruits",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "T. CHERRY HONEY",
+      "quantity": 1,
+      "unit_price": 5.4,
+      "total_price": 5.4,
+      "category": "Fruits",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TOMATO PLUM",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Vegetables",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CUT FRUITS 1.99",
+      "quantity": 1,
+      "unit_price": 9.14,
+      "total_price": 9.14,
+      "category": "Fruits",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "GUAVA KING",
+      "quantity": 1,
+      "unit_price": 5.18,
+      "total_price": 5.18,
+      "category": "Fruits",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CAVENDISH BANAN",
+      "quantity": 1,
+      "unit_price": 14.85,
+      "total_price": 14.85,
+      "category": "Fruits",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "US RED GLOBE",
+      "quantity": 1,
+      "unit_price": 5.75,
+      "total_price": 5.75,
+      "category": "Fruits",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PAPAYA",
+      "quantity": 1,
+      "unit_price": 11.22,
+      "total_price": 11.22,
+      "category": "Fruits",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 15,
+    "rounding": 0.0,
+    "change_due": 52.55
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007846283.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AEON CO. (M) BHD (126926-H)\n3RD FLR, AEON TAMAN MALURI SC\nJLN JEJAKA, TAMAN MALURI\nCHERAS, 55100 KUALA LUMPUR\nGST ID : 002017394688\nSHOPPING HOURS\nSUN-THU: 1000 HRS - 2230 HRS\nFRI-SAT: 1000 HRS - 2300 HRS\n\n1x 000000135412 15.00SR\nSUSHI SET - PTC\n1x 000001038656 15.65SR\nCHEK HUP 2IN1\nItem promo @ 12.99 -2.57\n1x 000007670558 12.73SR\nLUCOZADE SPORT\n1x 000008294692 22.50SR\nJAPAN SUN FUJI\n1x 000007783877 7.90SR\nCHILE ANGELENO\n1x 000008263491 10.90SR\nAUS SEEKA KIWI\nItem promo @1.49 -1.41\n1x 000002003191 8.00SR\nBLUEBERRY\n1x 000004291008 4.80SR\nT. CHERRY HONEY\n1x 000000573689 5.40SR\nTOMATO PLUM\n1x 000000386856 2.50SR\nCUT FRUITS 1.99\n1x 000000389273 9.14SR\nGUAVA KING\n1x 000000381000 5.18SR\nCAVENDISH BANAN\n1x 000000812627 14.85SR\nUS RED GLOBE\n1x 00000030980 5.75SR\nPAPAYA\n1x 00000787430 11.22SR\nE-1150 POWERFUL\n\nSub-total 147.45\nTotal Sales Incl GST 147.45\nTotal After Adj Incl GST 147.45\nCASH 200.00\nItem Count 15 Change Amt 52.55\nInvoice No: 2018060310100050084\n03/06/2018 12:42 1010 005 0050084\n0306651 PJ NUR AYU\n\nREGULAR STAMP(S) : 4\nBONUS STAMP(S) : 0\nTOTAL STAMP(S) : 4\n\nAEON Stamps Loyalty Program \"Product(s)\"\nsold are neither exchangeable nor\nrefundable\n\nAEON PERMAS JAYA\nTEL 1-300-80-AEON (2366)\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN"
+  }
+}

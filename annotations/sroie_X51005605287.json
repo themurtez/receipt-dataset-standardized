@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "AEON CO. (M) BHD",
+    "address": "3RD FLR, AEON TAMAN MALURI SC, JLN JEJAKA, TAMAN MALURI, CHERAS, 55100 KUALA LUMPUR",
+    "phone": "",
+    "tax_id": "002017394688",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-14",
+    "time": "12:43:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 12.25,
+    "tax": 0.7,
+    "tip": 0.0,
+    "total": 12.25,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TOPVALU FLOOR C",
+      "quantity": 1,
+      "unit_price": 6.65,
+      "total_price": 6.65,
+      "category": "Household",
+      "accounting_category": "Goods",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "CIF REGULAR 50",
+      "quantity": 1,
+      "unit_price": 5.6,
+      "total_price": 5.6,
+      "category": "Cleaning Supplies",
+      "accounting_category": "Goods",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 37.75
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005605287.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AEON CO. (M) BHD (126926-H)\n3RD FLR, AEON TAMAN MALURI SC\nJLN JEJAKA, TAMAN MALURI\nCHERAS, 55100 KUALA LUMPUR\nGST ID : 002017394688\nSHOPPING HOURS\nMON-SUN:1000 HRS - 2200 HRS\nVALUED CUSTOMER: 1130307913\n1x 000005469765 6.65SR\nTOPVALU FLOOR C\n1x 000001101575 5.60SR\nCIF REGULAR 50\nSub-total 12.25\nTotal Sales Incl GST 12.25\nTotal After Adj Incl GST 12.25\nCASH 50.00\nItem Count 2 Change Amt 37.75\nInvoice No: 2018031430090060035\nGST Summary Amount Tax\nSR @ 6% 11.55 0.70\nTotal 11.55 0.70\n14/03/2018 12:43 3009 006 0060035\n0284846 AMIRUL"
+  }
+}

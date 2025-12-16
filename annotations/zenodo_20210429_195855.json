@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "J.J. Figueira, Lda",
+    "address": "R. Marquês de Fronteira, N°70 A, 1070-299, Lisboa",
+    "phone": "213823734",
+    "tax_id": "501597476",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-10-02",
+    "time": "17:50:00",
+    "currency": "EUR",
+    "payment_method": "Dinheiro",
+    "subtotal": 2.1,
+    "tax": 0.39,
+    "tip": 0.0,
+    "total": 2.1,
+    "accounting_category": "Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Fischer Silicone Pintavel",
+      "quantity": 1,
+      "unit_price": 2.1,
+      "total_price": 2.1,
+      "category": "Building Materials",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_195855.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "J.J. Figueira, Lda\nR. Marquês de Fronteira, N°70 A\n1070-299, LISBOA\nEmail: j.figueira@sapo.pt\nTel.: 213823734 Fax:213853368\nNIF: 501597476\nCRC de LISBOA 61732\nCapital Social: 49787,79€\n\nNome: FLIKEHOME, LDA\nMorada: RUA SARAIVA DE CARVALHO,\nN. 244 - 3° DTO.\n1000 - LISBOA\nContribuinte: 510776914\n\nFATURA SIMPLIFICADA N° 3378/201\n\nDATA: 02/10/2019 HORA: 17:50\n\nQtd. Preço C/IVA Desc. Iva Total\nFISCHER SILICONE PINTAVEL\n1,000 2,10 0% 23% 2,10\n\nTOTAL: 2,10\n\nDescontos: 0,00\n\nDetalhe da Liquidação\nDINHEIRO 2,10\n\nDetalhe do IVA\n\nTaxa Incidência Valor Total\n23% 1,71 0,39 2,10\n\nViatura:\nMoradaOrigem: R. Marquês de Fronteira,\n21070-299 LISBOA\nMoradaDestino:\n\nTrocas ou devoluções até 8 dias com\napresentação do original.\n\nO material foi posto à disposição do adquirente na\ndata do documento. (Att. 36 do CIVA, N.S Alinea F\n\nU7Pc - Processado por programa ce\nn° 0097/AT Magnisoft - OranGest v\n\nOBRIGADO PELA VISITA\nVOLTE SEMPRE"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "IKEA",
+    "address": "AVENIDA DA LIBERDADE 36, 1ºB, LISBOA",
+    "phone": "",
+    "tax_id": "514407395",
+    "website": "www.ikea.pt"
+  },
+  "transaction": {
+    "date": "2019-05-22",
+    "time": "14:35:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 4.8,
+    "tax": 0.9,
+    "tip": 0.0,
+    "total": 5.7,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "FARGRIK caneca 25 cl gres branco",
+      "quantity": 6,
+      "unit_price": 0.8,
+      "total_price": 4.8,
+      "category": "Housewares",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_175637.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Visitar a IKEA Loulé\nMóveis e Decoração Lda\nNº P001627\n2660-001 Frielas\n50.000.000.00€ - NIPC\n505206543\nFAX 453005201900053/122\n0 45300005001422051 9\n\nCartão IKEA F 6275908xxxxxx7919\nNIF 514407395\nNome IKEATHOME ALGARVE. LDA\nMorada AVENIDA DA LIBERDADE 36,\n1ºB\nPais PT\nCP 1250-000\nCidade LISBOA\n\nCarga em Nossas instalações\nData 2019-05-22 14:35:00\n\nMorada: AVENIDA DA LIBERDADE 36,\n1ºB\nPais PT\nCP 1250-000\nCidade LISBOA\n\nCodigo Postal: 5\n 0.1-043992 21963\nFARGRIK can 25 cl gres branco\nx 0,80 4,80\n0 Total 4,80\nValor incluido IVA: 0,90EUR\nNumerario: 5,0\n IVA \nCod. Tariffa Liquido IVA\n A386FPorc\nPrograma Certificado nº 1999/AT\n22.05 19 14:35 55 Empre Trans\nDisponivel em IKEA.pt\n\nwww.ikea.pt\n"
+  }
+}

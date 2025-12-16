@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 132000.0,
+    "tax": 9900.0,
+    "tip": 0.0,
+    "total": 156090.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ChicTeriyakiTeishoku",
+      "quantity": 1,
+      "unit_price": 59000.0,
+      "total_price": 59000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "JapaneseBeef Hamburg",
+      "quantity": 1,
+      "unit_price": 43000.0,
+      "total_price": 43000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ocha Cold",
+      "quantity": 1,
+      "unit_price": 15000.0,
+      "total_price": 15000.0,
+      "category": "Drink",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ocha Hot",
+      "quantity": 1,
+      "unit_price": 15000.0,
+      "total_price": 15000.0,
+      "category": "Drink",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000516.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 ChicTeriyakiTeishoku 59,000\n1 JapaneseBeef Hamburg 43,000\n1 Ocha Cold 15,000\n1 Ocha Hot 15,000\nSUBTOTAL 132,000\nService 9,900\nPBI 14,190\nTOTAL 156,090\nTotal item :4\nTotal Qty :4"
+  }
+}

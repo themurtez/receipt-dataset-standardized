@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "ALGESDECOR - COMERCIO DE TINTAS, LDA.",
+    "address": "Rua Luis de Camoes, 34 A, 1495-081 ALGES",
+    "phone": "214 104 640",
+    "tax_id": "502.689.390",
+    "website": "geral@algesdecor.pt"
+  },
+  "transaction": {
+    "date": "2018-04-06",
+    "time": "10:45:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 8.95,
+    "tax": 2.06,
+    "tip": 0.0,
+    "total": 11.01,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TRINCHA JUNIOR 1 1/2",
+      "quantity": 2,
+      "unit_price": 1.35,
+      "total_price": 2.7,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ROLO ANTI-GOTA 250 M/M 50",
+      "quantity": 1,
+      "unit_price": 4.31,
+      "total_price": 4.31,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BLOCO C/LIXA",
+      "quantity": 2,
+      "unit_price": 0.97,
+      "total_price": 1.94,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_211949.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ALGESDECOR\nCOMERCIO DE TINTAS, LDA.\nRua Luis de Camoes, 34 A\n1495-081 ALGES\nTelefone / Fax: 214 104 640\ne-mail: geral@algesdecor.pt\nNIF: 502.689.390\nCapital Social 50.000,00 EUR\nData: 06 Abr 2018\nCliente: FEELSLIKEHOME LDA\nMorada: LISBOA\nLocalidade : LISBOA\nContribuinte: 510776914\nLocal Carga: N/Instalacoes\nLocal Descarga: Morada do Cliente\nData/Hora Saida: 06 Abr 2018/10:45\n\nFACTURA-RECIBO N. FR MNV2/580\nDESIGNACAO\nCODIGO QTD. VALOR\n\nTRINCHA JUNIOR 1 1/2\"\n251205/00000000 2 2.70\nROLO ANTI-GOTA 250 M/M 50\n253603/00000000 1 4.31\nBLOCO C/LIXA\n254972/00000000 2 1.94\n\nTX IVA , Valor IVA - 23 % , 2.06\n\nTotal Documento: 11.01\n\nOs bens foram colocados a disposicao do\nadquirente em 06 Abr 2018\n\nv9X processado por programa certificado\nn.175/AT.ARTSOFT V8.30, Licenca 203259,\nAlgeseor - Comercio de Tintas, Lda"
+  }
+}

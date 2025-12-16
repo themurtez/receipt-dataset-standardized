@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "PASIR EMAS HARDWARE SDN BHD",
+    "address": "NO 69, JALAN PENGKALAN 5, TAMAN PASIR EMAS, KG PASIR PUTIH, 81700 PASIR GUDANG, JOHOR",
+    "phone": "07-271 2406",
+    "tax_id": "000144596992",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-23",
+    "time": "12:46:33",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 36.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 36.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PLUG TOP 13A(BIASA-MK)",
+      "quantity": 3,
+      "unit_price": 8.0,
+      "total_price": 24.0,
+      "category": "Electrical",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "UMS 13A PLUG(SINGLE)",
+      "quantity": 3,
+      "unit_price": 4.0,
+      "total_price": 12.0,
+      "category": "Electrical",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007846451.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PASIR EMAS HARDWARE SDN BHD\n(801222-M)\n(GST ID No: 000144596992)\nNO 69,JALAN PENGKALAN 5,\nTAMAN PASIR EMAS,\nKG PASIR PUTIH,\n81700 PASIR GUDANG,JOHOR.\nTel/Fax: 07-271 2406\n\nTax Invoice\nBill No : POS/53796\nDate : 23/06/18 12:46:33 PM\nCashier : ash\nPayment : Cash\n\nItem Qty Price Amount\nPLUG TOP 13A(BIASA-MK) @8.00\nWAAN34 3 8.00 24.00 SR0\nUMS 13A PLUG(SINGLE) @4.00\nST00014 3 4.00 12.00 SR0\n\nGross Amt : 36.00\nGST (6%) : 0.00\n\nNet Amt : 36.00\nReceived 36.00\nChange : 0.00\n\nRound Adj.: 0.00\n\nGST Summary Amount(RM) Tax(RM)\nSR0 @ 0% 36.00 0.00\nTHANK YOU\nPLEASE COME AGAIN"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "RADIO POPULAR ELECTRODOMESTICOS S.A.",
+    "address": "Espacio Olivais 1800-079 Lisboa",
+    "phone": "220043040",
+    "tax_id": "510767914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-11-07",
+    "time": "15:20:53",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 53.64,
+    "tax": 12.34,
+    "tip": 0.0,
+    "total": 65.98,
+    "accounting_category": "Electronics",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "AQUEC ELECTRONIA DF-1500W-7",
+      "quantity": 1,
+      "unit_price": 32.99,
+      "total_price": 32.99,
+      "category": "Electronics",
+      "accounting_category": "Electronics",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "AQUEC ELECTRONIA DF-1500W-7",
+      "quantity": 1,
+      "unit_price": 32.99,
+      "total_price": 32.99,
+      "category": "Electronics",
+      "accounting_category": "Electronics",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 4.02
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_174122.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "RADIO POPULAR ELECTRODOMESTICOS S.A.\n146- C.C. Espacio Olivais 1800-079 Lisboa\nTEL: 220043040 Cnt. 500674205\n...\nNFr F3 FATURA 1460A/189278\nNome: FIKXIHOME LDA\nMorada: RUA SARAVIA DE CARVALHO NR124\n3!\nCodigo: \nCod.P. : 1350 ... LISBOA\nN.\nN\nData: 07/11/2018 15:20:53 Tcx:18045611)\nDescricao\nQtde. Preco Unit.\nAQUEC ELECTRONIA DF-1500W-7 1500W 1504\n...\n...\n1,00 32,99\nTotal 52%\nIVA\nIVA Total 12,34\nTOTAL 65,98\n...DINHEIRO 70,00\nTROCO DINHEIRO 4,02\n...\nOBRIGADO PELA\nVISITA"
+  }
+}

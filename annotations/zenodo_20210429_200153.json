@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Tomas Ribeiro",
+    "address": "R. Actor António Silva, N7, 1649-033 Lisboa",
+    "phone": "213136180",
+    "tax_id": "500829993",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-07-03",
+    "time": "16:03:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 0.99,
+    "tax": 0.19,
+    "tip": 0.0,
+    "total": 0.99,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Deterg. e prod. limpeza e 23% filtr café homem N°4",
+      "quantity": 1,
+      "unit_price": 0.99,
+      "total_price": 0.99,
+      "category": "Household Supplies",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_200153.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PINGO DOCE\nTOMAS RIBEIRO\nTel.: 213136180\nPingo Doce - Distribuição Alimentar, SA.\nSede: R. Actor António Silva, N7, 1649-033 Lisboa\nRegisto C.R.C. Lisboa - Matricula/NIPC: 500829993\nANREEE: PT01730 V. C. Social: 33.808.115 EUR\n\nArtigos\nDETERG. E PROD. LIMPEZA\nE 23% FILTR CAFÉ HOMEN N°4\nResumo\nTOTAL A PAGAR 0.99\nPagamentos\nTOTAL PAGO 0.99\nEURO 0.99\n\nResumo IVA\nValor s/IVA Valor IVA Valor c/IVA\nE 23% 0.80 0.19 0.99\n\nAtendido por: Simónica Santos\n\n331379 2019-07-03 16:03 0006 0002 0440\n\nkj9S - Processado por programa certificado 369/AT\nFatura/Recibo FT 0440002190100617/003644\n1a Via Duplicado Data de emissão: 03-07-2019\nN. Contribuinte: 510776914\nNome: Feels Like Home\nMorada_ AV DA LIBERDADE 36 1B 1250/145\nLocalidade__ Lisboa\n\nLocal carga.: TOMAS RIBEIRO\nLocal descarga.: Morada do cliente\nData: 2019-07-03 Hora: 16:03"
+  }
+}

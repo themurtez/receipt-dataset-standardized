@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Primark",
+    "address": "Praça Marques de Pombal, No. 2, 1250-160 Lisboa",
+    "phone": "815-914, Albufeira",
+    "tax_id": "NIF: 507 170 490",
+    "website": "www.primark.com"
+  },
+  "transaction": {
+    "date": "2019-02-21",
+    "time": "13:34:00",
+    "currency": "EUR",
+    "payment_method": "Dinheiro",
+    "subtotal": 3.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 3.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BB84001 Car Vent Phone H",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Electronics",
+      "accounting_category": "Phone Accessory",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_190937.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PRIMARK\nMAIS Shopping Center\n815-914, Albufeira\n0877 295914414\nP102079\nFATURA\nNP TV 04270202122005602902\nBB84001 CAR VENT PHONE H\nTotal\nDinheiro\nNome, FIKETHOME ALGARVE LDA\nNIF: 514407579\nEntregue: Desconhecido\nCidade: Desconhecido\nCódigo Postal: Desconhecido\nPaís: PT\nIVA incluido à 23%, Exceção Cartão Oferta\nnão sujeito à IVA, ver o verso da fatura de\ndepósito, n2, art. 2 a) do CIVA.\nLoja: 0429 Caixa: 026 Term: 171063\nData: 21/02/19 Hora: 13:34 Oper: 1121462\nArtigo(s) Vendido(s): 1\nArtigo(s) Devolvido(s): 0\nLOJAS PRIMARK PORTUGAL S.A.\nPRACA MARQUES DE POMBAL,\nNo. 2, 1250-160 LISBOA\nLojas Primark Portugal NIF: 507 170 490\nPolítica de Trocas e Devoluções\nEstamos encarregados de devolver\nou trocar qualquer artigo até o dia\n21/03/2019 quando o artigo seja\ndevolvido em boas condições para\nser colocado novamente à venda e\nacompanhado do recibo de compra.\nPor motivos de higiene, nós admitimos\ntrocas nem devoluções de cuecas/boxers,\nseios de cuecas/boxers, bijuteria\nde perfuração, cosméticos abertos\nou sem embalagem.\nPodem efetuar-se trocas e devoluções\nde roupa interior com o protetor higiênico intacto.\nIsto não afeta os direitos\ndo consumidor.\nSDIQ: Processado por programa\ncertificado n. 1477/AT\nOBRIGADO\nDispomos de cartões oferta na loja.\nwww.primark.com\n"
+  }
+}

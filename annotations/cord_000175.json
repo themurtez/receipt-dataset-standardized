@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2023-09-15",
+    "time": "15:45:00",
+    "currency": "TRY",
+    "payment_method": "Cash",
+    "subtotal": 43.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 18.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Hazelnut Alm",
+      "quantity": 1,
+      "unit_price": 15.0,
+      "total_price": 15.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Cappucino Ci",
+      "quantity": 1,
+      "unit_price": 14.0,
+      "total_price": 14.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Tiramisu Cin",
+      "quantity": 1,
+      "unit_price": 14.0,
+      "total_price": 14.0,
+      "category": "Dessert",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 32.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000175.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "HAZELNUT ALM 15.000\nCAPPUCINO CI 14.000\nTIRAMISU CIN 14.000\nSODEXO -25.000\nTL 18.000\nCASH 50.000\nCG 32.000"
+  }
+}

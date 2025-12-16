@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Worten",
+    "address": "RUA SAMPAIO DE CRAVO NO 24, 8100-390 LOULÉ",
+    "phone": "+351 289 350 302",
+    "tax_id": "PT500559730",
+    "website": "www.worten.pt"
+  },
+  "transaction": {
+    "date": "2017-10-04",
+    "time": "19:51:13",
+    "currency": "EUR",
+    "payment_method": "CARTAO",
+    "subtotal": 24.38,
+    "tax": 5.61,
+    "tip": 0.0,
+    "total": 29.99,
+    "accounting_category": "Electronics",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "HP-11AK",
+      "quantity": 1,
+      "unit_price": 23.99,
+      "total_price": 23.99,
+      "category": "Electronics",
+      "accounting_category": "Electronics",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_202531.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "WORTEN LOULÉ\ncomunicamos por e-mail\nServiço Apoio ao Cliente: Worten.pt\n(35) 289 350 302\nRenaissance Cartao em nome do cliente: 05-077\nNIF: P157067691 Quota: 23,99\nE 400,0000 EUR - Sistema Automático\nFatura publicada\n003055604017295\nCM A1000.../Ola/10/2017 19:51\nTELVIS ORDESCRICAO\nrei-001..158130561305961\nLO 581/196\nIBM-132519 01/25\nR Cel: 289 350 302"
+  }
+}

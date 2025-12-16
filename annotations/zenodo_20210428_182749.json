@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "JMTD-FERRAGENS DO COMBRO LDA",
+    "address": "CALCADA DO COMBRO N3 1200-110 LISBOA",
+    "phone": "213476762",
+    "tax_id": "513365355",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-04-03",
+    "time": "10:55:00",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 3.66,
+    "tax": 0.84,
+    "tip": 0.0,
+    "total": 4.5,
+    "accounting_category": "Hardware",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Silicone",
+      "quantity": 1,
+      "unit_price": 4.5,
+      "total_price": 4.5,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_182749.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "JMTD-FERRAGENS DO COMBRO LDA\nFERRAGENS FERRAMENTAS CHAVES FECHADURAS\nMAT. ELETRICO MAT. CANALIZACAO\nCALCADA DO COMBRO N3 1200-110 LISBOA\nNIF 513 365 355\nTel: 21 347 67 62\nEmail: jose.m.duarte@sapo.pt\nFATURA SIMPLIFICADA\nORIGINAL\nDATA 03/04/2019 10:55 Nº A/30273\nCliente: FLKEHOME Lda\nMorada:\nCont.Nº: 510776914\nArtigo Qtd Preço e Valor e\nSilicone 1 Un x 4,50 = 4,50\n23%\nTOTAL 4,50\nNumerário 4,50\nTroco 0,00\nIVA Incluido à taxa indicado\nTaxa% Sujeito IVA Total\n23,00 3,66 0,84 4,50\nData de carga: 03/04/2019\nHora de carga: 11:05\nLocal carga: N/Instalações\nMatricula:\nData descarga:\nHora descarga:\nLocal descarga: V/Instalações\nAMUs-Processado por programa certificado\nNº 88/AT - 1 A/30273\nOpr: Administrador\nOBRIGADO - VOLTE SEMPRE"
+  }
+}

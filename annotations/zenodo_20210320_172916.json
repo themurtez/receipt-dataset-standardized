@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "P.A. CEPSA OLHAO I",
+    "address": "E.N. 125 PINHEIROS DE MARIM\n8700 OLHAO",
+    "phone": "289 705 784",
+    "tax_id": "515196339",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-27",
+    "time": "13:35:35",
+    "currency": "EUR",
+    "payment_method": "DINHEIRO",
+    "subtotal": 61.08,
+    "tax": 14.05,
+    "tip": 0.0,
+    "total": 75.13,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "D.OPTIMA",
+      "quantity": 1.489,
+      "unit_price": 50.46,
+      "total_price": 75.13,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210320_172916.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "P.A. CEPSA OLHAO I\nJOAO PALMA, UNIPESSOAL, LDA\nCAPITAL SOCIAL: 5,000.00 EUROS\nTELEFONE: 289 705 784\n\n610077 P.A. OLHAO I\nN.CONTRIB: 515196339\nE.N. 125 PINHEIROS DE MARIM\n8700 OLHAO\n\nUnida. Codigo Artigo Preço Valor\n\n50.46 041385 01 D.OPTIMA 1.489 75.13\nTOTAL: EUR 75.13\nIVA 23.0% Base: 61.08 Imposto: 14.05\nTOTAL A PAGAR: EUR 75.13\nDINHEIRO EUR 75.13\n\nCaixa: 2\nRecibo...0.2.0.38 27/03/2019 13:35:35\nRef... 0860000315 TSQ... 0001309694\n\nNome: FLIXEHCOM ALGARVE LDA\nNIF: 514407395\nMATRICULA: 59-IV-86\nMORADA\nData: 27/03/2019 13:35:35\nFATURA NR:\nFI 61007100012019/00005179\ncPRs - Processado por Programa\nCertificado No: 1299/AT\n\nPROTEÇÃO DE DADOS PESSOAIS\nSe e uma pessoa singular, informamos que os seus dados\nsereao tratados com a finalidade de emitir a fatura e\ngerir a relaçco comercial com a entidade emissora da\nmesma. Os dados pessoais seraao conservados enquanto se\nmantenha a relaçco comercial e nao seraao eliminados\ncaso sejam necessarios ao cumprimento de obrigacoes\nlegais ou para a petição, exercício e defesa em face\nde reclamações. Pode exercer os direitos de acesso,\nrectificacão, oposição, limitacão ao tratamento, revogacão, bem\ncomo de limitação ao tratamento, revogação, portabili-\ndade e de nao estar sujeito a decisoes individuais au-\ntomatizadas, para a morada fiscal indicada neste docu-\nmento senoendo da entidade emissora respectiva."
+  }
+}

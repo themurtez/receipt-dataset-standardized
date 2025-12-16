@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "PROPEL Produtos de Petroleo, Lda.",
+    "address": "A. S. SILVES II, A-22, KM 31, SILVES",
+    "phone": "",
+    "tax_id": "500223840",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-01",
+    "time": "22:35:54",
+    "currency": "EUR",
+    "payment_method": "DINHEIRO",
+    "subtotal": 32.52,
+    "tax": 7.48,
+    "tip": 0.0,
+    "total": 40.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GASOLEO",
+      "quantity": 1,
+      "unit_price": 1.329,
+      "total_price": 40.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_213331.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PROPEL Produtos de Petroleo, Lda.\nCapital Social 224.459,05 Euros\nC.R.C de Lisboa Sob 500223840\n\n63540       A.S SILVES II\nN.CONTRIB: 500223840\nA-22, KM 31        SILVES\n\nUnida. Codigo Artigo        Preco    Valor\n30.10 041386 01 GASOLEO    1.329     40.00\nTOTAL:                              EUR 40.00\n\nIVA 23.0% Base: 32.52   Imposto: 7.48\n\nTOTAL A PAGAR:                  EUR 40.00\nDINHEIRO                                 EUR 40.00\n\nCaixa: 712519\nRecibo: 0.3.0.41 01/11/2017 22:35:54\nRef: 0340900119 TSU: 0000327831\n\nNOME: FIXEHOME LDA\nNIF: 510776914\nMATRICULA: \nMORADA:                               LISBOA\nDATA: 01/11/2017 22:35:54\nFATURA NR:\nF1 6354010001217/00008619\nF-Bn - Processado por Programa\nCertificado N°: 1299/AT\n\nMUITO OBRIGADO\n\nA SUA OPINIÃO\nAJUDA-NOS A MELHORAR\n\nopina.ao/r/63540"
+  }
+}

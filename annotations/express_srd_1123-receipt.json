@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "El Gato Negro",
+    "address": "300 Harrison Ave, New Orleans, LA 70124",
+    "phone": "(504) 488-0107",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-08-23",
+    "time": "12:07:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 19.75,
+    "tax": 2.01,
+    "tip": 0.0,
+    "total": 21.76,
+    "accounting_category": "Dining",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Fajita Vegetable",
+      "quantity": 1,
+      "unit_price": 7.75,
+      "total_price": 7.75,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Taco Shrimp Fresh Catch 3",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Water",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Beverage",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1123-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "El Gato Negro\n300 Harrison Ave\nNew Orleans, LA 70124\nPhone: (504) 488-0107\n\n1128 Daniel P\nTbl 90/1 Chk 4650 Gst 1\nAug23'19 12:07PM\n*** Memo Check ***\n\nDine In\n        Seat:1\n1 Fajita Vegetable                7.75\n1 Taco  Shrimp Fresh Catch 3 12.00\n*DON'T MAKE*\n1 Water                          0.00\n   Food                          19.75\n   Tax                             2.01\n   Total                        21.76"
+  }
+}

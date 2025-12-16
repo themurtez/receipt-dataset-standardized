@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "RESTORAN WAN SHENG",
+    "address": "No.2, Jalan Temenggung 19/9, Seksyen 9, Bandar Mahkota Cheras, 43200 Cheras, Selangor",
+    "phone": "",
+    "tax_id": "001335787520",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-14",
+    "time": "10:06:20",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 4.54,
+    "tax": 0.26,
+    "tip": 0.0,
+    "total": 4.8,
+    "accounting_category": "Meals and Entertainment",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Kopi (B)",
+      "quantity": 1,
+      "unit_price": 2.2,
+      "total_price": 2.2,
+      "category": "Beverage",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cham (B)",
+      "quantity": 1,
+      "unit_price": 2.2,
+      "total_price": 2.2,
+      "category": "Beverage",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Take Away",
+      "quantity": 2,
+      "unit_price": 0.2,
+      "total_price": 0.4,
+      "category": "Service",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005711404.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "RESTORAN WAN SHENG\n002043319-W\nNo.2, Jalan Temenggung 19/9,\nSeksyen 9, Bandar Mahkota Cheras,\n43200 Cheras, Selangor\nGST REG NO: 001335787520\nTax Invoice\nINV No.: 1044120 Cashier: Thandar\nDate : 14-03-2018 10:06:20\n\nDescription Qty U.price Total TAX\nKopi (B) 1 x 2.20 2.20 SR\nCham (B) 1 x 2.20 2.20 SR\nTake Away 2 x 0.20 0.40 SR\nTotal QTY: 4\nTotal (Excluding GST): 4.54\nGST payable (6%): 0.26\nTotal (Inclusive of GST):\nTOTAL: 4.80\nCASH: 4.80\nGST Summary Amount(RM) Tax(RM)\nSR (@ 6%) 4.54 0.26"
+  }
+}

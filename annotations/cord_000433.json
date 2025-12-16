@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Marugame Udon",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "JPY",
+    "payment_method": "Cash",
+    "subtotal": 113636.0,
+    "tax": 11364.0,
+    "tip": 0.0,
+    "total": 125000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "TOPI BAITAN UDON",
+      "quantity": 1,
+      "unit_price": 43636.0,
+      "total_price": 43636.0,
+      "category": "Main Dish",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "BEEF CURRY RICE",
+      "quantity": 1,
+      "unit_price": 49091.0,
+      "total_price": 49091.0,
+      "category": "Main Dish",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "INARI",
+      "quantity": 1,
+      "unit_price": 10000.0,
+      "total_price": 10000.0,
+      "category": "Side Dish",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "COLD OCHA",
+      "quantity": 1,
+      "unit_price": 10000.0,
+      "total_price": 10000.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 5000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000433.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MARUGAME UDON\n\nTOPI BAITAN UDON 1 43,636\nBEEF CURRY RICE 1 49,091\nINARI 1 10,000\nCOLD OCHA 1 10,909\n\nSUB. TOTAL 113,636\nRESTAURANT TAX 11,364\nGRAND TOTAL 125,000\nCASH 125,000\nChange 5,000"
+  }
+}

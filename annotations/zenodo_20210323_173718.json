@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Casa das Chaves",
+    "address": "R. Bartolomeu Dias, Lote 16, Lj.3, 8200-096 Albufeira",
+    "phone": "289 512810",
+    "tax_id": "175 067 120",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-13",
+    "time": "13:23:15",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 5.69,
+    "tax": 1.31,
+    "tip": 0.0,
+    "total": 7.0,
+    "accounting_category": "Service",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "CHAVE 2 ENTRADAS",
+      "quantity": 1,
+      "unit_price": 3.5,
+      "total_price": 3.5,
+      "category": "Key Services",
+      "accounting_category": "Service",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHAVE 2 ENTRADAS",
+      "quantity": 1,
+      "unit_price": 3.5,
+      "total_price": 3.5,
+      "category": "Key Services",
+      "accounting_category": "Service",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_173718.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CASA DAS CHAVES\nO ALEMÃO\nJosé Augusto Saraiva\nNIF: 175 067 120\nR. Bartolomeu Dias, Lote 16, Lj.3\n8200-096 Albufeira\nTelefone: 289 512810\nIva Incluido as Taxas Legais em Vigor\nDocumento Processado por programa certificado n:3/AT\nOriginal\nDate: 2019-05-13 / 13:23:15\nFactura Simplificada: 19FS 001/1396\nNIF: 514407395\nDescrição Qtd. Desc.% Valor\nCHAVE 2 ENTRADAS\n(D) 23% 3,50 1 3,50\nCHAVE 2 ENTRADAS\n(D) 23% 3,50 i 3,50\nItens: 2 7,00\nIliquido Tax% V. Tax\n(D) 5,69 23 1,31\nTotal a Pagar: 7,00 €\nNUMERARIO/CAIXA 7,00 €\nOBRIGADO - THANK YOU - MERCI"
+  }
+}

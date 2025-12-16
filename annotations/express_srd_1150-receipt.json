@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "HMS - Esquire Grille",
+    "address": "SACRAMENTO INTL AIRPORT",
+    "phone": "1-877-672-7467",
+    "tax_id": "",
+    "website": "CUSTOMERSERVICE@HMSHOST.COM"
+  },
+  "transaction": {
+    "date": "2023-04-16",
+    "time": "18:09:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 74.49,
+    "tax": 5.96,
+    "tip": 0.0,
+    "total": 80.45,
+    "accounting_category": "Dining",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "DB Woodford Res 2",
+      "quantity": 1,
+      "unit_price": 17.99,
+      "total_price": 17.99,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Cab Peu Sauvu",
+      "quantity": 1,
+      "unit_price": 11.0,
+      "total_price": 11.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "SD Chick Blu",
+      "quantity": 1,
+      "unit_price": 14.5,
+      "total_price": 14.5,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "SLD Shrimp Louie",
+      "quantity": 1,
+      "unit_price": 24.0,
+      "total_price": 24.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "SD Brussel Sprts",
+      "quantity": 1,
+      "unit_price": 7.0,
+      "total_price": 7.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1150-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "HMS\nESQUIRE GRILLE\nSACRAMENTO INTL AIRPORT\n...\n1 DB WOODFORD RES 2 17.99\nMeat\n1 CAB PEU SAUV 11.00\n...\nSD CHPG BLU 14.50\n...\nSLD SHRIMP LOUIE 24.00\n...\n51 SD BRUSSEL SPRTS 7.00\n...\nSUBTOTAL 74.49\nTAX 5.96\nAMOUNT DUE 80.45\n...\n1-877-672-7467\nCUSTOMERSERVICE@HMSHOST.COM\n"
+  }
+}

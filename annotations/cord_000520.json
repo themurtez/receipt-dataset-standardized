@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 23000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 23000.0,
+    "accounting_category": "Beverages",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Premier Mineral Water (L)",
+      "quantity": 1,
+      "unit_price": 8000.0,
+      "total_price": 8000.0,
+      "category": "Water",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lychee Tea",
+      "quantity": 1,
+      "unit_price": 15000.0,
+      "total_price": 15000.0,
+      "category": "Tea",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 9000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000520.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Premier Mineral Water (L 8.000\n1 Lychee Tea 15.000\nSubtotal 23.000\nTOTAL 23.000\nCash 32.000\nChange Due 9.000"
+  }
+}

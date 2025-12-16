@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 65000.0,
+    "tax": 6500.0,
+    "tip": 0.0,
+    "total": 73450.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Jamur Crispy",
+      "quantity": 2,
+      "unit_price": 13500.0,
+      "total_price": 27000.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Nasi Putih",
+      "quantity": 2,
+      "unit_price": 7000.0,
+      "total_price": 14000.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sambel Kecap",
+      "quantity": 2,
+      "unit_price": 4500.0,
+      "total_price": 9000.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Es Teh",
+      "quantity": 2,
+      "unit_price": 7500.0,
+      "total_price": 15000.0,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 26550.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000048.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Jamur Crispy\n2 13.500 27.000\nNasi Putih\n2 7.000 14.000\nSambel Kecap\n2 4.500 9.000\nEs Teh\n2 7.500 15.000\nSubtotal Rp 65.000\nPB1(10%) Rp 6.500\nSC(3%) Rp 1.950\nTotal Rp 73.450\nCash Rp 100.000\nChange Rp 26.550"
+  }
+}

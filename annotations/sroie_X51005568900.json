@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "001092886528",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-28",
+    "time": "18:52:00",
+    "currency": "MYR",
+    "payment_method": "cash",
+    "subtotal": 9.34,
+    "tax": 0.56,
+    "tip": 0.0,
+    "total": 9.9,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PADLOCK ST-P6150 50MM",
+      "quantity": 1,
+      "unit_price": 9.9,
+      "total_price": 9.9,
+      "category": "Hardware",
+      "accounting_category": "Tools",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005568900.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. D.I.Y. SDN BHD\n(CO.REG :704427-T )\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :001092886528)\n(CHERAS LEISURE MALL)\n-TAX INVOICE-\nPADLOCK ST-P6150 50MM *S\nOZ02 - 12/48\n6942131561507 1 X 9.90 9.90\nItem(s) : 1 Qty(s) : 1\nTotal Incl. GST@6% RM 9.90\nCASH RM 10.00\nCHANGE RM 0.10\nGST Summary Amt(RM) Tax(RM)\nGST S@6% 9.34 0.56\n*\n28-12-17 18:52 SH01 ZT09 T1 R000020832\nOPERATOR TRAINEE CASHIER\nEXCHANGE ARE ALLOWED WITHIN\n7 DAYS WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

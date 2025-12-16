@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (M) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000306020352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-04-22",
+    "time": "12:01:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 68.1,
+    "tax": 3.85,
+    "tip": 0.0,
+    "total": 68.1,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BISCUIT CONTAINER 1087S",
+      "quantity": 4,
+      "unit_price": 8.9,
+      "total_price": 35.6,
+      "category": "Storage",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "12 COLORS GOLD DUST",
+      "quantity": 1,
+      "unit_price": 5.9,
+      "total_price": 5.9,
+      "category": "Art Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "HANGER CL45-Y5S",
+      "quantity": 2,
+      "unit_price": 7.5,
+      "total_price": 15.0,
+      "category": "Organization",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "DENTAL FLOSS 2PCS",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Personal Care",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "SEAL PLASTIC 18PCS",
+      "quantity": 1,
+      "unit_price": 2.9,
+      "total_price": 2.9,
+      "category": "Kitchen",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "CURTAIN BAR-70CM",
+      "quantity": 2,
+      "unit_price": 3.1,
+      "total_price": 6.2,
+      "category": "Home Improvement",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 32.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006620186.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. D.I.Y. (M) SDN BHD\nCo-REG:860671-D\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000306020352)\n(SELAYANG MALL)\n-TAX INVOICE-\nBISCUIT CONTAINER 1087S *S\nIE51/3-61/ - 24\n8800170 4 X 8.90 35.60\n12 COLORS GOLD DUST *S\n0A13 - 12/312\n9049944 1 X 5.90 5.90\nHANGER CL45-Y5S *S\nBE32-51-71 - 2/24\n9064123 2 X 7.50 15.00\nDENTAL FLOSS 2PCS FH01-2Y#VS *S\nMG22 - 12/576\n9068764 1 X 2.50 2.50\nSEAL PLASTIC 18PCS B7 13.8CMx9.8CMxV *S\nMH11/2 - 10/240\n9068369 1 X 2.90 2.90\nCURTAIN BAR-70CM *S\nJD32 - 100\n9063983 2 X 3.10 6.20\nItem(s) : 6 Qty(s) : 11\nTOTAL INCL. GST@6% RM 68.10\nCASH RM 100.10\nCHANGE RM 32.00\nGST @6% included in total RM 3.85\n22-04-16 12:01 SH01 ZJ08 T3 R000302998\nOPERATOR SLC - EALIL ARASI\nEXCHANGE ARE ALLOWED WITHIN\n3 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

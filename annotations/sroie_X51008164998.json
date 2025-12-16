@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "One One Three Seafood Restaurant Sdn Bhd",
+    "address": "No.1, Taman Sri Dengkil, Jalan Air Hitam, 43800 Dengkil, Selangor",
+    "phone": "",
+    "tax_id": "000670224384",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-20",
+    "time": "21:36:11",
+    "currency": "RM",
+    "payment_method": "Cash",
+    "subtotal": 38.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 38.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Fish Item",
+      "quantity": 1,
+      "unit_price": 30.0,
+      "total_price": 30.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Beverage",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Noodle Item Single",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008164998.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ONE ONE THREE SEAFOOD RESTAURANT SDN BHD\n(1120908-M)\nNO.1, TAMAN SRI DENGKIL, JALAN AIR HITAM\n43800 DENGKIL, SELANGOR,\n(GST Reg. No : 000670224384)\n\nTax Invoice\nTable 37\nBill#: V001-540835 Order#: 140933\nDate : 20-06-2018 21:36:11\nCashier: 113 CASHIER Pax(s): 0\nQty Description Total TAX\n1 D 30.00 SR\nFish Item\n1 D 5.00 SR\nBeverage\n1 D 3.00 SR\nNoodle Item Single\nTotal (Excluding GST): 38.00\nTotal (Inclusive of GST): 38.00\nTOTAL : 38.00\n\nClosed: 1 20-06-2018 22:39:39\nServer: 113 CASHIER\nCASH : 38.00\n\nGST Summary Amount(RM) Tax(RM)\nSR (@ 0%) 38.00 0.00\n\n**** Thank You ****\nPlease Come Again"
+  }
+}

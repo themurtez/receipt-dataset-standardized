@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "99 Speed Mart S/B",
+    "address": "Lot P.T. 33198, Batu 4\nJalan Kapar, Mukim Kapar\n42100 Klang, Selangor\n1181-Tmn Sri Sinar",
+    "phone": "",
+    "tax_id": "000181747712",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-01-24",
+    "time": "21:23:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 12.82,
+    "tax": 0.76,
+    "tip": 0.0,
+    "total": 13.58,
+    "accounting_category": "Grocery",
+    "category_confidence": 0.8
+  },
+  "items": [
+    {
+      "name": "Marigold HL Milk 1L",
+      "quantity": 2,
+      "unit_price": 6.79,
+      "total_price": 13.58,
+      "category": "Beverage",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.02,
+    "change_due": 0.4
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619758.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "99 SPEED MART S/B (519537-X)\nLOT P.T. 33198, BATU 4\nJALAN KAPAR, MUKIM KAPAR\n42100 KLANG, SELANGOR\n1181-TMN SRI SINAR\nGST ID. NO : 000181747712\nINVOICE NO : 17556/103/T0503\n09:23PM 559412 24-01-16\n8019 MARIGOLD HL MILK 1L\n@2 X RM 6.79\nTotal Sales (Inclusive GST) RM 13.58\nRounding Adjustment RM .02\nRounding RM 13.60\nCASH RM 14.00\nCHANGE RM .40\nGST Summary Amount(RM) Tax(RM)\ns = 6% 12.82 .76\nThank You. Please come again\nKeep the invoice for applicable returns"
+  }
+}

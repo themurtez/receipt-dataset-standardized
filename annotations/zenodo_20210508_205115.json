@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "El Corte Ingles",
+    "address": "Loja Lisboa",
+    "phone": "",
+    "tax_id": "510769914",
+    "website": "www.elcorteingles.pt"
+  },
+  "transaction": {
+    "date": "2018-06-02",
+    "time": "21:27:00",
+    "currency": "EUR",
+    "payment_method": "Debit",
+    "subtotal": 20.4,
+    "tax": 2.65,
+    "tip": 0.0,
+    "total": 23.05,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Tartelete Les. Grelh",
+      "quantity": 2,
+      "unit_price": 3.25,
+      "total_price": 6.5,
+      "category": "Food",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Roupa",
+      "quantity": 1,
+      "unit_price": 15.5,
+      "total_price": 15.5,
+      "category": "Clothing",
+      "accounting_category": "Apparel",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cafe",
+      "quantity": 1,
+      "unit_price": 1.05,
+      "total_price": 1.05,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_205115.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "EL CORTE INGLES\nEL CORTE INGLES - GRANDES ARMAZÉNS, S.A.\n...\nEL CORTE INGLES - LOJA LISBOA\nVISITE-NOS EM: WWW.ELCORTEINGLESPT\n...\n...\n02/Jun/18 21:27 017000 00\n\nDescreiçao Quantidade Valor\nTartelete Les. Grelh 2 B 6,50\nRoupa 1 15,50\nCafe 1 B 1,05\n\nTOTAL 23.05\nC.ECI DEBITO EM CONTA 23,05\nIVA INCLUIDO\n(B) IMP 13,00% 20,40 2,65 23,05\nN. TOTAL DE ARTIGOS 4\n\n...\nDatos do cliente:\nNo Contribuinte 510769914\n\n...\n"
+  }
+}

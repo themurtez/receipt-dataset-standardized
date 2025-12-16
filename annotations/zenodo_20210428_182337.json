@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "DROGARIA S MARCAL LDA",
+    "address": "R S MARCAL 110 RC",
+    "phone": "213461636",
+    "tax_id": "500663381",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-04-09",
+    "time": "16:26:00",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 5.13,
+    "tax": 1.17,
+    "tip": 0.0,
+    "total": 6.3,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Martelo",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Tools",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pregos arame",
+      "quantity": 1,
+      "unit_price": 0.4,
+      "total_price": 0.4,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_182337.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "DROGARIA S MARCAL LDA\nDROGARIA S MARCAL LDA\nR S MARCAL 110 RC\nTel. 213461636\nN. Contrib 500663381\nRegisto na Cons. Lisboa n. 310836\nCapital Social € 5,000.00\nNIF: 510776914\nNome: Flikehome\nMorada:\nFatura-recibo FR 001/12623\n2019-04-09 16:26\nQt Descrição P.Unit. Valor\n1.00 Martelo € 5.00 € 5.00\n1.00 Pregos arame € 0.40 € 0.40\nTotal Liq. € 6.30\nPagamento Valor\nNumerário € 6.30\nTaxa Base Valor Total\n23.00 € 5.13 € 1.17 € 6.30\nIVA Incluido\n0795874635594859414649"
+  }
+}

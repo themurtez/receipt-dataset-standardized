@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "CHAO LOUREIRO",
+    "address": "R Actor António Silva, N7, 1649-033 Lisboa",
+    "phone": "218 802 010",
+    "tax_id": "500892993",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-09-26",
+    "time": "16:38:00",
+    "currency": "EUR",
+    "payment_method": "Visa Electron",
+    "subtotal": 7.78,
+    "tax": 1.11,
+    "tip": 0.0,
+    "total": 5.93,
+    "accounting_category": "Cleaning Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PANO VILEDA MICROFIB",
+      "quantity": 1,
+      "unit_price": 3.99,
+      "total_price": 3.99,
+      "category": "Cleaning Supplies",
+      "accounting_category": "Cleaning Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TUDO SONASOL GEL",
+      "quantity": 1,
+      "unit_price": 3.79,
+      "total_price": 3.79,
+      "category": "Cleaning Supplies",
+      "accounting_category": "Cleaning Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SACO PLÁST RECICL PD",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Packaging",
+      "accounting_category": "Packaging",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_194131.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CHAO LOUREIRO\nTel.: 218 802 010\nPingo Doce - Distribuição Alimentar, S.A.\nSede: R Actor António Silva, N7, 1649-033 Lisboa\nRegisto C.R.C. Lisboa-Matricula/NIPC: 500892993\nArtigos\nDETERG. E PROD. LIMPEZA\nE 23% PANO VILEDA MICROFIB 3,99\nE 23% TUDO SONASOL GEL 3,79\nPoupança Imediata (1,85)\nE 23% SACO PLÁST RECICL PD 0,10\nResumo\nTOTAL POUPANCA 7,78\nTOTAL A PAGAR 5,93\nPagamentos\nTOTAL PAGO 5,93\nMultibanco 5,93\nResumo IVA\nTaxa Valor s/IVA Valor IVA Valor c/IVA\nE 23% 4,82 1,11 5,93\nNESTA COMPRA POPOU 1,85 €\nAtendido por: Mª João Gonçalves\n344234 2019-09-26 16:38:00 0004 0048 02\n1º Via original\n..."
+  }
+}

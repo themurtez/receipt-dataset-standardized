@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "PANA JAYA ENTERPRISE",
+    "address": "NO.10-G, GROUND FLOOR, JALAN DINAR D. U3/D TAMAN SUBANG PERDANA. SEKS U3, 40150 SHAH ALAM, SELANGOR",
+    "phone": "03-7847 2376",
+    "tax_id": "002069438464",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-25",
+    "time": "10:28:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 193.87,
+    "tax": 11.63,
+    "tip": 0.0,
+    "total": 205.5,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CRYSTAL CATERING FOIL",
+      "quantity": 1,
+      "unit_price": 35.0,
+      "total_price": 35.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "EC 7 PP PLATE (50PCS)",
+      "quantity": 10,
+      "unit_price": 6.25,
+      "total_price": 62.5,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "EC 9 PP PLATE (500PCS) CTN",
+      "quantity": 1,
+      "unit_price": 108.0,
+      "total_price": 108.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 12,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005764154.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PANA JAYA ENTERPRISE\nNO.10-G, GROUND FLOOR, JALAN DINAR D.\nU3/D TAMAN SUBANG PERDANA.\nSK U3, 40150 SHAH ALAM, SELANGOR\nTEL: 03-7847 2376 FAX: 03-7847 2378\n(GST Reg. No : 002069438464)\nTax Invoice\nINV No.: 537422 Qty(s): 12\nDate : 25-01-2018 18 10:28\nCashier: CASHIER2\nDescription Qty U price Total TAX\nCRYSTAL CATERING FOIL\n1 X 35.00 35.00 SR\nEC 7 PP PLATE (50PCS)\n10 X 6.25 62.50 SR\nEC 9 PP PLATE(500PCS)CTN\n1 X 108.00 108.00 SR\nTotal (Excluding GST) : 193.87\nGST payable (6%) : 11.63\nTotal (Inclusive of GST)\nTOTAL: 205.50\nCASH : 205.50\nGST Summary Amount(RM) Tax(RM)\nSR (@ 6%) 193.87 11.63\n*** Thank You ***\nPlease Come Again\nGoods Sold Are\nNot Refundable"
+  }
+}

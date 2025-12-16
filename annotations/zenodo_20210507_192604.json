@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "FLIXENOME",
+    "address": "Lisboa",
+    "phone": "",
+    "tax_id": "510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2023-10-06",
+    "time": "13:29:22",
+    "currency": "EUR",
+    "payment_method": "NÚMERARIO",
+    "subtotal": 4.07,
+    "tax": 0.94,
+    "tip": 0.0,
+    "total": 5.01,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Gasolina SP 95",
+      "quantity": 1,
+      "unit_price": 5.01,
+      "total_price": 5.01,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_192604.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "FLIXENOME\nLISBOA\nArtigo/Quant. V.Unit. Iva Valor\nGASOLINA SP 95\n1.288 23.0 5.01\nINCIDENCIA DE IVA |Desc. 0.00\n23.0 4.07|Liq. 4.07\n|IVA 0.94\nTOTAL 5.01\n“Os Produtos/serviços constantes deste\ndoc foram colocados á disposição do\nadquirente na data do mesmo”\nPRODUTO XENERGIA EMISSÕES CO2\nPRIMARIA PRIMARIA\nGasolina 100% Energia 2,3 kgCO2e/1\n(auto) Fossil\nGasoleo 95% Energia 2,5 kgCO2e/1\nRodoviario Fossil e\n5% Energia de\nOrigem Renov.\nGPL Butano 100% Energia 3,0 kgCO2e/kg\ne Propano Fossil\n90wT - Processado por programa certitica\ndo mO 621/AT\nPagamento: NUMERÁRIO\nHora: 13:29:22\nESTE DOCUMENTO ENCONTRA-SE PAGO"
+  }
+}

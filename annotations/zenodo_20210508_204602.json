@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Botelhos II LDA",
+    "address": "POSTO GALP E. N 390 KM. 0.39400, 7645-000VILA NOVA",
+    "phone": "Tel: 707 504 257",
+    "tax_id": "PT508018870",
+    "website": "galp.com"
+  },
+  "transaction": {
+    "date": "2018-07-22",
+    "time": "13:53:00",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 15.0,
+    "tax": 2.8,
+    "tip": 0.0,
+    "total": 15.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Gasoleo Simples",
+      "quantity": 10.42,
+      "unit_price": 1.439,
+      "total_price": 15.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_204602.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "...\n"
+  }
+}

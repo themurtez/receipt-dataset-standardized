@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "bota minuto",
+    "address": "R Quinta Palmeiras 1 D, Oeiras, Centro Comercial Amoreiras, loja 5041, 1070 Lisboa Tel 210994257",
+    "phone": "210994257",
+    "tax_id": "NIF: 510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-11-10",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "cash",
+    "subtotal": 7.2,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 7.2,
+    "accounting_category": "hardware",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "CHAVE PLANA UL050 V-5D",
+      "quantity": 3,
+      "unit_price": 2.4,
+      "total_price": 7.2,
+      "category": "tools",
+      "accounting_category": "hardware",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 12.8
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_174246.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "(full text from the image, as extracted)"
+  }
+}

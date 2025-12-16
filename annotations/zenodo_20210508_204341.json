@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Estacao Servico Da Cegonha Lda",
+    "address": "Av. Dr. Catarino Menezes, 2530-117 Lourinha",
+    "phone": "",
+    "tax_id": "NIF: P150176914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-28",
+    "time": "10:55:05",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 32.53,
+    "tax": 7.48,
+    "tip": 0.0,
+    "total": 40.01,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Gasoleo Bomba Nr: 5",
+      "quantity": 1,
+      "unit_price": 27.42,
+      "total_price": 40.01,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_204341.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Estacao Servico Da Cegonha Lda\nAv. Dr. Catarino Menezes 25.30 117 Lourinha\nTel: 261413210 Contribuinte: 501790594\nPOS Nr 5 Oper. 24\nData: 2018-05-28 10:55:05 Refnr. 3755\nProcessado por computador\nFatura Simplificada FS 27062/004/031006\nGasoleo Bomba Nr: 5 40,01 €\n27,42 * 1.459 € /l\nTotal 40,01 €\nPoupa Mais 4,00 €\nMultibanco 36,01 €\nNumero cartao: ********244\nPontos Emitidos: 54\nPontos por Promocao: 27\nValor Acumulado: 1018\nValidade disponivel Poupa Mais: 0 EUR\nExpira em 30-06-2018: 0 EUR\nEstacao Servico Da Cegonha Lda\nLourinha\nTerminal Pagamento Automatico: 00379841\n2018-05-28 10:51:34 Per060 Tr033 Msg247\nB. Santander Totta\nAlmeida/Fernando.Alm.\nCartao: *****8851/59\nCompra 36,01 EUR MB\nAutr: 5559\nProcessado por SIBS\nIVA + LIQ. ILIQ.\n23.00% 7,48 32,53 40,01\nRQNZ: Processado por Programa Certificado no.0177/AT"
+  }
+}

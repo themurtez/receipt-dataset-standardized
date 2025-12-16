@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Mr. D.I.Y. (M) Sdn Bhd",
+    "address": "Lot 1851-A & 1851-B, Jalan KPB 6, Kawasan Perindustrian Balakong, 43300 Seri Kembangan, Selangor",
+    "phone": "",
+    "tax_id": "000306020352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-01-11",
+    "time": "13:02:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 30.94,
+    "tax": 1.86,
+    "tip": 0.0,
+    "total": 32.8,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CNY D-COR 14-5RM",
+      "quantity": 4,
+      "unit_price": 0.6,
+      "total_price": 2.4,
+      "category": "Decor",
+      "accounting_category": "Home Goods",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Colander 12609#VS",
+      "quantity": 1,
+      "unit_price": 3.9,
+      "total_price": 3.9,
+      "category": "Kitchenware",
+      "accounting_category": "Home Goods",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Mouse Pad L-11",
+      "quantity": 1,
+      "unit_price": 3.9,
+      "total_price": 3.9,
+      "category": "Electronics",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Cushion 42*42CM",
+      "quantity": 2,
+      "unit_price": 11.3,
+      "total_price": 22.6,
+      "category": "Home Decor",
+      "accounting_category": "Home Goods",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 20.2
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619704.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. D.I.Y. (M) SDN BHD\nCo-REG: 860671-D\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000306020352)\n(SELAYANG MALL)\n -TAX INVOICE-\nCNY D-COR 14-5RM 7*7.5CM       *S\nJG32 - 10/2000\n8711378                4 X 0.60  2.40\nCOLANDER 12609#VS               *S\nMG52/3 - 6/96\n6934091490591          1 X 3.90  3.90\nMOUSE PAD L-11                  *S\nNG31/2 - 25/400\n8991370               1 X 3.90  3.90\nCUSHION 42*42CM                 *S\nJA21-51-61 - 5/60\n9064526                2 X 11.30 22.60\n\nItem(s) : 4                  Qty(s) : 8\n\nTOTAL INCL. GST@6%       RM 32.80\nCASH                    RM 53.00\nCHANGE                  RM 20.20\n\nGST @6% included in total   RM 1.86\n\n11-01-16 13:02 SH01 ZJ08  T3 R000271921\nOPERATOR SLC - NOR RUZITA\n\nEXCHANGE ARE ALLOWED WITHIN\n3 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

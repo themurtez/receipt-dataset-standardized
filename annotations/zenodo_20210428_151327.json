@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Parque Chao do Loureiro",
+    "address": "Avenida de Berna nº1, 1050 Lisboa",
+    "phone": "",
+    "tax_id": "503311332",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-19",
+    "time": "18:35:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 1.46,
+    "tax": 0.34,
+    "tip": 0.0,
+    "total": 1.8,
+    "accounting_category": "Parking",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Estadia",
+      "quantity": 1,
+      "unit_price": 1.46,
+      "total_price": 1.8,
+      "category": "Parking",
+      "accounting_category": "Parking",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_151327.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Parque Chao do Loureiro\nEMEL-Emp. M. Estacionamento Lisboa E.E.M\nAvenida de Berna nº1\n1050 Lisboa\nNIF: 503311332\n19/02/2019 18:35 T19/401/0153\nCaixa: 401 Cód. Operador: 9\nNúm Recibo: 19/401/003077\nCliente: Consumidor Final\nN.I.F:\n* CLoureiro-Rot. * Estadia\nNúmero bilhete 02010078169\nTarifa: Parque\nEntrada: 19/02/2019 17:21\nPagamento: 19/02/2019 18:35\nDur. Estadia: 0d 01h 14m\nValor: 1,80 €\nBase incid. 1,46 €\nI.V.A.(23%): 0,34 €\nTOTAL 1,80 €\n*** ORIGINAL ***\nNsJF-Processado por Programa\nCertificado n. 1250/AT\nObrigado pela sua visita\nData emissao: 19/02/2019 18:36"
+  }
+}

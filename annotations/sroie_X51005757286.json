@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "TSH POWER HARDWARE TRADING",
+    "address": "13-1, Jalan PJU 5/10, Dataran Sunway, Kota Damansara, 47810, Petaling Jaya, Selangor",
+    "phone": "012-373 2096",
+    "tax_id": "000460664832",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-10-10",
+    "time": "16:22:12",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 8.0,
+    "tax": 0.45,
+    "tip": 0.0,
+    "total": 8.0,
+    "accounting_category": "Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "MAJESTA HSS JOBBER DRILLS 3.5MM",
+      "quantity": 2,
+      "unit_price": 4.0,
+      "total_price": 8.0,
+      "category": "Tools",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005757286.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "31803039\nTSH POWER HARDWARE TRADING\n002458685-T\n13-1, Jalan PJU 5/10,\nDataran Sunway, Kota Damansara,\n47810, Petaling Jaya, Selangor\nTel:012-373 2096\nTAX INVOICE\nGST Reg No: 000460664832\nInvoice No 01-145995\nDate 10/10/2017 4:22:12 PM\nDescription Qty Price Amount\n1 MAJESTA HSS 2 4.00 8.00 SR*\nJOBBER DRILLS\n3.5MM\nSub Total: 8.00\nRound Amt: 0.00\nNET TOTAL : 8.00\nCash Received : 8.00\nGST Summary Amount(RM) Tax(RM)\nSR=6.00% 7.55 0.45\n****Thank You.****\nPlease Come Again."
+  }
+}

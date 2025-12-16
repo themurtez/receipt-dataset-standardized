@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Debit Card",
+    "subtotal": 96000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 96000.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Corn Flakes Cookies",
+      "quantity": 1,
+      "unit_price": 56000.0,
+      "total_price": 56000.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Blueberry Fuji",
+      "quantity": 1,
+      "unit_price": 40000.0,
+      "total_price": 40000.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Plastic Bag Medium",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Bag",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000210.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "5001-Corn Flakes Cookies\n56.000 x1 56.000\n4003-Blueberry Fuji\n40.000 x1 40.000\n6002-Plastic Bag Medium\n0\nTotal Item: 3\nTotal. 96.000\nDebet Card\n96.000"
+  }
+}

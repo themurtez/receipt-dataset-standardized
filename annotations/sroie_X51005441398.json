@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Brewery Tap",
+    "address": "Avtivo Plaza, Lot B-F-11, Block B, No1, Jalan PJU 9/1, D'sara Avenue, Bandar Sri D'sara, 52000 KL",
+    "phone": "+603-62629219",
+    "tax_id": "002108047360",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-30",
+    "time": "20:13:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 179.0,
+    "tax": 10.74,
+    "tip": 0.0,
+    "total": 189.75,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Tiger 2 Bucket - HH",
+      "quantity": 1,
+      "unit_price": 95.0,
+      "total_price": 95.0,
+      "category": "Beverage",
+      "accounting_category": "Alcohol",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Tiger Bucket - HH",
+      "quantity": 2,
+      "unit_price": 25.0,
+      "total_price": 50.0,
+      "category": "Beverage",
+      "accounting_category": "Alcohol",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Chicken wings",
+      "quantity": 1,
+      "unit_price": 22.0,
+      "total_price": 22.0,
+      "category": "Food",
+      "accounting_category": "Appetizer",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "French Fries",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Food",
+      "accounting_category": "Side",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.01,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005441398.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BREWERY TAP\nOwner by Castle Blue S/B\n(1035683-T)\nGST No: 002108047360\nAvtivo Plaza, Lot B-F-11, Block B\nNo1, Jalan PJU 9/1, D'sara Avenue\nBandar Sri D'sara, 52000 KL\nTEL: +603-62629219\n\n* GUEST CHECK *\n\nTable No: D06\nOrder No : 11449\nDate : 30/03/2018 # 8:13 PM\nCashier : ORDER LOGIN\nWaiter : Harry, Paing\nPRN ON : 30/03/2018 11:18 PM\n\nQTY ITEM RM\n\n*** Dine In ***\n1 Tiger 2 Bucket - HH 95.00 SR\n2 Tiger Bucket - HH 50.00 SR\n1 Chicken wings 22.00 SR\n1 French Fries 12.00 SR\n\n4 SubTotal 179.00\nGST 6% 10.74\nRounding Adj 0.01\nNet Total 189.75\n\n--- 30/03/2018 11:11 PM ---\n\nTax Summary Amount Tax\nSR: GST 6% 179.00 10.74\n\nTHANK YOU, PLEASE COME AGAIN\nGoods Sold Are Non Refundable"
+  }
+}

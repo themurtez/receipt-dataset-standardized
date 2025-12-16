@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "DEBIT",
+    "subtotal": 241000.0,
+    "tax": 43983.0,
+    "tip": 0.0,
+    "total": 284983.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Crispy Egg Corn",
+      "quantity": 1,
+      "unit_price": 42000.0,
+      "total_price": 42000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Mun Tofu",
+      "quantity": 1,
+      "unit_price": 62000.0,
+      "total_price": 62000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Go Hiong",
+      "quantity": 1,
+      "unit_price": 65000.0,
+      "total_price": 65000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Steam Rice",
+      "quantity": 3,
+      "unit_price": 12000.0,
+      "total_price": 36000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ice Lemon Tea",
+      "quantity": 2,
+      "unit_price": 18000.0,
+      "total_price": 36000.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000613.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Crispy Egg Corn 42,000\n1 Mun Tofu 62,000\n1 Go Hiong 65,000\n3 Steam Rice 36,000\n2 Ice Lemon Tea 36,000\nItem Total: 241,000\nService 7.5%: 18,075\nPHR 10%: 25,908\nTotal: 284,983\nDEBIT ECA 284,983\nCHANGES 0"
+  }
+}

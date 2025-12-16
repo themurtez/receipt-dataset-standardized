@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Domino's Pizza",
+    "address": "30, Jln Kebudayaan 7, Tmn Universiti, 81300 Skudai, Johor",
+    "phone": "1-300-888-333",
+    "tax_id": "001694261248",
+    "website": "www.dominos.com.my"
+  },
+  "transaction": {
+    "date": "2018-05-08",
+    "time": "10:52:09",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 15.6,
+    "tax": 0.38,
+    "tip": 0.0,
+    "total": 6.7,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "6\" HT (KB)",
+      "quantity": 1,
+      "unit_price": 15.6,
+      "total_price": 15.6,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 43.3
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006913074.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TAX INVOICE\nDOMINO'S PIZZA\nGST REF NO : 001694261248\nDOMINO'S PIZZA TAMAN UNIVERSITI\n30, Jln Kebudayaan 7, Tmn Universiti\n81300 Skudai, Johor\n--------------------------------------------------\nCARRY OUT NOW Pay By: CASH\nOrder : 1131 By : WEB_30503\nOrder Time : 10:52:09 Date : 08/05/18\nName: MS JOAN WONG\nPickup Time: 11:07:09\n--------------------------------------------------\nQty Menu Desc Coupon Disc Price\n1 6\"HT (KB) VTUE1A-I 15.60\n8.90 15.60\nTotal Items : \nSub-Total : 15.60\nCoupon Discount : 6.70\nGrand Total : 6.70\nPayment : 50.00\nChange Due : 43.30\n*6% GST Included : 0.38\n--------------------------------------------------\nSUPPORT OUR SMILE CAMPAIGN : )\nDid we smile at you?\nLet us know at\nwww.dominos.com.my/smile and \nreceive a 30% off side item e-coupon\nupon survey submission\nSurvey Code: WBE080740082052\nThank you for visiting Domino's,\nPlease Come Again!\n1-300-888-333\nwww.dominos.com.my\n--------------------------------------------------\nWe are compliant to the PDPA 2011.\nVisit www.dominos.com.my/terms\nto view our Personal Data Protection.\nOwned by\nDommal Food Co. No. 3960-A.\n"
+  }
+}

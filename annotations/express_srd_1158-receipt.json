@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Mitasu Japanese Restaurant Sdn Bhd",
+    "address": "B-01, Central Plaza, 34 Jalan Sultan Ismail, 50250 Kuala Lumpur",
+    "phone": "03-2110 2833",
+    "tax_id": "001774428160",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-29",
+    "time": "19:59:15",
+    "currency": "MYR",
+    "payment_method": "VISA",
+    "subtotal": 709.5,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 780.45,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Adult",
+      "quantity": 11,
+      "unit_price": 28.01,
+      "total_price": 709.5,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 11,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1158-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MITASU JAPANESE RESTAURANT SDN BHD\nB-01,CENTRAL PLAZA,\n34,JALAN SULTAN ISMAIL,\n50250 KUALA LUMPUR\nTEL 03-2110 2833\n(GST Reg. No: 001774428160)\nTax Invoice\nTable D2\nBill#: V001-201060 Odr No: 199535\nDate: 29-06-2018 19:59:15\nCashier: AARON Pax(s): 11\nQty Description Total TAX\n11 (28.01) Adult D 709.50 SR\nSubtotal: 709.50\nServ. Charge (10%): 70.95\nGST Payable (0%): 0.00\nTotal: 780.45\nTOTAL: 780.45\nClosed: 001 29-06-2018 21:52:03\nServer: AARON\nVISA 780.45\n************3042\n- LIM CHAI JA\n"
+  }
+}

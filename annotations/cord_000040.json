@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "BCA Debit",
+    "subtotal": 108000.0,
+    "tax": 11394.0,
+    "tip": 0.0,
+    "total": 125334.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Burger Chic Decker",
+      "quantity": 1,
+      "unit_price": 68000.0,
+      "total_price": 68000.0,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Home Made Lemonade",
+      "quantity": 1,
+      "unit_price": 40000.0,
+      "total_price": 40000.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000040.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 BURGER CHIC DECKER    68,000\n1 Home Made Lemonade     40,000\nSUBTOTAL               108,000\n5% Service               5,940\n10% PBl                 11,394\nTOTAL                  125,334\nBCA DEBIT.             125,334"
+  }
+}

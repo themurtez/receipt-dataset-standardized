@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "KRW",
+    "payment_method": "Cash",
+    "subtotal": 32000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 32000.0,
+    "accounting_category": "Beverages",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Sam Da Soo Mineral Water",
+      "quantity": 2,
+      "unit_price": 16000.0,
+      "total_price": 32000.0,
+      "category": "Beverages",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 10000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000100.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "2 SAM DA SOO MINERAL WATER 32,000\nTOTAL 32,000\nCASH 42,000\nCHANGE 10,000"
+  }
+}

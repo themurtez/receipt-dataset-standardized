@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Chaves do Areeiro",
+    "address": "Praça Francisco Sá Carneiro, 10, Lisboa, 1000-160 Lisboa",
+    "phone": "218 453 010",
+    "tax_id": "506061534",
+    "website": "www.chavesgareeiro.pt"
+  },
+  "transaction": {
+    "date": "2019-03-11",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 19.32,
+    "tax": 4.44,
+    "tip": 0.0,
+    "total": 23.76,
+    "accounting_category": "Services",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "2 Chave 2 Palhetos",
+      "quantity": 1,
+      "unit_price": 10.0,
+      "total_price": 10.0,
+      "category": "Hardware",
+      "accounting_category": "Services",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "2 Chave Kaba Pextra",
+      "quantity": 1,
+      "unit_price": 3.2,
+      "total_price": 5.76,
+      "category": "Hardware",
+      "accounting_category": "Services",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_153535.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Chaves do Areeiro\nSoluções e Sistemas de Segurança\nCHAVES DO AREEIRO - SOULÇÕES E SISTEMAS DE\nSEGURANÇA S.A\nSede: 21 845 30 10 - GERAL: 707 20 30 10\nLOJA - CP OURIQUE: 21 385 17 86\nPRAÇA FRANCISCO SA CARNEIRO, 10 LISBOA\n1000 160 LISBOA\nN° Contribuente: 506061534\nFactura recibo       N° FR 2019/A145/1965  de  2019 03 11\nFLIKEHOME MEDICAÇÃO IMOBILIARIA, LDA\nLISBOA\nN° Contribuente: 510776914                                 Nº Cliente: 3437\nQdt   Descrição                          P. Unit   IVA %   Total\n2 CHAVE 2 PALHETOS          10.00   23.00%     18.00\n2 CHAVE KABA PEXTRA        3.20     23.00%       5.76\n0.00                         0.00%\nPágina 1 de 1              Serviço prestado em 11 03 2019\nSoftware PHC - AOmB Processado por programa certificado o\n0006/AT (20190112)\nTaxa                            Valor Base    Valor IVA\n23.00%                      19.32               4.44\nTotal líquido                                                 19.32\nTotal de IVA                                                 4.44\nTotal de Descontos                                       2.15\nTotal do Documento                              23.76 €\nValor Licitado em Dinero 23.76€\nTROCAS E DEVOLUÇÕES ATE 15 DIAS\nCOM A APRESENTACAO DO DOC ORIGINAL\nwww.chavesgareeiro.pt"
+  }
+}

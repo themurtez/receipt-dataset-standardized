@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "ROGERIO PAIS, LDA",
+    "address": "AVENIDA ALMIRANTE REIS, 9-E, 1150-007 LISBOA",
+    "phone": "218853901",
+    "tax_id": "500544000",
+    "website": "www.ticasgest.pt"
+  },
+  "transaction": {
+    "date": "2018-07-18",
+    "time": "11:59:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 4.8,
+    "tax": 1.1,
+    "tip": 0.0,
+    "total": 5.9,
+    "accounting_category": "Hardware Store",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Ferrolo cadeado JVAL 5",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Hardware",
+      "accounting_category": "Tools",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cadeado PECOL 30 m/m",
+      "quantity": 1,
+      "unit_price": 3.2,
+      "total_price": 3.2,
+      "category": "Hardware",
+      "accounting_category": "Tools",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "O'rringue de borracha",
+      "quantity": 6,
+      "unit_price": 0.2,
+      "total_price": 1.2,
+      "category": "Hardware",
+      "accounting_category": "Tools",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_203608.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROGERIO PAIS, LDA\nFERRAGENS • FERRAMENTAS • MAQUINAS • UTILIDADES\nAVENIDA ALMIRANTE REIS, 9-E * 1150-007 LISBOA\nTel/Fax 218853901 Tel. 966008696\n* Sociedade por quotas * Capital Social\n5.012,92€ REG.CRC. 34852\nNIB: 0033 0000 01280286463 52\n--------------------------------------------------------\n2018-07-18 FATURA SIMPLIFICADA N:\nOriginal FS 1A1801/6228\n11:59 BALCAO 1\n--------------------------------------------------------\nContribuinte: 510776914\n\nDESCRICAO IVA VALOR\n1 Ferrolo cadeado JVAL 5 23% 1,50\n1 Cadeado PECOL 30 m/m 23% 3,20\n6 O'rringue de borracha 23% 1,20\nPreco: 0,20/UNIDADE\n\nt TAXA IVA INCID.\n23% 1,10 4,80\nTOTAL INCIDENCIAS: 1,10 4,80\n\n----------------------------------\nTOIAL: Eur 5,90\n----------------------------------\nPago em Numerario\nValor entregue: 5,90\nTroco: 0,00\n----------------------------------\nImplementado por www.ticasgest.pt\n----------------------------------\nBYVZ-Processado por programa\ncertificado n. 217/AT\nOs servicos e/ou bens foram realizados e/ou colo\ncados a disposicao do adquirente nesta data (Art\n. 36 do CIVA, No5 alInea F)\n\nLicenca: ROGERIO PAIS, LDA\nContribuinte: 500544000"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 246073.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 246073.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TOILETBRUSH102",
+      "quantity": 1,
+      "unit_price": 38900.0,
+      "total_price": 38900.0,
+      "category": "Household Supplies",
+      "accounting_category": "Household",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TAMMIA 259",
+      "quantity": 1,
+      "unit_price": 25900.0,
+      "total_price": 25900.0,
+      "category": "Personal Care",
+      "accounting_category": "Beauty",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "WDH. SUN GEL 40ML",
+      "quantity": 1,
+      "unit_price": 33500.0,
+      "total_price": 33500.0,
+      "category": "Sunscreen",
+      "accounting_category": "Beauty",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TAM 424 BUFFER 219",
+      "quantity": 1,
+      "unit_price": 21900.0,
+      "total_price": 21900.0,
+      "category": "Personal Care",
+      "accounting_category": "Beauty",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SIKAT BOTOL/PISC",
+      "quantity": 1,
+      "unit_price": 67600.0,
+      "total_price": 67600.0,
+      "category": "Cleaning Supplies",
+      "accounting_category": "Household",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "GOCUANG H.200G",
+      "quantity": 1,
+      "unit_price": 27400.0,
+      "total_price": 27400.0,
+      "category": "Food",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PM CARE HIJAU CURA",
+      "quantity": 0.064,
+      "unit_price": 37500.0,
+      "total_price": 2400.0,
+      "category": "Personal Care",
+      "accounting_category": "Beauty",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TIMUN JEPANG",
+      "quantity": 0.482,
+      "unit_price": 30900.0,
+      "total_price": 14894.0,
+      "category": "Food",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "KONGKEE TOFU JEPUN",
+      "quantity": 1,
+      "unit_price": 7420.0,
+      "total_price": 7420.0,
+      "category": "Food",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PALM SHW GEL 450",
+      "quantity": 1,
+      "unit_price": 33500.0,
+      "total_price": 33500.0,
+      "category": "Personal Care",
+      "accounting_category": "Beauty",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 10,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000787.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1X 38.900\nLS TOILETBRUSH102 38.900\nMEGA Discount 3.890-\n1X 25.900\nTAMMIA 259 25.900\nMEGA Discount 2.590-\n1X 33.500\nWDH. SUN GEL 40ML 33.500\nMEGA Discount 3.350-\n1X 21.900\nTAM 424 BUFFER 219 21.900\nMEGA Discount 2.190-\n1X 67.600\nSIKAT BOTOL/PSC 67.600\nMEGA Discount 6.760-\n1X 27.400\nGOCUANG H.200G 27.400\nMEGA Discount 2.740-\n0.064X 37.500\nPM CARE HIJAU CURA 2.400\nMEGA Discount 240-\n0.482X 30.900\nTIMUN JEPANG 14.894\nMEGA Discount 1.489-\n1X 7.420\nKONGKEE TOFU JEPUN 7.420\nMEGA Discount 742-\n1X 33.500\n+PALM SHW GEL 450 33.500\nMEGA Discount 3.350-\nSUBTOTAL: 246.073\nTOTAL: 246.073"
+  }
+}

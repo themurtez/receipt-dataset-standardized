@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "DEBIT CARD",
+    "subtotal": 235000.0,
+    "tax": 23500.0,
+    "tip": 0.0,
+    "total": 258500.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BITTERBALLEN",
+      "quantity": 1,
+      "unit_price": 33000.0,
+      "total_price": 33000.0,
+      "category": "Appetizer",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MOZZARELA STICK",
+      "quantity": 1,
+      "unit_price": 55000.0,
+      "total_price": 55000.0,
+      "category": "Appetizer",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "NOUGAT ICE CREAM",
+      "quantity": 1,
+      "unit_price": 20000.0,
+      "total_price": 20000.0,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SAUCYS BROOD",
+      "quantity": 1,
+      "unit_price": 19000.0,
+      "total_price": 19000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "AMANDEL BROOD",
+      "quantity": 1,
+      "unit_price": 18000.0,
+      "total_price": 18000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BOKKEPOOTJES",
+      "quantity": 1,
+      "unit_price": 90000.0,
+      "total_price": 90000.0,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000260.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1.0 BITTERBALLEN 33,000\n1.0 MOZZARELA STICK 55,000\n1.0 NOUGAT ICE CREAM 20,000\n1.0 SAUCYS BROOD 19,000\n1.0 AMANDEL BROOD 18,000\n1.0 BOKKEPOOTJES 90,000\nSub Total 235,000\nTax 23,500\nTotal 258,500\nDEBIT CARD 258,500\nMenu 6 Item(s)"
+  }
+}

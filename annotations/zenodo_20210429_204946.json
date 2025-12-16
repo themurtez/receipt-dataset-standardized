@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "New Hamburgology",
+    "address": "Tivoli Forum, Rua Galvão, nº10, Torre 3,P3, 301A303, Lisboa",
+    "phone": "213803113",
+    "tax_id": "506784363",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-11-25",
+    "time": "13:30:49",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 7.5,
+    "tax": 0.95,
+    "tip": 0.0,
+    "total": 7.5,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Mn H3 Pratu Grelhado",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Menu Passado",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Arroz Thai",
+      "quantity": 1,
+      "unit_price": 0.93,
+      "total_price": 0.93,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Limonada H3",
+      "quantity": 1,
+      "unit_price": 1.17,
+      "total_price": 1.17,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "H3 Grelhado",
+      "quantity": 1,
+      "unit_price": 5.4,
+      "total_price": 5.4,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_204946.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "H3 new hamburgology\nTivoli Forum\n\nLisboa, S.A.\nRua Galvão nº10 Torre 3 P3 301A303\n\nTelefone: 213803113\n\nNo. Contribuinte: 506784363\nRegisto na Cons. Lisboa n.506784363\nCapital Social; 150,000,00 Euros\n\nNIF: 510776914\n\nFatura simplificada FS 120/248238\nData: 2019-11-25 Hora: 13:30:49\nOriginal\n\nQt Artigo IVA Total\n1 Mn H3 Pratu Grelhado 13 e 0.00\n1 Menu Passado 13 e 0.00\n1 Arroz Thai 13 e 0.93\n1 Limonada H3 23 e 1.17\n1 H3 Grelhado 13 e 5.40\n\nTotal e 7.50\n\nBalcao 1 Emp. Flaviana R.\n\nTaxa IVA\nBase e 6.55\n\nIVA e 0.95\nTotal e 7.50\n\nPag. mesa 1\n\nConsultas:\n\nIVA incluido a taxa legal em vigor\n\nGanhou 1 pontos !\nVisite tugaresiste.pt para consultar o seu saldo\n\nActualize já a nova versao da app H3!\n\nIDtrans: 000065824493 IDTerm: 9002327\n\nBP4K-Processado por programa\ncertificado n. 0071/AT\n\nCopyright GrupoPIE, SA"
+  }
+}

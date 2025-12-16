@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "FamilyMart",
+    "address": "16A, Jalan Astaka U8/83, Bukit Jelutong, 40150 Shah Alam, Selangor D.E.",
+    "phone": "",
+    "tax_id": "000468594688",
+    "website": "www.familymart.com.my"
+  },
+  "transaction": {
+    "date": "2018-04-20",
+    "time": "19:15:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 3.49,
+    "tax": 0.21,
+    "tip": 0.0,
+    "total": 3.7,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Spritzer M/Water 1.5l",
+      "quantity": 1,
+      "unit_price": 3.49,
+      "total_price": 3.7,
+      "category": "Beverage",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 6.3
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006502529.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Welcome to the Family\nFamilyMart\nMaxincone Resources Sdn Bhd (383322-D)\n16A, Jalan Astaka U8/83, Bukit Jelutong\n40150 Shah Alam, Selangor D.E.\nGST ID: 000468594688\n#0020 The Sunnit USJ\nTax Invoice\n20/04/2018 19:15 #1000000163\nPOS: 02\nStaff: ZUHAIRAWATI\nDesc Ant(RM)\nSpritzer M/Water 1.5l ea 3.70 S\nTOTAL 3.70\nCash -10.00\nCHANGE 6.30\n# ITEMS SOLD 1\nTax Code Ant(RM) GST(RM)\nS 6% 3.49 0.21\nTHANK YOU & PLEASE COME AGAIN\n***\nBE A PART OF OUR FAMILY TODAY!\nFACEBOOK: FamilyMartMY\nwww.familymart.com.my"
+  }
+}

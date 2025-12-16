@@ -1,0 +1,127 @@
+{
+  "merchant": {
+    "name": "Via Mar Restaurant",
+    "address": "4105 Maine Ave, Baldwin Park, CA 91706",
+    "phone": "(626) 939-9019",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-09-06",
+    "time": "",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 68.89,
+    "tax": 6.35,
+    "tip": 0.0,
+    "total": 73.24,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TAP BEER 10-HH",
+      "quantity": 6,
+      "unit_price": 9.54,
+      "total_price": 9.54,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Modelo Tap",
+      "quantity": 1,
+      "unit_price": 5.5,
+      "total_price": 5.5,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Manzanita Sol",
+      "quantity": 1,
+      "unit_price": 2.75,
+      "total_price": 2.75,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Tamarindo",
+      "quantity": 1,
+      "unit_price": 2.75,
+      "total_price": 2.75,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sprite",
+      "quantity": 1,
+      "unit_price": 2.75,
+      "total_price": 2.75,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Thur. 2 Cock Shrimp",
+      "quantity": 1,
+      "unit_price": 11.95,
+      "total_price": 11.95,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Whole Fish Tilapia Whl",
+      "quantity": 2,
+      "unit_price": 21.9,
+      "total_price": 21.9,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "2 tcs Governador",
+      "quantity": 1,
+      "unit_price": 7.75,
+      "total_price": 7.75,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "French Fries",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Food",
+      "accounting_category": "Sides",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Taco DE Asada",
+      "quantity": 1,
+      "unit_price": 2.25,
+      "total_price": 2.25,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 10,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1154-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Via Mar Restaurant\n4105 Maine Ave\nBaldwin park, CA 91706\n(626) 939-9019\nServer: Isabel Station: 10\nOrder #: 320502 Dine In\nTable: 16 Guests: 2\n6 TAP BEER 10-HH 9.54\n1 Modelo Tap, 5.50\n1 Manzanita Sol 2.75\n1 Tamarindo 2.75\n1 Sprite 2.75\n1 Thur. 2 Cock Shrimp 11.95\n2 Whole Fish 21.90\nTilapia Whl\nFried\n2 tcs Governador 7.75\nplan ,fries\n1 French Fries 2.50\n1 Taco DE Asada 2.25\nplain ,papas\nSUB TOTAL: 68.89\nTax 1: 6.35\nTax 2: 0.00\nAMOUNT DUE: 73.24\nGratuity:\nTotal:\n9/6/2018\n"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Intermarche Armação Pera",
+    "address": "Sítio do Pocinho, Porches",
+    "phone": "282314466",
+    "tax_id": "508162394",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-06-18",
+    "time": "10:54:00",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 2.85,
+    "tax": 0.63,
+    "tip": 0.0,
+    "total": 3.48,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Rolo de Cozinha Reci",
+      "quantity": 1,
+      "unit_price": 0.82,
+      "total_price": 1.01,
+      "category": "Household",
+      "accounting_category": "Household Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Pap Hig Supersoft 12",
+      "quantity": 1,
+      "unit_price": 2.03,
+      "total_price": 2.48,
+      "category": "Toiletries",
+      "accounting_category": "Personal Care",
+      "category_confidence": 0.88
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_162400.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Intermarche Armação Pera\nSítio do Pocinho, Porches\nTel: 282314466\nNIF: 508162394\nData: 18/06/2019 Hora: 10:54\nArtigo\nRolo de Cozinha Reci\nPap Hig Supersoft 12\nTotal\nIVA\nMultibanco\n3.48"
+  }
+}

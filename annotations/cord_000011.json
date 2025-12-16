@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 214500.0,
+    "tax": 24737.0,
+    "tip": 0.0,
+    "total": 260107.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Ayam Bakar",
+      "quantity": 2,
+      "unit_price": 55000.0,
+      "total_price": 110000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Nasi Putih",
+      "quantity": 2,
+      "unit_price": 20000.0,
+      "total_price": 40000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Nila Bakar/Goreng",
+      "quantity": 1,
+      "unit_price": 27500.0,
+      "total_price": 27500.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sop Gurame",
+      "quantity": 1,
+      "unit_price": 87000.0,
+      "total_price": 87000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Teh Poci",
+      "quantity": 1,
+      "unit_price": 25000.0,
+      "total_price": 25000.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000011.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "2 Ayam Bakar 55000\n2 Nasi Putih 20000\n1 Nila Bakar/Goreng 27500\n1 Sop Gurame 87000\n1 Teh Poci 25000\nSUBTOTAL 214500\nService 12970\nPajak Restoran 24737\nTOTAL 260107"
+  }
+}

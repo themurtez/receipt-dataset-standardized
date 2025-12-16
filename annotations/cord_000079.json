@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Puyo Silky Desserts",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Puyo Card",
+    "subtotal": 25000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 25000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Silky Green Tea",
+      "quantity": 1,
+      "unit_price": 12500.0,
+      "total_price": 12500.0,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Silky Hazelnut",
+      "quantity": 1,
+      "unit_price": 12500.0,
+      "total_price": 12500.0,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000079.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SILKY DESSERTS\nPUYO\nEST. 2013\nSilky Green Tea      1x    12,500    12,500\nSilky Hazelnut       1x    12,500    12,500\nSub Total                   25,000\nGRAND TOTAL                25,000\nBALANCE PUYO CARD 6319    25,000\nRECEIVED\nCHANGE                        0"
+  }
+}

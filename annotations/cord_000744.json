@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 98178.0,
+    "tax": 9817.8,
+    "tip": 0.0,
+    "total": 108000.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "FL Cake - French Vanilla SLC",
+      "quantity": 2,
+      "unit_price": 30909.0,
+      "total_price": 61818.0,
+      "category": "Bakery",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Red Velvet S",
+      "quantity": 1,
+      "unit_price": 36360.0,
+      "total_price": 36360.0,
+      "category": "Bakery",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 4.2,
+    "change_due": 2000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000744.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "2 FL Cake - French 61,818\nVanilla SLC\n1 Red Velvet S 36,360\nTotal Menu 3\nSUBTOTAL 98,178\nDISKON 0\nBIAYA TAMBAHAN 0\nPAJAK PPN 10 % 9,817.8\nPAJAK 0 % 0\nBIAYA CC 0\nPEMBULATAN 4.2\nTOTAL 108,000\nTUNAI 110,000\nNON TUNAI 0\nKEMBALI 2,000"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Pastelaria MouraPão II",
+    "address": "Manuel Odília & Paulo Barbosa, Lda, Av. da Marina Loja 5, 8125-468",
+    "phone": "289301396",
+    "tax_id": "509875645",
+    "website": "mourapao@clix.pt"
+  },
+  "transaction": {
+    "date": "2019-02-20",
+    "time": "09:44:05",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 7.2,
+    "tax": 1.2,
+    "tip": 0.0,
+    "total": 8.4,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "trança creme",
+      "quantity": 1,
+      "unit_price": 1.6,
+      "total_price": 1.6,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Cafe",
+      "quantity": 2,
+      "unit_price": 0.8,
+      "total_price": 1.6,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Nectar pessego",
+      "quantity": 1,
+      "unit_price": 1.65,
+      "total_price": 1.65,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Cereais queijo",
+      "quantity": 1,
+      "unit_price": 1.9,
+      "total_price": 1.9,
+      "category": "Cereal",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Nectar pera",
+      "quantity": 1,
+      "unit_price": 1.65,
+      "total_price": 1.65,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_194346.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Pastelaria MouraPão II\nManuel Odília & Paulo Barbosa, Lda\nAv. da Marina Loja 5 8125-468\nTel. 289301396\nN. Contrib. 509875645\nRegisto na Cons. Loulé n.509875645\nCapital Social 6000 Euros\nmourapao@clix.pt\n\nNome fiklehome algarve lda\nN.C. 514407395\n\nFatura-Recibo FT 014/6772\nOriginal\n2019-02-20 09:44:05\n\nQt Artigo IV Total\n1 trança creme 13 1.60\n2 Cafe 13 1.60\n1 Nectar pessego 23 1.65\n1 Cereais queijo 13 1.90\n1 Nectar pera 23 1.65\nTotal 8.40\n\nTaxa Base IVA Total\n13.00 4.52 0.58 5.10\n23.00 2.68 0.62 3.30\nTotal 7.20 1.20 8.40\n\nEmp 2\nIVA incluido\n\nConsultas:\nObrigado e volte sempre\n\nRLLC-Processado por programa\ncertificado n. 0071/AT\n\nCopyright GrupoPIE, SA"
+  }
+}

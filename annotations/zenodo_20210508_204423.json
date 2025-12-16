@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Petrofast II, LDA",
+    "address": "AV. DA INDIA, 1400-207 LISBOA",
+    "phone": "217959944",
+    "tax_id": "510313946",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-07-23",
+    "time": "16:36:00",
+    "currency": "EUR",
+    "payment_method": "Cartão Bancário",
+    "subtotal": 25.01,
+    "tax": 4.68,
+    "tip": 0.0,
+    "total": 25.01,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Gasoleo Simples",
+      "quantity": 1,
+      "unit_price": 25.01,
+      "total_price": 25.01,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_204423.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "galp\nPETROFAST II, LDA 11899\nAV. DA INDIA\n1400-207 LISBOA\nTEL: 217959944\nNIF: 510313946\nDate: 23/07/2018 16:36\nUPT Nr: 1 Turno: 447\nRef.: 03334\nBomba: 1\nGASOLEO SIMPLES\n17.69 L 1.414 EUR/L EUR 25.01\nTotal: EUR 25.01\nCartão Bancário\nIVA 23.00% EUR 4.68\nPETROFAST II POSTOS\nAV. DA INDIA (POS 11899)\n1400-207 LISBOA\nIdent. TPA: 00976520\n23/07/2018 16:36:56\nPer 055\nBANCO BPI\n/M. ORA\nCARTAO: ****/9010/93\n501649F20\nMULTIBANCO\nAUTORIZAC10 E COMPRA\nAUT:137903\nPROCESSADO POR SIBS\nDados do cliente\nNIF: 510776914\nMATRICULA: 64.10.15\nPortugal\nAoac - Processado por Programa\nCertificado n.o 1398/AT\nOBRIGADO\nBOA VIAGEM"
+  }
+}

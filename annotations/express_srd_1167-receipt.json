@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Casa Rubio Cafe",
+    "address": "25-17 Astoria Blvd, Astoria, NY 11102",
+    "phone": "(929) 328-0030",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-21",
+    "time": "18:58:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 31.0,
+    "tax": 2.75,
+    "tip": 0.0,
+    "total": 33.75,
+    "accounting_category": "Dining",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Grilled Skirt Steak",
+      "quantity": 1,
+      "unit_price": 28.0,
+      "total_price": 28.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Fountain Sodas",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1167-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Casa Rubio Cafe\n25-17 Astoria Blvd\nAstoria, NY 11102\n(929) 328-0030\nMay 21, 2019 6:58 PM\nTicket: T1\nFOR HERE\nGrilled Skirt Steak  $28.00\nwell done\nFountain Sodas $3.00\nSubtotal $31.00\nSale Tax $2.75\nTotal $33.75"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (M) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000306020352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-05-22",
+    "time": "12:18:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 21.5,
+    "tax": 1.22,
+    "tip": 0.0,
+    "total": 21.5,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Tissue Box ZXD-19",
+      "quantity": 1,
+      "unit_price": 12.5,
+      "total_price": 12.5,
+      "category": "Household Goods",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Fruit Plate 9'VS",
+      "quantity": 2,
+      "unit_price": 4.5,
+      "total_price": 9.0,
+      "category": "Kitchenware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 30.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006620190.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. D.I.Y. (M) SDN BHD\nCo-REG:860671-D\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000306020352)\n(MUTIARA KOMPLEKS)\n-TAX INVOICE-\nTISSUE BOX ZXD-19 *$S\nJD22 - 64\n6943612200243 1 X 12.50 12.50\nFRUIT PLATE 9'*VS *$S\nLA31/2-41 - 6/48\n8800796 2 X 4.50 9.00\nItem(s) : 2 Qty(s) : 3\n------------------------------------\nTOTAL INCL. GST@6% RM 21.50\nCASH RM 51.50\nCHANGE RM 30.00\nGST @6% included in total RM 1.22\n22-05-16 12:18 SH01 ZJ19 T2 R000170536\nOPERATOR MTRC - THARU VIJAY\n------------------------------------\nEXCHANGE ARE ALLOWED WITHIN\n3 DAY WITH RECEIPT,\nSTRICTLY NO CASH REFUND."
+  }
+}

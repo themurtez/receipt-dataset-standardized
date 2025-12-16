@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Casa Bernardino",
+    "address": "Rua 5 de Outubro, 28 B\n2655 - 255 Ericeira",
+    "phone": "261 863 522",
+    "tax_id": "104 110 015",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-07-27",
+    "time": "13:07:39",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 39.02,
+    "tax": 8.98,
+    "tip": 0.0,
+    "total": 48.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "vassoura",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Cleaning Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "PA (item)",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Miscellaneous",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.75
+    },
+    {
+      "name": "piaçaba",
+      "quantity": 2,
+      "unit_price": 3.0,
+      "total_price": 6.0,
+      "category": "Cleaning Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "telefone",
+      "quantity": 1,
+      "unit_price": 10.0,
+      "total_price": 10.0,
+      "category": "Electronics",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chave Pontos",
+      "quantity": 1,
+      "unit_price": 10.0,
+      "total_price": 10.0,
+      "category": "Hardware",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Chave universal",
+      "quantity": 12,
+      "unit_price": 1.5,
+      "total_price": 18.0,
+      "category": "Hardware",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 18,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_153010.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CASA\nBERNARDINO\nMaria Manuela Fernandes Campos\nNIF: 104 110 015\nRua 5 de Outubro, 28 B\n2655 - 255 Ericeira\nTel: 261 863 522\nTalão indispensável para trocas no\nprazo de 15 dias\nFatura-recibo\nOriginal\nNº FR PA/152\nData: 2018-07-27 Hora: 13:07:39\nNome: Flikehome\nMorada\nLisboa\nContribuinte: 510776914 Matricula: 00-00-00\nDESIGNAÇÃO DESC. IVA VALOR\nvassoura\n1\n3,00 € 23% 3,00 €\npa\n1\n1,00 € 23% 1,00 €\npiaçaba\n2\n3,00 € 23% 6,00 €\ntelefone\n1\n10,00 € 23% 10,00 €\nCHAVE PONTOS\n1\n10,00 € 23% 10,00 €\nChave universal\n12\n1,50 € 23% 18,00 €\nTotal 48,00 €\nMercadoria IVA Valor IVA\n39,02 € 23% 8,98 €\nObrigado Volte Sempre\nAl/h-e Processado por programa\ncertificado nº 1318/AT"
+  }
+}

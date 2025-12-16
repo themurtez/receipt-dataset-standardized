@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "PINGO DOCE SA",
+    "address": "FRANCISCO METRASS 1350-144 LISBOA",
+    "phone": "",
+    "tax_id": "510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-31",
+    "time": "09:10:36",
+    "currency": "EUR",
+    "payment_method": "VISA ELECTRON",
+    "subtotal": 10.08,
+    "tax": 0.49,
+    "tip": 0.0,
+    "total": 7.83,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "GRANO FINE AVEI MEL",
+      "quantity": 1,
+      "unit_price": 3.39,
+      "total_price": 3.39,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PAPO SECO 60 G",
+      "quantity": 6,
+      "unit_price": 0.13,
+      "total_price": 0.78,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MORANGO EMB 500G",
+      "quantity": 1,
+      "unit_price": 1.99,
+      "total_price": 1.99,
+      "category": "Fruits and Vegetables",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "P LEITE L P MAGRO VIGOR 1LT",
+      "quantity": 1,
+      "unit_price": 0.79,
+      "total_price": 0.79,
+      "category": "Dairy",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MIMOS DE C/CH4X200ML",
+      "quantity": 1,
+      "unit_price": 1.62,
+      "total_price": 1.62,
+      "category": "Dairy",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "GREGO O2MAR 4X125G",
+      "quantity": 1,
+      "unit_price": 1.69,
+      "total_price": 1.69,
+      "category": "Dairy",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_194635.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Artigos\nMERCEARIA = PET FOOD\nC %x GRAN0 FINE AVET MEL 3 , 39\nPouparna Imediata (-1 ,40)\nPastelaria/PASTELARIA\nc %x PAPO SECO 60 G\n6.000 X 0.13 0.78\nFRUTAS E VEGETAIS\nc e% MORANGO EMB 500G 1.99\nPoupanca Imediata ( -0 .70)\nLEITE\nc 6% L P MAGRO VIGOR l LT 0.79\nc %x MIMOS DE CH4X200ML 1 .62\nPRODUTOS LACTEOS\nc fc Y GREGO 02MAR 4X125G 1 .69\nTOTAL Resumo 10,08\nTOTAL POUPANCA (2,25)\nTOTAL A PAGAR 7.83\nTOTAL PAGO Pagamentos 7.83\nMultibanco Visa/ Electron\nResumo IVA\nTaxa Valor s/IVA Valor IVA Valor c/IVA\nE 6% 5.51 0.33 5.84\nE 23% 1.62 0 .37 1.99\nnesta compra POUPQU\n2,25 <e>\nAtendido por: Liliana Filipe\n013165 2019 -03-31 T- 0103 0106 0042 013126\nFatura Simplificada FS 04420651206752/0010986\nN° Via Original Data de emissão:31 -03-2019\nContribuinte: 510776914\nPINGO DOCE SA\nFRANCISCO METRASS\n1350-144 LISBOA\nPagamento Automático: 01039166\n2019-03-31 09:10:36 Per003 Tr013 Msg343\nMILLENNIUM BCP\nRODRIGUES/CARLOS\nCARTAO: ****8665/98\n0000000020010 VISA ELECTRON\n7,83€ VELC PP N\nID N° ESTRA:00007786AUT:866517\nREDUNCIANTE: CLIENTE\nINOVACAO E CONFIANCA\nCOPIA CLIENTE\nPROCESSADO POR SIBS\nFatura despesdária por troca em 15 dias\n(Artigos Têxtil* eo Calçado prazo 30 dias)\nNão se trocam medicamentos e artigos assinalados\nApoio ao Cliente\n808 20 45 2 / 210 11 44 11 (24 horas)"
+  }
+}

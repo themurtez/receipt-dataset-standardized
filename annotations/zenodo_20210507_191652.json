@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "FEELSLIKEHOME. LDA",
+    "address": "LISBOA",
+    "phone": "218876556",
+    "tax_id": "510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "Dinheiro",
+    "subtotal": 10.0,
+    "tax": 2.3,
+    "tip": 0.0,
+    "total": 12.3,
+    "accounting_category": "Services",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SERVIÇOS PRESTADOS",
+      "quantity": 2,
+      "unit_price": 6.15,
+      "total_price": 12.3,
+      "category": "Services",
+      "accounting_category": "Services",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_191652.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TEL.218876556\nNIF:164579869\nORIGINAL\nCliente : 91 NIF:510776914\nFEELSLIKEHOME. LDA\nLISBOA\nLISBOA\nLISBOA\nSERVIÇOS PRESTADOS\n2.000 X 6,15 12.30\nSUB-TOTAL 12.30\nDinheiro\nTOTAL 12.30\nTaxa Incidencias Iva Valor Iva\n1 - 23.00% 10.00 2.30\nOBRIGADO PELA VISITA\nN.registos : 1 N.artigos : 2.000\nOperador : BAVA\nProc. p/prog. certificado 0560/AT jNqz"
+  }
+}

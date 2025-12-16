@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "CASH",
+    "subtotal": 25000.0,
+    "tax": 2500.0,
+    "tip": 0.0,
+    "total": 27500.0,
+    "accounting_category": "Beverages",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Roasted Milk Tea",
+      "quantity": 1,
+      "unit_price": 21000.0,
+      "total_price": 21000.0,
+      "category": "Beverages",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Big Bubble",
+      "quantity": 1,
+      "unit_price": 4000.0,
+      "total_price": 4000.0,
+      "category": "Add-ons",
+      "accounting_category": "Add-ons",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 22500.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000730.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Roasted Milk Tea 21.000\n+70% +R\nLess\nBig Bubble 4.000\nSubtotal 25.000\nPajak 2.500\nTotal 27.500\nCASH 50.000\nKembalian 22.500"
+  }
+}

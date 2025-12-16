@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Restoran Wan Sheng",
+    "address": "No.2, Jalan Temenggung 19/9, Seksyen 9, Bandar Mahkota Cheras, 43200 Cheras, Selangor",
+    "phone": "",
+    "tax_id": "001335787520",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-05",
+    "time": "11:25:29",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 18.31,
+    "tax": 1.09,
+    "tip": 0.0,
+    "total": 19.4,
+    "accounting_category": "restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Cham (B)",
+      "quantity": 1,
+      "unit_price": 2.2,
+      "total_price": 2.2,
+      "category": "beverages",
+      "accounting_category": "restaurant",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Dunhill",
+      "quantity": 1,
+      "unit_price": 17.0,
+      "total_price": 17.0,
+      "category": "other",
+      "accounting_category": "miscellaneous",
+      "category_confidence": 0.7
+    },
+    {
+      "name": "Take Away",
+      "quantity": 1,
+      "unit_price": 0.2,
+      "total_price": 0.2,
+      "category": "service",
+      "accounting_category": "restaurant",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008042778.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "RESTORAN WAN SHENG\n002043319-W\nNo.2, Jalan Temenggung 19/9,\nSeksyen 9, Bandar Mahkota Cheras,\n43200 Cheras, Selangor\nGST REG NO: 001335787520\nTax Invoice\nINV No.: 1126479 Cashier: Thandar\nDate : 05-05-2018 11:25:29\n-------------------------------------\nDescription Qty U.price Total TAX\nCham (B) 1 x 2.20 2.20 SR\nDunhill 1 x 17.00 17.00 SR\nTake Away 1 x 0.20 0.20 SR\nTotal QTY: 3\nTotal (Excluding GST): 18.31\nGST payable (6%): 1.09\nTotal (Inclusive of GST): 19.40\nTOTAL : 19.40\nCASH : 19.40\nGST Summary Amount(RM) Tax(RM)\nSR (@ 6%) 18.31 1.09"
+  }
+}

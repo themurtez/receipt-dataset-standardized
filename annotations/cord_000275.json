@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 215000.0,
+    "tax": 23650.0,
+    "tip": 0.0,
+    "total": 260150.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Benedict Burrito",
+      "quantity": 1,
+      "unit_price": 85000.0,
+      "total_price": 85000.0,
+      "category": "Food",
+      "accounting_category": "Dine-In Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lychee Ice Tea",
+      "quantity": 1,
+      "unit_price": 40000.0,
+      "total_price": 40000.0,
+      "category": "Beverage",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Soup Of The Day",
+      "quantity": 1,
+      "unit_price": 45000.0,
+      "total_price": 45000.0,
+      "category": "Food",
+      "accounting_category": "Dine-In Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Strawberry jc",
+      "quantity": 1,
+      "unit_price": 45000.0,
+      "total_price": 45000.0,
+      "category": "Beverage",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000275.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Benedict Burrito 85,000\n1 Lychee Ice Tea 40,000\n1 Soup Of The Day 45,000\n1 Strawberry jc 45,000\nSUBTOTAL 215,000\nSERVICE 21,500\nTAX 23,650\nTOTAL 260,150\nTotal item 4 Total Qty 4"
+  }
+}

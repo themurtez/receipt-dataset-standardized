@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Ferragens G Lemos, Lda",
+    "address": "Rua da Madalena, 101 - 107, 1100-319 Lisboa",
+    "phone": "213863941",
+    "tax_id": "501378723",
+    "website": "geral@viuva.com"
+  },
+  "transaction": {
+    "date": "2019-10-01",
+    "time": "10:36:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 1.87,
+    "tax": 0.43,
+    "tip": 0.0,
+    "total": 2.3,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BRAS 17 LT",
+      "quantity": 1,
+      "unit_price": 1.87,
+      "total_price": 2.3,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_194828.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Ferragens G Lemos, lda\nRua da Madalena, 101 - 107\n1100-319 LISBOA\nContribuinte N. 501378723\nCapital Social 34,916.00 Euros\nTel.: 21 8863941 / Fax.: 218869158\nMail: geral@viuva.com\nNIF:510776914\nNome:Flikehome - Mediacao Imobil\nMorada: AV da Liberdade N 36\nLocalidade:Lisboa\nCod. Postal:1250-145 Lisboa\nFatura\nN:FT POS19V12/1917578  Origina\nData:01-10-2019  HORA:10:36\nDESIGNAÇÃO\nIVA%\nQTD\nVALOR\nBALDE PLAST 0\nBRAS 17 LT\n23\n1.0\n2.30\nTaxa  valor IVA T.Bruto:\n30\n6  %\n0.00\nT.Desc.\n0.00\n23  %\n0.43\nT.Liq.\n1.87\n13  %\n0.00\nT.IVA\n0.43\nA PAGAR....:\n2.30\nNUMERÁRIO\n2.30\nONDU-Processado por programa cer\ntificado n. 175/AT"
+  }
+}

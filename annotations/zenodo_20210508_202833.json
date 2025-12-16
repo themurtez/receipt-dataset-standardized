@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Flikehome LDA",
+    "address": "Rua Saraiva de Carvalho Nr124, 3º Direito, Lisboa",
+    "phone": "220403040",
+    "tax_id": "510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-08-13",
+    "time": "17:36:12",
+    "currency": "EUR",
+    "payment_method": "Dinheiro",
+    "subtotal": 4.06,
+    "tax": 0.93,
+    "tip": 0.0,
+    "total": 4.99,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Cabo Fuzz Rede RJ45 2M Red",
+      "quantity": 1,
+      "unit_price": 4.99,
+      "total_price": 4.99,
+      "category": "Electronics Accessories",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 5.01
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_202833.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Armazem do Populae Electodmesticos S.A.\nCentro C. Campo Pequeno\nTel: 220403040 r. 500674205\nLISBOA\nFATURA\nNr: FS 28000/104677\nNome: FLIKEHOME LDA\nMorada: RUA SARAIVA DE CARVALHO NR124\n3º DIREITO\nLocal.: LISBOA\nCod.P.: 1350 -- LISBOA\nN.I.F.: 510776914\n<Duplicado>\n13/08/2018 17:36:12 TCX: 18027030\nDescrico AST\nQtde. Preco Unit. Total\nIVA %\nCABO FUZZ REDE RJ45 2M RED 280\n1,0 4.99 4.99 23%\n(o/18031511)\nIlia, Mercadoria 4,06€\nIva 23% 0,93€\nTOTAL 4,99€\nDINHEIRO 10,00€\nTROCO DINHEIRO 5.01€\nLocal de Carga: Morada da Loja\nData: 13/08/2018 Hora: 17:36:12\nLocal Descarga: Morada Cliente\nIva Incluido a Taxa Indicado\nNr. Registo EE : PT000142\nTALAO INDISPENSAVEL PARA GARANTIA\nDe acordo com a Lei 144/2015 informa-\nmose que em case de litigious o RAL\ncompete entao Centro de arbitragem\nde Conflitos de Consumo de Lisboa\nwww.centroarbitraemlisboa.pt\n19X-Processado por programa\ncertificado AT. 2090/A/T\nOBRIGADO PELA\nVISITA"
+  }
+}

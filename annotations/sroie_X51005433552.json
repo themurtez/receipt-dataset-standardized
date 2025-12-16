@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Warakuya Permas City Sdn Bhd",
+    "address": "Jalan Permas Utara 1, Permas Jaya 81750 Masai Johor",
+    "phone": "0111-558 0000",
+    "tax_id": "0016 5893 5104",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-10",
+    "time": "05:41:06",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 79.6,
+    "tax": 3.27,
+    "tip": 0.0,
+    "total": 57.8,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Saba Shio Yaki Set",
+      "quantity": 3,
+      "unit_price": 53.7,
+      "total_price": 53.7,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Salmon Shio Set",
+      "quantity": 1,
+      "unit_price": 21.9,
+      "total_price": 21.9,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Iced Green Tea",
+      "quantity": 4,
+      "unit_price": 4.0,
+      "total_price": 16.0,
+      "category": "Beverage",
+      "accounting_category": "Drink",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": -0.03,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005433552.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "WARAKUYA PERMAS CITY SDN BHD\nReg No: 1203194-W\nJALAN PERMAS UTARA 1,\nPERMAS JAYA 81750 MASAI JOHOR\nTel: 0111-558 0000\nGST ID: 0016 5893 5104\nTAX INVOICE NO 42\n58244 PAX NO: 4\nDate: 10/03/2018 5:41:06\nCashier: cashier 3\nWaiter: HAYIN\nQty Code/Desc Total RM\n3 SABA SHIO YAKI SET 53.70\n1 SALMON SHIO SET 21.90\n4 ICED GREEN TEA 4.00\nSUBTOTAL 79.60\nDISCOUNT -30.00\nTotal Amount: 49.60\nServ Charge 10% 4.96\nGST @ 6% 3.27\nRounding Adj: -0.03\nTotal Amount: 57.80\nTOTAL: RM 57.80\nType 3\nGST Summary Amount RM TAX RM\nSR 0% 54.06 3.27\nThank You ! Please Come Again !"
+  }
+}

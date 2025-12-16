@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 243000.0,
+    "tax": 13365.0,
+    "tip": 0.0,
+    "total": 282000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Peach Iced Tea",
+      "quantity": 1,
+      "unit_price": 35000.0,
+      "total_price": 35000.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Mango Mint Iced Tea",
+      "quantity": 1,
+      "unit_price": 35000.0,
+      "total_price": 35000.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Nannys Customer Fries",
+      "quantity": 1,
+      "unit_price": 45000.0,
+      "total_price": 45000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Robert Olio Mushroom Spaghetti",
+      "quantity": 1,
+      "unit_price": 59000.0,
+      "total_price": 59000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Emily's Shrimp Scampi Fettuccine",
+      "quantity": 1,
+      "unit_price": 69000.0,
+      "total_price": 69000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": -2.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000361.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Peach Iced Tea 35.000\n1 Mango Mint Iced Tea 35.000\n1 Nannys Customer Fries 45.000\n1 Robert Olio Mushroom Spaghetti 59.000\n1 Emily's Shrimp Scampi Fettuccine 69.000\n\nSub Total 243.000\nDiscount (0)\nService 13.365\nOthers 25.637\nRounding Off -02\n\nGRAND TOTAL 282.000"
+  }
+}

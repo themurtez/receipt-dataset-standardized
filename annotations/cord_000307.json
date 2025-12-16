@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 10455.0,
+    "tax": 1046.0,
+    "tip": 0.0,
+    "total": 11500.0,
+    "accounting_category": "Food",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Choco Peanut",
+      "quantity": 1,
+      "unit_price": 10455.0,
+      "total_price": 10455.0,
+      "category": "Snack",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 38500.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000307.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Choco Peanut 10,455\nSubTotal: 10,455\nPB1: 1,046\nTotal: 11,500\ncash: 50,000\nChange: 38,500\n"
+  }
+}

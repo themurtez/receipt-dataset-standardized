@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Sanyu Stationery Shop",
+    "address": "No. 31G&33G, Jalan Setia Indah X, U13/X, 40170 Setia Alam",
+    "phone": "+603-3362 4137",
+    "tax_id": "001531760640",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-01",
+    "time": "",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 31.6,
+    "tax": 1.9,
+    "tip": 0.0,
+    "total": 33.5,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Deflect-O 120 x 55mm L Shape Tag Holder",
+      "quantity": 5,
+      "unit_price": 2.2,
+      "total_price": 11.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "7\" Pop Mobile Stand",
+      "quantity": 5,
+      "unit_price": 4.5,
+      "total_price": 22.5,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 10,
+    "rounding": 0.0,
+    "change_due": 16.5
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007339117.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SANYU STATIONERY SHOP\nNO. 31G&33G, JALAN SETIA INDAH X, U13/X,\n40170 SETIA ALAM\nMobile /Whatapps : +6012-918 7937\nTel: +603-3362 4137\nGST ID No: 001531760640\nTAX INVOICE\nOwned By :\nSANYU SUPPLY SDN. BHD (1135772-K)\nCASH SALES COUNTER\n1. 2022-0124 DEFLECT-O 120 x 55MM L\nSHAPE TAG HOLDER\n(LANDSCAPE) (DDKRL-120x55)\n5 X 2.2000 - 11.00 SR\n2. 2020-0231 7\" POP MOBILE STAND (M-\n1755)\n5 X 4.5000 - 22.50 SR\n-----------------------------------\nTotal Sales Inclusive GST @6% 33.50\nDiscount 0.00\nTotal 33.50\nRound Adj 0.00\nFinal Total 33.50\n================\nCASH 50.00\nCHANGE 16.50\n-----------------------------------\nGST Summary Amount(RM) Tax(RM)\nSR @ 6% 31.60 1.90\n-----------------------------------\nINV NO: CS-SA-0121370 Date : 01/11/2017\n-----------------------------------\nGoods sold are not Returnable & Refundable\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN.\nTERIMA KASIH SILA DATANG LAGI\n** PLEASE KEEP THIS RECEIPT FOR PROVE OF\nPURCHASE DATE FOR I.T PRODUCT WARRANTY\nPURPOSE **\n-----------------------------------\nFollow us in Facebook : Sanyu.Stationery"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "GARAGEM AUTO LIS",
+    "address": "Rua da Palma, 273, 1100-391 Lisboa",
+    "phone": "21 886 1363",
+    "tax_id": "510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-11-15",
+    "time": "10:21:02",
+    "currency": "EUR",
+    "payment_method": "NUMERARIO",
+    "subtotal": 9.7,
+    "tax": 1.81,
+    "tip": 0.0,
+    "total": 9.7,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Gasolina SP 95",
+      "quantity": 6.14,
+      "unit_price": 1.285,
+      "total_price": 9.7,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_173306.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GARAGEM AUTO LIS\nRecolha Automoveis da Lis, Lda.\nRua da Palma, 273 1100-391 Lisboa\nTelef: 21 886 1363 Fax: 21 888 1627\nCap.Social 9.975,% Contri: 501 470 492\nDt:15/11/2018 FATURA No:001/1809336\n\nCliente No: 2583 Desc.:%\nContribuinte No: 510776914\nFLIKOHOME\nLISBOA\n\nArtigo/Quant. V.Unit. Iva Valor\nGASOLINA SP 95\n6.14 1.285 23.0 9.70\n31-04-55\n0.00\nINCIDENCIA DE IVA Desc. 0.0\n23.0 7.89/liqr.\nIVA 1.81\nTOTAL 9.70\n\n“Os Produtos/serviços constantes deste\ndoc foram colocados á dispõeição do \nadquirente na data do mesmo”\n\nPRODUTO XENERGIA EMISSOES CO2\nPRIMARIA\nGasolina 100% Energia 2,3 kgCO2e/1\n(auto) Fossil\nGasoleo 95% Energia 2,5 kgCO2e/1\nRodoviario Fossil e\n5% Energia de\nOrigem Renov.\nGPL Butano 100% Energia 3,0 kgCO2e/1\nPropano Fossil\n\nJvbf - Processado por programa certifica\ndo no 621/AT\nPagamento: NUMERARIO\nHora: 10:21:02\nESTE DOCUMENTO ENCONTRA-SE PAGO"
+  }
+}

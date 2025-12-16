@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "IKEA",
+    "address": "EN250, R 28 Setembro, 2660-001 Frielas, Portugal",
+    "phone": "",
+    "tax_id": "505461654",
+    "website": "www.ikea.pt"
+  },
+  "transaction": {
+    "date": "2019-02-14",
+    "time": "18:49:00",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 32.51,
+    "tax": 7.48,
+    "tip": 0.0,
+    "total": 39.99,
+    "accounting_category": "Furniture",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GRUSBAD edr 4 estaç 150x200",
+      "quantity": 1,
+      "unit_price": 39.99,
+      "total_price": 39.99,
+      "category": "Furniture",
+      "accounting_category": "Furniture",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.01
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_140916.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Obrigado por Visitar a IKEA Alfrade!\nIKEA Portugal Moveis e Decoracao Lda\nProdutor REE N° PT001627\nEN250, R 28 Setembro. 2660-001 Frielas\nCapital Social: 50.000.000,00€ - NIPC:\n505461654\nFatura\nDoc.N°: FAC 36701120190214/078\n\nNIF 510776914\nNome Filkehome Mediaçao Imobilliá\nMorada Avenida da Liberdade 36,\n1°B\nPais PT\nCP 1250-145\nCidade Lisboa\n\nCarga em Nossas Instalações\nDala 2019-02-14 18:49:00\n\nLocal de descarga:\nMorada Avenida da Liberdade 36,\n1°B,\nPais PT\nCP 1250-145\nCidade Lisboa\n\nCódigo Postal: 1350\nArt/EAN 20300776 22350\nGRUSBAD edr 4 estaç 150x200\n------------------------------------\n39,99\nTotal 1 39,99\nTotal de artigos 1\nNumerario 40,00 EUR\nTroco Numerario 0,01\nInclui IVA:\nCod. Taxa Liquido IVA\n0 23,00 % de 32,51 7,48\n\nNE4J-Processado por\nPrograma Certificado n° 1999/AT\nData Hora Loja POS Empr Trans\n14.02.19 18:49 367 11 225\nConsulte nosso horário em www.ikea.pt\nA merceadoria foi colocada á disposição\ndo cliente na data da compra, alin. e Art\nN°5, Art°36 CIVA. A IKEA Não atua corno\n25 entidad.e exportadora."
+  }
+}

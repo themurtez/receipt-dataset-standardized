@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 21000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 21000.0,
+    "accounting_category": "Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "S-Lemon Macchiato",
+      "quantity": 1,
+      "unit_price": 21000.0,
+      "total_price": 21000.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000023.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1X S-Lemon Macchiato @21,000 21,000\nLess Ice\n50%\nPB1: 0\nSubtotal: 21,000\nTotal: 21,000\nCash: 21,000\nCHANGE: 0\n"
+  }
+}

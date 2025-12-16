@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Furtado Auto",
+    "address": "Lisboa",
+    "phone": "2109542257",
+    "tax_id": "510776914",
+    "website": "www.botaomil.com"
+  },
+  "transaction": {
+    "date": "2015-12-26",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 25.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 25.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Armario Gorge LCI3E",
+      "quantity": 1,
+      "unit_price": 7.1,
+      "total_price": 7.1,
+      "category": "Furniture",
+      "accounting_category": "Furniture",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chave Pontos Original Tesa 760",
+      "quantity": 1,
+      "unit_price": 17.9,
+      "total_price": 17.9,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_170134.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Furtado Auto\nAmoreiras\nCliente: Senhor (es):\nFilipe Moreira\nLisboa\nNIF: 510776914 N. CLI. FPD 10776914\nCena: LP/13270 Data 2015-26\nOriginais: Faturas\nVendedor: Edyjones Cavanellas\nArt. Descrição Qde. Preço Unit. Valor IVA\n0164 Armario Gorge LCI3E 1.00 7.10 23\n7734 Chave Pontos Original Tesa 760 1.00 17.90 23\nValor total em produtos: 25.00\nValor total em impostos: 0.00\nSubtotal: 25.00\nTotal Desconto: 0.00\nTotal Em Dinheiro: Euros: 25.00\nTotal a Pagar: 25.00\nMemorándum:\nS/NI Processado por programa certificado N: 1627/AT\nEste colocado a disposição do adquirente\npara os devidos fins com seguido com a\nCN °1, 5, 50 de agosto de 2006\nTroca e devocioes aceites com comprovativo\nativo de compra e ate 30 dias da data\nde compra.\nObrigado pela visita - Volte sempre\nTalao indispensavel P/entrega-Reclamacao\nTrocos Prazo 1 Mês\nTel: (210) 954-2257 | www.botaomil.com"
+  }
+}

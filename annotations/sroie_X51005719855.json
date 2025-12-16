@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "ROCKU YAKINIKU",
+    "address": "LOT F355/356/357, FIRST FLOOR, RAINFOREST, 1 UTAMA SHOPPING CENTRE, LEBUH BANDAR UTAMA, 47800 PETALING JAYA",
+    "phone": "",
+    "tax_id": "000446271488",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-02-19",
+    "time": "17:43:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 155.7,
+    "tax": 10.28,
+    "tip": 0.0,
+    "total": 181.55,
+    "accounting_category": "Dining",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "GREEN TEA",
+      "quantity": 2,
+      "unit_price": 3.0,
+      "total_price": 6.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "BUFFET DINNER (ADULT)",
+      "quantity": 3,
+      "unit_price": 49.9,
+      "total_price": 149.7,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 20.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005719855.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROCKU YAKINIKU\nCPI ROCKU SDN. BHD. (1096317-P)\nGST NO.: 000446271488\nLOT F355/356/357, FIRST FLOOR,\nRAINFOREST, 1 UTAMA SHOPPING CENTRE,\nLEBUH BANDAR UTAMA,\n47800 PETALING JAYA\n\n19/02/2018 17:43 T001 A063975\nCsh: CASHIER Svr: BISWASH(ip\nTable: A9 Pax: 3\nBILL: 063975\nGREEN TEA\n1 3.00 3.00 T\nGREEN TEA\n1 3.00\nBUFFET DINNER (ADULT)\n3 49.90\nSUBTTL 149.70 T\n155.70\n10% SVC CHG 15.57\n6% GST 10.28\nTOTAL 181.55\nCASH 201.55\nCHANGE 20.00\nGST Summary\nT:6% GST Amount Tax\n171.27 10.28\n\nZ:Zero Rated 0.00 0.00\nSignature: _______________\nThank you. Please come again\nBill Close: 19:08:04"
+  }
+}

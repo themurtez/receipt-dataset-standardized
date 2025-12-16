@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Erilar",
+    "address": "Fórum São Sebastião, Loja A, 2656-210 Ericeira",
+    "phone": "261869637",
+    "tax_id": "124713491",
+    "website": "tien21.pt"
+  },
+  "transaction": {
+    "date": "2018-12-06",
+    "time": "18:06:36",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 59.0,
+    "tax": 11.03,
+    "tip": 0.0,
+    "total": 59.0,
+    "accounting_category": "Electronics",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CALORÍFICO OLEO ORBEGOZO 2000W RF2000",
+      "quantity": 1,
+      "unit_price": 59.0,
+      "total_price": 59.0,
+      "category": "Electronics",
+      "accounting_category": "Electronics",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_183626.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ERILAR\nDe Maria Rosário Alves Almeida Pimenta\nFórum São Sebastião, Loja A\n2656-210 Ericeira\nNIF: 124713491\nTel: 261869637 / Email erilar@tien21.pt\nFatura Recibo N.º FR 1/1072\nORIGINAL\nNome: FLIKEHOME\nContribuinte 510776914\nMorada:\nData: 2018-12-06 HORA: 18:06:36\nQnt Produto Unit SubT Tx\n1 CALORÍFICO OLEO 59,00 59,00 23\nORBEGOZO 2000W\nRF2000\nTOTAL: 59,00 €\nModos de Pagamento\nMoeda Total\nNumerário EUR 59,00\nResumo de Impostos\nTx Total Imposto Incidencia\n23,00 11,03 47.97\nDados de Carga\n2018-12-06 18 21:36\nFórum São Sebastião, Loja A 2656-210 Ericeira PT\nDados de Descarga\nV/ MORADA\nN.º de itens: 0\nSaído 0.00 €\n\nEgFL-Processado por programa certificado\nXD Gestão Comercial N 2123/AT\nUtilizador: Utilizador\nInformações em www.infotantunes.com\n* Obrigado e volte sempre! *"
+  }
+}

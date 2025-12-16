@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Starbucks",
+    "address": "Unknown",
+    "phone": "Unknown",
+    "tax_id": "Unknown",
+    "website": "Unknown"
+  },
+  "transaction": {
+    "date": "2017-12-02",
+    "time": "Unknown",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 14000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 14000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CRISPY CHOCO",
+      "quantity": 1,
+      "unit_price": 14000.0,
+      "total_price": 14000.0,
+      "category": "Snack",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 6000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000025.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "STARBUCKS\nTOWER STREET MALL\nTAX INVOICE\n\nDATE: 12-02-2017\n\nCRISPY CHOCO 14,000\nTL 14,000\nCASH 20,000\nCG 6,000\n\nThank You For Coming\nCUSTOMER CARE SERVICE\nemail.customer@starbucks.com\n"
+  }
+}

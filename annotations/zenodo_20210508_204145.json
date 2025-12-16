@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "PROPEL, Productos de Petroleo, Lda.",
+    "address": "A1, KM 125,7 - SUBLANCO FATIMA/LEIRIA 2420 CARDOSOS",
+    "phone": "",
+    "tax_id": "500223840",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-19",
+    "time": "13:22:56",
+    "currency": "EUR",
+    "payment_method": "TARJETA",
+    "subtotal": 47.0,
+    "tax": 10.81,
+    "tip": 0.0,
+    "total": 57.81,
+    "accounting_category": "fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GASOLEO",
+      "quantity": 39.35,
+      "unit_price": 1.469,
+      "total_price": 57.81,
+      "category": "fuel",
+      "accounting_category": "fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_204145.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PROPEL, Productos de Petroleo, Lda.\nCapital Social 224.459,05 Euros\nC.R.C de Lisboa Sob 500223840\n63136 A5 A1 LEIRIA (LIS/LRA)\nN.CONTRIB: 500 223 840\nA1, KM 125,7 - SUBLANCO FATIMA/LEIRIA\n2420 CARDOSOS\nUnida. Codigo Artigo Preço Valor\n39.35 041386 05 GASOLEO 1.469 57.81\nTOTAL: EUR 57.81\nIVA 23.0% Base: 47.00 Imposto: 10.81\nTOTAL A PAGAR: EUR 57.81\nTARJETA EUR 57.81\nCaixa... 714045\nRecibo...0.1.0.165 19/05/2018 13:22:56\nRef... 0548000168 TSQ...... 0000004746\nNOME: O 1\nNIF: 510776914\nMATRICULA: 69-UE53\nMORADA:\nDATA: 19/05/2018 13:22:56\nFATURA NR:\nFT 63136100002018/000000905\neLTY - Processado por Programa\nCertificado Nº: 1299/AT\nMUITO OBRIGADO"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Pizza Hut",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 149091.0,
+    "tax": 14909.0,
+    "tip": 0.0,
+    "total": 164000.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PAKET BER4 UP2",
+      "quantity": 1,
+      "unit_price": 149091.0,
+      "total_price": 149091.0,
+      "category": "Meal",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000708.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PIZZA HUT\n\n1 PAKET BER4 UP2 149,091\n1 BREAD N CHEESE DEL\n1 MAYO BEEF BRUSCTA DEL\n1 MAC N CHEEESE DEL\n1 BOLOGNAISE FUSILI DEL\n1 MANGO TEA HANGAT DEL\n1 LIME JUICE DEL\n1 SC/P SPICY TUNA DEL\n1 SC/F THOUSAND ISL DEL\n1 SUNRISE ITALIAN SODA\n1 GREEN ITALIAN SODA\n\nSUBTOTAL 149,091\nTAX 14,909\n\nTOTAL 164,000"
+  }
+}

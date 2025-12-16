@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "CTT - Correios de Portugal, SA",
+    "address": "Av. D. Joao II, n. 13\n1999-001 LISBOA",
+    "phone": "",
+    "tax_id": "510769114",
+    "website": "www.ctt.pt"
+  },
+  "transaction": {
+    "date": "2019-03-04",
+    "time": "14:36:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 5.0,
+    "tax": 0.16,
+    "tip": 0.0,
+    "total": 5.16,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SAQUETAS ALMOFADADAS S",
+      "quantity": 1,
+      "unit_price": 0.7,
+      "total_price": 0.7,
+      "category": "Packaging",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Desconhecido",
+      "quantity": 1,
+      "unit_price": 4.3,
+      "total_price": 4.3,
+      "category": "Uncategorized",
+      "accounting_category": "Miscellaneous",
+      "category_confidence": 0.7
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_153616.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CTT - Correios de Portugal, SA\nAberta\nAv. D. Joao II, n. 13\n1999-001 LISBOA\nN.U.C.P.M. 500077568\nCap.Social 75,000,000.00 EUR\nLoja CTT RESTAURADORES-L 881074\nFatura/Recibo N.\nFR CTT2019FR881074701/12.35\nData de Emissao\n2019-03-04 14:36\nNome: FLTRE HOME LDA\nMorada:\nCod Postal:\nNIF: 510769114\nQTD DESIGNACAO IVA QUANTIA\n1 Reg. int 1) 4,30\nRH3:66058169PT\n1 SAQUETAS ALMOFADADAS S 23% 0,70\nTotal s/IVA: 5,00 Eur\nTotal Desconto s/IVA: 0,00 Eur\nTotal IVA: 0,16 Eur\nTotal: 5,16 Eur\nCinco Euros e Dezasseis Centimos\nTaxa Valor s/IVA Valor IVA Valor Total\n0% 4,30 0,00 4,30\n23% 0,70 0,16 0,85\n1) Isento - Art. 9 No. 23/24 do CIVA\nValor liquidado na data de emissao\nBens ou servicos disponibilizados ao\nadquirente na data de emissao deste documento\nInforme-se sobre as condicoes\nespecificas de troca, devolucao e\nassistencia tecnica em www.ctt.pt.\nAjuda.\n13-Processado por programa certificado\nn. 1830/AT"
+  }
+}

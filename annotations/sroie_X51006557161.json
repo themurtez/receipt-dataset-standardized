@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Gardenia Bakeries (KL) Sdn Bhd",
+    "address": "Lot 3, Jalan Pelabur 23/1, 40300 Shah Alam, Selangor",
+    "phone": "03-55423228",
+    "tax_id": "000381399040",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-10-24",
+    "time": "12:17:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 41.01,
+    "tax": 0.86,
+    "tip": 0.0,
+    "total": 41.87,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "O.C. WHITE",
+      "quantity": 3,
+      "unit_price": 2.13,
+      "total_price": 6.39,
+      "category": "Bread",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "WHOLEMEAL",
+      "quantity": 3,
+      "unit_price": 2.78,
+      "total_price": 8.34,
+      "category": "Bread",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "O.C JUMBO",
+      "quantity": 4,
+      "unit_price": 2.97,
+      "total_price": 11.88,
+      "category": "Bread",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CR-VANILLA",
+      "quantity": 20,
+      "unit_price": 0.72,
+      "total_price": 14.4,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 30,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006557161.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GARDENIA BAKERIES (KL) SDN BHD (139386 X) Lot 3, Jalan Pelabur 23/1, 40300 Shah Alam, Selangor. Tel: 03-55423228 Fax:03-55423213 GST ID: 000381399040 TAX INVOICE / ADJUSTMENT NOTE Cash Inv No.: 7024F713 Date: 24/10/2017"
+  }
+}

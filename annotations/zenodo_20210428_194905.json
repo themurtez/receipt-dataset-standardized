@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "Francisco Metrass 1350-144 Lisboa",
+    "phone": "213226860",
+    "tax_id": "500892933",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-26",
+    "time": "18:14:00",
+    "currency": "EUR",
+    "payment_method": "Visa Electron",
+    "subtotal": 7.3,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 6.34,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Bol Waf PD Baun 250G",
+      "quantity": 1,
+      "unit_price": 0.85,
+      "total_price": 0.85,
+      "category": "Snacks",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Barr Nutmix PD 150G",
+      "quantity": 1,
+      "unit_price": 0.79,
+      "total_price": 0.79,
+      "category": "Snacks",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Arroz PD AG Europaik",
+      "quantity": 1,
+      "unit_price": 0.79,
+      "total_price": 0.79,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Morango Emb 500G",
+      "quantity": 1,
+      "unit_price": 1.95,
+      "total_price": 1.95,
+      "category": "Fruits",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Limao C",
+      "quantity": 1,
+      "unit_price": 1.21,
+      "total_price": 1.21,
+      "category": "Fruits",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Leite L UHT M/G Pocoe 1L",
+      "quantity": 1,
+      "unit_price": 0.51,
+      "total_price": 0.51,
+      "category": "Dairy",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.96
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_194905.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MERCARIA + PET FOOD\nE 23% BOL WAF PD BAUN 250G 0.85\nE 23% BARR NUTMIX PD 150G 0.79\nC 6% ARROZ PD AG EUROPAIK 0.79\nFRUTAS E VEGETAIS\nC 6% MORANGO EMB 500G 1.95\nPoupanca Imediata\nC 6% LIMAO C 1/4 1.21\nLEITE\nC 6% L UHT M/G PODOE 1L 0.51\nTOTAL\nTOTAL POUPANCA\nTOTAL A PAGAR 6.34\n"
+  }
+}

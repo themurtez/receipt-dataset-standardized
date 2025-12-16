@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "BAZARSHOPPING",
+    "address": "ALAMEDA SANTO ANTONIO DOS CAPUCHOS 2A, 1150-220 QUINTA DE SAO PEDRO, LISBOA",
+    "phone": "",
+    "tax_id": "259645675",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-10-09",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 5.89,
+    "tax": 1.36,
+    "tip": 0.0,
+    "total": 7.25,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BALDES DE PLASTICO",
+      "quantity": 1,
+      "unit_price": 6.5,
+      "total_price": 6.5,
+      "category": "Household",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "COS DO LIXO",
+      "quantity": 1,
+      "unit_price": 0.75,
+      "total_price": 0.75,
+      "category": "Household",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 2.75
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_171632.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BAZARSHOPPING\nContribuinte Nr: 259645675\nALAMEDA SANTO ANTONIO DOS CAPUCHOS 2A\n1150-220 QUINTA DE SAO PEDRO, LISBOA\nTel:\n2019-10-09\nNome: FLIKEHOME\nCont. Nr: 510776914\nMorada :\nORIGINAL\nFatura Nr: FAC 101/00032068\nIVA Descricao Total\n23% BALDES DE PLASTICO\n1 X 6.50 6.50\n23% COS DO LIXO 0.75\n1 X 0.75\nTotal A Pagar Euros: 7.25\nNumero De Artigos : 2\nRecibido (Euros) : 10.00\nTroco (Euros) : 2.75\nIVA% Base IVA Total\n23% 5.89 1.36 7.25\nTotal: 7.25Euros\nTalao indispensavel para troca em 15 dias. Nao s\ne troca bijutarias, meias, lingerie, cosméticos\n. Articos de cerimonia. VOLTAR SEMPRE\nduZN - Processado por Programa\nOBRIGADO E VOLTE SEMPRE\nCertificado Nr: 1174/AT"
+  }
+}

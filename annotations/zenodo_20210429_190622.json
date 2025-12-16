@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "MINIPRECO",
+    "address": "1200-086 LISBOA",
+    "phone": "",
+    "tax_id": "PT51076914",
+    "website": "www.minipreco.pt"
+  },
+  "transaction": {
+    "date": "2019-09-02",
+    "time": "08:58:00",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 1.59,
+    "tax": 0.1,
+    "tip": 0.0,
+    "total": 1.69,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "MORANGO EMBALADO",
+      "quantity": 1,
+      "unit_price": 1.69,
+      "total_price": 1.69,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_190622.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "DIA Portugal - Sup. Soc. Unip., Lda\nOita Fonte Edf Alvares Cabral\n0270-190 Paco Arcos\nC.R.C. /Num. Contrib.: PT503038008\nCapital Social Empresa: 51.802.855,12\nNome Cliente:\nFLIKHOME\nDireção Cliente:\nNUM. Contribuinte: 51076914\nLocalidade:\nCód. Post: \nFatura/Recibo\nFT 021140320191002/00008391\nCaixa: 3 Data: 2019-09-02 Hora: 08:58\nCódigo de Operario: 53040\nCódigo Descrição Quantidade Total\nIVA PVP/Unit\n33404 MORANGO EMBALADO 1 1.69\n6.00% 1.69 1 0.00 1.69\nTotal a Pagar Euros 1.69\nMULTIBANCO 1.69\nTroco 0.00\nTipo IVA Base IVA Total\n01 6.00% 1.59 0.10 1.69\nTotal 1.59 0.10 1.69\nLocal Carga:\nLg do Calhariz 10\n1200-086 Lisboa\nData: 2019-09-02 Hora: 08:58\nLocal Descarga: Morada do Cliente\nNilG-Processado por prog.cert. n°1752/AT\nwww.minipreco.pt\nSIRPEEE PT000245\nMINIPRECO\n1200-086 Lisboa\nTerminal Pagamento Automático: 00038123\n2019-09-02 08:51:20 Per078 Tr006 Msg370\nMillennium BCP\nPrime Suites/Bica\nCartão: *****7764/34\n501649FF20 Multibanco\nCompra 1.69€ MB\nAut: 119765"
+  }
+}

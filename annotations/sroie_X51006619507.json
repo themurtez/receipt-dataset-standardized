@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Golden Arches Restaurants Sdn Bhd",
+    "address": "Level 6, Bangunan TH, Damansara Uptown3\nNo.3, Jalan SS21/39,47400 Petaling Jaya\nSelangor",
+    "phone": "06-2866-079",
+    "tax_id": "000504664064",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-12-03",
+    "time": "11:06:11",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 13.87,
+    "tax": 0.83,
+    "tip": 0.0,
+    "total": 14.7,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Cappucino",
+      "quantity": 1,
+      "unit_price": 4.7,
+      "total_price": 4.7,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Green Tea Latte",
+      "quantity": 1,
+      "unit_price": 10.0,
+      "total_price": 10.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.3
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619507.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Golden Arches Restaurants Sdn Bhd\n(65351-M)\nLevel 6, Bangunan TH, Damansara Uptown3\nNo.3, Jalan SS21/39,47400 Petaling Jaya\nSelangor\n(GST ID No: 000504664064)\nMcDonald's Dataran Pahlawan 2(#241)\nTel No. 06-2866-079\nTAX INVOICE\nINV# 00241100014400\nORD #54 -REG #11- 03/12/2016 11:06:11\nQTY ITEM TOTAL\n1 S Cappucino 4.70\n1 S Green Tea Latte 10.00\nTakeOut Total (incl GST) 14.70\nTotal Rounded 14.70\nCash Tendered 15.00\nChange 0.30\nTOTAL INCLUDES 6% GST 0.83\n: Thank You and Please Come Again..\nCustomer Service Hotline : 03-2726-5600"
+  }
+}

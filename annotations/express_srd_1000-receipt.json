@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Green Field",
+    "address": "5305 E Pacific Coast Hwy, Long Beach, CA 90804",
+    "phone": "(562) 597-0906",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-05-26",
+    "time": "12:53:10",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 51.9,
+    "tax": 4.68,
+    "tip": 0.0,
+    "total": 56.58,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Coffee",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lunch",
+      "quantity": 2,
+      "unit_price": 22.95,
+      "total_price": 45.9,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Coke",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1000-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GREEN FIELD\n5305 E PACIFIC COAST HWY\nLong Beach, CA 90804\n(562) 597-0906\n\nServer: Francis\nOrder #: 69923   Station: 3\nTable: B11       Dine In\n                Guests: 2\n\n1 Coffee                   3.00\n2 Lunch                   45.90\n1 Coke                     3.00\n\nSUB TOTAL:         51.90\nTax 1:              4.68\n\nTOTAL:               56.58\n\n5/26/2016 12:53:10 PM\n\nTHANK YOU!"
+  }
+}

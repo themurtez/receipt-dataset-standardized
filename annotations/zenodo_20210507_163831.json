@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "botaminuto",
+    "address": "Lisboa",
+    "phone": "210994257",
+    "tax_id": "506178051",
+    "website": "www.botaminuto.com"
+  },
+  "transaction": {
+    "date": "2019-10-17",
+    "time": "10:37:00",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 20.5,
+    "tax": 3.73,
+    "tip": 0.0,
+    "total": 25.0,
+    "accounting_category": "Purchase",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CHAVE FLANA U1050",
+      "quantity": 1,
+      "unit_price": 2.6,
+      "total_price": 2.6,
+      "category": "Tools",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "CHAVE PONTOS TE 760",
+      "quantity": 1,
+      "unit_price": 17.9,
+      "total_price": 17.9,
+      "category": "Tools",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_163831.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "botaminuto\nAMORE IRAS\nContribuinte 506178051\n\nServicos Rapidos das Chaves\n\nConstea da Calpado\n\nAntonia Chave Lda\n\nR ARIAS. Silva 8, Loja 5, 5 B D\n\nC. Centro Amoreira LX50 B\n\nAnxoxoou Codes  E SINCRONUS\nExno Mec: 910-768914 Clintronor 6914\n\nNumerario\n\n\nNIF 3107285 Cliscipi 6914\nNume\nCx\nB/L7 185598\n14/203 nga Laval/Comelo\nEPLOS 8H/ROK6 PC\nVenda \n\nFATURA n/9209\n10:37 Fiscal..\nPEB- Progama ...\nVANIA IVA\n\nType B Salaine skew65LD\naiks 4\nPercuffle NMI Format \nExoh pan NRH5HALL\n2S opvolabe\nIanove abrid\nPresontas urem sit at 6M/10 NO-5634\nB/F5D SIPOS tne020 PAULO)\nThereo “aos tesuendo\n\nFor alertingk-annent\n\nsd...\n\noost\n\nBotamunuto"
+  }
+}

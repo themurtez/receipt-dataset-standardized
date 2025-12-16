@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Lan Sheng",
+    "address": "209 Paterson Ave., Wallington N.J. 07057",
+    "phone": "973.773.7100",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-06-13",
+    "time": "21:17:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 70.25,
+    "tax": 4.9,
+    "tip": 0.0,
+    "total": 75.15,
+    "accounting_category": "Dine In",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Spicy Chicken w. Spicy Garlic Soy V.",
+      "quantity": 1,
+      "unit_price": 7.95,
+      "total_price": 7.95,
+      "category": "Entree",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "HF- Peking Duck",
+      "quantity": 1,
+      "unit_price": 18.95,
+      "total_price": 18.95,
+      "category": "Entree",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Stir Beef Fillet w. Tofu",
+      "quantity": 1,
+      "unit_price": 15.95,
+      "total_price": 15.95,
+      "category": "Entree",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pork w. Spicy Capsicum",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Side",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "White Rice (S)",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Side",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pork w. Spicy Tofu & Cayenne Chili",
+      "quantity": 1,
+      "unit_price": 12.95,
+      "total_price": 12.95,
+      "category": "Entree",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1106-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Lan Sheng\n209 Paterson Ave.\nWallington N.J. 07057\nTel : 973.773.7100 Fax : 973.773.7101\n[B2]\nDine In #1011\nServer: Mary 06/13/17 09:17 P.\n2 Person 08:38 PM - 09:17 P.\n1 Spicy Chicken w. Spicy Garli $7.95\nc Soy V.\n1 HF- Peking Duck $18.95\n1 Stir Beef Fillet w. Tofu $15.95\n1 Pork w. Spicy Capsicum $1.50\n1 White Rice (S)\n1 Pork w. Spicy Tofu & Cayenne $12.95\nChili\nSubTotal $70.25\nSales Tax $4.90\nTotal $75.15\nThank You\nHave A Nice Day"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Cross Channel Network Sdn. Bhd.",
+    "address": "47, Jalan Meranti 1, Sek. 3, Bandar Utama Batang Kali, 44300 Batang Kali, Selangor.",
+    "phone": "03-6057 9688",
+    "tax_id": "001151500288",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-29",
+    "time": "16:40:40",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 6.36,
+    "tax": 0.36,
+    "tip": 0.0,
+    "total": 6.35,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Schneider E15R 13A Switch",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Electrical Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": -0.01,
+    "change_due": 3.65
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005230648.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CROSS CHANNEL NETWORK SDN. BHD.\n47, JALAN MERANTI 1, SEK. 3, BANDAR UTAMA BATANG KALI, 44300 BATANG KALI, SELANGOR.\nTel : 03-6057 9688  Fax : 03-6057 9678\nGST ID : 001151500288\nTax Invoice No.: BTG-052332\nQty RM Tax\nSCHNEIDER E15R 13A SWITCH 1 6.36 SR SOCKET OUTLET @ 6.0000\nTotal Amt Incl. GST @ 6%: 6.36\nRounding Adjustment: -0.01\nTotal Amt Payable: 6.35\nPaid Amount: 10.00\nChange: 3.65\nTotal Qty Tender: 1.00\nGST Summary\nAmount\n(RM) Tax\nSR @ A 6.00 0.36\nTotal 6.00 0.36\nTHANK YOU\nGoods sold are not refundable nor exchangeable.\nFor any enquiry, please e-mail us: gowa9688@gmail.com\n29/01/2018 4:40:40 PM"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "KFC",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 88636.0,
+    "tax": 8863.6,
+    "tip": 0.0,
+    "total": 97500.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "H N Cheesy Chic",
+      "quantity": 1,
+      "unit_price": 18636.0,
+      "total_price": 18636.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Rice Organik",
+      "quantity": 1,
+      "unit_price": 6818.0,
+      "total_price": 6818.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "K Chees Chic RC",
+      "quantity": 1,
+      "unit_price": 30455.0,
+      "total_price": 30455.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MOCA FLT OVLTIN",
+      "quantity": 1,
+      "unit_price": 8636.0,
+      "total_price": 8636.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Perkedel",
+      "quantity": 1,
+      "unit_price": 5099.0,
+      "total_price": 5099.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "FFries Large",
+      "quantity": 1,
+      "unit_price": 18182.0,
+      "total_price": 18182.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": -1.0,
+    "change_due": 2500.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000704.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "H N Cheesy Chic 18,636\nRice Organik 6,818\nK Chees Chic RC 30,455\nMOCA FLT OVLTIN 8,636\nPerkedel 5,099\nFFries Large 18,182\nSub Total 88,636\nPembulatan -1\nP Rest 10% 8,866\nTotal 97,500\nCash 100,000"
+  }
+}

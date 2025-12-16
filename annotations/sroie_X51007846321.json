@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "Chef Henry Ribs House",
+    "address": "4, Jalan Kebudayaan 1, Taman Universiti 81300, Skudai",
+    "phone": "016-7057219",
+    "tax_id": "JM0828301-X",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-06-05",
+    "time": "21:07:08",
+    "currency": "MYR",
+    "payment_method": "cash",
+    "subtotal": 120.6,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 103.85,
+    "accounting_category": "restaurant",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "CHICKEN Black Pepper Sauce",
+      "quantity": 2,
+      "unit_price": 18.8,
+      "total_price": 37.6,
+      "category": "food",
+      "accounting_category": "restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Chic PASTA w Tomato",
+      "quantity": 1,
+      "unit_price": 14.8,
+      "total_price": 14.8,
+      "category": "food",
+      "accounting_category": "restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "GREEN TEA",
+      "quantity": 1,
+      "unit_price": 4.8,
+      "total_price": 4.8,
+      "category": "beverage",
+      "accounting_category": "restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "LEMON TEA",
+      "quantity": 1,
+      "unit_price": 5.8,
+      "total_price": 5.8,
+      "category": "beverage",
+      "accounting_category": "restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Mashed Potato",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "food",
+      "accounting_category": "restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "MIXED COMBO",
+      "quantity": 1,
+      "unit_price": 36.8,
+      "total_price": 36.8,
+      "category": "food",
+      "accounting_category": "restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "MOJITO",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "beverage",
+      "accounting_category": "restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Seafood PASTA w O/Oil-LESS SPICY",
+      "quantity": 1,
+      "unit_price": 15.8,
+      "total_price": 15.8,
+      "category": "food",
+      "accounting_category": "restaurant",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.01,
+    "change_due": 96.15
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007846321.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CHEF HENRY RIBS HOUSE\n( JM0828301-X )\n4, Jalan Kebudayaan 1\nTaman Universiti 81300, Skudai\nTEL: 016-7057219\nInvoice No: 001853\n\nCHICKEN Black Pepper 2@18.80 37.60\nSauce\nChic PASTA w Tomato 1@14.80 14.80\nGREEN TEA 1@4.80 4.80\nLEMON TEA 1@5.80 5.80\nMashed Potato 1@5.00 5.00\nMIXED COMBO 1@36.80 36.80\nMOJITO 1@0.00 0.00\nSeafood PASTA w 1@15.80 15.80\nO/Oil-LESS SPICY\n\nSUB-TOTAL 120.60\nDISCOUNT 20.00 % 16.76\nADJUSTMENT 0.01\nTOTAL (RM) : 103.85\nCASH (RM) : 200.00\nCHANGE (RM) : 96.15\nQUANTITY COUNT :\n21:07:08 05/06/2016\nThank You. Please Come Again!"
+  }
+}

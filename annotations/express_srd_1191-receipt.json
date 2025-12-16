@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "MOD Pizza",
+    "address": "26902 92nd Ave NW, Suite A, Stanwood, WA 98292",
+    "phone": "360.205.9680",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-19",
+    "time": "16:06:54",
+    "currency": "USD",
+    "payment_method": "Visa",
+    "subtotal": 27.45,
+    "tax": 2.53,
+    "tip": 0.0,
+    "total": 29.98,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Draft Beer",
+      "quantity": 2,
+      "unit_price": 4.97,
+      "total_price": 9.94,
+      "category": "Beverages",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Fountain Drink (16oz)",
+      "quantity": 1,
+      "unit_price": 2.17,
+      "total_price": 2.17,
+      "category": "Beverages",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MOD Pizza",
+      "quantity": 1,
+      "unit_price": 8.67,
+      "total_price": 8.67,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Mini MOD",
+      "quantity": 1,
+      "unit_price": 6.67,
+      "total_price": 6.67,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1191-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MOD Pizza\n26902 92nd Ave NW\nSuite A\nStanwood, WA 98292\nPhone 360.205.9680\n\n5/19/2019 4:06:54 PM\nOrder Id: AABT4HN6ACCM\n#77 - HERE\n\nDraft Beer (2 @ 4.97) $9.94\nFountain Drink (16oz) $2.17\nMOD Pizza $8.67\nMini MOD $6.67\n\nSub Total $27.45\nSales Tax $2.53\nOrder Total $29.98\n\nVisa $29.98\nCard: ************3352"
+  }
+}

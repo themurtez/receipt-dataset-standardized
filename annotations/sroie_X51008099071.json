@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "LEONG HENG SHELL SERVICE STATION",
+    "address": "Lot 26151 Bandar SG Long, 11 1/4 Miles Cheras, 43000 Kajang, Selangor",
+    "phone": "03-90805318",
+    "tax_id": "001934041088",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-20",
+    "time": "00:05:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 50.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 50.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "FuelSave 95",
+      "quantity": 22.73,
+      "unit_price": 2.2,
+      "total_price": 50.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008099071.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "LEONG HENG SHELL SERVICE STATION\nCompany No :256628-W\nLOT 26151 BANDAR SG LONG,\n11 1/4 MILES CHERAS,\n43000 KAJANG, SELANGOR\nSite : 2188\nTelephone : 03-90805318\nGST No : 001934041088\nInvoice number: 01000339450\n\nPre auth code A01A1529424173\n\n22.73 litre Pump # 06\nFuelSave 95 RM 50.00 C\n2.200 RM / litre\n\nTotal RM 50.00\nCash RM 50.00\n\nRelief GST C RM 0.00\nTotal Gross C RM 50.00\n\nCashier: KKHALEK\n\nDate Time Num POS CNo Shift\n20/06/18 00:05 90554 01 4145 331\n\nDiesel & Petrol RON95 given relief\nunder Section 56(3)(b) GST Act 2014\n\nThank You and Please Come Again"
+  }
+}

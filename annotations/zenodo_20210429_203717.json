@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Tomas Ribeiro",
+    "address": "R Actor António Silva N7, 1649-033 Lisboa",
+    "phone": "213361800",
+    "tax_id": "PT500829993",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-26",
+    "time": "14:00:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 1.79,
+    "tax": 0.32,
+    "tip": 0.0,
+    "total": 1.79,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "MERCEARIA + PET FOOD",
+      "quantity": 1,
+      "unit_price": 1.59,
+      "total_price": 1.59,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BEVERAGE",
+      "quantity": 1,
+      "unit_price": 0.2,
+      "total_price": 0.2,
+      "category": "Beverages",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 18.21
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_203717.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Tomas Ribeiro\nTel. 213361800\nPingo Doce Distributição Alimentar, S.A.\nR Actor António Silva N7, 1649-033 Lisboa\nResgisto C.F.P.C Lisboa-Matrícula/NIPC: 500829993\nANREEE: PT01730 C. Social: 33,808.115 EUR\nArtigos\nMERCEARIA + PET FOOD 1,59\n23% A. JOGAR SIDUL 125 5AG 0\nBEBIDAS\n13% ÁGUA PINGO DOCE 1,5L 0,20\nResumo\nTOTAL A PAGAR 1,79\nPagamentos\nTOTAL PAGO 20,00\nTROCO 18,21\nResumo IVA\nTaxa Valor s/IVA Valor IVA Valor c/IVA\nD 13% 0,18 0,02 0,20\nE 23% 1,29 0,30 1,59\nAtendido por: Luis Fonseca\n597691 2019-03-23 14:00 0082 0042 0440\nckVA-Processador por programa certificado 369/AT\nFatura/Resgito FT 04400021901010617/004551\n1ª Via Original Data de emissão: 23-08-2019\nContribuinte: 510776914\nNome:\nMorada:\nLocalidade:\nNome... FLIKEHOME LDA\nAV DA LIBERDADE 36 1B 1250/145\nLisboa\nLocal carga: Tomas Ribeiro\nLocal descarga: Morada do cliente\nData: 2019-03-26 Hora: 14:00\nFactura necessária para troca em 15 dias\n(artigos têxtil e Calçado prazo 30 dias)\nNão as trocam medicamentes e artigos assinados\nApoio ao Cliente\n808 20 45 45 / 210 11 44 11 (24 horas)"
+  }
+}

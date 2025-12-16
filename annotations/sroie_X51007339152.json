@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Sanyu Stationery Shop",
+    "address": "No. 31G & 33G, Jalan Setia Indah X, U13/X, 40170 Setia Alam",
+    "phone": "+603-3362 4137",
+    "tax_id": "001531760640",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-07-06",
+    "time": "",
+    "currency": "MYR",
+    "payment_method": "cash",
+    "subtotal": 4.25,
+    "tax": 0.25,
+    "tip": 0.0,
+    "total": 4.5,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "S-69 Multi Purpose Paper 40's A4 120GSM",
+      "quantity": 1,
+      "unit_price": 4.5,
+      "total_price": 4.5,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 45.5
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007339152.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SANYU STATIONERY SHOP\nNO. 31G&33G, JALAN SETIA INDAH X, U13/X\n40170 SETIA ALAM\nMobile /Whatapps : +6012-918 7937\nTel: +603-3362 4137\nGST ID No: 001531760640\nTAX INVOICE\nOwned By:\nSANYU SUPPLY SDN BHD (1135772-K)\nCASH SALES COUNTER\n1. 2000-0063 S-69 MULTI PURPOSE PAPER\n40'S A4 120GSM\n1 X 4.5000 - 4.50 SR\nTotal Sales Inclusive GST @6% 4.50\nDiscount 0.00\nTotal 4.50\nRound Adj 0.00\nFinal Total 4.50\nCASH 50.00\nCHANGE 45.50\nGST Summary Amount(RM) Tax(RM)\nSR @ 6% 4.25 0.25\nINV NO: CS-SA-0094236 Date: 06/07/2017\n----------------------------------------------------------------------\nGoods sold are not Returnable & Refundable\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN.\nTERIMA KASIH SILA DATANG LAGI\n** PLEASE KEEP THIS RECEIPT FOR PROVE OF\nPURCHASE DATE FOR I.T PRODUCT WARRANTY\nPURPOSE **\nFollow us in Facebook : Sanyu.Stationery"
+  }
+}

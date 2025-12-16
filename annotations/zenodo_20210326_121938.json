@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Drogaria S Marcal LDA",
+    "address": "R S Marcal 110 RC",
+    "phone": "213406136",
+    "tax_id": "500563381",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-14",
+    "time": "16:08:00",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 2.28,
+    "tax": 0.52,
+    "tip": 0.0,
+    "total": 2.8,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Dobradiça copo",
+      "quantity": 2,
+      "unit_price": 1.4,
+      "total_price": 2.8,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210326_121938.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "DROGARIA S MARCAL LDA\nDRUGARIA S MARCAL LDA\nR S MARCAL 110 RC\ntel.213406136\nN. Contrib. 500563381\nRegisto na Cons. Lisboa n. 310386\nCapital Social €5,000.00\n\nNIF: 510776914\nNome: Flikehome\nMorada:\nFatura recibo FR 001/12446\n2019-03-14 16:08\n\nQt Descrição P.Unit. Valor\n2.00 Dobradiça copo €1.40 €2.80 NOR\n\nTotal liq. €2.80\n\nPagamento Valor\nNumerário €2.80\n\nTaxa Base Valor Total\n23.00 €2.28 €0.52 €2.80 NOR\n\nIVA Incluído\n\nJm4X-Processado por programa\ncertificado n°90072/AT\n\n5129715293070564527936"
+  }
+}

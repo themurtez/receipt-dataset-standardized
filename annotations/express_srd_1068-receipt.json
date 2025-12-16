@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Cafe Eugene",
+    "address": "1175 Solano Avenue, Albany CA 94706",
+    "phone": "510-647-9999",
+    "tax_id": "",
+    "website": "www.cafeeugene.com"
+  },
+  "transaction": {
+    "date": "2016-04-10",
+    "time": "09:08:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 39.0,
+    "tax": 3.9,
+    "tip": 0.0,
+    "total": 42.9,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Pork Pancakes",
+      "quantity": 1,
+      "unit_price": 17.0,
+      "total_price": 17.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Side Bacon",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Regular",
+      "quantity": 2,
+      "unit_price": 3.0,
+      "total_price": 6.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Surcharge",
+      "quantity": 1,
+      "unit_price": 4.0,
+      "total_price": 4.0,
+      "category": "Additional Charge",
+      "accounting_category": "Miscellaneous",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1068-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Cafe Eugene\n1175 Solano Avenue\nAlbany CA 94706\n510-647-9999\nwww.cafeeugene.com\n\nTable: Table 10\nDate: 4/10/16, 9:08 AM\n\nPork Pancakes             $17.00\nSide Bacon                $12.00\n2 Regular                 $4.00\n  $3.00 each              $6.00\n\nSubtotal:                $39.00\nTotal Tax:                $3.90\n\nTotal:                   $42.90"
+  }
+}

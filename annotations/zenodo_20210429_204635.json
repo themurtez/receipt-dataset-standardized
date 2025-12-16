@@ -1,0 +1,163 @@
+{
+  "merchant": {
+    "name": "Solar Dos Duques",
+    "address": "Rua Almeida e Sousa, 58-B, 1350-015 Lisboa",
+    "phone": "213 872 674",
+    "tax_id": "514 574 283",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-11-23",
+    "time": "00:12:33",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 182.1,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 182.1,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Cesto Pao",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Queijo Niza",
+      "quantity": 1,
+      "unit_price": 4.5,
+      "total_price": 4.5,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Peixinhos Horta",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Gin Tonico",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Flute Cerveja",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Douro",
+      "quantity": 2,
+      "unit_price": 20.0,
+      "total_price": 40.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Pica Pau Lombo",
+      "quantity": 2,
+      "unit_price": 18.5,
+      "total_price": 37.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Cramble C/ Gelado",
+      "quantity": 1,
+      "unit_price": 4.5,
+      "total_price": 4.5,
+      "category": "Dessert",
+      "accounting_category": "Dessert",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Bolinha Gelado",
+      "quantity": 2,
+      "unit_price": 3.0,
+      "total_price": 6.0,
+      "category": "Dessert",
+      "accounting_category": "Dessert",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Chamucas Indiana",
+      "quantity": 2,
+      "unit_price": 1.5,
+      "total_price": 3.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Manteiga",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Gambas Fritas Aguilho",
+      "quantity": 1,
+      "unit_price": 14.0,
+      "total_price": 14.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Peixe-Galo Frito",
+      "quantity": 2,
+      "unit_price": 15.0,
+      "total_price": 30.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Agua Pedras",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 18,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_204635.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SOLAR DOS DUQUES\nPETRAS - RESTAURACAO, LDA.\nRUA ALMEIDA E SOUSA, 58-B\n1350-015 LISBOA TELEF: 213 872 674\nNIF: 514 574 283\n\nCLIENTE NO: MESA 13\n\nData: 2019-11-23 / 00:12:33\n\nCesto Pao 1 x 1,50 1,50\nQueijo Niza 1 x 4,50 4,50\nPeixinhos Horta 1 x 3,00 3,00\nGin Tonico 1 x 3,00 3,00\nFlute Cerveja 1 x 6,00 6,00\nDouro 2 x 20,00 40,00\nPica Pau Lombo 2 x 18,50 37,00\nCramble C/ Gelado 1 x 4,50 4,50\nBolinha Gelado 2 x 3,00 6,00\nChamucas Indiana 2 x 1,50 3,00\nManteiga 1 x 1,50 1,50\nGambas Fritas Aguilho 1 x 14,00 14,00\nPeixe-Galo Frito 2 x 15,00 30,00\nAgua Pedras 1 x 2,00 2,00\nItems: 18\nTotal a Pagar: 182,10 €\nMULTIBANCO 182,10 €"
+  }
+}

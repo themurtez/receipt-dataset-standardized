@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "WORTEN",
+    "address": "Centro Vasco Da Gama, Av. Dom João II, 1990-094 Lisboa",
+    "phone": "+351 218 920 590",
+    "tax_id": "503.630.330",
+    "website": "www.worten.pt"
+  },
+  "transaction": {
+    "date": "2016-08-07",
+    "time": "14:26:00",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 117.02,
+    "tax": 26.92,
+    "tip": 0.0,
+    "total": 143.94,
+    "accounting_category": "Electronics",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Ventoinha PE KUMF KSF2374",
+      "quantity": 5,
+      "unit_price": 24.99,
+      "total_price": 124.95,
+      "category": "Small Appliance",
+      "accounting_category": "Electronics",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Selador Stand-Beeken",
+      "quantity": 1,
+      "unit_price": 18.99,
+      "total_price": 18.99,
+      "category": "Appliance",
+      "accounting_category": "Electronics",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 6.06
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_202607.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "WORTEN \nCINE Porto so 506.303.030 \n506.303.030 EUR S/NF//EE: PT501(25) \n1. CINE Porto so 506.303.330 \nseu GPS: 38.7684934 Vivo 06.514.095 \nShop MERCANT EMPREENDIMENTOS P. os LIme S/A \nAtl COLE200LCEP1810CIN•13368C oT vN \nAtendimento A & Z\nCENTRO VASCo .GAMA \nOURUTO * IVO: / 11– S PCI° \n\nLocal entrega: Morada do cliente \nData: 07/08/2016 Hora: 14:26 \nIVA INCLUIDO \n5 X 5601980434739 Ventoinha PE KUMF KSF2374 24.99 124.95\n5601980404889 Selador Stand-Beeken BSDHW 18.99 \nSTAND-BEEKEN BSDHW \nTOTAL A PAGAR 143.94 \nNumerario 150.00 \nTROCO 6.06 \n\nTotal IVA 26.92 117.02\n117.02 Transfer total IVA 143.94 \nLocar arrecada Morada do cliente \nLocal descarga: Morada do cliente\n\nPrazo de devolucao: 15 dias\nwww.worten.pt"
+  }
+}

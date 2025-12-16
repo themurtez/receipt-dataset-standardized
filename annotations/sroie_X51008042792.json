@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Restoran Wan Sheng",
+    "address": "No.2, Jalan Temenggung 19/9, Seksyen 9, Bandar Mahkota Cheras, 43200 Cheras, Selangor",
+    "phone": "",
+    "tax_id": "001335787520",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-06",
+    "time": "12:22:06",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 4.72,
+    "tax": 0.28,
+    "tip": 0.0,
+    "total": 5.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Teh (B)",
+      "quantity": 1,
+      "unit_price": 2.2,
+      "total_price": 2.2,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Milo (B)",
+      "quantity": 1,
+      "unit_price": 2.8,
+      "total_price": 2.8,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008042792.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "RESTORAN WAN SHENG\n002043319-W\nNo.2, Jalan Temenggung 19/9,\nSeksyen 9, Bandar Mahkota Cheras,\n43200 Cheras, Selangor\nGST REG NO: 001335787520\n\nTax Invoice\n\nINV No.: 1128461 Cashier: Thandar\nDate : 06-05-2018 12:22:06\nDescription Qty U.price Total TAX\nTeh (B) 1 x 2.20 2.20 SR\nMilo (B) 1 x 2.80 2.80 SR\n\nTotal QTY: 2\nTotal (Excluding GST): 4.72\nGST payable (6%): 0.28\nTotal (Inclusive of GST): 5.00\nTOTAL: 5.00\n\nCASH : 5.00\n\nGST Summary Amount(RM) Tax(RM)\nSR (@ 6%) 4.72 0.28"
+  }
+}

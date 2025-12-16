@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 40455.0,
+    "tax": 4046.0,
+    "tip": 0.0,
+    "total": 44500.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Kupon 9",
+      "quantity": 1,
+      "unit_price": 8192.0,
+      "total_price": 8192.0,
+      "category": "Food and Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Kupon 1",
+      "quantity": 1,
+      "unit_price": 20600.0,
+      "total_price": 20600.0,
+      "category": "Food and Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "LARGE ICED LEMON TEA",
+      "quantity": 1,
+      "unit_price": 12273.0,
+      "total_price": 12273.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": -1.0,
+    "change_due": 5500.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000115.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Kupon 9    8,192\nKupon 1    20,600\nLARGE ICED LEMON TEA  12,273\nSubtotal  40,455\nPBI (10%)  4,046\nRound  -1\nDine In Total  44,500\nCash  50,000\nChange  5,500\n"
+  }
+}

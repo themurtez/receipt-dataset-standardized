@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Church's Chicken #4717",
+    "address": "7635 Winnetka, Canoga Park, CA",
+    "phone": "818 576-0489",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-02",
+    "time": "21:57:00",
+    "currency": "USD",
+    "payment_method": "Cash",
+    "subtotal": 9.99,
+    "tax": 0.95,
+    "tip": 0.0,
+    "total": 10.94,
+    "accounting_category": "Food & Drink",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "1 SPC LT",
+      "quantity": 1,
+      "unit_price": 9.99,
+      "total_price": 9.99,
+      "category": "Food & Drink",
+      "accounting_category": "Food & Drink",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.06
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1044-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CHURCH'S CHICKEN #4717\n7635 WINNETKA\nCANOGA PARK CA 818 576-0489\n\n#255 DRET\n1 SPC LT 9.99\nNET 9.99\nTXTL .95\nTOIL 10.94\nCASH 11.00\nCHNG .06\n\nTHANK YOU COME AGAIN !!!\n\nLISBETH\n0203-21:57 002 MAY.2l.19 REG0002"
+  }
+}

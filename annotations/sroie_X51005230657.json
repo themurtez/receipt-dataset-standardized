@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "CROSS CHANNEL NETWORK SDN. BHD.",
+    "address": "47, JALAN MERANTI 1, SEK. 3, BANDAR UTAMA BATANG KALI, 44300 BATANG KALI, SELANGOR.",
+    "phone": "03-6057 9688",
+    "tax_id": "001151500288",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-31",
+    "time": "10:33:59",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 7.95,
+    "tax": 0.45,
+    "tip": 0.0,
+    "total": 7.95,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "20MM HERO PVC CONDUIT PIPE",
+      "quantity": 1,
+      "unit_price": 1.8,
+      "total_price": 1.8,
+      "category": "Construction Supplies",
+      "accounting_category": "Materials",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "15A PVC CONNECTOR",
+      "quantity": 1,
+      "unit_price": 1.91,
+      "total_price": 1.91,
+      "category": "Construction Supplies",
+      "accounting_category": "Materials",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "R & B-C/CLIP 8MM X 100PCS",
+      "quantity": 1,
+      "unit_price": 3.71,
+      "total_price": 3.71,
+      "category": "Construction Supplies",
+      "accounting_category": "Materials",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "3\" X 3\" 2862 A1 PVC NUT BOX",
+      "quantity": 1,
+      "unit_price": 0.53,
+      "total_price": 0.53,
+      "category": "Construction Supplies",
+      "accounting_category": "Materials",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 2.05
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005230657.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CROSS CHANNEL NETWORK SDN. BHD.\n47, JALAN MERANTI 1, SEK. 3,\nBANDAR UTAMA BATANG KALI,\n44300 BATANG KALI, SELANGOR.\nTel: 03-6057 9688 Fax: 03-6057 9678\nGST ID: 001151500288\nTax Invoice No.: BTG-050036\nQty RM Tax\n20MM HERO PVC CONDUIT PIPE 1 1.80 SR\n@ 1.7000\n15A PVC CONNECTOR @ 1.8000 1 1.91 SR\nR & B-C/CLIP 8MM X 100PCS 1 3.71 SR\nCABLE CLIPS @ 3.5000\n3\" X 3\" 2862 A1 PVC NUT BOX @ 1 0.53 SR\n0.5000\nTotal Amt Incl. GST @ 6% : 7.95\nRounding Adjustment :\nTotal Amt Payable : 7.95\nPaid Amount 10.00\nChange 2.05\nTotal Qty Tender 4.00\nGST Summary Amount GST\n(RM) (RM)\nSR @ A 7.50 0.45\nTotal 7.50 0.45\nTHANK YOU\nFor any enquiry, please e-mail us:\ngowa9688@gmail.com\n31/12/2017 10:33:59 AM"
+  }
+}

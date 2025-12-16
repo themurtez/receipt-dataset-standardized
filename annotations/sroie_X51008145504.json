@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "AMTECH ELECTRICAL SUPPLIES",
+    "address": "107, JALAN BANDAR RAWANG 2, PUSAT BANDAR RAWANG, 48000 RAWANG, SELANGOR D E",
+    "phone": "0386096690",
+    "tax_id": "001285423104",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-27",
+    "time": "17:02:32",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 136.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 136.0,
+    "accounting_category": "Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "30W SUPER T8 LED TUBE D/L - FNM",
+      "quantity": 5,
+      "unit_price": 16.0,
+      "total_price": 80.0,
+      "category": "Electrical",
+      "accounting_category": "Inventory",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "2x40W LED F/ FITTING (EMPTY) - ITK",
+      "quantity": 4,
+      "unit_price": 14.0,
+      "total_price": 56.0,
+      "category": "Electrical",
+      "accounting_category": "Inventory",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 14.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008145504.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AMTECH ELECTRICAL SUPPLIES\n(001963477-M)\n(GST ID No 001285423104)\n107, JALAN BANDAR RAWANG 2,\nPUSAT BANDAR RAWANG,\n48000 RAWANG, SELANGOR D E\nemail: amtech886@yahoo.com\nTel/Fax: 0386096690\nTax Invoice\nBill No\nPOS/27408\nDate 27/06/18 5:02:32 PM\nCashier\namt\nPayment Cash\nItem Qty Price Amount\n30W SUPER T8 LED TUBE D/L - FNM @16.00\n00004285\n5\n16.00\n80.00 SR\n2x40W LED F/FITTING (EMPTY) - ITK @14.00\n00002348\n4\n14.00\n56.00 SR\nGross Amt: 136.00\nGST (6%): 0.00\nNet Amt: 136.00\nReceived\n150.00\nChange\n14.00\nRound Adj: 0.00\nGST Summary Amount(RM) Tax(RM)\nSR @ 0% 136.00 0.00\nTHANK YOU\nPLEASE COME AGAIN"
+  }
+}

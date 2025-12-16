@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Miguels Mexican",
+    "address": "3035 W. Kennedy Blvd, Tampa, FL",
+    "phone": "(813) 876-2587",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-07-05",
+    "time": "17:53:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 25.3,
+    "tax": 1.78,
+    "tip": 0.0,
+    "total": 27.08,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Water",
+      "quantity": 2,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Beverage",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Ench Verde",
+      "quantity": 1,
+      "unit_price": 12.5,
+      "total_price": 12.5,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ench Manuel",
+      "quantity": 1,
+      "unit_price": 12.8,
+      "total_price": 12.8,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1189-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MIGUELS MEXICAN\n3035 W. KENNEDY BLVD\nTAMPA, FL\n(813) 876 - 2587\n\n187 MEGAN F\nTbl 42/1 Chk 3923 Gst 2\nJul05'17 05:53PM\n\nDINE IN\n2 WATER 0.00\n1 ENCH VERDE 12.50\n1 ENCH MANUEL 12.80\n\nSubtotal 25.30\nTax 1.78\n\n6:11PM Total 27.08\n\nPLEASE PAY YOUR SERVER\nTHANK YOU\nFOR CHOOSING MIGUELS CAFE\n\n----Tear Here----\n\nEmp: MEGAN F Table: 42 Check#: 3\nDate: 7-5-17"
+  }
+}

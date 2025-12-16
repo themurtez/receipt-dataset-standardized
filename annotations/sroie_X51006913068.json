@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Gerbang Alaf Restaurants Sdn Bhd",
+    "address": "Level 6, Bangunan TH, Damansara Uptown 3, No.3, Jalan SS21/39, 47400 Petaling Jaya, Selangor",
+    "phone": "07-3865 879",
+    "tax_id": "000504664064",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-25",
+    "time": "18:12:50",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 10.47,
+    "tax": 0.63,
+    "tip": 0.0,
+    "total": 11.1,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Filet-O-Fish",
+      "quantity": 1,
+      "unit_price": 11.1,
+      "total_price": 11.1,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 10.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006913068.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Gerbang Alaf Restaurants Sdn Bhd\n(65351-M)\nLicensee of McDonald's\nLevel 6, Bangunan TH, Damansara Uptown3\nNo.3, Jalan SS21/39,47400 Petaling Jaya\nSelangor\n(GST ID No: 000504664064)\nMcDonald's Permas Jaya (#096)\nTel No. 07 - 3865 879\nTAX INVOICE\n\nMFY Side 1\n\nINV# 000960100030435\nORD #08 - REG #1- 25/05/2018 18:12:50\nQTY ITEM TOTAL\n1 L FiletOFish 11.10\n1 L Coke\n1 L Fries\n\nEat-In Total (Incl GST) 11.10\nTotal Rounded 11.10\nCash Tendered 21.10\nChange 10.00\n\nTOTAL INCLUDES 6% GST 0.63\n\n-----------------------------------------\nThank You and Please Come Again.\nGuest Relations Center : 1300-13-1300"
+  }
+}

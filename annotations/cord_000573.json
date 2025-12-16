@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "A FUNG",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 41363.0,
+    "tax": 4136.0,
+    "tip": 0.0,
+    "total": 45499.0,
+    "accounting_category": "Food",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BASO KUAH",
+      "quantity": 1,
+      "unit_price": 41363.0,
+      "total_price": 41363.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 4501.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000573.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BASO KUAH\nTOTAL 41,363\nTAX 10.00% 4,136\nGRAND TOTAL 45,499\nTUNAI 50,000\nKEMBALI 4,501\n"
+  }
+}

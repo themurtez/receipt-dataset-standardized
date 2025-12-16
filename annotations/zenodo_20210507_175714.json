@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Ferferragens o Lemos, Lda",
+    "address": "Rua da Madalena, 101 - 107, 1100-319 Lisboa",
+    "phone": "218869347",
+    "tax_id": "501378723",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-09-16",
+    "time": "16:14:00",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 2.24,
+    "tax": 0.51,
+    "tip": 0.0,
+    "total": 2.75,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Fechad Tablle R Norte 280 P",
+      "quantity": 1,
+      "unit_price": 2.75,
+      "total_price": 2.75,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_175714.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Ferferragens o Lemos, Lda\nRua da Madalena, 101 - 107\n1100-319 LISBOA\nContribuinte N. 501378723\nCapital Social 34.916,00 Euros\nTel.: 218869347/ Fax: 218869158\nMail: geral@viva.viva.com\n\nNIF: 510776914\nNome: Flikehome - Mediacao Imobil\nMorada: AV da Liberdade N 36 1 An\nLocalidade: Lisboa\nCod.Postal: 1250-145 Lisboa\n\nFatura\nNIFT: POS19V12/1916566 Original\nData: 16-09-2019 HORA: 16:14\n\nDESIGNACAO IVA% QTD VALOR\n\nFECHAD TABLLE\nR NORTE 280 P\n/D 23 1.0 2.75\n\nTaxa valor IVA T.Bruto: 2\n75% 0.00 T.Dsc: 0.00\n6% 0.51 T.Liq: 2.24\n23% 0.00 T.IVA: 0.51\n13% 0.00\nA PAGAR......... 2.75\n\nNUMERARIO 2.75\n\nPKPW-Processado por programador\nIdentificado P.V. 35/A.T"
+  }
+}

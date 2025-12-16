@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "GESPOT GESTAO E ADMINISTRACAO DE POSTOS DE ABASTECIMENTO UNIPESSOAL LDA",
+    "address": "AV JOSE MALHOA Nº 16-1099-091 LISBOA, AV Dr. CARLOS PINHAL, 1900-128 LISBOA",
+    "phone": "218337423",
+    "tax_id": "NIF503769 959",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-10-27",
+    "time": "11:50:16",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 8.13,
+    "tax": 1.87,
+    "tip": 0.0,
+    "total": 10.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Gasoline",
+      "quantity": 6.762,
+      "unit_price": 1.479,
+      "total_price": 10.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210430_001105.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GESPOST GESTAO E ADMINISTRACAO DE POSTOS\nDE ABASTECIMENTO UNIPESSOAL LDA\nAV JOSE MALHOA Nº 16-1099-091 LISBOA\nCAP SOC 2.029.928,11 EUR\nC.R.C.L./NIFS03 769 959\nE.S. REPSOL OLAIAS\nAV Dr. CARLOS PINHAL01900-128 LISBOA\nTEL.218337423\n\nFACTURA/RECIBO\n\nDATA/HORA 27-10-2019 11:50:16\nNº DE OPERACAO: 4333/2506450 CAIXA N 2\nVENDEDOR: CARLA RAMALHO\n\nVenda de Combustivel\nN. de Bomba 3 Prepay: GASOLINA\n6,762 Litros a 1,479 €/ltr 10,00 €\n1 Cash Account 10,00 €\nCHEIRO:\nTROCO 0,00 €\n\nTipo Base Total\nE 23.0 % 8,13 € 1,87 € 10,00 €\n\nIncluido á taxa em vigor\n\nDoc NR: FR 4333TPV2/290007476\nNOME: FLIKEHOME\nNIF: 510776914\nMATRÍCULA: 31 UL 55\nxEhG-Processado por Programa Certificado\nN. 1072/AT\n\n*** OBRIGADO E BOA VIAGEM ***"
+  }
+}

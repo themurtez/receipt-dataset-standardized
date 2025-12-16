@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "& Best Restaurant",
+    "address": "AN SS4C/5, Petaling Jaya, Angor Darul Ehsan",
+    "phone": "012-2060 778",
+    "tax_id": "001800839168",
+    "website": "https://m.facebook.com/B-Best-Restaurant"
+  },
+  "transaction": {
+    "date": "2017-03-20",
+    "time": "11:12:35",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 14.0,
+    "tax": 0.84,
+    "tip": 0.0,
+    "total": 14.85,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Fishball Noodle",
+      "quantity": 2,
+      "unit_price": 7.0,
+      "total_price": 14.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.01,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006328920.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "& BEST RESTAURANT\n(001610235-P)\nGST NO.: 001800839168\nAN SS4C/5, PETALING JAYA\nANGOR DARUL EHSAN\nTAX INVOICE\nBILL NO: 00127408 / POSO1\nBIZDATE: 20/03/2017\nCASHIER: Manager\nPRINTED: 20/03/2017 11:12:35 AM\nRM\n2 FISHBALL NOODLE @7.00 14.00\n2 SUB TOTAL 14.00\nGST 6% 0.84\nROUNDING ADJ 0.01\nNET TOTAL 14.85\nCash 14.85\nCHANGE 0.00\nThank You...Please Come Again...\nhttps://m.facebook.com/B-Best-Restaurant\nAll Item Will Be Charges GST"
+  }
+}

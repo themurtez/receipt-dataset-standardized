@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 72500.0,
+    "tax": 7250.0,
+    "tip": 0.0,
+    "total": 79750.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Bento Chicken Teriyaki",
+      "quantity": 1,
+      "unit_price": 32000.0,
+      "total_price": 32000.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Surimi - Satsuma Age Vegetable",
+      "quantity": 1,
+      "unit_price": 8000.0,
+      "total_price": 8000.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Calamari Katsu",
+      "quantity": 1,
+      "unit_price": 9000.0,
+      "total_price": 9000.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Dori Katsu",
+      "quantity": 1,
+      "unit_price": 9000.0,
+      "total_price": 9000.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Roba - Spicy Kawa Skewer Kulit",
+      "quantity": 1,
+      "unit_price": 9000.0,
+      "total_price": 9000.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sendok dan Garpu Plastik",
+      "quantity": 1,
+      "unit_price": 1000.0,
+      "total_price": 1000.0,
+      "category": "Supplies",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Salad Dressing Spicy Tomatoes Kewpie 25ml",
+      "quantity": 1,
+      "unit_price": 4500.0,
+      "total_price": 4500.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": -250.0,
+    "change_due": 20500.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000584.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BENTO CHICKEN TERIYAKI 1.00 32,000.00 32,000.00\nSURIMI - SATSUMA AGE VEGETABLE 1.00 8,000.00 8,000.00\nCALAMARI KATSU 1.00 9,000.00 9,000.00\nDORI KATSU 1.00 9,000.00 9,000.00\nROBA - SPICY KAWA SKEWER KULIT 1.00 9,000.00 9,000.00\nSENDOK DAN GARPU PLASTIK 1.00 1,000.00 1,000.00\nSALAD DRESSING SPICY TOMATOES KEWPIE 25ML 1.00 4,500.00 4,500.00\nSubtotal 72,500.00\nTax 7,250.00\nTotal Amount 79,750.00\nPembulatan -250.00\nTUNAI 79,500.00\nKembalian 20,500.00"
+  }
+}

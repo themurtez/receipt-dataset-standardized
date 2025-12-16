@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Flor de Val'Éguas",
+    "address": "",
+    "phone": "",
+    "tax_id": "199267464",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-06-03",
+    "time": "13:37:00",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 8.5,
+    "tax": 1.07,
+    "tip": 0.0,
+    "total": 8.5,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Cafe",
+      "quantity": 1,
+      "unit_price": 0.7,
+      "total_price": 0.7,
+      "category": "Beverages",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Refrigerante Lat",
+      "quantity": 1,
+      "unit_price": 1.3,
+      "total_price": 1.3,
+      "category": "Beverages",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pratos",
+      "quantity": 1,
+      "unit_price": 6.5,
+      "total_price": 6.5,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210321_120107.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Flor de Val'Éguas\nAlexandra Cristina M. F. Libânio\nAlmancil\nN. Contrib. 199267464\n\nNIF: 514407395\nNome: FLIKEHOME ALGARVE\nMorada:\n\nFatura-recibo FR B19/43\n2019-06-03 13:37\n\nQt Descrição     P.Unit. Tx   Valor\n1.00 Cafe              € 0.70 13   € 0.70\n1.00 Refrigerante Lat  € 1.30 23   € 1.30\n1.00 Pratos            € 6.50 13   € 6.50\n\nTotal liq. = € 8.50\n\nPagamento\nNumerário\t\t     Valor\n\t\t\t € 8.50\n\nTaxa    Base       Valor      Total\n23.00  € 1.06      € 0.24      € 1.30   NOR\n13.00  € 6.37     € 0.83      € 7.20   INT\n\nIVA Incluido\n\nSeEZ-Processado por programa\ncertificado nº2513/AT"
+  }
+}

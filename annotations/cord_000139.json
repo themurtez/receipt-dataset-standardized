@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 22500.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 22500.0,
+    "accounting_category": "Food",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Sesame Toast",
+      "quantity": 1,
+      "unit_price": 22500.0,
+      "total_price": 22500.0,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 27500.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000139.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Sesame Toast 1 22,500 22,500\nSub Total 22,500\nGRAND TOTAL 22,500\nCASH 50,000\nCHANGE 27,500"
+  }
+}

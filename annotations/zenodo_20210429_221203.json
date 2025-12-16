@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Foto Minuto Amoreiras",
+    "address": "R. Alfredo Silva, Lt 18 Ami 2785-56 - B.D.R C.Com.Amoreiras, Lj 5041 1070 Lisboa",
+    "phone": "210994257",
+    "tax_id": "506175502",
+    "website": "www.botaminuto.com"
+  },
+  "transaction": {
+    "date": "2019-11-13",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 5.2,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 5.2,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chave Plana CB6",
+      "quantity": 2,
+      "unit_price": 2.6,
+      "total_price": 5.2,
+      "category": "Hardware",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_221203.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Contribuinte: 506175502\nConserto Rapidos das Amoreiras,\nConsertos de Calcado Copias Chaves, Lda\nR. Alfredo Silva, Lt 18 Ami 2785-56 - B.D.R\nC.Com.Amoreiras, Lj 5041 1070 Lisboa.\nCaixa 50.00EUR CRC: Cascais N.9955/2007\nExmo(s) Senhor(es):\nFLIKPHONE\nLISBOA\nNIF: 510776914 N.CLI:PTS10776914\nC 7/31361227\nFTR 6/1857 Data 2019-11-13 Original\nFatura: Vendedor: EDYJONES CARVALHO\nDescricao Qde. Pr. Unit. Valor IVA\nCHAVE PLANA CB6 / COR-1 D\n4/) 2.00 2.600 5.20 23\nTotal de pecas: 2\nVALOR LIQUIDO IVA VALOR IVA\n4.23 6 0.00\nTotal documento euro 5.20\nDesconto 0.00\nTotal documento euro 5.20\nMultibanco 5.20\nZEQH-Processado por programa\nCertificado N. 1627/AT\nBens colocados a disposicao do adquiri-\nnesta data, de acordo com o\nalinea f) do n. 5 do artigo 36 de CIVA\nTROCAS E DEVOLUCOES ACEITES COM COMP-\nATIVO DE COMPRA E ATE 30 DIAS DA DATA\nDE COMPRA.\nObrigado Pela Visita - Volte Sempre\nTALAO INDISPENSAVEL P/ENTREGA-RECLAMACAO\nTROCAS PRAZO 1 MES\nTel.: 210994257 www.botaminuto.com\nConte-nos a sua\nExperiência!"
+  }
+}

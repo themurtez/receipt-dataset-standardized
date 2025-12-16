@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 103000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 103000.0,
+    "accounting_category": "food_and_beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TWIST DONUT",
+      "quantity": 6,
+      "unit_price": 9000.0,
+      "total_price": 54000.0,
+      "category": "snack",
+      "accounting_category": "food_and_beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PIZZA TOAST",
+      "quantity": 2,
+      "unit_price": 16000.0,
+      "total_price": 32000.0,
+      "category": "snack",
+      "accounting_category": "food_and_beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CROQUE MONSIEUR",
+      "quantity": 1,
+      "unit_price": 17000.0,
+      "total_price": 17000.0,
+      "category": "snack",
+      "accounting_category": "food_and_beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 9,
+    "rounding": 0.0,
+    "change_due": 97000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000586.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "6 TWIST DONUT 54,000\n2 PIZZA TOAST 32,000\n1 CROQUE MONSIEUR 17,000\nTOTAL 103,000\nCASH\nCASH 100,000\nCHANGE 97,000"
+  }
+}

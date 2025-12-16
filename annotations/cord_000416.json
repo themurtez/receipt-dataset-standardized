@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "JPY",
+    "payment_method": "cash",
+    "subtotal": 120091.0,
+    "tax": 12091.0,
+    "tip": 0.0,
+    "total": 133000.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "NIKU UDON",
+      "quantity": 1,
+      "unit_price": 49091.0,
+      "total_price": 49091.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ABURA UDON (SPICY)",
+      "quantity": 1,
+      "unit_price": 40909.0,
+      "total_price": 40909.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "INARI",
+      "quantity": 1,
+      "unit_price": 10000.0,
+      "total_price": 10000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "KAKIAGE TEMPURA",
+      "quantity": 1,
+      "unit_price": 10000.0,
+      "total_price": 10000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "COLD OCHA",
+      "quantity": 1,
+      "unit_price": 10909.0,
+      "total_price": 10909.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000416.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "NIKU UDON\nABURA UDON (SPICY)\nINARI\nKAKIAGE TEMPURA\nCOLD OCHA\nSUB. TOTAL 120,091\nRESTAURANT TAX 12,091\nGRAND TOTAL 133,000\nCASH [133,000]\nChange: 0"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "DROGARIA SEMINO",
+    "address": "SEMINO 8125-303, QUARTEIRA",
+    "phone": "289 300 171",
+    "tax_id": "NIF 502073000",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-29",
+    "time": "10:26:00",
+    "currency": "EUR",
+    "payment_method": "VISA",
+    "subtotal": 43.5,
+    "tax": 10.0,
+    "tip": 0.0,
+    "total": 53.5,
+    "accounting_category": "Retail",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "SILCA - CHAVE PONTOS UC-4R",
+      "quantity": 2,
+      "unit_price": 7.6,
+      "total_price": 15.2,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "SILCA - CHAVE LC -40",
+      "quantity": 1,
+      "unit_price": 5.5,
+      "total_price": 5.5,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "SILCA - CHAVE UL -05IAZ",
+      "quantity": 2,
+      "unit_price": 1.73,
+      "total_price": 3.46,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "SILCA - CHAVE UL -050",
+      "quantity": 1,
+      "unit_price": 1.73,
+      "total_price": 1.73,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "SILCA - COMANDO EVOLUTIVO FIX",
+      "quantity": 1,
+      "unit_price": 19.9,
+      "total_price": 19.9,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "MOSQUETAO ALUMINIO COR",
+      "quantity": 2,
+      "unit_price": 2.2,
+      "total_price": 4.4,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210320_173953.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "DROGARIA SEMINO\nSOC.FERRAMENTAS E FERRAGENS SEMINO LDA\nMATERIAIS DE CONSTRUCAO - FERRAMENTAS\nSEMINO 8125-303, QUARTEIRA TEL: 289 300 171\nNIF 502073000 CA.S0.5000EU CRC 2345 LOULE\nFAX 289388200 * EMAIL sffsemino@sapo.pt\n\nCliente: Confr: 514047395\nFatura Simplificada\nNatureza: Fatura Simplificada\n2019-03-29 10:26 JOAQUIM BATISTA\nFS 3/533 Original Terr3\nQuant. Pr. Unit Iva Desc. Total\n2 7,60 23% SILCA - CHAVE PONTOS UC-4R\n1 5,50 23% SILCA - CHAVE LC -40\n2 1,73 23% SILCA - CHAVE UL -05IAZ\n1 1,73 23% SILCA - CHAVE UL -050\n1 19,90 23% SILCA - COMANDO EVOLUTIVO FIX\n2 2,20 23% MOSQUETAO ALUMINIO COR\nItens: 6\nTotal: 53,50 EUR\nForma Pag. VISA 53,50\n\nIva Incluido a Taxa Indicada\nTaxa Valor Iva Base Imp. Valor Total\n23% 10,00 43,50 53,50\nARGG-Processado por programa certificado\nno 2468/AT - Sage\nEste documento nao constitui documento de\ne transporte, nos termos de Decreto-Lei\nno 147/2003"
+  }
+}

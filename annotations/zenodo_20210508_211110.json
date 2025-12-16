@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "AKI Mafra",
+    "address": "Comendador José Noronha Gorjão, Quinta das Pevides, 2640-480 Mafra",
+    "phone": "261 091 200",
+    "tax_id": "502216069",
+    "website": "www.aki.pt"
+  },
+  "transaction": {
+    "date": "2018-04-10",
+    "time": "19:54:00",
+    "currency": "EUR",
+    "payment_method": "Dinheiro",
+    "subtotal": 25.45,
+    "tax": 4.76,
+    "tip": 0.0,
+    "total": 30.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TORNEIRA ESPERA C/JUNÇÃO 3",
+      "quantity": 2,
+      "unit_price": 6.49,
+      "total_price": 12.98,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TEFLON AGUA 12MX12MMX0,076",
+      "quantity": 1,
+      "unit_price": 0.49,
+      "total_price": 0.49,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "REMOVED BOLOR FUNGOS UHU 5",
+      "quantity": 1,
+      "unit_price": 4.99,
+      "total_price": 4.99,
+      "category": "Cleaning Supplies",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TINTA INT IMPACT MATE BR 4",
+      "quantity": 1,
+      "unit_price": 6.99,
+      "total_price": 6.99,
+      "category": "Paint",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 4.55
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_211110.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AKI Mafra \nComendador José Noronha Gorjão \nUrbanização Quinta das Pevides \n2640-480 Mafra \nTel.: 261 091 200 \nwww.aki.pt \nIrcodis - Distribuidora de Bricolage, SA \nRua do Paião 10/12,2790-237 Carnaxide\nCRC Cascais - Capital Social 501.205 EUR \nNIPC 502216069 - SIRPEE n° PT005051 \n Duplicado Fatura \nNúmero: FT 055401/011087/31 \nData: 10/04/2018 19:54 \nNome: FEELSLIKEHOME LDA \nMorada: RUA SARAIVA DE CARVALHO N244 3DTO \n\nLocalidade: 13503002 LISBOA \nNIF: 07789614 \n\nIVA CÓDIGO DESCRIÇÃO VALOR \n\nVENDA \n\n23,0x 3330137 \n TORNEIRA ESPERA C/JUNÇÃO 3 \n2 x 6,49 12,98€ \n355542 \n TEFLON AGUA 12MX12MMX0,076 0,49€ \n2543035 \n REMOVED BOLOR FUNGOS UHU 5 4,99€ \n3505161 \n TINTA INT IMPACT MATE BR 4 6,99€ \n Total: 25,45€ \n Dinheiro 30,00€ \n Troco 4,55€ \n\n RECAPITULATIVO IVA \n TAXA LIQ. IVA \n 23,0% 20.69 4,76 \n\n N° cartão AKI: 9301013200528763 \n Pontos ganhos : 25 \n Pontos acumulados : 129 \n\n Já ganhou com o seu cartão AKI: 155,000 \n\n 0554 1 91002728 575335 \n\n Loja de carga: morada da loja \n Local de descarga: morada do cliente \n\n Data e hora do transporte: data e hora da \n\n fatura \n\nFATURA INDISPENSAVEL PARA \nTROCA E DEVOLUÇAO ATÉ 15 DIAS \n e419-Entifdo por programa\n\n Certificado n°2280/AT\n\nPRO COMPRAR NA NOSSA LOJA"
+  }
+}

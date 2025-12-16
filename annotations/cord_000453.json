@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 49091.0,
+    "tax": 4909.0,
+    "tip": 0.0,
+    "total": 54000.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Kupon 13",
+      "quantity": 1,
+      "unit_price": 49091.0,
+      "total_price": 49091.0,
+      "category": "Coupon",
+      "accounting_category": "Discounts",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 46000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000453.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Kupon 13 49,091\nSubtotal 49,091\nPBI (10%) 4,909\nDine In Total 54,000\nCash Rp.100,000\nChange 46,000"
+  }
+}

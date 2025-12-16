@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 27.272,
+    "tax": 2.727,
+    "tip": 0.0,
+    "total": 29.999,
+    "accounting_category": "Food",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Nutella Crepe",
+      "quantity": 1,
+      "unit_price": 27.272,
+      "total_price": 27.272,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 20.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000102.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Nutella Crepe\nSubTotal: 27.272\nFDI: 2.727\nTotal: 29.999\nLash: 30.000\nChange: 20.000"
+  }
+}

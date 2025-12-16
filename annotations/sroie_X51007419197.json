@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "MYNEWS RETAIL SB",
+    "address": "UNIT 105, BLOCK A, PUSAT DAGANGAN PHILEO DAMANSARA, NO. 9, JALAN 16/11, 46350, PETALING JAYA, SELANGOR",
+    "phone": "1800 88 1231",
+    "tax_id": "000709361664",
+    "website": "myNEWS.com.my"
+  },
+  "transaction": {
+    "date": "2018-06-28",
+    "time": "15:11:35",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 6.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 6.0,
+    "accounting_category": "Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GP GREENCELL EXTRA HEAVY DUTY AAA 4+2",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Batteries",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 44.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007419197.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TQ FOR SHOPPING WITH myNEWS.com\nPUSAT DAGANGAN PHILEO DAMANSARA\nUNIT 105, BLOCK A,PUSAT DAGANGAN PHILEO DAMANSARA,\nNO. 9, JALAN 16/11, 46350, PETALING JAYA, SELANGOR\nmyNEWScareline : 1800 88 1231\nmyNEWScareline@mynews.com.my\nMYNEWS RETAIL SB(306295-X) FKA BISON STORES SB\nTAX REG ID CBP 000709361664\nQTY PRICE DISC AMT\nGP GREENCELL EXTRA HEAVY DUTY AAA 4+2\n1 6.00 0.00 6.00 SR\nSUB TOTAL 6.00\nGRAND TOTAL 6.00\nCASH 50.00 MYR 50.00\nCHANGE DUE 44.00\nTOTAL QTY 1\nSR : 0% GOODS: 6.00 TAX : 0.00\n28/06/2018 3:11:35 PM\nBILL 1856 - 608 - 9161 - 2806180322\nPRICE IS GST INCLUSIVE"
+  }
+}

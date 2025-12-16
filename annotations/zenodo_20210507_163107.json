@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Modelo Continente Hipermercados SA",
+    "address": "Avenida Lusíada Centro Comercial Colombo, 1500-392 Lisboa",
+    "phone": "217713800",
+    "tax_id": "502011475",
+    "website": "www.continente.pt"
+  },
+  "transaction": {
+    "date": "2019-10-18",
+    "time": "23:40:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 8.0,
+    "tax": 1.5,
+    "tip": 0.0,
+    "total": 10.8,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CALICE KASA 350ML SAFIRA",
+      "quantity": 12,
+      "unit_price": 0.67,
+      "total_price": 8.0,
+      "category": "Houseware",
+      "accounting_category": "Furniture & Home Furnishings",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 2.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_163107.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MCH Colombo\nModelo Continente Hipermercados SA\nRegistada CRC Porto sob nº 502011475\nNIF: PT502011475\nC.S.: 89.360.000,00 EUR SIRPEE: PT00251\nFatura Duplicado\nNro: FT AA1046/026803 18/10/2019 23:40\nCliente: FLIXHOME MEDIACAO IMOBILIARIA\nNIF: PT510776914 Morada: LISBOA\nLocal: LISBOA\nC. Postal: 1250-000\nIVA DESCRIÇAO VALOR\nCasa-Mesa/Mobiliario:\nCALICE KASA 350ML SAFIRA\n2 x 0,67 8,00\nL32P COPOS 4,00\nTOTAL A PAGAR 8.00\nNumerario 10.80\nTROCO 2.00\n€\n%C IVA Total Liq. IVA\n23.00% 6.50 1.50\nDescontos Imediatos Concedidos 4.00\n1910180460024800000294\nLocal carga: Morada da loja\nLocal descarga: Morada do cliente\nData: 18/10/2019 Hora: 23:40\nIVA INCLUIDO\nMCH Colombo\nMorada Loja:\nAvenida Luisada Centro Comercial Colombo\n1500-392 Lisboa\nTel.: 217713800\n\nTALAO INDISPENSAVEL PARA TROCA PRAZO DE DEVOLUÇAO: 15 DIAS\nwww.continente.pt"
+  }
+}

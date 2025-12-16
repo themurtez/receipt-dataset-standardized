@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "GALP",
+    "address": "Est. Montechorro Torre Mosquiteira, 8200-387 Albufeira",
+    "phone": "",
+    "tax_id": "PT508663999",
+    "website": "clientes@galp.com"
+  },
+  "transaction": {
+    "date": "2019-06-20",
+    "time": "11:36:37",
+    "currency": "EUR",
+    "payment_method": "Debit Card",
+    "subtotal": 40.0,
+    "tax": 7.48,
+    "tip": 0.0,
+    "total": 40.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GASOLEO SIMPLES",
+      "quantity": 1,
+      "unit_price": 40.0,
+      "total_price": 40.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210322_172109.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "galp\nPRE-PAGAMENTO\nLUBRALBUFEIRA, LDA / 19017\nLUBRALBUFEIRA EMPRESOSA LDA\nEST. MONECHORRO. TORRE MOSUIEIRA\n8200-387 ALBUFEIRA Tel:\nNTF PT508663999\nFatura/Recibo\nQuantioade Preço\nPreco Unitario\n29.43 L Bomba Os EUR\nGASOLEO SIMPLES 40.00 A\n1.359 EUR / L EUR 40.00\n23.00 x IVA A EUR 7.48\nCliente: 19414\nNome: FLEKHOME ALGARVE LDA\nMorada:\nCodigo Postal:\nContribuinte: 514407395\nMatricula: 54-C0-40\nNome Dequa: Valintina Kubivova\nDoc N.\n1731330131002017031133\nCX-6 - Processado por Programa\nCertificado n. 1396/AT\nData: Hora Nº1 POS N°op Turno\n2019-06-20 11:36 56133 01 0002 810\nFimea o IVA da Caixa nos casos em que tal\nnia seja aplicavel ao ciente\nciientesgalop.com\nA sua opinião ė importante!\nPartilhe-a connosco em\nopiniao.galp.com/postos\nTotal EUR 40 00\nCARTÃO DEBITO EUR 40 00\nTerminal Pagamento Automático: 00069589\nData: 2019-06-20 Hora: 11:36:37\nPeriodo: 006 Trãsacöo: 006 Morsaçem:093\nMILLENIUM BCP\nAMAPAL/SALVADOR\n**** 1005 /27\nAGUA00000***** *****\n COHPIA\nBORITA: 40,00 VELO PP N\nID ESIA 0001214402 AUT: 169452\nPROCESSADO POR SISTES"
+  }
+}

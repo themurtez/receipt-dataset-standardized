@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "E. Baldi",
+    "address": "375 North Canon Drive, Beverly Hills, CA 90210",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-30",
+    "time": "14:22:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 134.0,
+    "tax": 12.73,
+    "tip": 0.0,
+    "total": 146.73,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Iced Tea",
+      "quantity": 1,
+      "unit_price": 4.5,
+      "total_price": 4.5,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Rombo Carciofi Fungh",
+      "quantity": 1,
+      "unit_price": 48.0,
+      "total_price": 48.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Sparkling Water Larg",
+      "quantity": 1,
+      "unit_price": 8.5,
+      "total_price": 8.5,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Branzino Grigliato",
+      "quantity": 1,
+      "unit_price": 40.0,
+      "total_price": 40.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Carpaccio Red Snapp",
+      "quantity": 1,
+      "unit_price": 33.0,
+      "total_price": 33.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1135-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "E. BALDI\n375 North Canon Drive\nBeverly Hills, CA 90210\n\nTUE JANUARY 30,2018\nCHECK #278470-1\nTABLE #6\n\n1 ICED TEA $4.50\n1 ROMBO CARCIOFI FUNGH $48.00\n1 SPARKLING WATER LARG $8.50\n1 BRANZINO GRIGLIATO $40.00\n1 CARPACCIO RED SNAPPE $33.00\n\nFOOD : $134.00\nSUB-TOTAL : $134.00\n\nTAX $12.73\nTOTAL $146.73\n\nTime: 14:22 2 CUSTOMERS"
+  }
+}

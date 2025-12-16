@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Master 2080",
+    "subtotal": 51000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 51000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "PEPPERONI",
+      "quantity": 1,
+      "unit_price": 23000.0,
+      "total_price": 23000.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "ALMOND CREAM CHEESE",
+      "quantity": 1,
+      "unit_price": 28000.0,
+      "total_price": 28000.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000196.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PEPPERONI\n1 x 23,000 23,000\nALMOND CREAM CHEESE\n1 x 28,000 28,000\nSUB TOTAL 51,000\nGRAND TOTAL 51,000\nMASTER 2080 51,000\nCHANGE DUE 0"
+  }
+}

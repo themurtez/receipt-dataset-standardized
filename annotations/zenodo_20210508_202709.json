@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "MTD-Ferragens do Combro Lda",
+    "address": "Rua do Combro Nº3, 1200-110 Lisboa",
+    "phone": "21 347 67 62",
+    "tax_id": "513 350 535",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-08-02",
+    "time": "17:51:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 7.32,
+    "tax": 1.68,
+    "tip": 0.0,
+    "total": 9.0,
+    "accounting_category": "Hardware",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chave Palheta Simples",
+      "quantity": 1,
+      "unit_price": 9.0,
+      "total_price": 9.0,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_202709.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MTD-FERRAGENS DO COMBRO LDA\n\nFERRAMENTAS CHAVES FECHADURAS\n\nELÉCTRICO MAT. CANALIZACO\n\nRUA DO COMBRO Nº3 1200-110 LISBOA\n\nNIF: 513 350 535\n\njose.m.duarte@sapo.pt\n\nTel. 21 347 67 62\n\nFATURA SIMPLIFICADA\n\nFINAL\n\n02/08/2018 17:51 Nº A/25805\n\nCliente: FLKEHOME Lda\n\nNIF: 510776914\n\nArtigo Qtd Preço € Valor €\n\nChave Palheta Simples\n\n23% 1 Un x 9,00 9,00\n\n#001\n\nTOTAL 9,00\n\nNumerário 9,00\n\nTroco 0,00\n\nIVA Incluído à taxa indicada\n\nTaxa% Sujeito IVA Total\n\n23,00 7,32 1,68 9,00\n\nData de carga: 02/08/2018\n\nHora de carga: 18:01\n\nLocal carga: N/Instalações\n\nMatrícula \n\nHora descarga \n\nLocal descarga: N/Instalações\n\nb30i-Processado por programa certificado\n\nNº 88/AT - 1 A/25805\n\nOpr: Administrador\n\nOBRIGADO VOLTE SEMPRE"
+  }
+}

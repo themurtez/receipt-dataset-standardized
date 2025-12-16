@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Shell ISNI Petro Trading",
+    "address": "LOT 2685 JLN GENTING KLANG 53300 KL Site 1066",
+    "phone": "03-40212008",
+    "tax_id": "0010 9010 5344",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-18",
+    "time": "15:17:00",
+    "currency": "MYR",
+    "payment_method": "Visa",
+    "subtotal": 86.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 86.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "V-Power 97",
+      "quantity": 35.1,
+      "unit_price": 2.45,
+      "total_price": 86.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005306399.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Shell ISNI PETRO TRADING\nCompany No:002643278-A\nLOT 2685 JLN GENTING KLANG\n53300 KL Site 1066\nTelephone 03- 40212008\nGST No: 0010 9010 5344\n\n>>>>>> Recei pt <<<<<<\nInvoice number: 60000053668\n\n35.10 litre Pump # 02\nV-Power 97 RM 86.00\n2.450 RM / litre\nTotal RM 86.00\nVisa RM 86.00\n6.00% GST A RM 4.87\nTotal Gross A RM 86.00\n\nShell Loyalty Card\n6018840126306675\nPoints Awarded 35\n\nDate Time Num OPT\n18/03/18 15:17 06051 02\nDiesel & Petrol RON 95\nGiven Relief under Section\n56 (3) (b) GST Act 2014\n\nThank You\nPlease Come Again"
+  }
+}

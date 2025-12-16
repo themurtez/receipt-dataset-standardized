@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "AEON CO. (M) BHD",
+    "address": "3RD FLR, AEON TAMAN MALURI SC JLN JEJAKA, TAMAN MALURI CHERAS, 55100 KUALA LUMPUR",
+    "phone": "1-300-80-AEON (2366)",
+    "tax_id": "002017394688",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-03-06",
+    "time": "20:01:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 75.0,
+    "tax": 4.25,
+    "tip": 0.0,
+    "total": 75.0,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "AMBROSIAL GREEK",
+      "quantity": 1,
+      "unit_price": 75.0,
+      "total_price": 75.0,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 25.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005433494.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AEON CO. (M) BHD (126926-H)\n3RD FLR, AEON TAMAN MALURI SC JLN JEJAKA, TAMAN MALURI\nCHERAS, 55100 KUALA LUMPUR\nGST ID : 002017394688\nSHOPPING HOURS\nSUN-THU:1000 HRS - 2230 HRS\nFRI-SAT:1000 HRS - 2300 HRS\n----------------------------------------\n1x 0000007998511 75.00SR\nAMBROSIAL GREEK\nSub-total 75.00\nTotal Sales Incl GST 75.00\nTotal After Adj Incl GST 75.00\nCASH 100.00\nItem Count 1 Change Amt 25.00\nInvoice No : 2016030610100904498\nGST Summary Amount Tax\nSR @ 6% 70.75 4.25\nTotal 70.75 4.25\n06/03/2016 20:01 1010 008 0069448\n0356532 PJ PIRYALATHA\nAEON PERMAS JAYA\nTEL : 1-300-80-AEON (2366)\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN"
+  }
+}

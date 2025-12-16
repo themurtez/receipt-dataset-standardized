@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "KFC",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 37727.0,
+    "tax": 3773.0,
+    "tip": 0.0,
+    "total": 41500.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CKM 1 OR",
+      "quantity": 1,
+      "unit_price": 29545.0,
+      "total_price": 29545.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sundae",
+      "quantity": 1,
+      "unit_price": 8182.0,
+      "total_price": 8182.0,
+      "category": "Dessert",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 500.0,
+    "change_due": 10000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000370.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 CKM 1 OR 29,545\n1 Sundae 8,182\nSub Total 37,727\nP. Rest 10 % 3,773\nTotal 41,500\nCash 51,500\nKembali 10,000"
+  }
+}

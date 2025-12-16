@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Massimo Dutti",
+    "address": "Avenida Fontes Pereira de Melo, n49 2º Esq - 1050-120 Lisboa",
+    "phone": "291 234 192",
+    "tax_id": "NIF 502608285",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-20",
+    "time": "20:28:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 16.35,
+    "tax": 3.6,
+    "tip": 0.0,
+    "total": 19.95,
+    "accounting_category": "Clothing",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "POLO",
+      "quantity": 1,
+      "unit_price": 19.95,
+      "total_price": 19.95,
+      "category": "Clothing",
+      "accounting_category": "Clothing",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.05
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_201028.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Massimo Dutti\nGRUPO MASSIMO DUTTI\nLA VIE\nTLF: 291 234 192\nCIF: A78115201\nITALCO - MODA ITALIANA, S.A.\nAvenida Fontes Pereira de Melo,\nn49 2º Esq - 1050-120 Lisboa\nCRC LISBOA 2284\nCap.Social 249.400,00 Euros\nNIF 502608285\nFATURA SIMPLIFICADA\nLoja: 4574\nData: 20-03-2019 Hora: 20:28\nFatura: FS 004574012019/138083 54294\nTrans: 309020\nNIF: 510776914\n4574 138083 01 Trans 309020\nIVP IVA QNT. VALOR VALOR T\nTHI 22,00 1 19,95 19,95 V\n10001088 0076215340103 POLO\nSUBTOTAL 16,35\nIVA-MA 22,00% 3,60\nSUBTOTAL IVA 22,00% 19,95\nTOTAL FATURA 19,95\nDinheiro 20,00€\nTROCO Dinheiro 0,05€\niVYiU-Processado por programa\ncertificado nº 2742/AT\nRef: 01 - 138083\n***** OBRIGADO PELA VISITA *****\nPrecos unitarios com IVA incluido\n"
+  }
+}

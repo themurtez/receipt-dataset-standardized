@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 68180.0,
+    "tax": 6818.0,
+    "tip": 0.0,
+    "total": 75000.0,
+    "accounting_category": "food_and_drink",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "FL-Xmas 30 Off",
+      "quantity": 1,
+      "unit_price": 68180.0,
+      "total_price": 68180.0,
+      "category": "promotion",
+      "accounting_category": "food_and_drink",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "PAKET SLICES - FL Cake - French Vanilla SLC",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "cake",
+      "accounting_category": "food_and_drink",
+      "category_confidence": 0.7
+    },
+    {
+      "name": "PAKET SLICES - FL Cake - Oreo SLC",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "cake",
+      "accounting_category": "food_and_drink",
+      "category_confidence": 0.7
+    },
+    {
+      "name": "PAKET SLICES - FL Cake - Strawberry SLC",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "cake",
+      "accounting_category": "food_and_drink",
+      "category_confidence": 0.7
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 2.0,
+    "change_due": 25000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000253.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 FL-Xmas 30 Off 68,180\n1 » PAKET SLICES 0\n1 » FL Cake - French Vanilla SLC 0\n1 » PAKET SLICES 0\n1 » FL Cake - Oreo SLC 0\n1 » PAKET SLICES 0\n1 » FL Cake - Strawberry SLC 0\nTotal Menu 1\nSUBTOTAL 68,180\nDISKON 0\nBIAYA TAMBAHAN 0\nPAJAK PB1 10% 6,818\nBIAYA CC 0\nPEMBULATAN 2\nTOTAL 75,000\nTUNAI 100,000\nNON TUNAI 0\nKEMBALI 25,000"
+  }
+}

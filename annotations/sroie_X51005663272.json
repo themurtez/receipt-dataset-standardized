@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "WAHIN HARDWARE SDN BHD",
+    "address": "425, JALAN PAHANG, SETAPAK, 53000 KUALA LUMPUR.",
+    "phone": "603-40232487, 40238191, 40218976",
+    "tax_id": "000048898048",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-04",
+    "time": "17:06:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 42.4,
+    "tax": 2.4,
+    "tip": 0.0,
+    "total": 42.4,
+    "accounting_category": "Hardware",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "14\" MINI ROLLER REFILL",
+      "quantity": 2,
+      "unit_price": 2.65,
+      "total_price": 5.3,
+      "category": "Hardware",
+      "accounting_category": "Maintenance",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "24\"X18\" ROLLERPAINT HANDLE",
+      "quantity": 2,
+      "unit_price": 3.18,
+      "total_price": 6.36,
+      "category": "Hardware",
+      "accounting_category": "Maintenance",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "33.5LRT BLACK OXIDE PAINT",
+      "quantity": 1,
+      "unit_price": 30.74,
+      "total_price": 30.74,
+      "category": "Hardware",
+      "accounting_category": "Maintenance",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005663272.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "WAHIN HARDWARE SDN BHD\n148481-U\n425, JALAN PAHANG,\nSETAPAK, 53000 KUALA LUMPUR.\nTEL: 603-40232487, 40238191, 40218976,\nSTORE: 40225409 FAX : 603-40217507.\nGST Number : 000048898048\nTAX INVOICE\nInvoice No.: CSO013132\nDate : 04/12/17 5:06 PM\nCashier : WAHIN\n==========================================\nItemDescription\nQuantity Price (GST Inc.) Amount\n14\" MINI ROLLER REFILL\n2 2.6500 5.30 SR\n24\"X18\" ROLLERPAINT HANDLE\n2 3.1800 6.36 SR\n33.5LRT BLACK OXIDE PAINT\n1 30.7400 30.74 SR\n==========================================\nGross Amount : 40.00\nTotal GST Amt : 2.40\nSub Total : 42.40\nRounding Adj.: 0.00\nTotal (RM) : 42.40\nAmount Paid : 42.40\nAmount Change : 0.00\nQuantity Count: 5\nTotal Item Sold: 3\n==========================================\nGST SummaryAmount(RM) GST Amount(RM)\n==========================================\nSR@6% 40.00 2.40 /\nTHANK YOU !"
+  }
+}

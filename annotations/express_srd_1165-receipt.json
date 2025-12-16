@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "EL CHICO MEXICAN RESTAURANT",
+    "address": "JBR",
+    "phone": "04-7059680",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2023-11-12",
+    "time": "17:41:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 112.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 117.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Ts Guac",
+      "quantity": 1,
+      "unit_price": 48.0,
+      "total_price": 48.0,
+      "category": "Side",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Grande Chicken Burrito",
+      "quantity": 1,
+      "unit_price": 64.0,
+      "total_price": 64.0,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Delivery Charge",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Delivery Fee",
+      "accounting_category": "Service",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1165-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "EL CHICO MEXICAN RESTAURANT\nJBR\nTEL: 04-7059680\n\n1050 Home Del\nTbl 1014/1    Chk 1958    Gst 0\nNov12 16 05:41PM\n\nHome Delivery\n1 Ts Guac                 48.00\n1 Grande Chicken\nBuritto                   64.00\n1 Delivery Charge          5.00\n\nAmount Due              117.00\n\n***Thank You For Coming***\nHome Delivery No:600561112"
+  }
+}

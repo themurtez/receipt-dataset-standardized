@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Ipanema Brazilian Steak House",
+    "address": "2023 South Pine Avenue, Ocala, Florida 34471",
+    "phone": "(352) 622-1741",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-13",
+    "time": "21:16:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 41.95,
+    "tax": 2.94,
+    "tip": 10.49,
+    "total": 55.38,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Dinner Rodizio",
+      "quantity": 1,
+      "unit_price": 41.95,
+      "total_price": 41.95,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1174-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ipanema\nBrazilian Steak House\n2023 South Pine Avenue\nOcala, Florida 34471\n(352) 622-1741\nDate: 04/13/18 Time: 09:16 pm\nOrder #: 415\nServer: Kyle118\nGuest: 1\nTable #: 12\nName:\nDINING\n1 DINNER RODIZIO $41.95\nSub-total: $41.95\nGratuity: $10.49\nTax: $2.94\nTotal: $55.38\nPay This Amount:\nRecommended Gratuity:\n20% = $8.39 23% = $9.65 25% = $10.49\nThank You\nPlease Come Again"
+  }
+}

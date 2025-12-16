@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Elencojasmin LDA",
+    "address": "Rua Comandante Germano Dias, 10, 2780-247 Oeiras",
+    "phone": "214437777",
+    "tax_id": "510793568",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-16",
+    "time": "09:45:53",
+    "currency": "EUR",
+    "payment_method": "cash",
+    "subtotal": 3.25,
+    "tax": 0.75,
+    "tip": 0.0,
+    "total": 4.0,
+    "accounting_category": "sales",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Pilha R06",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "batteries",
+      "accounting_category": "office supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Pilha R06",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "batteries",
+      "accounting_category": "office supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 16.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_140713.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ELENCOJASMIN LDA\nGRANDE BAZAR\nContribuinte Nr: 510793568\nRUA COMANDANTE GERMANO DIAS , 10\n2780-247 0EIRAS\nTel: 214437777\n2019-02-16 9:45:53\nNome : Flikehome Lda\nCont.Nr: 510776914\nMorada : Lisboa\nORIGINAL\nFatura Nr: FAC 101/00020180\nIVA Descricao Total\n23% Pilhas 1 X 2.00 2.00\n23% Pilha R06 1 X 2.00 2.00\nTotal A Pagar Euros: 4.00\nNumero De Artigos : 2\nRecebido (Euros) : 20.00\nTroco (Euros) : 16.00\nIVA% Base IVA Total\n23% 3.25 0.75 4.00\nTotal: 4.00Euros\nFatura indispensavel para troca.\nNJ14 - Processado por Programa\nCertificado Nr: 1174/AT\nOBRIGADO E VOLTE SEMPRE"
+  }
+}

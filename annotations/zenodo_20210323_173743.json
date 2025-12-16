@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Shopping Loule",
+    "address": "AV ANTONIO MARIA ANDRADE DE SOUSA LJ N-5, 8100-724 LOULÉ",
+    "phone": "",
+    "tax_id": "509713955",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-14",
+    "time": "11:55:54",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 11.5,
+    "tax": 2.15,
+    "tip": 0.0,
+    "total": 11.5,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Lâmpadas",
+      "quantity": 1,
+      "unit_price": 11.5,
+      "total_price": 11.5,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_173743.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SHOPPING LOULE\nLEIA CREIA LDA\nAV ANTONIO MARIA ANDRADE DE SOUSA LJ N-5\n8100-724 LOULÉ\nCONT:509713955\nORIGINAL\nFatura No: 2019001451\nData:14-05-2019 11:55:54\nQUA. PRE. IVA% DESCRICAO SOMA\n1x 11,50 23% LAMPADAS 11,50\nIncidenc: IVA% IVA\n9,35 23% 2,15\n1 ITEMS TOTAL: 11,50 Euro\nIVA INCLUIDO A TAXA INDICADA\nProcessado por computador\nObrigado pela sua visita\nA/w Processado por programa\ncertificado No: 1350/AT/SMERPS GESTIONES\nPLUS\nNome: FLUKE HOME ALGARVE LDA\nCont: 514407396\nMorada: LOULÉ\nPARA TROCA 15 DIAS,\nNAO DEVOLUCAO DEINHEIROS."
+  }
+}

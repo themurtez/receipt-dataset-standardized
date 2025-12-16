@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Bicho D'Agua",
+    "address": "Praias de S Joao de Caparica 2825 444, S. Joao de Caparica",
+    "phone": "966008839",
+    "tax_id": "510443397",
+    "website": "www.pingwin.ws"
+  },
+  "transaction": {
+    "date": "2018-06-23",
+    "time": "13:12:00",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 20.5,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 20.5,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Cachorro Espec.",
+      "quantity": 2,
+      "unit_price": 4.0,
+      "total_price": 8.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Vitalls",
+      "quantity": 2,
+      "unit_price": 1.0,
+      "total_price": 2.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Hamb./cebola",
+      "quantity": 1,
+      "unit_price": 4.5,
+      "total_price": 4.5,
+      "category": "Food & Beverage",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cafe",
+      "quantity": 2,
+      "unit_price": 1.0,
+      "total_price": 2.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Croquetes",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Food & Beverage",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_205013.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Bicho D'Agua\nIncrivel Verao, Act. Hot. Tur., Lda\nPraias de S Joao de Caparica 2825 444\nS. Joao de Caparica\nTel.966008839\nN. Contrib. 510443397\nRegisto na Cons. Lisboa n. 510443397\nCapital Social 5000 e\n\nNIF: 510776914\nFatura Simplificada FS 18EDBDA/4128\n2018-06-23 13:12\n\nOriginal\n\nDocumentos referenciados:\nTC 18EDBDA 3774\n\nQt Descricao         P.Unit   Valor\n2  Cachorro Espec.   e 4.00   e 8.00\n2  Vitalls   NOR     e 1.00   e 2.00\n1  Hamb./cebola     e 4.50    e 4.50\n2  Cafe     INT     e 1.00    e 2.00\n1  Croquetes        e 1.50    e 1.50\nTotal liq.          e 20.50\n\nPagamento           Valor\nMultibanco          e 20.50\n\nTaxa    Base   Valor    Total\n13.00   e 16.37 e 2.13  e 18.50 INT\n23.00         e 2.00   e 2.00 NOR\n\nIVA Incluido\n343 23-joao\n\nQX94 Processado por programa certificado\nn.2513/AT\n\nwww.pingWin.ws"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 117273.0,
+    "tax": 11727.0,
+    "tip": 0.0,
+    "total": 129000.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Bubble Gum",
+      "quantity": 1,
+      "unit_price": 18182.0,
+      "total_price": 18182.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cappuccino Blend",
+      "quantity": 1,
+      "unit_price": 20363.0,
+      "total_price": 20363.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Strawberry",
+      "quantity": 1,
+      "unit_price": 18182.0,
+      "total_price": 18182.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cookies and Cream",
+      "quantity": 1,
+      "unit_price": 20909.0,
+      "total_price": 20909.0,
+      "category": "Dessert",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Choco Almond",
+      "quantity": 1,
+      "unit_price": 18182.0,
+      "total_price": 18182.0,
+      "category": "Dessert",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cappuccino Blend",
+      "quantity": 1,
+      "unit_price": 20909.0,
+      "total_price": 20909.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 21000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000688.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 BUBBLE GUM          18.182\n1 CAPPUCINO BLEND     20.363\n1 STRAWBERRY          18.182\n1 COOKIES AND CREAM   20.909\n#4x Gula Murni 100%\n1 CHOCO ALMOND        18.182\n#Gula Murni 100%\n1 CAPPUCINO BLEND     20.909\n#GulaMurni 100%\n\nSubtotal            117.273\nPAJAK 10%            11.727\nTotal               129.000\n\nTendered           150.000\nKembali             21.000\n"
+  }
+}

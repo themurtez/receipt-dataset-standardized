@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "DU ZON WU",
+    "address": "RUA DO LORETO N 38, 1200-242 LISBOA",
+    "phone": "213881887",
+    "tax_id": "237397257",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-01-01",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 4.47,
+    "tax": 1.03,
+    "tip": 0.0,
+    "total": 5.5,
+    "accounting_category": "Electrical Products",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Produtos Electricos",
+      "quantity": 1,
+      "unit_price": 5.5,
+      "total_price": 5.5,
+      "category": "Electrical Products",
+      "accounting_category": "Electrical Products",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_190425.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "DU ZON WU\nContribuinte N.: 237397257\nRUA DO LORETO N 38\n1200-242 LISBOA\nTel: 213881887\n2019-01-01\n\nNome: F LIKEHOME\nCont.: 510776914\nMorada: LISBOA\n\nORIGINAL\nFatura Nr: FAC 101/090007167\n\nIVA Decricao Total\n23% Produtos Electricos 5.50\n1 X 5.50\n\nTotal A Pagar Euros: 5.50\nNumero De Artigos : 1\n\nRecebido (Euros) : 5.50\nTroco (Euros) : 0.00\n\nIVAX Base IVA Total\n23% 4.47 1.03 5.50\n\nTotal: 5.50Euros\n\nFatura indispensavel para troca.\nProcessado por Programa Certif. No: 1174/AT\nOBRIGADO E VOLTE SEMPRE"
+  }
+}

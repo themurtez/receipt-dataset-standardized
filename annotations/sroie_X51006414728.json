@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Foodelico Sdn. Bhd.",
+    "address": "Lot LG10, AEON Taman Universiti Shopping Center, No. 4, Jalan Pendidikan, Taman Universiti, 81300 Skudai, Johor",
+    "phone": "",
+    "tax_id": "1268140-H",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-29",
+    "time": "16:19:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 13.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 13.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Kek Span Klasik",
+      "quantity": 1,
+      "unit_price": 13.0,
+      "total_price": 13.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006414728.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KEK SPAN OREE\nFoodelico Sdn. Bhd. (1268140-H)\nLot LG10, AEON Taman Universiti\nShopping Center, No. 4,\nJalan Pendidikan, Taman Universiti\n81300 Skudai, Johor\n<< ** TAX INVOICE ** >>\nTax invoice no: C4004290047 Station: C40\nDate: 29-Apr-2018 04:19 PM Cashier: Ng Wei Cong\nCustomer No: 1047\nKek Span Klasik 13.00\nSub Total: 13.00\nGST: 0.00\nGrand Total: 13.00\nPayment Type Amount Tips Changes\nCASH 13.00 0.00 0.00\nGST Summary Amount (RM) GST (RM)\nSR=6% 0.00 0.00\nZR=0% 0.00 0.00\nThank You\nPlease Come Again"
+  }
+}

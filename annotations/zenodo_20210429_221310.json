@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Worten Equipamentos para o Lar SA",
+    "address": "Rua dos Mochos, 46, 4415-307, Matosinhos",
+    "phone": "",
+    "tax_id": "",
+    "website": "www.worten.pt"
+  },
+  "transaction": {
+    "date": "2019-11-13",
+    "time": "17:43:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 17.98,
+    "tax": 5.0,
+    "tip": 0.0,
+    "total": 32.02,
+    "accounting_category": "retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Acess ITARMTA Fixed 4 TOUNS GARZA 1/1",
+      "quantity": 1,
+      "unit_price": 17.98,
+      "total_price": 17.98,
+      "category": "electronics",
+      "accounting_category": "goods",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_221310.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Worten Equipamentos para o Lar SA\nRua dos Mochos, 46, 4415-307, Matosinhos\nResidente em Fato de Saude 30.10.30230\nNIF: 553 303 133\n\nFaturação Final\nDoc. n: MAX030 613431 7795 1730 43\n\nCliente: ITARMTA MEGHAN IMOBILIARIA\nNIF: 315199074\nMorada: Lisboa\nLocal: Lisboa\n\nIVA DESCRICAO VALOR\n\nAcess ITARMTA Fixed 4 TOUNS GARZA 1/1\n8.99\n\nTOTAL A PAGAR 17.98\nTOTAL 5.00\nTOTAL 32.02\n\nWrestrant: Morada da Loja\n\nLocal: Morada do cliente\n\n13/11/2019 Hora: 17.43\n\nURI Amercias\nEstifa: Fumeres Plaza, Rua Maria Ulrich, 1\n1070-173 Lisboa"
+  }
+}

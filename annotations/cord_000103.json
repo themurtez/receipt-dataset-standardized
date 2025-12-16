@@ -1,0 +1,136 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 940000.0,
+    "tax": 99640.0,
+    "tip": 0.0,
+    "total": 1096040.0,
+    "accounting_category": "hospitality",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "IKAN GURAME MED",
+      "quantity": 1,
+      "unit_price": 158000.0,
+      "total_price": 158000.0,
+      "category": "food",
+      "accounting_category": "meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SOP IKAN",
+      "quantity": 1,
+      "unit_price": 129000.0,
+      "total_price": 129000.0,
+      "category": "food",
+      "accounting_category": "meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CUMI GR JUNJAN",
+      "quantity": 1,
+      "unit_price": 129000.0,
+      "total_price": 129000.0,
+      "category": "food",
+      "accounting_category": "meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CUMI GR TEPUNG",
+      "quantity": 1,
+      "unit_price": 129000.0,
+      "total_price": 129000.0,
+      "category": "food",
+      "accounting_category": "meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "POCAT BWG PUTIH",
+      "quantity": 1,
+      "unit_price": 90000.0,
+      "total_price": 90000.0,
+      "category": "food",
+      "accounting_category": "meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "LUMPIA UDG PREM",
+      "quantity": 1,
+      "unit_price": 144000.0,
+      "total_price": 144000.0,
+      "category": "food",
+      "accounting_category": "meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "NASI PUTIH",
+      "quantity": 6,
+      "unit_price": 10000.0,
+      "total_price": 60000.0,
+      "category": "food",
+      "accounting_category": "meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "HOT TEA",
+      "quantity": 3,
+      "unit_price": 12000.0,
+      "total_price": 36000.0,
+      "category": "beverages",
+      "accounting_category": "drinks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "AQUA",
+      "quantity": 1,
+      "unit_price": 11000.0,
+      "total_price": 11000.0,
+      "category": "beverages",
+      "accounting_category": "drinks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ICED TEA",
+      "quantity": 2,
+      "unit_price": 12000.0,
+      "total_price": 24000.0,
+      "category": "beverages",
+      "accounting_category": "drinks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ICED TEA",
+      "quantity": 1,
+      "unit_price": 12000.0,
+      "total_price": 12000.0,
+      "category": "beverages",
+      "accounting_category": "drinks",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 18,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000103.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 IKAN GURAME MED 158,000\nSOP IKAN\n1 CUMI GR JUNJAN 129,000\n=*MEDIUM*=\n1 CUMI GR TEPUNG 129,000\n=*MEDIUM*=\n1 POCAT BWG PUTIH 90,000\n=*MEDIUM*=\n1 LUMPIA UDG PREM 144,000\n=*MEDIUM*=\n6 NASI PUTIH 10,000 60,000\n3 HOT TEA 12,000 36,000\n1 AQUA 11,000\n2 ICED TEA 12,000 24,000\n1 ICED TEA 12,000\n\nFOOD 797,000\nBEVERAGES 83,000\nOTHERS 60,000\nSUBTOTAL 940,000\nSERVICE CHARGE 56,400\nTax 10% 99,640\nDU 1,096,040"
+  }
+}

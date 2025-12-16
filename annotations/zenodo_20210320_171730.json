@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "Restaurante Lobo do Mar",
+    "address": "Urb. Quinta dos Arcos, Ed. Quinas II Lote 6 1oDrt, 8365-186 Armacao de Pera",
+    "phone": "918194530",
+    "tax_id": "513 762 558",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-29",
+    "time": "14:24:00",
+    "currency": "EUR",
+    "payment_method": "Debit Card",
+    "subtotal": 22.12,
+    "tax": 2.88,
+    "tip": 0.0,
+    "total": 25.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Cesto Pao",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pate de Sardinh",
+      "quantity": 1,
+      "unit_price": 0.9,
+      "total_price": 0.9,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lulinhas fritas",
+      "quantity": 1,
+      "unit_price": 6.9,
+      "total_price": 6.9,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Batata frita",
+      "quantity": 1,
+      "unit_price": 1.6,
+      "total_price": 1.6,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Agua 0.7L",
+      "quantity": 1,
+      "unit_price": 0.9,
+      "total_price": 0.9,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Queijinho Alent",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Deca de Casa",
+      "quantity": 1,
+      "unit_price": 3.6,
+      "total_price": 3.6,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cafe",
+      "quantity": 1,
+      "unit_price": 0.8,
+      "total_price": 0.8,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210320_171730.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Restaurante Lobo do Mar\nDe: Meridiano das Travessuras-Unip. Lda.\nNIF: 513 762 558\nUrb. Quinta dos Arcos\nEd. Quinas II Lote 6 10Drt.\n8365-186 Armacao de Pera\nTelm.918194530\n\n2019-03-29    FATURA-RECIBO N:\nOriginal        FT 1A1901/44\n14:24 MESA N: 2/0\nf likehme algarve lda\nlisboa\n\n0000\nContribuinte: 514407395\n\nQTD  UNI  DESCRICAO      IVA  VALOR\n1 Uni  Cesto Pao        13%  2,00\nPreco: 1,00/Unidade\n1 Uni Pate de Sardinh   13%  0,90\n1 Uni Lulinhas fritas   13%  6,90\n1 Uni Batata frita      13%  1,60\n1 Uni Agua 0.7          13%  0,90\nPreco: 2,20/Unidade\n1 Uni Queijinho Alent   13%  3,00\n1 Uni Deca de Casa      13%  3,60\n1 Uni Cafe              13%  0,80\n\nTAXA            IVA CONC.\n13%             2,88  22,12\nTOTAL INCIDENCIAS:    2,88  22,12\n\nTOTAL:                 Eur 25,00\n\nVendido por: Gerente\nPago por Cartao de Debito\n\nObrigado pela sua preferencia\nVolte Sempre\n\nInstalado por ACJ Informatica\n\n---------//SF-Processado por programa\ncertificado n. 198/AT\n\n-------------------------------\nLicencado a: Meridiano das Travessuras, Lda\nContribuinte: 513762558"
+  }
+}

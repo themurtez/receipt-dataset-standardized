@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "JIN & JIN LDA.",
+    "address": "RUA CONDES DE MONSANTO 2B/C, 1100-159 LISBOA",
+    "phone": "96683862",
+    "tax_id": "507097017",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-10-11",
+    "time": "16:15:00",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 13.41,
+    "tax": 3.08,
+    "tip": 0.0,
+    "total": 16.49,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ARTIGO HIGIENE",
+      "quantity": 1,
+      "unit_price": 13.5,
+      "total_price": 13.5,
+      "category": "Hygiene Products",
+      "accounting_category": "Retail",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "ARTIGO HIGIENE",
+      "quantity": 1,
+      "unit_price": 2.99,
+      "total_price": 2.99,
+      "category": "Hygiene Products",
+      "accounting_category": "Retail",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_164548.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "JIN & JIN LDA.\nRUA CONDES DE MONSANTO 2B/C\n1100-159 LISBOA\nCONTRIB.507097017 TEL.96683862\nCONS.REG.COMERCIAL LISBOA N-14602\nCAPITAL SOCIAL 10.000,00 EUROS\n\nFATURA SIMPLIFICADA\nORIGINAL\nDATA 2019/10/11 - 16:15 N° A/243848\nCliente: FLIKEHOME, LDA.\nMorada:\nCont N°: 510776914\nArtigo Qtd Preço € Valor €\n----------------------------------\nARTIGO HIGIENE\n23%\n1 Un x 13.50 = 13.50\nARTIGO HIGIENE\n23%\n1 Un x 2.99 = 2.99\n\nTOTAL ................................\nNumerário ............................\nTroco  ..............................\n\n    16,49\n    16,49\n      0,00\n\nIVA Incluído à taxa indicada\nTaxa% Sujeito IVA Total\n23,00 13,41 3,08 16,49\n\nObsF-Processado por programa certificado\nN° 88/AT - 1 A/243848\n\nOp: JIN\n\nOBRIGADO - VOLTE SEMPRE"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "TonyMoly Viva City",
+    "address": "Unit L1-044B, Vivacity Megamall, Jalan Wan Alwi, 93350 Kuching, Sarawak.",
+    "phone": "",
+    "tax_id": "000349356032",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-29",
+    "time": "20:19:07",
+    "currency": "MYR",
+    "payment_method": "VISA",
+    "subtotal": 48.93,
+    "tax": 2.77,
+    "tip": 0.0,
+    "total": 48.95,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Wonder Cheese Firming Cream",
+      "quantity": 1,
+      "unit_price": 69.9,
+      "total_price": 69.9,
+      "category": "Cosmetics",
+      "accounting_category": "Personal Care",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Discount 30%",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": -20.97,
+      "category": "Discount",
+      "accounting_category": "Promotion",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.02,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006311767.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TONYMOLY VIVA CITY\n(TONYMOLY SHOP (95874))\nUNIT L1-044B, VIVACITY MEGAMALL,\nJALAN WAN ALWI,\n93350 KUCHING, SARAWAK.\nGST ID : 000349356032\n\nTax Invoice\nTERMINAL : 880\nSALES NO. : 8807946\nSALES DATE : 29/03/2018 20:19:07\nCASHIER : Then Fiona\n\nCLIENT : CASH\nPOINT EARNED : 0\n\nWONDER CHEESE FIRMING CREAM EAC [SR]\nPLU2001600 1 * 69.90 69.90\nDisc 30.00% -20.97\nDISCOUNT 30% EAC [ZR]\nDisc30 1 * 0.00 0.00\n\nItem Count 2\nTotal Sales Incl. GST 48.93\nRounding Adjustment 0.02\nTotal After Rounding 48.95\n\nVISA 48.95\nCard No 46 xxxxxxxx 1819\nApp. Code a000000031010\n46 xxxxxxxx 1819\n\nGST summary Amount(RM) Tax(RM)\nSR = 6% 46.16 2.77\nZR = 0% 0.00 0.00\n\nTotal promotional saving 20.97\nPrinted on: 29-03-2018 20:19:33\n\nThank You\nPlease Come Again"
+  }
+}

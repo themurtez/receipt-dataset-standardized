@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 46000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 46000.0,
+    "accounting_category": "Shopping",
+    "category_confidence": 0.8
+  },
+  "items": [
+    {
+      "name": "Large",
+      "quantity": 2,
+      "unit_price": 11000.0,
+      "total_price": 22000.0,
+      "category": "Clothing",
+      "accounting_category": "Shopping",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Polo",
+      "quantity": 2,
+      "unit_price": 12000.0,
+      "total_price": 24000.0,
+      "category": "Clothing",
+      "accounting_category": "Shopping",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Plastik kcl",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Other",
+      "accounting_category": "Miscellaneous",
+      "category_confidence": 0.7
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 4000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000568.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "**\n2 Large 1 22.000\n2 Polo 1 24.000\n1 *Plastik kcl 0\n5 Total 46.000\nBayar 50.000\nKembali 4.000\n"
+  }
+}

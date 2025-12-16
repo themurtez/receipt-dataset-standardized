@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Lavender Confectionery & Bakery S/B",
+    "address": "LOT G29 & G30, AEON Mall Tebrau City, No. 1, Jalan Desa Tebrau, Taman Desa Tebrau, 81100 Johor Bahru",
+    "phone": "07-364 3785",
+    "tax_id": "001872379304",
+    "website": "www.lavender.com.my"
+  },
+  "transaction": {
+    "date": "2018-06-17",
+    "time": "18:21:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 26.5,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 26.5,
+    "accounting_category": "Food",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Honey Soft Toast",
+      "quantity": 1,
+      "unit_price": 3.3,
+      "total_price": 3.3,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Xiao Ge Ge",
+      "quantity": 2,
+      "unit_price": 5.4,
+      "total_price": 10.8,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Parmesan Cheddar Chees",
+      "quantity": 1,
+      "unit_price": 4.15,
+      "total_price": 4.15,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Toffee Danish",
+      "quantity": 1,
+      "unit_price": 5.45,
+      "total_price": 5.45,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Egg Tart",
+      "quantity": 2,
+      "unit_price": 5.1,
+      "total_price": 10.2,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Otak Cheese Bun",
+      "quantity": 1,
+      "unit_price": 3.1,
+      "total_price": 3.1,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 23.5
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007846412.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "LAVENDER CONFECTIONERY & BAKERY S/B\nCOMPANY NO: 499702-V\nLOT G29 & G30, AEON Mall Tebrau City,\nNO. 1, JALAN DESA TEBRAU,\nTAMAN DESA TEBRAU, 81100 JOHOR BAHRU.\nTEL : 07-364 3785\nGST ID NO: 001872379304\nTAX INVOICE\n17/06/2018 18:21\nQty Descriptions Amount\n1 HONEY SOFT TOAST 3.30 T\n2 XIAO GE GE 5.40 T\n1 PARMESAN CHEDDAR CHEES 4.15 T\n1 TOFFEE DANISH 5.45 T\n2 EGG TART 5.10 T\n1 OTAK CHEESE BUN 3.10 T\n8 TOTAL 26.50\nCASH 50.00\nCHANGE 23.50\nGST Summary Amount Tax\nT: GST 26.50 0.00\nZ: Zero Rated 0.00 0.00\nSign:\nwww.lavender.com.my\nTHANK YOU.\n1. All sales are final. Goods sold\nare not refundable nor exchangeable.\n2. Our products contain no added\npreservatives, please consume within\na day or keep according to\nrecommendations on packaging.\n3. For feedback, please retain this\nTax Invoice. Seek store manager\nassistance or drop us an email.\n4. Tax Invoice can only be issued\non the purchase date. Amendment is\nnot allowed once issued.\nCsh:C1337 LEE FING TING\nPOS:TC12 Sht:201806171"
+  }
+}

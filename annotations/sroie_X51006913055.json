@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Ver Bena Confectionery Sdn Bhd",
+    "address": "1, Jalan Sutera Tanjung 8/4, Tmn Sutera Utama, 81300 Skudai, JB.",
+    "phone": "607-556 1878",
+    "tax_id": "001837056000",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-12",
+    "time": "15:16:11",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 71.42,
+    "tax": 4.28,
+    "tip": 0.0,
+    "total": 75.7,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "8\" Pandan Kaya Cake",
+      "quantity": 1,
+      "unit_price": 55.0,
+      "total_price": 55.0,
+      "category": "Bakery",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Hotdog Bun",
+      "quantity": 2,
+      "unit_price": 5.6,
+      "total_price": 11.2,
+      "category": "Bakery",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Ota Boat",
+      "quantity": 1,
+      "unit_price": 3.5,
+      "total_price": 3.5,
+      "category": "Bakery",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Spicy Chicken Floss",
+      "quantity": 2,
+      "unit_price": 5.8,
+      "total_price": 11.6,
+      "category": "Bakery",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Dirty Bread",
+      "quantity": 1,
+      "unit_price": 5.8,
+      "total_price": 5.8,
+      "category": "Bakery",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 24.3
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006913055.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "VERBENA CONFECTIONERY SDN BHD\n(774288-V)\n1, Jalan Sutera Tanjung 8/4,\nTmn Sutera Utama, 81300 Skudai, JB.\nTel : 607-556 1878\nGST NO : 001837056000\n---------------------------------\n12/05/2018 15:16 B656954\nQty Descriptions Amount\n1 8\" PANDAN KAYA CAKE 55.00 T\n2 HOTDOG BUN 5.60 T\n1 OTA BOAT 3.50 T\n2 SPICY CHICKEN FLOSS 5.80 T\n1 DIRTY BREAD 5.80 T\n---------------------------------\n7 TOTAL 75.70\nCASH 100.00\nCHANGE 24.30\n---------------------------------\nPRICES INCLUSIVE 6% GST\nThank you.\nPlease come again.\nGST Summary Amount Tax\nT:6% GST 71.42 4.28\nZ:Zero Rated 0.00 0.00\n1. Goods sold are not refundable or\nexchangeable.\n2. Our products contain no added\npreservatives, please keep in fridg\n---------------------------------\nTime: 15:16:11\nCsh:109 POS:T002 Shf:201805121\n"
+  }
+}

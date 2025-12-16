@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "SILÉTRICA-Soc Electr Portuguesa Lda",
+    "address": "Rua da Madalena, 176 1100-324 Lisboa",
+    "phone": "218 866 012",
+    "tax_id": "500555772",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-14",
+    "time": "18:05:25",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 8.0,
+    "tax": 1.84,
+    "tip": 0.0,
+    "total": 9.84,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "LÂMPADA HALOLINE ECO 46W",
+      "quantity": 2,
+      "unit_price": 4.92,
+      "total_price": 9.84,
+      "category": "Lighting",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_212923.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SILÉTRICA-Soc Electr Portuguesa Lda\nArmazém de material eléctrico\nRua da Madalena, 176 1100-324\nLisboa\nTelef 218 866 012 - 218 864 877\nFax 218 869 682 Tlm. 960 283 163\nEmail: siletrica@sapo.pt Nif 500555772\nCRC Lisboa N° 23932 C.S 24.930 Original\nFatura Simplificada N° FS A/1564\nData 2017-11-14 Hora 18:05:25\nContribuinte 510776914\nDESIGNAÇÃO DESC. IVA VALOR\nLÂMPADA HALOLINE ECO 46W 74.9 977595\n2 6,15 20% 23% 9,84 €\nTotal 9,84 €\nMercadoria IVA Valor IVA\n0,00 € 0% 0,00 €\n8,00 € 23% 1,84 €\nIBAN BCP: PT50 0033 0000 45433594388 05\nObrigado Volte Sempre\nkzoJ- Processado por programa\ncertificado n° 1318/AT"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Mr. D.I.Y. (M) Sdn Bhd",
+    "address": "Lot 1851-A & 1851-B, Jalan KPB 6, Kawasan Perindustrian Balakong, 43300 Seri Kembangan, Selangor",
+    "phone": "",
+    "tax_id": "000306020352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-18",
+    "time": "12:09:00",
+    "currency": "MYR",
+    "payment_method": "cash",
+    "subtotal": 6.23,
+    "tax": 0.37,
+    "tip": 0.0,
+    "total": 6.6,
+    "accounting_category": "office_supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PP Water Filter Cartridge Indoor 1S",
+      "quantity": 2,
+      "unit_price": 3.3,
+      "total_price": 6.6,
+      "category": "office_supplies",
+      "accounting_category": "office_supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 43.4
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005757292.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "31803041\nMR. D.I.Y. (M) SDN BHD\n(CO.REG :860671-D)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000306020352)\n(IOI PUCHONG)\n-TAX INVOICE-\n----------------------------------------\nPP WATER FILTER CARTRIDGE INDOOR 1S\nWA38 - 100\n9690059 2 X 3.30 6.60\n----------------------------------------\nItem(s) : 1 Qty(s) : 2\n\nTotal Incl. GST@6% RM 6.60\nCASH RM 50.00\nCHANGE RM 43.40\nGST @6% included in total RM 0.37\n----------------------------------------\n18-03-18 12:09 SH01 ZJ86 T3 R000060580\nOPERATOR TRAINEE CASHIER\n\nEXCHANGE ARE ALLOWED WITHIN\n7 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

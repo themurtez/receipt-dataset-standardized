@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "PRINT EXPERT SDN BHD",
+    "address": "NO 18, 20, 22, JALAN BUNGA TANJONG 2/16, 40000 SHAH ALAM, SELANGOR",
+    "phone": "03-55250588",
+    "tax_id": "000886677504",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-12",
+    "time": "16:57:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 4.0,
+    "tax": 0.24,
+    "tip": 0.0,
+    "total": 4.25,
+    "accounting_category": "Printing Services",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "A4 CLR COPY",
+      "quantity": 8,
+      "unit_price": 0.53,
+      "total_price": 4.24,
+      "category": "Printing",
+      "accounting_category": "Printing Services",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.01,
+    "change_due": 0.05
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006008074.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PRINT EXPERT SDN BHD (989625-A)\nNO 18, 20, 22, JALAN BUNGA TANJONG 2/16, 40000 SHAH ALAM, SELANGOR\nTEL 03-55250588\nGST ID 000886677504\nTAX INVOICE\nReceipt #: CS00489817 Table: 13\nStaff: ELYN Date: 12/01/2018\nCashier: USER Time: 16:57:00\nDescription Qty Price Amt Tax\nA4 CLR COPY 8 0.53 4.24 SR\nTotal 8 4.24\nTotal Sales (Excluding GST) 4.00\nDiscount 0.00\nService Charge 0.00\nTotal GST 0.24\nRounding 0.01\nTotal Sales (Inclusive of GST) 4.25\nCASH 4.30\nCHANGE 0.05\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR 6 4.00 0.24\nTotal: 4.00 0.24"
+  }
+}

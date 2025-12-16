@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "GREEN LANE PHARMACY SDN BHD",
+    "address": "33 JLN BANGAU 1, KEPONG BARU, 52100 KEPONG, KL",
+    "phone": "62760693",
+    "tax_id": "001888309248",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-08-01",
+    "time": "09:42:41",
+    "currency": "MYR",
+    "payment_method": "Master",
+    "subtotal": 34.29,
+    "tax": 0.51,
+    "tip": 0.0,
+    "total": 34.8,
+    "accounting_category": "Pharmacy",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "AMOXICAP 500MG CAPSU",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Medicine",
+      "accounting_category": "Pharmacy",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "NOFLUX TAB 70MG 10",
+      "quantity": 2,
+      "unit_price": 4.51,
+      "total_price": 9.01,
+      "category": "Medicine",
+      "accounting_category": "Pharmacy",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "IBUPROFEN 400MG 10",
+      "quantity": 3,
+      "unit_price": 3.0,
+      "total_price": 9.0,
+      "category": "Medicine",
+      "accounting_category": "Pharmacy",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "FEBRICOL -RX 10",
+      "quantity": 4,
+      "unit_price": 2.7,
+      "total_price": 10.8,
+      "category": "Medicine",
+      "accounting_category": "Pharmacy",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": -0.01,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005719895.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GREEN LANE PHARMACY SDN BHD\n33 JLN BANGAU 1,KEPONG BARU,\n52100 KEPONG, KL\nTEL: 62760693 FAX : 62760693\nBRN : 631002-U\nGST No : 001888309248\n\nTAX INVOICE\nInv No : 18-001041\nDATE : 1/8/2018 9:42:41 AM\n\n1)UAM006K AMOXICAP 500MG CAPSU\n  1.00 X 6.00             6.00\n2)0984K NOFLUX TAB 70MG 10\n  2.00 X 4.51             9.01 *\n3)9557892102639 IBUPROFEN 400MG 10\n  3.00 X 3.00             9.00\n4)9556492002837K FEBRICOL -RX 10\n  4.00 X 2.70            10.80 z\n\nRounding :             -0.01\nTOTAL :               34.80\n  (GST : 0.51 )\n\nPAYMENT :\nTOTAL PAYMENT :       34.80\nCHANGE :              0.00\n> MASTER              34.80\n\n* Total Sales Inclusive GST @ 6% *\nLEI MEI YEIN\n\nPrev Balance : 1455\nPoints Earn : 34 (Complete)\nFARMASI ALPHA.COM\nGOODS SOLD ARE NOT RETURNABLE\nWHATSAPP NO: 0103768122\n* Total Sales Inclusive of GST @ 6% *"
+  }
+}

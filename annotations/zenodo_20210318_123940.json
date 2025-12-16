@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Pq.Estacionamento Martim Moniz",
+    "address": "Lisboa",
+    "phone": "",
+    "tax_id": "503208426",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-01-29",
+    "time": "17:11:00",
+    "currency": "EUR",
+    "payment_method": "Dinheiro",
+    "subtotal": 4.9,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 4.9,
+    "accounting_category": "Parking",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Parking Charge",
+      "quantity": 1,
+      "unit_price": 4.9,
+      "total_price": 4.9,
+      "category": "Parking",
+      "accounting_category": "Parking",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_123940.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PARQUES, S.A.\nDL 10.000.000\nBRAGA\nNr.Contr.503208426\nPq.Estacionamento\nMartim Moniz\nLisboa\nRECIBO K2190102400\nCaixa C2\nData: 29.01.19\nHORA DE ENTRADA:\n29.01.19 15:10\nHORA DE SAIDA:\n29.01.19 17:11\nTEMPO PARQ. HOR:MIN\n0:02:01\nQUANTIA: EUR 4.90\nTIPO DE PAGAMENTO\nA DINHEIRO\nIVA Incluido\nA Taxa Normal\nDocumento conforme\nArt.40 n.5a) CIVA\nDocum. ao portador\nNome:__\nN.Contr:__\nMatricula /__ /\nOBRIGADO PELA SUA\nVISITA"
+  }
+}

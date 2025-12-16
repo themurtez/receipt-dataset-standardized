@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "KRW",
+    "payment_method": "",
+    "subtotal": 510000.0,
+    "tax": 54255.0,
+    "tip": 0.0,
+    "total": 599955.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "GONG GIBAB",
+      "quantity": 1,
+      "unit_price": 20000.0,
+      "total_price": 20000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "BO SSAM",
+      "quantity": 1,
+      "unit_price": 320000.0,
+      "total_price": 320000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "HAEMUL DENJANG JJIGAE",
+      "quantity": 1,
+      "unit_price": 85000.0,
+      "total_price": 85000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "MULNAENGMYON",
+      "quantity": 1,
+      "unit_price": 85000.0,
+      "total_price": 85000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000036.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GONG GIBAB 1 20,000\nBO SSAM 1 320,000\nHAEMUL DENJANG JJIGAE 1 85,000\nMULNAENGMYON 1 85,000\nSub Total 510,000\nService 35,700\nTax 54,255\nDiscount 0\nTOTAL 599,955"
+  }
+}

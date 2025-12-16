@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "SANG KEE CHERAS RESTAURANT",
+    "address": "69, JALAN TEMENGGUNG 3/9, BANDAR MAHKOTA CHERAS, 43200 CHERAS, SELANGOR",
+    "phone": "",
+    "tax_id": "001226018816",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-03",
+    "time": "20:24:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 2.5,
+    "tax": 0.14,
+    "tip": 0.0,
+    "total": 2.5,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "ALL SOFT DRINK CAN",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008042793.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SANG KEE CHERAS RESTAURANT\n(001910559-U)\n69, JALAN TEMENGGUNG 3/9\nBANDAR MAHKOTA CHERAS\n43200 CHERAS\nSELANGOR\n( NO. ID GST 001226018816 )\n\nTAX INVOICE\n\nNO. : 74285\n\n03/05/2018 20:24\nB CODE QTY U/PRICE AMT\n\n9546570105139 1 2.50 2.50\n\nALL SOFT DRINK CAN\n\nSUB-TOTAL 2.50\n\nTotal GST(l) 0.14\n\nTotal Incl GST\n\nRM 2.50\n\nPay Cash 2.50\n\nChange 0.00\n\nTHANK YOU, PLEASE COME AGAIN"
+  }
+}

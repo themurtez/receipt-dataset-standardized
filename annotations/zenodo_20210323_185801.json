@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "GALP",
+    "address": "RUA TOMAS DA FONSECA, TORRE C, 1600-209 LISBOA",
+    "phone": "961232242",
+    "tax_id": "PT504334745",
+    "website": "www.galp.com"
+  },
+  "transaction": {
+    "date": "2019-01-31",
+    "time": "12:30:56",
+    "currency": "EUR",
+    "payment_method": "DEBIT CARD",
+    "subtotal": 78.46,
+    "tax": 18.04,
+    "tip": 0.0,
+    "total": 96.5,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "GASOLEO SIMPLES",
+      "quantity": 1,
+      "unit_price": 96.5,
+      "total_price": 96.5,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_185801.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "galp\nDOCUMENTO DE VENDA\nA.S. LAGOS (PAR/SAGRES) 11142\nPARAISOTE LDA\nRUA TOMAS DA FONSECA, TORRE C 02,\n1600-209 LISBOA Telf: 961232242/2\nNIF: PT503047345\nFatura/Recibo\nQuantidade Produto Preco\n67.53 L Bomba 03\nGASOLEO SIMPLES 96.50 A\n1.429 Iva: 18.04\n23.00 % IVA A 18.04\nCliente: 1766\nNome: FILXHOME ALGARVE LDA\nNIF\nMorada: Postal\nContacto Tel\nCodigo Postal\nNome: ALMEIDA CARLA\nMatricula: 02-DH-01\nTerminal de Pagamento Automatico: 0068954\nData: 2019-01-31 Hora: 12:30:56\nPedido: 089 Transacao: 011 Mensagem: 312\nNOVO BANCO\nSALVADOR FERREIRA DO AMARAL\n5015649F... MULTIBANCO\nCOMPRA 96,50€ MB\nAUT: 134046 PROCESSADO POR SIBS\nTotal\nCARTAO DEBITO EUR 96.50\nDescontos ate: Carta? Universo\nPague com saldo do Carta? Continente\nopinia.galp.com/postos\nrecaba desconto em combustivel!\nEvologic, o combustivel mais evoludo\nSaldo do Cartao €212.51\n€212.51 Saldo disponivel\nNAO: 013108 P.C. 0096.50 011\nJa ganhou com o Carta? 3028.86\n003003000004246XXXXXX\n"
+  }
+}

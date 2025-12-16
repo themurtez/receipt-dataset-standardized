@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Infraestruturas de Portugal, S.A.",
+    "address": "Praça de Portagem, 2809-013 Almada",
+    "phone": "707 20 25 25",
+    "tax_id": "NIPC 503 933 813",
+    "website": "www.ascendi.pt"
+  },
+  "transaction": {
+    "date": "2019-01-06",
+    "time": "16:17:16",
+    "currency": "EUR",
+    "payment_method": "NOVO BANCO",
+    "subtotal": 1.05,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 1.05,
+    "accounting_category": "Transportation",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Toll Charge",
+      "quantity": 1,
+      "unit_price": 1.05,
+      "total_price": 1.05,
+      "category": "Toll",
+      "accounting_category": "Transportation",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_183125.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Infraestruturas de Portugal, S.A.\nPraca de Portagem. 2809-013 Almada\nCapital Social 5.655,375.000,00 Euros\nMCRC Lisboa. NIPC 503 933 813\n\nSERVICO DE PAGAMENTO OE PORTAGENS\nPAGAMENTO AUTOMATICO\nTALAO DE PORTAGEM N° RB 160104/3538572\n\nData:....: 2019/01/06-16:17:16\nPortagem: Sao Pedro\nCobrador: 321030702\nEntrada..: Virtual South\nClasse.: 1\nTotal..:. 1.05 EUR\n\nIVA incluído a taxa de 23%\n\nPAGAMENTO AUTOMATICO num: 7201\nNOVO BANCO ************4209\nLocal de pagamento: A16-01\n\nEPoB-Processado por Programa\nCertificado n.° 1295/AT\n\nAPOIO A CLIENTES\n707 20 25 25 :‘www.ascendi.pt\n\nObrigado e Boa Viagem"
+  }
+}

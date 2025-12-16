@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Auntie Anne's",
+    "address": "Central Park Jakarta",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "TCASH",
+    "subtotal": 17000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 17000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Cinnamon Sugar",
+      "quantity": 1,
+      "unit_price": 17000.0,
+      "total_price": 17000.0,
+      "category": "Snack",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000391.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Auntie Anne's\nCentral Park Jakarta\n\nCINNAMON SUGAR\n1       17,000\nSUB TOTAL                  17,000\nGRAND TOTAL         17,000\nTCASH 5236             17,000\nCHANGE DUE           0"
+  }
+}

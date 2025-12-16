@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "J. DA COSTA, LDA",
+    "address": "R. DAS REGRAS N.1-B, 100-293 LISBOA",
+    "phone": "938633568",
+    "tax_id": "5117683763",
+    "website": "TACOSTALDA@HOTMAIL.COM"
+  },
+  "transaction": {
+    "date": "2018-06-28",
+    "time": "10:56:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 11.95,
+    "tax": 2.75,
+    "tip": 0.0,
+    "total": 14.7,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SILICONE",
+      "quantity": 3,
+      "unit_price": 4.9,
+      "total_price": 14.7,
+      "category": "Hardware",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_210146.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "J. DA COSTA, LDA\nR. DAS REGRAS N.1-B\n100-293 LISBOA\nTEL: 938633568\nTACOSTALDA@HOTMAIL.COM\n5117683763 R/C LX CAP. SOC. 14953.94 EU\nDISP. DO CLIENTE A DATA DOCUMENTO\n\nFATURA SIMPLIFICADA\nDATA 2018/06/28 10:56 N° A/37158\nCliente: FLIKEHOME\nMorada: Hotel Rossio\nCont. N°: 510776914\nArtigo Qtd Preço € Valor €\nSILICONE\n23% 3 Un x 4,90 = 14,70\n#003\nTOTAL 14,70\nNumérario 14,70\nTroco 0,00\nIVA Incluído a taxa indicada\nTaxa% Sujeito IVA Total\n23,00 11,95 2,75 14,70\nCc6n-Processado por programa certificado\nN° 88/AT - 2 A/37158\nOpr: GERENTE\n\nTROCAMOS MATERIAL NÃO DEVOLVEMOS DINHEIR"
+  }
+}

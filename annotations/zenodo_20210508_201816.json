@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Security Center",
+    "address": "R. Quinta Palmeiras, 31 D, Oeiras Oeiras Parque, Lj. 1016, 2770-219 Oeiras",
+    "phone": "210966907",
+    "tax_id": "502179856",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-07-24",
+    "time": "21:49:00",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 1.95,
+    "tax": 0.45,
+    "tip": 0.0,
+    "total": 2.4,
+    "accounting_category": "Tools and Equipment",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chave Plana CS52X",
+      "quantity": 1,
+      "unit_price": 2.4,
+      "total_price": 2.4,
+      "category": "Tools",
+      "accounting_category": "Tools and Equipment",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_201816.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SECURITY CENTER\nOEIRAS PARQUE\nSarl, Lda.\nSede: R Quinta Palmeiras, 31 D, Oeiras\nOeiras Parque, Lj. 1016\n2770-219 Oeiras Tel. 210966907\nCapital Social 5,000 E NIPC 502179856\nC.P. om.Cascais N.6164\nF./me(e) Senhor (ie): FLIKEHOME\nNIF:510775914 N.CLI:PTS10776914\n3/24214953\nFTR 2/10453 Data 2018-07-24 Original\nFactura\nVendedor: ESTAGIARIO\nArt. Descricao Qde. Pr.Unit. Valor IVA\nCHAVE PLANA CS52X\n1990 1.00 2.40 2.40 23\nTotal de pecas : 1\nVALOR LIQUIDO IVA % VALOR IVA\n0.00 0 0.00\n0.00 6 0.00\n0.00 13 0.00\n1.95 23 0.45\nDESCONTO 0.00\nTOTAL DOCUMENTO EURO 2.40\nNumerario 2.40\nq5he-Processado por programa\ncertificado N. 1627/AT\nLocal Carga : Nossa Morada Hora:21.49\nLocal Descarga:Morada Cliente Hora :23.59\nMatricula Ref.: Nome:FLIKEHOME\nObrigado Pela Visita / Volte Sempre\nTALAO INDISPENSAVEL F/ENTREGA-RECLAMACAO\nTROCAS PRAZO 1 MES"
+  }
+}

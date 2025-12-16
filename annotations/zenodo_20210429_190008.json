@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Dia Portugal Supermercados Unipessoal, Lda",
+    "address": "QTA FONTE EDF ALVARES CABRAL, 2770-190 PACO ARCOS",
+    "phone": "",
+    "tax_id": "PT150303308",
+    "website": "www.minipreco.pt"
+  },
+  "transaction": {
+    "date": "2019-09-27",
+    "time": "08:23:00",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 2.8,
+    "tax": 0.17,
+    "tip": 0.0,
+    "total": 2.97,
+    "accounting_category": "Grocery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "LIMÃO",
+      "quantity": 1.66,
+      "unit_price": 1.79,
+      "total_price": 2.97,
+      "category": "Produce",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_190008.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Dia Portugal Sup. Soc. Unip. Lda\nQTA FONTE EDF ALVARES CABRAL\n02770-190 PACO ARCOS\nC.R.C. / NUM. CONTRIB. PT150303308\nCAPITAL SOCIAL EMPRESA: 51.802.855,12\nNOME CLIENTE\nCLIENTE\nDIRECAO CLIENTE\nNUM. CONTRIBUINTE. 5107/6914\nLOCALIDADE:\nCOD. POSTAL:\nFATURA/RECIBO\nFT 021140220190102/00008700\nCAIXA: 2 DATA: 2019-09-27 HORA: 08:23\nCODIGO DE OPERARIO: 54021\nCODIGO DESCRICAO TOTAL\nIVA PVP/UNIT QUANTIDADE DESCONTOS\n79 LIMAÕ 2,97\n6,00% 1,79 1,660 0,00\nTOTAL A PAGAR EUROS 2,97\nMULTIBANCO 2,97\nTROCO 0,00\nTIPO IVA BASE IVA\n01 6,00% 2,80 0,17\nTOTAL 2,80 0,17 2,97\nLOCAL CARGA:\nLG DO CALHARIZ 10\n1200-086 LISBOA\nDATA : 2019-09-27 HORA: 08:23\nLOCAL DESCARGA: MORADA DO CLIENTE\nvnm8-Processado por prog.cert. ni1752/AT\nwww.minipreco.pt\nSIRPEE PT000245\n-, COPIA PARA O CLIENTE -"
+  }
+}

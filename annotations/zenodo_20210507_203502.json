@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "COPIMATICA - Informatica e Copia, Serviços e Sistemas, Lda",
+    "address": "R Ota Palmeiras, 31 D Oeiras, OEIRAS PARQUE, Loja 1017, Paco Arcos, 2780-219 Oeiras",
+    "phone": "211210933",
+    "tax_id": "502453177",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-11",
+    "time": "20:45:00",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 5.43,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 5.43,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Fotocopias/Impressos Cores A4",
+      "quantity": 3,
+      "unit_price": 0.83,
+      "total_price": 2.49,
+      "category": "Printing Services",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Cartolina branca A4 160 gramas",
+      "quantity": 90,
+      "unit_price": 0.015,
+      "total_price": 1.35,
+      "category": "Paper Products",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.07
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_203502.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "COPIMATICA - Informatica e Copia, Serviços e Sistemas, Lda\nSede: R Ota Palmeiras, 31 D Oeiras\nOEIRAS PARQUE, Loja 1017- Paco Arcos\n2780-219 Oeiras\nTel: 211210933\nCap.Soc.243793.90Euros NIF 502453177\nC.R.Com.Cascais N.9610\n\nExmo(s) Senhor(es)\nF. LIKE HOME\n\nV/Nc 510776914 N.Cli.PT510776914\n\nFTR 2/68637 Data 2017-11-11 20:45\nFactura\nVendedor...Diogo Cacho\n\nArt. Descricao Qde. Pr.Unit.Valliq.Dsc\n\n3 6.000 0.830 4.98 0%\nFotocopias/Impressos Cores A4\n90 3.000 0.0150 1.35 0%\nCartolina branca A4 160 gramas\n\nTotal Ilquido\n\n0.00 6\n0.00 13\n0.13 0\n4.41 23\n\nDESCONTO 0.00% 0.00\nTOTAL DOCUMENTO EURO 5.43\n\nNumerario 5.50\nTroco 0.07\n\nBens colocados a disposicao do adquirente nesta data, de acordo com a\nalinea f) do n. 5 do artigo 36 do CIVA\n\nLocal Carga :Nossa Morada Hora:09:00\nLocal Descarga:Morada Cliente Hora:19:00\nViatura :\n\nHZy0-Processado por programa\ncertificado N. 1627/AT\n\nObrigado Volte Sempre"
+  }
+}

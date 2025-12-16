@@ -1,0 +1,127 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 177500.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 177500.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Twist Donut",
+      "quantity": 1,
+      "unit_price": 9000.0,
+      "total_price": 9000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Banana Donut",
+      "quantity": 1,
+      "unit_price": 11000.0,
+      "total_price": 11000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Dark Chocolate Muffin",
+      "quantity": 2,
+      "unit_price": 23000.0,
+      "total_price": 46000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Mini Castella Chocol",
+      "quantity": 1,
+      "unit_price": 11000.0,
+      "total_price": 11000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Premium Milk Pan Bread",
+      "quantity": 1,
+      "unit_price": 17500.0,
+      "total_price": 17500.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Apple Pie",
+      "quantity": 1,
+      "unit_price": 11000.0,
+      "total_price": 11000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pain au Chocolat",
+      "quantity": 2,
+      "unit_price": 11000.0,
+      "total_price": 22000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Kaya Bun",
+      "quantity": 2,
+      "unit_price": 9500.0,
+      "total_price": 19000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sausage Bread",
+      "quantity": 1,
+      "unit_price": 15000.0,
+      "total_price": 15000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TLJ Hotdog",
+      "quantity": 1,
+      "unit_price": 16000.0,
+      "total_price": 16000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 11,
+    "rounding": 0.0,
+    "change_due": 22500.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000239.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Twist Donut 9,000\nBanana Donut 11,000\n2 Dark Chocolate Muffin 46,000\n[MD] Mini Castella Chocol 11,000\nPremium Milk Pan Bread 17,500\nApple Pie 11,000\n2 Pain au Chocolat 22,000\n2 Kaya Bun 19,000\nSausage Bread 15,000\nTLJ Hotdog 16,000\nTotal 177,500\nCash 100,000\nCash 100,000\nChange 22,500"
+  }
+}

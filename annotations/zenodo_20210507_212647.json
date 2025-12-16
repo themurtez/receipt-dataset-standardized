@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Retrosaria Zora",
+    "address": "Ruben & Jasmine, Lda, C.C. Odivelas Parque Lj. 1146 Est. Paia 2675-000 Tel: 219305412",
+    "phone": "219305412",
+    "tax_id": "504019991",
+    "website": "www.retrosariazora.com"
+  },
+  "transaction": {
+    "date": "2017-11-05",
+    "time": "14:38:32",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 1.46,
+    "tax": 0.34,
+    "tip": 0.0,
+    "total": 1.8,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Fitas",
+      "quantity": 6,
+      "unit_price": 0.3,
+      "total_price": 1.8,
+      "category": "Craft Supplies",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.2
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_212647.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Retrosaria Zora\nRuben & Jasmine, Lda\nC.C. Odivelas Parque Lj. 1146 Est. Paia\n2675-000 Tel: 219305412\nN. Contrib 504019991\nRegistro na Cons. Lisboa n. 506419991\nCapital Social 5.000€\n\nN.C.\nConsumidor final\n\nFatura simplificada FS 002/241001\n2017-11-05 14:38:32\nOriginal\n\n... Qt Artigo Preço UnIVA Total\n6 M. Fitas € 0.30 23 € 1.80\nTotal € 1.80\nPago € 2.00\nTroco € 0.20\n\nNumerário € 1.80\nTaxa Base IVA Total\n23.00 € 1.46 € 0.34 € 1.80\nMesa 1 Emp Empregado\nprocessado por computador\nIVA incluido\nconsultas:\nObrigado e volte sempre\nwww.retrosariazora.com\n\nSf9h-Processado por programa?\ncertificado n. 0071/AT\n\nCopyright GrupoPIE, SA"
+  }
+}

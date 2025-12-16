@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "tunai",
+    "subtotal": 3100.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 3100.0,
+    "accounting_category": "retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "LE MINERALE 600ML",
+      "quantity": 1,
+      "unit_price": 3100.0,
+      "total_price": 3100.0,
+      "category": "beverages",
+      "accounting_category": "retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PLASTIK SDG",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "supplies",
+      "accounting_category": "retail",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 1900.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000472.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PT INDOMARET INDONESIA\n[JAKARTA\nLE MINERALE 600ML 1 3100 3.100\nPLASTIK SDG 1 1 1\nDISKON (1)\nHARGA JUAL 3.100\nTOTAL TOTAL 3.100\nTUNAI 5.000\nKEMBALI 1.900\n"
+  }
+}

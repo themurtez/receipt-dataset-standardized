@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 159000.0,
+    "tax": 26594.0,
+    "tip": 0.0,
+    "total": 185394.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Banana Rhum Raisin",
+      "quantity": 1,
+      "unit_price": 46500.0,
+      "total_price": 46500.0,
+      "category": "Food",
+      "accounting_category": "Meals & Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "W. Charcoal",
+      "quantity": 1,
+      "unit_price": 9000.0,
+      "total_price": 9000.0,
+      "category": "Food",
+      "accounting_category": "Meals & Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Prawn & Spinach Pasta",
+      "quantity": 1,
+      "unit_price": 80500.0,
+      "total_price": 80500.0,
+      "category": "Food",
+      "accounting_category": "Meals & Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Original Brewed Tea",
+      "quantity": 1,
+      "unit_price": 23000.0,
+      "total_price": 23000.0,
+      "category": "Beverage",
+      "accounting_category": "Meals & Entertainment",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000343.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 BANANA RHUM RAISIN 46,500\n** W. CHARCOAL 9,000\n1 PRAWN & SPINACH PASTA 80,500\n1 ORIGINAL BREWED TEA 23,000\nSUBTTL 159,000\nSVC CHG 6% 9,540\nPB1 10% 16,854\nTOTAL 185,394"
+  }
+}

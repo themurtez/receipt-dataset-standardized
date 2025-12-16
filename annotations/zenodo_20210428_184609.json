@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "BP SANTAREM AE - 1 (O)",
+    "address": "AREA SERV. SANTAREM KM 64 PONTE, 2001-701 PERNES",
+    "phone": "243440004",
+    "tax_id": "PT510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-24",
+    "time": "16:09:29",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 79.83,
+    "tax": 17.4,
+    "tip": 0.0,
+    "total": 97.23,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GASOLEO BUMBA NR. 2",
+      "quantity": 1,
+      "unit_price": 60.47,
+      "total_price": 60.47,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "AGUA SERRA ESTRELA 1.5L",
+      "quantity": 2,
+      "unit_price": 1.4,
+      "total_price": 2.8,
+      "category": "Beverages",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "LIFESTYLE OBSERVADOR",
+      "quantity": 1,
+      "unit_price": 4.9,
+      "total_price": 4.9,
+      "category": "Magazine",
+      "accounting_category": "Entertainment",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_184609.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BP SANTAREM AE - 1 (O)... (text truncated for summary)"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Vital Costa Braz",
+    "address": "C.C. Continente, Piso -1 Lj E11",
+    "phone": "282438666",
+    "tax_id": "5107776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-02",
+    "time": "18:34:01",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 20.33,
+    "tax": 4.67,
+    "tip": 0.0,
+    "total": 25.0,
+    "accounting_category": "Tools",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chaves Telescopica Palh",
+      "quantity": 2,
+      "unit_price": 12.5,
+      "total_price": 25.0,
+      "category": "Hardware",
+      "accounting_category": "Tools",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_210504.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "VITAL COSTA BRAZ\nC.C. CONTINENTE, PISO -1 LJ E11\nTLF/FAX.: 282438666\n\n2018-04-02 FATURA SIMPLIFICADA N:\n18:34:01 BALCAO 1 FS 1A1801/2619\nContribuinte: 5107776914\n\nDESCRIÇAO IVA VALOR\n2 CHAVES TELESCOPICA PALH 23% 25,00\nPreco: 12,50/UNIDADE\n\nTAXA IVA INCID. 4,67 20,33\nTOTAL: Eur 25,00\n\nPago em Numerario\n\nOBRIGADO/THANK YOU\n\nB04V-Processado por programa\ncertificado n. 217/AT\n\nOs serviços e/ou bens foram realizados e\n/ou colocados a disposicão do adquirente\nnesta data (Art. 36 do CIVA, No5 aIinea F)\n\nLicenca: Vital Costa Bras\nContribuinte: 152253403"
+  }
+}

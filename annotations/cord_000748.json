@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2023-10-05",
+    "time": "13:47:00",
+    "currency": "USD",
+    "payment_method": "Debit Card",
+    "subtotal": 127.68,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 127.68,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Giant Flo Tissue",
+      "quantity": 2,
+      "unit_price": 4.93,
+      "total_price": 9.86,
+      "category": "Personal Care",
+      "accounting_category": "Personal Care",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "NIKKO S4C2 BS Blue",
+      "quantity": 1,
+      "unit_price": 26.0,
+      "total_price": 26.0,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Presiden TP Jumbo",
+      "quantity": 1,
+      "unit_price": 15.9,
+      "total_price": 15.9,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Formula 6/P Pan P",
+      "quantity": 1,
+      "unit_price": 11.6,
+      "total_price": 11.6,
+      "category": "Household",
+      "accounting_category": "Household",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 11,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000748.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Giant Flo Tissue\n...\nSubtotal\nDebit Card\nTotal Hero 127.68\nItems Purchased: 11"
+  }
+}

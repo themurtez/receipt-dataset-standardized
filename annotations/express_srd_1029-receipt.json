@@ -1,0 +1,118 @@
+{
+  "merchant": {
+    "name": "RINCON MEXICANO",
+    "address": "99 BROADWAY, SOMERVILLE, MA 02145",
+    "phone": "6179661387",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-05-09",
+    "time": "19:19:46",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 28.95,
+    "tax": 2.03,
+    "tip": 0.0,
+    "total": 30.98,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Arroz",
+      "quantity": 2,
+      "unit_price": 3.0,
+      "total_price": 6.0,
+      "category": "Food",
+      "accounting_category": "Sides",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Taco De Pescado",
+      "quantity": 2,
+      "unit_price": 7.0,
+      "total_price": 14.0,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Taco Tuesday Pollo",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Food",
+      "accounting_category": "Promotion",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Taco D Carne Asada",
+      "quantity": 1,
+      "unit_price": 2.99,
+      "total_price": 2.99,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Taco D Chorizo",
+      "quantity": 1,
+      "unit_price": 2.99,
+      "total_price": 2.99,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Taco Tuesday Pastor",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Food",
+      "accounting_category": "Promotion",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Horchata",
+      "quantity": 1,
+      "unit_price": 2.99,
+      "total_price": 2.99,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Taco D Cochinita",
+      "quantity": 1,
+      "unit_price": 2.99,
+      "total_price": 2.99,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Taco D Carnitas",
+      "quantity": 1,
+      "unit_price": 2.99,
+      "total_price": 2.99,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 11,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1029-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "RINCON MEXICANO\n99 BROADWAY\nSOMERVILLE, MA 02145\n6179661387\n\nORDER: 45\nDine In\nCashier: LORENZO REYES\n09-May-2017 7:19:46P\n\n2 Arroz                                  $3.00\n2 Taco De Pescado              $7.00\n1 Taco Tuesday Pollo           $2.00\n1 Taco D Carne Asada          $2.99\n1 Taco D Chorizo                  $2.99\n1 Taco Tuesday Pastor         $1.00\n1 Horchata                             $2.99\n1 Taco Tuesday Pollo           $1.00\n1 Taco D Cochinita               $2.99\n1 Taco D Carnitas                 $2.99\n\nSubtotal                              $28.95\nTax                                        $2.03\n\nTotal                                    $30.98\n\nOrder ZJTOG7ZX6ANR8"
+  }
+}

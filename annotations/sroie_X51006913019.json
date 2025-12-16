@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "AEON CO. (M) BHD",
+    "address": "3RD FLR, AEON TAMAN MALURI SC, JLN JEJAKA, TAMAN MALURI, CHERAS, 55100 KUALA LUMPUR",
+    "phone": "1-300-80-AEON (2366)",
+    "tax_id": "002017394688",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-11",
+    "time": "17:19:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 476.81,
+    "tax": 26.99,
+    "tip": 0.0,
+    "total": 476.8,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "000004921851 - TP GIKEN",
+      "quantity": 1,
+      "unit_price": 93.5,
+      "total_price": 93.5,
+      "category": "Household",
+      "accounting_category": "Goods",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "TEFAL COMFORT M",
+      "quantity": 1,
+      "unit_price": 149.0,
+      "total_price": 141.55,
+      "category": "Appliances",
+      "accounting_category": "Goods",
+      "category_confidence": 0.88
+    },
+    {
+      "name": "000006812854 - A16IS545 TEFAL",
+      "quantity": 1,
+      "unit_price": 259.0,
+      "total_price": 246.05,
+      "category": "Appliances",
+      "accounting_category": "Goods",
+      "category_confidence": 0.88
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": -0.01,
+    "change_due": 23.2
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006913019.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AEON CO. (M) BHD (126926-H)\n3RD FLR, AEON TAMAN MALURI SC\nJLN JEJAKA, TAMAN MALURI\nCHERAS, 55100 KUALA LUMPUR\nGST ID: 002017394688\nSHOPPING HOURS\nSUN-THU: 1000 HRS - 2200 HRS\nFRI-SAT: 1000 HRS - 2300 HRS\nVALUED CUSTOMER: 12500167808\n\n1x 000004921851 93.50SR\n10OZ TP GIKEN\nAeon card DISC -4.69\n@89.21\n\nTEFAL COMFORT M\nItem promo @149.00 -20.00\nAeon card DISC -7.45\n@141.55\n\n1x 000006812854 558.00SR\nA16IS545 TEFAL\nItem promo @259.00 -299.00\nAeon card DISC -12.95\n@246.05\n\nSub-total 476.81\nTotal Sales Incl GST 476.81\nRounding Adj -0.01\nTotal After Adj incl GST 476.80\nCASH 500.00\nItem Count 3 Change Amt 23.20\nInvoice No: 2018051110133130177\n11/05/2018 17:19 1013 313 3130177\n0304023 CST NURNABILA EMISHA BINTI\nIBRAHIM\n\nGST Summary Amount Tax\nSR @ 6% 449.82 26.99\nTotal 449.82 26.99\n\nREGULAR STAMP(S) : 14\nBONUS STAMP(S) : 0\nTOTAL STAMP(S) : 14\n\nAEON Stamps Loyalty Program “Product\n(s)”\nsold are neither exchangeable nor\nrefundable\n\nAEON TEBRAU CITY\n\nTEL 1-300-80-AEON (2366)\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN\n\nEXCLUSIVE FOR AEON MEMBERS:\n\nWe Love To Hear Your Feedback Visit\nsurvey monkey. com/r/AEONCSIS (store)\n/ www.surveymonkey.com/r/AEONCSIM (mall)\n\nShare Your Experience\n*Get RM5 Aeon Gift Voucher*"
+  }
+}

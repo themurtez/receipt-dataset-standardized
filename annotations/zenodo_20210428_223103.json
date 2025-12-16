@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "ROGERIO PAIS, LDA",
+    "address": "AVENIDA ALMIRANTE REIS, 9-E, 1150-007 LISBOA",
+    "phone": "218853901",
+    "tax_id": "510769914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-27",
+    "time": "14:47:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 17.93,
+    "tax": 4.12,
+    "tip": 0.0,
+    "total": 22.05,
+    "accounting_category": "Hardware Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Cabo FVV 3x1.5",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Electrical Cable",
+      "accounting_category": "Hardware Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sungo - espelho simples",
+      "quantity": 1,
+      "unit_price": 1.2,
+      "total_price": 1.2,
+      "category": "Electrical Components",
+      "accounting_category": "Hardware Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sungo - tomada int. c/te",
+      "quantity": 1,
+      "unit_price": 6.8,
+      "total_price": 6.8,
+      "category": "Electrical Components",
+      "accounting_category": "Hardware Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Efapel - tomada exterior",
+      "quantity": 1,
+      "unit_price": 2.85,
+      "total_price": 2.85,
+      "category": "Electrical Components",
+      "accounting_category": "Hardware Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Caixa tecnica br. 16x10",
+      "quantity": 1,
+      "unit_price": 5.4,
+      "total_price": 5.4,
+      "category": "Electrical Box",
+      "accounting_category": "Hardware Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_223103.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROGERIO PAIS, LDA\nFERRAGENS * FERRAMENTAS * MAQUINAS * UTILIDADES\nAVENIDA ALMIRANTE REIS, 9-E * 1150-007 LISBOA\nTel/Fax 21853901 Tel. 966006896\n* Sociedade por quotas * Capital Social\n5.012,92€ REG.CRC. 34852\nNIB: 0033 0000 012802864363 52\n2019-05-27 FATURA SIMPLIFICADA N:\nOriginal FS 1A1901/4225\n14:47 BALCAO 1\nContribuinte: 510769914\nDESCRICAO IVA VALOR\n5 Cabo FVV 3x1,5 br o.ex / pre 23% 5,00\nPreco: 1,00/Metro\n3 SUNG - espelho simples 23% 1,20\nPreco: 0,60/UNIDADE\n2 SUN - tomada int. c/te 23% 6,80\nPreco: 3,40/UNIDADE\n1 EFAPEL - tomada exterior 23% 2,85\n1 Caix tecnic. br.- Can 23% 0,60\nPreco: 1,80/UNIDADE 5,40\nTAXA IVA INCID.\n23% 4,12 17,93\nTOTAL INCIDENCIAS: 4,12 17,93\nTOTAL: Eur 22,05\nPago em Numerario\nValor entregue: 22,05\nTroco: 0,00\nImplementado por www.ticsgest.pt\noXP-Processado por programa\ncertificado n. 217/AT\nOs servicos e/ou bens foram realizados e/ou colo cados a disposic o do adquirente nesta data (Ar t 36 do CIVA, No5 alinea F)\nLicenca: ROGERIO PAIS, LDA\nContribuinte: 500544000\n"
+  }
+}

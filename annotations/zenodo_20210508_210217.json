@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Drogaria Sao Domingos",
+    "address": "Rua D. Antao de Almada 1A, 1100-372 Lisboa",
+    "phone": "213426636",
+    "tax_id": "500480427",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-14",
+    "time": "11:01:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 2.75,
+    "tax": 0.51,
+    "tip": 0.0,
+    "total": 2.75,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Xizato Gr.",
+      "quantity": 1,
+      "unit_price": 2.75,
+      "total_price": 2.75,
+      "category": "Office Supplies",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 7.25
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_210217.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Drogaria Sao Domingos\nTRINDADE E CIA LDA\nRua D. Antao de Almada 1A\n1100 - 372 LISBOA\nTel: 213426636\nNIF: 500480427\n\n2018-06-14 FATURA-RECIBO N:\nOriginal FT 1A1802/1132\n11:01 BALCAO 2\n\nCliente 510776914\n0000 000\nContribuinte: 510776914\n\nDESCRICAO             IVA     VALOR\n1 Xizato Gr.               23%     2,75\n\nTAXA                          IVA       INCID.\n23%                           0,51       2,24\nTOTAL INCIDENCIAS:     0,51       2,24\n\nTOTAL:                      Eur 2,75\n\nPago em Numerario\nValor entregue:              10,00\nTroco:                         7,25\n\n**** LOJA COM HISTORIA ****\n\nNao se troca artigos de uso pessoal\nTalao indispensavel para troca\nate 15 dias apos a data da fatura\nNao se devolve dinheiro\nTalao indispensavel para levantamento\na fiacoes e reparacoes\nImplementado por Ticasgest\n\nTgbS-Processado por programa\ncertificado n. 217/AT\n\nOs servicos e/ou bens foram realizados e/o\nu colocados a disposicao do adquirente nese\na data. (Art. 36 do CIVA, No5 alinea F)\n\nLicenca: TRINDADE E CIA LDA\nContribuinte: 500480427"
+  }
+}

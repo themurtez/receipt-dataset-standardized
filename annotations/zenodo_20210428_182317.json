@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "DROGARIA S MARCAL LDA",
+    "address": "R S MARCAL 110 RC",
+    "phone": "213461636",
+    "tax_id": "500563381",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-04-09",
+    "time": "16:26:00",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 5.13,
+    "tax": 1.17,
+    "tip": 0.0,
+    "total": 6.3,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Martelo",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Tools",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Fechos",
+      "quantity": 1,
+      "unit_price": 0.9,
+      "total_price": 0.9,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Prego arame",
+      "quantity": 1,
+      "unit_price": 0.4,
+      "total_price": 0.4,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_182317.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "DROGARIA S MARCAL LDA\nDROGARIA S MARCAL LDA\nR S MARCAL 110 RC\nTel 213461636\nN. Contrib. 500563381\n\nRegisto na Cons. Lisboa n.31086\nCapital Social € 5,000.00\n\nNIF: 510776914\nNome: Flikehome\nMorada:\n\nFatura-recibo FR 001/12623\n2019-04-09 16:26\n\nUt Descrição P.Unit. Valor\n1.00 Martelo € 5.00 € 5.00 NOR\n1.00 Fechos € 0.90 € 0.90 NOR\n1.00 Prego arame € 0.40 € 0.40 NOR\n\nTotal liq. € 6.30\n\nPagamento\nNúmero\n\nTaxa Base Valor Total\n23.00 € 5.13 € 1.17 € 6.30 NOR\n\nIVL Incluido\n\n0795874635594859414649"
+  }
+}

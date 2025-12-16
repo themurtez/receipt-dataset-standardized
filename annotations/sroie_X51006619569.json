@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (KUCHAI) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000473792512",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-02-01",
+    "time": "13:10:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 24.91,
+    "tax": 1.49,
+    "tip": 0.0,
+    "total": 26.4,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "POT HOLDER (SQUARE)",
+      "quantity": 3,
+      "unit_price": 2.5,
+      "total_price": 7.5,
+      "category": "Household",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "CNY RIBBON 2.0CM",
+      "quantity": 3,
+      "unit_price": 6.3,
+      "total_price": 18.9,
+      "category": "Decorations",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 4.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619569.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. D.I.Y. (KUCHAI) SDN BHD\nCo-REG:750441-W\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000473792512)\n(KEPONG)\n-TAX INVOICE-\n--------------------------------------------------\nPOT HOLDER (SQUARE) *S\nMR11/2 - 10/300\n9067846 3 X 2.50 7.50\nCNY RIBBON 2.0CM *S\nJC31/2 - 10/600\n8711015 3 X 6.30 18.90\nItem(s) : 2 Qty(s) : 6\n--------------------------------------------------\nTOTAL INCL. GST@6% RM 26.40\nCASH RM 30.40\nCHANGE RM 4.00\n\nGST @6% included in total RM 1.49\n--------------------------------------------------\n01-02-16 13:10 SH01 R003 T1 R000383271\nOPERATOR TRAINEE\n\nEXCHANGE ARE ALLOWED WITHIN\n3 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND.\n"
+  }
+}

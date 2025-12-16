@@ -1,0 +1,127 @@
+{
+  "merchant": {
+    "name": "SYARIKAT PERNIAGAAN GIN KEE",
+    "address": "NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR",
+    "phone": "03-40210276",
+    "tax_id": "000750673920",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-28",
+    "time": "11:57:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 439.0,
+    "tax": 26.34,
+    "tip": 0.0,
+    "total": 465.34,
+    "accounting_category": "Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "NAIL (PER/PACK) - RM2",
+      "quantity": 2,
+      "unit_price": 2.12,
+      "total_price": 4.24,
+      "category": "Hardware",
+      "accounting_category": "Nails",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "1 1/2\" SANCORA PAINT BRUSH",
+      "quantity": 1,
+      "unit_price": 7.95,
+      "total_price": 7.95,
+      "category": "Hardware",
+      "accounting_category": "Paint Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "7\" PAINT ROLLER SET",
+      "quantity": 1,
+      "unit_price": 10.07,
+      "total_price": 10.07,
+      "category": "Hardware",
+      "accounting_category": "Paint Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "1LT BIG TREE HIGH GLOSS PAINT",
+      "quantity": 2,
+      "unit_price": 26.5,
+      "total_price": 53.0,
+      "category": "Hardware",
+      "accounting_category": "Paint",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CEMENT BRICK",
+      "quantity": 450,
+      "unit_price": 0.3,
+      "total_price": 133.56,
+      "category": "Construction",
+      "accounting_category": "Bricks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "6' X 35# CORRUGATED ROOFING SHEET",
+      "quantity": 3,
+      "unit_price": 15.9,
+      "total_price": 47.7,
+      "category": "Construction",
+      "accounting_category": "Roofing",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CEMENT (50KG)",
+      "quantity": 4,
+      "unit_price": 18.02,
+      "total_price": 72.08,
+      "category": "Construction",
+      "accounting_category": "Cement",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "10' 2 X 3",
+      "quantity": 2,
+      "unit_price": 16.96,
+      "total_price": 33.92,
+      "category": "Construction",
+      "accounting_category": "Lumber",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "10' 1 X 2",
+      "quantity": 3,
+      "unit_price": 7.42,
+      "total_price": 22.26,
+      "category": "Construction",
+      "accounting_category": "Lumber",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "K10' 1 X 8",
+      "quantity": 2,
+      "unit_price": 40.28,
+      "total_price": 80.56,
+      "category": "Construction",
+      "accounting_category": "Lumber",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 10,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005663324.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "3 6 12 012\nSYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS,\nSETAPAK,\n53200, KUALA LUMPUR.\nTEL: 03-40210276\nGST ID : 000750673920\nSIMPLIFIED TAX INVOICE\nDoc No CS00012440 Date: 28/12/2017\nCashier USER Time: 11:57:00\nSalesperson\nItem Qty S/Price Amount Tax\n2623 2 2.12 4.24 SR\nNAIL (PER/PACK) - RM2\n3483 1 7.95 7.95 SR\n1 1/2\" SANCORA PAINT BRUSH\n1452 1 10.07 10.07 SR\n7\" PAINT ROLLER SET\n1664 2 26.50 53.00 SR\n1LT BIG TREE HIGH GLOSS PAINT\n1665 450 0.30 133.56 SR\nCEMENT BRICK\n1041 3 15.90 47.70 SR\n6' X 35# CORRUGATED ROOFING SHEET\n2430 4 18.02 72.08 SR\nCEMENT (50KG)\n1812 2 16.96 33.92 SR\n10' 2 X 3\n1792 3 7.42 22.26 SR\n10' 1 X 2\n1840 2 40.28 80.56 SR\nK10' 1 X 8\nTotal Qty 470 465.34\nTotal Sales (Excluding GST) 439.00\nDiscount : 0.00\nTotal GST : 26.34\nRounding : 0.00\nTotal Sales (Inclusive of GST) : 465.34\nCASH : 465.34\nChange : 0.00\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR 6 439.00 26.34\nTotal : 439.00 26.34\nGOODS SOLD ARE NOT RETURNABLE. THANK YOU.\n"
+  }
+}

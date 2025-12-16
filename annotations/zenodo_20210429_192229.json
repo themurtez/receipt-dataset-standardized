@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "FNAC PORTUGAL ACDLDMPT, Lda",
+    "address": "R. Prof. Carlos Alberto Mota Pinto, n 6B 1070-374 Lisboa",
+    "phone": "",
+    "tax_id": "503952230",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-09-15",
+    "time": "21:06:00",
+    "currency": "EUR",
+    "payment_method": "VISA",
+    "subtotal": 105.68,
+    "tax": 24.31,
+    "tip": 0.0,
+    "total": 129.99,
+    "accounting_category": "Electronics",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "MS SURFACE GO TYPE C",
+      "quantity": 1,
+      "unit_price": 129.99,
+      "total_price": 129.99,
+      "category": "Electronics",
+      "accounting_category": "Electronics",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_192229.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "FNAC PORTUGAL ACDLDMPT, Lda\nCOLOMBO\nCont. e Reg. CC. Lisboa n. 503952230\nAtividade n. P1000339\nCapital Social: 250.000 euros\nR. Prof. Carlos Alberto Mota Pinto, n 6B\n1070-374 Lisboa\nContribuinte Nr 503 952 230\nFATURA SEQ: 94622\nNr. 001082019000000/104677\n*** 2a. Via ***\nNome: LIKEHOME LDA\nMorada:\nLisboa\nCont.: 510776914\nIVA ANTIGO/AT PRECO VALOR\n0084938289434 - 1104\nMS SURFACE GO TYPE C 129,99\nVendedor: 000186 \nVALOR A PAGAR\nVISA 129,99\nTROCO 0,00\nRESUMO DO IVA\nTaxa BASE VALOR\n23,00 105,68 24,31\nTOTAL 105,68 24,31\nCARTAO FNAC\n03427475\nMARTA MACHADO\nSALDO PONTOS ANTERIOR\nA ESTA COMPRA: 146\nPontos desta compra disponiveis\nna proxima compra.\nLHOY:1509139 OP:000010 LJ:0001 CX: 18\nLocal de Carga:\nAv. Lusada - C.C. Colombo, Loja R-103\nLocal de Descarga:\nMORADA CLIENTE\nData Emissao: 2019-09-15 21:06\nuWys-Processado por programa\ncertificado n. 1140/AT\nAtendido por: SPU namha\nE' tao indispensavel para troca num prazo\n30 dias. Produtos nao comestiveis como\nfundirmos multibanco usando o ticket\ne em remessa, numero no recibo no operador.\nSoftware e produtos de consumo internos\nao forma permtidos pro Timmer\nSupridos informamos sobre a leura\nProduit foi feita. Igualmente informados\nmontar saldo s'ecitele transmitir.\nFNAC\ninclus empresa sorduat\nInclui taxa de copia privada lei 62/98"
+  }
+}

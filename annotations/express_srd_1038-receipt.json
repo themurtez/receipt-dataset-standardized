@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Yogurtland",
+    "address": "12502 North Kendall Drive\nMiami, FL 33186",
+    "phone": "(305) 279-3478",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-09-07",
+    "time": "21:28:00",
+    "currency": "USD",
+    "payment_method": "VISA",
+    "subtotal": 17.8,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 17.8,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Purchase",
+      "quantity": 1,
+      "unit_price": 17.8,
+      "total_price": 17.8,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1038-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Micros Demo System\nWelcome to Yogurtland\n12502 North Kendall Drive\nMiami, FL 33186\n(305) 279-3478\nDate: Sep07'18 09:28PM\nCard Type: VISA\nAcct #: XXXXXXXXXXXX3862\nCard Entry: SWIPED\nTrans Type: PURCHASE\nTrans Key: 111008007193348\nAuth Code: 071410\nCheck: 1082\nServer: 1041 melanie\nTotal 17.80\n**NO SIGNATURE REQUIRED\nFOR PURCHASES UNDER $20.00**"
+  }
+}

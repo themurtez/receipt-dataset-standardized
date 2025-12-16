@@ -1,0 +1,136 @@
+{
+  "merchant": {
+    "name": "Portvgália",
+    "address": "Rua de S. Caetano Nº 4, 1249-132 Lisboa",
+    "phone": "213 513 234",
+    "tax_id": "502036768",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-20",
+    "time": "14:51:55",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 48.07,
+    "tax": 6.73,
+    "tip": 0.0,
+    "total": 54.8,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Imp Branca 25cl",
+      "quantity": 1,
+      "unit_price": 1.7,
+      "total_price": 1.7,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pepsi zero Lt",
+      "quantity": 1,
+      "unit_price": 2.1,
+      "total_price": 2.1,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "1/2 Bacalhau Brás",
+      "quantity": 2,
+      "unit_price": 12.3,
+      "total_price": 24.6,
+      "category": "Meal",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Bife Vazia",
+      "quantity": 1,
+      "unit_price": 15.1,
+      "total_price": 15.1,
+      "category": "Meal",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pepsi - Lt",
+      "quantity": 1,
+      "unit_price": 2.1,
+      "total_price": 2.1,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pão",
+      "quantity": 1,
+      "unit_price": 0.65,
+      "total_price": 0.65,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pão Torrado Fátias",
+      "quantity": 1,
+      "unit_price": 1.65,
+      "total_price": 1.65,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Manteiga Alho",
+      "quantity": 1,
+      "unit_price": 0.8,
+      "total_price": 0.8,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Café",
+      "quantity": 1,
+      "unit_price": 0.7,
+      "total_price": 0.7,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pudim Flan",
+      "quantity": 1,
+      "unit_price": 2.35,
+      "total_price": 2.35,
+      "category": "Dessert",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Baba Amélia",
+      "quantity": 1,
+      "unit_price": 3.1,
+      "total_price": 3.1,
+      "category": "Dessert",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 11,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_215936.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PORTVGÁLIA\nPortugália Restawracao, Sa\nRua de S. Caetano Nº 4\n1249-132 Lisboa\nTel. 213 513 234\nN. Contrib. 502036768\nRegistro Cons. Lisboa n. 502036788\nCapital Social: 899 045.79 Euros\nCliente\nN.° 2776914\nFatura Simplificada FS 113/1576787\n2017-11-20 14:51:55\nQt Artigo IV Total\n1 Imp Branca 25cl 23 € 1.70\n1 Pepsi zero Lt 23 € 2.10\n1/2 Bacalhau Brás 13 € 12.30\n1/2 Bacalhau Brás 13 € 12.30\n1 Bife Vazia 13 € 15.10\n1 Pepsi - Lt 23 € 2.10\n1 Pão 13 € 0.65\n1 Pão Torrado Fátas 13 € 1.65\n1 Manteiga Alho 13 € 0.80\n1 Café 13 € 0.70\n1 Pudim Flan 13 € 2.35\n1 Baba Canec 13 € 3.10\nTotal € 54.80\nPago € 54.80\nTroco € 0.00\nMetodos de pagamento:\nMultibanco € 16.50\nNumerário € 36.30\nTaxa Base IVA Total\n23.00 € 4.60 € 1.10 € 5.90\n13.00 € 43.27 € 5.63 € 48.90\nTotal € 48.07€ 6.73€ 54.80\nMesa 50 Emp 16925\nIVA incluido\nconsultas:\nDC 113/351971\nObrigado e volte sempre\nWWIG Processado por programa\ncertificado n.0071/AT\nCopyright GrupoPIE, SA"
+  }
+}

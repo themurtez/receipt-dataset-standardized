@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Chaves de Alvalade",
+    "address": "Av. de Roma 43C - 1700-341 Lisboa",
+    "phone": "217820264",
+    "tax_id": "513129065",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-09-16",
+    "time": "16:13:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 9.43,
+    "tax": 2.17,
+    "tip": 0.0,
+    "total": 11.6,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CHAVE TIPO VALE",
+      "quantity": 8,
+      "unit_price": 1.45,
+      "total_price": 11.6,
+      "category": "Keys",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.4
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_182307.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Chaves de Alvalade\nMCAL - Chaves de Alvalade, Lda.\nAv. de Roma 43C - 1700-341 Lisboa\nTelef. 217820264\nNIF: 513129065 - Cap.Soc. 2,000,00 Eur\n\nFatura Simplificada\nFS A01/41898\nOriginal\nNatureza: Fatura Simplificada\nData: 2019-09-16 16:13H VEN.:001 TER:01\n\nCONTR.: 510776914 N: 0000002045\n\nProduto Quant IVA Valor\nCHAVE TIPO VALE 8 23% 11,60\nItens: 8\n\nTotal 11,60 EUR\nDINHEIRO: 12,00 EUR\nTroco: 0,40 EUR\n\nIva Incluido a Taxa Indicada\nTaxa Valor IVA Base Imp. Valor Total\n23% 2,17 9,43 11,60\n\ncruY-Processado por programa certificado\nnº 2/AT Sage\nEste documento não constitui documento d\n& transporte, nos termos do Decreto-Lei\nn.º 147/2003"
+  }
+}

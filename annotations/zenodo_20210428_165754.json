@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "P. A. Castilho",
+    "address": "Rua Filipe Folque, 2 - 3º, Rua Castilho, 209A, Lisboa",
+    "phone": "213 500 700",
+    "tax_id": "509152635",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-08",
+    "time": "12:30:00",
+    "currency": "EUR",
+    "payment_method": "Dinheiro",
+    "subtotal": 8.13,
+    "tax": 1.87,
+    "tip": 0.0,
+    "total": 10.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Gasolina S/C 95 - Bomba 1",
+      "quantity": 6.63,
+      "unit_price": 1.509,
+      "total_price": 10.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_165754.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "P. A. Castilho\nOZ ENERGIA\nOZ Energia Fuels Unipessoal, Lda\nRua Filipe Folque, 2 - 3º\nNIPC: 509152635 Capital Social: 5.000,00€\nTel/f: 213 500 700 Fax: 213 500 777\nRua Castilho, 209A Lisboa\nFatura-Recibo: POS1 4001AO/170740\nData 2019-03-08 Hora 12:30\nCliente: FLlKEHOME LDA\nContribuinte: 510776914\nMatricula: 03-tr-50\nProd/Qtd P. Unit. Iva Total\nGasolina S/C 95 - Bomba 1\n6,63L 1.509€/L 23.00% 10.00€\nTotal 10.00€\nPago em Dinheiro 10.00€\nTaxa Incidência IVA Total\n23.00% 8,13 1,87 10,00\nL1f/ Processado por programa\ncertificado nº2311/AT.WARESOFT\nOBRIGADO BOA VIAGEM"
+  }
+}

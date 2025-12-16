@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Richeese Factory",
+    "address": "",
+    "phone": "021-12345678",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2022-03-29",
+    "time": "11:53:00",
+    "currency": "IDR",
+    "payment_method": "GoPay",
+    "subtotal": 45000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 45000.0,
+    "accounting_category": "Food",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ORIGINAL 6 PCS",
+      "quantity": 1,
+      "unit_price": 45000.0,
+      "total_price": 45000.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000348.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Richeese Factory Store\n\nLLXX Munum Jakarta\n\nCustomer Care: 021-12345678 / xxxx@xxxxx.com\n\nFacebook: link @ Twitter: link\n\n-------------------------------------\n\nxxxxxx 11:53\n\n29 Mar 2022 11:53\n\n1 x ORIGINAL 6 PCS 45,000\n\n-------------------------------------\n\nSUB TOTAL 45,000\n\nTOTAL SALES 45,000\n\nGOPAY 45,000\n\nName #10\n\nSales included PB1\n\n\n"
+  }
+}

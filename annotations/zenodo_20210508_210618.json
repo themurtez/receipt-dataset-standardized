@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "Lagoa, Rua Actor António Silva, N7, 1600-313 Lisboa, Portugal",
+    "phone": "282380110",
+    "tax_id": "503208993",
+    "website": "www.pingodoce.pt"
+  },
+  "transaction": {
+    "date": "2018-04-06",
+    "time": "20:40:42",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 4.49,
+    "tax": 0.84,
+    "tip": 0.0,
+    "total": 4.49,
+    "accounting_category": "Grocery",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Produtos Pessoais",
+      "quantity": 1,
+      "unit_price": 4.49,
+      "total_price": 4.49,
+      "category": "Personal Care",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_210618.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Pingo Doce\nLAGOA\nTel.: 282380110\nPingo Doce - Distribuição Alimentar, S.A.\nSede: R. Actor António Silva, N7, 1690-033 Lisboa\nMat: 500238993\nRegisto: Pingo Doce ANREEE: PT010730\nCapital: 33.808.118 EUR\n\nArtigos\nPRODUTOS PESSOAIS 4,49\nE 23% HIG E DOCE 32 UNI\n\nTOTAL A PAGAR 4,49\nResumo\nTOTAL PAGO 4,49\nPagamentos\nMultibanco 4,49\n\nResumo IVA\nTaxa Valor TVa Valor c/IVA\nE 23% 3,55 0,84 4,49\n\nAtendido por: ANDRE SILVA\n\n105726 2018-04-06 20:40:42 0045 0002 0761\n\nFactura/Recibo\nFT 06170210601000210621/005734\nValidade: 2018-04-06\n\nTerminal Pagamento Automático: 00426375\n2018-04-06 20:41 PerZ1 Tr065 Msg180\nMillennium BCP\nAlgarve/Salvador\n\n504C020287 Multibanco\nCompra 4,49O MBc TV\n\nApoio ao Cliente\n808 20 45 45 / 210 11 44 11 (24 horas)\nwww.pingodoce.pt\n"
+  }
+}

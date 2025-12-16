@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Galp",
+    "address": "EN10, 2601-904 Caixias",
+    "phone": "+351 217 957 447",
+    "tax_id": "PT 502487835",
+    "website": "cliente@galp.com"
+  },
+  "transaction": {
+    "date": "2019-10-01",
+    "time": "05:05:04",
+    "currency": "EUR",
+    "payment_method": "DEBIT CARD",
+    "subtotal": 24.1,
+    "tax": 4.51,
+    "tip": 0.0,
+    "total": 24.1,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Gasoline 95",
+      "quantity": 1,
+      "unit_price": 24.1,
+      "total_price": 24.1,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_191634.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GALP\nDOCUMENTO DE VENDA\nGASINOVA-DEI SERV. COM. GAS, LDA 11346\nGASINOVA - DIS. E COM. GAS, LDA\nAV. INFANTE DOS GATOS, APARTADO 2\n2601-904 CAOI\nTEL: 217257447\nNIF: PT 502487835\nFactura/Recibo\nQuantidade Produto Preço\nUnitário\n17.50 LIT Bomba 04\nGASOLINA VOLOP., 95 EUR 24.10 A\nTotal 59c / EUR 24.10\n23.00 % IVA A EUR 4.51\nCliente: 15805\nNome: F LICKROME\nMorada:\nCódigo Postal:\nLocalidade: 510769914\nN Contribuinte:\nMatricula: 31-95-11\nVendedor: Sergio Pereira\n01/03/420004100511114602019/000025418\nKFAB: Processado por Programa\nCertificado n° 1396/AT\nData: 01-10-19 Hora: 08:04 N°Ticket: 00066 01 003 1433\nRegime IVA de Caixa nos casos em que tal\nseja aplicável ao cliente\ncliente@galp.com Tel: 707 504 257\nTotal EUR 24.10\nCARTÃO DEBITO\nTerminal Pagamento Automático: 00714449\nData: 2019-10-01 Hora: 05:05:04\nIDC: 0096 per App\nPERIODI - TRANSAÇÃO 009 Mengao: 551\nMILLEUNIUM BCP\nJERUMO PEDRO JOAO\nCARTA0: *** ***/75\n501436PHP0000\nBanca: 433\nCOMPRACO\n20,10€ ME\nPROC00RADO POR SIBS\nAUT. :191433\n© Sibs 9010406202019100000024,10"
+  }
+}

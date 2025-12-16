@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "UNIHAAKKA INTERNATIONAL SDN BHD",
+    "address": "12, Jalan Tampoi 7/4, Kawasan Perindustrian Tampoi, 81200 Johor Bahru, Johor",
+    "phone": "",
+    "tax_id": "867388-U",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-25",
+    "time": "18:26:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 8.5,
+    "tax": 0.48,
+    "tip": 0.0,
+    "total": 8.5,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "4 Vege",
+      "quantity": 1,
+      "unit_price": 5.5,
+      "total_price": 5.5,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Fried Noodle (L)",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005442375.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "UNIHAAKKA INTERNATIONAL SDN BHD\n25 Mar 2018 18:26\n(867388-U)\n12, Jalan Tampoi 7/4, Kawasan Perindustrian\nTampoi, 81200 Johor Bahru, Johor\nTAX INVOICE\nInvoice #: OR18032502170439\n\nItem   Qty    Total\nSR 100100000060- 4 Vege\n$5.50   1       $5.50\nSR 100100000057-Fried Noodle (L)\n$3.00   1       $3.00\n\nTotal Amount: $8.50\nGST @6%: $0.48\nNett Total: $8.50\n\nPayment Mode                   Amount\nCASH                                  $8.50\nChange                             $0.00\n\nGST Summary Amount($)          Tax($)\nSR - GST @6%     8.02              0.48\n\nGST REG #000656195584\nBAR WANG RICE@PERMAS JAYA\n(Price Inclusive Of GST)\nThank You & Come Again!\n\nLike and Follow Us on Facebook!\nFacebook.com/BarWangRice"
+  }
+}

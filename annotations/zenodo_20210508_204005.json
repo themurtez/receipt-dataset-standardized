@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Season Believers Supermercados LDA",
+    "address": "BRASIL 3 / 060 83\n2735-051 SAO MARCOS",
+    "phone": "",
+    "tax_id": "513067353",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-29",
+    "time": "18:59:00",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 3.38,
+    "tax": 0.78,
+    "tip": 0.0,
+    "total": 4.16,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Gelo",
+      "quantity": 4,
+      "unit_price": 0.99,
+      "total_price": 3.96,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Saco Compras",
+      "quantity": 2,
+      "unit_price": 0.05,
+      "total_price": 0.1,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_204005.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SEASONBELIEVERS-SUPERMERCADOS LDA\nBRASIL 3 / 060 83\n2735-051 SAO MARCOS\nC.R.C. NUM. CONTRIB.: 513067353\nCAPITAL SOCIAL EMPRESA: 10\nNOME CLIENTE:\nFIKEHOME\nDIRECAO CLIENTE:\nLISBOA\nNUM. CONTRIBUINTE: 510776914\nLOCALIDADE: CHIADO\nCOD. POST:\nFATURA/RECIBO\nT 078550221081012/00002506\nBAIXA: 2 DATA: 2018-06-29 HORA: 18:59\nCODIGO DE OPERARIO: 62917\nCODIGO DESCRICAO TOTAL\nIVA PVP/UNIT QUANTIDADE DESCONTOS\n208289 GELO 3.96\n23.00% O,99 4 0.00\nAM. Saco Compras 0.20\n23.00% 0.10 2 0.00\nTOTAL A PAGAR EUROS -4,16\nMULTIBANCO 4,16\nTROCO 0,00\nTIPO IVA BASE IVA\n03 23,00% 3,38 0.78 4,16\nTOTAL = 3,38 0,78 4,16\nLOCAL CARGA:\nTR DA BOA HORA A AJUDA 39\n1300-102 LISBOA\nDATA: 2018-06-29 HORA: 18:59\nLOCAL DESCARGA: MORADA DO CLIENTE\nAVDs- Processado por prog. cert. nº 1752/AT\n* AOS PRECOS MAIS BAIXOS*\n* MINIPRECO PI *"
+  }
+}

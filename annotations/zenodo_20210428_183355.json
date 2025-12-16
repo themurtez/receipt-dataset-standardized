@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Casa Bernardino",
+    "address": "Rua 5 de Outubro, 28 B, 2655-255 Ericeira",
+    "phone": "261 863 522",
+    "tax_id": "104 110 015",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-25",
+    "time": "16:41:53",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 36.99,
+    "tax": 8.51,
+    "tip": 0.0,
+    "total": 45.5,
+    "accounting_category": "Retail",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Chave Pontos",
+      "quantity": 3,
+      "unit_price": 10.0,
+      "total_price": 30.0,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Chave Universal",
+      "quantity": 7,
+      "unit_price": 1.5,
+      "total_price": 10.5,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Chave 4 Entradas",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 11,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_183355.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CASA\nBERNARDINO\nMaria Manuela Fernandes Campos\nNIF: 104 110 015\nRua 5 de Outubro, 28 B\n2655- 255 Ericeira\nTel. 261 863 522\nTalão indispensável para trocas no\nprazo de 15 dias Original\nFatura-recibo N° FR PA9/29\nData: 2019-03-25 Hora: 16:41:53\nNome: Flikehome\nMorada : Lisboa\nContribuinte :510776914 Matricula :00-00-\nDESIGNAÇÃO DESC. IVA VALOR\nCHAVE PONTOS\n3 10,00 0% 23% 30,00 €\nChave universal\n7 1,50 0% 23% 10,50 €\nChave 4 entradas\n1 5,00 0% 23% 5,00 €\nTotal 45,50 €\nMercadoria IVA Valor IVA\n0,00 € 0% 0,00 €\n36,99 € 23% 8,51 €\nObrigado Volte Sempre\nyuVz- Processado por programa\ncertificado n° 1318/AT"
+  }
+}

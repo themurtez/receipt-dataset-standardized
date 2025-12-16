@@ -1,0 +1,127 @@
+{
+  "merchant": {
+    "name": "Cooking 4 You",
+    "address": "Rua da Beneficência, Col. Postal: 1600-019, Lisboa",
+    "phone": "",
+    "tax_id": "506007167",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-09-23",
+    "time": "17:33:00",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 56.78,
+    "tax": 8.67,
+    "tip": 0.0,
+    "total": 65.45,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Hamburguer Gold Chedda",
+      "quantity": 1,
+      "unit_price": 12.5,
+      "total_price": 12.5,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Hamburguer Silvestre",
+      "quantity": 2,
+      "unit_price": 12.5,
+      "total_price": 25.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "STOUT",
+      "quantity": 1,
+      "unit_price": 3.5,
+      "total_price": 3.5,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Água das Pedras",
+      "quantity": 1,
+      "unit_price": 2.3,
+      "total_price": 2.3,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Vinho Copo",
+      "quantity": 3,
+      "unit_price": 1.85,
+      "total_price": 5.55,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Azeitonas",
+      "quantity": 1,
+      "unit_price": 1.85,
+      "total_price": 1.85,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Couvert",
+      "quantity": 1,
+      "unit_price": 1.85,
+      "total_price": 1.85,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Croquetes",
+      "quantity": 1,
+      "unit_price": 2.3,
+      "total_price": 2.3,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Café",
+      "quantity": 3,
+      "unit_price": 0.75,
+      "total_price": 2.25,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Água Vitalis",
+      "quantity": 1,
+      "unit_price": 1.3,
+      "total_price": 1.3,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 10,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_184757.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Cooking 4 You, Lda.\nRua da Beneficência, 1600-019\nTeléfono: \nNo. Contribuinte: 506007167 \nCliente: FLIKE@HOME, Lda\nNIF: 510776914\nMorada: Lisboa\nFatura-Recibo FT 002/8333\nData: 2019-09-23 Hora: 17:33\nQt Artigo\n1 Hamburguer Gold Chedda\t €12.50\n2 Hamburguer Silvestre\t €25.00\n1 STOUT\t €3.50\n1 Agua das pedras\t €2.30\n3 Vinho Copo\t €5.55\n1 Azeitonas\t €1.85\n1 Couvert\t €1.85\n1 Croquetes\t €2.30\n3 Café\t €2.25\n1 Agua Vitalis\t €1.30\nTotal\t €65.45\nTronco\t €0.00\nTaxa Base IVA Total\n13.00 €43.93 €5.72 €49.65\n23.00 €12.85 €2.95 €15.80\nTotal €56.78 €8.67 €65.45\nDC 002/59201\nPagamento efectuado em: \nMultibanco\nMesa: Cozinha 1 Hora: 17:33\nAtendido por: Ricardo\nIVA Incluido\nEste documento \ncertificado n. 0071/AT\nCopyright GrupoEfit, SA"
+  }
+}

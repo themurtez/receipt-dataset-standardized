@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "VND",
+    "payment_method": "Cash",
+    "subtotal": 9500.0,
+    "tax": 950.0,
+    "tip": 0.0,
+    "total": 10450.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Nestle 600 MI",
+      "quantity": 1,
+      "unit_price": 9500.0,
+      "total_price": 9500.0,
+      "category": "Beverage",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000504.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "NESTLE 600 MI 9,500\n1.00xITEMS\nSUBTOTAL 9,500\nTAX 10% 950\nTOTAL 10,450\nCASH 10,450"
+  }
+}

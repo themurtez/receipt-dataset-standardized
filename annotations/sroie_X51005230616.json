@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Gerbang Alaf Restaurants Sdn Bhd",
+    "address": "No.3, Jalan SS21/39, 47400 Petaling Jaya, Selangor",
+    "phone": "03-4147-3107",
+    "tax_id": "000504664064",
+    "website": "www.mcdfeedback.com.my"
+  },
+  "transaction": {
+    "date": "2018-01-18",
+    "time": "17:09:21",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 36.7,
+    "tax": 2.2,
+    "tip": 0.0,
+    "total": 38.9,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "M SpicyDeluxe",
+      "quantity": 2,
+      "unit_price": 12.7,
+      "total_price": 25.4,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "M Coke",
+      "quantity": 2,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "M Fries",
+      "quantity": 2,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "GrilChicBgr",
+      "quantity": 1,
+      "unit_price": 12.5,
+      "total_price": 12.5,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Small Cone",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Dessert",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 11.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005230616.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "190\nGerbang Alaf Restaurants Sdn Bhd\n(65351-M)\nformerly known as\nGolden Arches Restaurants Sdn Bhd\nLicensee of McDonald's\nLevel 6, Bangunan TH, Damansara Uptown3\nNo.3, Jalan SS21/39,47400 Petaling Jaya\nSelangor\n(GST ID No: 000504664064)\nMcDonald's Petronas Taman Melati DT\nTel No.: 03-4147-3107\nTAX INVOICE\nMFY Side 1\nINV#141900016842\nORD #90 - REG #19 - 18/01/2018 17:09:21\nQTY ITEM TOTAL\n2 M SpicyDeluxe 25.40\n2 M Coke\n2 M Fries\n1 M GrilChicBgr 12.50\n1 M Coke\n1 M Fries\n1 Small Cone 1.00\nTakeOut Total (incl GST) 38.90\nTotal Rounded 38.90\nCash Tendered 50.00\nChange 11.10\nTOTAL INCLUDES 6% GST 2.20\nW would  love to hear your feedback!\nVisit www.mcdfeedback.com.my\nOR\nDownload My McD Feedback from\nGoogle Play/App Store\nto share your experience\nThank You and Please Come Again.\nCustomer Service Hotline: 03-2726-5600"
+  }
+}

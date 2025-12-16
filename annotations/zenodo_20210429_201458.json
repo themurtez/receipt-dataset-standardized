@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "TOMAS RIBEIRO",
+    "address": "AV DA LIBERDADE 36 1B 1250/145, Lisboa",
+    "phone": "213136180",
+    "tax_id": "510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-07-11",
+    "time": "08:36:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 1.87,
+    "tax": 0.11,
+    "tip": 0.0,
+    "total": 1.98,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "COMPAL LARANJA 1L",
+      "quantity": 2,
+      "unit_price": 0.99,
+      "total_price": 1.98,
+      "category": "Beverages",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 8.02
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_201458.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TOMAS RIBEIRO\nTel.: 213136180\nPingo Doce Distribuição Alimentar, S.A.\nSede: R Actor António Silva, N7, 1649-033 Lisboa\nArtigos\nBEBIDAS\nC 6% COMPAL LARANJA 1LT\n2 x 0.99 1.98\nResumo\nTOTAL A PAGAR 1.98\nPagamentos\nTOTAL PAGO 10.00\nTROCO 8.02\nEURO 10.00\nResumo IVA\nTaxa Valor s/IVA Valor IVA Valor c/IVA\nC 6% 1.87 0.11 1.98\nAtendido por: Tiago Faleiro\n439987 2019-07-11 08:36 0042 0001 0440\nN. Contribuinte: 510776914\nNome: Feels Like Home\nMorada: AV DA LIBERDADE 36 1B 1250/145\nLocalidade: Lisboa\nData: 2019-07-11 Hora: 08:36"
+  }
+}

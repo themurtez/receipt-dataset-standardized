@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Worten Vasco da Gama",
+    "address": "Cc Vasco Da Gama C.C. Vasco Da Gama 1990-094 Lisboa",
+    "phone": "808 100 007",
+    "tax_id": "503553030",
+    "website": "www.worten.pt"
+  },
+  "transaction": {
+    "date": "2019-12-12",
+    "time": "20:22:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 17.99,
+    "tax": 2.31,
+    "tip": 0.0,
+    "total": 23.0,
+    "accounting_category": "Electronics",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Termoventilador",
+      "quantity": 1,
+      "unit_price": 17.99,
+      "total_price": 17.99,
+      "category": "Electronics",
+      "accounting_category": "Electronics",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_142732.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Worten Vasco da Gama\nWORTEN Equipamentos para o Lar SA\nServico Apoio Cliente: 808 100 007\nCc Vasco Da Gama C.C. Vasco Da Gama 1990-094 Lisboa\nRegistado CRC Porto sob N° 503553030\nNIF: PT503553030 \nC.S: 8,653,000.00 EUR - CAE/PEE: P1001257\nFatura Original N°: A/108256\nFT A/0108 13/12/2019 20:22\n\nCliente: FLIKEHOME\nNIF: PT513729611\nMorada: LISBOA\nLocal: LISBOA\nC. Postal: 00.00\n\nIVA DESCRICAO VALOR\nPequenos 35606 TERMOVENTILADOR\n(C) 17,99\n\nTOTAL A PAGAR 23.00\nNumerario 17,99\nTROCO 0,00\n\nZIVA Total Liq. IVA\nC 23,002 14,63 3,02\n\nKkeo-Processado por programa certificado\nN. 1306/AT\n0526 0003 332719 268551 - 10012805188057\n\nLocal carga: Morada da loja\nLocal descarga: Morada do cliente\nData: 12/02/2019 Hora: 20:22\n\nConsulte as condicoes da Politica de\nSatisfacao/Devolucao, afixadas na Loja\nTalao indispensavel para troca no\nPrazo de 15 dias, nos termose previstos\n\nNao estao abringados pela politica de\nsatisfacao/devolucao os artigos com\nativacao eil caixa\n\nPara mais informacoes consultar \nwww.worten.pt"
+  }
+}

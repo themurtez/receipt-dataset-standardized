@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "USD",
+    "payment_method": "cash",
+    "subtotal": 6.364,
+    "tax": 0.636,
+    "tip": 0.0,
+    "total": 7.0,
+    "accounting_category": "beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Mineral Water",
+      "quantity": 1,
+      "unit_price": 6.364,
+      "total_price": 6.364,
+      "category": "beverage",
+      "accounting_category": "beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000729.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Mineral Water 6,364\nSub Total 6,364\nP.Rest 10 % 636\nTotal 7,000\nCash 7,000\n1 Items,"
+  }
+}

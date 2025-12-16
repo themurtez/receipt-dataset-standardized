@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "ROGERIO PAIS, LDA",
+    "address": "AVENIDA ALMIRANTE REIS, 9-E, 1150-007 LISBOA",
+    "phone": "218853901",
+    "tax_id": "500544600",
+    "website": "www.ticasgest.pt"
+  },
+  "transaction": {
+    "date": "2019-05-09",
+    "time": "15:55:00",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 8.54,
+    "tax": 1.96,
+    "tip": 0.0,
+    "total": 10.5,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.85
+  },
+  "items": [
+    {
+      "name": "Cremone rotativa baixa",
+      "quantity": 1,
+      "unit_price": 7.5,
+      "total_price": 7.5,
+      "category": "Hardware",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Lampada Fluorescente",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Lighting",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_204049.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROGERIO PAIS, LDA\nFERRAGENS * FERRAMENTAS * MAQUINAS * UTILIDADES\nAVENIDA ALMIRANTE REIS, 9-E * 1150-007 LISBOA\nTel/Fax 218853901 Tel. 966008696\n* Sociedade por quotas * Capital Social\n 5.012,92E REG.CRC. 34852\nNIB: 0033 0000 01280286463 52\n\n2019-05-09 FATURA SIMPLIFICADA N:\nOriginal FS 1A1901/3678\n15:55 BALCAO 1\n\nContribuinte: 510776914\n\nDESCRICAO IVA VALOR\n1 Cremone rotativa baixa 23% 7,50\n1 Lampada Fluorescente 36 23% 3,00\n\nTAXA IVA INCID.\n23% 1,96 8,54\nTOTAL INCIDENCIAS: 1,96 8,54\n\nTOTAL: Eur 10,50\nPago em Numerario\nValor entregue: 10,50\nTroco: 0,00\n\nImplementado por www.ticasgest.pt\n\nCWTN-Processado por programa\ncertificado n. 217/AT\n\nOs servicos e/ou bens foram realizados e/ou colo\n cados·a disposicao do adquirente nesta data (Art\n. 36 do CIVA, No5 alInea F)\n\nLicenca: ROGERIO PAIS, LDA\nContribuinte: 500544600"
+  }
+}

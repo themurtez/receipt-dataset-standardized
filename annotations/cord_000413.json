@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 275000.0,
+    "tax": 25000.0,
+    "tip": 0.0,
+    "total": 300000.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CHIKATSU BEN",
+      "quantity": 10,
+      "unit_price": 20000.0,
+      "total_price": 200000.0,
+      "category": "Food",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "BOX T.O",
+      "quantity": 10,
+      "unit_price": 1000.0,
+      "total_price": 10000.0,
+      "category": "Other",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.75
+    },
+    {
+      "name": "OCHA",
+      "quantity": 10,
+      "unit_price": 4000.0,
+      "total_price": 40000.0,
+      "category": "Beverage",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "IA1",
+      "quantity": 1,
+      "unit_price": 250000.0,
+      "total_price": 250000.0,
+      "category": "Other",
+      "accounting_category": "Miscellaneous",
+      "category_confidence": 0.6
+    }
+  ],
+  "summary": {
+    "total_items": 31,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000413.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "10X 20,000\nCHIKATSU BEN 200,000\n10X 1,000\nBOX T.O 10,000\nOCHA 40,000\nIA1 250,000\nTX1 25,000\nTL 275,000\nCASH 300,000\nCG 25,000"
+  }
+}

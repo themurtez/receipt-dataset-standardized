@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "BIG JO'S",
+    "address": "1955 BROADWAY\nSANTA MONICA, CA 90404",
+    "phone": "(310) 828-3191",
+    "tax_id": "",
+    "website": "www.bigjosburgers.com"
+  },
+  "transaction": {
+    "date": "2018-01-25",
+    "time": "11:47:00",
+    "currency": "USD",
+    "payment_method": "Cash",
+    "subtotal": 51.25,
+    "tax": 5.25,
+    "tip": 0.0,
+    "total": 56.5,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "HB",
+      "quantity": 1,
+      "unit_price": 4.0,
+      "total_price": 4.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Entree",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "French Fries",
+      "quantity": 2,
+      "unit_price": 2.5,
+      "total_price": 5.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Side",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Turkey Burger",
+      "quantity": 1,
+      "unit_price": 8.85,
+      "total_price": 8.85,
+      "category": "Food & Beverage",
+      "accounting_category": "Entree",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "HB Combo, Grilled Onion",
+      "quantity": 1,
+      "unit_price": 8.35,
+      "total_price": 8.35,
+      "category": "Food & Beverage",
+      "accounting_category": "Entree",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "CB Combo x 2",
+      "quantity": 2,
+      "unit_price": 7.85,
+      "total_price": 15.7,
+      "category": "Food & Beverage",
+      "accounting_category": "Entree",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "CB Regular Price, Grilled Onion",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Entree",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Chill Fries",
+      "quantity": 1,
+      "unit_price": 4.35,
+      "total_price": 4.35,
+      "category": "Food & Beverage",
+      "accounting_category": "Side",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 3.5
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1054-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BIG JO'S\n1955 BROADWAY\nSANTA MONICA, CA 90404\n(310) 828-3191\nwww.bigjosburgers.com\nJan 25, 2018 11:47 AM\nTicket: Shirley Cash\nReceipt Qlxi\nHB $4.00\nRegular Price\nFrench Fries x 2 $5.00\n($2.50 each)\nTurkey Burger $8.85\nCombo\nHB $8.35\nCombo, Grilled Onion ($0.75)\nCB x 2 $15.70\n($7.85 each)\nCombo\nCB $5.00\nRegular Price, Grilled Onion ($0.75)\nChill Fries $4.35\nSubtotal $51.25\nSales Tax $5.25\nTotal $56.50\nCash $60.00\nChange $3.50"
+  }
+}

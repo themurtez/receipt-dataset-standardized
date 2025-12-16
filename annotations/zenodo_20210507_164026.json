@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Pollux Lisboa",
+    "address": "Rua Fanqueiros, 276\n1100-231 Lisboa",
+    "phone": "218611200",
+    "tax_id": "500263967",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-10-15",
+    "time": "19:05:59",
+    "currency": "EUR",
+    "payment_method": "NB/VISA",
+    "subtotal": 20.65,
+    "tax": 4.75,
+    "tip": 0.0,
+    "total": 25.4,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Almofada 50x65",
+      "quantity": 2,
+      "unit_price": 12.7,
+      "total_price": 25.4,
+      "category": "Home Goods",
+      "accounting_category": "Household",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_164026.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Pollux Lisboa\nRua Fanqueiros, 276\n1100-231 Lisboa\nTelefone: 218611200 Fax: 218611220\n\nFatura Recibo N. 182/121622 de 2019-10-15\nAtendido por: Jorge Miguel 19:05:59\nNome: FIKKE HOME MEDIACAO IMOBILIARIA\nMorada: AV. DA LIBERDADE, 36-7B\n\nCod.Postal: 1250-145\n\n23 1.000 Almofada 50x65 12.70 12.70\n23 1.000 Almofada 50x65 12.70 12.70\n\nTotal iliquido: 20.65 TOTAL: 25.40\nIVA Incluido\nMetodo de pagamento: NB/VISA\n\nTalau indisensavel para troca"
+  }
+}

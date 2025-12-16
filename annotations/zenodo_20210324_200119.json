@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Casa Magane",
+    "address": "Rua São João da Mata Nrº 25 e 27\n1200-847 Lisboa",
+    "phone": "213975314",
+    "tax_id": "220378541",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-04",
+    "time": "17:18:00",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 5.85,
+    "tax": 1.35,
+    "tip": 0.0,
+    "total": 7.2,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Torneira",
+      "quantity": 1,
+      "unit_price": 5.95,
+      "total_price": 5.95,
+      "category": "Plumbing",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Teflon",
+      "quantity": 1,
+      "unit_price": 1.25,
+      "total_price": 1.25,
+      "category": "Plumbing",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210324_200119.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CASA MAGANE\nHEMAL VINODLAL\nCONTRIBUINTE 220378541 TEL 213975314\nTELF. MOVEL 966536578\nRUA SÃO JOÃO DA MATA NRº 25 E 27\n1200-847 LISBOA\nNIB: 0010 0000 501 8878 000 176\n\nFATURA SIMPLIFICADA\nORIGINAL 2a Via\nDATA 2019/03/04 17:18 Nº A/23694\nCliente: FLIKEHOME\nMorada:  \nCont. Nº: 510776914\nArtigo Qtd Preço € Valor €\n\nTORNEIRA\n23% 1 Un x 5,95 = 5,95\nTEFLON\n23% 1 Un x 1,25 = 1,25\n#002\nTOTAL 7,20\nNumerário 7,20\nTroco 0,00\n\nIVA Incluído á taxa indicada\nTaxa% Sujeito IVA Total\n23,00 5,85 1,35 7,20\n\nnG47-Processado por programa certificado\nNº 88/AT 1 A/23694\n\nOpr: OPERADOR"
+  }
+}

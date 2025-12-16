@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "DEBIT",
+    "subtotal": 123181.0,
+    "tax": 12318.0,
+    "tip": 0.0,
+    "total": 135500.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Regular Jasmine Tea",
+      "quantity": 1,
+      "unit_price": 7273.0,
+      "total_price": 7273.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Kupon 7",
+      "quantity": 1,
+      "unit_price": 42727.0,
+      "total_price": 42727.0,
+      "category": "Discount",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Kupon 4",
+      "quantity": 1,
+      "unit_price": 22727.0,
+      "total_price": 22727.0,
+      "category": "Discount",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "BOGO Cheesy Rasher",
+      "quantity": 1,
+      "unit_price": 13636.0,
+      "total_price": 13636.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MS Swiss ML Med",
+      "quantity": 1,
+      "unit_price": 36818.0,
+      "total_price": 36818.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 1.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000610.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "REGULAR JASMINE TEA 7,273\nKupon 7 42,727\nKupon 4 22,727\nBOGO CHEESY RASHER 13,636\nMS SWISS ML MED 36,818\nSubtotal 123,181\nPBl (10%) 12,318\nRound 1\nDine In Total 135,500\nDEBIT 135,500"
+  }
+}

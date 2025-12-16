@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Kedai Ubat & Runcit Hong Ning Sdn. Bhd.",
+    "address": "No.8, Jalan Lang Kuning, Kepong Baru, 52100 Kuala Lumpur",
+    "phone": "03-6273 2163",
+    "tax_id": "(GST ID No: 002064163456)",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-12-24",
+    "time": "14:29:22",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 24.1,
+    "tax": 1.43,
+    "tip": 0.0,
+    "total": 25.53,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "YI JIN HAM",
+      "quantity": 1,
+      "unit_price": 2.83,
+      "total_price": 2.83,
+      "category": "Groceries",
+      "accounting_category": "Cost of Goods Sold",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "G3",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Groceries",
+      "accounting_category": "Cost of Goods Sold",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TIAN QI ST100",
+      "quantity": 1,
+      "unit_price": 20.0,
+      "total_price": 20.0,
+      "category": "Groceries",
+      "accounting_category": "Cost of Goods Sold",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "GARDENIA CR-CHOCLT",
+      "quantity": 1,
+      "unit_price": 0.83,
+      "total_price": 0.83,
+      "category": "Snack",
+      "accounting_category": "Cost of Goods Sold",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "MASSIMO DUE-COFFEE",
+      "quantity": 2,
+      "unit_price": 0.83,
+      "total_price": 1.66,
+      "category": "Snack",
+      "accounting_category": "Cost of Goods Sold",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619506.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KEDAI UBAT & RUNCIT HONG NING SDN. BHD. (717833-P) (GST ID No: 002064163456) NO.8, JALAN LANG KUNING, KEPONG BARU, 52100 KUALA LUMPUR. Tel: 03-6273 2163 Bill No PC86026811 Date 24/12/16 2:29:22 PM Cashier admin Payment Cash Item Qty Price Amount YI JIN HAM @2.83 3 G3 1 3.00 3.00 MR CERT E M O s TN 3 . TIAN QI @18.87 ST100 1 20.00 20.00 XIN ANBER MN * GARDENIA CR-CHOCLT @0.80 936641132 1 MASSIMO DUE-COFFEE @0.80 0.83 0.83 SR. 4 935673533 1 0.83 0.83 MM El M C HO MASSIMO DUE-COFFEE @0.80 0.83 0.83 935673533 1 T3 00 Xero't Amot @CNPT 4% 10% E5.55 Z Wou. RMNN Cash Paid 25.53 Card Paid 0.00 Change 0.00 Round Adj. 0.00 GST Summary Amount Tax @6% 24.10 1.43 THANK YOU PLEASE COME AGAIN"
+  }
+}

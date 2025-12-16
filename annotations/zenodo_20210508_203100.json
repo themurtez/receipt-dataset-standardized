@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "GAR.RIBAMAR-F. CUNHA COSTA",
+    "address": "Rua Correia Teles 20 B, 1350-099 Lisboa",
+    "phone": "213652393",
+    "tax_id": "PT500119406",
+    "website": "galp.com"
+  },
+  "transaction": {
+    "date": "2018-08-12",
+    "time": "17:48:00",
+    "currency": "EUR",
+    "payment_method": "Card",
+    "subtotal": 5.72,
+    "tax": 1.07,
+    "tip": 0.0,
+    "total": 5.72,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GASOLINA SIMPLES 95",
+      "quantity": 3.431,
+      "unit_price": 1.669,
+      "total_price": 5.72,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_203100.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "galp\nDOCUMENTO DE VENDA\nRIBAMAR (Campo de Ourique) 1172\nGAR.RIBAMAR-F. CUNHA COSIA\nRua Correia Teles 20 B\n1350-099 Lisboa Tel. 213652393\nNIF: PT500119406\nFatura/Recibo\nQuantidade Designacao Preço\nPreco Unitario\n3.431 L Bomba 02 5 72 A\nGASOLINA SIMPLES 95 EUR\n1.669 EUR / L EUR 5.72\nTotal EUR 5.72\n23.00 % IVA EUR 1.07\nCliente:\nNome: LIKE HOME \nCodigo Postal:\nNo Contribuinte: 510176914\nOperador: Nuno Monteiro\nDoc No\nDoc Nº : AB0401041122018/04AC0B/96\nGaZN - Processado\nProcessado por Programa Certificado no 1396/AT\nData : Hor à N° POS N°Op Turno:\n12-08-18 17:48 07829 010003 26B\nRegime IVA de Caixa nos casos em que tal\nseija aplicavel ao cliente\ncliente@galp.com / tel. 707 504 257\nDescontos ate 16c/l com Cartao Universo\nPague com saldo do Cartão Continente\nExperimente os combustiveis EVOLOGIC\n-PERFORMANCE, +PROTECAO, +POUPANCA\nE + AMBIENTE. Consulte galp.com\nA sua opiniao é importante!\nVisite a opiniao.galp.com/postos\ne recebe desconto 2 eur em combustivel\nEvologic, o combustivel mais evoluido\ntotal\nNUMEROARIO EUR 5.72\nEUR 5.72\nS 90107829018022018030005.72 0\n"
+  }
+}

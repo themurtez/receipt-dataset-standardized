@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Tunai",
+    "subtotal": 60000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 60000.0,
+    "accounting_category": "Food & Beverages",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "RTD Relaxing Drink",
+      "quantity": 1,
+      "unit_price": 15000.0,
+      "total_price": 15000.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "RTD Rosella Aloevera",
+      "quantity": 1,
+      "unit_price": 15000.0,
+      "total_price": 15000.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "RTD Madu Aloevera",
+      "quantity": 1,
+      "unit_price": 15000.0,
+      "total_price": 15000.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "RTD Lemongrass Aloe",
+      "quantity": 1,
+      "unit_price": 15000.0,
+      "total_price": 15000.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverages",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000117.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "RTD Relaxing Drink 1 15000\n15000\nRTD Rosella Aloevera 1 15000\n15000\nRTD Madu Aloevera 1 15000\n15000\nRTD Lemongrass\nAloe 1 15000 15000\n\nSub Total 60000\nDiscount (0%)\nTunai 60000\nKembalian 0"
+  }
+}

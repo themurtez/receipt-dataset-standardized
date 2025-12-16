@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "DIGI TELECOMMUNICATIONS SDN BHD",
+    "address": "LOT LG 315, 1-UTAMA SHOPPING CENTRE, LEBUH BANDAR UTAMA-BANDAR UTAMA, Petaling Jaya, 47800, SELANGOR",
+    "phone": "",
+    "tax_id": "GST Reg Number: 001211957248",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-10-13",
+    "time": "12:35:00",
+    "currency": "MYR",
+    "payment_method": "Credit Card",
+    "subtotal": 234.4,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 234.4,
+    "accounting_category": "Utilities",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Bill Payment",
+      "quantity": 1,
+      "unit_price": 234.4,
+      "total_price": 234.4,
+      "category": "Utilities",
+      "accounting_category": "Utilities",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006555072.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "DIGI TELECOMMUNICATIONS SDN BHD (201283-M)\nLOT LG 315, 1-UTAMA SHOPPING CENTRE, LEBUH BANDAR UTAMA-BANDAR UTAMA, Petaling Jaya, 47800\nSELANGOR\nTAX INVOICE\nGST Reg Number: 001211957248\n13/10/2017 12:35\nPOS Login ID: DMgr34013\nStore Name: DS001-BP009 OSCAR COLOUR LAB & TELECOMMUNICATION SDN. BHD.(523847-W)\nBILL PAYMENT\nPaid Amount 234.40\nSub Total Amount 234.40\nTotal Amount 234.40\nCredit Card 234.40\nCredit Card No.: XXXX XXXX XXXX 6974\nTotal Amount Collected 234.40\nCustomer Name: LIM RUEY CHYI\nMobile No.: 60143149319\nAccount No.: 1000000487104\nCustomer Copy\nThank You\nHave a nice day\n3401300192920171013"
+  }
+}

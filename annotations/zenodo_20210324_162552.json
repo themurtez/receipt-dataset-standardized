@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Vivavox G Lemos, Lda",
+    "address": "Rua da Madalena, 101 - 107, 1100-319 LISBOA",
+    "phone": "218886941",
+    "tax_id": "501378123",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-26",
+    "time": "10:13:00",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 9.51,
+    "tax": 1.78,
+    "tip": 0.0,
+    "total": 9.51,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BROCA DEWALT SDS DT9532 31",
+      "quantity": 1,
+      "unit_price": 9.51,
+      "total_price": 9.51,
+      "category": "Hardware",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210324_162552.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Vivavox G Lemos, Lda\nRua da Madalena, 101 - 107\n1100-319 LISBOA\nContribuinte N. 501378123\nCapital Social 34,916.00 Euros\nTel.: 21 886941 Fax: 218886158\nMail: geral@vivavox.com\n\nNIF: 510776914\nNome: LIKEHOME MEDIACAO IMOBILIARIA\nMorada: LISBOA\nLocalidade: LISBOA\nCod.Postal:\n\nFatura\nNIF: FT POS19V12/1906380 Origina\nData: 26-02-2019 HORA: 10:13\n\nDESIGNACAO IVAX% QTD VALOR\n\nBROCA DEWALT\nSDS DT9532 31\nOU30mm 23 1.0 9.51\n\nTaxa valor IVA T.Bruto:\n51\n6 % 0.00 T.Desc. 0.00\n23 % 1.78 T.Liq. 7.73\n13 % 0.00 T.IVA: 1.78\nA PAGAR...: 3.51\n\nMULTIBANCO\n9.51\n\nf9Ag Processado por programma cer\n\n..."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "LIDL & Cia",
+    "address": "Rua Pé de Mouro, 18 Linhó - 2714-510 Sintra",
+    "phone": "",
+    "tax_id": "503 304 855",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-10-01",
+    "time": "17:47:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 5.98,
+    "tax": 1.1,
+    "tip": 0.0,
+    "total": 5.87,
+    "accounting_category": "Retail",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "DETERGENTE LIQ. MARSIGLIA 40D",
+      "quantity": 2,
+      "unit_price": 2.99,
+      "total_price": 5.98,
+      "category": "Cleaning Supplies",
+      "accounting_category": "Household",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "AMACI. ROUPA SPA/JOJO./TALCO",
+      "quantity": 1,
+      "unit_price": 1.39,
+      "total_price": 1.39,
+      "category": "Laundry Supplies",
+      "accounting_category": "Household",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.13
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_201437.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "LIDL & Cia - PORTIMAO\nBarranco do Rodrigo, V 7 - Portimao\nContribuinte Nr. 503 304 855\nProcutor de REEE: PT000048\n\nLIDL & Cia - Lojas Alimentares\nRua Pé de Mouro, 18\nLinhó - 2714-510 Sintra\nCap social: 438,800 EUR\nM.C.R. Com. Sintra No 10628\n\nFATURA\nData de Venda: 01.10.17\nNo VD: 033000117/003017\n\nContribuinte: 510776914\nNome: flikehome\nMorada: ptm\n\nDETERGENTE LIQ. MARSIGLIA40D EUR\n2 x 2.99 5,98 A\nDet. Liquido -50% 1,50\n\nAMACI. ROUPA SPA/JOJO./TALCO 1,39 A\n\nTotal 5.87\nDINHEIRO 6,00\nTROCO 0,13\n\nTotal em descontos 1,50\nTaxa Base Imp. Val.Total Val. IVA\nA 23% 4,77 5,87 1,10\n\n0330 229443/01 01.10.17 17:47\n\nH+GC-Processado por Programme\ncertificado n. 1050/AT\n\n***** OBRIGADO *****\nDevolução de Artigos não alimentares\naté 30 dias com este talão.\nDocumento válido como recibo."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Panda Express",
+    "address": "Everett, WA",
+    "phone": "(425) 710-0278",
+    "tax_id": "",
+    "website": "pandaexpress.com"
+  },
+  "transaction": {
+    "date": "2013-03-16",
+    "time": "15:41:24",
+    "currency": "USD",
+    "payment_method": "Cash",
+    "subtotal": 151.0,
+    "tax": 13.89,
+    "tip": 0.0,
+    "total": 164.89,
+    "accounting_category": "Food & Dining",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "1 PARTY PK 18-22",
+      "quantity": 1,
+      "unit_price": 139.0,
+      "total_price": 139.0,
+      "category": "Party Pack",
+      "accounting_category": "Catering",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PEPPERCORN SHRIMP",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Entree",
+      "accounting_category": "Food & Dining",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 35.11
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1037-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Store #1291\nPanda Express\nEverett, WA\n(425)710-0278\n3/16/2013 3:41:24 PM\nOrder: 177437 Server: Tameka J\n1 PARTY PK 18-22 139.00\nCHOW MEIN\nFRIED RICE\nFRIED/C MEIN\nORANGE CKN\nGRILL TERIYAKI CKN\nPEPPERCORN SHRIMP 12.00\nSubTotal 151.00\nTAX 13.89\nTotal 164.89\nCash 200.00\nChange 35.11\nFREE ENTREE ITEM!\nWE VALUE YOUR OPINION!\nCall 1-888-51-PANDA(72632) or\nVisit pandaexpress.com/guest"
+  }
+}

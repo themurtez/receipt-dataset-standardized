@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Guardian Health And Beauty Sdn Bhd",
+    "address": "631 & G32, Grd Flr, 101 Mall, Bandar Puchong Jaya",
+    "phone": "03-5802 9000",
+    "tax_id": "11101083-T",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-09",
+    "time": "18:17:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 9.95,
+    "tax": 0.56,
+    "tip": 0.0,
+    "total": 9.95,
+    "accounting_category": "Health & Beauty",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GDN WR PLS 100+20",
+      "quantity": 1,
+      "unit_price": 9.95,
+      "total_price": 9.95,
+      "category": "Health & Beauty",
+      "accounting_category": "Health & Beauty",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.05
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005757233.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Guardian Health And Beauty Sdn Bhd\n101 Mall\n631 & G32, Grd Flr, 101 Mall\nBandar Puchong Jaya\nTel:03-5802 9000\nCompany Reg 11101083-T\nGST Reg #00009 G3374016\n\nRM\n121046373 GDN WR PLS 100+20 9.95\nSUBTOTAL 9.95\n\nTOTAL (GST INCL.) 9.95\nCASH 10.00\nCHANGE DUE 0.05\nGST - Rate -- GST Excl - GST Amt\nS 6% 9.39 0.56\n\nThank You For Shopping\nAt Guardian\nAll Amounts Are in RM\nGoods sold are non-refundable.\nDispersed medicines sold are\nnot returnable.\nAll exchanges and returns including\nGuardian brand products must be made\nwithin 7days with original receipts and\nproduct in original condition.\nSt:8046 Clr2 Id:4986 TaxInv:68089\n18:17 09/03/18"
+  }
+}

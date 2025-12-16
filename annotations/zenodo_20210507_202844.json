@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Worten",
+    "address": "Tavira Plaza, 8800-318 Tavira",
+    "phone": "",
+    "tax_id": "",
+    "website": "www.worten.pt"
+  },
+  "transaction": {
+    "date": "2017-10-05",
+    "time": "16:44:46",
+    "currency": "EUR",
+    "payment_method": "Credit Card",
+    "subtotal": 32.5,
+    "tax": 7.48,
+    "tip": 0.0,
+    "total": 39.98,
+    "accounting_category": "Electronics",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "IRISTAR CH",
+      "quantity": 2,
+      "unit_price": 19.99,
+      "total_price": 39.98,
+      "category": "Electronics",
+      "accounting_category": "Electronics",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_202844.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "WORTEN\nVAT Tavira Plaza\nWORTEN Ecomentures da Lda Sucursal em Portugal NIE ES B86510607\nC. Tavira Gran Plaza R. Carlos do Reis\n8800-340 Tavira\nProcessado por SIBS\nTERMINAL 004948831 ASS WAYNE\nData de Processamento 05/10/2017 16:44:46\nOP 007 msg:350\nCARTÃO ***1367/27\nCOMERCIO: 004\nComercio  124 Proceso 0010\nRef: 14k 9600.050\nC Postal DESCRICAO\nELETRONOMICOS\n871010660507842\nIRISTAR CH\n2 X 19.99\nTOTAL A PAGAR 39,98\nCartão Credito 39,98\nTROCO 0,00\n23.00% 32,50 7,48 39,98\n171005004257201110808\nLocal carga: Morada da loja\nLocal descargo: Morada do cliente\nData: 05/10/2017 Hora: 16:44\nWORTEN\nTAVIRA\n8800-318 TAVIRA\nTerminal Pagamento Automatico 004948831\n2017/10/05 16:44:46 Per057 Or072 Msg350\nMILLENNIUM BCP\nCARTAO ***1367/27\n501649F20\nAUT-1555537\nPROCESSADO POR SIBS\nConsulte as condicoes da Politica de Satisfacao/Devolucao, afixadas na Loja\nTalao indispensavel p troca no\nPrazo de 15 dias nos termos previstos\nNao estao abrangidos pela politica de satisfacao/devolucao os artigos com ativacao on caixa\nPara mais informacoes consultar\nwww.worten.pt"
+  }
+}

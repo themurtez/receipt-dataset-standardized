@@ -1,0 +1,154 @@
+{
+  "merchant": {
+    "name": "Douglas Burgers #15",
+    "address": "11325 Washington Blvd, Whittier, Calif 90605",
+    "phone": "(562) 699-7484",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-09",
+    "time": "17:30:00",
+    "currency": "USD",
+    "payment_method": "Cash",
+    "subtotal": 31.24,
+    "tax": 2.97,
+    "tip": 0.0,
+    "total": 34.21,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Burger Combo",
+      "quantity": 1,
+      "unit_price": 9.99,
+      "total_price": 9.99,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Fries",
+      "quantity": 1,
+      "unit_price": 0.7,
+      "total_price": 0.7,
+      "category": "Food",
+      "accounting_category": "Snacks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "American Cheese",
+      "quantity": 1,
+      "unit_price": 0.4,
+      "total_price": 0.4,
+      "category": "Food",
+      "accounting_category": "Ingredients",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Bacon",
+      "quantity": 1,
+      "unit_price": 0.99,
+      "total_price": 0.99,
+      "category": "Food",
+      "accounting_category": "Ingredients",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Grill Onions",
+      "quantity": 1,
+      "unit_price": 0.79,
+      "total_price": 0.79,
+      "category": "Food",
+      "accounting_category": "Ingredients",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sub Zucchini",
+      "quantity": 1,
+      "unit_price": 2.49,
+      "total_price": 2.49,
+      "category": "Food",
+      "accounting_category": "Snacks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Raspberry Ice Tea",
+      "quantity": 1,
+      "unit_price": 1.99,
+      "total_price": 1.99,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Burger",
+      "quantity": 1,
+      "unit_price": 4.49,
+      "total_price": 4.49,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Bacon",
+      "quantity": 1,
+      "unit_price": 0.99,
+      "total_price": 0.99,
+      "category": "Food",
+      "accounting_category": "Ingredients",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Avocado",
+      "quantity": 1,
+      "unit_price": 1.39,
+      "total_price": 1.39,
+      "category": "Food",
+      "accounting_category": "Ingredients",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Onion Rings",
+      "quantity": 1,
+      "unit_price": 2.49,
+      "total_price": 2.49,
+      "category": "Food",
+      "accounting_category": "Snacks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lemonade",
+      "quantity": 1,
+      "unit_price": 2.49,
+      "total_price": 2.49,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Service Charge",
+      "quantity": 1,
+      "unit_price": 0.61,
+      "total_price": 0.61,
+      "category": "Service",
+      "accounting_category": "Service",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 13,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1028-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "DOUGLAS BURGERS #15\n11325 Washington Blvd\nWhittier, Calif 90605\n(562) 699-7484\nCheck 20018\t5:30pm\n2/09/19\n1 BURGER COMBO\t9.99\n* fries * american ch 0.70\n#add bacon 0.99\n*gril onions 0.79\n1 SUB ZUCCHINI\nRaspberry Ice Te 2.49\n1 Burger (4/49) 1.99\n* sesame bun *\n*REGULAR*\n#add bacon\n#add avocado 1.39\nMAKE SPECIAL\n# onions rings * 2.49\n# lemonade * 2.49\nSERV.CHARGE(2%) 0.61\nSub/Ttl 31.24\nTax\t2.97\n *>DRV THRU 34.21\nCash\t34.21"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "POTATO CORNER",
+    "address": "Mall Ciputra Lt. LG",
+    "phone": "021-1118-9226",
+    "tax_id": "",
+    "website": "www.potatocorner.co.id"
+  },
+  "transaction": {
+    "date": "2022-05-29",
+    "time": "13:51:00",
+    "currency": "IDR",
+    "payment_method": "CASH",
+    "subtotal": 57000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 57000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GIGA CUP",
+      "quantity": 1,
+      "unit_price": 57000.0,
+      "total_price": 57000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000153.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "POTATO CORNER\nMall Ciputra Lt. LG\n021-1118-9226\nwww.potatocorner.co.id\n\n2022-05-29  13:51\n\nGIGA CUP\nRp57,000\nCHEESE\nS.CREAM\nTL Rp57,000\nCASH\nRp57,000\n\nTHANK YOU FOR COMING\nHAVE A SPUD TASIC DAY\n"
+  }
+}

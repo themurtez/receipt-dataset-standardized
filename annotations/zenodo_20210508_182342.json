@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Bota Minuto",
+    "address": "R Quinta Palmeiras, 31 D, Oeiras, Centro Comercial Amoreiras, Loja 5041, 1070 Lisboa",
+    "phone": "210992457",
+    "tax_id": "506175502",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-26",
+    "time": "17:16:00",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 17.3,
+    "tax": 3.24,
+    "tip": 0.0,
+    "total": 17.3,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CHAVE PONTOS ORIGINAL TESA T60",
+      "quantity": 1,
+      "unit_price": 17.3,
+      "total_price": 17.3,
+      "category": "Key Cutting",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_182342.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "botaminuto\nAMOREIRAS\nConsetos Rapidos Amoreiras, Lda\nSede: R Quinta Palmeiras, 31 D, Oeiras\nCentro Comercial Amoreiras, Loja 5041\n1070 Lisboa Tel 210992457\nCAF Soc 5,000 Euros NFC 506175502\nC.R.Com.Cascáis N.9955/2007\nExmo(s) Senhor(es):\nFLIKEHOME\nLISBOA\nNIF: 510776914 N.CLI: PT510776914\nC 2/26171692\nFTR 6/922 Data: 2018-06-26 Original\nFaturaz\nVendedor: RUBEN\nArt. Descicao Qde. Pr.Unit. Valor IVA\nCHAVE PONTOS ORIGINAL TESA T60\n7734 1.00 17.30 17.30 23%\nTotal de peças : 1\nVALOR LIQUIDO IVA % VALOR IVA\n0.00 0 0.00\n0.00 6 0.00\n0.00 13 0.00\n14.07 23 3.24\nDESCONTO 0.00\nTOTAL DOCUMENTO EURO 17.30\nNumerário 17.30\nC52K-Processado por programa\ncertificado N. 1627/AT\nLocal Carga : Nossa Morada Hora: 17:16\nLocal Descarga: Morada Cliente Hora: 23:59\nMatricula Ref......: Nome: FLIKEHOME\n....................\nObrigado Pela Visita - Volte Sempre\nTALAO INDISPENSAVEL P/ENTREGA-RECLAMACAO\nTROCAS PRAZO 1 MES"
+  }
+}

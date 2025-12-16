@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Galp",
+    "address": "Lotamento Casal Troca, Lote 2, 2675-626 Odivelas",
+    "phone": "213120696",
+    "tax_id": "PT508799569",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-10-31",
+    "time": "14:44:00",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 20.0,
+    "tax": 3.74,
+    "tip": 0.0,
+    "total": 20.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Gasolina Simples 95",
+      "quantity": 12.87,
+      "unit_price": 1.554,
+      "total_price": 20.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_174327.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Galp\nPRE-PAGAMENTO\nSEQUEIRA PINTO COM COMB. LDA\nSEQUEIRA PINTO-COM.COMB., LDA\nLOTAMENTO CASAL TROCA, LOTE 2\n2675-626 ODIVELAS Tel: 213120696\nNIF: PT508799569\nFatura/Recibo\nQuantidade Preço Unitário\nPreço\n12.87 L Bomba 01\nGASOLINA SIMPLES 95\n1.554 EUR/L\nTotal\n23.00 % IVA A\nCliente: 13173\nNome: FLIKEHOME LDA\nCódigo Postal:\nLocalidade:\nNo Contribuinte: 510776914\nMatrícula: 50-EM-11\nOperador: KENIA BORGES\nDoc. No:\n012010004787FAAA0000118332019/000053825\nUYLM - Processado por Programa\nCertificado n.o 1396/AT\nData Hora N°Tr. POS N°Op Turno\n31-10-19 14:44 11617 01 0086 392\nRegime IVA de Caixa nos casos em que tal\nseja aplicável ao cliente\nclientes@galp.com Tel. 707 504 257\nA sua opinião é importante!\nDeixe-em\nopiniao.galp.com/postos\ne receba uma oferta em combustivel\nTotal EUR 20.00\nNumerario EUR 20.00\n9 9011167022019103 0000000002010.00"
+  }
+}

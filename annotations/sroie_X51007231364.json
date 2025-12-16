@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Gerbang Alaf Restaurants Sdn Bhd",
+    "address": "Level 6, Bangunan TH, Damansara Uptown3\nNo.3, Jalan SS21/39, 47400 Petaling Jaya\nSelangor",
+    "phone": "07-5548-942",
+    "tax_id": "000504664064",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-26",
+    "time": "02:16:13",
+    "currency": "MYR",
+    "payment_method": "Visa",
+    "subtotal": 30.42,
+    "tax": 1.83,
+    "tip": 0.0,
+    "total": 32.25,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "M SpicyDeluxe",
+      "quantity": 1,
+      "unit_price": 12.95,
+      "total_price": 12.95,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "M Milo",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "M Fries",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Side",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "McChicDeluxe",
+      "quantity": 1,
+      "unit_price": 7.5,
+      "total_price": 7.5,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CheeseBurger",
+      "quantity": 2,
+      "unit_price": 4.8,
+      "total_price": 9.6,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007231364.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "132\nGerbang Alaf Restaurants Sdn Bhd\n(65351-M)\nLicensee of McDonald's\nLevel 6, Bangunan TH, Damansara Uptown3\nNo.3, Jalan SS21/39,47400 Petaling Jaya\nSelangor\n(GST ID No: 000504664064)\nMcDonald’s UTM Skudai DT (#202)\nTel No. 07-5548-942\nTAX INVOICE\nMFY Side 1\nINV# 00202100003912\nORD #32 -REG #21- 26/05/2018 02:16:13\nQTY ITEM TOTAL\n1 M SpicyDeluxe 12.95\n1 M Milo 2.00\n1 M Fries\n1 McChicDeluxe 7.50\n2 CheeseBurger 9.60\nTakeOut Total (incl GST) 32.25\nVisa 32.25\nTOTAL INCLUDES 6% GST 1.83"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Unknown",
+    "address": "Unknown",
+    "phone": "Unknown",
+    "tax_id": "Unknown",
+    "website": "Unknown"
+  },
+  "transaction": {
+    "date": "Unknown",
+    "time": "Unknown",
+    "currency": "IDR",
+    "payment_method": "Unknown",
+    "subtotal": 35636.36,
+    "tax": 3563.64,
+    "tip": 0.0,
+    "total": 39200.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "medium tub",
+      "quantity": 1,
+      "unit_price": 39200.0,
+      "total_price": 39200.0,
+      "category": "Product",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000324.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 medium tub 39,200.0 39,200.0\nSubtotal: Rp35,636.36\nTax 10.00%: Rp3,563.64\nTOTAL: 39,200.00\nPaid: Rp39,200.00"
+  }
+}

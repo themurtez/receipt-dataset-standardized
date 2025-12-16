@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "YIN MA (M) SDN.BHD.",
+    "address": "NO.2, JALAN UDANG SIAR 2, TAMAN SRI SEGAMBUT, 52000 KUALA LUMPUR",
+    "phone": "",
+    "tax_id": "000119906304",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-01-31",
+    "time": "12:28:00",
+    "currency": "RM",
+    "payment_method": "Cash",
+    "subtotal": 5.09,
+    "tax": 0.31,
+    "tip": 0.0,
+    "total": 5.4,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "30CM-(FOOK)CNY (Disc: 50.00%)",
+      "quantity": 1,
+      "unit_price": 4.9,
+      "total_price": 2.45,
+      "category": "Goods",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "40CM-(FOOK)CNY (Disc: 50.00%)",
+      "quantity": 1,
+      "unit_price": 5.9,
+      "total_price": 2.95,
+      "category": "Goods",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619328.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "YIN MA (M) SDN.BHD.(974306-T)\nNO.2, JALAN UDANG SIAR 2,\nTAMAN SRI SEGAMBUT,\n52000 KUALA LUMPUR.\nGST REG NO.:000119906304\nInvoice No : 44936\nDate : 31 Jan 2016 12:28pm\nCounter : 401\n280187420000 30CM-(FOOK)CNY 2.45 S\n4.90 x 1 (Disc: 50.00%)\n280187430000 40CM-(FOOK)CNY 2.95 S\n5.90 x 1 (Disc: 50.00%)\nNo of items= 2\nTotal Incl. GST:RM 5.40\nCash:RM 5.40\nChange:RM 0.00\nSavings:RM 5.40\nServed by YINMA SEGAMBUT\n************ GST Summary **************\nGST Code Amount(RM) Tax(RM)\nS @6.0% 5.09 0.31\n***************************************\nRef No: 005D055874044936\nEXCHANGE ARE ALLOWED WITHIN\n3 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND.\nTHANK YOU.\nWELCOME AGAIN."
+  }
+}

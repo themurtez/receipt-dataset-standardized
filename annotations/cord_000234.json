@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "KRW",
+    "payment_method": "Cash",
+    "subtotal": 21000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 21000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Redbean Bread",
+      "quantity": 1,
+      "unit_price": 9000.0,
+      "total_price": 9000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Frankfrut Sausage Roll",
+      "quantity": 1,
+      "unit_price": 12000.0,
+      "total_price": 12000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 29000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000234.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 REDBEAN BREAD 9,000\n1 FRANKFRUT SAUSAGE ROLL 12,000\nTOTAL 21,000\nCASH 50,000\nCHANGE 29,000"
+  }
+}

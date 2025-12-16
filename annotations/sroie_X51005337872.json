@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "SYL Roasted Delights Sdn. Bhd.",
+    "address": "75, Jalan SS 22/19, Damansara Jaya, 47400 PJ.",
+    "phone": "03-7731 8169",
+    "tax_id": "002046390272",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-06",
+    "time": "12:06:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 51.42,
+    "tax": 3.08,
+    "tip": 0.0,
+    "total": 54.5,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Braised Pork Rice with Peanut",
+      "quantity": 2,
+      "unit_price": 7.0,
+      "total_price": 14.0,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Roast Pork - Small",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sour & Spicy Mustard",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Side Dish",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Jasmine Green Tea (Hot)",
+      "quantity": 2,
+      "unit_price": 2.3,
+      "total_price": 4.6,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Roast Pork + Roast Chicken Rice",
+      "quantity": 1,
+      "unit_price": 11.9,
+      "total_price": 11.9,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005337872.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SYL ROASTED DELIGHTS SDN. BHD.\n122703\n75, JALAN SS 22/19, DAMANSARA JAYA, 47400 PJ.\nTEL: 03-7731 8169\nGST ID: 002046390272\nDoc No.: SO00022185 TABLE A10\nCashier USER Date: 06/03/2018\nSalesperson Time: 12:06:00\n\nDescription Qty Price Amount\n(T02) BRAISED PORK 2.0 7.00 14.00\nRICE WITH PEANUT\n(R05) ROAST PORK - 1.0 12.00 12.00\nSMALL\n(V02) SOUR & SPICY 1.0 12.00 12.00\nMUSTARD\n(B03) JASMINE GREEN 2.0 2.30 4.60\nTEA(HOT)\n(R05) ROAST PORK + 1.0 11.90 11.90\nROAST CHICKEN RICE\n\nTotal Qty: 7 51.42\nTotal Sales (Excluding GST) : 51.42\nDiscount : 0.00\nTotal GST : 3.08\nRounding : 0.00\nTotal Sales (Inclusive of GST) 54.50"
+  }
+}

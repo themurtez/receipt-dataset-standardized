@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Sanyu Stationery Shop",
+    "address": "No. 31G&33G, Jalan Setia Indah X, U13/X, 40170 Setia Alam",
+    "phone": "+603-3362 4137",
+    "tax_id": "001531760640",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-26",
+    "time": "",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 8.77,
+    "tax": 0.53,
+    "tip": 0.0,
+    "total": 9.3,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "SB-5882 Camis NCR Bill Book 5\"x8\" (BB-5882)",
+      "quantity": 1,
+      "unit_price": 3.5,
+      "total_price": 3.5,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Restaurant Order Chit NCR 3.5\"x6\"",
+      "quantity": 2,
+      "unit_price": 2.9,
+      "total_price": 5.8,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.7
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007339164.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SANYU STATIONERY SHOP\nNO. 31G&33G, JALAN SETIA INDAH X ,U13/X\n40170 SETIA ALAM\nMobile /Whatsapps : +6012-918 7937\nTel: +603-3362 4137\nGST ID No: 001531760640 \nTAX INVOICE\nOwned By :\nSANYU SUPPLY SDN BHD (1135772-K)\nCASH SALES COUNTER\n1. 2012-0021\tSB-5882 CAMIS NCR BILL BOOK\n5\"x8\" (BB-5882)\n1 X 3.5000 \t- \t3.50 SR\n2. 2012-0029\tRESTAURANT ORDER CHIT NCR\n3.5\"x6\"\n2 X 2.9000 \t- \t5.80 SR\nTotal Sales Inclusive GST @6% \t9.30\nDiscount \t\t0.00\nTotal \t\t9.30\nRound Adj \t0.00\nFinal Total \t\t9.30\nCASH \t\t10.00\nCHANGE \t\t0.70\nGST Summary \tAmount(RM)\tTax(RM)\nSR @ 6% \t\t8.77 \t\t0.53 \nINV NO: CS-SA-0126902   Date : 26/11/2017\n------------------------------------------------\nGoods sold are not Returnable & Refundable\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN.\nTERIMA KASIH\tSILA DATANG LAGI\n** PLEASE KEEP THIS RECEIPT FOR PROVE OF\nPURCHASE DATE FOR I.T PRODUCT WARRANTY\nPURPOSE **\nFollow us in Facebook : Sanyu.Stationery"
+  }
+}

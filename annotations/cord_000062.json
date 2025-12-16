@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "CGV Cinemas",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Visa",
+    "subtotal": 3600000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 3600000.0,
+    "accounting_category": "Entertainment",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Ralph Breaks the Internet Ticket",
+      "quantity": 60,
+      "unit_price": 60000.0,
+      "total_price": 3600000.0,
+      "category": "Movie Ticket",
+      "accounting_category": "Entertainment",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 60,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000062.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "RALPH BREAKS THE INTERNET : WR\nTIKET 60.000 60\nTotal (Qty=60) 3.600.000\nBCA(EDC) VISA (.**-6468) 3.600.000"
+  }
+}

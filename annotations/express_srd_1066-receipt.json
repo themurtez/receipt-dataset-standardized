@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "Ristorante Bellagio",
+    "address": "Bellagio (CO)",
+    "phone": "031/951888",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-07-14",
+    "time": "16:23:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 82.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 82.0,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Coperto",
+      "quantity": 4,
+      "unit_price": 3.0,
+      "total_price": 12.0,
+      "category": "Dining",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Acqua Nat",
+      "quantity": 2,
+      "unit_price": 4.0,
+      "total_price": 8.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Salmerino Piastra",
+      "quantity": 1,
+      "unit_price": 18.0,
+      "total_price": 18.0,
+      "category": "Main Course",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Trenette al Pesto",
+      "quantity": 1,
+      "unit_price": 13.0,
+      "total_price": 13.0,
+      "category": "Main Course",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Spaghetti Pom. Basilico",
+      "quantity": 1,
+      "unit_price": 10.0,
+      "total_price": 10.0,
+      "category": "Main Course",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Fettuccine Ragu",
+      "quantity": 1,
+      "unit_price": 15.0,
+      "total_price": 15.0,
+      "category": "Main Course",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Patatine Fritte",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Side Dish",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 11,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1066-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "RISTORANTE\nBELLAGIO (CO)\nTELEFONO 031/951888\n\nTAV. 9 COPERTI 4\nSALA UNICA\n14/07/2019 16:23\n\n4 COPERTO 12.00\n2 ACQUA NAT 8.00\n1 SALMERINO PIASTRA 18.00\n1 TRENETTE AL PESTO 13.00\n1 SPAGHETTI POM. BASILICO 10.00\n1 FETTUCCINE RAGU' 15.00\n1 PATATINE FRITTE 6.00\n\nTOTALE 82.00\n\nMANCIA/TIP ........\n\nPrego ritirare il\ndocumento fiscale\nalla cassa"
+  }
+}

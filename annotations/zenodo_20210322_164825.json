@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Restaurante Sakurai",
+    "address": "Rua das Caravelas Ed. Praia Dourada Loja 4, 8365-116 Armacao de Pera",
+    "phone": "969956971",
+    "tax_id": "238416283",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-07-22",
+    "time": "21:22:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 11.46,
+    "tax": 1.49,
+    "tip": 0.0,
+    "total": 12.95,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Jantar sushi",
+      "quantity": 1,
+      "unit_price": 12.95,
+      "total_price": 12.95,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210322_164825.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "RESTAUANTE SAKURAI\nNIF: 238416283\nRua das Caravelas Ed. Praia Dourada Loja 4\n8365-116 Armacao de Pera\nTel: 969956971 2019-07-22 21:22\nOriginal\nFatura Nr.: FT 101/00021980 Mesa: 15\nIVA Code Artigo Preco\n13% 3000 Jantar sushi 12.95\nTotal Taxa IVA Total\n13% 11.46 1.49 12.95\nTotal: 11.46 1.49 12.95\nNzgI Processado por Programa\nCertificado Nr.: 1175/AT\nObrigado pela sua visita"
+  }
+}

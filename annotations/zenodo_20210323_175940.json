@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "ALDI",
+    "address": "Rua Ponte dos Cavalos 155, 2870-674 Montijo",
+    "phone": "",
+    "tax_id": "506498980",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-22",
+    "time": "18:24:22",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 5.97,
+    "tax": 1.12,
+    "tip": 0.0,
+    "total": 5.97,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PAPEL HIG.2 FOLHAS 12X162",
+      "quantity": 3,
+      "unit_price": 1.99,
+      "total_price": 5.97,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 4.03
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_175940.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ALDI\nAlmancil\nNIF/CRCOM Montijo: 506498980\nProdutor de REEE N: PT000767\nHorario de funcionamento\nSegunda a Domingo\n8:00 h - 21:00 h\nDESIGNA AO PREO IVA\nPAPEL HIG.2 FOLHAS 12X162 1,99 E\nPAPEL HIG.2 FOLHAS 12X162 1,99 E\nPAPEL HIG.2 FOLHAS 12X162 1,99 E\nSUBTOTAL 5,97\nA PAGAR EURO 5,97\nEFECTIVO 10,00\nA DEVOLVER 4,03\n(IVA incluido taxa em vigor)\nTAXA Base Imp. Valor IVA TOTAL\nE 23,0% 4,85 1,12 5,97\n(Bens colocados disposi ao do\nadquirente na data da factura)\nFATURA SIMPLIFICADA\n2 20190075004/00004992\nNR.Contribuinte : 514407395\nALDI PORTUGAL Supermerc.,Lda\nRua Ponte dos Cavalos 155\n2870-674 MONTIJO\nCapital Social: 290.000.000 EURO\nC.R.Com Montijo: 506498980\nm8Ye-Processado por programa\ncertificado no 2469/AT\nQUANT. ARTIGOS 3 98878548\nFATURA CL 5515\nArtigos 36 n.1 a) e n.15 do Codigo do Iva:\nSe desejar uma fatura nao simplificada\npode solicitar nos 5 dias uteis apos data\nde emissao da presente fatura simplificada\n190049007(5& 1827 ) 18:24 22-05-2019"
+  }
+}

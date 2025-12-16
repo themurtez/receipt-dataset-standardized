@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "El Meson Mexican Restaurant",
+    "address": "794 South Perry St Unit EF, Castle Rock, CO 80104",
+    "phone": "(720) 733-9705",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 44.2,
+    "tax": 3.5,
+    "tip": 0.0,
+    "total": 47.7,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SOPA DE TORTILLA BOWL",
+      "quantity": 1,
+      "unit_price": 5.5,
+      "total_price": 5.5,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "TACO SALAD",
+      "quantity": 1,
+      "unit_price": 9.5,
+      "total_price": 9.5,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "CHKN",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Addition",
+      "accounting_category": "Meals",
+      "category_confidence": 0.5
+    },
+    {
+      "name": "HOUSE MARGARITA JUMBO",
+      "quantity": 1,
+      "unit_price": 12.5,
+      "total_price": 12.5,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Dr Pepper",
+      "quantity": 1,
+      "unit_price": 2.65,
+      "total_price": 2.65,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SIDE CHEESE",
+      "quantity": 1,
+      "unit_price": 1.55,
+      "total_price": 1.55,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "HOUSE MARGARITA JUMBO",
+      "quantity": 1,
+      "unit_price": 12.5,
+      "total_price": 12.5,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1122-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "El Meson Mexican Restaurant\n794 South Perry St Unit EF\nCASTLE ROCK, CO 80104\n(720) 733-9705\nServer: IGOR        Station: 33\nOrder #: 18533      Dine In\nTable: A1           Guests: 2\n1 SOPA DE TORTILLA BOWL           5.50\n1 TACO SALAD                       9.50\nCHKN\n1 HOUSE MARGARITA JUMBO            12.50\n1 Dr Pepper                        2.65\n1 SIDE CHEESE                      1.55\n1 HOUSE MARGARITA JUMBO            12.50\nSUB TOTAL:                       44.20\nTax 1:                           3.50\nTOTAL: $47.70\n"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Franco & Barbosa Lda",
+    "address": "Calcada da Ajuda, 133 1300 008",
+    "phone": "213634527",
+    "tax_id": "500120544",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-24",
+    "time": "15:51:42",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 7.32,
+    "tax": 1.68,
+    "tip": 0.0,
+    "total": 9.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "LAMP.ALOG.",
+      "quantity": 2,
+      "unit_price": 4.5,
+      "total_price": 9.0,
+      "category": "Electronics",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_213627.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Franco & Barbosa Lda\nFranco & Barbosa lda. Calcada da Ajuda, 133 1300 008\nTel.213634527\nN. Contrib. 500120544\nRegisto na Cons. Lisboa n.4410/12.56\nCapital Social 5.000.00 Euros\nfranco.barbosa lda@hotmail.com\nNome FEELSLIKEHOME\nN.C. 510776914\nLISBOA\nFatura-Recibo FT 002/51\nOriginal\n2017-11-24 15:51:42\nQt Artigo  IV Total\n1 LAMP.ALOG. 23 4.50\n1 LAMP.ALOG. 23 4.50\nTotal € 9.00\nTaxa Base IVA Total\n23.00 € 7.32 € 1.68 € 9.00\nEmp 1\nIVA incluido\nConsultas:\nObrigado e volte sempre\nhIVW-Processado por programa certificado n. 0071/AT\nCopyright GrupoPIE, SA"
+  }
+}

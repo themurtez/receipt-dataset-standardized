@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "118 MJ Mookata House",
+    "address": "NO.7G, Jalan Permas 11, Bandar Baru Permas Jaya, 81750 Masai, Johor.",
+    "phone": "+6017-4130144",
+    "tax_id": "",
+    "website": "www.facebook.com/118MJmookataHouse"
+  },
+  "transaction": {
+    "date": "2018-06-11",
+    "time": "19:23:28",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 102.4,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 102.4,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Set",
+      "quantity": 1,
+      "unit_price": 48.0,
+      "total_price": 48.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Herbal Chicken Soup",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Salted Egg Dumplings",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Thai Coffee",
+      "quantity": 1,
+      "unit_price": 4.9,
+      "total_price": 4.9,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Beer (C)",
+      "quantity": 2,
+      "unit_price": 16.0,
+      "total_price": 32.0,
+      "category": "Beverage",
+      "accounting_category": "Alcohol",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Luo Han Guo",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007846361.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "118 MJ MOOKATA HOUSE\nNO.7G, Jalan Permas 11,\nBandar Baru Permas Jaya,\n81750 Masai, Johor.\n+6017-4130144\nDate: 11-06-2018 07:23:28 PM\nTable No.: 12\nTAX INVOICE\n(Receipt No.: REC-003763)\nQTY ITEM PRICE TOTAL\n(RM) (RM)\n1x Set 48.00 48.00\n1x B - Soup\nHerbal\nChicken 5.00 5.00\n1x Salted\nEgg Dumplings 5.00 5.00\n1x 5.00 5.00\n1x Thai 4.90 4.90\nCoffee\n2x BEER (C) 16.00 32.00\n1x Luo 2.50 2.50\nHan Guo\nTotal 102.40\nBef. Rounding 102.40\nChange 0.00\nThank You & Please Come Again\n[ www.facebook.com/118MJmookataHouse ]"
+  }
+}

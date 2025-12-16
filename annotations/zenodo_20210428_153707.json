@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Dia Portugal Supermercados",
+    "address": "Rua Fontes Pereira de Melo, 594, 02584 Lisboa",
+    "phone": "",
+    "tax_id": "PT505600088",
+    "website": "www.miniprecodisney.com"
+  },
+  "transaction": {
+    "date": "2019-03-13",
+    "time": "14:50:00",
+    "currency": "EUR",
+    "payment_method": "cash",
+    "subtotal": 0.8,
+    "tax": 0.19,
+    "tip": 0.0,
+    "total": 0.99,
+    "accounting_category": "supplies",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Cabo Vassoura 1.40M",
+      "quantity": 1,
+      "unit_price": 0.8,
+      "total_price": 0.99,
+      "category": "household",
+      "accounting_category": "supplies",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_153707.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Dia Portugal Super Soc Unip. Lda\nQTA. FONTE LUIS ALVARES CABRAL\n02770-190 PACO ARCOS\n\nC.R.C. NUM. CONTRIB. PT505600088\nCAPITAL SOCIAL EMPRESA. 51 802 655.12\n\nNOME CLIENTE: FLIKEHOME\nDIRECAO CLIENTE: LISBOA\nNUM. CONTRIBUINTE: 510/76914\nLOCALIDADE: CHIADO\nCOD. POST.\n\nFATURA/RECIBO\n\nFI 02083003201102/00002869\nCAIXA: 1 DATA: 2019 03 13 HORA: 14.50\nCODIGO DE OPERARIO: 47870\n\nCODIGO DESCRICAO TOTAL\nIVA PVP. UNIT QUANTIDADE DESCONTOS\n17834 CABO VASSOURA 1.40M\n23.00% 0.99 1 0 0.99\n\nTOTAL A PAGAR EUROS 0.99\nRECEBIDO 0.99\nTROCO 0.00\n\nTIPO IVA BASE IVA\n03 23.00% 0.80 0.19 0.99\nTOTAL 0.80 0.19 0.99\n\nLOCAL CARGA:\nRU DE S. PAULO 80\n1200-429 LISBOA\nDATA : 2019-03-13 HORA: 14:50\nLOCAL DESCARGA: MORADA DO CLIENTE\n\nW03s-Processado por proy cert. n11752/A1\n\nwww.miniprecodisney.com\nSIRPEE PT000245"
+  }
+}

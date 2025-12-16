@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Lavender Confectionery & Bakery S/B",
+    "address": "LOT G29 & G30, AEON Mall Tebrau City, No. 1, Jalan Desa Tebrau, Taman Desa Tebrau, 81100 Johor Bahru",
+    "phone": "07-364 3785",
+    "tax_id": "001872379904",
+    "website": "www.lavender.com.my"
+  },
+  "transaction": {
+    "date": "2018-04-14",
+    "time": "16:14:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 11.6,
+    "tax": 0.7,
+    "tip": 0.0,
+    "total": 12.3,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "European Walnut",
+      "quantity": 1,
+      "unit_price": 6.5,
+      "total_price": 6.5,
+      "category": "Baked Goods",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Orange Peel Chocolate",
+      "quantity": 1,
+      "unit_price": 5.8,
+      "total_price": 5.8,
+      "category": "Baked Goods",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 7.7
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006414599.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Lavender A04059\nLAVENDER CONFECTIONERY & BAKERY S/B\nCOMPANY NO: 499702-V\nLOT G29 & G30, AEON Mall Tebrau City, NO. 1, JALAN DESA TEBRAU,\nTAMAN DESA TEBRAU, 81100 JOHOR BAHRU.\nTEL: 07-364 3785\nGST ID NO: 001872379904\nTAX INVOICE\n14/04/2018 16:14 B999215\nQty Descriptions Amount\n1 EUROPEAN WALNUT 6.50 T\n1 ORANGE PEEL CHOCOLATE 5.80 T\n2 TOTAL 12.30\nCASH 20.00\nCHANGE 7.70\nIncl: 6% GST 0.70\nPRICES INCLUSIVE 6% GST\nGST Summary Amount Tax\nT: GST 11.60 0.70\nZ: Zero Rated 0.00 0.00\nSign:\nwww.lavender.com.my\nTHANK YOU.\n1. All sales are final. Goods sold are not refundable nor exchangeable.\n2. Our products contain no added preservatives, please consume within a day or keep according to recommendations on packaging.\n3. For feedback, please retain this Tax Invoice. Seek store manager assistance OR drop us an email.\n4. Tax Invoice can only be issued on the purchase date. Amendment is not allowed once issued.\nCsh:C137 LEE FING TING POS:TC12 Shf:201804141"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "730 Tavern Kitchen & Patio",
+    "address": "730 Mass Ave, Cambridge, MA 02139-3308",
+    "phone": "617-868-8800",
+    "tax_id": "",
+    "website": "730tavern.com"
+  },
+  "transaction": {
+    "date": "2017-09-23",
+    "time": "21:40:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 79.5,
+    "tax": 5.57,
+    "tip": 0.0,
+    "total": 85.07,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Manhattan",
+      "quantity": 3,
+      "unit_price": 16.0,
+      "total_price": 48.0,
+      "category": "Alcoholic Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Makers Mark",
+      "quantity": 3,
+      "unit_price": 9.5,
+      "total_price": 28.5,
+      "category": "Alcoholic Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Rocks",
+      "quantity": 3,
+      "unit_price": 1.0,
+      "total_price": 3.0,
+      "category": "Miscellaneous",
+      "accounting_category": "Misc",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1047-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "730 Tavern Kitchen & Patio\n730tavern.com\n730 Mass Ave\nCambridge, MA 02139-3308\n617-868-8800\n\n09/23/2017 45157\n9:40 PM 30062\n\nServer: Megan\nTable 3/1\nGuests: 2\nReprint #: 1\n\nManhattan (3 @ 16.00) 48.00\n(3)Makers Mark\nGrey Goose (3 @ 9.50) 28.50\nRocks (3 @ 1.00) 3.00\n\nSubtotal 79.50\nTax 5.57\nTotal 85.07\nBalance Due 85.07\n\nSUGGESTED GRATUITY PRIOR TO DISCOUNT\n22% @ 17.49\n20% @ 15.90\n18% @ 14.21\n"
+  }
+}

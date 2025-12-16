@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Guardian Health And Beauty Sdn Bhd",
+    "address": "G-19 Level G, Brem Mall",
+    "phone": "03-62584088",
+    "tax_id": "000099874816",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-04",
+    "time": "16:14:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 11.32,
+    "tax": 0.68,
+    "tip": 0.0,
+    "total": 12.0,
+    "accounting_category": "Health & Beauty",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GDN MC H/W ENC ROM",
+      "quantity": 2,
+      "unit_price": 5.9,
+      "total_price": 11.8,
+      "category": "Health & Beauty",
+      "accounting_category": "Health & Beauty",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "GDN MC H/W N/DREAM",
+      "quantity": 2,
+      "unit_price": 5.9,
+      "total_price": 11.8,
+      "category": "Health & Beauty",
+      "accounting_category": "Health & Beauty",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": -0.12,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005719912.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Guardian Health And Beauty Sdn Bhd\nGuardian Giant Brem Mall\nG-19 Level G\nBrem Mall\nTel:03-62584088\nCompany Reg #1101083-T\nGST Reg #000099874816\n\nRM\n121095079 GDN MC H/W ENC ROM 5.90\n121095079 GDN MC H/W ENC ROM 5.90\n121095081 GDN MC H/W N/DREAM 5.90\n121095081 GDN MC H/W N/DREAM 5.90\nP3 KDP G HW 4012\nSUBTOTAL\n12.00\nTOTAL (GST INCL.)\n12.00\nCASH\n12.00\nYOUR SAVINGS FOR TODAY 11.60\nGST - Rate GST Excl GST Amt\nS 6% 11.32 0.68\nThank You For Shopping\nAt Guardian\nAll Amounts Are in RM\nGoods sold are non-refundable.\nDispensed medicines sold are\nnot returnable.\nAll exchanges and returns including\nGuardian brand products must be made\nwithin 7days with original receipts and\nproduct in original condition.\nSt:0 Ctrl ID:9688 TaxInv:41336\n16:14 04/03/18"
+  }
+}

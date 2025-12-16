@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Galp",
+    "address": "Rua Tomas da Fonseca, Torre C, 2º, 1600-209 Lisboa",
+    "phone": "961232242",
+    "tax_id": "PT503003745",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-06-04",
+    "time": "16:31:33",
+    "currency": "EUR",
+    "payment_method": "Card",
+    "subtotal": 20.0,
+    "tax": 3.74,
+    "tip": 0.0,
+    "total": 20.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Gasoleo Simples",
+      "quantity": 1,
+      "unit_price": 20.0,
+      "total_price": 20.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210322_164701.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "galp\n\n---------------------- PRE-PAGAMENTO ----------------------\n\nA.S. LAGOS (FARO/SAGRES) - 11442\n\nGALPESTE S.A.\nRUA TOMAS DA FONSECA, TORRE C, 2º\n1600-209 LISBOA Tel: 961232242\nNIF: PT503003745\n\nFatura/Recibo\n\nQuantidade Bomba Preço\nPreço Unitario\n\n13,71 L Bomba 01\n\nGASOLEO SIMPLES EUR 20.00 A\n1 459 EUR /\n\nTotal EUR 20.00\n\n23.00 % IVA A EUR 3.74\n\nCliente: 1766\nNome: FLIXHOME ALGARVE LDA\nDefault:\nNIF: 514007395\nOperador: 11848590 CLAUDIO\n\n012010004335#AA00000114422019/0000010545\n\nAxr1 - Processado por Programa\nCertificado n.:o 1396/AT\n\n-----------------------------------\nData: Hora: NTP Pos N’o” Turno\n04-06-19 16:31 69217 001 0008 059\nFeliz IVA da Caixa nos casos em que tal\nseja applicavel ao cliente\n\nTotal EUR 20.00\n\nCARTAO DEBITO EUR 20.00\n\nTerminal Pagamento Automatico: 00669854\nData: 2019-06-04 Hora: 16:31:33\nPerido: 067 Transiçâo:003 Mensagem:351\nMILLENNIUM BCP\nAMARAL/SALVADOR\nCARTA: ****1008/04\nA0000000032010 VISA Electron\n\nCompra 20.00 VELO PP N\nID Estab.: 0001104512 AUT: 908457\n\nPROCESSADO POR SIBS\n\n-----------------------------------------------------------\n\n9 9016921720104512000000000 20.00\n"
+  }
+}

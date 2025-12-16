@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "A Padaria Portuguesa",
+    "address": "Rua do Ouro, n.94, 1100-063 Lisboa",
+    "phone": "218471063",
+    "tax_id": "509323065",
+    "website": "apadariaportuguesa.pt"
+  },
+  "transaction": {
+    "date": "2019-10-20",
+    "time": "18:30:54",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 4.88,
+    "tax": 1.12,
+    "tip": 0.0,
+    "total": 6.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Box Pastel Nata (6un)",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Pastry",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_172708.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "A PADARIA PORTUGUESA\nAqui, como em casa.\nA Padaria Portuguesa - Rua Aurea\nA Padaria Portuguesa CQ - Actividades Hote\nleiras, Lda\nMorada: Rua do Ouro, n.94\n1100-063 Lisboa\nSede: R.Barata Salgueiro, n.30, 2.D 1250-044\nN.Contribuinte: 509323065\nRegisto na Cons. Lisboa n.509323065\nCapital Social: 37.500 euros\nTelefone: 218471063 218471036\nE-mail: geral@apadariaportuguesa.pt\nNome f/ikehome\nN.C. 510776914\nMorada\nF\nRecibo FT 047/2279 2019-10\n-20\nOriginal\nData: 2019-10-20 Hora: 18:30:54\nQt Artigo IV Total\n1 Box Pastel Nata (6un) 23 6.00\nTOTAL: 6.00\nTroco: 0.00\nTaxa Base IVA Total\n23.00 4.88 1.12 6.00\nConsulte-nos:\nAtendido por: Aurea Balcao Take-Away\nNumerario 6.00\nPago em:\nProcessado por Computador\nIVA Incluido\nSite: apadariaportuguesa.pt\nFacebook e Instagram: apadariaportuguesa\nZh98-Processado por programa\nCertificado n.0071/AT\nCopyright GrupoPIE, SA"
+  }
+}

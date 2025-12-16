@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2023-10-05",
+    "time": "12:34:56",
+    "currency": "IDR",
+    "payment_method": "Debit Card",
+    "subtotal": 48000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 48000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Choco Bun",
+      "quantity": 1,
+      "unit_price": 22000.0,
+      "total_price": 22000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Double Cheddar",
+      "quantity": 1,
+      "unit_price": 26000.0,
+      "total_price": 26000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Plastic Bag Medium",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Miscellaneous",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000024.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1001-Choco Bun\n22.000 x1 22.000\n1032-Double Cheddar\n26.000 x1 26.000\n6002-Plastic Bag Medium\n0 x1 0\nTotal Items: 3\nTotal. 48.000\nDebit Card 48.000"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "merchant": {
+    "name": "Popular Book Co. (M) Sdn Bhd",
+    "address": "No 8, Jalan 7/118B, Desa Tun Razak, 56000 Kuala Lumpur, Malaysia",
+    "phone": "08-91322435/437",
+    "tax_id": "001492992000",
+    "website": "www.popular.com.my"
+  },
+  "transaction": {
+    "date": "2017-12-23",
+    "time": "15:53:00",
+    "currency": "MYR",
+    "payment_method": "Mastercard",
+    "subtotal": 144.67,
+    "tax": 4.18,
+    "tip": 0.0,
+    "total": 140.85,
+    "accounting_category": "Bookstore",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Shoe White SW110",
+      "quantity": 2,
+      "unit_price": 4.29,
+      "total_price": 8.58,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "MR C.TAPE REF WH624R",
+      "quantity": 1,
+      "unit_price": 31.99,
+      "total_price": 31.99,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "KIT KAT 2F (PM) 17G",
+      "quantity": 1,
+      "unit_price": 1.35,
+      "total_price": 1.35,
+      "category": "Confectionery",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "3M GlueStick 7gm 4's",
+      "quantity": 1,
+      "unit_price": 10.59,
+      "total_price": 10.59,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "PU F/C B/L A4 450's",
+      "quantity": 1,
+      "unit_price": 16.99,
+      "total_price": 16.99,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "PLUS stapler set. 010E",
+      "quantity": 1,
+      "unit_price": 8.89,
+      "total_price": 8.89,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "FC EXM. ERS 4S 187016",
+      "quantity": 1,
+      "unit_price": 3.9,
+      "total_price": 3.9,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "S4 SUPER S M AKT SPM [BK]",
+      "quantity": 1,
+      "unit_price": 9.9,
+      "total_price": 9.9,
+      "category": "Books",
+      "accounting_category": "Books",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "SUCCESS SPM ADD MATHS[BK]",
+      "quantity": 1,
+      "unit_price": 37.0,
+      "total_price": 37.0,
+      "category": "Books",
+      "accounting_category": "Books",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "SUCCESS SPM SCI [BK]",
+      "quantity": 1,
+      "unit_price": 35.7,
+      "total_price": 35.7,
+      "category": "Books",
+      "accounting_category": "Books",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 14,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005568855.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "POPULAR BOOK CO. (M) SDN BHD (Co. No. 113825-W) (GST Reg No. 001492992000) No 8, Jalan 7/118B, Desa Tun Razak 56000 Kuala Lumpur, Malaysia CHERAS LEISURE MALL Tel : 08-91322435/437 23/12/17 15:53 Slip No.: 9050338975 Ainaa Trans: 309782 Card Expiry: 31/08/20 Description Amount Shoe White SW110*2S 4.29 T MR C. TAPE REF WH624R- 31.99 T KIT KAT 2F (PM) 17G 1.35 T Oxford-Coin Box BTS RM10 Voucher Issu FC GRIP BPO.5 BLK PK 4.20 T Member Discount -0.42 FC GRIP BPO.5 BLU PK 4.20 T Member Discount -0.42 3M GlueStick 7gm 4's 10.59 T STAT-PROMO SPECIAL -3.89 PU F/C B/L A4 450's 16.99 T STAT-PROMO SPECIAL -2.99 PLUS stapler set. 010E 8.89 T STAT-PROMO SPECIAL -3.89 FC EXM. ERS 4S 187016 3.90 T STAT-PROMO SPECIAL -0.91 S4 SUPER S M AKT SPM [BK] 9.90 Z Rev-BTS Promotion -1.49 SUCCESS SPM ADD MATHS[BK] 37.00 Z Rev-BTS Promotion -7.40 SUCCESS SPM SCI [BK] 35.70 Z Rev-BTS Promotion -7.14 Total RM Incl. of GST 140.85 Mastercard -140.85 Item Count 14 GST Summary Amount (RM) Tax (RM) T @ 6% 69.90 4.18 Z @ 0% 66.57 0.00 Total Savings -28.35 BE A POPULAR CARD MEMBER AND ENJOY SPECIAL DISCOUNTS THANK YOU. PLEASE COME AGAIN. www.popular.com.my Buy Chinese books online www.popularonline.com.my"
+  }
+}

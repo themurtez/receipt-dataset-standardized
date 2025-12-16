@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "NADEJE PLATINUM SDN BHD",
+    "address": "GK101,GND FLR,ONE UTAMA SHOPPING CENTRE NO.1,LEBUH BANDAR UTAMA, 47800 PETALING JAYA, SELANGOR",
+    "phone": "03-7710 0302",
+    "tax_id": "001151160320",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-05-01",
+    "time": "14:11:20",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 48.4,
+    "tax": 2.9,
+    "tip": 0.0,
+    "total": 51.3,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "DoubleCoco Slice",
+      "quantity": 1,
+      "unit_price": 12.6,
+      "total_price": 12.6,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Mother's Slices",
+      "quantity": 1,
+      "unit_price": 13.5,
+      "total_price": 13.5,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Tiramisu Slice",
+      "quantity": 1,
+      "unit_price": 12.6,
+      "total_price": 12.6,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Cheese Slice",
+      "quantity": 1,
+      "unit_price": 12.6,
+      "total_price": 12.6,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006620181.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "NADEJE PLATINUM SDN BHD\nGK101,GND FLR,ONE UTAMA SHOPPING CENTRE\nNO.1,LEBUH BANDAR UTAMA,\n47800 PETALING JAYA, SELANGOR\nTel:03-7710 0302\nGST ID:001151160320\n\nBill No.: 000-049909         Take Out\nDate: 2016/05/01 14:11:20\n\nDoubleCoco Slice            1     RM12.60\nMother's Slices             1     RM13.50\nTiramisu Slice              1     RM12.60\nCheese Slice                1     RM12.60\n\nGrand Total RM51.30\n(Bill Inclusive of 6% GST : RM2.90)\n\nCash RM51.30\n\n002-2016/05/01 14:13:10  Elin (1)   000-049909 [1]"
+  }
+}

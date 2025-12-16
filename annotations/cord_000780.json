@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Card",
+    "subtotal": 105000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 105000.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.8
+  },
+  "items": [
+    {
+      "name": "PAKET NYLON HEADBAND",
+      "quantity": 1,
+      "unit_price": 105000.0,
+      "total_price": 105000.0,
+      "category": "Accessory",
+      "accounting_category": "Retail",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000780.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PAKET NYLON HEADBAND\n1 105.000\nTotal 105.000\nKartu 105.000\nKembali 0"
+  }
+}

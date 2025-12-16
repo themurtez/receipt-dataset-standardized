@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "ENW Hardware Centre (M) Sdn. Bhd.",
+    "address": "No: G3, Blk G, Jln PJU 1A/3, Ara Damansara, 47301 Petaling Jaya, Selangor Darul Ehsan",
+    "phone": "03-7832 6929, 012-659 9829",
+    "tax_id": "000155453440",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-13",
+    "time": "",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 25.47,
+    "tax": 1.53,
+    "tip": 0.0,
+    "total": 27.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "S10 Starter",
+      "quantity": 5,
+      "unit_price": 1.0,
+      "total_price": 5.0,
+      "category": "Electrical",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "1L. 6627 Seamaster Super Glo",
+      "quantity": 1,
+      "unit_price": 22.0,
+      "total_price": 22.0,
+      "category": "Paint",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007225398.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ENW Hardware Centre (M) Sdn. Bhd.\nCo. Reg. No.: 795225-A\nGST Reg. No.: 000155453440\nNo: G3, Blk G, Jln PJU 1A/3,\nAra Damansara, 47301\nPetaling Jaya, Selangor Darul Ehsan.\nTEL: 03-7832 6929, 012-659 9829\n13/04/2018 Tax Invoice No.: CS00233394\nCash Sale (Ara D'sara)\nTel: 03-7832 6929\nH/P: 012-659 9829\nItem Qty U.Price RM\n001697 5.00 1.00 5.00 SR\nS10 Starter.\n766271 1.00 22.00 22.00 SR\n1L. 6627 Seamaster Super Glo.\nTotal Amt Incl. GST @ 6%: 27.00\nRounding Adjusrment 0.00\nTotal Amt Payable: 27.00\nTotal Qty Tender 6\nGST Summary Amount (RM) GST (RM)\nSR = 6 % 25.47 1.53\nPOINT: 0.00\n*Goods sold are not returnable\nThank you for shopping at\nENW Hardware Centre (M) Sdn. Bhd.\n"
+  }
+}

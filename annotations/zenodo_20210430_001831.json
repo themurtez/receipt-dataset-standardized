@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Auchan Amoreiras",
+    "address": "Av. Eng. Teixeira Junior, 1, 1300-501 Lisboa, Portugal",
+    "phone": "21 0457800",
+    "tax_id": "510769614",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-10-18",
+    "time": "19:15:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 9.39,
+    "tax": 1.71,
+    "tip": 0.0,
+    "total": 11.1,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Vendas das Caixas",
+      "quantity": 1,
+      "unit_price": 0.1,
+      "total_price": 0.1,
+      "category": "Other",
+      "accounting_category": "Miscellaneous",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Artigos de Musca",
+      "quantity": 1,
+      "unit_price": 6.39,
+      "total_price": 6.39,
+      "category": "Music",
+      "accounting_category": "Entertainment",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "12 FLU Agua 17CL",
+      "quantity": 2,
+      "unit_price": 1.0,
+      "total_price": 2.0,
+      "category": "Beverages",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210430_001831.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AUCHAN AMOREIRAS\nTEL: 210457800 / TAV: 21/045496\nAUCHAN RETAIL PORTUGAL, S.A.\nAv. Eng. Teixeira Junior, 1\n1300-501 LISBOA\nMat. C.R.C de Lisbon Sucusa\nCap. Social: 84,000,000 Euros\nSIMPLEX: P100010\nContacto: info@auchan.pt\nNIF: 510769614\nFACTURA\nORIGINAL\nCliente: NAO COMUNICADO\nN. Cart.:\nVENTA DAS CAIXAS PRECO VALOR\n0,10 0,10\nARTIGOS DE MUSCA\n6,39\n12 FLU ACUA 17CL\n2 X 1,00\n2,00\nTROCO\nRESUMO IVA\nIVA\n23.00% (C)\nAvenida 1,71 13L39\n10#71 1.71\nTOTAL 0,00\nPageratm: AAA Couto\nDatade Emissao : 2019 10 18 19t15\nSeim_bias na satesfacao Importante para nos!\n"
+  }
+}

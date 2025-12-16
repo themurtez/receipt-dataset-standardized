@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Dia Portugal - Sup. Soc. Unip., Lda",
+    "address": "QTA FONTE ED. ALVARES CABRAL, 027/0 190, PACO ARCOS",
+    "phone": "",
+    "tax_id": "PT 510300388",
+    "website": "WWW.MINIPRECO.PT"
+  },
+  "transaction": {
+    "date": "2019-10-08",
+    "time": "16:49:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 11.37,
+    "tax": 2.61,
+    "tip": 0.0,
+    "total": 13.98,
+    "accounting_category": "General Merchandise",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "AIRWICK ELE DEL VER",
+      "quantity": 2,
+      "unit_price": 6.99,
+      "total_price": 13.98,
+      "category": "Household Supplies",
+      "accounting_category": "General Merchandise",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 6.02
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_171912.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Dia Portugal - Sup. Soc. Unip., Lda\nQTA FONTE ED. ALVARES CABRAL\n027/0 190 PACO ARCOS\nC.R.C. NUM. CONTRIB: PT510300388\nCAPITAL SOCIAL EMPRESA: 1,000,000,00\nNOME CLIENTE: FLIK@HOME\nDIRECAO CLIENTE:\nNUM. CONTRIBUTENTE: 510769134\nLOCALIDADE:\nCOD. POST:\nCOD POST: FATURA/RECIBO\nFT 021140201910021/00069017\nCAIXA 2 DATA: 2019-10-08 HORA: 16:49\nCODIGO DE OPERADOR: 53040\nCODIGO DESCRICAO IVA PVP/UNIT QUANTIDADE TOTAL\nDESCONTOS\n23,00% 6,99 2 0,00\nTOTAL A PAGAR EUROS 13,98\n20,00\n6,02\nTIPO IVA BASE IVA\n03 23,00% 11,37 2,61 13,98\nTOTAL 11,37 2,61 13,98\nLOCAL CARGA:\nLG DO CALHARIZ 10\n1200-060 LISBOA\nDATA: 2019-10-08 HORA: 16:49\nLOCAL DECLARACAO: MORADA DO CLIENTE\nProcessado por progr cert. n1752/AI\nWWW.MINIPRECO.PT\nSIRPEE PT000245"
+  }
+}

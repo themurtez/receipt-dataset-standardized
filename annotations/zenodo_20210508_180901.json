@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "ROGERIO PAIS, LDA",
+    "address": "AVENIDA ALMIRANTE REIS, 9-E, 1150-007 LISBOA",
+    "phone": "966006696",
+    "tax_id": "500544000",
+    "website": "www.ticasgest.pt"
+  },
+  "transaction": {
+    "date": "2018-06-05",
+    "time": "09:29:00",
+    "currency": "EUR",
+    "payment_method": "numerário",
+    "subtotal": 26.83,
+    "tax": 6.17,
+    "tip": 0.0,
+    "total": 33.0,
+    "accounting_category": "Hardware Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Abracadiera fivela 200x",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Hardware",
+      "accounting_category": "Hardware Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Fechadura 716x65",
+      "quantity": 1,
+      "unit_price": 15.0,
+      "total_price": 15.0,
+      "category": "Hardware",
+      "accounting_category": "Hardware Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Válvula clik clak",
+      "quantity": 1,
+      "unit_price": 12.5,
+      "total_price": 12.5,
+      "category": "Plumbing",
+      "accounting_category": "Plumbing Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Tubo Ext. HIDROFLEX 1\"",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Plumbing",
+      "accounting_category": "Plumbing Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_180901.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROGERIO PAIS, LDA\nFERRAGENS * FERRAMENTAS * MAQUINA * UTILIDADES...\nAVENIDA ALMIRANTE REIS, 9-E * 1150-007 LISBOA\nTel/Fax 218853901 Tel. 966006696\nSociedade por quotas * Capital Social\n1.012,92€ REG.CRC. 34852\nNIB: 0033 0000 01280268463 52\n\n2018-06-05 FATURA SIMPLIFICADA N:\nOriginal FS 1A1801/4305\n09:29 BALCAO 1\nContribuinte: 510776914\n\n--------- DESCRICAO IVA VALOR\n1 Abracaieira fivela 200x 23% 3,00\n1 Fechadura 716x65 ILata 23% 15,00\n1 Valvula clik clak I23% 12,50\n1 Tubo Ext. HIDROFLEX 1\" 23% 2,50\n\nTAXA IVA INCID.\n23% 6,17 26,83\nTOTAL INCIDENCIAS: 6,17 26,83\n\nTOTAL Eur 33,00\nPago em Numerario\nValor entregue: 33,00\nTroco: 0,00\n\nImplementado por www.ticasgest.pt\n\nhtGg-Processado por programa\ncertificado n. 217/AT\n\nservicos e/ou bens foram realizados e/ou co|o\ndispo sicao do adquirente nesta dat\no do CIVA, No5 alnea F)\n\nanca: ROGERIO PAIS, LDA\nContribuinte: 500544000"
+  }
+}

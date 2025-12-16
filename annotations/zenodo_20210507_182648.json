@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Metropolitano de Lisboa, E.P.E.",
+    "address": "Avenida Fontes Pereira de Melo Nº28, 1069-095, Lisboa",
+    "phone": "",
+    "tax_id": "500192855",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-12-06",
+    "time": "15:18:42",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 4.72,
+    "tax": 0.28,
+    "tip": 0.0,
+    "total": 5.0,
+    "accounting_category": "Transportation",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ZAPPING",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Transportation",
+      "accounting_category": "Transportation",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_182648.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Metropolitano de Lisboa, E.P.E.\nAvenida Fontes Pereira de Melo Nº28,\n1069-095, Lisboa\nN. Contribuinte: 500192855\nFATURA SIMPLIFICADA\nNº: FS 01081900/0084237\nNIF: Consumidor Final\nData: 2019-12-06 15:18:42\nTítulo Transporte: Qt IVA Preço\nZAPPING 1 6% 5,00\nNº Cartão/N9 Série: 003357320/3271707104\nTotal: Eur 5,00\nZ8GB-Processado por Programa certificado\nNº 2719/AT\nForma de Pagamento: Numerário\nEm caso de anulação/devolução é obrigatória a\napresentação deste documento. Conserve este\ndocumento até final da validade."
+  }
+}

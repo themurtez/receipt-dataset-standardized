@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "A Fung",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 52636.0,
+    "tax": 5264.0,
+    "tip": 0.0,
+    "total": 57900.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Baso Tahu",
+      "quantity": 1,
+      "unit_price": 43636.0,
+      "total_price": 43636.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Nasi Putih",
+      "quantity": 1,
+      "unit_price": 6000.0,
+      "total_price": 6000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "A. Mineral Gelas",
+      "quantity": 1,
+      "unit_price": 3000.0,
+      "total_price": 3000.0,
+      "category": "Beverages",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 2100.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000574.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "A FUNG\n\nBASO TAHU      1  43,636  43,636\nNASI PUTIH     1   6,000   6,000\nA.MINERAL GELAS 1   3,000   3,000\nTOTAL              52,636\nTAX 10.00 %     5,264\nGRAND TOTAL       57,900\nTUNAI             60,000\nKEMBALI           2,100"
+  }
+}

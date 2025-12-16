@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Gerbang Alaf Restaurants Sdn Bhd",
+    "address": "Level 6, Bangunan TH, Damansara Uptown3\nNo.3, Jalan SS21/39, 47400 Petaling Jaya\nSelangor",
+    "phone": "03-6259-6498",
+    "tax_id": "000504664064",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-11-03",
+    "time": "14:31:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 8.5,
+    "tax": 0.48,
+    "tip": 0.0,
+    "total": 8.5,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "ChocTop",
+      "quantity": 2,
+      "unit_price": 2.0,
+      "total_price": 4.0,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "McFlurryOreos",
+      "quantity": 1,
+      "unit_price": 4.5,
+      "total_price": 4.5,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 1.5
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005719903.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Gerbang Alaf Restaurants Sdn Bhd\n(65351-M)\nformerly known as\nGolden Arches Restaurants Sdn Bhd\nLicensee of McDonald's\nLevel 6, Bangunan TH, Damansara Uptown3\nNo.3, Jalan SS21/39,47400 Petaling Jaya\nSelangor\n(GST ID No: 000504664064)\nMcDonald's MRR2 Kepong DT(#251)\nTel No. 03-6259-6498\nTAX INVOICE\nINV# 002511900167877\nORD #41 -REG #19- 11/03/2018 14:31\nQTY ITEM TOTAL\n2 ChocTop 4.00\n1 McFlurryOreos 4.50\nTakeOut Total (incl GST) 8.50\nTotal Rounded 8.50\nCash Tendered 10.00\nChange 1.50\nTOTAL INCLUDES 6% GST 0.48\n-----------------------------------------------------\nThank You and Please Come Again."
+  }
+}

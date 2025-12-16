@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (M) SDN BHD",
+    "address": "Lot 1851-A & 1851-B, Jalan KPB 6, Kawasan Perindustrian Balakong, 43300 Seri Kembangan, Selangor",
+    "phone": "",
+    "tax_id": "000306020352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-26",
+    "time": "16:59:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 1.98,
+    "tax": 0.12,
+    "tip": 0.0,
+    "total": 2.1,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BRUSH 1.5'",
+      "quantity": 1,
+      "unit_price": 1.98,
+      "total_price": 1.98,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007103681.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. D.I.Y. (M) SDN BHD\n(CO.REG:.860671-D)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No.:000306020352)\n(IOI PUCHONG)\n-TAX INVOICE-\nBRUSH 1.5' 628 *S\nKE51 - 12/720\n9071503 1 X 2.10 2.10\nItem(s) : 1\nQty(s) : 1\n-------------------------\nTotal Incl. GST@6%\nCASH\nRM 2.10\nRM 2.10\nGST @6% included in total RM 0.12\n-------------------------\n26-04-18 16:59 SH01 ZJ86 T2 R000120516\nOPERATOR TRAINEE CASHIER\nEXCHANGE ARE ALLOWED WITHIN\n7 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (KUCHAI) SDN BHD",
+    "address": "Lot 1851-A & 1851-B, Jalan KPB 6, Kawasan Perindustrian Balakong, 43300 Seri Kembangan, Selangor",
+    "phone": "",
+    "tax_id": "000473792512",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-19",
+    "time": "13:09:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 11.23,
+    "tax": 0.67,
+    "tip": 0.0,
+    "total": 11.9,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CUSHION 45*45CM PLAIN",
+      "quantity": 1,
+      "unit_price": 11.9,
+      "total_price": 11.9,
+      "category": "Home Goods",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 10.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005719898.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. D.I.Y.(KUCHAI) SDN BHD\n(Co Reg : 750441-W)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No.:000473792512)\n(TESCO MENJALARA KEPONG,HQ)\n- TAX INVOICE -\n----------------------------------------\nCUSHION 45*45CM PLAIN\nEZ09 - 5/60\n9064525 1 X 11.90 11.90\nItem(s) : 1 Qty(s) : 1\ntotal incl. GST @6% RM 11.90\nCASH RM 22.00\nCHANGE RM 10.10\n\nGST Summary Amt(RM) Tax(RM)\nGST S@6% 11.23 0.67\n----------------------------------------\n19-03-18 13:09 SHO1 B026 T3 R000129969\nOPERATOR THQT - AIDA NOR HAFIDZA\n\nEXCHANGE ARE ALLOWED WITHIN\n7 DAYS WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

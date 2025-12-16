@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Sequeira Pinto Comb. Lda",
+    "address": "Loteamento Casal, Troca Lote 2, 2675-626 Odivelas, Portugal",
+    "phone": "218120696",
+    "tax_id": "P1505799589",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-10-31",
+    "time": "15:16:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 24.25,
+    "tax": 4.53,
+    "tip": 0.0,
+    "total": 25.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "GAS B13",
+      "quantity": 1,
+      "unit_price": 24.25,
+      "total_price": 24.25,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.75
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_174441.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "galp\nDOCUMENTO DE VENDA\nSEQUEIRA PINTO COM. COMB. LDA 11533\nSEQUEIRA PINTO COMB. LDA\nLOTEAMENTO CASAL TROCA, LOTE 2\n2675-626ODIVELAS Tel: 218120696\nNIF: P1505799589\nFatura/Recibo\nQuantidade Preço\nPreço Unitário\nGAS B13 1 x EUR 24.25 24.25 A\n23.00 % IVA A EUR 4.53\nCliente: 13173\nNome: FLIKEHOME LDA\nMorada:\nCódigo Postal:\nLocalidade:\nNº Contribuinte: 510776914\nMatrícula:\nOperador: ANDRE ESPREGUEIRA\nDoc. N.\n012010002407FAAA00000118332019/000035628\nCDW - Processado por Programa\nCertificado n.o 1396/AT\nData Hora N.ºTr POS N.ºOp Turno\n31-10-19 15:16 11653 01 1141 393\nRegime IVA de Caixa nos casos em que tal\nseja aplicável ao cliente\nclientes@galp.com / Tel. 707 504 257\nA sua opinião é importante!\nDeixe-a em\nopiniao.galp.com/postos\n& receba uma oferta em combustível\nTotal EUR 24.25\nNUMERARIO EUR 25.00\nTroco EUR 0.75"
+  }
+}

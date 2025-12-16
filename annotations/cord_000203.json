@@ -1,0 +1,154 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 216361.0,
+    "tax": 21636.0,
+    "tip": 0.0,
+    "total": 237997.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "AYAM",
+      "quantity": 2,
+      "unit_price": 10000.0,
+      "total_price": 20000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "DONAT AYAM",
+      "quantity": 2,
+      "unit_price": 10000.0,
+      "total_price": 20000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "ROTI SISIR",
+      "quantity": 1,
+      "unit_price": 17727.0,
+      "total_price": 17727.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "BANANA SPLIT",
+      "quantity": 3,
+      "unit_price": 9545.0,
+      "total_price": 28635.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "DONATCOKLAT",
+      "quantity": 4,
+      "unit_price": 10000.0,
+      "total_price": 40000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "TIGER ROLL PTG",
+      "quantity": 1,
+      "unit_price": 8636.0,
+      "total_price": 8636.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "MARMER CAKE PTG",
+      "quantity": 1,
+      "unit_price": 6818.0,
+      "total_price": 6818.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "BOLU HAWAT PING",
+      "quantity": 1,
+      "unit_price": 5909.0,
+      "total_price": 5909.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "BANANA CAKE PTG",
+      "quantity": 1,
+      "unit_price": 6818.0,
+      "total_price": 6818.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "MANDARIN CAKE PTG",
+      "quantity": 2,
+      "unit_price": 8182.0,
+      "total_price": 16364.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "LAPIS SURABAYA PTG",
+      "quantity": 2,
+      "unit_price": 16818.0,
+      "total_price": 33636.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "CAKE PITA",
+      "quantity": 1,
+      "unit_price": 111818.0,
+      "total_price": 11818.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "PLASTIK TENTENG KECIL",
+      "quantity": 2,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Other",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 23,
+    "rounding": 0.0,
+    "change_due": 62003.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000203.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "2X @10000 20,000\nAYAM\n2X @10000 20,000\nDONAT AYAM\n1X @17727 17,727\nROTI SISIR\n3X @9545 28,635\nBANANA SPLIT\n4X @10000 40,000\nDONATCOKLAT\n1X @8636 8,636\nTIGER ROLL PTG\n1X @6818 6,818\nMARMER CAKE PTG\n1X @5909 5,909\nBOLU HAWAT PTNG\n1X @6818 6,818\nBANANA CAKE PTG\n2X @8182 16,364\nMANDARIN CAKE PTG\n2X @16818 33,636\nLAPIS SURABAYA PTG\n1X @111818 11,818\nCAKE PITA\n2X @0 0\nPLASTIK TENTENG KECIL\nSUBTOTAL 216,361\nPB 1 10% 10,000 \nAMOUNT\n21,636 \n23.00 ITEMS\nTOTAL 237,997\nCASH 300,000\nCHANGE 62,003"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "galp",
+    "address": "GAR. RIBAMAR F CUNHA COSTA, Rua Correia Teles 20 B, 1350-095 LISBOA",
+    "phone": "213832393",
+    "tax_id": "PT500119400",
+    "website": "galp.com"
+  },
+  "transaction": {
+    "date": "2023-08-08",
+    "time": "12:13:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 40.0,
+    "tax": 7.48,
+    "tip": 0.0,
+    "total": 40.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "GASOLEO SIMPLES",
+      "quantity": 27.42,
+      "unit_price": 1.459,
+      "total_price": 40.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_205607.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "galp\nDOCUMENTO DE VENDA\nGAR. RIBAMAR (Campo de Ourique) 11272\nGAR RIBAMAR F CUNHA COSTA\nRua Correia Teles 20 B\n1350-095 Lisboa tel: 213832393\nNIF: PT500119400\nFatura/Recibo\nQuantidade Preco Unitario Preço\n27.42 L Bomba 01 GASOLEO SIMPLES 1.459 EUR / L EUR 40.00 Total EUR 40.00\n23.00 % IVA EUR 7.48\nCliente: 35511 Nome: FILIPEHOME\nMorada: LISBOA\nCodigo Postal: N° Contribuinte: 510776914\nMatricula: 64TO-15 Operador: Carlos Filipe\nRyOM Processado por Programa\nCertificado: no 1396/AT\nData Hora N°Tr POS N°Op Turno\n08-08-13 12:13 98045 01 0001 216\nRegime IVA de Caixa nos casos em que tal\nseja aplicável ao cliente\nclientegalpcom / tel 707 504 25/\nDescontos de 16:11 com cartao Universo\nPague com saldo do Cartao Continente\nExperimente os combustiveis: EVOLOGIC\n+PERFORMANCE. PROTECAO. POUPANÇA\nE * AMBIENTE. Consulte galp.com\nA sua opinione é importante!\nVaa opinionO galp.com/postos\n& recebe discount 2 em\nEvologic, o combustivel mais evoluido\nTotal EUR 40.00\nNUMERARIO EUR 40.00"
+  }
+}

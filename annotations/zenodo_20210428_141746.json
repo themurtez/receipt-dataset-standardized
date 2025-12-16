@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "MANUEL BRITES & FILHOS, LDA",
+    "address": "R. Fernandes Fonseca, Lj 301/2 CC. Mouraria, 1100-238 LISBOA",
+    "phone": "",
+    "tax_id": "500177686",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-15",
+    "time": "16:54:00",
+    "currency": "EUR",
+    "payment_method": "Dinheiro",
+    "subtotal": 1.9,
+    "tax": 0.36,
+    "tip": 0.0,
+    "total": 1.9,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "LED ESFERICA",
+      "quantity": 1,
+      "unit_price": 1.9,
+      "total_price": 1.9,
+      "category": "Electronics",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_141746.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MANUEL BRITES & FILHOS, LDA\nR. Fernandes Fonseca, Lj 301/2 CC. Mouraria\n1100-238 LISBOA NIF: 500177686\nFATURA\n2019-02-15 16:54 ORIGINAL\nC1: 5948 NIF: 51076914\nIVA Cod. Descricao Qtd Preco\n23 8433962912128 LED ESFERICA 1x 1.90\nSubtotal 1.90\nDinheiro\nTOTAL 1.90\nTaxa Incidencias Iva Valor Iva\n3 - 23.00% 1.54 0.36\nOBRIGADO PELA VISITA\nPRAZO DE TROCAS: 15 DIAS\nN.registos : 1 N.artigos : 1.000\nOperador : Geral\nFe6M-Processado por programa certificado 560/AT"
+  }
+}

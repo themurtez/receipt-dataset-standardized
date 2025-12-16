@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "PINGO DOCE LOURINHA",
+    "address": "2530-120 LOURINHA",
+    "phone": "",
+    "tax_id": "510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-08-30",
+    "time": "19:33:23",
+    "currency": "EUR",
+    "payment_method": "VISA ELECTRON",
+    "subtotal": 9.73,
+    "tax": 0.66,
+    "tip": 0.0,
+    "total": 9.39,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ARROZ ARMONIOS FORMOZA 2KG",
+      "quantity": 1,
+      "unit_price": 1.99,
+      "total_price": 1.99,
+      "category": "Pantry",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "GELO PD 2KG",
+      "quantity": 3,
+      "unit_price": 1.0,
+      "total_price": 3.0,
+      "category": "Frozen",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "AGUA PEDRAS SAL 33",
+      "quantity": 1,
+      "unit_price": 3.69,
+      "total_price": 3.69,
+      "category": "Beverages",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "COCA COLA 1.75L",
+      "quantity": 1,
+      "unit_price": 1.05,
+      "total_price": 1.05,
+      "category": "Beverages",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_182925.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "LOURINHA\n\nTel. 214601120\n\nDistribuição Alimentar, S.A.\nSede: R. Actor Antonio Silva, No 7-15 1649-033\nRegistro C. R. Lisboa Matrícula No 500 649 993\nANREE: P1007150 N. 500 815 664 CE\nArtigos\nMERCERIA E PETFOOD\nARROZ ARMONIOS FORNOZA 2KG 1,99\nCONGELADOS\nE 23% GELO PD 2KG 3 X 1.00 3,00\nBEBIDAS\nD 13% AGUA PEDRAS SAL 33 3,69\nPouparam 0.92E\nE 23% COCA COLA 1,75L 1,05\nResumen\nTOTAL 10,73\nTOTAL POUPANCA\nTOTAL A PAGAR 9,39\nPAGAMENTOS\nPagamento\nMULTIBANCO 9,39\nResumen IVA\nTaxa\nD 13% 0,42\nE 23% 0,58\nValor S/IVA 8,73\nValor IVA 1,34\nValor C/IVA 10,07\nNESTA COMPRA POUPOL\n1,34 E\nAtendido por: Sandra Santos\n2330 2019-08-30 19:33:23 0019 6965 6969\nFatura/Recibo No\n1a Via Original\nN. Contribuinte: 5|0776914\nNome: FLIXHOMEM LDA\nMorada:\nLocal.,\noda 51 128 120/145\nESO\nLocal carga n\nLocal descarga: Morada do Cliente\nData: 2019-08-30 Fora: 19:33\nPINGO DOCE LOURINHA\n2530-120 LOURINHA\nTerminal Pagamento Automático: 00437178\n2019-08-30 19:32:33 Froq 071205 M95067\nMILLENNIUM BCP\nRODRIGUES/CARLOS\nCARTAO -**665.E/oo\nA0000000320102\nVISA ELECTRON\nCOMPRA 9.\nID ESTA.\nREDUNCRE\nINOVACAO CONFIANCA\nCOPIA CLIENTE\nPROCESSADO POR SIBS\nFactura necessária para troca em 15 dias\n(Artigos Texül e Calçado prazo 30 dias)\nNão se trocam medicamentos, artigos assinalados\nApoio ao Cliente\nContacte-nos\n800 24 5125 / 210 41 44 11 (24 horas)\n"
+  }
+}

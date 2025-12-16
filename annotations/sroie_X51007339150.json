@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "SANYU STATIONERY SHOP",
+    "address": "No. 31G&33G, Jalan Setia Indah X, U13/X, 40170 Setia Alam",
+    "phone": "+603-3362 4137",
+    "tax_id": "001531760640",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-07-18",
+    "time": "",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 35.0,
+    "tax": 1.98,
+    "tip": 0.0,
+    "total": 35.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Sonofax - EC Thermal Roll (Blue) (57mmx60mmx12mm) (10Roll/Pkt)",
+      "quantity": 1,
+      "unit_price": 35.0,
+      "total_price": 35.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 15.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007339150.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SANYU STATIONERY SHOP\nNO. 31G&33G, JALAN SETIA INDAH X ,U13/X\n40170 SETIA ALAM\nMobile /Whatsapps : +6012-918 7937\nTel: +603-3362 4137\nGST ID No: 001531760640\nTAX INVOICE\nOwned By:\nSANYU SUPPLY SDN BHD (1135772-K)\nCASH SALES COUNTER\n1. 7002-0014\nSONOFAX - EC THERMAL ROLL\n(BLUE) - (57MMx60MMx12MM)\n(10ROLL/PKT)\n1 X 35.0000 - 35.00 SR\n------------------------------------------\nTotal Sales Inclusive GST @6% 35.00\nDiscount 0.00\nTotal 35.00\nRound Adj 0.00\nFinal Total 35.00\nCASH 50.00\nCHANGE 15.00\nGST Summary Amount(RM) Tax(RM)\nSR @ 6% 33.02 1.98\n------------------------------------------\nINV NO: CS-SA-0097366 Date: 18/07/2017\n\n\nGoods sold are not Returnable & Refundable\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN.\nTERIMA KASIH SilA DATANG LAGI\n** PLEASE KEEP THIS RECEIPT FOR PROVE OF\nPURCHASE DATE FOR I.T PRODUCT WARRANTY\nPURPOSE **\nFollow us in Facebook : Sanyu.Stationery"
+  }
+}

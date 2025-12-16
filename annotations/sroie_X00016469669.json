@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "ABC HO TRADING",
+    "address": "No.284, JALAN HARMONI 3/2, TAMAN DESA HARMONI, 81100 JOHOR BAHRU, JOHOR",
+    "phone": "07-355 2616",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-01-09",
+    "time": "20:01:11",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 31.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 31.0,
+    "accounting_category": "office_supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Plastic",
+      "quantity": 2,
+      "unit_price": 15.5,
+      "total_price": 31.0,
+      "category": "office_supplies",
+      "accounting_category": "office_supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 70.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X00016469669.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "tan chay yee\nABC HO TRADING\nNo.284, JALAN HARMONT 3/2,\nTAMAN DESA HARMON.\n81100 JOHOR BAHRJU.JOHOR\n07-355 2616\n\nCash Bill: 01-143008\nDate: 09/01/2019 8:01:11 PM\nCashier: 01\n\nDescription Qty Price Amount\nPlastic 2 15.50 31.00\n\nTotal: 31.00\nTotal Amount: 31.00\nCash Received: 101.00\nChange: 70.00\n\n*Goods Sold ar e non-refundable*\n***Thank You***\n***Please Come Again***\n31.00"
+  }
+}

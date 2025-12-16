@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "LIAN HING STATIONERY SDN BHD",
+    "address": "NO.32 & 33, JALAN SR 1/9, SEKSYEN 9, TAMAN SERDANG RAYA, 43300 SERI KEMBANGAN, SELANGOR DARUL EHSAN",
+    "phone": "",
+    "tax_id": "002139201536",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-27",
+    "time": "",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 11.32,
+    "tax": 0.68,
+    "tip": 0.0,
+    "total": 12.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "F/Castelli 187057.75 Tack-It 75g - White",
+      "quantity": 2,
+      "unit_price": 5.66,
+      "total_price": 11.32,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 8.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005453804.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "3180303\nLIAN HING STATIONERY SDN BHD (162761-M)\nNO.32 & 33, JALAN SR 1/9, SEKSYEN 9,\nTAMAN SERDANG RAYA,\n43300 SERI KEMBANGAN, SELANGOR\nDARUL EHSAN\nGST ID : 002139201536\nTax Invoice\n27.03.2018 No : CS-20243\nF/Castelli 187057.75 Tack-It\n75g- White (new) @ 5.6600\nQty Tax RM\n2 SR 12.00\nTotal Amt Incl. GST @ 6%: 12.00\nRounding Adjustment\nTotal Amt Payable : 12.00\nPaid Amount : 20.00\nChange : 8.00\nTotal Qty Tender : 2\nGST Summary Amount Tax\n(RM) (RM)\nSR @ A 11.32 0.68\nTotal 11.32 0.68\nTHANK YOU\nFor anv enquirv. please contact us:"
+  }
+}

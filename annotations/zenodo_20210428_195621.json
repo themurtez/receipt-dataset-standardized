@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "ROQUE & SOUSA - COMB. COM., LDA",
+    "address": "AV 23 de Julho 9, 2800-099 COVA DA PIEDADE",
+    "phone": "212750778",
+    "tax_id": "507193920",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-03",
+    "time": "20:07:00",
+    "currency": "EUR",
+    "payment_method": "CARTAO BANCARIO",
+    "subtotal": 53.31,
+    "tax": 12.26,
+    "tip": 0.0,
+    "total": 65.57,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GASOLEO",
+      "quantity": 48.07,
+      "unit_price": 1.364,
+      "total_price": 65.57,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_195621.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "E1505 - E.S. COVA DA PIED\nROQUE & SOUSA - COM. COMB., LD\nAV 23 de Julho 9\n2800-099 COVA DA PIEDADE\nCAP. SOCIAL: 75000 TEL./FAX: 212750778\nNIF: 507193920\n\nDATA FACTURA: 2019-02-03\nFactura Simplificada: 1892959\nOperador: Tiago Valente\nDATA/HORA: 2019-02-03 20:07 POS: 001\n\nARTIGO B. QT. IVA/EX. P.Un. VALOR\n\nGASOLEO 8 48,07 3 1,364 65,57\n\nT.IVA Sem IVA IVA(VX) IVA TOTAL\n3 53,31 23,00 12,26 65,57\n\nTOTAL EUROS 65,57\nREPSOL MOVE 0,00\nCARTAO BANCARIO 65,57\n\njStr - Processado por Programa\nCertificadoN.: 1237/AT\n*** OBRIGADO E BOA VIAGEM ***\n\n*** CONSUMIDORFINAL ***\nNIF: -----------\n\nIVA incluido taxa em vigor"
+  }
+}

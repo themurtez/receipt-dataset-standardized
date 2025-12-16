@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Filkifome LDA",
+    "address": "RUA SARAIVA DE CARVALHO 1170-001 LISBON",
+    "phone": "",
+    "tax_id": "510775614",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-09-10",
+    "time": "10:21:43",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 206.1,
+    "tax": 38.54,
+    "tip": 0.0,
+    "total": 206.1,
+    "accounting_category": "Sales",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "INGHAR cand pe branco",
+      "quantity": 1,
+      "unit_price": 206.1,
+      "total_price": 206.1,
+      "category": "Goods",
+      "accounting_category": "Sales",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": -43.9
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_180408.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Area Infinitas - Designe de Interiores, S.A.\n\nAREA\nCentro Colombo-L1,AG04                Original\nTelef: 217112070\nFax: 217112079\n\nNome: FILKIFOME LDA\nMorada: RUA SARAIVA DE CARVALHO 1170-001 LISBON\nContribuinte: 510775614        Cliente: 11026890\n\n2019-09-10 10:21:43\n\nLuciana Ferreira         Caixa 4\nVD 123706854\n\nFACTURA\nArtigo                               Quant    EUR   Tx\n________________________________________________________________\nINGHAR cand pe branco       1       206.10   236 1\n64329                    Desconto 10.0\n________________________________________________________________\n\nDescontos                        22,90\nTotal                          206,10\n\nIVA incluido\n3 - Taxa 23% sobre  167,56   38,54\nTotal IVA                         38,54\n\n                                    Montante Recebido        250,00\n                                    Numerario                   (Troco)\n                                    Numerario                -43,90\n\nNrAp-Processado por programa certificado n. 0510/AT\n\n--------------------------------------------------------------------------------\n\nCaso pretenda alterar os dados de facturacao,\ndevera enviar o original do documento, indicando\nos elementos a alterar, no prazo de 5 dias para:\n\n                         Area Infinitos\n                         A/C Departamento Facturacao\n                         Sintra Business Park, Edificio 7\n                         2710 - 089 Sintra\n\n                 CAP.SOC: 517,500 EUROS MEC: 502560097\n\n                 C.R.C LISBOA No. 502560097\n                 SITOPEE: PT001954     SIRMPEE: PT002074\n\n_____________________________________\n\n        12SM4S156726\n123456789012345678901234567890123456789\n"
+  }
+}

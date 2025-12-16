@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Domino's Pizza",
+    "address": "No.12, Jalan Permas Jaya 10, Bandar Baru Permas Jaya, 81750 Masai, Johor",
+    "phone": "1300-888-333",
+    "tax_id": "001694261248",
+    "website": "www.dominos.com.my"
+  },
+  "transaction": {
+    "date": "2018-04-27",
+    "time": "17:57:32",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 15.6,
+    "tax": 0.41,
+    "tip": 0.0,
+    "total": 7.2,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "6\" HT (KB)",
+      "quantity": 1,
+      "unit_price": 15.6,
+      "total_price": 7.2,
+      "category": "Pizza",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 2.8
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006414721.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TAX INVOICE\nDOMINO'S PIZZA\nGST REF NO : 001694261248\nDOMINO'S PIZZA PERMAS JAYA\nNo.12, Jalan Permas Jaya 10,\nBandar Baru Permas Jaya, 81750 Masai\nJohor\n------------------------------------------------------------\nCARRY OUT NOW Pay By: CASH\nOrder : 7163 By : 5533\nOrder Time : 17:57:32 Date : 27/04/18\nName: MS LEE\nPickup Time: 18:12:32\n------------------------------------------------------------\nQty Menu Desc Coupon Disc Price\n1 6\"HT (KB) P50C-PSI 15.60\n--------------------------------------\n8.40 15.60\nTotal Items :\nSub-Total : 15.60\nCoupon Discount : 8.40\nGrand Total : 7.20\nPayment : 10.00\nChange Due : 02.80\n*6% GST Included : 0.41\n------------------------------------------------------------\nSUPPORT OUR SMILE CAMPAIGN : )\nDid we smile at you?\nLet us know at\nwww.dominos.com.my/smile and\nreceive a 30% off side item e-coupon\nupon survey submission\nSurvey Code: CBD271550716357\n------------------------------------------------------------\nThank you for visiting Domino's.\nPlease Come Again!\n1 - 3 0 0 - 8 8 8 - 3 3 3\nwww.dominos.com.my\n------------------------------------------------------------\nWe are compliant to the PDPA 2010.\nVisit www.dominos.com.my/terms\nto view our Personal Data\nProtection Policy.\n------------------------------------------------------------\nOwned by\nDommal Food Services Sdn Bhd\nCo. No. 419060-A"
+  }
+}

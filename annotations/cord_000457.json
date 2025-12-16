@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Burgrefi",
+    "address": "Jalan Talang Raya No 29, Jakarta, DKI Jakarta, 13910",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-22",
+    "time": "20:40:00",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 15000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 15000.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Es Kopi Susu",
+      "quantity": 1,
+      "unit_price": 15000.0,
+      "total_price": 15000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000457.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Burgrefi\nJalan Talang Raya No 29, Jakarta,\nDKI Jakarta, 13910\n\n22 Mar 2019    20:40\n\nEs Kopi Susu\n1x @15.000          15.000\n\nSubtotal             15.000\nTotal               Rp 15.000"
+  }
+}

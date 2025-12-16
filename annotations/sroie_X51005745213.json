@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Mun Heng Electrical & Hardware Supply",
+    "address": "No.52, Jalan Bulan U5/167, Bandar Pinggiran Subang, Sungai Buloh, 40150 Shah Alam, Selangor.",
+    "phone": "018-2239377 / 016-3692280",
+    "tax_id": "001950450-U; GST ID No.: 000372871168",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-02-01",
+    "time": "16:22:05",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 7.0,
+    "tax": 0.4,
+    "tip": 0.0,
+    "total": 7.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "White Spray",
+      "quantity": 1,
+      "unit_price": 7.0,
+      "total_price": 7.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": -0.01,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005745213.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MUN HENG ELECTRICAL & HARDWARE SUPPLY\n(ROC: 001950450-U)\nGST ID No.: 000372871168\nNo.52, Jalan Bulan U5/167,\nBandar Pinggiran Subang,\nSungai Buloh, 40150 Shah Alam, Sel.\nTel: 018-2239377/016-3692280\nFax: 03-78458334\nTax Invoice\nNo.: CS-51762\nDate: 01/02/2018\nQty RM Tax\n24 WHITE SPRAY 1.00 7.00 SR\n@ 7.00\n------------------------------------------------------\nTotal Amt Incl. GST @ 6%: 7.00\nRounding Adjustment: 0.01\nTotal Amt Payable: 7.00\nPaid Amount: 7.00\nChange : 0.00\nTotal Qty Tender : 1\n------------------------------------------------------\nGoods sold are not returnable.\nGST Summary Amount\n(RM)\nSR @ 6% 6.60 0.40\nTotal 6.60 0.40\nTHANK YOU\nFor any enquiry, please e-mail us.\n01/02/2018 16:22:05"
+  }
+}

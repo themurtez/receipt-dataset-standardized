@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "XXI Cafe",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 40000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 40000.0,
+    "accounting_category": "Entertainment",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Popcorn Salt (M)",
+      "quantity": 1,
+      "unit_price": 40000.0,
+      "total_price": 40000.0,
+      "category": "Food and Beverage",
+      "accounting_category": "Concessions",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 10000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000637.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "XXI Cafe\n\nPopcorn Salt (M) 40.000\n\nTOTAL 40.000\n\nCASH 50.000\nCHANGED 10.000"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Jimart@SP3",
+    "address": "No.29M, Jalan Dinar G U3/G, Seksyen U3, Subang Perdana, 40150 Shah Alam",
+    "phone": "013-336 3999",
+    "tax_id": "002077622272",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-24",
+    "time": "16:37:37",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 52.4,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 52.4,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SR 0809152 Rhomb Scissors 4\" 2040",
+      "quantity": 1,
+      "unit_price": 7.45,
+      "total_price": 7.45,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SR 1050901900021 Sharpening Stone 108#8",
+      "quantity": 1,
+      "unit_price": 7.45,
+      "total_price": 7.45,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SR 9555047307540 LAVA Water Jug 2.25L",
+      "quantity": 1,
+      "unit_price": 4.62,
+      "total_price": 4.62,
+      "category": "Kitchenware",
+      "accounting_category": "Kitchenware",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SR 24900007 Glass W/Flower LG10001",
+      "quantity": 12,
+      "unit_price": 2.74,
+      "total_price": 32.88,
+      "category": "Home Decor",
+      "accounting_category": "Home Decor",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 15,
+    "rounding": 0.0,
+    "change_due": 0.6
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008123604.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "buy Glass\nJIMART@SP3 OGN GROUP SDN BHD\nRoc: 1026984-X\nNo.29M, Jalan Dinar G U3/G, Seksyen U3, Subang Perdana, 40150 Shah Alam\n013-336 3999\nGST Reg No: 002077622272\nTAX INVOICE\nInvoice No : SP3-01-148852\nDate : 24/06/2018 4:37:37 PM\nCashier : Jimart\nDescription Qty Price Amount\n1 SR 0809152 1 7.45 7.45\nRhomb Scissors 4\" 2040\n2 SR 1050901900021 1 7.45 7.45\nSharpening Stone 108#8\n3 SR 9555047307540 1 4.62 4.62\nLAVA Water Jug 2.25L\n4 SR 24900007 12 2.74 32.88\nGlass W/Flower LG10001\nTotal Item Discount 0.00\nTotal Sales Inclusive GST@ 0.00% 52.40\nRounding Adjustment: 0.00\nTOTAL : 52.40\nCASH 53.00\nChange : 0.60\nGST Summary % Amount(RM) Tax(RM)\nSR 0.00 52.40 0.00\ni love jimart\nGOODS SOLD ARE NOT RETURNABLE\nThank You.Please Come Again.\n"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Al Mendis-The Mines",
+    "address": "106-107, Level 1 The Mines Mall\nSerdang\nSri Kembangan, 43300\nSelangor Darul Ehsan",
+    "phone": "",
+    "tax_id": "001065499904",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-21",
+    "time": "13:29:51",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 41.3,
+    "tax": 2.73,
+    "tip": 0.0,
+    "total": 48.15,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Maghout Lamb w ||",
+      "quantity": 1,
+      "unit_price": 22.5,
+      "total_price": 22.5,
+      "category": "Entree",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Garden Salad (S)",
+      "quantity": 1,
+      "unit_price": 5.9,
+      "total_price": 5.9,
+      "category": "Side",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "TEA POT BIG",
+      "quantity": 1,
+      "unit_price": 12.9,
+      "total_price": 12.9,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": -0.01,
+    "change_due": 1.85
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005663298.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AL MENDIS-THE MINES\nZAWATAJAYA FOOD N BEVERAGE SDN BHD\n(1168272-U)\n106-107, LEVEL 1 THE MINES MALL SERDANG\nSRI KEMBANGAN, 43300\nSELANGOR DARUL EHSAN.\n(GST Reg. No : 001065499904)\nTax Invoice\nTable 23\nOrder#: 116455\nB]ll#: V001-515592 Pax(s): 2\nDate : 21-03-2018 13:29:51\nCashier: TAMEEM\nEMS Ref:\n180321142900,515592,bjc6691918+365\nDescription Qty U.price Total TAX\nMaghout Lamb w ||\n1 x 22.50 22.50 SR\nGarden Salad (S)\n1 x 5.90 5.90 SR\nTEA POT BIG\n1 x 12.90 12.90 SR\nTotal (Excluding GST): 41.30\nServ. Charge (10%): 4.13\nGST Payable: 2.73\nTotal (Inclusive of GST): 48.16\nRounding Adj: -0.01\nTOTAL: 48.15\nClosed: 011 21-03-2018 14:29:00\nServer: TEMP STAFF\nCASH: 50.00\nCHANGE: 1.85\nGST Summary\nSR (@ 6%)\nAmount(RM) Tax(RM)\n45.43 2.73\n*** Thank You ***\nPlease Come Again\nPOWERED BY SISPOS.COM.MY"
+  }
+}

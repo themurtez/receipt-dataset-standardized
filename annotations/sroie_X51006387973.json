@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Gerbang Alaf Restaurants Sdn Bhd",
+    "address": "Level 6, Bangunan TH, Damansara Uptown3, No.3, Jalan SS21/39,47400 Petaling Jaya, Selangor",
+    "phone": "03-6155-2180",
+    "tax_id": "000504664064",
+    "website": "www.mcdfeedback.com.my"
+  },
+  "transaction": {
+    "date": "2017-04-30",
+    "time": "13:29:56",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 44.48,
+    "tax": 2.67,
+    "tip": 0.0,
+    "total": 47.15,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "DbleCheese",
+      "quantity": 1,
+      "unit_price": 11.1,
+      "total_price": 11.1,
+      "category": "Burger",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "AyamGoreng",
+      "quantity": 1,
+      "unit_price": 15.25,
+      "total_price": 15.25,
+      "category": "Chicken",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Nuggets",
+      "quantity": 1,
+      "unit_price": 13.1,
+      "total_price": 13.1,
+      "category": "Chicken",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 52.85
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006387973.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Your order number is 163 ... TOTAL INCLUDES 6% GST 2.67"
+  }
+}

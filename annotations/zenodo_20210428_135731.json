@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "BP Domingos Sequeira",
+    "address": "Rua Domingos Sequeira, n.20, 1350-122 Lisboa",
+    "phone": "213900866",
+    "tax_id": "508359333",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-24",
+    "time": "18:29:54",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 8.13,
+    "tax": 1.87,
+    "tip": 0.0,
+    "total": 10.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Ultimate Diesel",
+      "quantity": 6.46,
+      "unit_price": 1.549,
+      "total_price": 10.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_135731.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BP DOMINGOS SEQUEIRA\nPETROCONDE COMBUSTIVELS, LDA.\nRua Domingos Sequeira, n.20 Tel:213900866\n1350-122 Lisboa\nMatricula / NIPC: 508359333\nPOS:2 Ref:483 Op:Jandira Vaz\nData de emissão: 2019-02-24 18:29:54\n**************************************\nPRE PAGO\nULTIMATE DIESEL BOMBA NR: 2 10,00 EUR\n6,46 Lit x 1,549 EUR/Lit\n\nTOTAL 10,00 EUR\n\nNUMERARIO 10,00\nIVA% 4 23,00 IVA 1,87 + LIQ 8,13 = ILIQ 10,00\n\nRegime part. tabaco. DL346/85\n\nFatura-Recibo FR 270652001/042320\nJKR-Processado por Programa Certificado\nno. 0177/AT\n\nNIF: PT510776914\nName\nFLEIHOME - MEDIAÇÃO IMOBILIARIA, LDA.\nMorada\nR. SARAIVA DE CARVALHO, N.º 244, 3.º DTO\n1350-302 LISBOA\nMatricula\n03 TR 50"
+  }
+}

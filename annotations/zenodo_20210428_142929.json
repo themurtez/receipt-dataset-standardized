@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "ZHANG HUANZHEN",
+    "address": "RUA SANTA MARTA N.43-A\n1150-293 LISBOA",
+    "phone": "966689798",
+    "tax_id": "229460720",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-01",
+    "time": "14:25:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 9.95,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 9.95,
+    "accounting_category": "Goods",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Artigo de Vidro",
+      "quantity": 1,
+      "unit_price": 5.95,
+      "total_price": 5.95,
+      "category": "Household",
+      "accounting_category": "Goods",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ferramentas",
+      "quantity": 1,
+      "unit_price": 4.0,
+      "total_price": 4.0,
+      "category": "Tools",
+      "accounting_category": "Goods",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_142929.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ZHANG HUANZHEN\nZhang Huanzhen\nContribuinte Nr: 229460720\nRUA SANTA MARTA N.43-A\n1150-293 LISBOA\nTel: 966689798\n2019-02-01 14:25\nName: FLIKE HOME\nCont. Nr. 510776914\nMorada:\nORIGINAL\nFatura Nr: FAC 202/00016684\nIVA Descricao Total\n0% Artigo de Vidro\n1 X 5.95 5.95\n0% Ferramentas\n1 X 4.00 4.00\nTotal A Pagar Euros: 9.95\nNumero De Artigos: 2\nRecebido (Euros) : 9.95\nTroco (Euros) : 0.00\nIVA-NAO CONFER. DIREITO A DEDUCAO\nTotal: 9.95Euros\nFatura indispensavel para troca em 8 dias.\nWSUi - Processado por Programa\nCertificado Nr: 1174/AT\nOBRIGADO E VOLTE SEMPRE"
+  }
+}

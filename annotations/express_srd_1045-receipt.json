@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Yum's Restaurant",
+    "address": "12355 Laurel Bowie Rd, Laurel, MD 20708",
+    "phone": "(301) 725-5002",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-24",
+    "time": "16:19:00",
+    "currency": "USD",
+    "payment_method": "Cash",
+    "subtotal": 20.78,
+    "tax": 1.25,
+    "tip": 0.0,
+    "total": 22.03,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Steak Cheese Egg Rolls",
+      "quantity": 2,
+      "unit_price": 4.49,
+      "total_price": 8.98,
+      "category": "Appetizer",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "4 Wings w/ French Fries",
+      "quantity": 2,
+      "unit_price": 7.2,
+      "total_price": 14.4,
+      "category": "Entree",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Homemade Half Half",
+      "quantity": 1,
+      "unit_price": 1.89,
+      "total_price": 1.89,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1045-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "YUM'S RESTAURANT\n12355 Laurel Bowie Rd, Laurel, MD 20708\n(301) 725-5002\n6/24/2018 04:19 PM\nWalk_In 347\nServer: Yums\nSteak Cheese Egg Rolls (2) 4.49\n4 Wings w/ French Fries 7.20\n4 Wings w/ French Fries 7.20\nHomemade Half Half 1.89\nFood Subtotal: 20.78\nBev Subtotal: 1.89\nFood Tax: 1.25\nTotal: 22.03\nReceived: 22.03\nChange: 0.00\nPAID Cash\nThank You"
+  }
+}

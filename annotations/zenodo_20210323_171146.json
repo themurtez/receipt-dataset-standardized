@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "GESPOST PORTIMAO CARDOSAS",
+    "address": "POCO SECO CARDOSAS, PORTIMAO",
+    "phone": "281082987",
+    "tax_id": "000000000",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-07-15",
+    "time": "13:44:04",
+    "currency": "EUR",
+    "payment_method": "VISA ELECTRON",
+    "subtotal": 30.96,
+    "tax": 5.65,
+    "tip": 0.0,
+    "total": 31.53,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GASOLEO SIMP",
+      "quantity": 1,
+      "unit_price": 30.96,
+      "total_price": 30.96,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_171146.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GESPOST GESTAO E ADMINISTRACAO DE\nABASTECIMENTO UNIPESSOAL LDA\nAV JOSE MALHO N-16-1099-001 LISBOA\nCAP SOC:2,929.928,11 EUR\nC.R.C.L. NIF:509 769 959\nES PORTIMAO CARDOSAS\nPOCO SECO CARDOSAS 8500-000\nTEL:282 099 887\n\nFACTURA/RECIBO\n\nDATA/HORA 2019-07-15 13:44:04\nN DE OPERACAO:4371/2582703 CAIXA N\nVENDEDOR: CATIA PATRICIA M\n\nVenda de Combustivel\nN. de Bomba 1 GASOLEO SIMP\nE 1,050 Litros a 1,374 OE/Ltr\n\nVenda de Combustivel\nN. de Bomba 1 DIESEL e10\nE 21,330 Litros a 1,424 OE/Ltr 30,96 E\n1 Cash Account 0,00 E\nTotal: 31,53 E\nBANCARIO: 31,53 E\nTROCO 0,00 E\n\nTipo Base\n\n23.0 % 25,65 E 5,90 E 31,53 E\nIncluido a taxa em vigor\n\nDoc Nr: FR 4371TPV3/39008738\nNome: FILKEHOME ALGARVE, LDA\nNIF: 514407395\nMATRICULA: 54CCO4\nMORADA: AV DA LIBERDADE 36 1 B\n\nES REPSOL PORTIMAO\nPOCO SECO - CARDOSAS\nPORTIMAO\nNumero Fiscal de Contribuinte: 000000000\nTerminal Pagamento Automatico: 00879919\nData: 2019/07/15 Hora: 13:43:58\nPeriodo: 050 Transacao: 071 Mensagem: 897\nNumero Comerciante: 0001331164\n\n* * * * *\nS/ALGARVE COMPRA-CHIP 00/00\nCartao 00 ************9730/45 00:01T76\nA0000000032010\nVISA ELECTRON\nConta/Autorizacao: AUT:351327\nMILLENIUM BCP\nEUR: 31,53\nVISA ELEC PP N\n\nDUINCRE\nOVACAO E CONFIANCA\n* * *\nPROCESSADO POR SIBS\n\n* OBRIGADO E BOA VIAGEM *\n"
+  }
+}

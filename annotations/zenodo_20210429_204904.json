@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Petrosalsa, Ltda.",
+    "address": "AV. ELIAS GARCIA, 76 - 3º E, 1049-055 LISBOA",
+    "phone": "219470260",
+    "tax_id": "PT503541549",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-11-19",
+    "time": "17:23:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 40.0,
+    "tax": 7.48,
+    "tip": 0.0,
+    "total": 40.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Gasolina Simples 95",
+      "quantity": 25.74,
+      "unit_price": 1.554,
+      "total_price": 40.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_204904.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "galp\nPRE-PAGAMENTO\nPetrosalsa, Lda. 11174\nPETROSALSA DISTRIBUICAO COMB. LD\nAV. ELIAS GARCIA, 76 - 3º E\n1049-055 LISBOA Tel.: 219470260\nNIF: PT503541549\nFatoura/Recibo\nQuantidade\nPreço\nPreço Unitário\n25.74 L\nBomba 04\nGASOLINA SIMPLES 95\n1.554 EUR / L\nTotal\n23.00 % IVA A\nCliente: 13204\nNome: FLIKE Home\nMorada:\nCodigo Postal:\nNº Contribuinte: 510776914\nMatricula:\nOperador: Ana Sofia\nDoc. N.\nEUR\n40.00 A\nEUR\n40.00\nEUR\n7.48\n01200102812FAAAA00111742019/000019341\nRIrv - Processado por Programa\nCertificado N.º 1396/AT\nData\nHora\nNºTr POS\nNºOp Turno\n19-11-19 17:23 27035 01 0017 890\nRegime IVA de Caixa nos casos em que taí\nseja aplicável ao cliente\nclientes@galp.com | Tel. 707 504 257\nA sua opinião é importante!\nDeixe-a em\nopiniaogalpgal.com/postos\ne receba uma oferta em combustivel\ntotal\nNUMERÁRIO\nEUR\n40.00\nEUR\n40.00\n9 901270350191911200000000040.00 0\n"
+  }
+}

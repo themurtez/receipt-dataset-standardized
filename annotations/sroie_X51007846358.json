@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Old Town White Coffee",
+    "address": "Lot No R134, Giant Hypermarket Plentong, No3, Jalan Masai Lama, 81750 Masai, Johor Bahru",
+    "phone": "+607-3536960",
+    "tax_id": "000750002176",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-03",
+    "time": "15:07:32",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 25.47,
+    "tax": 2.55,
+    "tip": 0.0,
+    "total": 28.02,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SN2 Soup Pan Mee",
+      "quantity": 1,
+      "unit_price": 10.9,
+      "total_price": 10.9,
+      "category": "Main Course",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "ST8",
+      "quantity": 1,
+      "unit_price": 12.97,
+      "total_price": 12.97,
+      "category": "Main Course",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "SN8 Sp Nod Special",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Main Course",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.7
+    },
+    {
+      "name": "VA9 French Fries Bkt",
+      "quantity": 1,
+      "unit_price": 4.15,
+      "total_price": 4.15,
+      "category": "Side Dish",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": -0.02,
+    "change_due": 72.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007846358.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "OLD TOWN WHITE COFFEE\nEXQUISITE GARDEN SDN BHD\n(JM 809642-A)\nLOT NO R134, Giant Hypermarket Plentong\nNo3, Jalan Masai Lama\n81750 Masai, Johor Bahru\nTEL: +607-3536960\nOUTLET: J11 GIANT PLENTONG\nGST ID: 000750002176\n2 COUNTER1 4004 ANICA\nCheck: 21063\n03 Jun 18 03:07:32 PM\nTable: 63 / 1\n----- Dine In -----\n1 SN2 Soup Pan Mee 10.90 S\n1 ST8 12.97 S\n1 SN8 Sp Nod Special S\n1 VA9 French Fries Bkt 4.15 S\nTotal: 28.02\nRounding: 0.02-\nTotal: 28.00\nSubtotal: 25.47\n10% Srv Chg: 2.55\nGST INCLUSIVE 0.00 *\nTotal: 28.02\nRounding: 0.02-\nTotal: 28.00\nPaid:\nCASH 100.00\nChange Due: 72.00\n---4003 CLOSED 03 Jun 18 03:34:54 PM---\nTHANK YOU\nPLEASE COME AGAIN\nGST @0% included in GST @0% included in total\nGSTSummary Amcnt(RM) GST(RM)\nS=GST @0% 28.02 0.00\nZ=GST @0% 0.00 0.00"
+  }
+}

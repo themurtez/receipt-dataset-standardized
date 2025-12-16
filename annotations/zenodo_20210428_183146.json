@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "LELIMEL-MATERIAIS DE CONSTRUCAO, LDA",
+    "address": "Casal Cordeiro, 2655-000 Ericeira",
+    "phone": "261862767",
+    "tax_id": "501326970",
+    "website": "geral@lelimel.pt"
+  },
+  "transaction": {
+    "date": "2019-01-03",
+    "time": "09:00:00",
+    "currency": "EUR",
+    "payment_method": "Document paid at time of issue",
+    "subtotal": 8.46,
+    "tax": 1.94,
+    "tip": 0.0,
+    "total": 10.4,
+    "accounting_category": "Construction Materials",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "FECHADURA C/CANHAO REF.727",
+      "quantity": 1,
+      "unit_price": 8.46,
+      "total_price": 10.4,
+      "category": "Lock Hardware",
+      "accounting_category": "Construction Materials",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_183146.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "LELIMEL-MATERIAIS DE CONSTRUCAO, LDA\nCasal Cordeiro 2655-000 Ericeira\nTel: 261862767\nNIF: 501326970\nEmail: geral@lelimel.pt\nFatura-recibo N° FR 14/8263\nDados do Cliente\nFEELS LIKE HOME\n1350-310 LISBOA\nN° Contribuinte 510776914\nData de emissao: 2019-01-03 09:00\nData de entrega: 03.01.2019\nRef Design QTD Desc P.Unit IVA P.Total\nFERRAO29 FECHADURA C/CANHAO REF.727\n1.000 10.40 23.00 10.40\nTaxa Base de Incidencia Valor do I.V.A.\n3.00%\n13.00%\n23.00% 8.46 1.94\nTotal Liquido: 8.46\nDesconto Comercial:\nDesconto Financeiro:\nBase de Incidencia de I.V.A.: 8.46\nTotal de I.V.A.: 1.94\nTOTAL DO DOCUMENTO EUR 10.40\nTROCO EUR\nDocumento pago no acto de emissao\nTalao indispensavel para efeito de trocas\nLocal Carga Nossas instalacoes\nLocal de descarga: Morada do Cliente\nData/Hora carga: 03.01.2019 09:00\nDocumento Processado por Computador\nObrigado - Volte Sempre"
+  }
+}

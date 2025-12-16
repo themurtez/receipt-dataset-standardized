@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Domes",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Debit Card",
+    "subtotal": 55454.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 60999.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Nutella Cheese",
+      "quantity": 1,
+      "unit_price": 27272.0,
+      "total_price": 27272.0,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Toblerone BanCheese",
+      "quantity": 1,
+      "unit_price": 28182.0,
+      "total_price": 28182.0,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 2.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000263.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Nutella Cheese 27,272\n1 Toblerone BanCheese 28,182\nSubTotal: 55,454\nPBI: 5,545\nTotal: 60,999\nDebit Card: 60,999"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Go-Pay",
+    "subtotal": 78000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 78000.0,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Dumpling",
+      "quantity": 1,
+      "unit_price": 9000.0,
+      "total_price": 9000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Jamur Kuping",
+      "quantity": 1,
+      "unit_price": 8000.0,
+      "total_price": 8000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Caisim Kecil",
+      "quantity": 1,
+      "unit_price": 7000.0,
+      "total_price": 7000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lapchiong",
+      "quantity": 2,
+      "unit_price": 12000.0,
+      "total_price": 24000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Otak-otak Singapore",
+      "quantity": 2,
+      "unit_price": 11000.0,
+      "total_price": 22000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Bihun (MLY)",
+      "quantity": 1,
+      "unit_price": 8000.0,
+      "total_price": 8000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000294.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Dumpling 9.000\n1 Jamur Kuping 8.000\n1 Caisim Kecil 7.000\n2 Lapchiong\n12000 24.000\n2 Otak-otak Singapore\n11000 22.000\n1 Bihun (MLY) 8.000\nSubtotal 78.000\nTOTAL 78.000\nGo-Pay static QR 78.000"
+  }
+}

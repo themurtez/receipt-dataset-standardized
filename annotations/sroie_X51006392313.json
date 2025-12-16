@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "SUPER SEVEN CASH & CARRY SDN BHD",
+    "address": "NO. 1 Jalan Euro 1, Cff Jalan Batu Tiga, Sungai Buloh Seksyen U3 Shah Alam, 40150",
+    "phone": "03-76590861",
+    "tax_id": "000639099688",
+    "website": "http://www.super7.com.my"
+  },
+  "transaction": {
+    "date": "2017-06-22",
+    "time": "10:20:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 26.81,
+    "tax": 1.22,
+    "tip": 0.0,
+    "total": 28.05,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "KK KACANG GORENG 400G",
+      "quantity": 3,
+      "unit_price": 7.2,
+      "total_price": 21.6,
+      "category": "Grocery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TERUNG PENDEK",
+      "quantity": 1,
+      "unit_price": 3.15,
+      "total_price": 3.15,
+      "category": "Vegetables",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "HALIA MUDA LOCAL",
+      "quantity": 1,
+      "unit_price": 2.3,
+      "total_price": 2.3,
+      "category": "Vegetables",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BAWANG BESAR INDIA",
+      "quantity": 1,
+      "unit_price": 0.98,
+      "total_price": 0.98,
+      "category": "Vegetables",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.02,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006392313.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SUPER SEVEN CASH & CARRY SDN BHD\n(590150-A) PASARAYA BORONG SUPER SEVEN\nNO. 1 Jalan Euro 1, Cff Jalan Batu Tiga\nSungai Buloh Seksyen U3 Shah Alam,40150\nhttp://www.super7.com.my\nTEL: 03-76590861 FAX: 03-76590864\nGST ID: 000639099688\nTAX INVOICE\nTAX INVOICE NO: 138652 COUNTER :002\nOPERATOR: [NORIZZATI BT MOHD ZU-CASHIER]\n22-06-2017 10:20:00 AM\n(RM)\nKK KACANG GORENG 400G @7.20\n9556524004265 *3 21.60 SR\nTERUNG PENDEK @3.15\n42066 *1 3.15 ZR\nHALIA MUDA LOCAL @2.30\n42006 *1 2.30 ZR\nBAWANG BESAR INDIA @0.98\n42901 *1 0.98 ZR\nQUANTITY : 6 Units\nTotal Sales (Incl. GST 6%) RM28.03\nRounding Adjustment RM0.02\nNet Total RM28.05\nPayment Method CASH\nReceived Cash RM28.05\nChange RM0.00\nGST Summary Sales Amt\n(RM)\nSR (6%) 20.38 1.22\nZR (0%) 6.43 0.00\nPLEASE VERIFY YOUR RECEIPT\nBEFORE LEAVING THE COUNTER.\nGOODS SOLD ARE NOT RETURNABLE.\nTHANK YOU"
+  }
+}

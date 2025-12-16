@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "J.J. Figueira, Lda",
+    "address": "R. Marquês de Fronteira, Nº70 A, 1070-299 LISBOA",
+    "phone": "213873247",
+    "tax_id": "501597474",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-10-02",
+    "time": "17:00:00",
+    "currency": "EUR",
+    "payment_method": "CASH",
+    "subtotal": 1.71,
+    "tax": 0.39,
+    "tip": 0.0,
+    "total": 2.1,
+    "accounting_category": "Purchase",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "FISCHER SILICONE PINTAVEL",
+      "quantity": 1,
+      "unit_price": 2.1,
+      "total_price": 2.1,
+      "category": "Hardware",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_194859.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "J.J. Figueira, Lda\nR. Marquês de Fronteira, Nº70 A\n1070-299 LISBOA\nEmail: j.j.figueira@sapo.pt\nTel.: 213873247 Fax: 213836368\nNIF: 501597474\nCRC de LISBOA 61732\nCapital Social: 49878,79€\n\nNome: FLIKEHOME, LDA\nMorada: RUA SARAIVA DE CARVALHO,\nN. 244 - 3º DTO.\n1250-000 LISBOA\nContribuinte: 510776914\n\nFATURA SIMPLIFICADA Nº 3378/201\n\nDATA: 02/10/2019 HORA: 17:00\nQtd. | Preço C/IVA Desc. | Iva | Total\nFISCHER SILICONE PINTAVEL\n1,000 | 2,10 | 0% | 23% | 2,10\n\nTOTAL: 2,10\n\nDescontos: 0,00\n\nDetalhe da Liquidação\nDINHEIRO 2,10\n\nDetalhe do IVA\n\nTaxa | Incidência | Valor | Total\n23% | 1,71 | 0,39 | 2,10\n\nViatura:\nMorada Origem: R. Marquês de Fronteira, Nº70 A\n1070-299 LISBOA\n\nMorada Destino:\n\nTrocas ou devoluções até 8 dias com\napresentação do original.\n\nO material foi posto à disposição do adquirente na\ndata do documento, Art. 36 do CIVA, N.5 Alínea F\n\nU7Pc - Processado por programa ce\nnº 0097/AT Magnisoft - OranGest v\n\nOBRIGADO PELA VISITA\nVOLTE SEMPRE"
+  }
+}

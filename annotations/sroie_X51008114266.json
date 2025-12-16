@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "99 Speed Mart S/B",
+    "address": "Lot P.T. 2811, Jalan Angsa, Taman Berkeley, 41150 Klang, Selangor",
+    "phone": "",
+    "tax_id": "000181747712",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-13",
+    "time": "15:46:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 21.6,
+    "tax": 1.31,
+    "tip": 0.0,
+    "total": 22.91,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "KNORR CHICKEN STOCK 1K",
+      "quantity": 1,
+      "unit_price": 16.85,
+      "total_price": 16.85,
+      "category": "Food",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "HYGIENIC 7.5 INCH COLO",
+      "quantity": 1,
+      "unit_price": 6.06,
+      "total_price": 6.06,
+      "category": "Household",
+      "accounting_category": "Household Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": -0.01,
+    "change_due": 27.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008114266.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "99 SPEED MART S/B (519537-X)\nLOT P.T. 2811, JALAN ANGSA,\nTAMAN BERKELEY\n41150 KLANG, SELANGOR\n1237-TMN INDAH PERDANA\nGST ID. NO : 000181747712\nINVOICE NO : 18396/102/T0362\n03:46PM 568268 13-05-18\n0715 KNORR CHICKEN STOCK 1K RM16.85\n5596 HYGIENIC 7.5 INCH COLO RM6.06\n@6 X RM 1.01\nTotal Sales (Inclusive GST) RM 22.91\nRounding Adjustment RM -01\nRounding RM 22.90\nCASH RM 50.00\nCHANGE RM 27.10\nGST Summary Amount(RM) Tax(RM)\n@ 6% 21.60 1.31\nThank You. Please come again\nKeep the invoice for applicable returns"
+  }
+}

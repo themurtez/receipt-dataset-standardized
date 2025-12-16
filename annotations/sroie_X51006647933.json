@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "RESTORAN HOETIM",
+    "address": "1-G, JALAN OS 1/3, ONE SELAYANG, OFF JALAN RAWANG 68100 B.CAVES",
+    "phone": "",
+    "tax_id": "000119910400",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-28",
+    "time": "20:15:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 78.3,
+    "tax": 4.7,
+    "tip": 0.0,
+    "total": 83.0,
+    "accounting_category": "Meals and Entertainment",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Squid S",
+      "quantity": 1,
+      "unit_price": 25.0,
+      "total_price": 25.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Noodles S",
+      "quantity": 1,
+      "unit_price": 8.0,
+      "total_price": 8.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Vegetable S",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Meat S",
+      "quantity": 1,
+      "unit_price": 22.0,
+      "total_price": 22.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Rice S",
+      "quantity": 3,
+      "unit_price": 1.5,
+      "total_price": 4.5,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Others S",
+      "quantity": 4,
+      "unit_price": 1.7,
+      "total_price": 6.8,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 11,
+    "rounding": 0.0,
+    "change_due": 17.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006647933.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "RESTORAN HOETIM\n(002612214-H)\n1-G,JALAN OS 1/3,ONE SELAYANG\nOFF JALAN RAWANG 68100 B.CAVES\nGST NO:000119910400\n(TAX INVOICE)\n\nDATE 28/05/2018 MON TIME 20:15\n\nTABLE #12\nSQUID S RM25.00\nNOODLES S RM8.00\nVEGETABLE S RM12.00\nMEAT S RM22.00\n3X @ 1.50\nRICE S RM4.50\n4X @ 1.70\nOTHERS S RM6.80\n\n11.00x ITEMS\n\nSUBTOTAL RM78.30\nTTL RM78.30\nGST 6% RM4.70\nCHECKS PAID RM83.00\nTOTAL RM83.00\nCASH RM100.00\nCHANGE RM17.00\n\nCHK # : 2"
+  }
+}

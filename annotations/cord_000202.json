@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Debit",
+    "subtotal": 46364.0,
+    "tax": 4636.0,
+    "tip": 0.0,
+    "total": 51000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chicken Katsu Curry Udon",
+      "quantity": 1,
+      "unit_price": 46364.0,
+      "total_price": 46364.0,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000202.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CHICKEN KATSU CURRY UDON 1 46,364\nSUB. TOTAL 46,364\nRESTAURANT TAX 4,636\nGRAND TOTAL 51,000\n~BCA DEBI. [51,000]\nChange: 0"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "GREEN LANE PHARMACY SDN BHD",
+    "address": "33 JLN BANGAU 1, KEPONG BARU, 52100 KEPONG, KL",
+    "phone": "62760693",
+    "tax_id": "001888309248",
+    "website": "FARMASI ALPHA.COM"
+  },
+  "transaction": {
+    "date": "2016-12-13",
+    "time": "09:52:15",
+    "currency": "MYR",
+    "payment_method": "VISA",
+    "subtotal": 180.1,
+    "tax": 8.7,
+    "tip": 0.0,
+    "total": 180.1,
+    "accounting_category": "pharmacy",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "IBUPROFEN 400MG 10",
+      "quantity": 3,
+      "unit_price": 3.0,
+      "total_price": 9.0,
+      "category": "medication",
+      "accounting_category": "pharmacy",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "AMOXICAP 500MG CAPSULE",
+      "quantity": 2,
+      "unit_price": 6.0,
+      "total_price": 12.0,
+      "category": "medication",
+      "accounting_category": "pharmacy",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "NOFLUX TAB 90MG 10",
+      "quantity": 5,
+      "unit_price": 4.0,
+      "total_price": 19.98,
+      "category": "medication",
+      "accounting_category": "pharmacy",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "FEBRICOL - RX 10",
+      "quantity": 2,
+      "unit_price": 2.7,
+      "total_price": 5.4,
+      "category": "medication",
+      "accounting_category": "pharmacy",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "VITAMORE EPO 1000MG",
+      "quantity": 2,
+      "unit_price": 48.0,
+      "total_price": 96.0,
+      "category": "supplement",
+      "accounting_category": "pharmacy",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "NOVA ROSELLE & F VIT",
+      "quantity": 1,
+      "unit_price": 28.6,
+      "total_price": 28.6,
+      "category": "supplement",
+      "accounting_category": "pharmacy",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 15,
+    "rounding": -0.02,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619561.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GREEN LANE PHARMACY SDN BHD\n33 JLN BANGAU 1,KEPONG BARU,\n52100 KEPONG,KL\nTEL : 62760693 FAX : 62760693\nBRN : 631002-U\nGST No : 001888309248\n\nTAX INVOICE\nInv No : 16-073042\nDATE : 12/13/2016 9:52:15 AM\n\n1)9557892102639 IBUPROFEN 400MG 10\n3.00 X 3.00 9.00 z\n2)0253K AMOXICAP 500MG CAPSU\n2.00 X 6.00 12.00 z\n3)9557892201011 NOFLUX TAB 90MG 10\n5.00 X 4.00 19.98 *\n4)955649200237K FEBRICOL -RX 10\n2.00 X 2.70 5.40 z\n5)7316254986387 VITAMORE EPO 1000MG\n2.00 X 48.00\nDISC -28.00 108.00 *\n6)9555197602366 NOVA ROSELLE &F VIT\n1.00 X 28.60 28.60\n\nRounding : 0.02\nTOTAL : 180.10\n( GST : 8.70 )\n\nPAYMENT :\nTOTAL PAYMENT : 180.10\nCHANGE : 0.00\n> VISA 180.10\n\nRate % TOTAL GST\n * : 6% 144.98 8.70\n z : 0% 26.40 0.00\n\nLEE MEI YEIN\n\nPrev Balance : 2651\nPoints Earn : 171 (Complete)\nFARMASI ALPHA.COM\nGOODS SOLD ARE NOT RETURNABLE\n* Total Sales Inclusive GST @ 6% *"
+  }
+}

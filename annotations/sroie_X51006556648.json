@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "GARDENIA BAKERIES (KL) SDN BHD",
+    "address": "Lot 3, Jalan Pelabur 23/1, 40300 Shah Alam, Selangor.",
+    "phone": "03-55423228",
+    "tax_id": "000381399040",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-08-20",
+    "time": "10:54:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 53.8,
+    "tax": 1.34,
+    "tip": 0.0,
+    "total": 55.14,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "O.C. WHITE",
+      "quantity": 4,
+      "unit_price": 2.13,
+      "total_price": 8.52,
+      "category": "Bakery",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "WHOLEMEAL",
+      "quantity": 4,
+      "unit_price": 2.78,
+      "total_price": 11.12,
+      "category": "Bakery",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "O.C JUMBO",
+      "quantity": 4,
+      "unit_price": 2.97,
+      "total_price": 11.88,
+      "category": "Bakery",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CR-CHOCLT",
+      "quantity": -6,
+      "unit_price": 0.72,
+      "total_price": -4.32,
+      "category": "Confectionery",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TWIG-CHOC",
+      "quantity": 20,
+      "unit_price": 1.33,
+      "total_price": 26.6,
+      "category": "Confectionery",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 18,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006556648.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GARDENIA BAKERIES (KL) SDN BHD (139386 X)\nLot 3, Jalan Pelabur 23/1,\n40300 Shah Alam, Selangor.\nTel: 03-55423228 Fax:03-554232313\nGST ID: 000381399040\n\nTAX INVOICE / ADJUSTMENT NOTE\nCash Inv No.: 7820F713\nDate: 20/08/2017\n\nVE0514\nMAKASSAR FRESH MARKET SDN BHD\nGROUND FLOOR, NO. 4 & 6,\nJALAN SS 15/4B,\n47500 SUBANG JAYA, SELANGOR\nVE05: Ridzuan(11900)\n\nDD: 20/08/2017 10:54\n\nDescription U.P Iss Exc D Sale Amt(RM)\nO.C. WHITE 2.13 5 1 0 4 8.52\nWHOLEMEAL 2.78 5 1 0 4 11.12\nO.C JUMBO 2.97 4 0 4 4 11.88\n\nTotal 0% supplies: 31.52\n\nCR-CHOCLT 0.72 0 6 0 -6 -4.32\nTWIG-CHOC 1.33 20 0 0 20 26.60\n\nTotal 6% supplies (excl. GST): 22.28\nGST: 1.34\n\nTotal 6% supplies (Inc. GST): 23.62\nTotal 0% supplies: 31.52\nTotal Payable: 55.14\n\nE.&O.E.\nReceived above goods in good order condition.\nThe recipient of Gardenia's products is\nrequired to make necessary adjustments to its\ninput tax claims, on the basic of the\nadjustments shown in this Tax Invoice /\nAdjustment Note\n\nCUSTOMER'S COPY"
+  }
+}

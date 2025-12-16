@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Hedleys",
+    "address": "640 N Robertson Blvd, West Hollywood, CA 90069",
+    "phone": "310-659-2009",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-06-05",
+    "time": "14:52:00",
+    "currency": "USD",
+    "payment_method": "Credit Card",
+    "subtotal": 41.45,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 41.45,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Credit Sale",
+      "quantity": 1,
+      "unit_price": 41.45,
+      "total_price": 41.45,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1176-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "HEDLEYS\n640 N ROBERTSON BLVD\nWEST HOLLYWOOD CA 90069\n310-659-2009\n\nTerminal ID: 01528251              3430\n---------------------------------\n6/5/17                                    2:52 PM\n\nCREDIT SALE\nUID: 715615506682      REF #: 9395\nBATCH #: 554           AUTH #: 065231\n\nAMOUNT                       $41.45\nTIP\nTOTAL\n\nAPPROVED\n\nTC - C0347EEBBF2C362B\n\nCUSTOMER COPY"
+  }
+}

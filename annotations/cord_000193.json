@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 1376500.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 1376500.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BAK MANDI (BAK MANDI TAIWAN BESAR)",
+      "quantity": 1,
+      "unit_price": 125000.0,
+      "total_price": 125000.0,
+      "category": "Home Goods",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TATAKAN MANDI (JARING MANDI JALA)",
+      "quantity": 1,
+      "unit_price": 50000.0,
+      "total_price": 50000.0,
+      "category": "Home Goods",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BAJU ATASAN (PETITE MIMI ROMPER 3D FOREST)",
+      "quantity": 1,
+      "unit_price": 53000.0,
+      "total_price": 53000.0,
+      "category": "Clothing",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ACCESORIES (SUN BABES PENUTUP MATA)",
+      "quantity": 1,
+      "unit_price": 27500.0,
+      "total_price": 27500.0,
+      "category": "Accessories",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "KAPAS (KAPAS MEDISOFT COTTON BALL 120)",
+      "quantity": 3,
+      "unit_price": 7000.0,
+      "total_price": 21000.0,
+      "category": "Personal Care",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "JOIE KUBBIE (BABY BOX)",
+      "quantity": 1,
+      "unit_price": 1100000.0,
+      "total_price": 1100000.0,
+      "category": "Baby Products",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000193.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BAK MANDI (BAK MANDI TAIWAN BESAR)\n500900014\n125,000\nTATAKAN MANDI (JARING MANDI JALA) -\n502100007\n50,000\nBAJU ATASAN(PETITE MIMI ROMPER 3D\nFOREST / RM0003) 1000600098\n53,000\nACCESORIES(SUN BABES PENUTUP MATA)\n804100017\n27,500\nKAPAS (KAPAS MEDISOFT COTTON BALL 120) 8991038772194\n3 7,000\n21,000\nJOIE KUBBIE(BABY BOX) 901800109\n1,100,000\nQty: 8 Amount: 1,376,500"
+  }
+}

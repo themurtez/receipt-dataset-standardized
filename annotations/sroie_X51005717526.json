@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "McDonald's Rawang DT(#188)",
+    "address": "No.3, Jalan SS21/39, 47400 Petaling Jaya, Selangor",
+    "phone": "03-6092-1968",
+    "tax_id": "000504664064",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-02",
+    "time": "12:59:16",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 26.89,
+    "tax": 1.61,
+    "tip": 0.0,
+    "total": 28.5,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "McChicken",
+      "quantity": 1,
+      "unit_price": 11.1,
+      "total_price": 11.1,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Coke",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Drink",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Fries",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "6 Nuggets",
+      "quantity": 1,
+      "unit_price": 7.5,
+      "total_price": 7.5,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Barbecue Sauce",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Condiment",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "AyamGoreng(TA)",
+      "quantity": 1,
+      "unit_price": 9.9,
+      "total_price": 9.9,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 21.5
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005717526.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Gerbang Alaf Restaurants Sdn Bhd\n(65351-M)\nformerly known as \nGolden Arches Restaurants Sdn Bhd\nLicensee of McDonald's\nLevel 6, Bangunan TH, Damansara Uptown3\nNo.3, Jalan SS21/39,47400 Petaling Jaya\nSelangor\n(GST ID No: 000504664064)\nMcDonald's Rawang DT(#188)\nTel No. 03-6092-1968\nTAX INVOICE\nMFY Side 1\nINV# 001881904569068\nORD #15 -REG #19- 02/03/2018 12:59:16\nQTY ITEM TOTAL\n1 L McChicken 11.10\n1 L Coke \n1 L Fries \n1 6Nuggets 7.50\n1 Barbecue Sauce\n1 AyamGoreng(TA) 9.90\nTakeOut Total (incl GST) 28.50\nTotal Rounded 28.50\nCash Tendered 50.00\nCh 21.50\nTOTAL INCLUDES 6% GST 1.61\nThank You and Please Come Again."
+  }
+}

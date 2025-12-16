@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "TL",
+    "payment_method": "cash",
+    "subtotal": 70.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 70.0,
+    "accounting_category": "entertainment",
+    "category_confidence": 0.8
+  },
+  "items": [
+    {
+      "name": "H COUPLE SEA",
+      "quantity": 1,
+      "unit_price": 70.0,
+      "total_price": 70.0,
+      "category": "ticket",
+      "accounting_category": "entertainment",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000039.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "H COUPLE SEA 70,000\nTL 70,000\nCASH 70,000"
+  }
+}

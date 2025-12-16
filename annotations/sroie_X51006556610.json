@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "PINGHWAI TRADING SDN BHD",
+    "address": "NO.2, JALAN METRO PERDANA TIMUR 11, KEPONG ENTERPRENUERS PARK, OFF JALAN KEPONG, 52100 KUALA LUMPUR.",
+    "phone": "603-62591420",
+    "tax_id": "001371123712",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-08-22",
+    "time": "15:01:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 393.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 393.0,
+    "accounting_category": "Sales",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "UDANG KERING",
+      "quantity": 20.0,
+      "unit_price": 16.0,
+      "total_price": 320.0,
+      "category": "Groceries",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "FISH MAW (SWIMMING BLADDER)",
+      "quantity": 1.0,
+      "unit_price": 73.0,
+      "total_price": 73.0,
+      "category": "Groceries",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 21,
+    "rounding": 0.0,
+    "change_due": 7.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006556610.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PINGHWAI TRADING SDN BHD\n(1211036-W)\nNO.2, JALAN METRO PERDANA TIMUR 11,\nKEPONG ENTERPRENUERS PARK,\nOFF JALAN KEPONG,\n52100 KUALA LUMPUR.\nTEL: 603-62591420 FAX: 603-62592420\nGST ID : 001371123712\nTAX INVOICE\nBill To :\nMAKASSAR FRESH MARKET S/B\nDoc No. : CS00017430 Date: 22/08/2017\nCashier : USER Time: 15:01:00\nSalesperson : Ref.:\nitem Qty S/Price (GST)\nS/Price (GST)\nAmount Tax\n17007\nUDANG KERING\n23001J\nTotal Qty:\nFISH MAW (SWIMMING BLADDER)\n20.00 16.00 16.00 320.00 ZRL\n1.00 73.00 73 06 73.00 ZRL\n21.00\nTotal Sales (Excluding GST): 393.00\nDiscount : 0.00\nTotal GST : 0.00\nRounding : 0.00\nTotal Sales (Inclusive of GST) : 393.00\nCASH : 400.00\nChange : 7.00\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nZRL 0 393.00 0.00\nTotal : 393.00 0.00\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU."
+  }
+}

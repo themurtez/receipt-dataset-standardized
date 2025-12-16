@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "CASH",
+    "subtotal": 770000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 770000.0,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "MANUKA HONEY",
+      "quantity": 2,
+      "unit_price": 385000.0,
+      "total_price": 770000.0,
+      "category": "Grocery",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000665.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "2X MANUKA HONEY 385,000\nMANUKA HONEY 770,000\nTL 770,000\nCASH 770,000\n"
+  }
+}

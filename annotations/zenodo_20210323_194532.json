@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "FlixHomealgarve, Lda",
+    "address": "Avenida da Liberdade nº 36 1º Andar 1250-145 Lisboa",
+    "phone": "",
+    "tax_id": "514407395",
+    "website": "www.cp.pt"
+  },
+  "transaction": {
+    "date": "2019-02-20",
+    "time": "10:48:22",
+    "currency": "EUR",
+    "payment_method": "Cartão de Debito",
+    "subtotal": 21.13,
+    "tax": 1.27,
+    "tip": 0.0,
+    "total": 22.4,
+    "accounting_category": "Travel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Train Ticket: Loule to Lisboa Oriente",
+      "quantity": 1,
+      "unit_price": 22.4,
+      "total_price": 22.4,
+      "category": "Transport",
+      "accounting_category": "Travel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_194532.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Bilhete nº: 2545-305648\nFatura nº: FT 2545/005034\nData: 2019-02-20 10:48:22\nLocal: Loule\nEquipamento: PV01 Loule (X27496)\nTurno Nº: 2545-4696\nOperador: Bruno Santos\nNome: FlixHomealgarve,Lda\nMorada: Avenida da Liberdade nº 36 1º B Andar 1250-145 L\nisboa\nN Contribuinte: 514407395\nLoule -> Lisboa Oriente\nIda: 2019-02-20\nLoule -> Lisboa Oriente\nComb: 186 Hora: 16:11 ALFA Tur\nCarr: 5 Lug: 72\nTotal: € 22,40\n€ 22,40\nValor Liquido: € 21,13\nValor Iva (8%): € 1,27\nForma pagamento: Cartão de Debito\nEm caso de devolução ou troça é obrigatória a\napresentação do cartão bancário utilizado na compra.\nBJIT-Processado por programa certificado nº 2239/AT\nApoio ao Cliente 707 210 220\n(0,10 €/min - rede fixa 0,25 €/min - rede móvel) + IVA\nwww.cp.pt\nDescarregue gratuitamente a App CP e compre viagens em\nAlfa Pendular, Intercidades e complemento de viagem em\nRegionais/InterRegionais.\n4.9.2.0"
+  }
+}

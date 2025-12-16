@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "KING'S CONFECTIONERY S/B",
+    "address": "LOT NO. G23, GIANT KELANA JAYA, LOT PT244, JLN PERBANDARAN SS6/4, PUSAT BANDAR KELANA JAYA, PETALING",
+    "phone": "03 - 7803 0974",
+    "tax_id": "000294060032",
+    "website": "www.kings.com.my"
+  },
+  "transaction": {
+    "date": "2017-02-02",
+    "time": "19:46:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 7.5,
+    "tax": 0.42,
+    "tip": 0.0,
+    "total": 7.5,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SCONE - M",
+      "quantity": 1,
+      "unit_price": 7.5,
+      "total_price": 7.5,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 12.5
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006335547.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KING'S CONFECTIONERY S/B 273500-U (GKJ)\nLOT NO. G23, GIANT KELANA JAYA\nLOT PT244, JLN PERBANDARAN SS6/4\nPUSAT BANDAR KELANA JAYA, PETALING\nTEL NO: 03 - 7803 0974\n(GST ID: 000294060032)\n\nTax Invoice\n\nInv No :6KJ30785499 Date:02/02/17 19:46\nCashier:FT10060 Ctr :01\n\n----------------------------\n\nCode Desc Qty RM D% Amt\n\n201026 SCONE - M 1 7.50 0 7.50 S\n\nQty 1 7.50\nRounding Adj 0.00\n\nDue 7.50\nPay 20.00\n\n----------------------------\n\nChange 12.50\n\n============================\n\n(Total Included GST @ 6% : 0.42)\n\nGOODS SOLD NOT RETURNABLE/EXCHANGEABLE!\nTHANK YOU PLEASE COME AGAIN!!\nTASTY BAKING HEALTHY NATION!!!\n==Visit us online at www.kings.com.my=="
+  }
+}

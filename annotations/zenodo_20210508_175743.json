@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "ROGERIO PAIS, LDA",
+    "address": "AVENIDA ALMIRANTE REIS, 9-E, 1150-007 LISBOA",
+    "phone": "218853901",
+    "tax_id": "500540000",
+    "website": "www.ticasgest.pt"
+  },
+  "transaction": {
+    "date": "2018-06-15",
+    "time": "16:14:00",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 20.33,
+    "tax": 4.67,
+    "tip": 0.0,
+    "total": 25.0,
+    "accounting_category": "Hardware",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Regua LED 36W 1,20 mt",
+      "quantity": 1,
+      "unit_price": 20.33,
+      "total_price": 25.0,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_175743.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROGERIO PAIS, LDA\nFERRAGENS * FERRAMENTAS * MAQUINAS * UTILIDADES\nAVENIDA ALMIRANTE REIS, 9-E * 1150-007 LISBOA\nTel/Fax 218853901 Tel. 960068696\n* Sociedade por quotas * Capital Social\n5.012,92€ REG.CRC: 34852\nNIB: 0033 0000 01280286463 52\n\n2018-06-15 FATURA SIMPLIFICADA N:\nOriginal FS 1A1801/5156\n16:14 BALCAO 1\n\nContribuinte: 510776914\n\nDESCRICAO         IVA    VALOR\n1 Regua LED 36W 1,20 mt  23%   25,00\n\nTAXA         IVA    INCID.\n23%          4,67   20,33\n\nTOTAL: Eur 25,00\n\nPago em Numerario\nValor entregue: 25,00\nTroco: 0,00\n\nImplementado por www.ticasgest.pt\n\njfu5-Processado por programa\ncertificado n. 217/AT\n\nOs serviços e/ou bens foram realizados e/ou colo\ncados a disposição do adquirente nesta data (Art\n. 36 do CIVA, No5 allInea F)\n\nLicenca: ROGERIO PAIS, LDA\nContribuinte: 500540000"
+  }
+}

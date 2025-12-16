@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "PAULA E RICARDO LDA",
+    "address": "LISBOA",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-01-02",
+    "time": "08:33:32",
+    "currency": "EUR",
+    "payment_method": "VISA ELECTRON",
+    "subtotal": 9.46,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 9.46,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "COMPRA",
+      "quantity": 1,
+      "unit_price": 9.46,
+      "total_price": 9.46,
+      "category": "Retail",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_202626.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CAIXA AGRICOLA DE MAFRA\nC Banco mais perto de si\nPAULA E RICARDO LDA\nLISBOA \nIdent.: TPA: 00218027\n201-01-02 08:33:32\nPer: 005 Tr: 004 Mg: 34 \nMILLENIUM BCP \nCAR AO: *7764/05\nA000000032010\nVISA ELECTRON\nCOMPRA 9,46 €\nId.Estab.: 0003015406\nAUT: 186203 VELC PP N\nREDUNICKE\nINOVACAO E CONFIANCA\nPROCESSADO POR SIBS"
+  }
+}

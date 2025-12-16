@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "FLAZZ",
+    "subtotal": 15455.0,
+    "tax": 1546.0,
+    "tip": 0.0,
+    "total": 17000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CHOCO ALMOND",
+      "quantity": 1,
+      "unit_price": 18182.0,
+      "total_price": 18182.0,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": -1.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000147.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 CHOCO ALMOND 18,182\n*Gula Murni 100%\nSubtotal 18,182\n-15% DISC -2,727\nSubtotal 15,455\nPAJAK 10% 1,546\n1 Total 17,001\n++Rounding -1\nFLAZZ 17,000"
+  }
+}

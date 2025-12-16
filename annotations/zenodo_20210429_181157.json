@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "BP ARFEIRO",
+    "address": "Av. Almirante Reis, Coirinhas, Lisboa",
+    "phone": "",
+    "tax_id": "506485246",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-08-28",
+    "time": "17:15:42",
+    "currency": "EUR",
+    "payment_method": "Visa Electron",
+    "subtotal": 33.85,
+    "tax": 3.89,
+    "tip": 0.0,
+    "total": 33.85,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "GASOLEO BOMBA IVR",
+      "quantity": 1,
+      "unit_price": 31.45,
+      "total_price": 31.45,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "LUSO DE FRUTA FRUTOS VER.",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.4,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "DESCONTO Luso Fruta",
+      "quantity": 1,
+      "unit_price": -0.2,
+      "total_price": -0.2,
+      "category": "Discount",
+      "accounting_category": "Discount",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_181157.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BP ARFEIRO\nJoão Motas & Cordeiro, Unipessoal, Lda\nSede: Av. Almirante Reis, Coirinhas\n1000-016 Lisboa\nMatricula NIF: 506485246\nCapital Social: 5.000,00 EUR\nTel: 912214870\n\nPOS 3 Ref: 5427 Te: Rafael\nData de emissa̪o: 2019-08-28 17:15:42\n\n************************************\nPRE PAGO\nGASOLEO BOMBA IVR 4,642L x 1.339 EUR/L\n30,92 * 1,41 43.34 EUR \n\nLUSO DE FRUTA FRUTOS VERM 2.09 EUR 4\nDESCONTOS Luso Fruta\n\n31,85 EUR\n*********\nMultibanco\nIVA: 23% 5.82 3,393 \nIVA A 23,00 ? 5,289 1.19 31,85\n\nRefreg: Item: Tabaco 16.346/58\n\nFatura-Recibo Nt: 2700630033/728\nIVA5 Processado por Progama Certificado\nNr: 0177A\n\nResposta (0):\nClient: MOTAÇÃO EDIFÍCIO\nManual Carga: Q-003/752\nR. Saraiva de Carvalho, 1056 \n1350-304 Lisboa 617\n\nNumero Cartão:****1*1*7501\nPontos Emitidos: 23\nPontos por Promosão: 0\nPontos Atuais: 2410\nSaldo Disponível Poupança: 0.90 EUR\nExpira em 3,90: 0.00 EUR\n\nBP ARFEIRO LISBOA\n\nTerminal Pagamento Automático: 003/952\n2019-05-28 17:15 - Term: 1045 19/9623\nNOVO BANCO\nNORMA PINTO PEREIRA\nCartão: *****420/25\nAmount/Valor: 31.85 EUR\nVisa Electron\nCompra: 39.45 EUR VI Exclusive DB N\nID Fraud_detect: AU-541969\n\nCONFIANCE\nPROCESADO POR JTI EX\n"
+  }
+}

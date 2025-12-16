@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "CTT Correios de Portugal",
+    "address": "Av. D. Joao II, n. 13, 1999-001 Lisboa",
+    "phone": "",
+    "tax_id": "N.U.P.C.M. 500077568",
+    "website": "www.ctt.pt"
+  },
+  "transaction": {
+    "date": "2018-12-04",
+    "time": "15:29:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 3.95,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 3.95,
+    "accounting_category": "Postal Services",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Correio Verde",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Postal Service",
+      "accounting_category": "Postal Services",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Serv. Especial de Registo",
+      "quantity": 1,
+      "unit_price": 1.7,
+      "total_price": 1.7,
+      "category": "Postal Service",
+      "accounting_category": "Postal Services",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Aviso Recep.",
+      "quantity": 1,
+      "unit_price": 1.1,
+      "total_price": 1.1,
+      "category": "Postal Service",
+      "accounting_category": "Postal Services",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ENV. S C5 C.VERDE NAC",
+      "quantity": 1,
+      "unit_price": 1.15,
+      "total_price": 1.15,
+      "category": "Postal Service",
+      "accounting_category": "Postal Services",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_183820.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CTT Correios de Portugal, SA \nAberta \nAv. D. Joao II, n. 13 \n1999-001 LISBOA \nN.U.P.C.M. 500077568 \nCap.Socia185.000.000,00 EUR \nLoja CTT ERICEIRA 8816O63 \nFatura/Recibo N. \nFR CTION 188810603027259 \nData de Emissao \n2018-12-04 15:29 \nNome: F LIKE HOME \nMorada: \nCod Postal: \nNIF: 510776914 \nQTD DESIGNACAO IVA QUANTIA \n1 | Correio Verde 1) 0,00 \nRHZ71890504PT \nServ. Especial de \nRegisto 1) 1,70 \nAviso Recep. 1) 1,10 \nEnv. 5 C5 C.VERDE NAC 1) 1,15 \nTotal s/IVA: 3,95 Eur \nTotal Desconto s/IVA: 0,00 Eur \nTotal 3,95 Eur \nTreis Euros e Noventa e Cinco Centimos \nTaxa Valor s/IVA Valor IVA Valor Total \n0% 3,95 0,00 3,95 \n1) Isento - Art. 9 No. 23/24 do CIVA \nValor liquidado na data de emissao \nBens ou servicos disponibilizados ao \nadquirente na data de emissao deste \ndocumento \nInforme-se sobre as condicoes \nespecificas de troca, devolucao e \nassistencia tecnica em www.ctt.pt, \nAjuda. \nOZds-Processado por programa certificado \nn.f 1830/AT"
+  }
+}

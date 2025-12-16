@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "China Town",
+    "address": "LG POCINHOS N4 CV, PQ RESID S SEBASTIAO LT3, 2655 ERICEIRA",
+    "phone": "9624 1100",
+    "tax_id": "T267731469",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-08-04",
+    "time": "19:14:56",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 10.4,
+    "tax": 1.94,
+    "tip": 0.0,
+    "total": 10.4,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "lampadas",
+      "quantity": 2,
+      "unit_price": 2.0,
+      "total_price": 4.0,
+      "category": "Electronics",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "lampadas",
+      "quantity": 2,
+      "unit_price": 3.2,
+      "total_price": 6.4,
+      "category": "Electronics",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_164833.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CHINA TOWN\nQUN WANG\nLG POCINHOS N4 CV\nPQ RESID S SEBASTIAO LT3\n2655 ERICEIRA\nNo Contribuinte T267731469\nTEL: 9624 1100\nOriginal\n2018-8-4 19:14:56\nFATURA: FT 1/201700009608\nNOME FLIKE HOME\nMORADA:\nN Contribuinte 510776914\nDescricao Preco Dtc Qta Total\nlampadas 2.00 0% 2 4.00\nlampadas 3.20 0% 2 6.40\nTOTAL: 10.40€\nRECEBIDO: 10.40€\nTROCO: 0.00€\nDto Total: 0.00 Sub Total: 10.40\nIVA% IMPONIB IVA VALOR TOTAL\n23.00 8.48 1.94 10.40\nIVA INCLUIDO\nFA TURA Indispensavel p/ trocas em\n15 dias.nao efectuamos devolucoes\ndo dinheiro"
+  }
+}

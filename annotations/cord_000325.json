@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 240000,
+    "tax": 26160,
+    "tip": 0.0,
+    "total": 287760,
+    "accounting_category": "Dining",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "AOP Seafood",
+      "quantity": 1,
+      "unit_price": 85000,
+      "total_price": 85000,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Omurice Katsu Curry",
+      "quantity": 1,
+      "unit_price": 95000,
+      "total_price": 95000,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Earl Gray Tea",
+      "quantity": 1,
+      "unit_price": 35000,
+      "total_price": 35000,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Hot Tea",
+      "quantity": 1,
+      "unit_price": 25000,
+      "total_price": 25000,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000325.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 AOP Seafood 85,000\n1 Omurice Katsu Curry 95,000\n1 Earl Gray Tea 35,000\n1 Hot Tea 25,000\n\nSUBTOTAL 240,000\nService 21,600\nPBI 26,160\n\nTOTAL 287,760"
+  }
+}

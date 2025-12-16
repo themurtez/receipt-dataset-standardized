@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Syarikat Perniagaan Gin Kee",
+    "address": "No 290, Jalan Air Panas, Setapak, 53200, Kuala Lumpur",
+    "phone": "03-40210276",
+    "tax_id": "000750673920",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-02",
+    "time": "14:49:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 37.5,
+    "tax": 2.25,
+    "tip": 0.0,
+    "total": 39.75,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "1762 17MM Comb Spanner",
+      "quantity": 1,
+      "unit_price": 7.95,
+      "total_price": 7.95,
+      "category": "Tools",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "1041 6' x 35# Corrugated Roofing Sheet",
+      "quantity": 2,
+      "unit_price": 15.9,
+      "total_price": 31.8,
+      "category": "Construction Materials",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005676549.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS, SETAPAK,\n53200, KUALA LUMPUR.\nTEL: 03-40210276\nGST ID: 000750673920\nSIMPLIFIED TAX INVOICE\nCASH\nDoc. No CS00012504 Date: 02/01/2018\nCashier USER Time 14:49:00\nSalesperson\nRef.\nItem Qty S/Price Amount Tax\n1762 1 7.95 7.95 SR\n17MM COMB SPANNER\n1041 2 15.90 31.80 SR\n6' X 35# CORRUGATED ROOFING SHEET\nTotal Qty: 3 39.75\nTotal Sales (Excluding GST) : 37.50\nDiscount : 0.00\nTotal GST: 2.25\nRounding: 0.00\nTotal Sales (Inclusive of GST) : 39.75\nCASH: 39.75\nChange: 0.00\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR 6 37.50 2.25\nTotal : 37.50 2.25\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU."
+  }
+}

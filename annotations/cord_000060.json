@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 161000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 161000.0,
+    "accounting_category": "Grocery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Mineral Water (S)",
+      "quantity": 1,
+      "unit_price": 15000.0,
+      "total_price": 15000.0,
+      "category": "Beverage",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pocky Chocolate",
+      "quantity": 1,
+      "unit_price": 20000.0,
+      "total_price": 20000.0,
+      "category": "Snack",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Nerds Strw Grape",
+      "quantity": 1,
+      "unit_price": 42000.0,
+      "total_price": 42000.0,
+      "category": "Candy",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Nerds Trop Punch",
+      "quantity": 1,
+      "unit_price": 42000.0,
+      "total_price": 42000.0,
+      "category": "Candy",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Nerds Watermelon",
+      "quantity": 1,
+      "unit_price": 42000.0,
+      "total_price": 42000.0,
+      "category": "Candy",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000060.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "\n1 Mineral Water (S)        15.000\n1 Pocky Chocolate          20.000\n1 Nerds Strw Grape         42.000\n1 Nerds Trop Punch         42.000\n1 Nerds Watermelon         42.000\n\nTOTAL                    161.000\n\nCASH                     161.000\nCHANGED                        0\n"
+  }
+}

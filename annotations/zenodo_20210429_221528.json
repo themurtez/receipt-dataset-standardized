@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Auchan Amoreiras",
+    "address": "Trav. Teixeira Junior, 1, 1300-553 Lisboa",
+    "phone": "210475790",
+    "tax_id": "502067920",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-11-30",
+    "time": "14:03:00",
+    "currency": "EUR",
+    "payment_method": "NUMERARIO",
+    "subtotal": 12.11,
+    "tax": 2.79,
+    "tip": 0.0,
+    "total": 14.9,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Pequeno Domestico",
+      "quantity": 1,
+      "unit_price": 14.9,
+      "total_price": 14.9,
+      "category": "Home Goods",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 5.1
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_221528.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AUCHAN AMOREIRAS\nTEL: 210475790 FAX: 217103495\nAUCHAN RETAIL PORTUGAL S.A.\nSede: Trav. Teixeira Junior, 1\n1300-553 Lisboa\n\nFATURA\nNo.124072201911300001/024265\nNIF: 502067920\n\nPequeno Domestico\nSELENIC 840038 14.90\n1 volume\nTOTAL PAGO 14.90\nNUMERARIO 20.00\nTROCO 5.10\nRESUMO DO IVA\nIVA 23% 2.79\n\nData Emissao: 2019-11-30 14:03\n"
+  }
+}

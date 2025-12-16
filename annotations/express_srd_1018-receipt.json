@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "IN-N-OUT BURGER SANTA CLARA",
+    "address": "",
+    "phone": "176 1 262 1110",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2012-04-27",
+    "time": "12:48:00",
+    "currency": "USD",
+    "payment_method": "Cash",
+    "subtotal": 2.0,
+    "tax": 0.17,
+    "tip": 0.0,
+    "total": 2.17,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "HAMB",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.83
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1018-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "2012-04-27     L1 T1             12:49 PM\nYOUR GUEST NUMBER IS\n12\nIN-N-OUT BURGER SANTA CLARA\n2012-04-27\n                          12:48 PM\n176 1 262 1110\n-----------------------------------\nCashier: KEVIN DU\nCheck : 12\nHAMB                                              2.00\nW GR X L X T M Inst pro\n\nCounter-Take Out\n                                                       2.00\nTAX 8.25%                                        .17\nAmount Due                                  $2.17\n\nCash Tender                                $3.00\nChange                                            $.83\n             THANK YOU!\n2012-04-27      L1 T1                      12:49 PM"
+  }
+}

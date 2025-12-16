@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "PMP UNIPESSOAL LDA",
+    "address": "A21 MALVEIRA KM13,6 2665-307 MAFRA",
+    "phone": "219669362",
+    "tax_id": "PT510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-08-18",
+    "time": "17:20:02",
+    "currency": "EUR",
+    "payment_method": "VISA Electron",
+    "subtotal": 30.89,
+    "tax": 7.1,
+    "tip": 0.0,
+    "total": 37.99,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Gasoleo Bomba NR 4",
+      "quantity": 17.68,
+      "unit_price": 1.414,
+      "total_price": 25.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "AdBlue",
+      "quantity": 1,
+      "unit_price": 12.99,
+      "total_price": 12.99,
+      "category": "Vehicle Fluid",
+      "accounting_category": "Vehicle Fluid",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_181056.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "3º FAPANORTE\nPMP UNIPESSOAL LDA\nA21 MALVEIRA KM13,6\n2665-307 MAFRA\nTEL: 219669362\nPOS No : 002 Tlm: 12\nData: 2019-08-18 17:20:02 Ref: 01178\nFatura-Recibo:FR 2/331/003701001923\n\nGASOLEO BOMBA NR 4\n17,68 * 1.414 € = 25,00 €\nADBLUE 10Lts com dta\n12,99 €\n\nTOTAL\n\nMULTIBANCO\n37,99 €\n\nCartão Utilizado: BP PretnierPlus\nPontos Emitidos: 28\nPontos por Pinkoceh 0\n\nBP RIBAMAR\n\n\nMAFRA\n\n\nTerminal Pagamento Automático: 00378091\n2019-08-18 17:19:49 TeF0720 Tfi07 Msg203\n\n\na000000003210\nCartão: **7420/01\n\nSOFIA PINTO PEREIRA\n\nCOMPRA 37,99 Eur VELOC D3 N\n\nID ESTAB: 00014838629 Aut: 590703\n\nREDIRECT\nINOVACAO E CONFIANCA\nPROCESSADO POR SIBS\n\nIVAX IVA + I1Q + 11iQ\nIVA 23,00% 7,10 30,89 37,99\n\npkh: Processado por Programa Certificado\nno.0177/A1\nnome\nFLKHE1(HME\n\nMorada:\nLISBOA\nNIF: PT510776914\nMatricula: 09 UF 53\n\n\nValido como Recibo IVA de CAIXA\nquando aplicavel"
+  }
+}

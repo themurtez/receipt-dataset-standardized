@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "PROSPER NIAGA",
+    "address": "LOT PT 1138, PT 33122, BANDAR MAHKOTA CHERAS, 43200 CHERAS, SELANGOR",
+    "phone": "03-90199450",
+    "tax_id": "000534347776",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-26",
+    "time": "22:40:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 100.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 100.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "V-Power 97",
+      "quantity": 38.61,
+      "unit_price": 2.59,
+      "total_price": 100.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008099073.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PROSPER NIAGA\nCompany No : SA0099552-P\nLOT PT 1138 ,PT 33122,\nBANDAR MAHKOTA CHERAS\n43200 CHERAS, SELANGOR\nSite : 2365\nTel No: 03-90199450\nGST No : 000534347776\n\n>>>>>>> Pre-Authorisation <<<<<\n\nPre auth code A02A1530024046\n\n38.61 litre Pump # 07\nV-Power 97 RM 100.00 K\n2.590 RM / litre\n---------------------------------------\nTotal RM 100.00\nCash RM 100.00\n\n0.00% SR GST K RM 0.00\nTotal Gross K RM 100.00\n\nCashier:\nMFikri2\n\nThis is not the final fiscal receipt\n\nDate Time Num POS CNo Shift\n26/06/18 22:40 45107 02 9577 659\n\nDiesel & Petrol RON95 given relief\nunder Section 56(3)(b) GST Act 2014\n\nThank You and Please Come Again"
+  }
+}

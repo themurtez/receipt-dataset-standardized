@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 19000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 19000.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.8
+  },
+  "items": [
+    {
+      "name": "RM. Tawar Polo",
+      "quantity": 1,
+      "unit_price": 19000.0,
+      "total_price": 19000.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000678.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "RM. Tawar Polo\n1 19,000\nQty 1 Total 19,000\nPembayaran 19,000"
+  }
+}

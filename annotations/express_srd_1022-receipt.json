@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Moonstar Restaurant",
+    "address": "383 Gellert Blvd., Daly City, CA 94015",
+    "phone": "(650) 992-2888",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-10-29",
+    "time": "19:51:00",
+    "currency": "USD",
+    "payment_method": "Cash",
+    "subtotal": 29.88,
+    "tax": 3.01,
+    "tip": 4.48,
+    "total": 37.37,
+    "accounting_category": "Dinner",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Weekday Dinner",
+      "quantity": 1,
+      "unit_price": 29.88,
+      "total_price": 29.88,
+      "category": "Food",
+      "accounting_category": "Dinner",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 62.63
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1022-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Moonstar Restaurant\n383 Gellert Blvd., Daly City, CA 94015\n(650) 992-2888\nP A I D REPRINT 1\nTab: 332 1P 19:51 #2406\nQTY/LB NAME U/P PRICE\nWEEKDAY DINNER $29.88 29.88\nSUBTOTAL: 29.88\n15% SERVICE CHARGE: 4.48\nTax (8.75%): 3.01\nSALES TOTAL: 32.89\nTOTAL: 37.37\nCASH: 100.00\nCHANGE: 62.63\n10/29/2018 19:51\nTHANK YOU"
+  }
+}

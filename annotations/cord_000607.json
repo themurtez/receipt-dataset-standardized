@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 128181.0,
+    "tax": 12818.0,
+    "tip": 0.0,
+    "total": 140999.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Pepper Steak",
+      "quantity": 1,
+      "unit_price": 122727.0,
+      "total_price": 122727.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Milo",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cheese",
+      "quantity": 1,
+      "unit_price": 5454.0,
+      "total_price": 5454.0,
+      "category": "Food Add-on",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 9001.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000607.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Pepper Steak 1 122,727\n- Milo 1 0\n- Cheese 1 5,454\nITEMS: 2 128,181\nTax 10.00% 12,818\nTotal 140,999\n100 BOGA VOUCHER 100,000\nCash 50,000\nChange 9,001"
+  }
+}

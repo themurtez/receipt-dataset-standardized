@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "ROQUE & SOUSA - COM. COMB., LD",
+    "address": "AV 23 de Julho 9, 2800-099 COVA DA PIEDADE",
+    "phone": "212750778",
+    "tax_id": "507193920",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-03",
+    "time": "20:07:00",
+    "currency": "EUR",
+    "payment_method": "CARTAO BANCARIO",
+    "subtotal": 53.31,
+    "tax": 12.26,
+    "tip": 0.0,
+    "total": 65.57,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GASOLEO",
+      "quantity": 48.073,
+      "unit_price": 1.364,
+      "total_price": 65.57,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_195649.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "E1505 - E.S. COVA DA PIEDADE\nROQUE & SOUSA - COM. COMB., LD\nAV 23 de Julho 9\n2800-099 COVA DA PIEDADE\nCAP. SOCIAL: 75000\nNIF: 507193920 TEL/FAX: 212750778\nDATA/HORA: 03-02-19 20:07\nOperador: Tiago Valente\nFactura: 195907\nPOS: 001\nARTIGO B. QT. IVA/EX. P.Un. VALOR\nGASOLEO 8 48,07 3 1,364 65,57\nT. IVA Sem IVA IVA(%) IVA TOTAL\n3 53,31 23,00 12,26 65,57\nTOTAL EUROS 65,57\nREPSOL MOVE\nCARTAO BANCARIO\nstPO - Processado por Programa\nCertificado N.: 1237/AT\n*** OBRIGADO E BOA VIAGEM ***\nN.I.F. : 510776914\nNome : flikhome\nMorada: lx\nLocalidade: o\nMatricula:\nIVA incluido a taxa em vigor"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Old Town White Coffee",
+    "address": "Old Town Kopitiam Sdn Bhd (716269-X) Sri Rampai",
+    "phone": "03-4148 1876",
+    "tax_id": "000801587200",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-22",
+    "time": "12:44:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 25.94,
+    "tax": 1.71,
+    "tip": 0.0,
+    "total": 30.25,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ST30",
+      "quantity": 1,
+      "unit_price": 13.87,
+      "total_price": 13.87,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "HS4",
+      "quantity": 1,
+      "unit_price": 12.07,
+      "total_price": 12.07,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.01,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005337867.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "OLDTOWN WHITE COFFEE\nOld Town Kopitiam Sdn Bhd (716269-X)\nSri Rampai\nTel: 03-4148 1876\n**THIS IS NOT A RECEIPT**\nGST ID:000801587200\n4 COUNTER3 2009 LIZA\nCheck:37617 Cover:1\n22 Mar 18 12:44:00 PM\nTable:5 / 1\n----- Dine In ------\n1 ST30 13.87 S\n1 BR10 Stm Ginger R S\n1 TF2 (H) Teh Tarik S\n1 HS4 12.07 S\n1 SN5 Curry Mee S\n1 TF7 (C) Lemon T S\nSubtotal: 25.94\n10% Srv Chg: 2.59\nGST @6% 1.71\nTotal: 30.24\nRounding: 0.01\nAmount Due 30.25\nINCLUSIVE 0.00\n--3004 STORED 22 Mar 18 02:1:50 PM--\nTHANK YOU\nPLEASE COME AGAIN\nGST @6% included in total\nGSTSummary Amount(RM) GST(RM)\nS=GST @6%: 28.53 1.71\nZ=GST @0%: 0.00 0.00"
+  }
+}

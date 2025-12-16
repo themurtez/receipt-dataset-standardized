@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "R Actor António Silva, N7, 1649-033 Lisboa",
+    "phone": "21 393 14 50",
+    "tax_id": "500829993",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-10-04",
+    "time": "17:04:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 5.58,
+    "tax": 1.04,
+    "tip": 0.0,
+    "total": 5.58,
+    "accounting_category": "Cleaning Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "DETERG. E PROD. LIMPEZA E 23% INSECT LÍQ VAPORIZAD",
+      "quantity": 2,
+      "unit_price": 2.79,
+      "total_price": 5.58,
+      "category": "Cleaning Supplies",
+      "accounting_category": "Cleaning Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_172257.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "pingoo doce\ntodo bo boil, pozo bo decia\nFERREIRA BORGES\nTel. 21 393 14 50\nPingo Doce- Disrribuição Alimentar, S.A.\nSede: R Actor António Silva,N7,1649-033 Lisboa\nRegisto C.R.C. Lisboa-Matricula/NIPC: 500829993\nANREEE: PT001730 V. Social: 33,808.115 EUR\nArtigos\nDETERG. E PROD. LIMPEZA\nE 23% INSECT LIQ VAPORIZAD 2 X 2,79 5,58\nResumo\nTOTAL A PAGAR 5,58\nTotal Pago 5,58\nTroco 0,00\nResumo IVA\nTaxa\nE 23% Valor s/IVA Valor IVA Valor c/IVA\n4,54\n4,54 1,04\n1,04 5,58\n5,58\nAtendido por: Sandro Rosa\n283360 2019-10-04 17:04 004 0011 004 0828\nZukv-Processado Prof programa certificado 369/AT\nFatura/Recibo\nFT 0828004190101617/004780\n1ª Via Original Data de penisão: 04-10-2019\nN. Contribuente: 510776914\nFlikehome LDA\nMorada. AV DA LIBERDADE 36 1B 1250/145\nLocalidade.: Lisboa\nLocal carga.: FERREIRA BORGES\nLocal descarga: Morada do cliente\nData: 2019-10-04 Hora: 17:04\nFactura necessaria para troca em 15 dias\n(Artigos Textil e Calçado prazo 30 dias)\nSo aceitamos meudicamentos e artigos assinalados\nApoio ao Cliente\n808 20 45 45 211 11 44 11 (22 horas)\n"
+  }
+}

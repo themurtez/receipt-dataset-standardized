@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (KUCHAI) SDN BHD",
+    "address": "LOT 1851-A & 1851-R, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000473792512",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-04-22",
+    "time": "13:13:00",
+    "currency": "MYR",
+    "payment_method": "cash",
+    "subtotal": 11.79,
+    "tax": 0.71,
+    "tip": 0.0,
+    "total": 12.5,
+    "accounting_category": "office_supplies",
+    "category_confidence": 0.8
+  },
+  "items": [
+    {
+      "name": "Storage Box",
+      "quantity": 1,
+      "unit_price": 12.5,
+      "total_price": 12.5,
+      "category": "office_supplies",
+      "accounting_category": "office_supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 2.5
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006620176.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. D.I.Y. (KUCHAI) SDN BHD\nCo-REG:750441-W\nLOT 1851-A & 1851-R, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000473792512)\n(KEPONG)\n-TAX INVOICE-\n--------------------------------------\nSTORAGE BOX 70581 *S\nUE21-31/2/ - 12\n6936136217897 1 X 12.50 12.50\nItem(s) : 1 Qty(s) : 1\n--------------------------------------\nTOTAL INCL. GST@6% RM 12.50\nCASH RM 15.00\nCHANGE RM 2.50\n--------------------------------------\nGST @6% included in total RM 0.71\n--------------------------------------\n22-04-16 13:13 SH01 B003 T1 R000406157\nOPERATOR KPOC - BUDHA PRATAP SING\n--------------------------------------\nEXCHANGE ARE ALLOWED WITHIN\n3 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

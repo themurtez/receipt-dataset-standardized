@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "WAROENG MAMA",
+    "address": "APJ SUDIANG BLOK L NOMOR P/15 O03",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-31",
+    "time": "17:40:00",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 15000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 15000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Nasi 2 Sayur Telr",
+      "quantity": 1,
+      "unit_price": 15000.0,
+      "total_price": 15000.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000682.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "WAROENG MAMA\nAPJ SUDIANG BLOK L NOMOR P/15 O03\n\n31.05.2019  GOODINDOUGHBOOLEG\n17:40  01  TELUR 01\n\nNASI 2SAYUR TELR     15000\n\nITEMS  1Q\nCASH     15000\n\nTERIMAH KASIN\n\ntag: GOOD NOONG AHOA\n"
+  }
+}

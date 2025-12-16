@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Ferragens G Lemos, Lda",
+    "address": "Rua da Madalena, 101 - 107, 1100-319 LISBOA",
+    "phone": "218869344",
+    "tax_id": "501378723",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-10",
+    "time": "11:06:00",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 13.66,
+    "tax": 3.14,
+    "tip": 0.0,
+    "total": 16.8,
+    "accounting_category": "Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SIRI 1 LITRO",
+      "quantity": 3,
+      "unit_price": 4.9,
+      "total_price": 14.7,
+      "category": "Cleaning Supplies",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "JOPAE PINCEL CAIAR NYLON",
+      "quantity": 1,
+      "unit_price": 2.1,
+      "total_price": 2.1,
+      "category": "Tools",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_223139.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Ferragens G Lemos, Lda\nRua da Madalena, 101 - 107\n1100-319 LISBOA\nContribuinte N. 501378723\nCapital Social 34.916,00 Euros\nTel.: 21 8869344/ Fax:218869158\nMail: geral@luva.com\n\nNIF:510767914\nNome:LIKEHOME MEDIACAO IMOBILIA\nMorada:LISBOA\nLocalidade:LISBOA\nCod_Postal:\n\nFatura\nNIF:POS19V12/1908775 Original\nData:10-05-2019 Hora:11:06\n\nDESIGNACAO IVA% QTO VALOR\n\nSIRI 1 LITRO 23 3.0 14.70\nJOPAE PINCEL\nCAIAR NYLON\n\nOVAIS 23 1.0 2.10\n\nTaxa valor IVA T.Bruto: 16.80\n6 % 0.00 T.Dsc. 0.00\n23 % 3.14 T.liq. 13.66\n13 % 0.00 T.IVA: 3.14\n\nA PAGAR..... 16.80\n\nMULTIBANCO 16.80\n\nLu7-Processado por programa cer\ntificado n 1075/AT"
+  }
+}

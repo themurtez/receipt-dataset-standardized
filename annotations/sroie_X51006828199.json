@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Pu Tien (M) SDN BHD",
+    "address": "Lot 2-25, Sunway Velocity Mall, Lingkaran SV, Sunway Velocity, 55100 Kuala Lumpur",
+    "phone": "03-9286 7228",
+    "tax_id": "001010892800",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-10",
+    "time": "12:42:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 31.7,
+    "tax": 2.09,
+    "tip": 0.0,
+    "total": 36.96,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Stir Fried Yam, Xs",
+      "quantity": 1,
+      "unit_price": 12.9,
+      "total_price": 12.9,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Lor Mee, XS",
+      "quantity": 1,
+      "unit_price": 13.9,
+      "total_price": 13.9,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Chrysanthemum Tea, Iced",
+      "quantity": 1,
+      "unit_price": 4.9,
+      "total_price": 4.9,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": -0.01,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006828199.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Pu Tien (M) SDN BHD\n(894015P)\nLot 2-25, Sunway Velocity Mall\nLingkaran SV, Sunway Velocity\n55100 Kuala Lumpur\nTel: 03-9286 7228\nGST ID: 001010892800\nTax Invoice\nDATE: 12/10/2017 TIME: 12:42 PM\nOperator: Apple Trans#: 6186\nTill: Putien VC Till 1st Shift 12/10/2017\nTable No.26\nCheck # 1340\nGuests: 1\nStir Fried Yam, Xs 1 12.90\nLor Mee, XS 1 13.90\nChrysanthemum Tea, Iced 1 4.90\nSubtotal: RM31.70\nSrv Chrg 10% RM3.17\nGST: 6% RM34.87 RM2.09\nTotal RM36.96\nBalance: RM36.96\nRounded: RM36.95\nNumber of items: 3\nGST Summary Amount (RM) Tax (RM)\nGST: 6% RM34.87 RM2.09\nThank You\nPowered by Bepoz"
+  }
+}

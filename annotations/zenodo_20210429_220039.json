@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "A Vida Portuguesa",
+    "address": "Rua Anchieta, 11, 1200-023 Lisboa",
+    "phone": "Tel.: 213465073",
+    "tax_id": "510776914",
+    "website": "www.avidaportuguesa.com"
+  },
+  "transaction": {
+    "date": "2019-08-16",
+    "time": "18:20:50",
+    "currency": "EUR",
+    "payment_method": "Cartão Bancário",
+    "subtotal": 17.55,
+    "tax": 4.05,
+    "tip": 0.0,
+    "total": 21.6,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "NALLY Azeltona Sabonete",
+      "quantity": 1,
+      "unit_price": 5.4,
+      "total_price": 5.4,
+      "category": "Personal Care",
+      "accounting_category": "Health & Beauty",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "NALLY Azeltona Gel Banho",
+      "quantity": 1,
+      "unit_price": 7.9,
+      "total_price": 7.9,
+      "category": "Personal Care",
+      "accounting_category": "Health & Beauty",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "NALLY Azeltona Sabonete",
+      "quantity": 1,
+      "unit_price": 1.8,
+      "total_price": 1.8,
+      "category": "Personal Care",
+      "accounting_category": "Health & Beauty",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "AVP Caixa Pequena E Sizz",
+      "quantity": 1,
+      "unit_price": 2.45,
+      "total_price": 2.45,
+      "category": "Gift",
+      "accounting_category": "Gifts & Souvenirs",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_220039.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "A VIDA PORTUGUESA\nANCHIETA\nRua Anchieta, 11\n1200-023 Lisboa\nTel.: 213465073\n\nFunciónário: Loja Anchieta Data Entrega 16.08.2019\nData: 2019-08-16\nHora: 18:20:50\n\nFatura Simplificada N5 2019A12/1930227 ORIGINAL\n\nNIF: 510776914\n\nArtigos V Quant Pr. unit IVA\n\nNALLY Azeltona Sabonete 1 5,40 23%\nNALLY Azeltona Gel Banho 1 7,90 23%\nNALLY Azeltona Sabonete 1 1,80 23%\nAVP Caixa Pequena E Sizz 1 2,50 23%\n\nPagamento: Cartão Bancário 21,60\n\nMercadoria\n\nSubtotal: 17,55\nIVA:  4,05\nDescontos\nTotal do Documento 21,60\n\nTaxa de IVA Valor Base Valor IVA\n6% 0,00\n23% 17,55 4,05\n0% 0,00 0,00\n\nPor favor conserve esta fatura\nEm caso de eventual troca ou devolução de mercadoria, esta só poderá ser efetuada na loja que emitiu o documento de venda.\n\nObrigado por escolher\nA VIDA PORTUGUESA\n\nOnline shop: www.avidaportuguesa.com\n\nPassos em Volta, Unipessoal Lda.\nRua Nova do Desterro, 21\n1150-241 Lisboa\nN.Cont. 508072000\nCapital Social 5,000.00\nConser.Reg.Com.N.2216/2007\nLisboa\n"
+  }
+}

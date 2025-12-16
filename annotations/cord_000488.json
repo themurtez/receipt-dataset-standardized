@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 63000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 63000.0,
+    "accounting_category": "Food",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "T.CREAM M 21",
+      "quantity": 3,
+      "unit_price": 21000.0,
+      "total_price": 63000.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 37000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000488.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "T.CREAM M 21\n3 21,000 63,000\nJumlah 63,000\nBayar 100,000\nKembali 37,000"
+  }
+}

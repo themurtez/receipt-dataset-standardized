@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "R. Actor António Silva, N7, 1649-033 Lisboa",
+    "phone": "213 247 330",
+    "tax_id": "500892933",
+    "website": "www.poupaomais.pt"
+  },
+  "transaction": {
+    "date": "2019-03-11",
+    "time": "14:27:00",
+    "currency": "EUR",
+    "payment_method": "Card",
+    "subtotal": 10.82,
+    "tax": 0.63,
+    "tip": 0.0,
+    "total": 10.82,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Iog Grego Nat P/500G",
+      "quantity": 8,
+      "unit_price": 1.34,
+      "total_price": 10.72,
+      "category": "Dairy",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Saco Plast Recil PD",
+      "quantity": 1,
+      "unit_price": 0.1,
+      "total_price": 0.1,
+      "category": "Other",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 9,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_180758.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Pingo Doce\nR. Actor António Silva, N7, 1649-033 Lisboa\nTel.: 213 247 330\nContribuinte: 500892933\nTOTAL A PAGAR 10,82\nPagamentos\n10,82 EUR\nCartão: **** **** **** 0462\n\nProdutos Lacteos:\nC  8x1,34 Iog Grego Nat P/500G 10.72\nE  1x0,10 Saco Plast Recil PD 0.10\nResumo IVA\nC 6% V. s/IVA: 0,61 V. c/IVA: 0,648\nE 23% V. s/IVA: 0,08 V. c/IVA: 0,1\n\nAtendido por: FILOMENA BRITO\nData de emissão: 11-03-2019\n"
+  }
+}

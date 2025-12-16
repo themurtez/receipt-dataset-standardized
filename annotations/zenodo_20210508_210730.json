@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "Estr. Antonio Silva, N3 V.R. SANTO ANTONIO",
+    "phone": "",
+    "tax_id": "",
+    "website": "www.pingodoce.pt"
+  },
+  "transaction": {
+    "date": "2018-03-31",
+    "time": "16:08:00",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 32.52,
+    "tax": 7.48,
+    "tip": 0.0,
+    "total": 40.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GARRAFA GAS 13KG GALP",
+      "quantity": 1,
+      "unit_price": 25.0,
+      "total_price": 25.0,
+      "category": "Household",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "GARRAFA VAZ GAS 13KG",
+      "quantity": 1,
+      "unit_price": 7.52,
+      "total_price": 7.52,
+      "category": "Household",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_210730.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Pingo Doce V.R. Santo Antonio\nNIF: 281501810\nBazar ligeiro\n1 Garrafa gas 13kg Galp 25.00\nArtigos retornáveis\n1 Garrafa vaz gas 13kg 7.52\nTotal a pagar 40.00\nTotal pago\nV. Reembolso Reb\nMultibanco\nTaxa 32.52 IVA 7.48 IVA incl 40.00\nCom cartão poupa mais feira ganha\n2.00 em combustível BP\nAtendido por: Andreia Carolina Mesquita\n107720 2018-03-31 16:08\nN. Fatura/Recibo: FT06200718601259/000319\nNome: FILKERNHOME\nContribuinte: 510767914\nLocalidade: LISBOA\nPingo Doce SA 8900-401 V.R. ST ANT\nTerminal pagamento automatico: 0596751\n2018-03-31 16:08\nMillennium BCP\nFilial Algarve/Salvador\nCartão: ****1336/787\nMultibanco 25,00€ MB\nApoio ao Cliente:\n808 20 45 45 / 210 11 44 11\nwww.pingodoce.pt"
+  }
+}

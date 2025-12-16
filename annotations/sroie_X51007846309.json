@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "UNIHAAKKA INTERNATIONAL SDN BHD",
+    "address": "12, Jalan Tampoi 7/4, Kawasan Perindustrian Tampoi, 81200 Johor Bahru, Johor",
+    "phone": "",
+    "tax_id": "867388-U",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-11",
+    "time": "18:32:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 6.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 6.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Vegetable",
+      "quantity": 4,
+      "unit_price": 1.03,
+      "total_price": 4.12,
+      "category": "Food",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Fried Noodle (S)",
+      "quantity": 1,
+      "unit_price": 1.88,
+      "total_price": 1.88,
+      "category": "Food",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007846309.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "UNIHAAKKA INTERNATIONAL SDN BHD\n11 Jun 2018 18:32\n(867388-U)\n12, Jalan Tampoi 7/4, Kawasan Perindustrian Tampoi, 81200 Johor Bahru, Johor\nTAX INVOICE\nInvoice #: OR18061102170340\nItem Qty Total\nSR 100100000015- Vegetable\nRM1.03 4 RM4.12\nSR 100100000056-Fried Noodle (S)\nRM1.88 1 RM1.88\nTotal Amount: RM6.00\nGST @0%: RM0.00\nNett Total: RM6.00\nPayment Mode Amount\nCASH RM6.00\nChange RM0.00\nGST REG #000656195584\nBAR WANG RICE@PERMAS JAYA\nThank You & Come Again!\nLike and Follow Us on Facebook!\nFacebook.com/BarWangRice"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "De Jelita Stesen Minyak",
+    "address": "Jln Permas 9/5, Bdr Permas Jaya, 81750, Johor Bahru",
+    "phone": "07-3865102",
+    "tax_id": "000368820224",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-02-05",
+    "time": "08:55:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 60.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 60.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "FuelSave 95",
+      "quantity": 27.27,
+      "unit_price": 2.2,
+      "total_price": 60.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007231346.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "De Jelita Stesen Minyak\nCompany No:228415-U\nJln Permas 9/5, Bdr Permas Jaya\n81750, Johor Bahru\nSite: 1719\nTelephone: 07-3865102\nGST No: 000368820224\n\n>>>>>> Pre-Authorisation <<<<<<\n\nPre auth code A01A1525222521\n\n27.27 litre Pump # 07\nFuelSave 95 RM 60.00 C\n 2.200 RM / litre\n\nTotal RM 60.00\nCash RM 60.00\n\nRelief GST C RM 0.00\nTotal Gross C RM 60.00\n\nCashier:\nAthilah\n\nThis is not the final fiscal receipt\n\nDate Time Num POS CNo Shift\n02/05/18 08:55 47232 01 6410 292\n\nDiesel & Petrol RON95 given Relief\nunder Section 56 (3) (b) GST Act 2014\n\nThank You and Please Come Again"
+  }
+}

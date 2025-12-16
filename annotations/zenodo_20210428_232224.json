@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Casa Bernardino",
+    "address": "Rua 5 de Outubro, 28 B, 2655-255 Ericeira",
+    "phone": "261 863 522",
+    "tax_id": "104 110 015",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-04-04",
+    "time": "15:02:02",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 15.45,
+    "tax": 3.55,
+    "tip": 0.0,
+    "total": 19.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "bicha extensível 2m",
+      "quantity": 1,
+      "unit_price": 9.0,
+      "total_price": 9.0,
+      "category": "Home Improvement",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Telefone pacific",
+      "quantity": 1,
+      "unit_price": 10.0,
+      "total_price": 10.0,
+      "category": "Electronics",
+      "accounting_category": "Telephone Equipment",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_232224.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CASA BERNARDINO\nMaria Manuela Fernandes Campos\nNIF: 104 110 015\nRua 5 de Outubro, 28 B\n2655-255 Ericeira\nTel. 261 863 522\nTalão indispensável para trocas no\nprazo de 15 dias\nFatura-recibo Nº FR Original\nData: 2019-04-04 Hora: 15:02:02 PA9/34\nNome: Flikehome\nMorada: Lisboa\nContribuinte: 510776914 Matricula 00-00-00\nDESIGNAÇÃO DESC. IVA VALOR\nbicha extensível 2m\n1 9,00 0% 23% 9,00 €\nTelefone pacific\n1 10,00 0% 23% 10,00 €\nTotal 19,00 €\nMercadoria IVA Valor IVA\n0,00 € 0% 0,00 €\n15,45 € 23% 3,55 €\nObrigado Volte Sempre\ncbpt - Processado por programa\ncertificado nº 1318/AT"
+  }
+}

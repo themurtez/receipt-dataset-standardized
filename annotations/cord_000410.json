@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "PET ANDE K SOKER",
+    "address": "BALIK WATON SRATEG DESA 8E AYU AGI MOENGGO",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-31",
+    "time": "15:12:00",
+    "currency": "IDR",
+    "payment_method": "CASH",
+    "subtotal": 125000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 125000.0,
+    "accounting_category": "Expense",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "B16COKSER",
+      "quantity": 1,
+      "unit_price": 125000.0,
+      "total_price": 125000.0,
+      "category": "Goods",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000410.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PET ANDE K SOKER\nBALIK WATON SRATEG\nDESA BE AYU AGI M0ENGGO\nTEL , DEG7 HAUNNURS\nN0: 31 - 12 - 2017 15:12 NO\nSPIU . 806706\n1 B16COKSER 125 .000\nTL . 125 ,000\nCASH 125 .000\nTERANIK VOU"
+  }
+}

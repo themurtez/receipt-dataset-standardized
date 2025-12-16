@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Columbus Restaurant",
+    "address": "736 Ocean Drive, Miami Beach, FL 33139",
+    "phone": "786-275-6944",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-27",
+    "time": "15:59:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 153.01,
+    "tax": 12.87,
+    "tip": 28.6,
+    "total": 184.47,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "FBD Blue Margaritas",
+      "quantity": 2,
+      "unit_price": 55.0,
+      "total_price": 110.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Cheese Burger",
+      "quantity": 1,
+      "unit_price": 14.5,
+      "total_price": 14.5,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chicken Marsala",
+      "quantity": 1,
+      "unit_price": 18.5,
+      "total_price": 18.5,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1112-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "COLUMBUS RESTAURANT\n736 OCEAN DRIVE\nMIAMI BEACH, FL 33139\nTEL: 786-275-6944\n\nTABLE 91\n5 GUESTS Gustavo\n\n2 FBD BLUE MARGARI 55.00 110.00\n1 CHEESE BURGER 14.50 14.50\n1 CHICKEN MARSALA 18.50 18.50\n\nTAX and SERVICE Detail\n----------------------------------\nTF ARTICLES\nSALES TAX 7% 143.00 10.01 153.01\nRESORT TAX 2% 2.86\nSERVICE 20% 28.60\n\nTOTAL 184.47\n\nSATURDAY 01-27-2018 03:59PM\nKey 12-Waitr: 12-POS 1-BILL 010297\n\nPLEASE RATE US SO WE CAN BETTER SERVE YOU\nFOOD: 1 2 3 4 5 6 7 8 9 10\nSERVICE: 1 2 3 4 5 6 7 8 9 10\nAMBIANCE: 1 2 3 4 5 6 7 8 9 10\nNAME:"
+  }
+}

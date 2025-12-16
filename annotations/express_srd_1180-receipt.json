@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Fuzzy's Taco Shop",
+    "address": "555 BAR Z",
+    "phone": "(912)341-8897",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2014-08-30",
+    "time": "01:20:00",
+    "currency": "USD",
+    "payment_method": "Cash",
+    "subtotal": 11.24,
+    "tax": 0.79,
+    "tip": 0.0,
+    "total": 12.03,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chips & Salsa",
+      "quantity": 1,
+      "unit_price": 4.95,
+      "total_price": 4.95,
+      "category": "Appetizer",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Red Bull",
+      "quantity": 1,
+      "unit_price": 3.5,
+      "total_price": 3.5,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Soft Drink",
+      "quantity": 1,
+      "unit_price": 2.79,
+      "total_price": 2.79,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1180-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "555 BAR Z\nChk 4427 3 CPY Gst 0\nAug30'14 01:20PM\n1 Chips & Salsa 4.95\n1 Red Bull 3.50\n1 Soft Drink 2.79\nCash\nSubtotal 11.24\nTax 0.79\nTotal Paid 12.03\n\nState Tax 0.79\n\n-555 Check Closed-\nAug30'14 01:47PM"
+  }
+}

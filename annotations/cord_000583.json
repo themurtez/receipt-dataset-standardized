@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 72500.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 72500.0,
+    "accounting_category": "Dining",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "KING DEAL FISH",
+      "quantity": 1,
+      "unit_price": 27500.0,
+      "total_price": 27500.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "KING DEAL CHEESE BG",
+      "quantity": 1,
+      "unit_price": 27500.0,
+      "total_price": 27500.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "BIC ALA CARTE",
+      "quantity": 1,
+      "unit_price": 17500.0,
+      "total_price": 17500.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "CHG TO REG JASMINE",
+      "quantity": 2,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000583.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 KING DEAL FISH 27,500.00\n1 KING DEAL CHEESE BG 27,500.00\n1 BIC ALA CARTE 17,500.00\n2 CHG TO REG JASMINE\nSUB-TOTAL 72,500.00\n"
+  }
+}

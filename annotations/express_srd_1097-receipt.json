@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "El Pollo Loco",
+    "address": "7519 S. Atlantic Ave, Cudahy, CA 90201",
+    "phone": "323-560-0758",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-06-28",
+    "time": "17:36:00",
+    "currency": "USD",
+    "payment_method": "Cash",
+    "subtotal": 12.06,
+    "tax": 1.06,
+    "tip": 0.0,
+    "total": 13.12,
+    "accounting_category": "Food",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Burrito Cmb",
+      "quantity": 1,
+      "unit_price": 8.28,
+      "total_price": 8.28,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Bur-BRC",
+      "quantity": 2,
+      "unit_price": 1.89,
+      "total_price": 3.78,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.13
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1097-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "EL POLLO LOCO\nRESTAURANT 5451\nSTORE 5451\n7519 S. ATLANTIC AVE.\nCUDAHY, CA 90201\n323-560-0758\n\n257 LIDIA H\nChk 1924                      Jun28'17 05:36P  Gst\n\nDrive Thru\n1 Burrito Cmb                           8.28\n   Chk Ranchero Bur\n   ADD\n   Avo Slcs\n   Ind Chips\n   SM DRINK\n   Coke\n2 Bur-BRC @ 1.89                         3.78\nCash                                    13.25\nFood                                    12.06\nTax                                        1.06\nPayment                               13.12\nChange Due                         0.13\n\n257 Check Closed\nJun28'17 05:38PM"
+  }
+}

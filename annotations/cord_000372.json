@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Eatin Diny Leading World",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2023-10-05",
+    "time": "12:00:00",
+    "currency": "VND",
+    "payment_method": "Cash",
+    "subtotal": 18000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 18000.0,
+    "accounting_category": "Food",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Croissant Mini (NAM)",
+      "quantity": 1,
+      "unit_price": 18000.0,
+      "total_price": 18000.0,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 82000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000372.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Eatin Diny Leading World\n\nCroissant Mini (NAM)   1x   18,000   18,000\nSub Total                          18,000\nGRAND TOTAL                      18,000\nCASH                            100,000\nCHANGE                          82,000"
+  }
+}

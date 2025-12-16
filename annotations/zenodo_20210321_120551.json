@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "BP DUARTE PACHECO",
+    "address": "Av. Eng Duarte Pacheco PA Sul, 1070-100 LISBOA",
+    "phone": "213876668",
+    "tax_id": "500052999",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-07-25",
+    "time": "16:08:29",
+    "currency": "EUR",
+    "payment_method": "VISA ELECTRON",
+    "subtotal": 62.48,
+    "tax": 14.37,
+    "tip": 0.0,
+    "total": 76.85,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "S/CHUMBO 95",
+      "quantity": 47,
+      "unit_price": 1.609,
+      "total_price": 76.85,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210321_120551.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BP DUARTE PACHECO\nFUEL & GISTA-EXPLORACAO DE POSTOS DE\nABASTECIMENTO E LOJAS DE CONVENIENCIA,\nSOCIEDADE UNIPESSOAL LDA.\nAv. Eng Duarte Pacheco PA Sul\n1070-100 LISBOA\nTEL 213876668 NIF: 500052999\nPOS Nr. 1 Oper. 64\n21/07-25 16:08:29 Ref. 5820\nFatura Simplificada FS 27406_004/363327\nS/CHUMBO 95 BOMBA Nr: 4 , 76,85 4\n47,76 1,609 / 1\nTOTAL € 76,85\nMULTIBANCO € 76,85\nNúmero cartão: **** **** **** 772\nPontos Emitidos: 48\nPontos Actual: 45\n\nBP DUARTE PACHECO\n1070-100 LISBOA\nTerminal Pagamento Automático: 0074886\n2019-07-25 16:08:13 Per027 Tr059 Msg182\nNOVO BANCO\nSALVADOR FERREIRA DU AMARA\nCARTAO: ****5685/72\nA0000000032010 VISA ELECTRON\nCOMPRA 76,85 EUR VELC DB N\nID ESTAB: 00626354 AUT: 381981\n\nREDUNICRE\nINOVACAO E CONFIANÇA\nPROCESSADO POR SIBS\nIVAx : LIQ : ILIQ\nIVA4 23,00% 14,37 62,48 76,85\nXHIP-Processado por Programa Certificado\nno. 0177/AT\nNIF: PT514407395"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Gerbang Alaf Restaurants Sdn Bhd",
+    "address": "Level 6, Bangunan TH, Damansara Uptown 3, No.3, Jalan SS21/39, 47400 Petaling Jaya, Selangor",
+    "phone": "03-9010-9849",
+    "tax_id": "000504664064",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-30",
+    "time": "16:07:06",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 17.92,
+    "tax": 1.08,
+    "tip": 0.0,
+    "total": 19.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "M McChicken",
+      "quantity": 2,
+      "unit_price": 5.0,
+      "total_price": 10.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "M Coke",
+      "quantity": 2,
+      "unit_price": 2.0,
+      "total_price": 4.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "M Fries",
+      "quantity": 2,
+      "unit_price": 1.96,
+      "total_price": 5.92,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 31.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008042786.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "184\nGerbang Alaf Restaurants Sdn Bhd\n(65351-M)\nLicensee of McDonald's\nLevel 6, Bangunan TH, Damansara Uptown3\nNo.3, Jalan SS21/39, 47400 Petaling Jaya\nSelangor\n(GST ID No: 000504664064)\nMcDonald's Shell Mahkota Cheras DT (36\nTel No. 03-9010-9849\nTAX INVOICE\nMFY Side 1\nINV# 003621900044540\nORD #64 -REG #19- 30/05/2018 16:07:06\nQTY ITEM TOTAL\n2 M McChicken 19.00\n2 M Coke\n2 M Fries\nTakeOut Total (incl GST) 19.00\nTotal Rounded 19.00\nCash Tendered 50.00\nChange 31.00\nTOTAL INCLUDES 6% GST 1.08\nThank You and Please Come Again.\nGuest Relations Center : 1300-13-1300\n"
+  }
+}

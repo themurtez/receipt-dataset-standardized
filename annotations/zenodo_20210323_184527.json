@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "Quarteira - Morgadinho",
+    "phone": "",
+    "tax_id": "PT 500 896 885",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-07",
+    "time": "17:01:00",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 29.04,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 29.04,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Moradia Pet Food",
+      "quantity": 1,
+      "unit_price": 2.19,
+      "total_price": 2.19,
+      "category": "Pet Supplies",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Frango Assado",
+      "quantity": 1,
+      "unit_price": 3.89,
+      "total_price": 3.89,
+      "category": "Food",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Nodnik Pastel",
+      "quantity": 2,
+      "unit_price": 5.29,
+      "total_price": 10.58,
+      "category": "Bakery",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Maca Verde",
+      "quantity": 1,
+      "unit_price": 1.69,
+      "total_price": 1.69,
+      "category": "Fruits",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cerveja Tradicional",
+      "quantity": 1,
+      "unit_price": 0.94,
+      "total_price": 0.94,
+      "category": "Beverages",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Det. Roupa",
+      "quantity": 1,
+      "unit_price": 3.99,
+      "total_price": 3.99,
+      "category": "Household Supplies",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_184527.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Pingo Doce\nQuarteira - Morgadinho\nMORADIA PET FOOD 2,19\nFRANGO ASSADO 3,89\nNODNIK PASTEL X2 5,29 10,58\nMACA VERDE 1,69\nCERVEJA TRADICIONAL 0,94\nDET. ROUPA 3,99\n...\n..."
+  }
+}

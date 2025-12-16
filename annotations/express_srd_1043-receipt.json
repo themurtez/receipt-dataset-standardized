@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "BK Soul Food & Catering",
+    "address": "131B Yonkers Ave, Yonkers, NY 10704",
+    "phone": "914-237-5083",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-06-23",
+    "time": "14:33:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 24.5,
+    "tax": 2.17,
+    "tip": 0.0,
+    "total": 26.67,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Wings (5)",
+      "quantity": 1,
+      "unit_price": 12.5,
+      "total_price": 12.5,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Side (SM) x3 Yams, Mac & Cheese, Collard Greens",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1043-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BK SOUL FOOD & CATERING\n131B YONKERS AVE\nYONKERS, NY 10704\n914-237-5083\n\nJune 23, 2019 at 2:33 PM\n\nORDER # 1019\n\nAdmin\n\nWINGS (5)\nMAC & CHEESE\n12.50\n\nSIDE (SM) x3\nYAMS\nMAC & CHEESE\nCOLLARD GREENS\n12.00\n\nSubtotal 24.50\nTax 2.17\nDiscount 0.00\nTotal 26.67"
+  }
+}

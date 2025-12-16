@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "ROGERIO PAIS, LDA",
+    "address": "AVENIDA ALMIRANTE REIS, 9 - F, 1150-007 LISBOA",
+    "phone": "218539031",
+    "tax_id": "510776914",
+    "website": "www.ticagest.pt"
+  },
+  "transaction": {
+    "date": "2019-05-22",
+    "time": "15:33:00",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 17.35,
+    "tax": 3.99,
+    "tip": 0.0,
+    "total": 21.35,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PAJA - Puxador 58140",
+      "quantity": 5,
+      "unit_price": 3.25,
+      "total_price": 16.25,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Bucha metálica c/ pitor",
+      "quantity": 6,
+      "unit_price": 0.85,
+      "total_price": 5.1,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 11,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_224509.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROGERIO PAIS, LDA\nFERRAGENS...LISBOA\nTel/Fax 218539031 Telem. 966008966\nSociedade por quotas • Capital Social\n5.012,92€ REG. CRC...34852\nNIB: 0033 0000 0128028463 52\n2019-05-22 FATURA SIMPLIFICADA N:\nOriginal FS 1A1901/4080\n15:33 BALCAO 1\nContribuente: 510776914\nDESCRICAO IVA VALOR\n✦5 PAJA - Puxador 58140 23% 16,25\nPreco: 3,25/unidade\n✦6 Bucha metálica c/ piton 23% 5,10\nPreco: 0,85/unidade\nTAXA IVA INCID.\n23% 3,99 17.36\nTOTAL INCIDENCIAS: 3,99\nTOTAL: Eur 21,35\nPago em Numerario\nValor entregue: 21,35\nTroco: 0,00\nImplementado por www.ticagest.pt\n...\nLicenca: ROGERIO PAIS, LDA\nContribuente: 504544006\n..."
+  }
+}

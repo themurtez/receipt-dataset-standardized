@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "CTT - Correios de Portugal, SA - Soc.",
+    "address": "Av. D. Joao II, n.1 13, 1999-001 LISBOA",
+    "phone": "",
+    "tax_id": "500077568",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-11-19",
+    "time": "16:15:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 3.4,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 3.4,
+    "accounting_category": "Postal Services",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Reg. Nac.",
+      "quantity": 1,
+      "unit_price": 2.3,
+      "total_price": 2.3,
+      "category": "Postal Service",
+      "accounting_category": "Postal Services",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Aviso Recep.",
+      "quantity": 1,
+      "unit_price": 1.1,
+      "total_price": 1.1,
+      "category": "Postal Service",
+      "accounting_category": "Postal Services",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_152216.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CTT - Correios de Portugal, SA - Soc.\nAberta\nAv. D. Joao II, n.1 13\n1999-001 LISBOA\nN.U.P.C.M. 500077568\nCap.Social 75.000.000,00 EUR\nLoja CTT RESTAURADORES-L 8810747\n\nFatura/Recibo N.\nFR C112018000007491328\nData de Emissao\n2018-11-19 16:15\n\nNome: FIXEHOME LDA\nMorada:\nCod Postal:\nNIF: 510776914\n\nQTD DESIGNACAO IVA QUANTIA\n1 Reg. Nac. 1) 2,30\nRH243031865PT\nAviso Recep. 1) 1,10\n\ndocumento\n\nTotal S/IVA: 3.40 Eur\nTotal Desconto s/IVA: 0,00 Eur\nTotal IVA: 0,00 Eur\n\nTotal: 3,40 Eur\n\nTres Euros e...\nTaxa Valor...% Valor IVA Valor Inel\n1C\n1) Isento Reg...ao IVA c/IVA\n\nValor Liquidado\nBens ou servicos disponibilizados ao\nadquirente na data de emissao deste\n\nK40V-Processado por programa certificado\nn.1 1830/AT"
+  }
+}

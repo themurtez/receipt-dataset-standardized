@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Parque Camoes",
+    "address": "R. Joaquim Antonio de Aguiar, 19-2, 1074-149 Lisboa",
+    "phone": "",
+    "tax_id": "503311685",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-07-17",
+    "time": "17:18:00",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 2.44,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 2.44,
+    "accounting_category": "Parking",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Parking Fee",
+      "quantity": 1,
+      "unit_price": 2.44,
+      "total_price": 2.44,
+      "category": "Parking",
+      "accounting_category": "Parking",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_110451.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Estil. parques de\nEstacionamento S.A\nR. Joaquim Antonio de Aguiar,\n19 - 2 1074-149 Lisboa\nCont: 503311685 / CRCL 195536\nPARQUE CAMOES\n\nDoc n: M77852\nTerminal: 22\nBilhete No: 34132262\nRetido: EUR 0,00\nEntrada: 2019-07-17 16:30\nValor: EUR 2,44\nData: 2019-07-17 Hora: 17:18\nIVA a taxa legal em vigor\nProcessado por Computador\nNome: Consumidor Final\nNIF: Consumidor Final\n\nPQ ESTACIONAMENTO\nCAMOES\nPC LUIS CAMOES\nLISBOA\n\nN.F.C: 503311685\nT.P.A: 80938247\nData: 2019/07/17 Hora: 17:17:55\nPer: 012 Tra: 019 Men: 115\n\nCOMPRA CHIP\nALMEIDA/JORGE\nCartao: ** 0824\n**********1299/89\n\n\n51649PF218\nMULTIBANCO\nConta/Autorizacao: 498179\n\nMILLENNIUM BCP\n\nMB 2,44 Eur"
+  }
+}

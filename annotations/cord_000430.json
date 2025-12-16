@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Sample Merchant",
+    "address": "123 Sample St, City",
+    "phone": "123-456-7890",
+    "tax_id": "123-45-6789",
+    "website": "www.samplemerchant.com"
+  },
+  "transaction": {
+    "date": "2023-10-05",
+    "time": "14:30:00",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 87000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 87000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Maple glazed",
+      "quantity": 1,
+      "unit_price": 25000.0,
+      "total_price": 25000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Plastic Bag Small",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Supplies",
+      "accounting_category": "Miscellaneous",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Chokoreto Cookies",
+      "quantity": 1,
+      "unit_price": 62000.0,
+      "total_price": 62000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 13000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000430.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Sample Merchant\n123 Sample St, City\nTelp: 123-456-7890\nTax: 123-45-6789\nwww.samplemerchant.com\n4005-Maple glazed\n25.000 x1 25.000\n6001-Plastic Bag Small\n0 x1 0\n5003-Chokoreto Cookies\n62.000 x1 62.000\nTotal Item: 3\nTotal. 87.000\nCash Tendered: 100.000\nChange: 13.000"
+  }
+}

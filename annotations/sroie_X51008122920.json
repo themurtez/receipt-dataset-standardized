@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "C W KHO0 HARDWARE SDN BHD",
+    "address": "NO.50, JALAN PBS 14/11, KAWASAN PERINDUSTRIAN BUKIT SERDANG",
+    "phone": "03-89410243",
+    "tax_id": "000549584896",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-05",
+    "time": "12:50:51",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 17.93,
+    "tax": 1.08,
+    "tip": 0.0,
+    "total": 19.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "2032 'ENERGIZER' BATTERY (PC) @ PKT",
+      "quantity": 1,
+      "unit_price": 6.4,
+      "total_price": 6.4,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "9V 'ENERGIZER' BATTERY(522BP1G) @ PKT",
+      "quantity": 1,
+      "unit_price": 11.53,
+      "total_price": 11.53,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": -0.01,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008122920.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "(481500-M) C W KHO0 HARDWARE SDN BHD NO.50 , JALAN PBS 14/11, KAWASAN PERINDUSTRIAN BUKIT SERDANG, Tel : 03-89410243 GST Reg No.: 000549584896 Tax Invoice Invoice No. CR 1805/0201 Date 04-05-18 12:50:51 PM Cashier No. khoo Counter No. c1 Printed Date 04-05-18 12:50:53 PM Item Name Qty. Unit Price 2032 'ENERGIZER BATTERY (PC) @ PKT 1 6.40 9V 'ENERGIZER BATTERY(522BP1G) @ Pkt 1 11.53 2 Item(s) Total (Myr) 17.93 GST @ 6% 1.08 Net Total (MYR): 19.01 Rounding Adj. -0.01 Net Total Rounded (MYR) 19.00 Cash 19.00 Change 0.00 Thank You. Please Come Again!"
+  }
+}

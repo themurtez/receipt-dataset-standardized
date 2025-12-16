@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (M) SDN BHD",
+    "address": "LOT 1851-A & 1851-R, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "860671-D",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-04-18",
+    "time": "15:02:00",
+    "currency": "MYR",
+    "payment_method": "VISA",
+    "subtotal": 91.42,
+    "tax": 5.48,
+    "tip": 0.0,
+    "total": 96.9,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "WALL PENDULUM CLOCK HMS WPC 14P",
+      "quantity": 2,
+      "unit_price": 32.0,
+      "total_price": 64.0,
+      "category": "Home Decor",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TOILET PAPER HOLDER BMJ-2503M",
+      "quantity": 1,
+      "unit_price": 17.5,
+      "total_price": 17.5,
+      "category": "Bathroom Accessories",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BAG JR-3CXL",
+      "quantity": 1,
+      "unit_price": 7.5,
+      "total_price": 7.5,
+      "category": "Bags",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MAGIC SEALER 6PC",
+      "quantity": 1,
+      "unit_price": 7.9,
+      "total_price": 7.9,
+      "category": "Kitchen Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619346.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. D.I.Y. (M) SDN BHD\nCo-REG:860671-D\nLOT 1851-A & 1851-R, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR.\n(GST ID No :000306020352)\n(SELAYANG MALL)\n-TAX INVOICE-\nWALL PENDULUM CLOCK HMS WPC 14P *S\n1G41-51/2 - 10\n9101601 2 X 32.00 64.00\nTOILET PAPER HOLDER BMJ-2503M *S\nUJ41/2/3/4 - 24\n6946210942507 1 X 17.50 17.50\nBAG JR-3CXL 45*37*14CM\nUK41/3 - 6/120\n9034906 1 X 7.50 7.50\nMAGIC SEALER 6PC *S\nVA22 - 12/144\n9555797770007 1 X 7.90 7.90\nItem(s) : 4 Qty(s) : 5\n--------------------------------------\nTOTAL INCL. GST@6% RM 96.90\nEDC RM 96.90\nXXXXXXXXXXXX1308 (VISA)\nCHIEW YON LOY\nGST 6% included in total RM 5.48\n18-04-16 15:02 SHO1 ZJ08 T2 R000596811\nOPERATOR SLC - MAGESMARY\n\nEXCHANGE ARE ALLOWED WITHIN\n3 DAY WITH RECEIPT,\nSTRICTLY NO CASH REFUND."
+  }
+}

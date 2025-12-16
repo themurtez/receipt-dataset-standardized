@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Bota Minuto Amoreiras",
+    "address": "R. Prof. Lima Basto, Loja A1 1070-138 LISBOA",
+    "phone": "210994257",
+    "tax_id": "506175780",
+    "website": "www.botaminuto.com"
+  },
+  "transaction": {
+    "date": "2019-10-26",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 10.57,
+    "tax": 2.43,
+    "tip": 0.0,
+    "total": 13.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chili Lama",
+      "quantity": 5,
+      "unit_price": 2.6,
+      "total_price": 13.0,
+      "category": "Shoe Repair",
+      "accounting_category": "Goods",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_173935.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BotaMinuto Amoreiras\nContribuinte: 506175780\nRua Prof. Ragildo dos Anjos Lima Basto, Loja A1\nEscritório de Calças e Copias Chaves, Lda\nR. Prof. Lima Basto, Loja A1 1070-138 LISBOA\nC.R.C. n. 37449 - TORRE 5/3 2007\nTel. 210994257 www.botaminuto.com\nExmo(s) Senhor(a)\nFLEURHONE LISBOA\nNIF: 510776914 R.CLI:P510776914\nc/261111471\nFR 6/17271 Data 2019-10-26 Original\nFactura\nVendedor: BRUNO ANTUNES\nArt. Descrição Qde. Pr.Unit. Valor IVA\nCHILI LAMA UL050 U=5D\n172 5.00 2.600 13.00 23\nTotal de peças: 5\n01 Valor Liquido IVA Valor IVA\n4.57 23 4 2.00\n6.00 0 1.00\n10.57 23 2.43\nDESCONTO\n\nSUMARIZACAO EURO\n\nTOTAL DOCUMENTO: 13.00\nNumerario 13.00\n\n1/VR-Processado por Programa\nCertificado N: 1627/AT\nBem colacodos a disposição dos adquirentes nesta data, de acordo com a\nalinea f) de n. 5 do artigo 36 do CIVA.\nTrocas e devoluções aceites com comprovativo de compra até 30 dias da data de compra.\nA devolução de qualquer quantia inerente a troca ou devolução de artigo é feita por vale de reembolso com validade de 30 dias.\n\nObrigado pela Visita - Volte Sempre\nTalão Indispensavel para Entrega-Reclamação\nTrocas Prazo 1 Mês\nTel. 210994257 www.botaminuto.com\nConte-nos a sua Experiência!"
+  }
+}

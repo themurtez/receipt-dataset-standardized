@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "KRW",
+    "payment_method": "",
+    "subtotal": 469000.0,
+    "tax": 49170.0,
+    "tip": 23450.0,
+    "total": 541620.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SAMGYOPSAL",
+      "quantity": 1,
+      "unit_price": 97000.0,
+      "total_price": 97000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "OGYOPSAL",
+      "quantity": 1,
+      "unit_price": 97000.0,
+      "total_price": 97000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "YUKHWE",
+      "quantity": 1,
+      "unit_price": 150000.0,
+      "total_price": 150000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "RICE",
+      "quantity": 1,
+      "unit_price": 15000.0,
+      "total_price": 15000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "JABCHAE BEEF",
+      "quantity": 1,
+      "unit_price": 95000.0,
+      "total_price": 95000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "OCHA DINGIN (REFILL)",
+      "quantity": 1,
+      "unit_price": 15000.0,
+      "total_price": 15000.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SUNDBU CIHGE S",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000230.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SAMGYOPSAL 1 97,000\nOGYOPSAL 1 97,000\nYUKHWE 1 150,000\nRICE 1 15,000\nJABCHAE BEEF 1 95,000\nOCHA DINGIN 1 15,000\n(REFILL)\nSUNDBU\nCHIGES 1 0\n\nSub Total 469,000\nService 23,450\nVAT 49,170\nDiscount 0\n\nTOTAL 541,620"
+  }
+}

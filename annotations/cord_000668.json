@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "JPY",
+    "payment_method": "Cash",
+    "subtotal": 86363.0,
+    "tax": 8636.0,
+    "tip": 0.0,
+    "total": 94999.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Beef Curry Rice",
+      "quantity": 1,
+      "unit_price": 49091.0,
+      "total_price": 49091.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Ebi Tempura",
+      "quantity": 1,
+      "unit_price": 13636.0,
+      "total_price": 13636.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Skewered Tofu Roll",
+      "quantity": 1,
+      "unit_price": 12727.0,
+      "total_price": 12727.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Hot Oicha",
+      "quantity": 1,
+      "unit_price": 10909.0,
+      "total_price": 10909.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 5001.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000668.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BEEF CURRY RICE            1        49,091\nEBI TEMPURA                1        13,636\nSKEWERED TOFU ROLL         1        12,727\nHOT OICHA                  1        10,909\nSUB. TOTAL                        86,363\nRESTAURANT TAX                    8,636\nGRAND TOTAL                      94,999\n~CASH (94,999)\n\nChange: 5,001"
+  }
+}

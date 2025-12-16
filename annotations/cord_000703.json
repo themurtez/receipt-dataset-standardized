@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "XXI Café",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 60000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 60000.0,
+    "accounting_category": "food_and_beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Combo 1",
+      "quantity": 2,
+      "unit_price": 30000.0,
+      "total_price": 60000.0,
+      "category": "combo_meal",
+      "accounting_category": "food_and_beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000703.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "XXI Café\n\n2 Combo 1 60,000\n\nTOTAL 60,000\n\nCASH CHANGED\n60,000 0"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Auto Táxis Hebepe, Unipessoal Lda.",
+    "address": "Rua José Augusto Gonçalves, Nº 18, 4.º Esq, 2690-571 Santa Iria Da Azóia",
+    "phone": "963 045 667",
+    "tax_id": "504 619 560",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-04",
+    "time": "00:00:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 13.6,
+    "tax": 0.0,
+    "tip": 2.0,
+    "total": 15.6,
+    "accounting_category": "Transportation",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Taximeter Fare",
+      "quantity": 1,
+      "unit_price": 12.8,
+      "total_price": 12.8,
+      "category": "Transportation",
+      "accounting_category": "Transportation",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Surcharge",
+      "quantity": 1,
+      "unit_price": 0.8,
+      "total_price": 0.8,
+      "category": "Transportation",
+      "accounting_category": "Transportation",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_202746.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AUTO TÁXIS HEBEPE, Unipessoal Lda.\nContribuinte N.º 504 619 560\nReg. na Cons. Reg. Com. de Loures sob o N.° 16.357\nSoc. Unipessoal por Quotas • Capital Social 5.237,38 €\nRua José Augusto Gonçalves, Nº 18, 4.º Esq\n2690-571 SANTA IRIA DA AZÓIA • 963 045 667\nNº 13212\n*Este Documento é Válido Como RECIBO*\nV/N.º Contrib.\n31O1769€)\nTaxímetro ..... 12,80€\nSuplementos ... 0,80€\nOutros.............. %\nTOTAL = .......... 15,60€\nData 04/01/2018\n"
+  }
+}

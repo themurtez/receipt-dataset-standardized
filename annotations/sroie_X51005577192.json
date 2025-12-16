@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "FY Eagle Enterprise",
+    "address": "No. 42, Jalan PBS 14/11, Taman Perindustrian Bukit Serdang, 43300 Seri Kembangan, Selangor",
+    "phone": "03-89433143",
+    "tax_id": "00163156224",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-04",
+    "time": "15:14:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 6.6,
+    "tax": 0.4,
+    "tip": 0.0,
+    "total": 7.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SR TAPE OPP 48MMX80Y CLEAR",
+      "quantity": 2,
+      "unit_price": 3.5,
+      "total_price": 7.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005577192.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "FY EAGLE ENTERPRISE\n002065404-V\nNO. 42, JALAN PBS 14/11,\nTAMAN PERINDUSTRIAN BUKIT SERDANG,\n43300 SERI KEMBANGAN,\nSELANGOR\nTEL: 03-89433143 FAX: 03-89433143\nGST NO: 00163156224\n\nTAX INVOICE\n\nRECEIPT #: C500031180 DATE: 04/12/2017\nSALESPERSON : TIME: 15:14:00\nCASHIER : USER\n\nITEM QTY U/P AMOUNT\n(RM) (RM)\n\n12069 2 3.50 7.00\nSR. TAPE OPP 48MMX80Y CLEAR(B.PY)-ECS\nTOTAL QUANTITY 2\n\nSUB-TOTAL 6.60\nDISC 0.00\nGST 0.40\nROUNDING 0.00\n\nTOTAL 7.00\nCASH 7.00\nCHANGE 0.00\n\nGST SUMMARY\nCODE AMOUNT % TAX/AMT\nSR 6.60 6 0.40\n\nTAX TOTAL: 0.40\n\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU."
+  }
+}

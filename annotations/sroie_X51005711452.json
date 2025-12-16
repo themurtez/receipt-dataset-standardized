@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "Gerbang Alaf Restaurants Sdn Bhd",
+    "address": "Level 6, Bangunan TH, Damansara Uptown3, No.3, Jalan SS21/39, 47400 Petaling Jaya, Selangor",
+    "phone": "03-9010-9849",
+    "tax_id": "000504664064",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-21",
+    "time": "19:53:23",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 25.4,
+    "tax": 1.44,
+    "tip": 0.0,
+    "total": 25.4,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "M McChicken",
+      "quantity": 1,
+      "unit_price": 9.5,
+      "total_price": 9.5,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "M Coke",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "M Fries",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Side",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "McChicken",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "9 Nuggets",
+      "quantity": 1,
+      "unit_price": 10.9,
+      "total_price": 10.9,
+      "category": "Side",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Sweet and Sour Sauce",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Condiment",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Barbecue Sauce",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Condiment",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.6
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005711452.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "118\nGerbang Alaf Restaurants Sdn Bhd\n(65351-M)\nLicensee of McDonald's\nLevel 6, Bangunan TH, Damansara Uptown3\nNo.3, Jalan SS21/39,47400 Petaling Jaya\nSelangor\n(GST ID No: 000504664064)\nMcDonald's Shell Mahkota Cheras DT (#36\nTel No. 03-9010-9849\nTAX INVOICE\nMFY Side 1\nINV# 003621900066840\nORD #18 -REG #19- 21/03/2018 19:53:23\nQTY ITEM TOTAL\n1 M McChicken 9.50\n1 M Coke\n1 M Fries\n1 McChicken 5.00\n1 9Nuggets 10.90\n1 Sweet and Sour Sauce\n1 Barbecue Sauce\nTakeOut Total (incl GST) 25.40\nTotal Rounded 25.40\nCash Tendered 26.00\nChange 0.60\nTOTAL INCLUDES 6% GST 1.44\n---------------------------------------\nThank You and Please Come Again.\nGuest Relations Center : 1300-13-1300"
+  }
+}

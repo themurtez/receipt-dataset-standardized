@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "R. Actor António Silva, N7, 1649-033 Lisboa",
+    "phone": "213136180",
+    "tax_id": "500829993",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-08-16",
+    "time": "09:15:35",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 10.93,
+    "tax": 0.67,
+    "tip": 0.0,
+    "total": 11.6,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "MANT PD ACORES 250",
+      "quantity": 4,
+      "unit_price": 1.39,
+      "total_price": 5.56,
+      "category": "Dairy",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SU LARA PD 100% 1.5L",
+      "quantity": 6,
+      "unit_price": 0.99,
+      "total_price": 5.94,
+      "category": "Beverages",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SACO PLAST RECICL PD",
+      "quantity": 1,
+      "unit_price": 0.1,
+      "total_price": 0.1,
+      "category": "Cleaning",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 11,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_201537.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Pingo Doce\n... (rest of the text extracted from the receipt)"
+  }
+}

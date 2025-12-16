@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "SATU KAMPUNG ENTERPRISE SDN BHD",
+    "address": "NO.42, PASAR BORONG SELANGOR, JALAN PUTRA PERMAI, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "03-8938 2188",
+    "tax_id": "000816205824",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2014-12-13",
+    "time": "23:50:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 18.87,
+    "tax": 1.13,
+    "tip": 0.0,
+    "total": 20.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "35X40 Transparent Bag",
+      "quantity": 1,
+      "unit_price": 18.87,
+      "total_price": 20.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005806720.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SATU KAMPUNG ENTERPRISE SDN BHD\n(1127686-K)\nNO.42, PASAR BORONG SELANGOR,\nJALAN PUTRA PERMAI,\n43300 SERI KEMBANGAN. SELANGOR.\nTEL: 03-8938 2188\nSATUKAMPUNGESB@GMAIL.COM\nGST ID: 000816205824\nTAX INVOICE\nDoc No: CS00039038 Date: 13/12/2014\nCashier : USER Time: 23:50:00\nSalesperson : Ref.\nItem Qty S/Price (GST)\nS/Price\n(GST)\nAmount\nHHT006 1 18.87 20.00 20.00\n35X40 TRASPARENT BAG 1\nTotal Qty: 1 20.00\nTotal Sales (Excluding GST): 18.87\nDiscount : 0.00\nTotal GST : 1.13\nRounding : 0.00\nTotal Sales (Inclusive of GST) : 20.00\nCASH : 20.00\nChange : 0.00\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR 6 18.87 1.13\nTotal : 18.87 1.13\nGOODS SOLD ARE NOT RETURNABLE THANK YOU"
+  }
+}

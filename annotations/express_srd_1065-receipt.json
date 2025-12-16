@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Taco Maria",
+    "address": "3313 Hyland Ave. Ste C21, Costa Mesa, CA 92626",
+    "phone": "714 538 8444",
+    "tax_id": "",
+    "website": "www.tacomaria.com"
+  },
+  "transaction": {
+    "date": "2018-01-23",
+    "time": "12:16:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 42.5,
+    "tax": 3.29,
+    "tip": 0.0,
+    "total": 45.79,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Chicken",
+      "quantity": 1,
+      "unit_price": 15.0,
+      "total_price": 15.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Pescado",
+      "quantity": 1,
+      "unit_price": 18.0,
+      "total_price": 18.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Arrachera solo",
+      "quantity": 1,
+      "unit_price": 9.5,
+      "total_price": 9.5,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1065-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Taco Maria\n3313 Hyland Ave. Ste C21\nCosta Mesa, CA 92626\n714 538 8444\nwww.tacomaria.com\nOrder# 118888\nServer: Jesa R\nTable: Bar 7\nDate: 1/23/18, 12:16 PM\nChicken $15.00\nPescado $18.00\nArrachera solo $9.50\nSubtotal: $42.50\nTotal Tax: $3.29\nTotal: $45.79\nOrder Balance due: $45.79\nSuggested Gratuity\n18.00% of sale: $7.65 = $53.44\n20.00% of sale: $8.50 = $54.29\n22.00% of sale: $9.35 = $55.14"
+  }
+}

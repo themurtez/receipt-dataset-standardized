@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "ALXAMA LDA",
+    "address": "Rua das Covinhas, Lt. 170, 8125-407 Quarteira",
+    "phone": "",
+    "tax_id": "513819662",
+    "website": "www.alxama.com"
+  },
+  "transaction": {
+    "date": "2019-03-28",
+    "time": "20:34:00",
+    "currency": "EUR",
+    "payment_method": "CARD",
+    "subtotal": 17.7,
+    "tax": 2.3,
+    "tip": 0.0,
+    "total": 20.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Bolo Caco c/ Manteiga",
+      "quantity": 0.5,
+      "unit_price": 3.0,
+      "total_price": 1.5,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Sobremi Tiramisú",
+      "quantity": 0.5,
+      "unit_price": 3.52,
+      "total_price": 1.76,
+      "category": "Dessert",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Acomp Batata Frita",
+      "quantity": 0.5,
+      "unit_price": 4.02,
+      "total_price": 2.01,
+      "category": "Side",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Espetada Alcatra",
+      "quantity": 0.5,
+      "unit_price": 10.02,
+      "total_price": 5.01,
+      "category": "Main Course",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Acomp Arroz",
+      "quantity": 0.5,
+      "unit_price": 2.5,
+      "total_price": 1.25,
+      "category": "Side",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Esp Entrecosto Porco",
+      "quantity": 0.5,
+      "unit_price": 6.02,
+      "total_price": 3.01,
+      "category": "Main Course",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Água S/ Gas Grd",
+      "quantity": 0.5,
+      "unit_price": 3.0,
+      "total_price": 1.5,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Espeto de Ananas",
+      "quantity": 0.5,
+      "unit_price": 4.92,
+      "total_price": 2.46,
+      "category": "Dessert",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210320_172033.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ALXAMA LDA\nRua das Covinhas, Lt. 170, 8125-407 Quarteira\nNIF: 513819662\nwww.alxama.com\nFACTURA RECIBO - FR 190021/292\nData: 2019-03-28 20:34\nNIF: 514047395\nCliente: RIBERMONTE ALGARVE, LDA\nQTD PRODUTO VALOR IVA\n0,50 Bolo Caco c/ Manteiga 1,50 13%\n0,50 Sobremi Tiramisú 1,76 13%\n0,50 Acomp Batata Frita 2,01 13%\n0,50 Espetada Alcatra 5,01 13%\n0,50 Acomp Arroz 1,25 13%\n0,50 Esp Entrecosto Porco 3,01 13%\n0,50 Água S/ Gas Grd 1,50 13%\n0,50 Espeto de Ananas 2,46 13%\nTOTAL 20.00\nCARTÃO 20.00\nTaxa Base IVA Total\n13% 17,70 2.30 20.00\nObservações: IVA incluído à taxa em vigor\nIBAN: PT50 0035 0687 0000 5480 4305 1\nObrigado - Thank You\n"
+  }
+}

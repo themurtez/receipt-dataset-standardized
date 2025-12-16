@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Worten",
+    "address": "Rua Nova do Almada, Lisboa",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-12-01",
+    "time": "14:28:31",
+    "currency": "EUR",
+    "payment_method": "Credit Card",
+    "subtotal": 323.2,
+    "tax": 74.79,
+    "tip": 0.0,
+    "total": 397.99,
+    "accounting_category": "Electronics",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Samsung Galaxy",
+      "quantity": 1,
+      "unit_price": 323.2,
+      "total_price": 323.2,
+      "category": "Electronics",
+      "accounting_category": "Electronics",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_204806.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "WORTEN Amoreiras\n\nTRH Vidente Portugues Inwit 5 Lda\n\nSitio mmoaltnr\n\nDeum Marrramba 1250-218 051273638\n\nK.W. 080566430\n\nH. 014085111/3P08/13/1\n\nT-874 9: 2019/121/2019 14:28\n\nMorc N administrad comerta\n\nNome alteso no Nole\n\nSI602508\n\nCien es SINUIIUSTO\nnc so ima CM\n\nDECONTO DE: Refusado POR um\n\nPARQUE OPORG ELCTRICA\n\nProdi item ao dem pere ns\n\nFado dem ienda com ariete\n\nCodico Comple a tiis\n\nConnto sabe T1547282\n\nTotal final credito\n\nTxxa aos D MONVIGTO AO MENRADO\n\n400066092819634\n\nINFORAMDE\n\nNene domida unata EMtidademsm- Tome fimse usa cmdtro\n\nmemen oo emma do Mina\n\n2508 ali Yas 2 VVITM\n\nCv Ens mt Entem Da Palmemo Bra\n\nFadlo aiir ddor ado EL CTRIX\n\nTransação: medida um sdOut\n\nConta: 0805664310/13/1 ahaaoy\n\nRo N ser dama Demos Blten Po3.\n\n080066092819634\n\nTeriaana Ognsimpovdo: ADMIN/ANA\n\nTotal Lib 323.20\n\nIVA (23.00) 74.3\n\nTotal Final 397.99\n\nmontando recibido CDCT\n\n399 , 99\n\nVELT 06 00\n\nExtensaco: 00500203\n\nExcrido ao 150 REN: TCG9 Depto 2\n\nENTERPADA\n\nQ041?\n\nTCCME 1371029TV 17 LANAMAD 7 moa"
+  }
+}

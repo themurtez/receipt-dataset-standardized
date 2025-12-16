@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Aik Huat Hardware Enterprise (Setia Alam) Sdn Bhd",
+    "address": "No. 17-G, Jalan Setia Indah (X) U13/X, Setia Alam, Seksyen U13, 40170 Shah Alam",
+    "phone": "012-6651783",
+    "tax_id": "000394529768",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-05-10",
+    "time": "16:22:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 16.0,
+    "tax": 0.91,
+    "tip": 0.0,
+    "total": 16.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Schneider Vivace 15A S/Socket",
+      "quantity": 1,
+      "unit_price": 16.0,
+      "total_price": 16.0,
+      "category": "Electrical",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007339656.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AIK HUAT HARDWARE ENTERPRISE (SETIA ALAM) SDN BHD\n822737-X\nNO. 17-G, JALAN SETIA INDAH\n(X) U13/X, SETIA ALAM,\nSEKSYEN U13, 40170 SHAH ALAM.\nTEL: 012-6651783 FAX: 03-33623608\nGST NO: 000394529768\n\nSIMPLIFIED TAX INVOICE\n\nCASH\n\nRECEIPT #: CSP038298 DATE: 10/05/2017\nSALESPERSON : AH002 TIME: 16:22:00\n\nITEM QTY U/P AMOUNT\n(RM) (RM)\n120000143 1 16.00 16.00\nSCHNEIDER VIVACE 15A S/SOCKET\n\nTOTAL QUANTITY 1\n\nSUB-TOTAL (GST) 16.00\nDISC 0.00\nROUNDING 0.00\nTOTAL 16.00\nCASH 16.00\nCHANGE 0.00\n\n*GST @ 6% INCLUDED IN TOTAL\n\nGST SUMMARY\nCODE AMOUNT % TAX/AMT\nSR 15.09 6 0.91\n\nTAX TOTAL: 0.91\n\nGOODS SOLD ARE NOT REFUNDABLE,\nTHANK YOU FOR CHOOSING US.\nPLS PROVIDE ORIGINAL BILL FOR GOODS\nEXCHANGE WITHIN 1 WEEK FROM TRANSACTION\nGOODS MUST BE IN ORIGINAL STATE TO BE\nENTITLED FOR EXCHANGE."
+  }
+}

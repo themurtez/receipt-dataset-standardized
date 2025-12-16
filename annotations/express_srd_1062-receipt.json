@@ -1,0 +1,136 @@
+{
+  "merchant": {
+    "name": "Marianacci's Restaurant",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-02-18",
+    "time": "20:19:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 132.25,
+    "tax": 9.76,
+    "tip": 0.0,
+    "total": 142.01,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Prem White",
+      "quantity": 1,
+      "unit_price": 10.75,
+      "total_price": 10.75,
+      "category": "Beverages",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Prem Red",
+      "quantity": 1,
+      "unit_price": 10.75,
+      "total_price": 10.75,
+      "category": "Beverages",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Diet SDA",
+      "quantity": 1,
+      "unit_price": 3.75,
+      "total_price": 3.75,
+      "category": "Beverages",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "7 Up",
+      "quantity": 1,
+      "unit_price": 3.25,
+      "total_price": 3.25,
+      "category": "Beverages",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Vong Ripiene",
+      "quantity": 1,
+      "unit_price": 9.75,
+      "total_price": 9.75,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chicken Parm",
+      "quantity": 1,
+      "unit_price": 19.75,
+      "total_price": 19.75,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Scampi Milanes",
+      "quantity": 1,
+      "unit_price": 25.75,
+      "total_price": 25.75,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lingu Vong",
+      "quantity": 1,
+      "unit_price": 22.75,
+      "total_price": 22.75,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "1/2 Pasta Spi",
+      "quantity": 1,
+      "unit_price": 12.75,
+      "total_price": 12.75,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Diet SDA",
+      "quantity": 1,
+      "unit_price": 3.75,
+      "total_price": 3.75,
+      "category": "Beverages",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "7 Up",
+      "quantity": 1,
+      "unit_price": 3.25,
+      "total_price": 3.25,
+      "category": "Beverages",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 11,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1062-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MARIANACCI'S RESTAURANT\nTABLE 403 CHECK 39\nRoger GUESTS 4 FEB 18/18 8:19PM\nPREM WHITE 10.75\nPREM RED 10.75\nDIET SDA 3.75\n7 UP 3.25\nVONG RIPIENE 9.75\nChicken Parm 19.75\nSCAMPI MILANES 25.75\nLING VONG 22.75\n1/2 PASTA SPI 12.75\nDIET SDA 3.75\n7 UP 3.25\nSUBTOT 132.25\nTAX 9.76\nTOTAL 142.01\nThank You, THE MARIANACCI FAMILY"
+  }
+}

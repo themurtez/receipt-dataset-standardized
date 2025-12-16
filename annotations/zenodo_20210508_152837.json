@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Continente",
+    "address": "Urbanizacao Quinta da Baleia Lote 2 2655-378 Ericeira",
+    "phone": "",
+    "tax_id": "502011475",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-07-20",
+    "time": "09:34:51",
+    "currency": "EUR",
+    "payment_method": "Visa Electron",
+    "subtotal": 9.74,
+    "tax": 2.24,
+    "tip": 0.0,
+    "total": 11.98,
+    "accounting_category": "Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Papel Hig Remova Ole 38R+10R",
+      "quantity": 1,
+      "unit_price": 11.98,
+      "total_price": 11.98,
+      "category": "Household Supplies",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_152837.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CONTINENTE\nCNI BD Ericeira\nModelo Continente Hipermercados SA\nTel: 261262076\nUrbanizacao Quinta da Baleia Lote 2 2655-378 Ericeira\nRegistado CRC Mafra sob no: 502011475\nNIF: PT502011475\nC.S: 69.360.000,00 EUR SIRPEE: PT000251\nFatura Simplicada Original\nNo. F3 WEC004124262 20/07/2018 09:35\nREF: P15010776914\nIVA\nDESCRICACAO\nLIMPEZA DO LAR:\nPAPEL HIG REMOVA OLE 38R+10R\nTOTAL A PAGAR\nCarta Credito\nTROCO\n(23.0%)\nVALOR\n11,98\nIVA\n11,98\n11,98\n0,00\nIVA INCLUIDO\n23,0%\nTotal Liq.\n9,74\n2,24\n11,98\n1807200041343483238\n---------------------------------------------------------\nCONTINENTE BOM DIA\nERICEIRA\nERICEIRA\nTerminal Pagamento Automatico: 00935265\n2018-07-20 09:34:51 Perozz 1003 Msg176\n  CARD MASTERCARD\nERICEIRA/FLH\nCARTAO: ***/****/1906/01\nA0000000032010 VISA ELECTRON\nCOMPRA 11,98E VISTA D P\nID ENT: 0000212911 AUT:494486\nMetooixa\nPROCESSADO POR SIBS\nMetoxina\nIVA INCLUIDO\nTalesa Indispenavel para troca\nPrazo de devolucao\n15 dias\n* OBRIGADO *\n"
+  }
+}

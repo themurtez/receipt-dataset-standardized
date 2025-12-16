@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 102000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 102000.0,
+    "accounting_category": "Personal Care",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Shampo Aloevera",
+      "quantity": 1,
+      "unit_price": 46000.0,
+      "total_price": 46000.0,
+      "category": "Personal Care",
+      "accounting_category": "Personal Care",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sabun Propolis",
+      "quantity": 1,
+      "unit_price": 31000.0,
+      "total_price": 31000.0,
+      "category": "Personal Care",
+      "accounting_category": "Personal Care",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sabun Transparant Madu",
+      "quantity": 1,
+      "unit_price": 25000.0,
+      "total_price": 25000.0,
+      "category": "Personal Care",
+      "accounting_category": "Personal Care",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000683.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Shampo Aloevera 1\n46000\nSabun Propolis 1\n31000\nSabun Transparant\nMadu 1 25000\n\nSub Total 102000\nDiscount (0 %)\nTunai 102000\nKembalian 0"
+  }
+}

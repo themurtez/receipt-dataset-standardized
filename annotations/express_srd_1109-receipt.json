@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "BreadFish Cafe",
+    "address": "15848 Halliburton Rd, Hacienda Heights, CA 91745",
+    "phone": "(626)937-6555",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-06-14",
+    "time": "18:38:46",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 25.34,
+    "tax": 2.28,
+    "tip": 0.0,
+    "total": 27.62,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Popcorn Chicken",
+      "quantity": 1,
+      "unit_price": 4.39,
+      "total_price": 4.39,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Eraised Beef Flee/Noodle",
+      "quantity": 1,
+      "unit_price": 6.75,
+      "total_price": 6.75,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cold Noodle With Chicken",
+      "quantity": 1,
+      "unit_price": 6.25,
+      "total_price": 6.25,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Beef Noodles",
+      "quantity": 1,
+      "unit_price": 7.95,
+      "total_price": 7.95,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1109-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BreadFish Cafe\n15848 Halliburton Rd\nHacienda Heights, CA 91745\nTel:(626)937-6555\n\nTable: A2 Guests: 2\nServer: linda\nDine In#:137\nDate: 06/14/2017 18:38:46\nSQ# 10038\n\n[1] 盐酥鸡\n (辣, mild )\n Popcorn Chicken\n (Spicy , mild )\n $4.39\n[1] 控肉饭\n Eraised Beef flee/Noodle\n $6.75\n[1] 鸡丝凉面\n Cold Noodle With Chicken\n $6.25\n[1] 牛肉面\n Beef Noodles\n $7.95\n\nAmount: $25.34\nTax Rate:(9.00%): $2.28\nSub-Total: $27.62\n\n-----TIP GUIDE-----\n15% = $3.80\n18% = $4.56\n20% = $5.07\n\nThank You Very Much!"
+  }
+}

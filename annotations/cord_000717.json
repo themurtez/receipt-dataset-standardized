@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "XXI Café",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 55000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 55000.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Coke (L)",
+      "quantity": 1,
+      "unit_price": 25000.0,
+      "total_price": 25000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "XXI Java Tea Spc",
+      "quantity": 1,
+      "unit_price": 25000.0,
+      "total_price": 25000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Extra Jelly Lychee",
+      "quantity": 1,
+      "unit_price": 5000.0,
+      "total_price": 5000.0,
+      "category": "Add-on",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000717.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "XXI Café\n1 Coke (L) 25.000\n1 XXI Java Tea Spc 25.000\n1 Extra Jelly Lychee 5.000\nTOTAL 55.000\nCASH 55.000\nCHANGED 0"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "BAEGJEZIN",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "KRW",
+    "payment_method": "",
+    "subtotal": 50000.0,
+    "tax": 3750.0,
+    "tip": 0.0,
+    "total": 59125.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Gobau Pue C",
+      "quantity": 1,
+      "unit_price": 50000.0,
+      "total_price": 50000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000734.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "LOTTE COLLECTION\n24040112900026  500 ML EA          033,000\n0056755010\nLOTTE MIILKIS  16,500   2          133  000\nBAEGJEZIN\nGobau Pue C\n50,000\nITEMS 1\n50,000\nService charge 3,750\nPay 5,375\nTotal 59, 125\nFITWAR MEMBERSHIP\n50,000"
+  }
+}

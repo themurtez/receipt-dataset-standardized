@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "YANGPING GUAN",
+    "address": "RUA PRUDENCIO FRANCO DA TRINDADE N 19C, 2655-344 ERICEIRA",
+    "phone": "960128678",
+    "tax_id": "221589449",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-06-09",
+    "time": "15:37:01",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 2.76,
+    "tax": 0.64,
+    "tip": 0.0,
+    "total": 3.4,
+    "accounting_category": "Purchase",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "LAMPADA",
+      "quantity": 1,
+      "unit_price": 2.76,
+      "total_price": 2.76,
+      "category": "Goods",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_232451.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "YANPING GUAN\nRUA PRUDENCIO FRANCO DA TRINDADE N 19C\n2655-344 ERICEIRA\nN° Contribuinte.221589449\nTEL.960128678\nOriginal\n2019-6-9 15:37:01\nFATURA:FT 2/201700006490\nNOME: FLkEKHOME\nMORADA: ERICEIRA\nN° Contribuinte 510776914\nDescriça° Prec Dto Qta Total\nLAMPADA 0.85 0% 4 3.40\nTOTAL:3.40€\nRECEBIDO:3.40€\nTROCO:0.00€\nDto Total 0.00\nSub Total 3.40\nIVA% IMPONIB IVA VALOR TOTAL\n23.00 2.76 0.64 3.40\nIVA INCLUIDO"
+  }
+}

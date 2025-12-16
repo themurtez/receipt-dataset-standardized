@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Angelo's Pizza Restaurant",
+    "address": "12247 Sheridan St, Cooper City, FL 33026",
+    "phone": "(954) 893-2000",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-07-10",
+    "time": "21:32:06",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 31.45,
+    "tax": 1.89,
+    "tip": 0.0,
+    "total": 33.34,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Sprite",
+      "quantity": 1,
+      "unit_price": 2.55,
+      "total_price": 2.55,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Chicken Caesar Salad",
+      "quantity": 1,
+      "unit_price": 8.95,
+      "total_price": 8.95,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Chefs Special",
+      "quantity": 1,
+      "unit_price": 19.95,
+      "total_price": 19.95,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1160-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Angelo's Pizza Restaurant\n12247 Sheridan St\nCooper Cityb, FL 33026\n(954) 893-2000\n\nServer: Melina\t\tStation: 2\n\nOrder #: 4876\t\tDine In\nTable: 1\t\tGuests: 4\n\n1 Sprite\t\t\t\t2.55\n1 Chicken Caesar Salad\t8.95\n1 Chefs Special\t\t\t\t19.95\n > Chefs Special\n Soup of Day\n\nBar Subtotal:\t\t\t\t0.00\nFood Subtotal:\t\t\t31.45\nTax 1:\t\t\t\t\t\t1.89\n\nTOTAL:\t\t\t\t\t$33.34\n\n>> Ticket #: 56 <<\n7/10/2017 9:32:06 PM\n\nTHANK YOU!"
+  }
+}

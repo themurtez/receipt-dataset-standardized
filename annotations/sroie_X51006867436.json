@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Guardian Health And Beauty Sdn Bhd",
+    "address": "No 15 Jalan Bandar Rawang 10, Bandar Baru Rawang",
+    "phone": "03-60923052",
+    "tax_id": "1101084-I",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-24",
+    "time": "18:15:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 4.51,
+    "tax": 0.29,
+    "tip": 0.0,
+    "total": 4.5,
+    "accounting_category": "Retail",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Pringles Sour Crm",
+      "quantity": 1,
+      "unit_price": 4.8,
+      "total_price": 4.51,
+      "category": "Snack",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.01,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006867436.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Guardian Health And Beauty Sdn Bhd\nBandar Baru Rawang\nNo 15 Jalan Bandar Rawang 10\nBandar Baru Rawang\nTel:03-60923052\nCompany Reg: 1101084-I\nGST Reg: 0000879474816\n\n121062617 PRINGLES SOUR CR\n           Subtotal       4.80\n           Discountable   4.80\n6% tax & disc              0.29-\nReason: B\n           Subtotal       4.51\n\nRounding Adjustments       0.01-\nTotal (GST INCL)          4.50\nCash                      4.50\n\nYour Savings for Today    0.29\n\nThank You for Shopping\nAt Guardian\nAll Amounts Are in RM\nGoods sold are non-refundable.\nDispensed medicines sold are\nnot returnable.\nAll exchanges and returns including\nGuardian brand products must be made\nwithin 7 days with original receipts and\nproduct in original condition.\n\nST:8822 CTR:2 ID:2066 TAX INV: 38701\n18:15 24/05/18"
+  }
+}

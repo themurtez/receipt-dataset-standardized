@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "POPULAR BOOK CO. (M) SDN BHD",
+    "address": "No 8, Jalan 7/118B, Desa Tun Razak, 56000 Kuala Lumpur, Malaysia",
+    "phone": "03-56319320",
+    "tax_id": "001492992000",
+    "website": "www.popularonline.com.my"
+  },
+  "transaction": {
+    "date": "2018-03-05",
+    "time": "15:02:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 11.0,
+    "tax": 0.56,
+    "tip": 0.0,
+    "total": 9.9,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SC Acr Frame S103M",
+      "quantity": 2,
+      "unit_price": 5.5,
+      "total_price": 11.0,
+      "category": "Office Supplies",
+      "accounting_category": "Retail",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 10.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006008091.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "POPULAR BOOK CO. (M) SDN BHD\n(Co. No. 113825-W)\n(GST Reg No. 001492992000)\nNo 8, Jalan 7/118B, Desa Tun Razak\n56000 Kuala Lumpur, Malaysia\nEMPIRE SHOPPING GALLERY\nTel : 03-56319320\n\n05/03/18 15:02 Slip No.: 1010104759\nLi Fong Trans: 104610\n\nMember Card No: 1001016668849\nCard Expiry: 31/05/18\n\nDescription Amount\nSC Acr Frame S103M\n2pc @ 5.50 11.00 T\nMember Discount -1.10\n\nTotal RM Incl. of GST 9.90\nCash -20.00\nCHANGE 10.10\n\nItem Count 2\nGST Summary Amount (RM) Tax (RM)\nT @ 6% 9.34 0.56\n\nTotal Savings -1.10\n\nBE A POPULAR CARD MEMBER\nAND ENJOY SPECIAL DISCOUNTS\nTHANK YOU. PLEASE COME AGAIN.\nwww.popular.com.my\nBuy Chinese books online\nwww.popularonline.com.my"
+  }
+}

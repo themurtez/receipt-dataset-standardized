@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "UNHAKKA INTERNATIONAL SDN BHD",
+    "address": "12, Jalan Tampoi 7/4, Kawasan Perindustrian Tampoi, 81200 Johor Bahru, Johor",
+    "phone": "",
+    "tax_id": "867388-U",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-10",
+    "time": "18:23:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 8.48,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 8.5,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Meat Dish",
+      "quantity": 1,
+      "unit_price": 2.83,
+      "total_price": 2.83,
+      "category": "Food & Beverage",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "3 Vege",
+      "quantity": 1,
+      "unit_price": 4.15,
+      "total_price": 4.15,
+      "category": "Food & Beverage",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Imported Veggies",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Food & Beverage",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.02,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007846301.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "UNHAKKA INTERNATIONAL SDN BHD\n10 Jun 2018 18:23\n(867388-U)\n12, Jalan Tampoi 7/4,Kawasan Perindustrian\nTampoi,81200 Johor Bahru,Johor\nTAX INVOICE\nInvoice #: OR18061002160368\n\nItem\nQty\nTotal\nSR 100100000171-Meat Dish\nRM2.83\n1\nRM2.83\nSR 100100000031- 3 Vege\nRM4.15\n1\nRM4.15\nSR 100100000170- Imported Veggies\nRM1.50\n1\nRM1.50\n\nTotal Amount: RM8.48\nGST @0%: RM0.00\nRounding: RM0.02\nNett Total: RM8.50\nPayment Mode\nAmount\nCASH\nRM8.50\nChange\nRM0.00\n\nGST Summary\nAmount(RM)\nTax(RM)\nSR = GST@0%\n8.48\n0.00\n\nGST REG #000656195584\nBAR WANG RICE@PERMAS JAYA\nThank You & Come Again!\nLike and Follow Us on Facebook!\nFacebook.com/BarWangRice"
+  }
+}

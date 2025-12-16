@@ -1,0 +1,127 @@
+{
+  "merchant": {
+    "name": "99 Speed Mart S/B",
+    "address": "Lot P.T. 2811, Jalan Angsa, Taman Berkeley, 41150 Klang, Selangor, 1214-Jinjang Utara",
+    "phone": "",
+    "tax_id": "000181747712",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-01",
+    "time": "21:06:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 49.12,
+    "tax": 2.96,
+    "tip": 0.0,
+    "total": 52.08,
+    "accounting_category": "Grocery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Snek Ku Tam Tam Crab F",
+      "quantity": 1,
+      "unit_price": 3.65,
+      "total_price": 3.65,
+      "category": "Snacks",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Tic Tac Candy Mint",
+      "quantity": 1,
+      "unit_price": 2.1,
+      "total_price": 2.1,
+      "category": "Candy",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Mentos Sour Mix Chewy",
+      "quantity": 1,
+      "unit_price": 2.45,
+      "total_price": 2.45,
+      "category": "Candy",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Munchys Cracker Sandwi",
+      "quantity": 2,
+      "unit_price": 4.19,
+      "total_price": 8.38,
+      "category": "Snacks",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Julies Peanut Butter",
+      "quantity": 1,
+      "unit_price": 7.55,
+      "total_price": 7.55,
+      "category": "Snacks",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pipit Bleach 2*1kg TP",
+      "quantity": 1,
+      "unit_price": 4.2,
+      "total_price": 4.2,
+      "category": "Household",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Top Super White (Red)",
+      "quantity": 1,
+      "unit_price": 12.65,
+      "total_price": 12.65,
+      "category": "Household",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Ca3210 Camel Shorthand",
+      "quantity": 1,
+      "unit_price": 1.9,
+      "total_price": 1.9,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CS 1002 A5 H/Cover Not",
+      "quantity": 1,
+      "unit_price": 4.8,
+      "total_price": 4.8,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "UHU Glue",
+      "quantity": 2,
+      "unit_price": 2.2,
+      "total_price": 4.4,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 11,
+    "rounding": 0.02,
+    "change_due": 7.9
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006389888.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "99 SPEED MART S/B (519537-X)\nLOT P.T. 2811, JALAN ANGSA,\nTAMAN BERKELEY\n41150 KLANG, SELANGOR\n1214-JINJANG UTARA\nGST ID. NO : 000181747712\nINVOICE NO : 18203/102/T0466\n09:06PM 567455 01-11-17\n--------------------------------------------------\n0515 SNEK KU TAM TAM CRAB F RM3.65 s\n0649 TIC TAC CANDY MINT (WH RM2.10 s\n5178 MENTOS SOUR MIX CHEWY RM2.45 s\n2651 MUNCHYS CRACKER SANDWI RM8.38 s\n@2 X RM 4.19\n0249 JULIES PEANUT BUTTER S RM7.55 s\n820 PIPIT BLEACH 2*1KG TP RM4.20 s\n480 TOP SUPER WHITE (RED) 2 RM12.65 s\n9170 CA3210 CAMEL SHORTHAND RM1.90 s\n9413 CS 1002 A5 H/COVER NOT RM4.80 s\n8445 7CC UHU GLUE RM4.40 s\n@2 X RM 2.20\n--------------------------------------------------\nTotal Sales (Inclusive GST) RM 52.08\nRounding Adjustment RM .02\nRounding RM 52.10\nCASH RM 60.00\nCHANGE RM 7.90\nGST Summary Amount(RM) Tax(RM)\ns = 6% 49.12 2.96\nThank You. Please come again\nKeep the invoice for applicable returns"
+  }
+}

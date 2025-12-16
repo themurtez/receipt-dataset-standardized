@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "VND",
+    "payment_method": "CASH",
+    "subtotal": 22000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 22000.0,
+    "accounting_category": "Food and Beverages",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Classic Milktea Black [L]",
+      "quantity": 1,
+      "unit_price": 22000.0,
+      "total_price": 22000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverages",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 28000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000452.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Classic Milktea Black [L] 1 22,000\nTotal 22,000\nCASH 50,000\nChange 28,000"
+  }
+}

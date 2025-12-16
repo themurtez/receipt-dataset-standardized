@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Parques de Estacionamento S.A.",
+    "address": "Av. Conde Valbom, 30 - Piso 5, 1050-068 Lisboa",
+    "phone": "513311685",
+    "tax_id": "CRL 5536",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-11",
+    "time": "15:12:35",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 4.3,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 4.3,
+    "accounting_category": "Parking",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Parking",
+      "quantity": 1,
+      "unit_price": 4.3,
+      "total_price": 4.3,
+      "category": "Parking",
+      "accounting_category": "Parking",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210324_200647.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "est! . parques de \nEstacionamento S.A. \nAv : Conde Valbom, 30 ¢ Piso 5 \n1051=068 Lisboa \nCont: 513311685 / CRL; n5536 \nPARQUE CAMOES \n\nDoc n: 181168 \nTerminal: 22 \nBilhete No: 39563974 \nRetido: EUR 0,00 \nEntrada: 2019-03-11 13:19 \nValor: EUR 4,30 \nData: 2019-03-11 Hora: 15:13 \nIVA a taxa legal em vigor \nProcessado por Computador \nNome: Consumidor Final \nNIF: Consumidor Final \n\nPQ ESTACIONAMENTO \nCAMOES \nPC LUIS CAMOES ° \nLISBOA \n\nN.FC: ¥513311685 T.P.A: M093827 \nData; 2019/03/11 Hora; 15:12:35 \nPer.: 062 Tra: 015 Men: 897 \n\nCOMPRA-CHIP 00/80 \nISABEL MATIAS CRAVO/ \nCartao; 04 OP: 01166 \nwd kkK AK KK OK KK KK KK 7973 /15 \n\n511649FF20 \nMULTIBANCO \nConta/Autorizato: AUT:239266 \n\nBANCO BPI , 4,30 Eur \n\nMB \n\nPROCESSADO POR SIBS \n"
+  }
+}

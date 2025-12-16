@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "McDonald's",
+    "address": "1617 N Eastern Avenue, Los Angeles, CA 9001-0153",
+    "phone": "213-284-7300",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-07-27",
+    "time": "15:08:00",
+    "currency": "USD",
+    "payment_method": "Debit Card",
+    "subtotal": 6.64,
+    "tax": 0.63,
+    "tip": 0.0,
+    "total": 7.27,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Dbl Qtr Cheese",
+      "quantity": 1,
+      "unit_price": 5.99,
+      "total_price": 5.99,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "ADD Leaf Lettuce",
+      "quantity": 1,
+      "unit_price": 0.25,
+      "total_price": 0.25,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "ADD Mac Sauce",
+      "quantity": 1,
+      "unit_price": 0.4,
+      "total_price": 0.4,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1025-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "McDonald's Restaurant #3100\n1617 N EASTERN AVENUE\nLOS ANGELES, CA 9001-0153\nTEL# 213-284-7300\n\nK3 # 2 07/27/2019 03:08 PM\nSide1 Order 97\n\n1 Dbl Qtr Cheese 5.99\n Special Request\n ADD Leaf Lettuce 0.25\n ADD Mac Sauce 0.40\n\n Subtotal 6.64\n Tax 0.63\nTake-Out Total 7.27\n\nCashless\nChange 0.00\n\nMER# 439206\nCARD ISSUER\nBDW DEBIT CARD SALE\nTRANSACTION AMOUNT 7.27\nCHIP READ\nAUTHORIZATION DC: 816541\nSEQ# 039988\nAID: A0000000042203\n\nMcDonald's now available on UberEATS"
+  }
+}

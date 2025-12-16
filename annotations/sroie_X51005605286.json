@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "AEON CO. (M) BHD",
+    "address": "3RD FLR, AEON TAMAN MALURI SC, JLN JEJAKA, TAMAN MALURI, CHERAS, 55100 KUALA LUMPUR",
+    "phone": "1-300-80-AEON (2366)",
+    "tax_id": "002017394688",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-02-09",
+    "time": "12:53:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 5.9,
+    "tax": 0.33,
+    "tip": 0.0,
+    "total": 5.9,
+    "accounting_category": "Retail",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "STERILE FILTRAT",
+      "quantity": 1,
+      "unit_price": 5.9,
+      "total_price": 5.9,
+      "category": "Health",
+      "accounting_category": "Medical Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 4.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005605286.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AEON CO. (M) BHD (126926-H)\n3RD FLR, AEON TAMAN MALURI SC\nJLN JEJAKA, TAMAN MALURI\nCHERAS, 55100 KUALA LUMPUR\nGST ID : 002017394688\nSHOPPING HOURS\nMON-SUN:1000 HRS - 2200 HRS\n000008190901 5.90SR\nSTERILE FILTRAT\nSub-total 5.90\nTotal Sales Incl GST 5.90\nTotal After Adj Incl GST 5.90\nCASH 10.00\nItem Count 1 Change Amt 4.10\nInvoice No: 2018020951320023885\nGST Summary Amount Tax\nSR @ 6% 5.57 0.33\nTotal 5.57 0.33\n09/02/2018 12:53 5132 002 0023885\n0301371 NORSHAM BINTI AHAMED SHA\nDAISO SUNWAY VELOCITY\nTEL 1-300-80-AEON (2366)\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN\nBoom Pay Already"
+  }
+}

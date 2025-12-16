@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "YONG CEN ENTERPRISE",
+    "address": "9, JALAN SUBANG JASA 3, 40160 SHAH ALAM, SELANGOR",
+    "phone": "012-8719498",
+    "tax_id": "001147081824",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-06-21",
+    "time": "07:50:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 106.0,
+    "tax": 3.0,
+    "tip": 0.0,
+    "total": 108.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ZRL IKAN BILIS PEK BOOT PUTIH 100G",
+      "quantity": 100,
+      "unit_price": 0.55,
+      "total_price": 55.0,
+      "category": "Grocery",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "SR. FEI YAN BRAND YOUNG CORN 425G",
+      "quantity": 1,
+      "unit_price": 50.0,
+      "total_price": 50.0,
+      "category": "Grocery",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 101,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006388089.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "YONG CEN ENTERPRISE\n9, JALAN SUBANG JASA 3,\n40160 SHAH ALAM, SELANGOR.\nTEL: 012-8719498\nGST NO: 001147081824\n-----------------------------------\nCASH\nRECEIPT #: CSD0639602 DATE: 21/06/2017\nSALESPERSON: TIME: 07:50:00\nCOUNTER:\nITEM QTY U/P AMOUNT\n9556211104294 100 0.55 55.00\nZRL IKAN BILIS PEK BOOT PUTIH 100G\n955623500307 1 50.00 50.00\nSR. FEI YAN BRAND YOUNG CORN 425G (F\nTOTAL QUANTITY 101\n-----------------------------------\nSUB-TOTAL 106.00\nDISC 0.00\nGST 3.00\nTAX 0.00\nROUNDING 0.00\nTOTAL 108.00\nCASH 108.00\nCHANGE 0.00\nGOODS SOLD ARE NOT RETURNABLE.\nTHANK YOU."
+  }
+}

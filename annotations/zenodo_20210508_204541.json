@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "GAR. RIBAMAR (Campo de Ourique)",
+    "address": "Rua Correia Teles 20 B, 1350-099 Lisboa",
+    "phone": "213652393",
+    "tax_id": "P180119406",
+    "website": "clientes@galp.com"
+  },
+  "transaction": {
+    "date": "2027-07-27",
+    "time": "14:37:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 44.43,
+    "tax": 8.31,
+    "tip": 0.0,
+    "total": 44.43,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Gasóleo Simples",
+      "quantity": 1,
+      "unit_price": 44.43,
+      "total_price": 44.43,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_204541.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "DOCUMENTO DE VENDA\nGAR. RIBAMAR (Campo de Ourique) 11/22\nGAR.RIBAMAR F. CURIA COSTA\nRua Correia Teles 20 B\n1350-099 Lisboa Tel: 213652393\nNIF: P180119406\nFatura/Recibo\nQuantidade Bomba 03\nPreço Unitário\n31.20 L\nGASOLEO SIMPLES EUR 44.43 A\n1.424 EUR / L\nTotal A EUR 44.43\n23.00 % IVA A EUR 8.31\nCliente: 35561\nNome: FLIKEHOME\nMorada: LISBOA\nCodigo Postal:\nOperador: Paulo Freitas\nDoc. Nº\n01200100040112720218/0000107868\ncbMM Processado por Programa\nCertificado no: 1396/AT\nData Hora NºTr POS NOp Turno\n27-07-18 14:37 0540/011/0002 309\nRegime IVA de Caixa nos casos em que tal\naplicável ao cliente\nclientes@galp.com Tel. 707 504 257\nDescontos ate 6cnt/l com cartao Universo\nPague com saldo do Cartao Continente\nEVOLUCAO\nO combustivel mais evoluido\nValor\nEUR 44.43\nTotal\nEUR 44.43\nNUMERARIO\n9 501054702001807004 4 43O\n"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Millennium BCP",
+    "address": "Lisboa",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-22",
+    "time": "09:58:52",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 5.9,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 5.9,
+    "accounting_category": "Purchase",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Compra",
+      "quantity": 1,
+      "unit_price": 5.9,
+      "total_price": 5.9,
+      "category": "General",
+      "accounting_category": "Purchase",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_180640.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "LISBOA\nIdent. TPA 00746930\n2019-03-22 09:58:52\nPer: 091 Tr: 003 M: 369\nMILLENNIUM BCP\nMANUEL ARROUBE/JOSE\nCARTAO: ****8902/27\n501649FF20\nMULTIBANCO\nCOMPRA 5,90€\nAUT: 169386 MB\nCÓPIA CLIENTE\nPROCESSADO POR SIBS"
+  }
+}

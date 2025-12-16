@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 128000.0,
+    "tax": 12800.0,
+    "tip": 0.0,
+    "total": 140800.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "LONTONG CAP GO MEH",
+      "quantity": 1,
+      "unit_price": 57000.0,
+      "total_price": 57000.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "NASI LIWET (SATE RUNTEL AYAM)",
+      "quantity": 1,
+      "unit_price": 45000.0,
+      "total_price": 45000.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TEH JAWA",
+      "quantity": 2,
+      "unit_price": 13000.0,
+      "total_price": 26000.0,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000319.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "LONTONG CAP GO MEH\n1 X 57,000 57,000\nNASI LIWET (SATE RUNTEL AYAM)\n1 X 45,000 45,000\nTEH JAWA\n2 X 13,000 26,000\nJumlah Item 4\nSub Total 128,000\nPajak Resto 12,800\nGrand Total 140,800"
+  }
+}

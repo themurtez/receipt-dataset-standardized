@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "JPY",
+    "payment_method": "Cash",
+    "subtotal": 96363.0,
+    "tax": 9636.0,
+    "tip": 0.0,
+    "total": 105999.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "KAKE UDON",
+      "quantity": 1,
+      "unit_price": 30909.0,
+      "total_price": 30909.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "KITSUNE UDON (KIDS)",
+      "quantity": 1,
+      "unit_price": 28182.0,
+      "total_price": 28182.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "COLD OCHA",
+      "quantity": 1,
+      "unit_price": 10909.0,
+      "total_price": 10909.0,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "SKEWERED TOFU ROLL",
+      "quantity": 1,
+      "unit_price": 12727.0,
+      "total_price": 12727.0,
+      "category": "Food",
+      "accounting_category": "Appetizer",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "EBI TEMPURA",
+      "quantity": 1,
+      "unit_price": 13636.0,
+      "total_price": 13636.0,
+      "category": "Food",
+      "accounting_category": "Appetizer",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000667.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KAKE UDON 1 30,909\nKITSUNE UDON (KIDS) 1 28,182\nCOLD OCHA 1 10,909\nSKEWERED TOFU ROLL 1 12,727\nEBI TEMPURA 1 13,636\nSUB. TOTAL 96,363\nRESTAURANT TAX 9,636\nGRAND TOTAL 105,999\nCASH [105,999]\nChange: 0"
+  }
+}

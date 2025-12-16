@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Worten",
+    "address": "Edificio Amoreiras Plaza, Rua Maria Ulrich, 1070-169 Lisboa",
+    "phone": "",
+    "tax_id": "503630330",
+    "website": "www.worten.pt"
+  },
+  "transaction": {
+    "date": "2019-03-12",
+    "time": "17:12:00",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 16.25,
+    "tax": 3.74,
+    "tip": 0.0,
+    "total": 19.99,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Pequenos Domésticos: Ferro a Vapor KUNFT KSI-25",
+      "quantity": 1,
+      "unit_price": 19.99,
+      "total_price": 19.99,
+      "category": "Household Appliances",
+      "accounting_category": "Retail - Small Appliances",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.01,
+    "change_due": 0.01
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_170238.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Worten\nJNT Amoreiras\nWORTEN Equipamentos para o Lar SA\nEdificio Amoreiras Plaza, Rua Maria Ulrich, 1070-169\nLisboa\nRegistada no Porto sob nº 503630330\nNIF:PT503630330\nC.S.:8.650.000,00 EUR SIRPEE: PI0001267\nFatura Simplificada Original\nNro: S. HK000367417 12/03/2019 17:12\nNIF:PT510758914\nIVA DESCRIÇAO VALOR\nPequenos Domésticos:\n5601986024964R FERRO A VAPOR\nKUNFT KSI-25 19.99\nTOTAL A PAGAR 19.99\nNumerário 20.00\nTROCO 0.01\n% IVA To tel i.v.a. IVA Total\n23.00% 16.25 3.74 19.99\n19031200367096561982\nIVA INCLUÍDO\nTalão indispensável para troca\nPrazo de devolução: 15 dias\n** OBRIGADO **\nNão estão abrangidos pela política de\nsatisfação/devolução os artigos com\nativação em caixa\nPara mais informações consultar\nwww.worten.pt"
+  }
+}

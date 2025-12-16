@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "ERILAR",
+    "address": "Forum São Sebastião, Loja A, 2655-210 Ericeira",
+    "phone": "261869537",
+    "tax_id": "124713491",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-12-06",
+    "time": "18:06:36",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 59.0,
+    "tax": 11.03,
+    "tip": 0.0,
+    "total": 59.0,
+    "accounting_category": "Heating Appliance",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CALORIFICO OLEO ORBEGOZO 2000W RF2000",
+      "quantity": 1,
+      "unit_price": 59.0,
+      "total_price": 59.0,
+      "category": "Heating Appliance",
+      "accounting_category": "Heating Appliance",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_183637.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ERILAR\nDe Maria Rosário Alves Almeida Pimenta\nForum São Sebastião, Loja A 2655-210 Ericeira\nNIF: 124713491\nTelf 261869537 / Email erilar@tien21.pt\nFatura Recibo Nº: FR 1/1072\nORIGINAL\nNome: FLIKEHOME\nContribuinte: 510776914\nMorada:\nDATA: 2018-12-06 HORA: 18:06:36\nQnt Produto Unit SubT Tx\n1 CALORIFICO OLEO 59,00 59,00 23\nORBEGOZO 2000W\nRF2000\nTOTAL: 59,00 €\nModos de Pagamento\nMétodo Moeda Total\nNumerário EUR 59,00\nResumo de Impostos\nTx Total Imposto Incidencia\n23,00 11,03 47,97\nDados de Carga\n2018-12-06 18 :21:36\nForum São Sebastião, Loja A 2655-210 Ericeira PT\nDados de Descarga\nV/ MORADA\nNº de itens 0\nSaldo 0,00 €\nEgFL-Processado por programa certificado\nXD Gestão Comercial N. 2123/AT\nUtilizador: Utilizador\nInformatizado por www.inforautens.com\n* Obrigado e volte sempre! *"
+  }
+}

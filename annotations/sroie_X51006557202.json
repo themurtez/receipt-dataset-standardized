@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Gardenia Bakeries (KL) Sdn Bhd",
+    "address": "Lot 3, Jalan Pelabur 23/1, 40300 Shah Alam, Selangor",
+    "phone": "03-55423228",
+    "tax_id": "000381399040",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-10-08",
+    "time": "12:11:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 46.82,
+    "tax": -0.04,
+    "tip": 0.0,
+    "total": 46.06,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "O.C. WHITE",
+      "quantity": 7,
+      "unit_price": 2.13,
+      "total_price": 14.91,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "WHOLEMEAL",
+      "quantity": 4,
+      "unit_price": 2.78,
+      "total_price": 11.12,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "O.C JUMBO",
+      "quantity": 6,
+      "unit_price": 2.97,
+      "total_price": 20.79,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 17,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006557202.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GARDENIA BAKERIES (KL) SDN BHD (139386 X)\nLot 3, Jalan Pelabur 23/1,\n40300 Shah Alam, Selangor.\nTel: 03-55423228 Fax: 03-55423213\nGST ID: 000381399040\nTAX INVOICE / ADJUSTMENT NOTE\nCash Inv No.: 70086F710\nVE0514 Date: 08/10/2017\nMAKASSAR FRESH MARKET SDN BHD\nGROUND FLOOR, NO. 4 & 6,\nJALAN SS 15/4B,\n47500 SUBANG JAYA, SELANGOR\nV105: Ridzuan (11996)\nDD: 08/10/2017 12:11\nDescription U.P Iss Ex  D Sale Amt(RM)\nO.C. WHITE 2.13 9 2 0 7 14.91\nWHOLEMEAL 2.78 6 2 0 4 11.12\nO.C JUMBO 2.97 8 1 0 6 20.79\nTotal 0% supplies: 46.82\nCR-B'SCOTCH 0.72 0 1 0 -1 -0.72\nTotal 6% supplies (excl. GST): -0.72\nGST: -0.04\nTotal 6% supplies (Inc. GST): -0.76\nTotal 0% supplies: 46.82\nTotal Payable: 46.06\nE.&O.E\nreceived above goods in good order condition.\ne recipient of Gardenia's products is\nrequired to make necessary adjustments to its\ntax claims, on the basic of the\nounts shown in this Tax Invoice /\nNote\nRE-PRINT"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "99 Speed Mart S/B",
+    "address": "Lot P.T. 2811, Jalan Angsa, Taman Berkeley, 41150 Klang, Selangor, 1225-Dengkil",
+    "phone": "",
+    "tax_id": "000181747712",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-28",
+    "time": "11:59:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 26.33,
+    "tax": 1.57,
+    "tip": 0.0,
+    "total": 27.9,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Coke Light 500ml",
+      "quantity": 2,
+      "unit_price": 2.2,
+      "total_price": 4.4,
+      "category": "Beverages",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Spritzer Mineral Water",
+      "quantity": 1,
+      "unit_price": 23.5,
+      "total_price": 23.5,
+      "category": "Beverages",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008142038.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "99 SPEED MART S/B (519537-X)\nLOT P.T. 2811, JALAN ANGSA,\nTAMAN BERKELEY\n41150 KLANG, SELANGOR\n1225-DENGKIL\nGST ID. NO : 000181747712\nINVOICE NO : 18291/102/T0163\n11:59AM 567640 28-01-18\n973 COKE LIGHT 500ML RM4.40\n@2 X RM 2.20\n5581 SPRITZER MINERAL WATER RM23.50\nTotal Sales (Inclusive GST) RM 27.90\nCASH RM 28.00\nCHANGE RM .10\nGST Summary Amount(RM) Tax(RM)\ns = 6% 26.33 1.57\nThank You. Please come again\nKeep the invoice for applicable returns"
+  }
+}

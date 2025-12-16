@@ -1,0 +1,154 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "JAPANTINA",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-11-01",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Card",
+    "subtotal": 3403000.0,
+    "tax": 362581.0,
+    "tip": 0.0,
+    "total": 3703791.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Chum Churum",
+      "quantity": 1,
+      "unit_price": 150000.0,
+      "total_price": 150000.0,
+      "category": "Beverage",
+      "accounting_category": "Drink",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Chamisul",
+      "quantity": 3,
+      "unit_price": 450000.0,
+      "total_price": 450000.0,
+      "category": "Beverage",
+      "accounting_category": "Drink",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Gong Gibab",
+      "quantity": 3,
+      "unit_price": 60000.0,
+      "total_price": 60000.0,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Chulpan Cheese Dak Galbi",
+      "quantity": 1,
+      "unit_price": 125000.0,
+      "total_price": 125000.0,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Mineral Water",
+      "quantity": 1,
+      "unit_price": 13000.0,
+      "total_price": 13000.0,
+      "category": "Beverage",
+      "accounting_category": "Drink",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Cream Tteok Po Ki",
+      "quantity": 1,
+      "unit_price": 110000.0,
+      "total_price": 110000.0,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Chum Churum",
+      "quantity": 8,
+      "unit_price": 120000.0,
+      "total_price": 1200000.0,
+      "category": "Beverage",
+      "accounting_category": "Drink",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Peach",
+      "quantity": 1,
+      "unit_price": 250000.0,
+      "total_price": 250000.0,
+      "category": "Food",
+      "accounting_category": "Dessert",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Yangnyeom Galbisal",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Cham Kkot Sal",
+      "quantity": 2,
+      "unit_price": 660000.0,
+      "total_price": 660000.0,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "U Sam Gyeop",
+      "quantity": 1,
+      "unit_price": 160000.0,
+      "total_price": 160000.0,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Cheese",
+      "quantity": 1,
+      "unit_price": 100000.0,
+      "total_price": 100000.0,
+      "category": "Food",
+      "accounting_category": "Extra",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Gamjajeon",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Side",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 12,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000701.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "JAPANTINA\n11-1-2018\n\nCHUM CHURUM 1 150,000\nCHAMISUL 3 450,000\nGONG GIBAB 3 60,000\nCHULPAN CHEESE DAK GALBI 1 250,000\n*MINERAL WATER 1 13,000\nCREAM TTEOK PO KI 1 110,000\nCHUM CHURUM 8 1,200,000\nPEACH 1 250,000\nYANGNYEOM GALBISAL\nCHAM KKOT SAL 2 660,000\nU SAM GYEOP 1 160,000\nCHEESE 1 100,000\nGAMJAEON\nSub Total 3,403,000\nService 238,210\nTax 362,581\nDiscount 300,000\nTOTAL 3,703,791\nCard 3,703,791\nCHANGE 0"
+  }
+}

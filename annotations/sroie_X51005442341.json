@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "RESTAURANT SIN DU",
+    "address": "K3-113, JL IBRAHIM SULTAN, 80300 JOHOR BAHRU, JOHOR",
+    "phone": "019-7521215, 016-7867868",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-09",
+    "time": "21:26:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 170.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 170.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "DPT.05",
+      "quantity": 1,
+      "unit_price": 149.0,
+      "total_price": 149.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "DPT.04",
+      "quantity": 1,
+      "unit_price": 21.0,
+      "total_price": 21.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005442341.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "RESTAURANT SIN DU\nK3-113, JL IBRAHIM SULTAN\n80300 JOHOR BAHRU\nJOHOR\nH/P: 019-7521215\n016-7867868\n\n09/03/2018 21:26  0001\n000000#7259 CASHIER01\n\nDPT.05  RM 149.00\nDPT.04  RM  21.00\n\nCASH\nRM  170.00"
+  }
+}

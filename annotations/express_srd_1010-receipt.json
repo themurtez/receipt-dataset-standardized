@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Friendly Red's of Windham",
+    "address": "22 Haverhill Rd\nWindham NH",
+    "phone": "603-437-7251",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-07-21",
+    "time": "12:56:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 71.4,
+    "tax": 6.43,
+    "tip": 0.0,
+    "total": 77.83,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Cadillac Margarita",
+      "quantity": 2,
+      "unit_price": 14.0,
+      "total_price": 28.0,
+      "category": "Beverage",
+      "accounting_category": "Alcohol",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Patron Silver",
+      "quantity": 1,
+      "unit_price": 14.0,
+      "total_price": 14.0,
+      "category": "Beverage",
+      "accounting_category": "Alcohol",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Maryland Crab Cakes",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Chicken Caprese",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Chix Parm Sandwich",
+      "quantity": 1,
+      "unit_price": 10.0,
+      "total_price": 10.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Bud Light",
+      "quantity": 2,
+      "unit_price": 3.7,
+      "total_price": 7.4,
+      "category": "Beverage",
+      "accounting_category": "Alcohol",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1010-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Friendly Red's\nof Windham\n22 Haverhill Rd\nWindham NH\n603-437-7251\nServer: Giancarlo 07/21/2018\n12:56 PM\n104/1 10076\nGuests: 2\nReprint #: 1\nCadillac Margarita (2 @14.00) 28.00\nPatron Silver 14.00\nMaryland Crab Cakes 12.00\nChicken Caprese 12.00\nChix Parm Sandwich 10.00\nBud Light (2 @3.70) 7.40\nSubtotal 71.40\nTax 6.43\nTotal 77.83\nBalance Due 77.83\nJoin us on\nFacebook &\n"
+  }
+}

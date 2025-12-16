@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "GL Handicraft & Tailoring",
+    "address": "19, Jalan Kancil, Off Jalan Pudu, 55100 Kuala Lumpur, Malaysia",
+    "phone": "",
+    "tax_id": "001948632736",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-20",
+    "time": "13:01:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 102.0,
+    "tax": 5.77,
+    "tip": 0.0,
+    "total": 102.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Safety Pins Butterfly - S",
+      "quantity": 6,
+      "unit_price": 17.0,
+      "total_price": 102.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005453801.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "3180303\nGL HANDICRAFT & TAILORING\n19, JALAN KANCIL,\nOFF JALAN PUDU,\n55100 KUALA LUMPUR\nMALAYSIA\nCompany Reg No.: 75495-W\nGST Reg No.: 001948632736\nTAX INVOICE\nInvoice No.: CS10012\nDate: 20/03/2018 13:01\nCashier #: 01\n RM Co\nSAFETY PINS BUTTERFLY - S\n6.00 BOXS x 17.00 102.00 SR\nSubtotal: 102.00\nTotal Excl. 0%GST 96.23\nTotal Incl. of GST 102.00\nTotal Amt Rounded 102.00\nPayment 102.00\nChange Due 0.00\nTotal Item(s): 6\nGST Summary Amount(RM) Tax(RM)\nSR @ 6% 96.23 5.77\n***** THANK YOU *****\n**** PLEASE COME AGAIN ****"
+  }
+}

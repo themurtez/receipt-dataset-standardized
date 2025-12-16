@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (M) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000306020352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-19",
+    "time": "17:39:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 14.53,
+    "tax": 0.87,
+    "tip": 0.0,
+    "total": 15.4,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CAULKING GUN",
+      "quantity": 1,
+      "unit_price": 6.3,
+      "total_price": 6.3,
+      "category": "Hardware",
+      "accounting_category": "Tools",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "HEAVY DUTY SCOURPAD 5S",
+      "quantity": 2,
+      "unit_price": 2.5,
+      "total_price": 5.0,
+      "category": "Cleaning Supplies",
+      "accounting_category": "Household",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "VIP HANDLE DUSTPAN 370 2.5'",
+      "quantity": 1,
+      "unit_price": 3.9,
+      "total_price": 3.9,
+      "category": "Cleaning Supplies",
+      "accounting_category": "Household",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PLASTIC BAGS",
+      "quantity": 1,
+      "unit_price": 0.2,
+      "total_price": 0.2,
+      "category": "Miscellaneous",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007103639.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. D.I.Y. (M) SDN BHD\n(CO.REG : 860671-D)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000306020352)\n(IOI PUCHONG)\n-TAX INVOICE-\nCAULKING GUN *S\nKE41-51/2 - 50\n9071604 1 X 6.30 6.30\nS/B HEAVY DUTY SCOURPAD 5S B315 *S\nWA10 - 24/72\n9555559040027 2 X 2.50 5.00\nVIP HANDLE DUSTPAN 370 2.5' *S\nWA12 - 12/144\n9555221303467 1 X 3.90 3.90\nPLASTIC BAGS\n99999 1 X 0.20 0.20\nItem(s) : 4 Qty(s) : 5\nTotal Incl. GST@6% RM 15.40\nCASH RM 15.40\nGST @6% included in total RM 0.87\n----------------------------------------------------------------\n19-04-18 17:39 SH01 ZJ86 T1 R000118079\nOPERATOR TRAINEE CASHIER\nEXCHANGE ARE ALLOWED WITHIN\n7 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

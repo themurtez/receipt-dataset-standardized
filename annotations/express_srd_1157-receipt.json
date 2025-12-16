@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "College of Southern Nevada - Russell's Restaurant",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2014-10-08",
+    "time": "12:10:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 9.7,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 9.7,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Latte",
+      "quantity": 1,
+      "unit_price": 1.75,
+      "total_price": 1.75,
+      "category": "Beverages",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Salmon",
+      "quantity": 1,
+      "unit_price": 7.95,
+      "total_price": 7.95,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1157-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "COLLEGE OF SOUTHERN NEVADA\nRUSSELL'S RESTAURANT\n108 SERV 7\nTbl 55/1 Chk 4488 Gst 1\nOct08'14 12:10PM\n1 LATTE 1.75\n*NO FLAVOR\n1 SALMON 7.95\n12:44PM Amount Due 9.70\nCOLLEGE OF SOUTHERN NEVADA\nWHERE HOSPITALITY EDUCATION\nTAKES LIFE\nPLEASE PAY CASHIER\nThank You"
+  }
+}

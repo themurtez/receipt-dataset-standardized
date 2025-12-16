@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "Bonjardim, Manuel Castanheira Martinez, Lda",
+    "address": "Travessa de Santo Antao N.11, 1150-312 Tel.",
+    "phone": "",
+    "tax_id": "500767199",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-11-18",
+    "time": "13:45:18",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 27.68,
+    "tax": 4.07,
+    "tip": 0.0,
+    "total": 31.75,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Coca Cola",
+      "quantity": 2,
+      "unit_price": 2.2,
+      "total_price": 4.4,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Joa FASITO",
+      "quantity": 1,
+      "unit_price": 1.4,
+      "total_price": 1.4,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Salada Mista",
+      "quantity": 1,
+      "unit_price": 3.25,
+      "total_price": 3.25,
+      "category": "Salad",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Frango Assado",
+      "quantity": 1.5,
+      "unit_price": 3.93,
+      "total_price": 5.9,
+      "category": "Chicken",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Frango Assado",
+      "quantity": 1,
+      "unit_price": 11.0,
+      "total_price": 11.0,
+      "category": "Chicken",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Arroz",
+      "quantity": 1,
+      "unit_price": 1.6,
+      "total_price": 1.6,
+      "category": "Rice",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cafe",
+      "quantity": 3,
+      "unit_price": 0.9,
+      "total_price": 2.7,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pedras",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_205438.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Bonjardim\nManuel Castanheira Martinez, Lda\nTravessa de Santo Antao N.11\n1150-312 Tel.\nN. Contrib. 500767199\nRegisto na Cons. m.\nCapital Social\nN.C. 510776914\n-------------------------------\nFatura simplificada FS 003/135881\n2019-11-18 13:45:18\nQt Artigo IV Total\n2 Coca Cola 23 e 4.40\n1 1/2 Joa FASITO 13 e 1.40\n1 Salada Mista 13 e 3.25\n1 1/2 Frango Assado 13 e 5.90\n1 Frango Assado 13 e 11.00\n1 Arroz 13 e 1.60\n3 Cafe 13 e 2.70\n1 Pedras 13 e 1.50\n-------------------------------\nTotal e 31.75\n-------------------------------\nTaxa Base IVA Total\n23.00 e 4.80 e 1.10 e 5.90\n13.00 e 22.88 e 2.97 e 25.85\n-------------------------------\nTotal e 27.68 e 4.07 e 31.75\n\nEmp 7\nIVA incluido\n\nconsultas:\nObrigado e volte sempre\naybS-Processado por programa\ncertificado n. 0071/AT\nCopyright GrupoPIE, SA\n"
+  }
+}

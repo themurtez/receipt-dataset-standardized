@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "CASH",
+    "subtotal": 36000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 36000.0,
+    "accounting_category": "Sales",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "1GA+2CK+RW+RB12",
+      "quantity": 1,
+      "unit_price": 30500.0,
+      "total_price": 30500.0,
+      "category": "Food",
+      "accounting_category": "Sales",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Extra RB 16",
+      "quantity": 1,
+      "unit_price": 4000.0,
+      "total_price": 4000.0,
+      "category": "Food",
+      "accounting_category": "Sales",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "UP Orange 16",
+      "quantity": 1,
+      "unit_price": 1500.0,
+      "total_price": 1500.0,
+      "category": "Beverage",
+      "accounting_category": "Sales",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 14000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000271.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 1GA+2CK+RW+RB12 30.500 30.500\n1 Extra RB 16 4.000 4.000\n1 UP Orange 16 1.500 1.500\n3 Total 36.000\nTendered\nCASH\nChange\n50.000\n36.000\n14.000"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "BHPetrol Permas Jaya 2",
+    "address": "LOT PTD 101051, Jalan Permas 10/10, 81750 Masai, Johor",
+    "phone": "1-300-22-2828",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-10",
+    "time": "08:11:53",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 50.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 50.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "PPF",
+      "quantity": 50,
+      "unit_price": 1.0,
+      "total_price": 50.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006414533.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BHPetrol Permas Jaya 2\nLOT PTD 101051\nJalan Permas 10/10\n81750 Masai, Johor\nPREPAY CHIT NUMBER\n57381\nTHIS IS NOT A RECEIPT\nA Tax Invoice will be issued upon the\ncompletion of the sale transaction\n10-04-2018 08:11:53 Cashier: 465\nTransaction No: 1-494268\nItem U\\Price Qnty Amount\nPPF P7 1.000 50 50.00\nTOTAL AMOUNT\nCASH RM 50.00\nThank You For Shopping At BHPetromart\nCustomer Service 1-300-22-2828"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Minipreco",
+    "address": "1200-086 Lisboa",
+    "phone": "",
+    "tax_id": "",
+    "website": "www.miniprecodisney.com"
+  },
+  "transaction": {
+    "date": "2019-01-04",
+    "time": "09:24:00",
+    "currency": "EUR",
+    "payment_method": "Visa Electron",
+    "subtotal": 7.47,
+    "tax": 0.45,
+    "tip": 0.0,
+    "total": 7.92,
+    "accounting_category": "Grocery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Laranja Dia 2kg",
+      "quantity": 4,
+      "unit_price": 1.98,
+      "total_price": 7.92,
+      "category": "Fruit",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_201800.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MINIPRECO LOJA N 2114 1200-086 LISBOA\nTerminal Pagamento Automatico: 00038123\n2019-01-04 09:25:00 Per015 Tr003 Msg062\nMILLENNIUM BCP\nFREITAS/PEDRO\nCARTAO: ****8784/03\nA0000000032010 VISA ELECTRON\nCOMPRA 7,92€\nID ESTAB:0001408186 AUT:894102 VELC PP N\nF.T.02/11/40320190/0012/03000033\nCAIXA: 3 DATA: 2019-01-04 HORA: 09:24\nCODIGO DE OPERADOR: 50372\nCODIGO DESCRICAO QUANTIDADE DESCONTOS\nIVA PVP/UNIT TOTAL\n36830 LARANJA DIA 2KG 7,92\n6.00% 1.98 4\nTOTAL A PAGAR EUROS 7.92\nMULTIBANCO\nTROCO 7.92\nTIPO IVA BASE IVA\n01 6.00% 7.47 0.45 7.92\nTOTAL 7.47 0.45 7.92\nLOCAL CARGA:\nLOG CALHARIZ 10\n1200-086 LISBOA\nLOCAL DESCARGA: MORADA DO CLIENTE\nbJXq-Processado por prog.cert.n1752/AT\nWWW.MINIPRECODISNEY.COM\nSIRPEEE PT000245\nREDUNICRE\nINOVACAO E CONFIANCA\nPROCESSADO POR SIBS"
+  }
+}

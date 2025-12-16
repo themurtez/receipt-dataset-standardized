@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 60523.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 60523.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CF NASI PUTIH",
+      "quantity": 2,
+      "unit_price": 5000.0,
+      "total_price": 10000.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CF BBQ CHKN WING",
+      "quantity": 1,
+      "unit_price": 15000.0,
+      "total_price": 15000.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "FILLET DORI",
+      "quantity": 1,
+      "unit_price": 26019.0,
+      "total_price": 26019.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "KERUPUK KERING",
+      "quantity": 1,
+      "unit_price": 11900.0,
+      "total_price": 11900.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000332.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1X 5,000\nCF NASI PUTIH 5,000\nMEGA Discount 250-\n1X 5,000\nCF NASI PUTIH 5,000\nMEGA Discount 250-\n1X 15,000\nCF BBQ CHKN WING 15,000\n0.354X 73,500\nFILLET DORI 26,019\nMEGA Discount 1,301-\n1X 11,900\nKERUPUK KERING 11,900\nMEGA Discount 595-\nSUBTOTAL: 60,523\nTOTAL: 60,523\nMEGA OFFLINE EFT: 60,523"
+  }
+}

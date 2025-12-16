@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Golden Coin",
+    "address": "94-450 Ukee St, Waipahu, HI 96797",
+    "phone": "(808) 848-0802",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "USD",
+    "payment_method": "Cash",
+    "subtotal": 9.79,
+    "tax": 0.46,
+    "tip": 0.0,
+    "total": 10.25,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "1 Plt Lunch 2 Choices",
+      "quantity": 1,
+      "unit_price": 9.79,
+      "total_price": 9.79,
+      "category": "Meal",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 4.75
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1095-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Golden Coin\n94-450 Ukee St\nWaipahu, HI 96797\n(808) 848-0802\n\nServer: Charito Station: 1\nOrder #: 6879 Take Out\n\n>> SETTLED <<\n\n1 Plt Lunch 2 Choices 9.79\nBBQ\nPINAPAITAN\n\nBar Subtotal: 0.00\nFood Subtotal: 9.79\nTax 1: 0.46\n\nTOTAL: $10.25\n\nCash Tendered 15.00"
+  }
+}

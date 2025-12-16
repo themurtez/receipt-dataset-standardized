@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Aminuto Amoreiras",
+    "address": "Centro Comercial Amoreiras, Lj 5041, 1070 Lisboa",
+    "phone": "210 934 257",
+    "tax_id": "506175502",
+    "website": "btaiminuto.com"
+  },
+  "transaction": {
+    "date": "2019-10-28",
+    "time": "15:00:00",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 13.0,
+    "tax": 3.1,
+    "tip": 0.0,
+    "total": 16.1,
+    "accounting_category": "Repairs",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chave Plana RL1/26-M",
+      "quantity": 1,
+      "unit_price": 13.0,
+      "total_price": 16.1,
+      "category": "Repair",
+      "accounting_category": "Repairs",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_174041.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AMINUTO AMOREIRAS\nContribute: 506175502\nConserios Rapids nas Amoreiras, Casanios de Cópias, Chaves Lda\nDocela A SGPS, Lda\nAmoreiras, Lj 5041 1070 Lisboa\nQA: 30EUR CR: Cascais N.9955/2007\n\nExno(a) Senhor(a): FLIXIBHOME\nLisboa\nNIF: 5101776914\nN. Cli: 5101776914\nC e 2010481\nFTR 011381 Data 2019-10-28 Original\nFactura: Bemvindo Borges\nArt. Descricao Qde. Pr. Unit. Valor IVA\nCH PLANA RL1/26-M\n200703 1.00 13.00 3.90 23\n\nTotal de pecas: 1\n\nVALOR LIQUIDO IVA VALOR IVA\n13.00 6.00 0.00\n0.00 13.00 3.00 3.00\n13.00 0.00 0.00\n\nDESCONTO 0.00\nTOTAL DOCUMENTO EURO 16.10\n\nNumerario 16.10\nTroco 0.00\n\nDISY Processado por programa certificação N. 1627/AT\nBens colocados a disposicao do\nesta data, de acordo com a\n\nBITA obrigatorio - 1M\nTel: 210934257 // www.btaiminuto.com\n\nConte-nos à sua Experiência!"
+  }
+}

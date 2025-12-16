@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Dr. Antonio Costa N",
+    "address": "Funchal",
+    "phone": "",
+    "tax_id": "PT513253752",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-24",
+    "time": "14:36:48",
+    "currency": "EUR",
+    "payment_method": "Dinheiro",
+    "subtotal": 24.09,
+    "tax": 3.2,
+    "tip": 0.0,
+    "total": 27.29,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Prego a moda ta",
+      "quantity": 2,
+      "unit_price": 3.9,
+      "total_price": 7.8,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lombo de atum",
+      "quantity": 1,
+      "unit_price": 9.99,
+      "total_price": 9.99,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BATATA DOCE FRI",
+      "quantity": 1,
+      "unit_price": 3.9,
+      "total_price": 3.9,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Coca cola 0",
+      "quantity": 1,
+      "unit_price": 1.9,
+      "total_price": 1.9,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Coca cola",
+      "quantity": 1,
+      "unit_price": 1.9,
+      "total_price": 1.9,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Bica",
+      "quantity": 2,
+      "unit_price": 0.9,
+      "total_price": 1.8,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_215716.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Dr. Antonio Costa N \n4020 FUNCHAL\nNIF: PT513253752\nDate: 17-11-24, 14:36:48\nFactura simplificada n: FS M/0040662\nNIF: 510776914\n\nQt Desc. IVA p.unit total\n\n2 Prego a moda ta 12% €3,90 €7,80\n1 Lombo de atum 12% €9,99 €9,99\n1 BATATA DOCE FRI 12% €3,90 €3,90\n1 Coca cola 0 22% €1,90 €1,90\n1 Coca cola 22% €1,90 €1,90\n2 Bica 12% €0,90 €1,80\n\nTotal: €27,29\nMetodos de Pagamento:\nDinheiro €27,29\n\nTaxa Incid. Valor Total\n22% €3,12 €0,68 €3,80\n€20,97 €2,52 €23,49\nTotal €24,09 €3,20 €27,29\n\nEmpregado: BARMAN\nMesa: 108\nSubtotais: DC 00040588\nZGSF-Processado por programa certificado\nN.1280/AT Sage GesRestII\n\nObrigado - Volte Sempre"
+  }
+}

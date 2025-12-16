@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "R. Actor António Silva, 7, 1600-093 Lisboa",
+    "phone": "213 217 330",
+    "tax_id": "500269993",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-10",
+    "time": "13:39:00",
+    "currency": "EUR",
+    "payment_method": "Visa Electron",
+    "subtotal": 5.09,
+    "tax": 0.53,
+    "tip": 0.0,
+    "total": 3.84,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "V.SAC. SUSEGO TTO",
+      "quantity": 1,
+      "unit_price": 4.99,
+      "total_price": 4.99,
+      "category": "Beverages",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Deterg. e prod. limpeza",
+      "quantity": 1,
+      "unit_price": 0.1,
+      "total_price": 0.1,
+      "category": "Cleaning Supplies",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_005103.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1o Dezembro\nPingo Doce Distribuição Alimentar, S.A.\nSede: R. Actor António Silva, 7, 1600-093 Lisboa\nRegisto c.r.c. Lisboa-Matricula/NIPC: 500269993\nANREE: P1001730 T. Social: 33,808,115 EUR\nArtigos\nBEBIDAS\n13% V.AC. SUSEGO TTO 4,99\nPoupanca Liquiditta (1,25)\nDETERG. E PROD. LIMPEZA\n% 23% SACO PLAST RECICL PD 0,10\nResumo 5,09\nTOTAL POUPANCA (1,25)\nTOTAL A PAGAR 3,84\nPagamentos\nMULTIBANCO 3,84\nAtendido por: MARIA VIRGINIA GOMES\nFatura/Recibo FT 045109510601617/000417\nData de emissao: 10-02-2019\nVisa Electron 3,84\n2019-02-10 Hora: 13:39\nPingo Doce\n1 DEZEMBRO\n1200-358 LISBOA\nTerminal Pagamento Automatico: 00584598\n2019-02-10 13:53:53"
+  }
+}

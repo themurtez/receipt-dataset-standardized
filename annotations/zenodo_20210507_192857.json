@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Maria da Silva Xavier, Lda",
+    "address": "Estrada da Picheleira n-144 A/B, 1900-374 Lisboa",
+    "phone": "N-21 8481012",
+    "tax_id": "N-502963617",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-17",
+    "time": "14:35:00",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 27.64,
+    "tax": 6.36,
+    "tip": 0.0,
+    "total": 34.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.85
+  },
+  "items": [
+    {
+      "name": "Fecho Alumínio 500-60",
+      "quantity": 1,
+      "unit_price": 1.95,
+      "total_price": 1.95,
+      "category": "Hardware",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Mola Multi-força/cil CISA Alumínio",
+      "quantity": 1,
+      "unit_price": 32.5,
+      "total_price": 32.5,
+      "category": "Hardware",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Anilhas",
+      "quantity": 1,
+      "unit_price": 0.5,
+      "total_price": 0.5,
+      "category": "Hardware",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_192857.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Maria da Silva Xavier, Lda\nEstrada da Picheleira n-144 A/B\n1900-374 Lisboa\nContribuinte N-502963617\nTelefone N-21 8481012\nCapital Social 5.000 Euros\n\nData: 17/11/2017 14:35\nFactura/Recibo N.:\nFTS A2017/00029714\n\nCliente: 00005326\nfeelslikehome Lda\nContribuinte: 510776914\n\nIva Artigo Valor\n23% Fecho Alumínio 500-60 1.95\n(c/desc.: 1.90)\n23% Mola Multi-força/cil CISA Alumínio 32.50\n(c/desc.: 31.62)\n23% Anilhas 0.50\n(c/desc.: 0.48)\n\n3 Artigo(s) Descontos 0.95\nTotal 34.00 €\n\nxNVF: Processado por programa\nCertificado n° 6448/AT Comograma, Lda.\n\nTx IVA Sujeito I.V.A. Total\n23% 27.64 6.36 34.00\n\nMultibanco 34.00\n\nJose Luis\nObrigado Pela Sua Preferencia\nVolte Sempre\n"
+  }
+}

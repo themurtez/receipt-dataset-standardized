@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Pollux Lisboa",
+    "address": "Rua dos Fanqueiros, 276, 1100-231 Lisboa",
+    "phone": "218 801 210",
+    "tax_id": "500256785",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-10-15",
+    "time": "12:30:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 43.9,
+    "tax": 10.1,
+    "tip": 0.0,
+    "total": 54.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Frigideira Natura",
+      "quantity": 1,
+      "unit_price": 23.9,
+      "total_price": 23.9,
+      "category": "Cookware",
+      "accounting_category": "Home Goods",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "PANELA CLASS",
+      "quantity": 1,
+      "unit_price": 39.1,
+      "total_price": 39.1,
+      "category": "Cookware",
+      "accounting_category": "Home Goods",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 6.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_165658.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "POLLUX LISBOA\nRua dos Fanqueiros, 276\n1100-231 Lisboa\nTelefone: 218 801 210 Fax: 218 862 220\nPOLLUX LISBOA\nSede: Av. Rui Gomes da Silva, 2685-142 BARCARENA\nTelefone: 214 860 100\nFatura-Recibo N. 182/121046 de 2019 10 15\nAtendido por: ANA RITA Espad.\nNome: FILIPE M. BRITO\nRua DA LIBERDADE, 36 81B\nCod. Postal 2655-145\nLocalidade: LISBOA\nConta: 25974 Cliente Número: 19999\nF.T 25974/19 Data: 15 OCT\nFatura\n\nQTD DESC.RACAO P.U.P\n1.000 FRIGIDEIRA NATURA 23.90\n1.000 PANELA CLARIS\nIVA\n13.00% 43.900 10.100\nTotal de Décimos 43.90 TOTAL: 54.00\nModo de pagamento:\nDinheiro 50.00 Cheque\nMB/VISA C. Presente\nVale/Cuftao\nSaldo a Pagar: Entregue: 50,00\nN.Credito\nTroco: 6.00\n9911821270466\n\n\n"
+  }
+}

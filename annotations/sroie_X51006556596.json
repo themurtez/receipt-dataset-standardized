@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Gardenia Bakeries (KL) Sdn Bhd",
+    "address": "Lot 3, Jalan Pelabur 23/1, 40300 Shah Alam, Selangor",
+    "phone": "03-55423228",
+    "tax_id": "000381399040",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-08-28",
+    "time": "12:26:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 39.91,
+    "tax": 1.53,
+    "tip": 0.0,
+    "total": 41.44,
+    "accounting_category": "Bakery Purchase",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "O.C. White",
+      "quantity": 3,
+      "unit_price": 2.13,
+      "total_price": 6.39,
+      "category": "Bakery",
+      "accounting_category": "Goods",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Wholemeal",
+      "quantity": 5,
+      "unit_price": 2.78,
+      "total_price": 13.9,
+      "category": "Bakery",
+      "accounting_category": "Goods",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "O.C. Jumbo",
+      "quantity": -2,
+      "unit_price": 2.97,
+      "total_price": -5.94,
+      "category": "Bakery",
+      "accounting_category": "Goods",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Delicia B/Scotch",
+      "quantity": 3,
+      "unit_price": 3.72,
+      "total_price": 11.16,
+      "category": "Bakery",
+      "accounting_category": "Goods",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "C.K. Choclt",
+      "quantity": 2,
+      "unit_price": 0.72,
+      "total_price": 1.44,
+      "category": "Bakery",
+      "accounting_category": "Goods",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 11,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006556596.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GARDENIA BAKERIES (KL) SDN BHD (139386 X)\nLot 3, Jalan Pelabur 23/1, 40300 Shah Alam, Selangor\nTel: 03-55423228 Fax: 03-55423213\nGST ID: 000381399040\nTAX INVOICE / ADJUSTMENT NOTE\nCash Inv No.: 7828F715\nDate: 28/08/2017\nMAKASSAR FRESH MARKET SDN BHD\nGround Floor, No. 4 & 6, Jalan SS 15/4B, 47500 Subang Jaya, Selangor\nVE05: Ridzuan (11900)\nDD: 28/08/2017 12:26\nDescription U.P Iss Exc D Sale Amt(RM)\nO.C. WHITE 2.13 5 2 0 3 6.39\nWHOLEMEAL 2.78 5 0 6 5 13.90\nO.C JUMBO 2.97 5 4 0 -2 -5.94\nTotal 0% supplies: 14.35\nDELICIA-B/SCOTCH 3.72 3 0 0 3 11.16\nCK-CHOCLT 0.72 20 0 2 0 14.40\nTotal 6% supplies (excl. GST): 25.56\nGST: 1.53\nTotal 6% supplies (inc. GST): 27.09\nTotal 0% supplies: 14.35\nTotal Payable: 41.44"
+  }
+}

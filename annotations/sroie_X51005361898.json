@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Ted Heng Stationery & Books",
+    "address": "No. 53, Jalan Besar, 45600 Batang Berjuntai, Selangor Darul Ehsan",
+    "phone": "03-3271 9872",
+    "tax_id": "000689913856",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-15",
+    "time": "",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 52.0,
+    "tax": 3.12,
+    "tip": 0.0,
+    "total": 55.1,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CBE Badge Clip 100pcs",
+      "quantity": 1,
+      "unit_price": 26.42,
+      "total_price": 24.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "NISO A4 Laminating Film",
+      "quantity": 1,
+      "unit_price": 28.0,
+      "total_price": 28.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": -0.02,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005361898.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TED HENG STATIONERY & BOOKS\n(001451637-M)\nNO. 53, JALAN BESAR, 45600 BATANG BERJUNTAI\nSELANGOR DARUL EHSAN\nTEL : 03-3271 9872 FAX : 03-3271 9481\nGST No.: 000689913856\n\nSIMPLIFIED TAX INVOICE\n\nCASH\nReceipt No. : CS1801/26717 Date : 15/01/2018\n\nITEM QTY U/P DISC% AMOUNT\n(RM)\n9556655864036 1 26.42 9.14 24.00 *\n- CBE BADGE CLIP 100PCS\n9555535000663 1 28.00 0.00 28.00 +\n- NISO A4 LAMINATING FILM\n\nTotal Qty. : 2 52.00\n\nSUB-TOTAL (EX) : 52.00\nTOTAL TAX : 3.12\nROUNDING : -0.02\nTOTAL : 55.10\nCASH : 55.10\nCHANGE : 0.00\n\nGST SUMMARY\n\nTAX CODE % AMOUNT TAX\n(RM) (RM)\nSR 6.00 52.00 3.12\nTOTAL : 52.00 3.12\n\nNote: (*) Indicated The Item Sold Has Been Related To GST (Goods & Services Tax).\n\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU."
+  }
+}

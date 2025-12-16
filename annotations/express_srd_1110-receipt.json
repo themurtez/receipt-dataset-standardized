@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Chelokababi",
+    "address": "1236 S Wolfe Rd, Sunnyvale, CA 94086",
+    "phone": "(408) 737-1222",
+    "tax_id": "",
+    "website": "chelokababi.com"
+  },
+  "transaction": {
+    "date": "2018-08-18",
+    "time": "18:35:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 146.85,
+    "tax": 13.22,
+    "tip": 22.4,
+    "total": 160.07,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Koobideh",
+      "quantity": 7,
+      "unit_price": 16.5,
+      "total_price": 115.5,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Nan-O-Sabzi",
+      "quantity": 1,
+      "unit_price": 8.95,
+      "total_price": 8.95,
+      "category": "Side Dish",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1110-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Chelokababi\n1236 S Wolfe Rd Aug 18, 2018\nSunnyvale, CA 94086 6:35 PM\n(408) 737-1222 Server\nchelokababi.com\n\nTicket: D2\n\nFOR HERE\nKoobideh × 7 $115.50\n($16.50 each)\nWell Done\nVery well done\nNan-O-Sabzi $8.95\n18% Gratuity $22.40\nThanks :)\nSubtotal $146.85\nSales Tax $13.22\nTotal $160.07\n\nMerci!\nThank you very much!"
+  }
+}

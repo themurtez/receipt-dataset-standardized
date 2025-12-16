@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Sanyu Stationery Shop",
+    "address": "No. 31G&33G, Jalan Setia Indah X, U13/X, 40170 Setia Alam",
+    "phone": "+603-3362 4137",
+    "tax_id": "001531760640",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-09-05",
+    "time": "",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 14.9,
+    "tax": 0.84,
+    "tip": 0.0,
+    "total": 14.9,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Punch Card with Hole",
+      "quantity": 1,
+      "unit_price": 11.9,
+      "total_price": 11.9,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Worker's Card (1-15) 100's",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 5.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007339095.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SANYU STATIONERY SHOP\nNO. 31G&33G, JALAN SETIA INDAH X ,U13/X\n40170 SETIA ALAM\nMobile /Whatsapps : +6012-918 7937.\nTel: +603-3362 4137\nGST ID No: 001531760640\nOwned By:\nSANYU SUPPLY SDN BHD (1135772-K)\nTAX INVOICE\nCASH SALES COUNTER\n1. 2012-0013 PUNCH CARD WITH HOLE\n1 X 11.900 - 11.90 SR\n2. 2012-0011 WORKER'S CARD (1-15) 100'S\n(WOC-115)\n1 X 3.0000 - 3.00 SR\n-------------------------------------------------------\nTotal Sales Inclusive GST @6% 14.90\nDiscount 0.00\nTotal 14.90\nRound Adj 0.00\nFinal Total 14.90\n========================\nCASH 20.00\nCHANGE 5.10\nGST Summary Amount(RM) Tax(RM)\nSR @ 6% 14.06 0.84\nINV NO: CS-SA-0108558 Date : 05/09/2017\n-------------------------------------------------------\nGoods sold are not Returnable & Refundable\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN.\nTERIMA KASIH SILA DATANG LAGI\n** PLEASE KEEP THIS RECEIPT FOR PROVE OF\nPURCHASE DATE FOR I.T PRODUCT WARRANTY\nPURPOSE **\nFollow us in Facebook : Sanyu.Stationery"
+  }
+}

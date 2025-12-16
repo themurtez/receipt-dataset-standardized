@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Restaurant Name",
+    "address": "Restaurant Address",
+    "phone": "Restaurant Phone",
+    "tax_id": "Restaurant Tax ID",
+    "website": "Restaurant Website"
+  },
+  "transaction": {
+    "date": "2023-10-05",
+    "time": "12:34:56",
+    "currency": "IDR",
+    "payment_method": "Debit Card",
+    "subtotal": 48182.0,
+    "tax": 4818.0,
+    "tip": 0.0,
+    "total": 53000.0,
+    "accounting_category": "Meals",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "OCHA COLD",
+      "quantity": 1,
+      "unit_price": 7273.0,
+      "total_price": 7273.0,
+      "category": "Beverage",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ABURA SOBA CHK",
+      "quantity": 1,
+      "unit_price": 40909.0,
+      "total_price": 40909.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000421.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 OCHA COLD 7,273\n1 ABURA SOBA CHK 40,909\nSUBTTL 48,182\nPb1 10% 4,818\nTOTAL 53,000\nNON BCA DEBIT 53,000"
+  }
+}

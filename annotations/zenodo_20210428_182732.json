@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "ALDI PORTUGAL Supermerc., Lda",
+    "address": "Rua Ponte dos Cavalos 155, 2870-674 MONTIJO",
+    "phone": "",
+    "tax_id": "506498980",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-16",
+    "time": "15:19:53",
+    "currency": "EUR",
+    "payment_method": "VISA ELECTRON",
+    "subtotal": 12.19,
+    "tax": 2.8,
+    "tip": 0.0,
+    "total": 14.99,
+    "accounting_category": "Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CHAVES MISTAS DE ROQUETE",
+      "quantity": 1,
+      "unit_price": 14.99,
+      "total_price": 14.99,
+      "category": "Hardware",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_182732.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Horario de funcionamento\nSegunda a Domingo 8:30h - 21:00h\n\nDESIGNA AO PRE O IVA\nCHAVES MISTAS DE ROQUETE 14,99 E\nA PAGAR EURO 14,99\n\nALDI LJ 001 ALCANTAR\nILHA - LOTEAM.INDUST.\nDO REGOLE.EN.125\n8365-011 ALCANTARILHA\nNumero Fiscal de Contribuinte: 506498980\nTerminal Pagamento Automatico: 00797951\nData: 2019/03/16 Hora: 15:19:53\nPedido:058 Transacao:010 Mensagem:762\n\n**** MILLENNIUM BCP\nCOMPRA CHIP 00/00\n\nALMEIDA/JORGE\nCARTAO: ****1299/61\n000000302100 VISA ELECTRON\nCOMPRA 14,99 EUR\nID Estab: 0000039836 AUT: 352955 VELC PP N\n\nREDUNCIER\nINVOCAO E CONFIANCA\nPROCESSADO POR SIBS\n\nPAGAMENTO COM CARTAO MULTIBANCO 14,99\n\n(IVA incluido taxa em vigor)\nTAXA Base Imp. Valor IVA TOTAL\nE 23,00% 12,19 2,80 14,99\n(Bens colocados dispoosi do ao\nemissao da data da factura)\n\nFATURA SIMPLIFICADA\n2 20190013004/000028175\n\nNR.Contribuinte: 5 0776914\nALDI PORTUGAL Supermerc.,Lda\n\nRua Ponte dos Cavalos 155\n2870-674 MONTIJO\nCapital Social: 290.000.000 EURO\nC.R. Com Montijo: 506498980\n\nKilla-Processado por programa\ncertificado no 2469/AT\n\nQUANT. ARTIGOS 1\n\nArtigos 36.n.1 a) e n.15 do Codigo do Iva:\nSe desejar uma fatura não simplificada\npode solicitar nos 5 dias uteis apos data\nemissao da presente fatura simplificada\n\n002/001/001/001 1 15:20 16-03-2019"
+  }
+}

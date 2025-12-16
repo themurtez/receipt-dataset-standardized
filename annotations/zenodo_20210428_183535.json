@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "LELIMEL-MATERIAIS DE CONSTRUÇÃO, LDA",
+    "address": "Casal Cordeiro, 2655-000 Ericeira",
+    "phone": "261862767",
+    "tax_id": "501326870",
+    "website": "geral@lelimel.com"
+  },
+  "transaction": {
+    "date": "2019-01-16",
+    "time": "15:33:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 27.32,
+    "tax": 6.28,
+    "tip": 0.0,
+    "total": 33.6,
+    "accounting_category": "Construction Materials",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "PERLATOR MACHO CR",
+      "quantity": 1,
+      "unit_price": 2.2,
+      "total_price": 2.2,
+      "category": "Plumbing",
+      "accounting_category": "Plumbing Materials",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "BOIA AUTOCLISMO LATERAL",
+      "quantity": 1,
+      "unit_price": 15.5,
+      "total_price": 15.5,
+      "category": "Plumbing",
+      "accounting_category": "Plumbing Materials",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "DESCARGA AUTOCLISMO SIMPLES",
+      "quantity": 1,
+      "unit_price": 9.62,
+      "total_price": 9.62,
+      "category": "Plumbing",
+      "accounting_category": "Plumbing Materials",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_183535.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "LELIMEL-MATERIAIS DE CONSTRUÇÃO,LDA\nCasal Cordeiro\n2655-000 ERICEIRA Ericeira\nTEL: 261862767\nE-mail: geral@lelimel.com\nNIF: 501326870\nFatura-recibo ORIGINAL\n\nNº FR 14/8385\nDados do Cliente\nFEELS LIKE HOME\n1350-310 LISBOA LISBOA\nNº Contribuinte 510776914\n\nData de emissão: 2019-01-16 15:33\nData de entrega: 16.01.2019\n\nRef Design QTD Desc P.Unit IVA P.total\n\nASSECO005 PERLATOR MACHO CR 1,000 2,20 2,20\nASSECO255 BOIA AUTOCLISMO LATERAL 1,000 15,50 15,50\nASSECO168 DESCARGA AUTOCLISMO SIMPLES 1,000 9,62 9,62\n\nTaxa Base de Incidência Vairo de I.V.A.\n6,00%\n13,00%\n23,00% 27.32 6,28\n\nTotal Ilíquido : 27.32\nDesconto Comercial :\nDesconto Financeiro :\nBase de incidência de I.V.A. : 27.32\nTotal de I.V.A : 6,28\n\nTOTAL DO DOCUMENTO EUR 33,60\nTROCO EUR\n\nDocumento pago no acto de emissão\nTalao indispensável para efeito de trocas\n\nLocal Carga Nossas Instalações\nLocal de descarga Morada do Cliente\nData/Hora carga 16.01.2019 15.33\n\nDocumento Processado por Computador\nObrigado - Volte Sempre"
+  }
+}

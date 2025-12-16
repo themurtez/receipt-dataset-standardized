@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "Old Asia",
+    "address": "LG226, LGF, 1 Utama Shopping Centre, Lebuh Bandar Utama, 47800 Petaling Jaya.",
+    "phone": "03-77100299",
+    "tax_id": "001406865408",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-02-13",
+    "time": "14:29:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 96.2,
+    "tax": 5.45,
+    "tip": 0.0,
+    "total": 96.2,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Seafood Fried Rice",
+      "quantity": 1,
+      "unit_price": 13.5,
+      "total_price": 13.5,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Fish Head",
+      "quantity": 1,
+      "unit_price": 11.5,
+      "total_price": 11.5,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Fish Cake",
+      "quantity": 1,
+      "unit_price": 7.9,
+      "total_price": 7.9,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "G. Crispy Chic Rice",
+      "quantity": 1,
+      "unit_price": 15.9,
+      "total_price": 15.9,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "V. Grill Chic Rice",
+      "quantity": 1,
+      "unit_price": 16.5,
+      "total_price": 16.5,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Watermelon Juice",
+      "quantity": 1,
+      "unit_price": 7.5,
+      "total_price": 7.5,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ribena",
+      "quantity": 1,
+      "unit_price": 5.9,
+      "total_price": 5.9,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Iced Chinese Tea",
+      "quantity": 2,
+      "unit_price": 1.9,
+      "total_price": 3.8,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 9,
+    "rounding": 0.0,
+    "change_due": 3.8
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619697.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "OLD ASIA\nOWN BY: CHEF LEE SDN BHD\nCO.NO. (458592-T)\nLG226, LGF, 1 UTAMA SHOPPING CENTRE, LEBUH BANDAR UTAMA, 47800 PETALING JAYA.\nGST NO: 001406865408\nTEL: 03-77100299\nDUPLICATE RECEIPT\nREG YENG LIN 13-02-2016 02:29 PM\nTABLE NO.10\nSEAFOOD FRIED PRICE RM13.50\nFISH HEAD RM11.50\nFISH CAKE RM7.90\nG. CRISPY CHIC RICE RM15.90\nV. GRILL CHIC RICE RM16.50\nW/MELON JUICE RM7.50\nRIBENA RM5.90\n2X @ 1.90\nICED CHINESE TEA RM3.80\n9 No\nSERV. CHG. 10% RM8.25\nGST TA AMT RM90.75\nGST 6% RM5.45\nSUBTOTAL RM96.20\nCASH RM100.00\nYOUR CHANGE RM3.80\nTAX INVOICE NO. 039170\nTAX INVOICE\nTHANK YOU PLEASE COME AGAIN"
+  }
+}

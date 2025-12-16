@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "C W KHOO HARDWARE SDN BHD",
+    "address": "NO.50, JALAN PBS 14/11, KAWASAN PERINDUSTRIAN BUKIT SERDANG",
+    "phone": "03-89410243",
+    "tax_id": "000549584896",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-11",
+    "time": "15:38:36",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 48.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 48.0,
+    "accounting_category": "Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "100# X 4L COMPRESSOR OIL @ TIN",
+      "quantity": 1,
+      "unit_price": 48.0,
+      "total_price": 48.0,
+      "category": "Supplies",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008123451.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "(481500-M)\nC W KHOO HARDWARE SDN BHD\nNO.50 , JALAN PBS 14/11 ,\nKAWASAN PERINDUSTRIAN BUKIT SERDANG,\nTel: 03-89410243 Fax: 03-89410243\nGST Reg No.: 000549584896\nTax Invoice\nInvoice No. : CR 1806/0729\nDate : 11/06/2018 3:38:36 PM\nCashier No. : tee\nCounter No. : c2\nPrinted Date : 11/06/2018 3:36:21 PM\nItem Name Qty. Unit Price Amount\n100# X 4L COMPRESSOR OIL @ TIN\n1 48.00 48.00 SR\n---------------------------------------\n1 Item(s)\nNet Total (MYR : 48.00\nRounding Adj. : 0.00\nNet Total Rounded (MYR) : 48.00\nCash : 48.00\nChange : 0.00\n---------------------------------------\nGST Summary Item Amount (MYR) GST (MYR)\nSR @ 0% 1 48.00 0.00\n---------------------------------------\nThank You. Please Come Again !"
+  }
+}

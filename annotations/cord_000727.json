@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 182000,
+    "tax": 19110,
+    "tip": 0.0,
+    "total": 210200,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Ayam Goreng Crispy Spicy",
+      "quantity": 1,
+      "unit_price": 48000,
+      "total_price": 48000,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Capcai Seafood",
+      "quantity": 1,
+      "unit_price": 49000,
+      "total_price": 49000,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chinese Tea",
+      "quantity": 1,
+      "unit_price": 20000,
+      "total_price": 20000,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Nasi Putih",
+      "quantity": 3,
+      "unit_price": 10000,
+      "total_price": 30000,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Soup Baso Ikan",
+      "quantity": 1,
+      "unit_price": 35000,
+      "total_price": 35000,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": -10,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000727.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Ayam Goreng Crispy Spicy 1x 48,000 48,000\nCapcai Seafood 1x 49,000 49,000\nChinese Tea 1x 20,000 20,000\n* 3 Cup\nNasi Putih 3x 10,000 30,000\nSoup Baso Ikan 1x 35,000 35,000\nSub Total 182,000\nService 9,100\nTax 19,110\nRounding -10\nGRAND TOTAL 210,200"
+  }
+}

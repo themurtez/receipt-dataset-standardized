@@ -1,0 +1,154 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2023-02-12",
+    "time": "12:05:00",
+    "currency": "IDR",
+    "payment_method": "Credit Card",
+    "subtotal": 178500.0,
+    "tax": 17850.0,
+    "tip": 0.0,
+    "total": 196350.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Sushi Salmon Paket 1",
+      "quantity": 1,
+      "unit_price": 65000.0,
+      "total_price": 65000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Salad Dressing Thousand Island",
+      "quantity": 1,
+      "unit_price": 3500.0,
+      "total_price": 3500.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Kewpie SGBI Lemonade",
+      "quantity": 2,
+      "unit_price": 8000.0,
+      "total_price": 16000.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Surimi Satsuma Age Corn",
+      "quantity": 1,
+      "unit_price": 8000.0,
+      "total_price": 8000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ika Shitaré Skewer",
+      "quantity": 1,
+      "unit_price": 9000.0,
+      "total_price": 9000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chikuwa Stik",
+      "quantity": 1,
+      "unit_price": 9000.0,
+      "total_price": 9000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Tempura",
+      "quantity": 1,
+      "unit_price": 15000.0,
+      "total_price": 15000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sauce Shoyu Sushi Yamasa",
+      "quantity": 10,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Sushi Salmon Fresh Paket",
+      "quantity": 1,
+      "unit_price": 36000.0,
+      "total_price": 36000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sendok dan Garpu Plastik",
+      "quantity": 1,
+      "unit_price": 1000.0,
+      "total_price": 1000.0,
+      "category": "Utensils",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Tobiko Orange",
+      "quantity": 3,
+      "unit_price": 5000.0,
+      "total_price": 15000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Tamago",
+      "quantity": 1,
+      "unit_price": 3000.0,
+      "total_price": 3000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Satsuma Age Nigiri",
+      "quantity": 1,
+      "unit_price": 9000.0,
+      "total_price": 9000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 14,
+    "rounding": -350.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000544.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Tanggal: 12/02/2023 Waktu: 12:05\nKasir : YOHAN Opened By: FG6340\nNama Barang / Qty\nSUSHI SALMON PAKET 1\nSALAD DRESSING THOUSAND ISLAND\nKEWPIE SGBI\nLEMONADE\nSURIMI SATSUMA AGE CORN\nIKA SHITARE SKEWER\nCHIKUWA STIK\nTEMPURA\nSAUCE SHOYU SUSHI YAMASA SML HALAL\nSUSHI SALMON FRESH PAKET\nSENDOK DAN GARPU PLASTIK\nTOBBIKO ORANGE\nTAMAGO\nSATSUMA AGE NIGIRI\nSubtotal :\nTax :\nTotal Amount :\nPembulatan\nKARTU CREDIT\nKembalian\nTerima kasih atas kunjungan Anda\nHarga\n1.00 65,000.00\n1.00 3,500.00\n2.00 8,000.00\n1.00 8,000.00\n1.00 9,000.00\n1.00 9,000.00\n10.00 0.00\n1.00 36,000.00\n1.00 1,000.00\n3.00 5,000.00\n1.00 3,000.00\n1.00 9,000.00\n178,500.00\n17,850.00\n196,350.00\n-350.00\n196,000.00\n0.00\n"
+  }
+}

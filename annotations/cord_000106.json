@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Dores",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "VND",
+    "payment_method": "cash",
+    "subtotal": 43637.0,
+    "tax": 4364.0,
+    "tip": 0.0,
+    "total": 48001.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Toblerone BanCheese",
+      "quantity": 1,
+      "unit_price": 28182.0,
+      "total_price": 28182.0,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Roast Beef Crepes",
+      "quantity": 1,
+      "unit_price": 15455.0,
+      "total_price": 15455.0,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 51999.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000106.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Dores\n\n1 Toblerone BanCheese 28,182\n1 Roast Beef Crepes 15,455\nSubTotal: 43,637\nPBI: 4,364\n\nTotal: 48,001\ncash: 100,000\nChange: 51,999"
+  }
+}

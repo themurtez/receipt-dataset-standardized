@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "P.A. Carvoeiro",
+    "address": "124-1 KM 10.7 CARVOEIRO LGA\nCarvoeiro",
+    "phone": "",
+    "tax_id": "509213944",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-10",
+    "time": "11:05:15",
+    "currency": "EUR",
+    "payment_method": "MB/CREDITO",
+    "subtotal": 28.5,
+    "tax": 5.33,
+    "tip": 0.0,
+    "total": 28.5,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GALPeRUBIS",
+      "quantity": 1,
+      "unit_price": 28.5,
+      "total_price": 28.5,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_210831.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "P.A. CARVOEIRO\nNIF: 509213944\nUnidade 124-1 KM 10.7 CARVOEIRO LGA\nCARVOEIRO\n1.00 188100 GALPeRUBIS 28.50 EUR 28.50\nTOTAL: EUR 28.50\nIVA 23.0% Base: 23.17 Imposto: 5.33\nTOTAL A PAGAR: EUR 28.50\nMB/CREDITO\nCaixa: 1\nRecibo: 0.1.52 10/04/2018 11:05:15\nRef.: 05090000048 TSO......000045602\nNome: LIKEHOME LDA\nNIF: 510776914\nMatricula: U\nMorada:\nData: 10/04/2018 11:05:15\nFatura Nr:\nF1 6103710012018/00001494\nMuito Obrigado"
+  }
+}

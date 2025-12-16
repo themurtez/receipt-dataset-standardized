@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Pana Jaya Enterprise",
+    "address": "No.10-G, Ground Floor, Jalan Dinar D. U3/D, Taman Subang Perdana, Sek U3, 40150 Shah Alam, Selangor.",
+    "phone": "03-7847 2376",
+    "tax_id": "002069438464",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-21",
+    "time": "10:37:49",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 99.06,
+    "tax": 5.94,
+    "tip": 0.0,
+    "total": 105.0,
+    "accounting_category": "Goods",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "9928 28 IN Basin",
+      "quantity": 1,
+      "unit_price": 35.0,
+      "total_price": 35.0,
+      "category": "Home Goods",
+      "accounting_category": "Goods",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "TG WFD32 PP Bowl CTN",
+      "quantity": 1,
+      "unit_price": 70.0,
+      "total_price": 70.0,
+      "category": "Home Goods",
+      "accounting_category": "Goods",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005746206.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PANA JAYA ENTERPRISE\nNO.10-G, GROUND FLOOR. JALAN DINAR D.\nU3/D.TAMAN SUBANG PERDANA.\nSEK U3. 40150 SHAH ALAM.SELANGOR.\nTEL: 03-7847 2376 FAX: 03-7847 2378\n(GST Reg. No: 002069438464)\n\nTax Invoice\n\nINV No.: S39405 Qty(s): 2\nDate : 21-03-2018 10:37:49\nCashier: CASHIER2\n\nDescription Qty U.price Total TAX\n--------------------------------------------------\n9928 28 IN BASIN\n1 x 35.00 35.00 SR\nTG WFD32 PP BOWL CTN\n1 x 70.00 70.00 SR\n--------------------------------------------------\nTotal (Excluding GST): 99.06\nGST payable (6%): 5.94\nTotal (Inclusive of GST): 105.00\n\nTOTAL: 105.00\n\nCASH : 105.00\n\n--------------------------------------------------\nGST Summary Amount(RM) Tax(RM)\nSR (@ 6%) 99.06 5.94\n\n**** Thank You ****\nPlease Come Again\nGoods Sold Are\nNot Refundable"
+  }
+}

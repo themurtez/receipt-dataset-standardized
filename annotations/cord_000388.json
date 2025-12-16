@@ -1,0 +1,118 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 481000.0,
+    "tax": 48000.0,
+    "tip": 0.0,
+    "total": 553200.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "escargot florentine",
+      "quantity": 1,
+      "unit_price": 32000.0,
+      "total_price": 32000.0,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Zurich Geschnitzel",
+      "quantity": 1,
+      "unit_price": 82000.0,
+      "total_price": 82000.0,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Valdostana",
+      "quantity": 3,
+      "unit_price": 59000.0,
+      "total_price": 177000.0,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chicken Herb Crust",
+      "quantity": 1,
+      "unit_price": 52000.0,
+      "total_price": 52000.0,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lasagna Di Carne",
+      "quantity": 1,
+      "unit_price": 54000.0,
+      "total_price": 54000.0,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lemon Jc",
+      "quantity": 1,
+      "unit_price": 25000.0,
+      "total_price": 25000.0,
+      "category": "Beverages",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Apple Pie",
+      "quantity": 1,
+      "unit_price": 25000.0,
+      "total_price": 25000.0,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "hot tea",
+      "quantity": 1,
+      "unit_price": 12000.0,
+      "total_price": 12000.0,
+      "category": "Beverages",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "hot lemon tea",
+      "quantity": 1,
+      "unit_price": 22000.0,
+      "total_price": 22000.0,
+      "category": "Beverages",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 9,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000388.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "0001 escargot florentine 32,000\n0045 Zurich Geschnitzel 82,000\n0050 Valdostana 177,000\n0056 Chicken Herb Crust 52,000\n0079 Lasagna Di Carne 54,000\n0134 Lemon Jc 25,000\nApple Pie 25,000\nhot tea 12,000\nhot lemon tea 22,000\nSub Total 481,000\nServices\nTax 48,000\nTotal 553,200"
+  }
+}

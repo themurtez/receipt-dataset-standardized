@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "LELIMEL-MATERIAIS DE CONSTRUÇÃO,LDA",
+    "address": "Casal Cordeiro, 2655-000 Ericeira, Ericeira, Lisboa, Portugal",
+    "phone": "261862767",
+    "tax_id": "510786914",
+    "website": "geral@lelimel.com"
+  },
+  "transaction": {
+    "date": "2019-05-23",
+    "time": "09:30:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 13.58,
+    "tax": 3.12,
+    "tip": 0.0,
+    "total": 16.7,
+    "accounting_category": "Construction Materials",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Caixa Correio Teicocil Ref.26",
+      "quantity": 1,
+      "unit_price": 13.58,
+      "total_price": 16.7,
+      "category": "Construction Material",
+      "accounting_category": "Construction Materials",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_223510.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "LELIMEL-MATERIAIS DE CONSTRUÇÃO,LDA\nCasal Cordeiro\n2655-000 ERICEIRA\nTEL: 261862767\nNIF: 510786914\nE-MAIL: geral@lelimel.com\nFatura-recibo              N° FR 14/9692\nDado do Cliente\nFEELS LIKE HOME\n1350-310 LISBOA\nNº Contribuinte: 510786914\nData de emissão:      2019-05-23\nHora:                       09:30\nData de vencimento:\nRef  Design    QTD   P.Unit  IVA  P.Total\nLARO292      CAIXA CORREIO TEICOCIL REF.26\n              1X      13,58   23,00      16,70\nTaxa   Base de Incidência    Valor do I.V.A.\n6,00%                          \n13,00%     13,58                    3,12\n23,00%                          \nTotal líquido\nDesconto Comercial :\nDesconto Financeiro :\nBase de incidência de I.V.A.  13,58\nTotal de I.V.A.                   3,12\nTOTAL DO DOCUMENTO   EUR       16,70\nTROCO       EUR\nDocumento pago no acto de emissão\nTalao indispensável para efeito de trocas\nLocal carga:  Nossas Instalações\nLocal de descarga: Morada do Cliente\nData/Hora carga: 23.05.2019   09:30\nDocumento Processado por Computador\nObrigado - Volte Sempre"
+  }
+}

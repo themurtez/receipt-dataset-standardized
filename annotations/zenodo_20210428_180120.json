@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "BCM-BRICOLAGE, SA",
+    "address": "2650-000 AMADORA",
+    "phone": "210 443 100",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-18",
+    "time": "08:06:00",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 32.97,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 32.97,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Purchase",
+      "quantity": 1,
+      "unit_price": 32.97,
+      "total_price": 32.97,
+      "category": "Retail",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_180120.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AMADORA\nTel.: 210 443 100\nSEG A SAB 7-22H\nDOMINGO 8-22H\n\nBCM-BRICOLAGE,SA\nLOJA AMADORA\n2650-000-AMADORA\nTerminal Pagamento Automático: 00552788\n2019-03-18 08:06:00 Pe0080 Tr003 Msg508\nMILLENNIUM BCP\nMANUEL ARROUBE/JOSE\nCARTAO: ****8902/23\nCOMPRA 32,97U MB\nAUT:197583\n\nSANTANDER TOTTA\nSANTANDER TOTTA\n     CÓPIA CLIENTE\nPROCESSADO POR SIBS\n\n007-000050-009 8946 18/03/2019 08:06"
+  }
+}

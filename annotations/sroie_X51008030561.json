@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "RESTORAN WAN SHENG",
+    "address": "No.2, Jalan Temenggung 19/9, Seksyen 9, Bandar Mahkota Cheras, 43200 Cheras, Selangor",
+    "phone": "",
+    "tax_id": "001335787520",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-09-04",
+    "time": "10:28:21",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 16.61,
+    "tax": 0.99,
+    "tip": 0.0,
+    "total": 17.6,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Cham (B)",
+      "quantity": 1,
+      "unit_price": 2.2,
+      "total_price": 2.2,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Roti (Bun)",
+      "quantity": 2,
+      "unit_price": 1.6,
+      "total_price": 3.2,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Chesterfield (Red)",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Miscellaneous",
+      "accounting_category": "Miscellaneous",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Take Away",
+      "quantity": 1,
+      "unit_price": 0.2,
+      "total_price": 0.2,
+      "category": "Service",
+      "accounting_category": "Service",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008030561.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "RESTORAN WAN SHENG\n002043319-W\nNo.2, Jalan Temenggung 19/9,\nSeksyen 9, Bandar Mahkota Cheras,\n43200 Cheras, Selangor\nGST REG NO: 001335787520\n\nTax Invoice\nINV No.: 1085118 Cashier: Thandar\nDate : 09-04-2018 10:28:21\n\nDescription Qty U.price Total TAX\nCham (B) 1 x 2.20 2.20 SR\nRoti (Bun) 2 x 1.60 3.20 SR\nChesterfield (Red) 1 x 12.00 12.00 SR\nTake Away 1 x 0.20 0.20 SR\n\nTotal QTY: 5\nTotal (Excluding GST): 16.61\nGST payable (6%): 0.99\nTotal (Inclusive of GST): 17.60\nTOTAL: 17.60\nCASH: 17.60\n\nGST Summary Amount(RM) Tax(RM)\nSR (@ 6%) 16.61 0.99"
+  }
+}

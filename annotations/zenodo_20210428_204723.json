@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "JMTD Ferragens do Comercio Lda",
+    "address": "Calcada do Combro N3, 1200-110 Lisboa, Portugal",
+    "phone": "213 467 672",
+    "tax_id": "510765914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-22",
+    "time": "16:31:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 5.69,
+    "tax": 1.31,
+    "tip": 0.0,
+    "total": 7.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.8
+  },
+  "items": [
+    {
+      "name": "Bichas Flexiveis",
+      "quantity": 1,
+      "unit_price": 7.0,
+      "total_price": 7.0,
+      "category": "Hardware",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_204723.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "JMTD FERRAGENS DO COMERCIO LDA\nFERRAGENS FERRAMENTA CHAVES CADEIRAS\nMAT ELECTRICO MAT CANALIZACAO\nCALCADA DO COMBRO N 3 1200-110 LISBOA\nNIF: 513 350 595\nEmail: jose.m.a.duarte@oapo.pt\nTel: 21 347 67 62\n\nFATURA SIMPLIFICADA\nORIGINAL\nDATA 22/05/2019 16:31 N A/31332\n\nCliente: FLKEHOME Lda\nMorada:\nCont.N: 510765914\n\nArtigo Qtd Preço € Valor €\n\nBichas Flexiveis\n23%\n1 Un x 7,00 = 7,00\n\n#001\nTOTAL............................................ 7,00\nNumerário......................................... 7,00\nTroco.................................................. 0,00\n\nIVA Incluído à taxa indicada\nTaxa % Sujeito IVA Total\n23,00 5,69 1,31 7,00\n\nData de carga: 22/05/2019\nHora de carga: 16:41\nLocal carga... N/Instalações\nMatricula...\nData descarga:\nHora descarga: V/Instalações\n\nsxig-Processado por programa certificado\nN 88AT 1 A/31332\n\nOpr: Administrador\n\nOBRIGADO / VOLTE SEMPRE"
+  }
+}

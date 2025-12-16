@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "A Pousadinha",
+    "address": "Av. Dr. Lucio Vidal, 60 1Andar, 3840-401 Vagos",
+    "phone": "",
+    "tax_id": "513717204",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-10-05",
+    "time": "11:58:00",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 3.88,
+    "tax": 0.5,
+    "tip": 0.0,
+    "total": 4.38,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Pastel de Nata",
+      "quantity": 4,
+      "unit_price": 0.97,
+      "total_price": 3.88,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_170528.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "A POUSADINHA\nPelicano Guloso - Gelatarias, Lda\nAv. Dr. Lúcio Vidal, 60 1Andar\n3840-401 Vagos\nContribuinte N: 513717204\nRua Sao Paulo, 198\n1200-429 Li\nFatura/Recibo FR 1/4\nOriginal\nNatureza:Fatura-recibo\nData:2019-10-05 11:58H VEN.:001 TER:02\nflikehome medianto mobiliária lda\nlisboa\n1000- Lisboa\nCONTR.:510776914\nProduto Quant IVA Valor\nPASTEL DE NATA 4 13% 3.88\nItens: 4\nTotal 4.38 EUR\nMultibanco: 4.38 EUR\nData Carga: 05/10/2019\nHora Carga: 12:11\nLocal Carga: Av. Dr. Luc 60\n1llAndar\nTransporte: V/Viatura\nLocal Descarga: lisboa\n1000- Lisboa\nTaxa Valor IVA Base Imp. Valor Total\n13% 0.50 3.88 4.38\nzROD-Processado por programa certificado\nnl 2648/AT - Sage"
+  }
+}

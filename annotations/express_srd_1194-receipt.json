@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Bar Rua",
+    "address": "32 Clarendon Street",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-08-17",
+    "time": "19:40:24",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 65.1,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 65.1,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "GLS CARRIG LAGER",
+      "quantity": 2,
+      "unit_price": 6.6,
+      "total_price": 13.2,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "WINGS SMALL",
+      "quantity": 1,
+      "unit_price": 9.0,
+      "total_price": 9.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "FRESH COD",
+      "quantity": 1,
+      "unit_price": 18.0,
+      "total_price": 18.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "SHELLFISH POT",
+      "quantity": 1,
+      "unit_price": 9.3,
+      "total_price": 9.3,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "FISH CAKES",
+      "quantity": 1,
+      "unit_price": 7.5,
+      "total_price": 7.5,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "PORTION BREAD LARGE",
+      "quantity": 1,
+      "unit_price": 8.1,
+      "total_price": 8.1,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1194-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Bar Rua\n32 Clarendon Street\nTable #520\nTrans# 241085 Serv: Simon\n17/08/2016 07:40:24 PM Staff: 1\n\nQuan Description Cost\n2 GLS CARRIG LAGER 6.60\n1 WINGS SMALL 9.00\n1 FRESH COD 18.00\n1 SHELLFISH POT 9.30\n1 FISH CAKES 7.50\n1 PORTION BREAD LARGE 8.10\n\nTOTAL: 65.10\n\nFacebook : BAR RUA\nTwitter : @BARRUADUB\nREVIEW / TRIPADVISOR\n\n-REPRINTED-"
+  }
+}

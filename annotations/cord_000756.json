@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 72000.0,
+    "tax": 7200.0,
+    "tip": 0.0,
+    "total": 79200.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Se'i Sapi Sambal Lu'at (R)",
+      "quantity": 1,
+      "unit_price": 20000.0,
+      "total_price": 20000.0,
+      "category": "Main Course",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lidah Asap Sambal Lu'at (R)",
+      "quantity": 1,
+      "unit_price": 30000.0,
+      "total_price": 30000.0,
+      "category": "Main Course",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Nasi Putih",
+      "quantity": 2,
+      "unit_price": 5000.0,
+      "total_price": 10000.0,
+      "category": "Side Dish",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Jus Jeruk",
+      "quantity": 1,
+      "unit_price": 12000.0,
+      "total_price": 12000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 20800.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000756.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Se'i Sapi Sambal Lu'at (R) 1 20.000\nLidah Asap Sambal Lu'at (R) 1 30.000\nNasi Putih 2 10.000\nJus Jeruk 1 12.000\nSubtotal 72.000\nPB 1 (10%) 7.200\nTotal 79.200\nTunai 100.000\nKembali 20.800"
+  }
+}

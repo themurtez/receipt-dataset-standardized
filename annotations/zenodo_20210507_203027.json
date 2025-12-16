@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "CTT - CORREIOS",
+    "address": "10971 PRAI. CARVOEIRO, CARVOEIRO",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-10-06",
+    "time": "14:52:38",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 4.37,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 4.37,
+    "accounting_category": "Postal Services",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Compra",
+      "quantity": 1,
+      "unit_price": 4.37,
+      "total_price": 4.37,
+      "category": "Postal Services",
+      "accounting_category": "Postal Services",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_203027.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CTT - CORREIOS\n10971 PRAI. CARVOEIRO\nCARVOEIRO\nTerminal Pagamento Automatico: 0081775\nData: 2017/10/06 Hora: 14:52:38\nPeriodo: 060 Transaccao: 003 Mensagem: 941\nMILLENNIUM BCP\nFLH ALGARVE/SALVADOR\nCARTAO: ****1367/30\n501649FF20 MULTIBANCO\nCOMPRA 4.37 EUR\nMB\nAUT: 561522\nPROCESSADO POR SIBS"
+  }
+}

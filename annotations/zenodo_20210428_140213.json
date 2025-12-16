@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "botaminuto",
+    "address": "R. Alfredo Silva, 115, Arm 17, 1070 Lisboa",
+    "phone": "210939457",
+    "tax_id": "506175596",
+    "website": "www.botaminuto.com"
+  },
+  "transaction": {
+    "date": "2019-02-06",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "Numeraio",
+    "subtotal": 50.96,
+    "tax": 11.72,
+    "tip": 0.0,
+    "total": 62.7,
+    "accounting_category": "Retail",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "CHAVE PONTOS",
+      "quantity": 3,
+      "unit_price": 17.9,
+      "total_price": 53.7,
+      "category": "Keys",
+      "accounting_category": "Retail",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "CHAVE PLANA",
+      "quantity": 1,
+      "unit_price": 3.9,
+      "total_price": 3.9,
+      "category": "Keys",
+      "accounting_category": "Retail",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "ARGOLA METAL",
+      "quantity": 3,
+      "unit_price": 2.6,
+      "total_price": 7.8,
+      "category": "Metal",
+      "accounting_category": "Retail",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 7.3
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_140213.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "botaminuto\nAMOREIRAS\nContribuinte: 506175596\n\nConserto Rapido das Amoreiras,\nConserto de Calçado Copias Chaves, Ll\nR.Alfredo Silva,115 Arm 17\nC.Com.Amoreiras, 1050\n\nCap.Soc. - 300EUR\n\nExemplo (Senhores):\nFLEXHOME\n\nL1 580 A\n\nNIF: 517976914 N.C1:PTS10776914\nC.6/0641486\nFTB 64286 Data: 2019-02-06 Original\nFactura\nVendedor: Benvindo Borges\n\nArt Descriça                         Qde     P. Unit. Valor    IVA\nCHAVE PONTOS CS70         3          17.900   53.70  23\n779                               CS70\nCHAVE PLANA UL051         1           3.90      3.90    23\n172                                 UL051\nARGOLA METAL (10/UND)    3           2.600     7.80     23\n285\n\nTotale de peas : 0          0.00                  0.00\n\nVALOR LIQUIDO        IVA %      VALOR IVA\n0                           0                      0.00\n6                           0                      0.00\n0                           0                      0.00\n0.00                        0.00            0.00\n0.00                        0.00            0.00\n50.96                       23                 11.72\n\nDESCONTO           0.00\nTOTAL DOCUM€NTO EUR  62.70\n\nNumeraio                70.00\nTroco                          7.30\n\nNota: Esta fatura está sujeita a condições gerais de venda.\n\nObriado Pela Vistía \\ Volte Sempre\nTALAO INDISPENSAVEL E INTEGRAL DA RECLAMAÇAO\nTROCAS PRAZO 1 MES\nTel: 210939457 www.botaminuto.com"
+  }
+}

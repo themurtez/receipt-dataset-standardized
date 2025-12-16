@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "D'crepes",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 13636.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 12750.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Choco Cheese",
+      "quantity": 1,
+      "unit_price": 13636.0,
+      "total_price": 13636.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000627.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Choco Cheese 13,636\nExclusive Member Car -2,045\nSubTotal: 13,636\nDiscount: -2,045\nPRi: 1,159\nTotal: 12,750\ncash: 12,750"
+  }
+}

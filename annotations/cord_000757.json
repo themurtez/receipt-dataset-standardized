@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 92000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 92000.0,
+    "accounting_category": "laundry_service",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Cuci",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "service",
+      "accounting_category": "laundry_service",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "B Pjg/Vr 3",
+      "quantity": 1,
+      "unit_price": 92000.0,
+      "total_price": 92000.0,
+      "category": "service",
+      "accounting_category": "laundry_service",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 8000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000757.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Cuci 1.0 0\nB Pjg/Vr 3 1.0 92,000\nTotal Perawatan : 92,000\nTotal Produk : 0\nGrand Total 92,000\nTunai 100,000\nKembalian 8,000"
+  }
+}

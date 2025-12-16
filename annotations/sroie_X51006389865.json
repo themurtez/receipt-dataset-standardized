@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Restoran Wan Sheng",
+    "address": "No.2, Jalan Temenggung 19/9, Seksyen 9, Bandar Mahkota Cheras, 43200 Cheras, Selangor",
+    "phone": "",
+    "tax_id": "001335787520",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-12",
+    "time": "18:45:28",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 59.31,
+    "tax": 3.49,
+    "tip": 0.0,
+    "total": 62.8,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Guiness Stout (B) Promotion",
+      "quantity": 4,
+      "unit_price": 15.4,
+      "total_price": 61.6,
+      "category": "Alcohol",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Bottle (B)",
+      "quantity": 4,
+      "unit_price": 0.3,
+      "total_price": 1.2,
+      "category": "Container",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006389865.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "RESTORAN WAN SHENG\n002043319-W\nNo.2, Jalan Temenggung 19/9,\nSeksyen 9, Bandar Mahkota Cheras,\n43200 Cheras, Selangor\nGST REG NO: 001335787520\nTax Invoice\nINV No.: 854150 Cashier: Nicole\nDate : 12-11-2017 18:45:28\nDescription Qty U.price Total TAX\nGuiness Stout (B) Promotion\n4 x 15.40 61.60 SR\nBottle(B)\n4 x 0.30 1.20 ZRL\nTotal QTY: 8\nTotal (Excluding GST): 59.31\nGST payable (6%): 3.49\nTotal (Inclusive of GST):\nTOTAL : 62.80\nCASH : 62.80\nGST Summary Amount(RM) Tax(RM)\nSR (@ 6%) 58.11 3.49\nZRL (@ 0%) 1.20 0.00"
+  }
+}

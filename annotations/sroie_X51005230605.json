@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Petron BKT Lanjan SB",
+    "address": "KM 458.4 BKT Lanjan Utara, L/Raya Utara Selatan, SG Buloh, 47000 Sungai Bul",
+    "phone": "03-6156 8757",
+    "tax_id": "001210736640",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-02-01",
+    "time": "16:43:17",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 4.62,
+    "tax": 0.28,
+    "tip": 0.0,
+    "total": 4.9,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Double Mint Tea",
+      "quantity": 2,
+      "unit_price": 1.5,
+      "total_price": 3.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverages",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Sandwich Vanilla",
+      "quantity": 1,
+      "unit_price": 1.9,
+      "total_price": 1.9,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005230605.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PETRON BKT LANJAN SB\nALSERKAM ENTERPRISE\nTel: 03-6156 8757 Co No: 001083069-M\nKM 458.4 BKT LANJAN UTARA,\nL/RAYA UTARA SELATAN,SG BULOH\n47000 SUNGAI BUL\nGST ID No: 001210736640\n\nTAX INVOICE\n\nTAX INVOICE NO: 19729058\nPOS: 1\nStore No.: 129077 Babu\n01/02/2018 4:43:17 PM\n\nA 2 double mint te 3.00\nA 1 sandwich vanilla 1.90\n\nGST RM: 0.28\nTotal RM inc. GST: 4.90\n\nCash 5.00\nChange 0.10\n\nGST Summary Amount (RM) Tax (RM)\nA=6.00%\n4.62 0.28\n\nA TOTAL INCLUDES 6.00% GST\n\nUse 3000 Petron Miles points to pay for\nRM45 Fuel"
+  }
+}

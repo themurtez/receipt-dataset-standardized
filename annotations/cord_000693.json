@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 215985.0,
+    "tax": 19635.0,
+    "tip": 0.0,
+    "total": 235620.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Toripaitan shoyu telur",
+      "quantity": 1,
+      "unit_price": 71500.0,
+      "total_price": 71500.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Toripaitan Ekstrim telur",
+      "quantity": 1,
+      "unit_price": 79200.0,
+      "total_price": 79200.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Green Tea cold",
+      "quantity": 1,
+      "unit_price": 12100.0,
+      "total_price": 12100.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "(Goreng)Ayam Gyoza",
+      "quantity": 1,
+      "unit_price": 34100.0,
+      "total_price": 34100.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Mineral water (normal)",
+      "quantity": 1,
+      "unit_price": 8800.0,
+      "total_price": 8800.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Service Charge",
+      "quantity": 1,
+      "unit_price": 10285.0,
+      "total_price": 10285.0,
+      "category": "Service",
+      "accounting_category": "Service Charges",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000693.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Toripaitan shoyu telur IDR71,500\nToripaitan Ekstrim telur IDR79,200\nGreen Tea cold IDR12,100\n(Goreng)Ayam Gyoza IDR34,100\nMineral water(normal) IDR8,800\nService Charge IDR10,285\nTotal IDR215,985\nTax IDR19,635"
+  }
+}

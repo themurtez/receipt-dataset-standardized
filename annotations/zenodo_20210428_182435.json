@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Carvalho, Batista, lda",
+    "address": "Rua D. Estefania, 191-B, 1000-154 LISBOA",
+    "phone": "213 157 838",
+    "tax_id": "500537380",
+    "website": "www.carvalhobatista.com"
+  },
+  "transaction": {
+    "date": "2019-03-27",
+    "time": "16:06:23",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 1.62,
+    "tax": 0.37,
+    "tip": 0.0,
+    "total": 1.99,
+    "accounting_category": "Hardware",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Arrancadores s1",
+      "quantity": 2,
+      "unit_price": 0.81,
+      "total_price": 1.62,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_182435.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Carvalho, Batista, Lda\nFERAGENES E FERRAMENTAS\nSEDE: Rua D. Estefania, 191-B\nLOJA E SHOWROOM: Loja: Rua D. Estefania, 98 E\n1000-154 LISBOA\nTel: 213 157 838 | Fax: 213 153 786\nNIF: 500537380\nEmail: carvalho.baptista.lda@gmail.com\nSite: www.carvalhobatista.com\n------------------------\nFatura/RC POS - Num. 2240 - 17\nFatura FT 2019A17/2240 - 2019-03-27/16:06:23\nOp: balcao\nNome: LIKEHOME LDA\n------------------------\nQTD P.VN. PRODUTO IVA TOTAL\n2.00 0.81 Arrancadores s1 23% 1.62\nTotal iliquido 1.62\nIVA total 0.37\nTOTAL EURO 1.99\n------------------------\nTAXA B.INC. IVA\n6% 0.00 0.00\n13% 0.00 0.00\n23% 1.62 0.37\nDocumento indispensavel para troca no prazo de 10 dias.\nNao efectuamos devolucao de dinheiro.\nOs artigos foram colocados a disposição do adquirente\nem 27.03.2019\nObrigado pela visita, volte sempre!"
+  }
+}

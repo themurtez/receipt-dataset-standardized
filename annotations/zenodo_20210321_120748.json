@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Galp",
+    "address": "Rua Tomás da Fonseca, Torre C, 1600-209 Lisboa",
+    "phone": "",
+    "tax_id": "NIF: 501442573",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-07-14",
+    "time": "17:15:30",
+    "currency": "EUR",
+    "payment_method": "Cartão Débito",
+    "subtotal": 78.7,
+    "tax": 14.72,
+    "tip": 0.0,
+    "total": 78.7,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Gasolina Simple 95",
+      "quantity": 1,
+      "unit_price": 78.7,
+      "total_price": 78.7,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210321_120748.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "DOCUMENTO DE VENDA\nS. DUARTE PACHECO,25 4E /25 A5 141900\nRUA TOMAS DA FONSECA, TORRE C\n1600-209 LISBOA\nNIF: 501442573\nPOSTO: 514407395\nOPERADOR: 1189787 PEDRO\nCliente: 137269\nNome: FLH GO\nGasolina Simple 95 Bomba 11 EUR 78.70 A\nData: 2019-07-14 Hora: 17:15:30\nCartão: VISA Electron\nTOTAL: ACUMULADO EM CARTAO\n€4.95\n\n...\n"
+  }
+}

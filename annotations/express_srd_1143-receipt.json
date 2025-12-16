@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "Arthurs",
+    "address": "237 Washington\nHoboken, NJ 07030",
+    "phone": "(201) 656-5009",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-10-01",
+    "time": "01:44:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 82.8,
+    "tax": 3.98,
+    "tip": 0.0,
+    "total": 84.78,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Arthur’s Burger *ChsBleu",
+      "quantity": 1,
+      "unit_price": 13.95,
+      "total_price": 13.95,
+      "category": "Entree",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "“Our” Burger **Avocado",
+      "quantity": 1,
+      "unit_price": 15.95,
+      "total_price": 15.95,
+      "category": "Entree",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Loaded Nachos",
+      "quantity": 1,
+      "unit_price": 12.95,
+      "total_price": 12.95,
+      "category": "Appetizer",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pint Boston Lager",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Beverage",
+      "accounting_category": "Liquor",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pint Yeungling",
+      "quantity": 2,
+      "unit_price": 6.0,
+      "total_price": 12.0,
+      "category": "Beverage",
+      "accounting_category": "Liquor",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Kona Longboard",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Beverage",
+      "accounting_category": "Liquor",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Quesadilla",
+      "quantity": 1,
+      "unit_price": 13.95,
+      "total_price": 13.95,
+      "category": "Entree",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1143-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Arthurs\n237 Washington\nHoboken, NJ 07030\n(201) 656-5009\n\n1058 Alexandr\n\nChk 1844                TAB/62             Gst 3\nOct01'17 01:44PM\n\n------------------------------\nBar\n1 Arthur’s  Burger *ChsBleu      13.95\n1 “Our”  Burger **Avocado        15.95\n1 Loaded Nachos                            12.95\n1 Pint Boston Lager                        6.00\n2 Pint Yeungling                            12.00\n1 Kona Longboard                        6.00\n1 Quesadilla                                   13.95\n\nfood                                          58.80\nliquor                                         24.00\nTax                                              3.98\n02:29PM Total Due               84.78\n\n20% added to parties 8 or more\nThank You for Dining with Us!\n\nPrivate Rooms\nAvailable for\nYour Next Party!"
+  }
+}

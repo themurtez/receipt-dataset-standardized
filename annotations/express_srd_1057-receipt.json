@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Cafe Parisien Larchmont LLC",
+    "address": "242 N Larchmont Blvd, Los Angeles, CA 90004",
+    "phone": "(310) 815-8222",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-01-24",
+    "time": "10:29:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 8.75,
+    "tax": 0.83,
+    "tip": 0.0,
+    "total": 9.58,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Croissant Aux Raisins",
+      "quantity": 1,
+      "unit_price": 4.0,
+      "total_price": 4.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cappucino",
+      "quantity": 1,
+      "unit_price": 4.75,
+      "total_price": 4.75,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1057-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CAFE PARISIEN LARCHMONT LLC\n242 N LARCHMONT BLVD\nLOS ANGELES, CA 90004\n(310) 815-8222\nDine In\n\nServer: Kimberly L.        Jan 24, 2019\nReceipt: YWG5              10:29 AM\n                          Table: 36\n\nItem(s)\nCROISSANT AUX RAISINS                    $4.00\nCappucino                                $4.75\n\nSubtotal                                 $8.75\nSales Tax (9.5%)                         $0.83\nTotal                                    $9.58\n\nCustomer Copy"
+  }
+}

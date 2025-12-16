@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "",
+    "payment_method": "cash",
+    "subtotal": 24000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 24000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Premium Toast Pan Bread",
+      "quantity": 1,
+      "unit_price": 24000.0,
+      "total_price": 24000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 26000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000189.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 PREMIUM TOAST PAN BREAD 24,000\nTOTAL 24,000\nCASH 50,000\nCHANGE 26,000\n"
+  }
+}

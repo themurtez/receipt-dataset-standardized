@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 30000.0,
+    "tax": 3000.0,
+    "tip": 0.0,
+    "total": 33000.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CHO MOUSSE",
+      "quantity": 1,
+      "unit_price": 20000.0,
+      "total_price": 20000.0,
+      "category": "Dessert",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "GRAPE JELLY",
+      "quantity": 1,
+      "unit_price": 13000.0,
+      "total_price": 13000.0,
+      "category": "Dessert",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 17000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000050.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CHO MOUSSE 20,000\nGRAPE JELLY 13,000\nSUBTIOAL 30,000\nTAX 10% 3,000\nTL 33,000\nCASH 50,000\nCG 17,000"
+  }
+}

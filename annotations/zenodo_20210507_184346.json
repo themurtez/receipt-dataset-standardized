@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "INTERMARCHE INTERVALONGA SUPERMECADOS LDA",
+    "address": "Urb. Terras Compridas Lt8, 2625-716 Vialonga",
+    "phone": "219 523 156",
+    "tax_id": "513 450 866",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-12-14",
+    "time": "16:47:19",
+    "currency": "EUR",
+    "payment_method": "Dinheiro",
+    "subtotal": 50.0,
+    "tax": 9.35,
+    "tip": 0.0,
+    "total": 50.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "GASOLEO",
+      "quantity": 38.499,
+      "unit_price": 1.299,
+      "total_price": 50.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_184346.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Posto  Abastecimento INTERMARCHE \nINTERVALONGA SUPERMERCADOS LDA \nUrb. Terras Compridas Ll8 \n2625-716 Vialonga \nNIPC: 513 450 866 \nTelefone:219 523 156 \n\nData  Hora POS Operador Turno \n14-12-2019 16:47:19 1 103 4116 \nFactura/Recibo \nFT FTI285P1700AG0807B67AE/25940 \n\nQtd. Preco Un. Produto Sub-Total \n38.499 Litros 1.299 Eur/Litros GASOLEO \nES  \nIVA \n23 % 50.00 Eur \n\nNIF: 51076914 \nNome Cliente \nFEELSLIKEHOME \nMorada \nLISBOA \n\nDinheiro 50.00 \nIva 23.0 %: 9.35 Eur \nTotal Venda : 50.00 Eur \n\nBens/Servicos colocados ao dispor \ndo cliente final no acto da venda \n\nObrigado e Boa Viagem \nPro-processado por prog. certificado 166/AT"
+  }
+}

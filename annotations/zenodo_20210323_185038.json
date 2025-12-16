@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Bar Clube Ciclismo",
+    "address": "Rua da Comunidade Lusiada, L7 R/C ESQ, 8800-000 Tavira",
+    "phone": "",
+    "tax_id": "PT193498251",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-08",
+    "time": "13:58:16",
+    "currency": "EUR",
+    "payment_method": "Dinheiro",
+    "subtotal": 6.93,
+    "tax": 1.07,
+    "tip": 0.0,
+    "total": 8.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Refeicao Completa",
+      "quantity": 1,
+      "unit_price": 4.05,
+      "total_price": 4.05,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Prato Dia Dose",
+      "quantity": 1,
+      "unit_price": 0.49,
+      "total_price": 0.49,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Agua s/ gas",
+      "quantity": 1,
+      "unit_price": 0.97,
+      "total_price": 0.97,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Sobremesa",
+      "quantity": 1,
+      "unit_price": 0.49,
+      "total_price": 0.49,
+      "category": "Dessert",
+      "accounting_category": "Meals",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Cafe",
+      "quantity": 1,
+      "unit_price": 0.49,
+      "total_price": 0.49,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Snacks",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_185038.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BAR CLUBE CICLISMO\nMaria da Saude Perpetua D. Martires\nRua da Comunidade Lusiada, L7 R/C ESQ.\n8800-000 TAVIRA\nNIF: PT193498251\nData: 2019-03-08, 13:58:16\nFactura simplificada n: FS S1/0000964\nCliente:\nNIF: 514407395\n------------------------------------------\nQt Desc.               IVA  p.unit  total\n------------------------------------------\n1 Refeicao completa    13%   €4,05\n1 Prato Dia Dose       13%   t0,49\n1 Agua s/ ias          13%   €0,97\n1 Sobremesa            13%   €0,49\n1 Cafe                 13%   €0,49\n1 Snacks               23%   €2,00   €2,00\n------------------------------------------\n                     Total:         €8,00\n------------------------------------------\nMetodos de Pagamento:\n                     Dinheiro       €8,00\n\nTaxa   Incid.  Valor  Total\n23%    €1,63   €0,37  €2,00\n13%    €5,30   €0,70  €6,00\n------------------------------------------\nTotal: €8,93   €1,07  €8,00\n\nEmpregado: Bar Clube Ciclismo\nMesa: 1\n\nB400-Processado por programa certificado\nN.1280/AT Sage GesRestII\nImplementado por TAVINFOR-Informatica\n* Obrigado - Volte Sempre *"
+  }
+}

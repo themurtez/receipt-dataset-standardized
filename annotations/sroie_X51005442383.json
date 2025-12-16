@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Carrefour Restaurant",
+    "address": "18, Jalan Permas 10/7, Bandar Baru Permas Jaya, Masai, Johor",
+    "phone": "07-3822612",
+    "tax_id": "000433614848",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-03-20",
+    "time": "12:42:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 13.0,
+    "tax": 0.78,
+    "tip": 0.0,
+    "total": 13.8,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "238",
+      "quantity": 1,
+      "unit_price": 10.0,
+      "total_price": 10.0,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "1033",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Drink",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.02,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005442383.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CARREFOUR RESTAURANT\nJM0725755-U\n18,JALAN PERMAS 10/7\nBANDAR BARU PERMAS JAYA,\nMASAI,JOHOR\nGST ID: 000433614848 TEL: 07-3822612\nTABLE : 3\nCASH\nMEMBER POINTS : 0.00\nRECEIPT CSG0018751 DATE: 20/03/2016\nSALESPERSON\nCASHIER: BAI HE\nITEM QTY U/P DISC% AMOUNT\n干炒海鲜河粉\n238 1 10.00 10.00\n豆奶仙草\n1033 1 3.00 3.00\nTOTAL QTY: 2\nTOTAL POINTS: 0.00\nSUB-TOTAL: 13.00\nDISC\nSERVICE CHARGE\nGOV TAX: 0.78\nROUNDING: 0.02\nTOTAL 13.80\nCASH 13.80\nCHANGE 0.00\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU."
+  }
+}

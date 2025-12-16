@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "ENW Hardware Centre (M) Sdn. Bhd.",
+    "address": "No: G3, Blk G, Jln PJU 1A/3, Ara Damansara, 47301 Petaling Jaya, Selangor Darul Ehsan.",
+    "phone": "03-7832 6929, 012-659 9829",
+    "tax_id": "GST Reg. No.: 000155453440",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-10",
+    "time": "",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 32.07,
+    "tax": 1.93,
+    "tip": 0.0,
+    "total": 34.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "2kgs. Wood Lacquer Thinner",
+      "quantity": 1,
+      "unit_price": 19.0,
+      "total_price": 19.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "1.5kg. Ufioxx Putty Filler",
+      "quantity": 1,
+      "unit_price": 10.0,
+      "total_price": 10.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "100# x 8\" x 45m Sand Paper Roll",
+      "quantity": 2,
+      "unit_price": 2.5,
+      "total_price": 5.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005749905.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ENW Hardware Centre (M) Sdn. Bhd.\nCo. Reg. No.: 795225-A\nGST Reg. No.: 000155453440\nNo: G3, Blk G, Jln PJU 1A/3,\nAra Damansara, 47301\nPetaling Jaya, Selangor Darul Ehsan.\nTEL: 03-7832 6929, 012-659 9829\n10/03/2018 Tax Invoice\nNo.: CS00230322\nCash Sale (Ara D'sara)\nTel: 03-7832 6929\nH/P: 012-659 9829\nItem Qty U.Price RM\n001533 1.00 19.00 19.00 SR\n2kgs. Wood Lacquer Thinner\n000920 1.00 10.00 10.00 SR\n1.5kg. Ufioxx Putty Filler.\n006828 2.00 2.50 5.00 SR\n100# x 8\" x 45m Sand Paper Roll.\nTotal Amt Incl. GST @ 6 %: 34.00\nRounding Adjusment : 0.00\nTotal Amt Payable : 34.00\nTotal Qty Tender :\n4\nGST Summary Amount (RM)\nSR = 6 % 32.07\nPOINT : 0.00\n*Goods sold are not returnable\nThank you for shopping at\nENW Hardware Centre (M) Sdn. Bhd.\nbuy pasn"
+  }
+}

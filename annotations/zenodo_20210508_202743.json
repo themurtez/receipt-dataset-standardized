@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "GESTÃO ADMINISTRAÇÃO DE POSTOS ABASTECIMENTO UNIPESSOAL LDA",
+    "address": "AV DOS ARGONAUTAS N.1 1990-215 LISBOA",
+    "phone": "",
+    "tax_id": "NIF 503769919",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-08-01",
+    "time": "17:52:05",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 3.58,
+    "tax": 0.82,
+    "tip": 0.0,
+    "total": 4.4,
+    "accounting_category": "Car Wash",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "LAVAGEM EXTRA",
+      "quantity": 1,
+      "unit_price": 4.4,
+      "total_price": 4.4,
+      "category": "Car Wash",
+      "accounting_category": "Car Wash",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 15.6
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_202743.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GESTÃO ADMINISTRAÇÃO DE POSTOS\nABASTECIMENTO UNIPESSOAL LDA\nRUA DA MALHOA N 16-1099-091 LISBOA\nSOC 29 928,11 EUR\nC.L./NIF503769919\nREPSOL EXPO\nAV DOS ARGONAUTAS N.1 1990-215 LISBOA\n1218940606\n\nFACTURA/RECIBO\n\nDATA/HORA 2018-08-01 17:52:05\nDE OPERACAO: 4005/2018370 CAIXA N 1\nVENDEDOR: HUMER JESUS ROIR\n\n1 LAVAGEM EXTRA 4,40 €\nCash Account 0,00 €\nTotal 4,40 €\nDINHEIRO: 20,00 €\nTROCO 15,60 €\n\nTipo IVA Base IVA Total\nE 23.0% 3,58 € 0,82 € 4,40 €\n\nIVA Incluído a taxa em vigor\n\nDoc NR: FR 4005TPV/180013762\nNOME: FLIKEHOME MEDIACAO IMOBILIARIA, LDA\nNIF: 510767914\nMATRICULA: 50 EM 14\nMORADA: AV DA LIBERDADE N 36 1 ANDAR\n\nLOCALIDADE: LISBOA\nN16-Processado por Programa Certificado\nN_ 1072/AT\n\n*** OBRIGADO E BOA VIAGEM ***"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "merchant": {
+    "name": "99 Speed Mart S/B (1519537-X)",
+    "address": "Lot P.T. 2911, Jalan Angsa, Taman Berkeley, 41150 Klang, Selangor, 1422-Tmn Desa Jaya",
+    "phone": "",
+    "tax_id": "000181747712",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-05-10",
+    "time": "13:57:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 72.74,
+    "tax": 2.74,
+    "tip": 0.0,
+    "total": 72.75,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "A&W Sarsaparilla 1.5L",
+      "quantity": 1,
+      "unit_price": 2.85,
+      "total_price": 2.85,
+      "category": "Beverage",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Coke Zero 1.25L",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Beverage",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Helang Minyak Masak 5kg",
+      "quantity": 1,
+      "unit_price": 24.4,
+      "total_price": 24.4,
+      "category": "Grocery",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Cintan Mi Perisa Asli 5",
+      "quantity": 1,
+      "unit_price": 3.65,
+      "total_price": 3.65,
+      "category": "Noodles",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Mamee Express Mi Cawan",
+      "quantity": 1,
+      "unit_price": 1.29,
+      "total_price": 1.29,
+      "category": "Noodles",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Maggi Hot Cup Mee Tom Yam",
+      "quantity": 2,
+      "unit_price": 1.75,
+      "total_price": 3.5,
+      "category": "Noodles",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Milo Fuze 3in1 Original",
+      "quantity": 1,
+      "unit_price": 13.65,
+      "total_price": 13.65,
+      "category": "Beverage",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Julies Sugar Crackers",
+      "quantity": 2,
+      "unit_price": 3.35,
+      "total_price": 6.7,
+      "category": "Snacks",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "SBB Twisties Cookies",
+      "quantity": 1,
+      "unit_price": 2.3,
+      "total_price": 2.3,
+      "category": "Snacks",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Bin Bin Rice Cracker",
+      "quantity": 2,
+      "unit_price": 5.95,
+      "total_price": 11.9,
+      "category": "Snacks",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 12,
+    "rounding": 0.01,
+    "change_due": 27.25
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006393377.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "99 SPEED MART S/B (1519537-X)\nLOT P.T. 2911, JALAN ANGSA,\nTAMAN BERKELEY\n41150 KLANG, SELANGOR\n1422-TMN DESA JAYA\nGST ID, NO : 000181747712\nINVOICE NO : 18029/103/70369\n01:57PM 563498 10-05-17\n2174 A&W SARSAPARILLA 1.5L RM2.85\n2502 COKE ZERO 1.25L STOP RM2.50\n261 HELANG MINYAK MASAK 5KG RM24.40\n325 CINTAN MI PERISA ASLI 5 RM3.65\n311 MAMEE EXPRESS MI CAWAN RM1.29\n5425 MAGGI HOT CUP MEE TOM RM3.50\n@2 X RM 1.75\n066 MILO FUZE 3INI ORIGINAL RM13.65\n1821 JULIES SUGAR CRACKERS RM6.70\n@2 X RM 3.35\n6059 SBB TWISTIES COOKIES 1 RM2.30\n371 BIN BIN RICE CRACKER 15 RM11.90\n@2 X RM 5.95\nTotal Sales (Inclusive GST) RM 72.74\nRounding Adjustment RM .01\nRounding RM 72.75\nCASH RM 100.00\nCHANGE RM 27.25\nGST Summary Amount(RM) Tax(RM)\ns = 6% 45.60 2.74\nz = 0% 24.40 .00\nThank You. Please come again\nKeep the invoice for applicable returns"
+  }
+}

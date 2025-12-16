@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Denny's Restaurant #8129",
+    "address": "160 Eastern Boulevard, Canandaigua, NY 14424",
+    "phone": "(585) 394-4880",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2015-08-30",
+    "time": "23:00:11",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 3.99,
+    "tax": 0.0,
+    "tip": 1.0,
+    "total": 5.29,
+    "accounting_category": "Dining",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Milk Shake",
+      "quantity": 1,
+      "unit_price": 3.99,
+      "total_price": 3.99,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1149-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Dine In\nDenny's Restaurant #8129\n160 Eastern Boulevard\nCanandaigua, NY 14424\n(585) 394-4880\n\n8/30/2015\t11:00:11 PM\nOrder: 429742\tServer: Bethany F\nTable: 12 Guests: 2\n1 No Beverage\t\t\t0.00\n1 No Beverage\t\t\t0.00\n1 Milk Shake\t\t\t3.99\n\t\t\tShake Choc\n\nSubTotal\t\t\t3.99\nTax\t\t\t\t0.00\nGratuity\t\t\t1.00\n\nTotal\t\t\t\t5.29"
+  }
+}

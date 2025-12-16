@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Delmonico's Italian Steakhouse",
+    "address": "1553 Central Ave, Albany, NY 12205",
+    "phone": "(518) 456-5656",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2015-08-22",
+    "time": "21:24:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 42.95,
+    "tax": 3.44,
+    "tip": 0.0,
+    "total": 46.39,
+    "accounting_category": "Dining",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Mo Bev",
+      "quantity": 0,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Mozzarella Fritta",
+      "quantity": 1,
+      "unit_price": 7.99,
+      "total_price": 7.99,
+      "category": "Appetizer",
+      "accounting_category": "Appetizer",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Delmonico Steak",
+      "quantity": 1,
+      "unit_price": 24.99,
+      "total_price": 24.99,
+      "category": "Main Course",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Asparagus",
+      "quantity": 1,
+      "unit_price": 2.99,
+      "total_price": 2.99,
+      "category": "Side",
+      "accounting_category": "Side Dish",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Baked Potato",
+      "quantity": 1,
+      "unit_price": 2.99,
+      "total_price": 2.99,
+      "category": "Side",
+      "accounting_category": "Side Dish",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Decaf Coffee - Unlimited",
+      "quantity": 1,
+      "unit_price": 2.99,
+      "total_price": 2.99,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1169-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Delmonico's Italian Steakhouse\n1553 Central Ave.\nAlbany, NY 12205\n(518) 456-5656\nServer: Sarah 08/22/2015\nTable 5/71 9:24 PM\nGuests: 1 #70056\n\nMo Bev (2.00)\t0.00\nMozzarella Fritta\t7.99\nDelmonico Steak\t24.99\nAsparagus\t2.99\nBaked Potato\t2.99\nDecaf Coffee - Unlimited\t2.99\n\n6 Items\nSubtotal\t42.95\nTax\t3.44\nTotal\t46.39\n\nBalance Due\t46.39\nGratuity Not Included\nGratuity Not Included\n"
+  }
+}

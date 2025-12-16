@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Syarikat Perniagaan Gin Kee",
+    "address": "No 290, Jalan Air Panas, Setapak, 53200, Kuala Lumpur",
+    "phone": "03-40210276",
+    "tax_id": "000750673920",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-31",
+    "time": "10:41:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 96.0,
+    "tax": 5.76,
+    "tip": 0.0,
+    "total": 101.76,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "105MM/4' Cutting Disc",
+      "quantity": 2,
+      "unit_price": 29.68,
+      "total_price": 59.36,
+      "category": "Tools",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "4\" Magic Sand Paper",
+      "quantity": 10,
+      "unit_price": 3.18,
+      "total_price": 31.8,
+      "category": "Tools",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cotton Glove (Dozen)",
+      "quantity": 1,
+      "unit_price": 10.6,
+      "total_price": 10.6,
+      "category": "Apparel",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 13,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005677333.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS,\nSETAPAK,\n53200, KUALA LUMPUR\nTEL : 03-40210276\nGST ID : 000750673920\nSIMPLIFIED TAX INVOICE\nCASH\nDoc No. : CS00013065 Date: 31/01/2018\nCashier : USER Time: 10:41:00\nSalesperson : Ref. :\nItem Qty S/Price Amount Tax\n3122 2 29.68 59.36 SR\n(VW33) 105MM/4' CUTTING DISC\n3383 10 3.18 31.80 SR\n4\" MAGIC SAND PAPER\n1512 1 10.60 10.60 SR\n104 COTTON GLOVE (DOZEN)\nTotal Qty: 13 101.76\nTotal Sales (Excluding GST) : 96.00\nDiscount : 0.00\nTotal GST : 5.76\nRounding : 0.00\nTotal Sales (Inclusive of GST): 101.76\nCASH : 101.76\nChange : 0.00\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR 6 96.00 5.76\nTotal : 96.00 5.76\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU."
+  }
+}

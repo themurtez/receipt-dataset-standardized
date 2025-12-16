@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Norauto Portugal S.A.",
+    "address": "Avenida dos Cavaleiros, N°49, 2794-057 Carnaxide",
+    "phone": "210170000",
+    "tax_id": "503629995",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-07-04",
+    "time": "18:32:29",
+    "currency": "EUR",
+    "payment_method": "MS-CARTES MULTIB / VISA / AME",
+    "subtotal": 4.84,
+    "tax": 1.11,
+    "tip": 0.0,
+    "total": 5.95,
+    "accounting_category": "Automotive",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "ANT UNU FLEXIVEL AM/FM",
+      "quantity": 1,
+      "unit_price": 5.95,
+      "total_price": 5.95,
+      "category": "Auto Accessories",
+      "accounting_category": "Automotive",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_203911.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Norauto Portugal S.A.\nAvenida dos Cavaleiros, N°49\n2794-057 Carnaxide\nNIF : 503 629 995\nCapital: 50,000 €\nALMADA\nRUA SERGIO MALPique No 12 14\nQUINTA DOS ESPARTORES DE CIMA\n2815-500 ALMADA\nTEL : 210170000\n503629995\nFACTURA\nRef. fiscal Tl 06000000372227\n866049 (2) ANT UNU FLEXIVEL AM/FM\n5.95 * 1 5.95\nTOTAL EUR 5.95\nMS-CARTES MULTIB / VISA / AME 5.95 EUR\n(23) 23.00% 1.11 EUR\nTOTAL S/ TAXAS 4.84 EUR\nCliente\nSr. FILEKHOME\n1100-001 LISBOA\nPORTUGAL\nCódigo: 1000000079903\nNIF: 510776914\nAtendido por: ANA VALENTE\nNr.0656-3-265302 VPH 3\nArtigos: Quant.\n1\n04/07/2018 18:32:29\nTJIK-Processado por Programa Certificado n.° 1220/AT\nAG066-0-1439648\nOs adiantamentos SR não são reembolsáveis.\nQueira guardar este cupão.\nApresente-o na próxima visita.\nObrigado e até breve\nTalão indispensável para troca"
+  }
+}

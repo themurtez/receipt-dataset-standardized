@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Daily Grill",
+    "address": "2501 Colorado Ave, Santa Monica, CA 90404",
+    "phone": "",
+    "tax_id": "",
+    "website": "DailyGrill.com"
+  },
+  "transaction": {
+    "date": "2018-11-01",
+    "time": "19:30:00",
+    "currency": "USD",
+    "payment_method": "Unspecified",
+    "subtotal": 82.95,
+    "tax": 8.5,
+    "tip": 0.0,
+    "total": 91.45,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Coke",
+      "quantity": 1,
+      "unit_price": 3.65,
+      "total_price": 3.65,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Short Rib",
+      "quantity": 1,
+      "unit_price": 27.95,
+      "total_price": 27.95,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Diet Coke",
+      "quantity": 1,
+      "unit_price": 3.65,
+      "total_price": 3.65,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Crispy Naked Wings",
+      "quantity": 1,
+      "unit_price": 11.95,
+      "total_price": 11.95,
+      "category": "Appetizer",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Rib Eye Steak",
+      "quantity": 1,
+      "unit_price": 35.75,
+      "total_price": 35.75,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1048-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "DAILY GRILL\nEXCELLENCE SERVED DAILY\nDaily Grill\n2501 Colorado Ave\nSanta Monica, CA 90404\n\nServer: Dana  11/01/2018\nTable 54/1  7:30 PM\nGuests: 2\n#20027\n\nCoke  3.65\nShort Rib  27.95\nDiet Coke  3.65\nCrispy Naked Wings  11.95\nRib Eye Steak  35.75\nBroccoli\n\nSubtotal  82.95\nTax  8.50\n\nTotal  91.45\n\nBalance Due  91.45"
+  }
+}

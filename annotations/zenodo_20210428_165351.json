@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "JMTD-FERRAGENS DO COMBRO LDA",
+    "address": "CALÇADA DO COMBRO Nº3 1200-110 LISBOA",
+    "phone": "21 347 67 62",
+    "tax_id": "513 350 535",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-01",
+    "time": "14:27:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 3.66,
+    "tax": 0.84,
+    "tip": 0.0,
+    "total": 4.5,
+    "accounting_category": "Hardware",
+    "category_confidence": 0.8
+  },
+  "items": [
+    {
+      "name": "Chave Universal Especial",
+      "quantity": 3,
+      "unit_price": 1.5,
+      "total_price": 4.5,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_165351.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "JMTD-FERRAGENS DO COMBRO LDA\nFERRAGENS FERRAMENTAS CHAVES FECHADURAS\nMAT. ELECTRICO MAT. CANALIZAÇAO\nCALÇADA DO COMBRO Nº3 1200-110 LISBOA\nNIF: 513 350 535\nEmail: jose.m.a.duarte@sapo.pt\nTelf.: 21 347 67 62\n\nFATURA SIMPLIFICADA\nORIGINAL\nDATA 01/03/2019 14:27 Nº A/29546\n\nCliente: FLKEHOME Lda\nMorada:\nCont.Nº: 510776914\n\nArtigo Qtd Preço € Valor €\n\nChave Universal Especial\n23% 3 Un x 1,50 4,50\n\n#003\n\nTOTAL 4,50\n\nNumerário............. 4,50\nTroco................... 0,00\n\nIVA Incluído à taxa indicada\nTaxa% Sujeito IVA Total\n23,00 3,66 0,84 4,50\n\nData de carga: 01/03/2019\nHora de carga: 14:37\nLocal carga: N/Instalações\nMatrícula:\nData descarga:\nHora descarga:\nLocal descarga: V/Instalações\n\nSiUS-Processado por programa certificado\nNº 88/AT - 1 A/29546\n\nOpr: Administrador\n\nOBRIGADO - VOLTE SEMPRE"
+  }
+}

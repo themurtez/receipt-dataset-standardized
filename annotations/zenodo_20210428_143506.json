@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "SUPERMERCADO ROCHA S.A.",
+    "address": "Rua 1 de Dezembro 45 3",
+    "phone": "",
+    "tax_id": "506403120",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-09",
+    "time": "14:54:30",
+    "currency": "EUR",
+    "payment_method": "Bank",
+    "subtotal": 6.736,
+    "tax": 0.404,
+    "tip": 0.0,
+    "total": 7.14,
+    "accounting_category": "groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SCHÄR PAO FORMA S/A CEREAIS 300G",
+      "quantity": 1,
+      "unit_price": 3.57,
+      "total_price": 3.57,
+      "category": "gluten-free product",
+      "accounting_category": "groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SCHÄR PAO FORMA S/A CEREAIS 300G",
+      "quantity": 1,
+      "unit_price": 3.57,
+      "total_price": 3.57,
+      "category": "gluten-free product",
+      "accounting_category": "groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_143506.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SUPERMERCADO ROCHA S.A.\nRua 1 de Dezembro 45 3\n1249-057 Lisboa\nContribuinte: 506403120\nEstabelecimento: 1 /DL/LX890\n\nFatura\n2019 02 09 14:54 F1 20190202/58\nV.N. Contribuinte: 510776914\nTLKIHOME\n\nDescricao Taxa Quant Preco Valor\n\nProduto sem Gluten\nSCHÄR PAO FORMA S.A CEREAIS 300G\n330916 1 3.57 3.57\nProduto sem Gluten\nSCHÄR PAO FORMA S.A CEREAIS 300G\n330916 1 3.57 3.57\nTotal Euros: 7.14\n\nTaxa B.Tributavel Imposto Total\n1 6.00% 6.736 0.404 7.14\nTotais: 0.404 7.14\n\ngCxX-Processado por programa\nCertificado Nr 2129/A1\n\nCarga: 09-02-2019 14:54:50\n\nDevolucoes ou troca so no prazo de 15\ndias por desconformidade do mesmo\nmediante a presentacao do Talor e de\npreferencia na loja onde o adquiriu.\n\nM.Banco 7.14\nTroco 0.00"
+  }
+}

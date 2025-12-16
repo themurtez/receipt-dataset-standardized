@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Mini Mercado Sao José",
+    "address": "CALCADA DA AJUDA 31 31A, 1300-017 LISBOA",
+    "phone": "214086102",
+    "tax_id": "PT2503165164",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-29",
+    "time": "16:31:33",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 36.21,
+    "tax": 3.87,
+    "tip": 0.0,
+    "total": 36.21,
+    "accounting_category": "groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "morangos",
+      "quantity": 1,
+      "unit_price": 2.99,
+      "total_price": 4.37,
+      "category": "fruit",
+      "accounting_category": "groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "azeite virgem extra",
+      "quantity": 1,
+      "unit_price": 7.15,
+      "total_price": 7.15,
+      "category": "oil",
+      "accounting_category": "groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "manteiga milhafre sal 250g",
+      "quantity": 1,
+      "unit_price": 2.99,
+      "total_price": 2.99,
+      "category": "dairy",
+      "accounting_category": "groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "uvas",
+      "quantity": 2,
+      "unit_price": 3.49,
+      "total_price": 9.5,
+      "category": "fruit",
+      "accounting_category": "groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "banana",
+      "quantity": 5,
+      "unit_price": 1.09,
+      "total_price": 2.5,
+      "category": "fruit",
+      "accounting_category": "groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_181439.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Mini Mercado Sao José\nTIANHAO CHANG\nCALCADA DA AJUDA 31 31A\n1300-017 LISBOA\nN Contribuinte PT2503165164\nTEL 214086102\n...................\nOriginal\n2018/6/29 16 31 33\nFATURA:FT 18/0000000003064\n...........................\nNOME HHHHHHH\nMORADA\nN Contribuinte 510776914\n-------------------------\nDescricao          Preço  Qtc  Qta  Total\nmorangos           2.99   0%   1.46  4.37\nazeite virgem extra 7.15  0%     1  7.15\nmanteiga milhafre sal 250g 2.99 0%   1  2.99\nuvas               3.49   0%  2.68  9.50\nbanana             1.09   0%  2.29  2.50\n                  ..............................\nTOTAL:36.21\nRECEBIDO:36.21\nTROCO:0.00\n-------------------------\nDto Total 0.00       Sub Total 36.2\nIVA% IMPONIB IVA VALOR TOT\n6.00 21.00 1.26 22.26\nIVA INCLUIDO\n23.00 11.34 2.61 13.95\nIVA INCLUIDO\n-------------------------\nvdDB - processado por programa\ncertificado n.: 1549/AT\nFATURA Indispensavel p/ trocas em\n7 dias.nao efectuamos devolucoes do\ndinheiro"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "PREMIO STATIONERY SDN BHD",
+    "address": "F-G-01 JALAN SS 6/5B, Dataran Glomac, Kelana Jaya, 47301 Petaling Jaya, Selangor",
+    "phone": "03-7880 5750",
+    "tax_id": "001032994816",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-08-02",
+    "time": "14:09:49",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 24.0,
+    "tax": 1.44,
+    "tip": 0.0,
+    "total": 25.45,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SR SQUARE THUMB TACKS",
+      "quantity": 30,
+      "unit_price": 0.85,
+      "total_price": 25.44,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 30,
+    "rounding": 0.01,
+    "change_due": 0.05
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006327976.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PREMIO STATIONERY SDN BHD\n(Co. No.: 123769-W)\nGST Reg. No.: 001032994816\nF-G-01 JALAN SS 6/5B\nDataran Glomac, Kelana Jaya\n47301 Petaling Jaya, Selangor\n03-7880 5750\nTAX INVOICE\nInvoice No : KJ1-248350\nDate : 08/02/2017 2:09:49 PM\nCashier : SU MAY\nDescription Qty Price Amount\n1 SR SQUARE THUMB 30 0.85 25.44\nTACKS\nTotal :\nDiscount: 0.00\nTotal Sales Inclusive GST @6 00%: 25.44\nRounding Adjustment: 0.01\nAmount To Be Paid : 25.45\nCash Received : 25.50\nChange : 0.05\nStarting 1st April, we will no longer be issuing handwritten\ninvoices Your service jobs such as photocopy and printing are\nreplaced by the order form along with a copy of this receipt\nAll goods and services are subjected to the 6% GST during checkout\nAll goods sold are not returnable/refundable. Exchanges are only\nacceptable within 3 days with a proof of receipt\nAll cartridge & toner sales are final and non-refundable\nNo cash refunds for credit card purchases\nNo refunds or exchanges will be entertained without proof of receipt\nTerms and conditions applied.\nGST Summary % Amount(RM) Tax(RM)\nSR 6.00 24.00 1.44\nThank you for Shopping at PREMIO\nHave a Nice Day!\nFor the latest news and updates\nlike us on facebook.com/premiostationery\n25.45"
+  }
+}

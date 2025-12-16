@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 183000.0,
+    "tax": 19215.0,
+    "tip": 0.0,
+    "total": 211365.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CB PR SIRLOIN",
+      "quantity": 1,
+      "unit_price": 162000.0,
+      "total_price": 162000.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "F.FRIES MEDIUM",
+      "quantity": 2,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "F.FRIES COMBO",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "BROWN SAUCE",
+      "quantity": 2,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Condiment",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "ES TEH TAWAR",
+      "quantity": 1,
+      "unit_price": 8000.0,
+      "total_price": 8000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "COCA COLA",
+      "quantity": 1,
+      "unit_price": 13000.0,
+      "total_price": 13000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 8635.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000764.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 CB PR SIRLOIN 162000 162,000\n2 F.FRIES MEDIUM 0 0\n1 F.FRIES COMBO 0 0\n2 BROWN SAUCE 0 0\n1 ES TEH TAWAR 8000 8,000\n1 COCA COLA 13000 13,000\nSubtotal 183,000\nServ.Charge 5.00 % 9,150\nP8I 10.00 % 19,215\nGrandtotal 211,365\nCash 220,000\nKembalian 8,635"
+  }
+}

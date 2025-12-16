@@ -1,0 +1,235 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 1346000.0,
+    "tax": 100950.0,
+    "tip": 144685.0,
+    "total": 1591600.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Nasi Campur Bali",
+      "quantity": 1,
+      "unit_price": 75000.0,
+      "total_price": 75000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Bbq Bengal Nasi",
+      "quantity": 1,
+      "unit_price": 125000.0,
+      "total_price": 125000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MilkShake Starwb",
+      "quantity": 1,
+      "unit_price": 37000.0,
+      "total_price": 37000.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Ice Lemon Tea",
+      "quantity": 1,
+      "unit_price": 24000.0,
+      "total_price": 24000.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Nasi Ayam Dewata",
+      "quantity": 1,
+      "unit_price": 70000.0,
+      "total_price": 70000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Free Ice Tea",
+      "quantity": 3,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Organic Green Sa",
+      "quantity": 1,
+      "unit_price": 65000.0,
+      "total_price": 65000.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Ice Tea",
+      "quantity": 1,
+      "unit_price": 18000.0,
+      "total_price": 18000.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Ice Orange",
+      "quantity": 1,
+      "unit_price": 25000.0,
+      "total_price": 25000.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Ayam Suir Bali",
+      "quantity": 1,
+      "unit_price": 72000.0,
+      "total_price": 72000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Tahu Goreng",
+      "quantity": 1,
+      "unit_price": 26000.0,
+      "total_price": 26000.0,
+      "category": "Food",
+      "accounting_category": "Snacks",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Tempe Goreng",
+      "quantity": 2,
+      "unit_price": 22000.0,
+      "total_price": 44000.0,
+      "category": "Food",
+      "accounting_category": "Snacks",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Tahu Telor Asin",
+      "quantity": 1,
+      "unit_price": 28000.0,
+      "total_price": 28000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Nasi Goreng Samb",
+      "quantity": 1,
+      "unit_price": 70000.0,
+      "total_price": 70000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Bbq Panggang San",
+      "quantity": 1,
+      "unit_price": 366000.0,
+      "total_price": 366000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ayam Sambal Hija",
+      "quantity": 1,
+      "unit_price": 92000.0,
+      "total_price": 92000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Hot Tea",
+      "quantity": 2,
+      "unit_price": 22000.0,
+      "total_price": 44000.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Ice Kopi",
+      "quantity": 2,
+      "unit_price": 16000.0,
+      "total_price": 32000.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Tahu Telor Asin",
+      "quantity": 1,
+      "unit_price": 40000.0,
+      "total_price": 40000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Free Ice Tea",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Bebek Street",
+      "quantity": 1,
+      "unit_price": 44000.0,
+      "total_price": 44000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ice Tea Tawar",
+      "quantity": 1,
+      "unit_price": 18000.0,
+      "total_price": 18000.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 22,
+    "rounding": -45.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000000.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Nasi Campur Bali 75,000\nBbq Bengal Nasi 125,000\nMilkShake Starwb 37,000\nIce Lemon Tea 24,000\nNasi Ayam Dewata 70,000\nFree Ice Tea\nOrganic Green Sa 65,000\nIce Tea 18,000\nIce Orange 25,000\nAyam Suir Bali 72,000\nTahu Goreng 26,000\nTempe Goreng 2 22,000\nTahu Telor Asin 28,000\nNasi Goreng Samb 70,000\nBbq Panggang San 366,000\nAyam Sambal Hija 92,000\nHot Tea 2 22,000\nIce Kopi 2 16,000\nTahu Telor Asin 40,000\nFree Ice Tea\nBebek Street 44,000\nIce Tea Tawar 18,000\nSub-Total 1,346,000\nService 100,950\nPBI 144,635\nRounding -45\nGrand Total 1,591,600"
+  }
+}

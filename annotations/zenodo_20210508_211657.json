@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Maria Amelia & Filhos, LDA",
+    "address": "Rua de Burnay, 2655-362 Sobral de Monte Agraco",
+    "phone": "261862117",
+    "tax_id": "PT505796960",
+    "website": "clientes@galp.com"
+  },
+  "transaction": {
+    "date": "2018-06-19",
+    "time": "18:34:04",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 48.78,
+    "tax": 11.22,
+    "tip": 0.0,
+    "total": 60.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Gasoleo Evologic",
+      "quantity": 43.43,
+      "unit_price": 1.414,
+      "total_price": 60.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_211657.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "galp\nDOCUMENTO DE VENDA\nMARIA AMELIA & FILHO, LDA 12297\nMARIA AMELIA & FILHO, LDA\nRUA DE BURNAY,\n2655-362 SOBRAL Tel. 261862117\nNIF PT505796960\nFatura/Recibo\nQuantidade Preço\nPreço Unitario\n43.43L Bomba 04\nGASOLEO EVOLOGIC EUR 60.00\n1.414 EUR/L EUR 60.00\n23.00 % IVA A EUR 11.22\nCliente: 7161\nNome: FLIXEHOME\nCódigo Postal:\nLocalidade:\nNº Contribuinte: 510776914\nMatricula: 54-CC-00\nOperador: CCLEB\nECF: 00010002109292018.0000122902.0000192901\nData Hora NºTr POS NºOp Turno\n19-06-18 18:33 62190 01 0001 091\nRegime IVA de Caixa nos casos em que tal\nseja aplicável ao cliente\nclientes@galp.com Tel 707 504 257\nDescontos até 16ct/l com cartão Universo\nPague com saldo do Cartão Continente\nExperimente os combustíveis EVOLOGIC\n-PERFORMANCE -PROTECAO - POUPANÇA\nE AMBIENTE. Consulte galp.com.\nA sua opinião é importante!\nresponda a optmio.galp.com/postos\ne receba desconto 2 eur em combustivel\nEvologic, o combustível mais evoluído\nTotal EUR 60.00\nCARTAO DEBITO EUR 60.00\nTerminal Pagamento Automatico: 000695402\nData: 2018-06-19 Hora: 18:34:04\nPeriodo: 029 Transacao: 025 Mensagem: 023\nCX GERAL DEPOSITOS\nRODRIGO PEDROSO\nCARTAO: ****3245/52\nMULTIBANCO\nCOMPRA 60.00E MB\nAUT: 363015\nPROCESSADO POR SIBS"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Restoran Wan Sheng",
+    "address": "No.2, Jalan Temenggung 19/9, Seksyen 9, Bandar Mahkota Cheras, 43200 Cheras, Selangor",
+    "phone": "",
+    "tax_id": "002043319-W",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-07",
+    "time": "15:34:15",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 4.54,
+    "tax": 0.26,
+    "tip": 0.0,
+    "total": 4.8,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Teh (B)",
+      "quantity": 2,
+      "unit_price": 2.2,
+      "total_price": 4.4,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Take Away",
+      "quantity": 2,
+      "unit_price": 0.2,
+      "total_price": 0.4,
+      "category": "Service",
+      "accounting_category": "Additional Charges",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005711449.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "RESTORAN WAN SHENG\n002043319-W\nNo.2, Jalan Temenggung 19/9,\nSeksyen 9, Bandar Mahkota Cheras,\n43200 Cheras, Selangor\nGST REG NO: 001335787520\nTax Invoice\nINV No.: 1032236 Cashier: Thandar\nDate : 07-03-2018 15:34:15\nDescription Qty U.price Total TAX\nTeh (B) 2 x 2.20 4.40 SR\nTake Away 2 x 0.20 0.40 SR\nTotal QTY: 4\nTotal (Excluding GST): 4.54\nGST payable (6%): 0.26\nTotal (Inclusive of GST): 4.80\nTOTAL: 4.80\nCASH : 4.80\nGST Summary Amount(RM) Tax(RM)\nSR (@ 6%) 4.54 0.26"
+  }
+}

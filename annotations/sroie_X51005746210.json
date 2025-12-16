@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Segi Cash & Carry Sdn. Bhd.",
+    "address": "Pt17920 Sek U9, Shah Alam",
+    "phone": "",
+    "tax_id": "001951645696",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-12",
+    "time": "08:51:00",
+    "currency": "RM",
+    "payment_method": "MasterCard",
+    "subtotal": 145.09,
+    "tax": 1.2,
+    "tip": 0.0,
+    "total": 145.1,
+    "accounting_category": "Grocery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "KNIFE COOKING OIL 5KG",
+      "quantity": 1,
+      "unit_price": 25.8,
+      "total_price": 25.8,
+      "category": "Grocery",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "LKK HOI SIN SAUCE 240G",
+      "quantity": 1,
+      "unit_price": 7.69,
+      "total_price": 7.69,
+      "category": "Grocery",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SEVEN FRENCH FRIES S/S 2.5KG",
+      "quantity": 1,
+      "unit_price": 13.5,
+      "total_price": 13.5,
+      "category": "Frozen Food",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "IQF SQUID TUBE 1KG+",
+      "quantity": 8,
+      "unit_price": 10.9,
+      "total_price": 87.2,
+      "category": "Frozen Food",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 12,
+    "rounding": 0.01,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005746210.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Segi Cash & Carry Sdn. Bhd.(317041-W)\nPt17920 Sek U9, Shah Alam\nGST Reg No : 001951645696\n\nInvoice No : 31911\nDate : 12 Mar 2018 08:51am\nCounter : 09\n\nKNIFE COOKING OIL 5KG\n1 x 25.80 25.80 Z\nLKK HOI SIN SAUCE 240G\n1 x 7.69 7.69 S\nSEVEN FRENCH FRIES S/S 2.5KG\n1 x 13.50 13.50 S\nIQF SQUID TUBE 1KG+-\n1 x 10.90 10.90 Z\n1 x 10.90 10.90 Z\n1 x 10.90 10.90 Z\n1 x 10.90 10.90 Z\n1 x 10.90 10.90 Z\n1 x 10.90 10.90 Z\n1 x 10.90 10.90 Z\n\nNo of items: 12\nSubtotal Incl. GST:RM 145.09\nRounding:RM 0.01\nTotal Incl. GST:RM 145.10\n\nMaster xxxxxxxxxxxx0000: 145.10\nChange:RM 0.00\n\n************ GST Sumary *************\nGST Code Amount(RM) Tax(RM)\nZ @0.0% 123.90 0.00\nS @6.0% 19.99 1.20\n\nRef No: 00600736645031911\nGoods Sold Are Not Returnable. TQ"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Intermarche",
+    "address": "Poco Partido, Carvoeiro 8400-561, Lagoa",
+    "phone": "282380320",
+    "tax_id": "502 897 767",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-06-14",
+    "time": "18:58:00",
+    "currency": "EUR",
+    "payment_method": "VISA",
+    "subtotal": 8.86,
+    "tax": 2.04,
+    "tip": 0.0,
+    "total": 10.9,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chuveiro Anti-Cal",
+      "quantity": 1,
+      "unit_price": 8.86,
+      "total_price": 10.9,
+      "category": "Household",
+      "accounting_category": "Goods",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_162904.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "INTERMARCHE\nDISRILAGOA SUPERMERCADOS LDA\nCONT.N 502 897 767\nPOCO PARTIDO, CARVOEIRO 8400-561, LAGOA\nTELEFONE: 282380320; FAX: 282342807\nDocumento processado por computador\nFATURA FT 3F5C11219/229\nreferência:91651212435 ORIGINAL\n(Preços em Euros)\nIdentificação cliente\nNIF: PT 514107395\nNOME: FLEXIHORE ALGAR LDA\nLISBON\nArtigo\nCHUVEIRO ANTI-CAL\nP.Unitario\n8,86\n23,00\n1\n2019/06/14 19:01\nQGUID\nP.Total\nsem IVA\ncom IVA\n8,86\n10,90\nTOMAL s/IVA\n8,86\nTOTAL c/IVA\nVISA\n10,90\nCód.Taxa\nIVA\n83\n23,00\nTotais\n2,04\n8,86\n10,90\nConserve este documento\nServe de recibo após boa cobrança\nbltx Processado or programa\nCertfçado no 1359/AT\nLoja: 02537 Caixa: 0012 Op: 2002 TRS: 0035\nData de compra 2019-06-14 08:58\nBens entregues nesta data e hora\nau adquirente,\ne carregados na própria loja"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "KAISON FURNISHING SDN BHD",
+    "address": "L4-17 (B), Level 4, UP2-01, Melawati Mall, 355, Jalan Bandar Melawati, Pusat Bandar Melawati, 53100 Kuala Lumpur.",
+    "phone": "03-41019864",
+    "tax_id": "001813975040",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-29",
+    "time": "20:38:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 7395.09,
+    "tax": 443.71,
+    "tip": 0.0,
+    "total": 7838.8,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "FLOWER BUNCH - ROSE",
+      "quantity": 122,
+      "unit_price": 18.9,
+      "total_price": 2305.8,
+      "category": "Decor",
+      "accounting_category": "Home",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "FLOWER BUNCH - CRYST",
+      "quantity": 240,
+      "unit_price": 13.9,
+      "total_price": 3336.0,
+      "category": "Decor",
+      "accounting_category": "Home",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "FLOWER BUNCH - TROP",
+      "quantity": 130,
+      "unit_price": 16.9,
+      "total_price": 2197.0,
+      "category": "Decor",
+      "accounting_category": "Home",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 1.2
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005806678.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KAISON FURNISHING SDN BHD\nL4-17 (B), Level 4,\nUP2-01, Melawati Mall,\n355, Jalan Bandar Melawati,\nPusat Bandar Melawati,\n53100 Kuala Lumpur.\nCo. Reg No. (761834-D)\nGST Reg No. 001813975040\nTel: 03 - 41019864\n---------------------------------------\nSlip 0000MLW-P3000024348\nStaff: 1799 Siti Izza Trans: 1603029175\nDate: 29-01-18 20:38\n---------------------------------------\nDescription Amount(RM)\nBarcode: 10162079\nFLOWER BUNCH - ROSE\n122 pcs @ 18.90 2,305.80 SR\nItem No.: 30001640\nFLOWER BUNCH - CRYST\n240 pcs @ 13.90 3,336.00 SR\nItem No.: 30001635\nFLOWER BUNCH - TROP\n130 pcs @ 16.90 2,197.00 SR\n---------------------------------------\nTotal RM 7,838.80\nCASH (MYR) 7,840.00\nChange 1.20\n---------------------------------------\nGST% Amt(RM) GST(RM) Total(RM)\nSR 6 7,395.09 443.71 7,838.80\n---------------------------------------\nGOODS SOLD ARE NON-CASH REFUNDABLE.\nEXCHANGE OF GOODS WITHIN 14 DAYS\nACCOMPANIED BY ORIGINAL RECEIPT."
+  }
+}

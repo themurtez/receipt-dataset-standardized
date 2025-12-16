@@ -1,0 +1,136 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 937000.0,
+    "tax": 99322.0,
+    "tip": 0.0,
+    "total": 1092542.0,
+    "accounting_category": "Food & Beverages",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "UDG GR TLUR ASIN",
+      "quantity": 1,
+      "unit_price": 165000.0,
+      "total_price": 165000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SAPO TH SEAFOOD",
+      "quantity": 1,
+      "unit_price": 129000.0,
+      "total_price": 129000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CUMI GR JUNJAN",
+      "quantity": 1,
+      "unit_price": 129000.0,
+      "total_price": 129000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BAYAM GORENG",
+      "quantity": 1,
+      "unit_price": 87000.0,
+      "total_price": 87000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "OYONG 3 TELOR",
+      "quantity": 1,
+      "unit_price": 84000.0,
+      "total_price": 84000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "GURAME FILLET M ASAM MANIS",
+      "quantity": 1,
+      "unit_price": 163000.0,
+      "total_price": 163000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHINESE TEA",
+      "quantity": 2,
+      "unit_price": 14000.0,
+      "total_price": 28000.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CRYSANTINUM",
+      "quantity": 0,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Others",
+      "accounting_category": "Miscellaneous",
+      "category_confidence": 0.5
+    },
+    {
+      "name": "NASI PUTIH",
+      "quantity": 8,
+      "unit_price": 10000.0,
+      "total_price": 80000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "HOT TEA",
+      "quantity": 3,
+      "unit_price": 12000.0,
+      "total_price": 36000.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ICED TEA",
+      "quantity": 3,
+      "unit_price": 12000.0,
+      "total_price": 36000.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 11,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000124.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 UDG GR TLUR ASIN 165,000\n=*MEDIUM*=\n1 SAPO TH SEAFOOD 129,000\n=*MEDIUM*=\n1 CUMI GR JUNJAN 129,000\n=*MEDIUM*=\n1 BAYAM GORENG  87,000\n=*MEDIUM*=\n1 OYONG 3 TELOR  84,000\n=*MEDIUM*=\n1 GURAME FILLET M 163,000\nASAM MANIS\n2 CHINESE TE 14,000  28,000\nCRYSANTIMUM\n8 NASI PUTIH 10,000 80,000\n3 HOT TEA 12,000 36,000\n3 ICED TEA 12,000 36,000\nFOOD 757,000\nBEVERAGES 100,000\nOTHERS 80,000\nSUBTOTAL 937,000\nSERVICE CHARGE 56,220\nTax 10% 99,322\nTOTAL 1,092,542"
+  }
+}

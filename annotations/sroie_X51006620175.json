@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (M) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000306020352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-05-06",
+    "time": "17:11:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 25.19,
+    "tax": 1.51,
+    "tip": 0.0,
+    "total": 26.7,
+    "accounting_category": "Retail",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "WASH MITT 40Z",
+      "quantity": 1,
+      "unit_price": 4.3,
+      "total_price": 4.3,
+      "category": "Household",
+      "accounting_category": "Household Supplies",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "STICKER WS-SB",
+      "quantity": 1,
+      "unit_price": 5.5,
+      "total_price": 5.5,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "EMERGENCY LIGHT LED716",
+      "quantity": 1,
+      "unit_price": 16.9,
+      "total_price": 16.9,
+      "category": "Electronics",
+      "accounting_category": "Electrical Supplies",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 23.3
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006620175.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. D.I.Y. (M) SDN BHD\nCo-REG: 860671-D\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No: 000306020352)\n(SELAYANG MALL)\n-TAX INVOICE-\n\nWASH MITT 40Z\nJD62/3 - 6/240\n9064038 1 X 4.30 4.30\nSTICKER WS-SB\nPR21 - 20/800\n9013039 1 X 5.50 5.50\nEMERGENCY LIGHT LED716\nNE51/2/3 - 60\n6939020440166 1 X 16.90 16.90\n\nItem(s) = 3\nQty(s) = 3\n\nTOTAL INCL. GST@6% RM 26.70\nCASH RM 50.00\nCHANGE RM 23.30\n\nGST @6% included in total RM 1.51\n\n06-05-16 17:11 SH01 ZJ08 T2 R000602051\nOPERATOR SLC - EALIL ARASI\n\nEXCHANGE ARE ALLOWED WITHIN\n3 DAY WITH RECEIPT\nSTRICTLY NO CASH REFUND."
+  }
+}

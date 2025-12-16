@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "Restoran Hwa Mui Sutera Sdn Bhd",
+    "address": "50, Jalan Sutera Tanjung 5/4, Taman Sutera Utama, 81300 Skudai, Johor",
+    "phone": "607-562 5513",
+    "tax_id": "001177063424",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-29",
+    "time": "13:56:30",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 86.32,
+    "tax": 5.18,
+    "tip": 0.0,
+    "total": 91.5,
+    "accounting_category": "Meals and Entertainment",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Black Pepper",
+      "quantity": 1,
+      "unit_price": 18.9,
+      "total_price": 18.9,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cheesy Chicken Chop",
+      "quantity": 1,
+      "unit_price": 20.9,
+      "total_price": 20.9,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Grilled Black Pepper Ken Chop",
+      "quantity": 1,
+      "unit_price": 20.9,
+      "total_price": 20.9,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Fried Kuey Teow",
+      "quantity": 1,
+      "unit_price": 9.0,
+      "total_price": 9.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Butter & Kaya Toast",
+      "quantity": 1,
+      "unit_price": 2.4,
+      "total_price": 2.4,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Tea (B)",
+      "quantity": 1,
+      "unit_price": 3.3,
+      "total_price": 3.3,
+      "category": "Beverage",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Apple Juice (Ice)",
+      "quantity": 1,
+      "unit_price": 8.8,
+      "total_price": 8.8,
+      "category": "Beverage",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Soursop Smoothies",
+      "quantity": 1,
+      "unit_price": 7.3,
+      "total_price": 7.3,
+      "category": "Beverage",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 10.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006414708.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "RESTORAN HWA MUI SUTERA SDN BHD\n50,JALAN SUTERA TANJUNG 5/4\nTAMAN SUTERA UTAMA,\n81300 SKUDAI, JOHOR\nTEL: 607-562 5513\n[ GST ID : 001177063424 ]\nTAX INVOICE\nInv No : 74865\nCashier: waiter-Waiter\nDate : 29/04/2018 - 1:56:30 PM\nQty Description Total (RM)Tax\n1 BLACK PEPPER 18.90 SR\n1 CHEESY CHICKEN CHOP 20.90 SR\n1 GRILLED BLACK PEPPER KEN CHOP 20.90 SR\n1 FRIED KUEY TEOW 9.00 SR\n1 BUTTER & KAYA TOAST 2.40 SR\n1 TEA (B) 3.30 SR\n1 APPLE JUICE (ICE) 8.80 SR\n1 SOURSOP SMOOTHIES 7.30 SR\nTotal Amt Incl. @ GST 6%: 91.50\nRounding Adjustment 0.00\nTOTAL 91.50\nCASH 101.50\nChange Returned 10.00\nItem Count : 8\nGST Summary Amount (RM) Tax (RM)\nSR 6% 86.32 5.18"
+  }
+}

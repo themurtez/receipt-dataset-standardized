@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "EP BP PÊRO PINHEIRO",
+    "address": "AV. 19 MAIO, 22 Tel: 219279690\n2715-001 Pêro Pinheiro",
+    "phone": "219279690",
+    "tax_id": "500052993",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-13",
+    "time": "19:11:10",
+    "currency": "EUR",
+    "payment_method": "BP PremierPlus",
+    "subtotal": 30.0,
+    "tax": 5.61,
+    "tip": 0.0,
+    "total": 30.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "GASOLEO BOMBA",
+      "quantity": 21.0,
+      "unit_price": 1.429,
+      "total_price": 30.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_184010.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "EP BP PERO PINHEIRO\nFUELGEST24-EXPLORACAO DE POSTOS DE\nABASTECIMENTO E LOJAS DE CONVENIENCIA,\nSOCIEDADE UNIPESSOAL, LDA.\nAV. 19 MAIO, 22 Tel:219279690\n2715-001 Pero Pinheiro\nMatricula: NIPC: 500052993\nOp:TIAGO MACHADO\nFatura-Recibo\nIVa\nGASOLEO BOMBA: 1 rocin\nCard Type 093\nDelivery Time: 10:03:22\n2020-11-20, 21:49:06\nTRADA: 5\nPontos: 18000\nTotal0\nVISTA ICON\nTCR: 10., X\nCredit ... MF\nSelect CR ASSIST\n@CLF.FR011\n@IDD=IF00CMCMFC\nIFTAMO@SR 70063@25416@4@30\nST ARC =67 10\n50,51\nVIS CLA\nPe IGQNHD: MMMMMMMM - KO ///22oorleuuuneoue INEDISER7DMMMIAFRRFIRNLG XD\nR. SARAI@EDE CARVALHO N. paruorra 24 A 38 DTO\n1350-378 LISBOA\nSaldo anterior: 0.0 EUR"
+  }
+}

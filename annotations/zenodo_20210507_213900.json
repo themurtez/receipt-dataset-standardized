@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Mario Mendes, Lda",
+    "address": "Av. Miguel Bombarda 71 A, 1050-162 Lisboa",
+    "phone": "213152616/7",
+    "tax_id": "5001840003",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-10-31",
+    "time": "16:52:00",
+    "currency": "EUR",
+    "payment_method": "Dinheiro",
+    "subtotal": 1.46,
+    "tax": 0.34,
+    "tip": 0.0,
+    "total": 1.8,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.8
+  },
+  "items": [
+    {
+      "name": "CERRA CABOS INOX 3MM SIMPLEX MF",
+      "quantity": 1,
+      "unit_price": 0.55,
+      "total_price": 0.55,
+      "category": "Hardware",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "CABO AÇO INOX 2MM",
+      "quantity": 5,
+      "unit_price": 0.25,
+      "total_price": 1.25,
+      "category": "Hardware",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_213900.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Mario Mendes, Lda\nAv. Miguel Bombarda 71 A\n1050-162 LISBOA Tel. 213152616/7\nNIF: 5001840003\nNIF DO CLIENTE: 510776914\nFatura Simplificada\n2017-10-31 16:52\nFSI MN3/70070\nQuant. Pr. Unit. IVA Desc. Total\nCERRA CABOS INOX 3MM SIMPLEX MF\n1 0.550 23% 0,55\nCABO AÇO INOX 2MM\n5 0.250 23% 1,25\nTotal EUR: 1.80\nForma Pag: Dinheiro\nIva Incluido a Taxa Indica\nValor Iva: 0.34 Base Imp.: 1.46 Valor Total: 1.80\ngeral@mariomendeslda.pt"
+  }
+}

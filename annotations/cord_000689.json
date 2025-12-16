@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 24000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 24000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "DADA DADA",
+      "quantity": 1,
+      "unit_price": 22000.0,
+      "total_price": 22000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ateh Tawar ateh Tawar",
+      "quantity": 1,
+      "unit_price": 2000.0,
+      "total_price": 2000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 26000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000689.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "DADA DADA\n1 22.000 22.000\nateh Tawar ateh Tawar\n1 2.000 2.000\nSUBTOTAL 24.000\nDISCOUNT\nTAX 0\nROUNDING 0\nTOTAL 24.000\nPembayaran(Cash) 50.000\nChange 26.000"
+  }
+}

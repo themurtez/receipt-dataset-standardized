@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Carvalho, Batista, Lda",
+    "address": "Rua D. Estefania, 191-B, SHOWROOM: Loja: Rua D. Estefania, 98 E, 1000-LISBOA",
+    "phone": "213 157 838",
+    "tax_id": "500537380",
+    "website": "www.carvalhobatista.wix.com/lisboa"
+  },
+  "transaction": {
+    "date": "2018-06-05",
+    "time": "11:40:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 22.6,
+    "tax": 5.2,
+    "tip": 0.0,
+    "total": 27.8,
+    "accounting_category": "retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Silicone Preto",
+      "quantity": 4,
+      "unit_price": 5.65,
+      "total_price": 22.6,
+      "category": "hardware",
+      "accounting_category": "materials",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_175247.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Carvalho, Batista, lda:\nFERRAGENS E FERRAMENTAS\n\nCarvalho, Batista, lda\nRua D. Estefania, 191-B\nSHOES& SHOWROOM: Loja: Rua D. Estefania, 98 E\n1000-LISBOA\nTel: 213 157 838 | Fax: 213 153 786\nCon. 5005378\nEmail: carvalho.batista.lda@gmail.com\nwww.carvalhobatista.wix.com/lisboa\n\nFactura/RC POS\nNumber: 3751 - 17\nFecha: FT 2018/3751 - 2018-06-05/11:40\nOut: Jorge Custódio\n\nNOME:FLIXEHOME LDA\nMORADA:\nNIF:510776914\nLOCAL:..LISBOA 1350-302\nSoftware PHC - JaC-Processado por\nprograma certificado n.º 0006/AT (20170411)\n\nQTD P.U.N. PRODUTO IVA TOTAL\n\n4,00 x 5,65 Silicone Preto\n\n23% 22,60\n\nTotal líquido 22,60\nIVA total 5,20\n\nTOTAL EURO ........ 27,80\nTROCAS ATE 30 DIAS (ORIGINAL OBRIGATORIO)\nDEVOLUCÓES EM VALE DE COMPRA\n\nOos artigos foram colocados á disposiçáo do adquirente\nem 05.06.2018\n\nObrigado pela visita, volte sempre!"
+  }
+}

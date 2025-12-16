@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Intermarche",
+    "address": "INTERIRCEIRA, SUPERMERCADOS, LDA",
+    "phone": "261 249 830",
+    "tax_id": "514.613.623",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-03",
+    "time": "09:04:09",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 24.49,
+    "tax": 5.63,
+    "tip": 0.0,
+    "total": 30.12,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Secador Cabelo 2000W",
+      "quantity": 1,
+      "unit_price": 13.99,
+      "total_price": 13.99,
+      "category": "Electronics",
+      "accounting_category": "Household Appliances",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Torradeira",
+      "quantity": 1,
+      "unit_price": 15.99,
+      "total_price": 15.99,
+      "category": "Electronics",
+      "accounting_category": "Household Appliances",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sacos Saida Caixa 55",
+      "quantity": 2,
+      "unit_price": 0.07,
+      "total_price": 0.14,
+      "category": "Miscellaneous",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_232542.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Intermarche\nINTERIRCEIRA, SUPERMERCADOS, LDA\nCNT 514.613.623\nTELF 261.249.830\nSEJA BEM VINDO\nFATURA SIMPLIFICADA\nDOCUMENTO NO:FS 311008119/34135\nNIT ADQUIRENTE: PT 510776914\nARTIGO(S) Preço IVA\nSECADOR CABELO 2000W Eur13,99 B\nTORRADEIRA Eur15,99 B\nSACOS SAIDA CAIXA 55 Eur0,07 B\nSACOS SAIDA CAIXA 55 Eur0,07 B\n4 Art., COM TOTAL DE Eur30,12\nTOTAL Eur30,12\nMULTIBANCO\nNUMERARIO Eur0,00\nRecapitulativo IVA\nB 23,00% 24,49 5,63 30,12\nHá coisas na vida que valem muito, mas devem custar muito pouco.\nIntermarché\nJuntos pelo melhor e máis barato.\nOPERADOR: Carolina lopes\nCTrl. Processado por Programa Certificado nº 1359/AT\n09:04:09 2019-05-3\nM07S00 C008 00953 TRS0026\nTALAO OBRIGATORiO P/TROCA E DEVOLUÇÃO VER CONDICOES NA RECEÇÃO DA LOJA\nOBRIGADO PELA PREFERENCIA\n*VOLTE SEMPRE*"
+  }
+}

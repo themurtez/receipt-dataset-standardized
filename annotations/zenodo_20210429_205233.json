@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "Avelar e Teixeira, Lda",
+    "address": "",
+    "phone": "",
+    "tax_id": "501200339",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-11-09",
+    "time": "20:31:00",
+    "currency": "EUR",
+    "payment_method": "Cartao de Debito",
+    "subtotal": 38.79,
+    "tax": 5.71,
+    "tip": 0.0,
+    "total": 44.5,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Diavola",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Margherita",
+      "quantity": 1,
+      "unit_price": 9.0,
+      "total_price": 9.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Tartufo",
+      "quantity": 1,
+      "unit_price": 14.0,
+      "total_price": 14.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Sagres 0,2L",
+      "quantity": 1,
+      "unit_price": 1.8,
+      "total_price": 1.8,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Limonata al B",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Te Freddo de l",
+      "quantity": 1,
+      "unit_price": 4.0,
+      "total_price": 4.0,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Espresso",
+      "quantity": 1,
+      "unit_price": 1.2,
+      "total_price": 1.2,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_205233.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Memoria\nAvelar e Teixeira, Lda\nNIF: 501200339\n\n2019-11-09\nOriginal\n20:31 MESA N: 20/0\n\nFATURA-RECIBO N:\nFT 4A1921/3855\n\n@ICliente 510776914\n000 000 Contribuinte: 510776914\n\n QTD UNI DESCRICAO IVA VALOR\n 1 Uni Diavola 13% 12,00\nPreco: 12,00/Unidade\n1 Uni Margherita 13% 9,00\nPreco: 9,00/Unidade\n1 Uni Tartufo 13% 14,00\nPreco: 14,00/Unidade\n1 Uni Sagres 0,2L 23% 1,80\nPreco: 1,80/Unidade\n1 Uni Limonata al B 23% 2,50\nPreco: 2,50/Unidade\n1 Uni Te Freddo de l 23% 4,00\nPreco: 2,00/Unidade\n1 Uni Espresso 13% 1,20\nPreco: 1,20/Unidade\n\nTAXA IVA INCID\n13% 4,16 32,04\n23% 1,55 6,75\nTOTAL INCIDENCIAS: 5,71 38,79\n\nTOTAL: Eur 44,50\n\nPago por Cartao de Debito\n\nw9rp-Processado por programa\ncertificado n. 196/AT\nREFERENTE A:\nCM 4A1921/6909\n\nOs servicos g/e/ou bens foram realizados e/ou colo\ncados a disposiciao do adquirente nesta data (Art\n36 do CIVA, No5 alinea F)\n\nLicenca: Avelar e teixeira Lda\nContribuinte: 501200339\n"
+  }
+}

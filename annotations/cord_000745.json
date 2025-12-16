@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 3400.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 3400.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.8
+  },
+  "items": [
+    {
+      "name": "Guardian Tissue",
+      "quantity": 1,
+      "unit_price": 3400.0,
+      "total_price": 3400.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 600.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000745.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "3041906 GUARDIAN F/TISUE 3,400\nSUBTOTAL 3,400\nCASH 4,000\nCHANGE DUE 600\nTotal Hero 3,400\nITEMS PURCHASED: 1"
+  }
+}

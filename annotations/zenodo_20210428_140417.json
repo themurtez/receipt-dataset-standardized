@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Loja CTT Refractrves- L",
+    "address": "Av. Dr. Jose N",
+    "phone": "",
+    "tax_id": "510770914",
+    "website": "www.ctt.pt"
+  },
+  "transaction": {
+    "date": "2019-02-22",
+    "time": "18:54:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 15.1,
+    "tax": 0.48,
+    "tip": 0.0,
+    "total": 15.58,
+    "accounting_category": "Shipping Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SAQUETAS ALMOFADADAS L",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Shipping Supplies",
+      "accounting_category": "Shipping Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SAQUETAS ALMOFADADAS XL",
+      "quantity": 1,
+      "unit_price": 1.1,
+      "total_price": 1.1,
+      "category": "Shipping Supplies",
+      "accounting_category": "Shipping Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_140417.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Av. Dr. Jose N\n1999-001 Lisboa\nN.U.P.L. N\nCap. Social 100.000,00 EUR\nLoja CTT Refractrves- L\n8810747\nFatura/Recibo N.\nFR CTT2019RBB1074704/1727\nData de Emissao\n2019-02-22 18:54\nNome: FLIKEHOME\nMorada:\nCod Postal:\nNIF: 510770914\nQTD DESIGNACAO IVA QUANTIA\n1 SAQUETAS ALMOFADADAS L 23% 1,00\n1 Reg. Int. 1,70\nRH335613699PT\n1 SAQUETAS ALMOFADADAS XL 23% 1,10\n1 Reg. Nac. 5,90\nRH33513708PT\nTotal s/IVA: 15,10 Eur\nTotal Desconto s/IVA: 0,0 Eur\nTotal IVA: 0,48 Eur\nTotal: 15,58 Eur\nQuinze Euros e Cinquenta e Oito Centimos\nTaxa Valor s/IVA Valor IVA Valor Total\n0% 13,00 0,00 13,00\n23% 2,10 0,48 2,58\n1) Isento - Art. 9 No. 23/24 do CIVA\nValor liquidado na data de emissao\nBens ou servicos disponibilizados ao\nadquirente na data de emissao deste\ndocumento\nInforme-se sobre as condicoes\nespecificas de troca, devolucao e\nassistencia tecnica em www.ctt.pt,\nAjuda."
+  }
+}

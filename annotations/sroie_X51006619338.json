@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "99 Speed Mart S/B",
+    "address": "Lot P.T. 33198, Batu 4, Jalan Kapar, Mukim Kapar, 42100 Klang, Selangor",
+    "phone": "",
+    "tax_id": "000181747712",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-01-31",
+    "time": "13:43:00",
+    "currency": "MYR",
+    "payment_method": "Credit",
+    "subtotal": 262.2,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 262.2,
+    "accounting_category": "Grocery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Yongchun Lokam Mandari",
+      "quantity": 19,
+      "unit_price": 13.8,
+      "total_price": 262.2,
+      "category": "Fruits",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 19,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619338.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "99 SPEED MART S/B (519537-X)\nLOT P.T. 33198, BATU 4\nJALAN KAPAR, MUKIM KAPAR\n42100 KLANG, SELANGOR\n1320-TMN BATU\nGST ID. NO : 000181747712\n\nINVOICE NO : 17563/102/T0224\n\n01:43PM 559843 31-01-16\n\n2838 YONGCHUN LOKAM MANDARI\n@19 X RM 13.80\n\nTotal Sales (Inclusive GST) RM 262.20\nCREDIT RM 262.20\nCHANGE RM .00\n\nGST Summary Amount(RM) Tax(RM)\nz = 0% 262.20 .00\n\nThank You. Please come again\nKeep the invoice for applicable returns"
+  }
+}

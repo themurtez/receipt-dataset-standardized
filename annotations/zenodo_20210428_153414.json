@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "bota minuto",
+    "address": "R. Alfredo Silva, 118 1070 Lisboa",
+    "phone": "210994257",
+    "tax_id": "506175502",
+    "website": "www.botaminuto.com"
+  },
+  "transaction": {
+    "date": "2019-03-02",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 2.6,
+    "tax": 0.33,
+    "tip": 0.0,
+    "total": 2.4,
+    "accounting_category": "Hardware",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CHAVE PLANA CB6",
+      "quantity": 1,
+      "unit_price": 2.6,
+      "total_price": 2.6,
+      "category": "Hardware",
+      "accounting_category": "Tools",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 2.4
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_153414.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "bota minuto\nAMOREIRAS\nContribuinte 506175502\nConserto Rapido das Amerias\nConstrutora de Calcado e Copias Chaves, Lda\nR. Alfredo Silva, 118 Alval 2755-565 S.D.R\nC. Com. Amoreiras, 1504 1070 Lisboa\nCap. Soc. 5,000EUR CRC. Cascais N. 8985/2007\nExmo(a) Senhor(a):\nFLIKEHOME\nLISBOA\nNIF: 510776914 N. Cliente: 510776914\nRef: (132013701)\nFTR 6/3901 Data 2019-03-02 Original\nFactura\nVendedor: FELIPE AGUIAR\nArt. Descricao Qtd. Unit. Valor IVA\nCHAVE PLANA CB6 1 2.600 2.60 23\n47\nTotal de pecas: 1\nVALOR LIQUIDO\n0.00\n0.00\n2.11\nIVA\nVALOR IVA\n6 0.00\n13 0.00\n23 0.49\nDESCONTO 0 0.00\nTOTAL DOCUMENTO EURO 2.60\nNumerario 5.00\nTroco 2.40\nSenol: Processado por programa Certificado n. 1627/A2\nBens colocados a disposicao\nZERENTE PEESTA DATA EE ARO EXCEL 0\nJEmecas e devolucoes aceites com\nativo\nA devolucao de qualquer quantia inerente\nA troca ou devolucao de artigo é feita\npor vale de reembolso com validade de 30 dias\nObrigado pela sua visita. Volte sempre\nTalão INDISPENSAVEL / ENTREGA RECLAMAÇÃO\nTROCAS PRAZO 1 MÊS\nTel : 210994257 www.botaminuto.com"
+  }
+}

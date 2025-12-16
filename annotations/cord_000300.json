@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Credit/Debit Card",
+    "subtotal": 65364.0,
+    "tax": 6546.0,
+    "tip": 0.0,
+    "total": 72001.0,
+    "accounting_category": "Meal",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PAKET SUPER MANTAP 2A RAACHA",
+      "quantity": 1,
+      "unit_price": 59091.0,
+      "total_price": 59091.0,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "RICE",
+      "quantity": 1,
+      "unit_price": 6364.0,
+      "total_price": 6364.0,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000300.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PAKET SUPER MANTAP 2A RAACHA\n59.091 1 59.091\nRICE\n6.364 1 6.364\n\nSub Total 65.455\nPPN 10% 6.546\nTotal 72.001\nCredit/Debit Card 72.001"
+  }
+}

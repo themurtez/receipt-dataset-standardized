@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Panda Express #2614",
+    "address": "Brooklyn, NY",
+    "phone": "(718)246-3898",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-22",
+    "time": "16:58:01",
+    "currency": "USD",
+    "payment_method": "Visa",
+    "subtotal": 25.2,
+    "tax": 2.24,
+    "tip": 0.0,
+    "total": 27.44,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "1 Plate - Chow Mein 1/2, Chow Mein 1/2, Broccoli Beef, Beijing Beef",
+      "quantity": 1,
+      "unit_price": 9.1,
+      "total_price": 9.1,
+      "category": "Entree",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "1 Plate - Chow Mein 1/2, CKN Egg Roll, Kung Pao CKN",
+      "quantity": 1,
+      "unit_price": 9.1,
+      "total_price": 9.1,
+      "category": "Entree",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "1 Xtra Entree - Grill Teriyaki CKN",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Extra",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "1 Xtra Entree - Grill Teriyaki CKN",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Extra",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Pepsi 20 oz",
+      "quantity": 2,
+      "unit_price": 2.0,
+      "total_price": 4.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1119-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "** PURCHASE **\nPanda Express #2614\nBrooklyn, NY\n(718)246-3898\n12/22/2017 4:58:01 PM\nOrder: 196812 -TO GO-\nServer: Cheryfia M\n1 Plate\nCHOW MEIN-1/2\nCHOW MEIN-1/2\nBROCCOLI BEEF\nBEIJING BEEF 9.10\n1 Plate\nCHOW MEIN-1/2\nCKN EGG ROLL\nKUNG PAO CKN 9.10\n1 XTRA ENTREE\nGRILL TERIYAKI CKN 1.50\n1 XTRA ENTREE\nGRILL TERIYAKI CKN 1.50\n1 PEPSI 20 OZ 2.00\n1 PEPSI 20 OZ 2.00\nSubTotal 25.20\nTAX 2.24\nTotal 27.44\nVisa 27.44\nAcct: XXXXXXXXXXX0103\nAuthCode: 02776A\nFREE ENTREE ITEM!"
+  }
+}

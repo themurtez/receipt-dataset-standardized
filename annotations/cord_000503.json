@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Soto Kito",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 40000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 40000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Ayam Grg Kalasan",
+      "quantity": 1,
+      "unit_price": 22727.0,
+      "total_price": 22727.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "4545",
+      "quantity": 3,
+      "unit_price": 4545.0,
+      "total_price": 13635.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 2.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000503.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Soto Kito\n1x 22727 Rp22727\nAyam Grg Kalasan\n3x 4545 Rp13635\nTempe\nMDSE ST Rp36362\nTAX1 ST 36362\nPB 1 Rp3636\nDIFFER Rp2\nITEMS 4\nCASH Rp40000\n"
+  }
+}

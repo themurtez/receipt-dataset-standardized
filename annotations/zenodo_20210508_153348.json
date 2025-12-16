@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Flikehome LDA",
+    "address": "R. Dr. César Raul da Costa Andrade Lote 61 Loja, 2655-242 Ericeira",
+    "phone": "965401376",
+    "tax_id": "189578084",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "12:11:51",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 34.88,
+    "tax": 6.52,
+    "tip": 0.0,
+    "total": 34.88,
+    "accounting_category": "Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Estendal Resina Chão C/Abas Alicante",
+      "quantity": 1,
+      "unit_price": 28.8,
+      "total_price": 28.8,
+      "category": "Household",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lamparina P/Frondeule",
+      "quantity": 1,
+      "unit_price": 9.95,
+      "total_price": 9.95,
+      "category": "Lighting",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_153348.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Mª do Rosário da Graça Roque Fernandes\nR. Dr. César Raul da Costa Andrade Lote 61 Loja\n2655-242 Ericeira\nPT\nemail: erimetal.ericeira@gmail.com\nweb:\ntel: 965401376\nnif: 189578084\n\nNome: FLIKEHOME.LDA\nMorada\n- Ericeira\n\nContribuinte 510776914\nFATURA SIMPLIFICADA N.º 5172/2018\nIdentificação: FS 2018/5172 (ORIGINAL)\nHORA: 12:11:51\n\nQtd. Preço Desc Iva Total\nEstendal Resina Chão C/Abas Alicante\n1,000 x 28.80 0% 23% 28.80\nLamparina P/Frondeule\n1,000 x 9.95 0% 23% 9.95\nNúmero de Artigos: 2\nTOTAL: 34,88\n\nDescontos: 3.88\nDetalhe da Liquidação\nMULTIBANCO 34,88\nDetalhe do IVA\nTaxa Incidência Valor Total\n23% 26.36 6.52 34.88\n\nVwG - Processado por programa certificado\nnº 0097/AT Magnisoft - OranGest\n\nObrigado pela sua preferência\nAté Breve"
+  }
+}

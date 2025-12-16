@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Pizza Hut",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 104545.0,
+    "tax": 10455.0,
+    "tip": 0.0,
+    "total": 115000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Cheese Rolls 6PCS",
+      "quantity": 1,
+      "unit_price": 30000.0,
+      "total_price": 30000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Paket BER2 UP1",
+      "quantity": 1,
+      "unit_price": 74545.0,
+      "total_price": 74545.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000707.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PEEZA HUT\n\n1 CHEESE ROLLS 6PCS 30,000\n1 PAKET BER2 UP1 74,545\n  1 TUNA DEL\n  1 MAC N CHEESE DEL\n  1 LEMON TEA HANGAT DEL\n  1 BLACKCURRANT DEL\n  1 SC/P BEEF MAYO DEL\nSUBTOTAL 104,545\nTAX 10,455\n\nTOTAL 115,000"
+  }
+}

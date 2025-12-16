@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "Firepoint Grill",
+    "address": "3739 West Chester Pike, Newtown Square, PA 19073",
+    "phone": "484-428-3093",
+    "tax_id": "",
+    "website": "www.FirepointGrill.com"
+  },
+  "transaction": {
+    "date": "2016-12-07",
+    "time": "18:53:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 137.5,
+    "tax": 5.43,
+    "tip": 0.0,
+    "total": 142.93,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Makers Mark (2 @ 11.50)",
+      "quantity": 2,
+      "unit_price": 11.5,
+      "total_price": 23.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "As Old Fashioned",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Side Caesar",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chicken & Rib Combo",
+      "quantity": 1,
+      "unit_price": 29.0,
+      "total_price": 29.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Woodford Reserve (2 @ 12.00)",
+      "quantity": 2,
+      "unit_price": 12.0,
+      "total_price": 24.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Frisee Salad",
+      "quantity": 1,
+      "unit_price": 10.0,
+      "total_price": 10.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Poached Shrimp Cocktail",
+      "quantity": 1,
+      "unit_price": 17.5,
+      "total_price": 17.5,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "NY Strip 8oz",
+      "quantity": 1,
+      "unit_price": 28.0,
+      "total_price": 28.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1089-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Firepoint Grill\n3739 West Chester Pike\nNewtown Square, PA 19073\n484-428-3093\n\nServer: Will 12/07/2016\n53/1 6:53 PM\nGuests: 2 #90024\n\nReprint #: 1\nOrder Type: Send\nArea: Dining\n\nMakers Mark (2 @ 11.50) 23.00\nAs Old Fashioned 6.00\nSide Caesar 6.00\nChicken & Rib Combo 29.00\nWoodford Reserve (2 @ 12.00) 24.00\nOn the Rocks\nFrisee Salad 10.00\nPoached Shrimp Cocktail 17.50\nNY Strip 8oz 28.00\n\nComplete Subtotal 137.50\nSubtotal 137.50\n\nTotal Tax 5.43\n\nTotal 142.93\n\nBalance Due 142.93\n\nTHANK YOU\nVisit us Online at\nwww.FirepointGrill.com"
+  }
+}

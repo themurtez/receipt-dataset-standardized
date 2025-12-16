@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "R Actor António Silva, N7, 1649-033 Lisboa",
+    "phone": "213136180",
+    "tax_id": "500629993",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-08-23",
+    "time": "14:00:00",
+    "currency": "EUR",
+    "payment_method": "Pago",
+    "subtotal": 1.79,
+    "tax": 0.3,
+    "tip": 0.0,
+    "total": 20.0,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Açucar Sidul 125 SAQ",
+      "quantity": 1,
+      "unit_price": 1.59,
+      "total_price": 1.59,
+      "category": "Grocery",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Água Pingo Doce 1.5L",
+      "quantity": 1,
+      "unit_price": 0.2,
+      "total_price": 0.2,
+      "category": "Beverage",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 18.21
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_203641.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Pingo Doce\nsor um peixe faz doce\nTOMAS RIBEIRO\nTel.: 213136180\nPingo Doce Distribuição Alimentar, S.A.\nSede: R Actor António Silva, N7, 1649-033 Lisboa\nRegisto C.P.R.C. Lisboa-Matrícula/NIPC: 500629993\nANEIEE: PICO1730 C. Social: 33.808.115 EUR\nArtigos\nMERCEARIA + PET FOOD\nE 23% AÇUCAR SIDUL 125 SAQ 1,59\nBEBIDAS\nD 13% ÁGUA PINGO DOCE 1,5L 0,20\nResumo\nTOTAL A PAGAR 1.79\nPagamentos\nTOTAL PAGO 20.00\nTROCO 18.21\nEUR3\nResumo IVA\nTaxa Valor s/IVA Valor IVA Valor c/IVA\nD 13% 0.18 0.02 0.20\nE 23% 1.29 0.30 1.59\nAtendido por: Luis Fonseca\n696761 2019-03-23 14:00 0082 0002 0040\nckVA-Processado por programa certificado 369/AT\nFatura/Recibo FT 04400021901001617/004551\n1a Via Duplicado Data de emissão:23-08-2019\nN Contribuinte: 510776914\nNome: FILKHOME LDA\nMorada AV DA LIBERDADE 36 1B 1250/145\nLocalidade: Lisboa\nLocal carga: TOMAS RIBEIRO\nLocal descarga: Morada do cliente\nData: 2019-03-23 Hora: 14:00\nFactura necessária para troca em 15 dias\n(Artigos Têxteis e Calçado prazo 30 dias)\nNão se trocam medicamentos e artigos assinalados\nApoio ao Cliente\n808 20 45 45 / 210 11 44 11 (24 horas)"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Intermarche",
+    "address": "Armacao Pera, Portugal",
+    "phone": "282314465",
+    "tax_id": "PT 508162294",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-06-20",
+    "time": "17:05:00",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 20.32,
+    "tax": 4.67,
+    "tip": 0.0,
+    "total": 24.99,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "MAQUINA DE CAFE FILT",
+      "quantity": 1,
+      "unit_price": 20.32,
+      "total_price": 20.32,
+      "category": "Appliances",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_162221.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Intermarche\nIntermarche Armacao Pera\nSOCIED.PORC.RIONIOS-SUPERMERCADOS, LDA\nCMT: 508162294\nTEL/FAX: 282314465\nSEJA BEM VINDO\nFATURA\nReferencia:9170612836 FT OEAM062129/34\n(Presos em Euros)\nIdentificação cliente\nNIF PT 514107395\nNome FILKEKHOME ALGARVE\nMORADA 1\nVIATURA\nC.POSTAL\nLOCAL DE DESCARGA\nDia 2019/06/20 A 17:05\nArtigo P.Unitario P.Total\nsem IVA sem IVA\nMAQUINA DE CAFE FILT 20,32 20,32 23,00 B\n1 20,32\nTome c/IVA 24.99\nMULTIBANCO MANUA 24.99\nCód. Taxa IVA s/IVA c/IVA\nB 23.00 4.67 20.32 24.99\nTotais: 4.67 20.32 24.99\nHá coisas na vida que valem muito,\nmas devem custar muito pouco.\nIntermarché\nJuntos pelo melhor e mais barato\nOBRIGADO PELA VISITA\nVOLTE SEMPRE\nm4Y3 - Processado por programa\nCertificado no 1359/AT\nLoja:05916 CAIXA:0006 Op:0206 TRS:0159\nData de compra 2019-06-20 A 17:05\nBens entregues nesta data e hora\nao adquirente,\ne carregados na própria loja"
+  }
+}

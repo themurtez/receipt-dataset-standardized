@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Ultimo Porto - Rest. Unip. LDA",
+    "address": "Estação Marítima da Rocha Conde Óbidos, 1350-352 Lisboa",
+    "phone": "213397946",
+    "tax_id": "514325148",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-10-16",
+    "time": "14:26:41",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO, NUMERARIO/CAIXA",
+    "subtotal": 27.08,
+    "tax": 3.52,
+    "tip": 0.0,
+    "total": 30.6,
+    "accounting_category": "Dining",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Pão",
+      "quantity": 1,
+      "unit_price": 1.2,
+      "total_price": 1.2,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Azeitonas",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Dourada Grelhada",
+      "quantity": 1,
+      "unit_price": 25.0,
+      "total_price": 25.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Água 1 Lt",
+      "quantity": 1,
+      "unit_price": 1.8,
+      "total_price": 1.8,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Café Mesa",
+      "quantity": 2,
+      "unit_price": 0.8,
+      "total_price": 1.6,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_210255.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ULTIMO PORTO - REST. UNIP. LDA\n\nESTAMP MARITIMA DA ROCHA CONDE OBIDOS\n1350 - 052 LISBOA\nNIF: 514325148 TEL: 213397946\nIva Incluido as Taxas Legais em Vigor\n\nFacturá: 19FT 015/1651\nData: 2019-10-16 14:26:41\n\nDoc Orig:\nNoCliente: 10002694\nNome: FLEXHOME\nContribuinte: 510776914\nMorada: LX\nCod Postal:\n\nDescrição   Qtd   Desc %   Valor\nPÃO          (c) 13%  1   1.20\nAZEITONAS    (c) 13%  1   1.00\nDOURADA GRELHADA  (c) 13%  1  25.00\nÁGUA 1 LT     (c) 13%  1   1.80\nCAFÉ MESA    (c) 13%  2   1.60\n\nItens: 7       30.60\n\nIliquido           Tax%   V.Tax\n(c)  27.08       13     3.52\n\nTotal à Pagar:    30.60 €\nMULTIBANCO        15.00 €\nNUMERARIO/CAIXA   15.60 €\n\nOBRIGADO, VOLTE SEMPRE\n"
+  }
+}

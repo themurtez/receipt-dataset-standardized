@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Artrange Stationers & Print Sdn Bhd",
+    "address": "44 Jalan SS21/58 Damansara Utama, 47400 Petaling Jaya",
+    "phone": "03-77271129",
+    "tax_id": "001725239296",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-04-10",
+    "time": "15:23:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 14.53,
+    "tax": 0.87,
+    "tip": 0.0,
+    "total": 15.4,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Pentel Correction Pen 18ML ZLC1-W",
+      "quantity": 2,
+      "unit_price": 7.7,
+      "total_price": 15.4,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 34.6
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006387740.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ARTRANGE STATIONERS & PRINT SDN BHD\n(1122327-U)\n44 JALAN SS21/58 DAMANSARA UTAMA\n47400 PETALING JAYA\nTEL: 03-77271129 FAX: 03-77278929\nGST ID: 001725239296\nPOSTED\nTAX INVOICE\nCASH\nReceipt #: CS00058574 Date: 10/04/2017\nCashier: USER Time: 15:23:00\nSalesperson: Ref. :\nItem Qty S/Price Amount Tax\n3474370026019 2 7.70 15.40 SR\nPENTEL CORRECTION PEN 18ML ZLC1-W\nTOT QTY: 2 15.40\nTotal Sales (Excluding GST): 14.53\nDiscount : 0.00\nTotal GST : 0.87\nRounding : 0.00\nTotal Sales (Inclusive of GST): 15.40\nCASH : 50.00\nChange : 34.60\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR 6 14.53 0.87\nTotal : 14.53 0.87\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU."
+  }
+}

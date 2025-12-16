@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "PASAR MINI JIN SENG",
+    "address": "379, JALAN PERMAS SATU, BANDAR BARU PERMAS JAYA, 81750 PLENTONG, JOHOR",
+    "phone": "07-3874904",
+    "tax_id": "001505011616",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-18",
+    "time": "09:03:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 28.6,
+    "tax": 0.07,
+    "tip": 0.0,
+    "total": 23.6,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "VEGETABLES",
+      "quantity": 1,
+      "unit_price": 2.2,
+      "total_price": 2.2,
+      "category": "Grocery",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "LTK OMEGA PLUS 10S",
+      "quantity": 1,
+      "unit_price": 7.7,
+      "total_price": 7.7,
+      "category": "Grocery",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "VEGETABLES",
+      "quantity": 4,
+      "unit_price": 2.0,
+      "total_price": 8.0,
+      "category": "Grocery",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SEAFOOD",
+      "quantity": 1,
+      "unit_price": 6.3,
+      "total_price": 6.3,
+      "category": "Grocery",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "FISH BALL / CAKE",
+      "quantity": 1,
+      "unit_price": 1.2,
+      "total_price": 1.2,
+      "category": "Grocery",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 71.4
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005442338.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PASAR MINI JIN SENG\n379, JALAN PERMAS SATU,\nBANDAR BARU PERMAS JAYA\n81750 PLENTONG, JOHOR.\nTEL: 07-3874904\n\n(CO. NO: JM0159583-D)\nGST NO. (001505011616)\n\nTAXINV:002-1550040     18/03/18\nCashier : CASHIER2\n\n1   VEGETABLES             2.20 ZRL\n1   LTK OMEGA PLUS 10S     7.70 ZRL\n1   VEGETABLES             2.00 ZRL\n1   VEGETABLES             2.00 ZRL\n1   VEGETABLES             2.00 ZRL\n1   VEGETABLES             2.00 ZRL\n1   SEAFOOD                6.30 ZRL\n1   FISH BALL / CAKE       1.20 SR\n\nItem Count                  7\nSUBTOTAL:                 28.60\n\nTL: RM                   23.60\n6% GST                     0.07\n\n------ Payment Details ------\nCASH                       100.00\nCASH CHANGE                71.40\n\n18/03/18 09:03 #002-1550040#\nCASHIER2\n\nGST Summary  Amount(RM)  Tax(RM)\nSR (6%)           1.20      0.07\nZRL (0%)         27.40      0.00\n\n\n\nThank you\nPlease come again\nGOODS SOLD ARE NOT REFUNDABLE.\n"
+  }
+}

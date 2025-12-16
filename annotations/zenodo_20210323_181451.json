@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "R. Fernão Mendes Pinto, Quarteira, 8125-012 Loulé, Portugal",
+    "phone": "289302007",
+    "tax_id": "NIF: 500052930",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-16",
+    "time": "19:30:00",
+    "currency": "EUR",
+    "payment_method": "Visa Electron",
+    "subtotal": 7.8,
+    "tax": 0.21,
+    "tip": 0.0,
+    "total": 8.01,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Pao Centeio",
+      "quantity": 1,
+      "unit_price": 1.4,
+      "total_price": 1.4,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Gouda",
+      "quantity": 0.26,
+      "unit_price": 7.98,
+      "total_price": 2.07,
+      "category": "Dairy",
+      "accounting_category": "Food",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Pizza Margherita",
+      "quantity": 2,
+      "unit_price": 2.17,
+      "total_price": 4.34,
+      "category": "Prepared Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.88
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_181451.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ping doce\nQuarteira - Morgadinho\nTel. 289302007\nDistribuiçao Alimentar S.A\nSede: R. Actor António Silva, N° 7, 1649-033 Lisboa\nPingo Doce S.A, NIF/CNIPC 500052930\nAng.EL: (P.1073) Capital Social: 33.860.418 EUR\nANMEL: PT\n\nC E 43 PAO CERRO QTL 800 G\n1.40 x 1 1.40\n\nC 65 GOUDA HOLLAND KG\n0.26 x 7.98 2.07\n\nE 232 PIZZA PRES FD C400G\nE 232 PIZZA PR FFD4600G\n2 x 2.17 4.34\n\nTOTAL A PAGAR 8.01\n\nTOTAL\nValor s/IVA 7.80\n\nIVA 0.21\nValor c/IVA 8.01\n\nAtendido por: Fabio Martins\n\nPagamento: VISA ELECTRON\n\nData de Emissão: 16-03-2019\n\nFS: 03640049101:0625:0111:9\nID Estab: 01875\n\nSu. Alg. Ave EARLOW 970.34\n\nReclamações ou trocas numa loja diferente do\nlocal de compra durante 15 dias\n\nPara apoio ao cliente ligue\n808 20 45 45   444 44 11 (24 horas)"
+  }
+}

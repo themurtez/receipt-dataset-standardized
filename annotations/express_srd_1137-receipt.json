@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Maui Teriyaki",
+    "address": "27000 Marine Ave #103, Redondo Beach, CA 90278",
+    "phone": "(310) 973-3500",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-10-25",
+    "time": "11:28:31",
+    "currency": "USD",
+    "payment_method": "Cash",
+    "subtotal": 12.94,
+    "tax": 1.23,
+    "tip": 0.0,
+    "total": 14.17,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Salmon Plate",
+      "quantity": 1,
+      "unit_price": 11.49,
+      "total_price": 11.49,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Extra Shrimp",
+      "quantity": 1,
+      "unit_price": 1.45,
+      "total_price": 1.45,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": -5.83
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1137-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Maui Teriyaki\n27000 Marine Ave #103\nRedondo Beach, CA 90278\n(310) 973-3500\n\nServer: Annie\nStation: 1\nOrder #: 168479\nPhone Order\nCustomer Name: LEANNE\nGuests: 1\n\n>> SETTLED <<\n\n1 Salmon Plate 11.49\n1 Extra Shrimp 1.45\n\nSUB TOTAL: 12.94\nTax 1: 1.23\n\nTOTAL: $14.17\nCash Tendered: 20.00\nCHANGE: -5.83\n\n>> Ticket #: 7 <<\nCreated: 10/25/2017 11:14:30 AM\nSETTLED: 10/25/2017 11:28:31 AM\n\nTHANK YOU!"
+  }
+}

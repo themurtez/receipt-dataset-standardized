@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "UROKO JAPANESE CUISINE SDN BHD",
+    "address": "22A-1, JALAN 17/54, SECTION 17, 46400 PETALING JAYA, SELANGOR.",
+    "phone": "03-7932 1023/0191",
+    "tax_id": "001126838272",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-14",
+    "time": "12:14:08",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 74.68,
+    "tax": 4.93,
+    "tip": 0.0,
+    "total": 87.1,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "UROKO SALAD",
+      "quantity": 1,
+      "unit_price": 28.0,
+      "total_price": 28.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "NIKU SHOGAYAKI SET",
+      "quantity": 1,
+      "unit_price": 38.68,
+      "total_price": 38.68,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "GARLIC CHAHAN",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "GREEN TEA",
+      "quantity": 2,
+      "unit_price": 1.0,
+      "total_price": 2.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.02,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006647932.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "UROKO JAPANESE CUISINE SDN BHD\n22A-1, JALAN 17/54,\nSECTION 17,\n46400 PETALING JAYA,\nSELANGOR.\n03-7932 1023/0191\nGST Reg No: 001126838272\n\nBill No : 01H-26411\nDate : 14/05/2018 12:14:08 PM\nCashier : FLOR\nTable No : T03\n\nQty Description Amount\n1 UROKO SALAD @ 28.00 28.00 SR\n1 NIKU SHOGAYAKI SET @\n38.68 38.68 SR\n1 GARLIC CHAHAN @ 6.00 6.00 SR\n2 GREEN TEA @ 1.00 2.00 SR\n\n5 Total : 74.68\nDiscount : (.00)\nService Chg 10.00% : 7.47\nGST : 4.93\nGrand Total : 87.08\nRounding Adjustment: 0.02\nNet Total : 87.10\n\nGST Summary % Amount(RM) Tax(RM)\nSR 6.00 82.15 4.93"
+  }
+}

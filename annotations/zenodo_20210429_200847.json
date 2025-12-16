@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "LIDL & Cia",
+    "address": "Rua José Farinha, n21, Lisboa",
+    "phone": "",
+    "tax_id": "503 340 855",
+    "website": "lidl.pt/opiniao"
+  },
+  "transaction": {
+    "date": "2019-07-18",
+    "time": "14:55:00",
+    "currency": "EUR",
+    "payment_method": "Dinheiro",
+    "subtotal": 6.08,
+    "tax": 0.37,
+    "tip": 0.0,
+    "total": 6.45,
+    "accounting_category": "Grocery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Iogurte Grego Natural",
+      "quantity": 3,
+      "unit_price": 2.15,
+      "total_price": 6.45,
+      "category": "Dairy",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 3.55
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_200847.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "LIDL & Cia - LISBOA - R J.FARINHA\nRua José Farinha, n21 - Lisboa\nContribuinte Nr. 503 340 855\nProdutor de REEE Nr. PT000048\n\nLIDL & Cia - Lojas Alimentares\nRua Pé de Mouro, 18\nLinhô - 2714-510 Sintra\nCap social: 498.800 EUR\nM.C.R.Com.Sintra No 10628\n\nFATURA SIMPLIFICADA\nData de Venda: 18.07.19\nNo FS 015501419/046365\n\nContribuinte: 510776914\n\nIOGURTE GREGO NATURAL\n3 x 2,15 EUR  6,45€\n\nTotal  6,45€\nDINHEIRO  10,00\nTROCO  -3,55\n\nTaxa  B Imp.\nB 6%  6,08  6,45  0,37\n\n0155  098821/14  18.07.19  14:55\nTDan-Processado por Programma\ncertificado n.º  1050/AT\n\n****** OBRIGADO ******\n\nDevolução de Artigos não alimentares\naté 30 dias com este talão.\nDocumento válido como recibo.\n\n* * * * * * * * * *\n\n5 minutos podem valer 50 Euros!\nDê-nos a sua opinião em\nlidl.pt/opiniao"
+  }
+}

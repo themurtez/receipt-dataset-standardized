@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Chatime",
+    "address": "Phone The Informatics\nCenter for Your Hand\nIndonesia",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 30000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 30000.0,
+    "accounting_category": "Beverages",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Avocado with Rock Salt and Cocoa Cream [L]",
+      "quantity": 1,
+      "unit_price": 30000.0,
+      "total_price": 30000.0,
+      "category": "Beverages",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000471.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Shop teal\nPhone The Informatics\nCenter for Handset\nRewards Period\nAvocado with Rock Salt and Cocoa Cream [L] 1 30,000\nTotal 30,000\nJOOX 50,000\nJOOX 20,000\n\nChatime Indonesia\nSelling Register\nPhone Informatics\nJl. Pengkanel, Indonesia"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Collector's Choice Restaurant",
+    "address": "215 Cypress Ave, Snohomish WA 98290",
+    "phone": "360-568-1277",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-04-10",
+    "time": "12:00:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 11.69,
+    "tax": 1.14,
+    "tip": 0.0,
+    "total": 13.53,
+    "accounting_category": "Meals & Entertainment",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Twisted Rueben",
+      "quantity": 1,
+      "unit_price": 11.69,
+      "total_price": 11.69,
+      "category": "Food",
+      "accounting_category": "Meals & Entertainment",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1151-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Collector's Choice Restaurant\n215 Cypress Ave\nSnohomish WA 98290\n360-568-1277\n\nApril 10, 2019 12:00pm\n\nTicket: 1904100085\nServer: Cheryl V\nSeat: Dining:T8:1\n\nItem Price\n1 Twisted Rueben 11.69T\n\nSubtotal 11.69\n1 Service Fee (-6%) -0.70T\nSales Tax (9.2%) 1.14\n\nTotal $13.53\n\nTip Helper:\n15%=2.03 18%=2.44 20%=2.71\n\nStarting January 25th, 2019\nCCR includes a 6% service charge on each\nguest check.\n\nThis service charge is fully retained by\nthe company, not the servers. It will be\nused 100% to provide fair wages for our\nkitchen staff with equitable pay and\nbenefits to our entire team.\n\nWe are required by law to collect tax on\nthe service charge.\n\nPlease Continue Tipping your Servers.\nThank you for your continuing support.\n\nReceive a 3% Discount for paying with cash."
+  }
+}

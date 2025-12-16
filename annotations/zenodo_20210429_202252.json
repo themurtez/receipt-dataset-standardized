@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "TOMAS RIBEIRO",
+    "address": "R Actor Antonio Silva,N7,1649-033 Lisboa",
+    "phone": "213316180",
+    "tax_id": "PT 500829993",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-08-21",
+    "time": "19:41:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 4.78,
+    "tax": 0.53,
+    "tip": 0.0,
+    "total": 2.83,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "DETERG. E PROD. LIMPEZA",
+      "quantity": 1,
+      "unit_price": 3.89,
+      "total_price": 3.89,
+      "category": "Cleaning Products",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "E 23% DET LOICA CONC CIF",
+      "quantity": 1,
+      "unit_price": 1.95,
+      "total_price": 1.95,
+      "category": "Dish Soap",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 7.17
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_202252.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Pingo Doce\nTOMAS RIBEIRO\nTel.: 213316180\nPingo Doce - Distribuição Alimentar, S.A.\nSede: R Actor Antonio Silva,N7,1649-033 Lisboa\nRegisto C.R.C. Lisboa-Matrícula/NIPC: 500829993\nAnree.: PT001370 C. Social: 33,808,115 EUR\nArtigos\nDETERG. E PROD. LIMPEZA          3,89\nE 23% DET LOICA CONC CIF          -1,95\nPoupança Imediata                0,99\nE 23% DET LOICA CONC CLASS\nResumo\nTOTAL A PAGAR                    2,83\nPagamento\nE 232\nPOUPANCA IMEDIATA               (1,95)\nResum IVA\nNESTA COMPRA POUP\nAttended por: Tatiana Duarte\nTaxa\nE 232\n  Valor s/IVA   Valor IVA   Valor c/IVA\n  2,30           0,53       2,83\n103387 2019-08-21 19:41 0005 0044\nFatura/Recibo\nFT 04400051901016022/002096\n1ª Via Original         Data de emissão: 21-08-2019\nN. Contribuinte: 510776914\nNome: FLIKEHOME LDA\nMorada: AV DA LIBERDADE 36 1B 1250/145\nLocalidade: Lisboa\nLocal carga: TOMAS RIBEIRO\nLocal descarga: Morada do cliente\nData: 2019-08-21 Hora: 19:41"
+  }
+}

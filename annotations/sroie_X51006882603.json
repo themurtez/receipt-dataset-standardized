@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Eco-Shop Marketing Sdn Bhd",
+    "address": "Lot F1-01, 6, Jalan 8/27A, Seksyen 5 Wangsa Maju, 53300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia.",
+    "phone": "",
+    "tax_id": "000313901056",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-02-26",
+    "time": "17:31:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 16.31,
+    "tax": 0.91,
+    "tip": 0.0,
+    "total": 16.3,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chopstick Holder",
+      "quantity": 1,
+      "unit_price": 2.33,
+      "total_price": 2.33,
+      "category": "Household",
+      "accounting_category": "Household",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pliers 6\" 110G",
+      "quantity": 1,
+      "unit_price": 2.33,
+      "total_price": 2.33,
+      "category": "Tools",
+      "accounting_category": "Tools",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Multi Purpose Food Tongs",
+      "quantity": 3,
+      "unit_price": 2.33,
+      "total_price": 6.99,
+      "category": "Kitchen",
+      "accounting_category": "Kitchen",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Scale Scraper - Large",
+      "quantity": 1,
+      "unit_price": 2.33,
+      "total_price": 2.33,
+      "category": "Tools",
+      "accounting_category": "Tools",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PVC Wall Plug 4\"S 240/10",
+      "quantity": 1,
+      "unit_price": 2.33,
+      "total_price": 2.33,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": -0.01,
+    "change_due": 0.7
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006882603.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TAX INVOICE\nEco-Shop Marketing Sdn Bhd\nGST Reg. No : 000313901056\nCompany No : 734055-M\nLot F1-01, 6, Jalan 8/27A,\nSeksyen 5 Wangsa Maju,\n53300 Kuala Lumpur,\nWilayah Persekutuan Kuala\nLumpur, Malaysia.\nINV No # : BWMC2000047293\n26/02/2018 17:31\nCS : ROSSYAFIQAH ANIS BINTI\nRAMLI [BWM0034]\n────────────────────\nSTK QTY RM\nJT5501 - CHOPSTICK HOLDER\n72/1\n65045039@2.33 1 2.33\nPLIERS 6\" 110G 120PCS(PELAYAR\n74020030@2.33 1 2.33\n771-2 MULTI PURPOSE FOOD\nTONGS\n63065005@2.33 3 6.99\nLS301 SCALE SCRAPER -LARGE\n360\n63165004@2.33 1 2.33\nPVC WALL PLUG 4\"S 240/10-(PLUG\n74065000@2.33 1 2.33\n────────────────────\nTotal : 7 16.31\nRounding Adj: -0.01\nBalance Due : 16.30\nPayment (Cash) : 17.00\nChange (Cash) : 0.70\nGST Summary\nSR 6% 15.40 0.91\nZR 0% 0.00 0.00\n\nProduce Bill for Exchange\nWithin 3 Days No Cash Refund\nThank you *\n*Please Come Again*\n"
+  }
+}

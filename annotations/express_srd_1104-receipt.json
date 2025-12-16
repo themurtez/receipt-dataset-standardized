@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Don Juan Mexican Restaurant",
+    "address": "124 East Park Ave, Long Beach, NY 11561",
+    "phone": "(516) 442-4944",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2013-11-06",
+    "time": "20:14:53",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 51.9,
+    "tax": 4.48,
+    "tip": 0.0,
+    "total": 56.38,
+    "accounting_category": "Restaurants",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Red Sangria Glass",
+      "quantity": 2,
+      "unit_price": 7.0,
+      "total_price": 14.0,
+      "category": "Beverages",
+      "accounting_category": "Food & Drink",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Combo Fajitas",
+      "quantity": 1,
+      "unit_price": 22.95,
+      "total_price": 22.95,
+      "category": "Main Course",
+      "accounting_category": "Food & Drink",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Burrito Supreme w/ Beef",
+      "quantity": 1,
+      "unit_price": 14.95,
+      "total_price": 14.95,
+      "category": "Main Course",
+      "accounting_category": "Food & Drink",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1104-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Don Juan Mexican Restaurant\n124 East Park Ave\nLong Beach, NY 11561\n(516) 442-4944\n\nServer: Regina Station: 4\nOrder #: 28731 Dine In\nTable: 1 Guests: 2\n--------------------------------\n2 Red Sangria Glass 14.00\n#4-COMBO FAJITAS 22.95\nFlour Tortilla\nChicken\nShrimp\nSteak\n1 #34-BURRITO SUPREME 14.95\nw/ Beef\n--------------------------------\nBar Subtotal: 14.00\nFood Subtotal: 37.90\nNY State: 4.48\nTOTAL: $56.38\n\nTicket #: 23\n11/6/2013 8:14:53 PM\nTHANK YOU!"
+  }
+}

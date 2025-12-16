@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "H3 Tivoli Forum",
+    "address": "R. Tierno Galvan n10 Torre3 P3 301a303, Cod. Postal: 1070-274 Lisboa",
+    "phone": "213803110",
+    "tax_id": "506784363",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-11-25",
+    "time": "13:32:20",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 8.7,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 8.7,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Mn H3 Prato Grelhado",
+      "quantity": 1,
+      "unit_price": 5.93,
+      "total_price": 5.93,
+      "category": "Main Course",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Arroz Thai",
+      "quantity": 1,
+      "unit_price": 1.02,
+      "total_price": 1.02,
+      "category": "Side",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "H3 Grelhado",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Main Course",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Salada Vinagreta N",
+      "quantity": 1,
+      "unit_price": 1.75,
+      "total_price": 1.75,
+      "category": "Side",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sem Molhos",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Customization",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_205021.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "H3 - Tivoli Forum\nH3 Portugal, S.A.\nR. Tierno Galvan n10 Torre3 P3 301a303\nCod. Postal: 1070-274 Lisboa\nTelefone: 213803110\nN. Contribuinte: 506784363\nRegisto na Cons. Lisboa n.506784363\nCapital Social: 150,000.00 Euros\n\nNIF: 510767914\n\nFatura simplificada FS 120/248239\nData: 2019-11-25 Hora: 13:32:20\n\nOriginal\nOt Artigo IVA Total\n1 Mn H3 Prato Grelhado 0 e 0.00\n1 Medio Passado 13 e 0.00\n1 Arroz Thai 13 e 1.02\n1 H3 Grelhado 13 e 5.93\n1 Salada Vinagreta N 13 e 1.75\n1 Sem Molhos e 0.00\n\nTotal e 8.70\n\nBalcao 1 Emp. Flaviana R.\nTaxa Base IVA Total\n13.00 e 7.70 e 8.70\n\nPag. mesa 1\n\nConsultas:\nIVA incluído a taxa legal em vigor\n\nGanhou 1 pontos!\nVisite lugaressite.pt para consultar o seu saldo\n\nActualize já a nova versão da app H3!\n\nIDTrans: 000006524556 IDTerm: 9002327\n\nHYY6-Processado por programa\ncertificado n. 0071/AT\n\nCopyright GrupoPIE, SA"
+  }
+}

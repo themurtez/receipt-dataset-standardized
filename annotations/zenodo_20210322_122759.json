@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "CTT Expresso - Servicos Postais e Logistica, S.A.",
+    "address": "Sede Edificio CTT Expresso MARL, Lugar do Quintanilho, 2664-500 Sao Juliao do Tojal",
+    "phone": "",
+    "tax_id": "N.Pess.Coletiva 504520296",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-26",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 5.9,
+    "tax": 1.36,
+    "tip": 0.0,
+    "total": 7.26,
+    "accounting_category": "Postal Service",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Para Amanhã",
+      "quantity": 1,
+      "unit_price": 5.9,
+      "total_price": 5.9,
+      "category": "Courier Service",
+      "accounting_category": "Postal Service",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210322_122759.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CTT Expresso - Servicos Postais e Logistica, S.A.\nSede Edificio CTT Expresso MARL, Lugar do Quintanilho\n2664-500 Sao Juliao do Tojal\nN.Pess.Coletiva 504520296\nCap.Social 5,600,000.00 EUR\nN. Alvara 654940\nLoja CTT VILAMOURA 8810956\nFatura/Recibo N.\nFR CTE2019FR8810956037138\nData de Emissao\n2019-03-26\nNome:\nMorada:\nCod Postal:\nNIF: 514407395\nQTD DESIGNACAO PESO IVA QUANTIA\n1 Para Amanha 0,185 23% 5.90\n1 Tentat Aviso CTT/1\n5.90 Eur\nTotal s/IVA: 5.90 Eur\nTotal Desconto s/IVA: 0.00 Eur\nTotal c/IVA: 7.26 Eur\nSete Euros e Vinte e Seis Centimos\nTaxa Valor s/IVA Valor IVA Valor Total\n23% 5.90 1.36 7.26\nValor liquidado no data de emissao\nBens ou servicos disponibilizados ao\nadquirente na data de emissao deste documento\nUjbb-Processado por programa certificado\nn.1 t3O/AT"
+  }
+}

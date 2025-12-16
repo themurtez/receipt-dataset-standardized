@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Makro Cash & Carry",
+    "address": "ALFRAGIDE",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-15",
+    "time": "10:19:29",
+    "currency": "EUR",
+    "payment_method": "Visa Electron",
+    "subtotal": 119.41,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 119.41,
+    "accounting_category": "Purchase",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "VELC PP N",
+      "quantity": 1,
+      "unit_price": 119.41,
+      "total_price": 119.41,
+      "category": "Retail",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_115839.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MAKRO EST. 001\nMAKRO CASH & CARRY\nALFRAGIDE\nTerminal Pagamento Automático: 00001104\n2019-02-15 10:19:29 Per016 Tr023 Mes485\nMILLENIUM BCP\nMARIA SOBRAL JOSE\nCARTAO: ****7398/76\nA0000000032010 VISA ELECTRON\nCOMPRA 119,41€ VELC PP N\nID ESTAB:0003010699 AUT:087066\nREDUNICRE\nINOVACAO E CONFIANCA\nPROCESSADO POR SIBS"
+  }
+}

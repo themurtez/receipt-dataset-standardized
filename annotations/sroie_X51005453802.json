@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Lian Hing Stationery Sdn Bhd",
+    "address": "No.32 & 33, Jalan SR 1/9, Seksyen 9, Taman Serdang Raya, 43300 Seri Kembangan, Selangor, Darul Ehsan",
+    "phone": "",
+    "tax_id": "002139201536",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-30",
+    "time": "",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 150.0,
+    "tax": 9.0,
+    "tip": 0.0,
+    "total": 159.0,
+    "accounting_category": "Stationery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Durafile H399 Name Badge",
+      "quantity": 200,
+      "unit_price": 0.55,
+      "total_price": 116.6,
+      "category": "Office Supplies",
+      "accounting_category": "Stationery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "809 Metal Name Badge Clip",
+      "quantity": 2,
+      "unit_price": 21.2,
+      "total_price": 42.4,
+      "category": "Office Supplies",
+      "accounting_category": "Stationery",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 202,
+    "rounding": 0.0,
+    "change_due": 41.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005453802.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "LIAN HING STATIONERY SDN BHD\n(162761-M)\nNO.32 & 33, JALAN SR 1/9. SEKSYEN 9.\nTAMAN SERDANG RAYA.\n43300 SERI KEMBANGAN, SELANGOR\nDARUL EHSAN\nGST ID : 002139201536\nTax Invoice\n30/03/2018 No. CS-20322\nDurafile H399 (110 x 95mm)\nName Badge (H) @ 0.5500\nQty Tax RM\n200 SR 116.60\n809 Metal Name Badge Clip\n2 SR 42.40\nTotal Amt Incl. GST @ 6% : 159.00\nRounding Adjustment\nTotal Amt Payable :  159.00\nPaid Amount : 200.00\nChange : 41.00\nTotal Qty Tender : 202\nGST Summary Amount Tax\n(RM) (RM)\nSR A) 150.00 9.00\nTotal 150.00 9.00\nTHANK YOU\nFor any enquiry, please contact us:"
+  }
+}

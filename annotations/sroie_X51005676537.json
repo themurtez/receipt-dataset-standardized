@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Syarikat Perniagaan Gin Kee",
+    "address": "No 290, Jalan Air Panas, Setapak, 53200, Kuala Lumpur.",
+    "phone": "03-40210276",
+    "tax_id": "000750673920",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-03",
+    "time": "13:04:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 89.0,
+    "tax": 5.34,
+    "tip": 0.0,
+    "total": 94.34,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.85
+  },
+  "items": [
+    {
+      "name": "5LT Big Tree High Gloss Paint",
+      "quantity": 1,
+      "unit_price": 90.1,
+      "total_price": 90.1,
+      "category": "Paint",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Thinner Bottle",
+      "quantity": 1,
+      "unit_price": 4.24,
+      "total_price": 4.24,
+      "category": "Thinner",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005676537.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS,\nSETAPAK,\n53200, KUALA LUMPUR.\nTEL: 03-40210276\nGST ID: 000750673920\nSIMPLIFIED TAX INVOICE\nCASH\nDoc No. CS00012518 Date: 03/01/2018\nCashier : USER Time: 13:04:00\nSalesperson : Ref:\nItem Qty S/Price Amount Tax\n1539 1 90.10 90.10 SR\n5LT BIG TREE HIGH GLOSS PAINT\n1611 1 4.24 4.24 SR\nTHINNER BOTTLE\nTotal Qty: 2 94.34\nTotal Sales (Excluding GST) 89.00\nDiscount : 0.00\nTotal GST 5.34\nRounding 0.00\nTotal Sales (Inclusive of GST): 94.34\nCASH : 94.34\nChange : 0.00\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR 6 89.00 5.34\nTotal : 89.00 5.34\nGOODS SOLD ARE NOT RETURNABLE. THANK YOU."
+  }
+}

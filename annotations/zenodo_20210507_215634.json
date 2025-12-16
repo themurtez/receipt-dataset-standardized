@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "Restaurante O Polar",
+    "address": "Pico da Torre N. 26, 9300 C. Lobos",
+    "phone": "291944442",
+    "tax_id": "130261920",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2023-10-20",
+    "time": "15:11:00",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 47.95,
+    "tax": 5.65,
+    "tip": 0.0,
+    "total": 47.95,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ESPETADA/KG",
+      "quantity": 0.8,
+      "unit_price": 20.8,
+      "total_price": 20.8,
+      "category": "Main Course",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BATATA M.",
+      "quantity": 1.0,
+      "unit_price": 2.8,
+      "total_price": 2.8,
+      "category": "Side Dish",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MILHO MED.",
+      "quantity": 1.0,
+      "unit_price": 2.8,
+      "total_price": 2.8,
+      "category": "Side Dish",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SALADA MED.",
+      "quantity": 1.0,
+      "unit_price": 2.8,
+      "total_price": 2.8,
+      "category": "Side Dish",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BOLO CACO MED.",
+      "quantity": 2.0,
+      "unit_price": 3.5,
+      "total_price": 3.5,
+      "category": "Side Dish",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "REFRIGERANTES",
+      "quantity": 3.0,
+      "unit_price": 2.25,
+      "total_price": 7.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CAFE",
+      "quantity": 3.0,
+      "unit_price": 0.75,
+      "total_price": 2.25,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SOBREMESAS DIV.",
+      "quantity": 2.0,
+      "unit_price": 3.0,
+      "total_price": 6.0,
+      "category": "Dessert",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_215634.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "RESTAURANTE O POLAR\nLuis dos Ramos de Sousa\nCONTRIB. N. 130261920\nPico da Torre N. 26\n9300 C. LOBOS\nTEL. 291944442\n\nFatura simplificada\n20/10/23 15:11          FS 11/8072\n\nNome: FLM\nMorada:\nContribuinte: 510776914\n\n          %IVA              VALOR\n\n0,800 ESPETADA/KG  12,00  20,80\n1,000 BATATA M.    12,00   2,80\n1,000 MILHO MED.   12,00   2,80\n1,000 SALADA MED   12,00   2,80\n2,000 BOLO CACO MED 12,00  3,50\n3,000 REFRIGERANTES 22,00  7,00\n3,000 CAFE         12,00   2,25\n2,000 SOBREMESAS DIV. 12,00 6,00\n\nSUBTOTAL......... 47,95\nTOTAL EUR..... 47,95\nMultibanco EUR       47,95\n\nIMPOSTO   INCIDENCIA   VALOR\nIVA          12,00   36,56     4,39\nIVA          22,00    5,74     1,26\nMESA: 8\nID: GRACIELA\nProcessado por computador"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "R Actor António Silva, N7, 1649-033 Lisboa",
+    "phone": "218 802 010",
+    "tax_id": "500829993",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-10",
+    "time": "09:51:00",
+    "currency": "EUR",
+    "payment_method": "Express",
+    "subtotal": 3.99,
+    "tax": 0.75,
+    "tip": 0.0,
+    "total": 3.99,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "DESENTOP GEL EXPRESS",
+      "quantity": 1,
+      "unit_price": 3.99,
+      "total_price": 3.99,
+      "category": "Cleaning Products",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 16.01
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_170117.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "pingo doce\nbem estar para todos\nCHAO LOUREIRO\nTel. 218 802 010\nPingo Doce Distribuição Alimentar, S.A.\nSede: R Actor António Silva,N7, 1649-033 Lisboa\nRegisto C.R.C. Lisboa-Matricula/NIPC: 500829993\nANREEE: PT001730 V C. Social: 33.806,115 EUR\nArtigos\nDETERG. E PROD. LIMPEZA\nE 23% DESENTOP GEL EXPRESS 3.99\nResumo\nTOTAL A PAGAR 3.99\nPagamentos\nTOTAL PAGO 20.00\nTROCO 16.01\nEURO 20.00\nResumo IVA\nTaxa Valor s/IVA Valor IVA Valor c/IVA\nE 23% 3.24 0.75 3.99\nAtendido por: Alexandra Pereira\n412085 2019-03-10 09:51 0043 0005 0486\nKjhs-Processado por programa certificado 369/AT\nFatura Simplificada FS 0486005190010616/024745\n1ª Via Original Data de emissão: 10-03-2019\nN. Contribuinte: 510776914\nFactura necessária para troca em 15 dias\n(Artigos Têxtil e Calçado prazo 30 dias)\nNão se trocam medicamentos e artigos assinados\nApoio ao Cliente\n808 20 45 45/210 11 44 11 (24 horas)"
+  }
+}

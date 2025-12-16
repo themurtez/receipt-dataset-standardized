@@ -1,0 +1,118 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 937000.0,
+    "tax": 99322.0,
+    "tip": 0.0,
+    "total": 1092542.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "UDG GR TLUR ASIN",
+      "quantity": 1,
+      "unit_price": 165000.0,
+      "total_price": 165000.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "SAPO TH SEAFOOD",
+      "quantity": 1,
+      "unit_price": 129000.0,
+      "total_price": 129000.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "CUMI GR JUNJAN",
+      "quantity": 1,
+      "unit_price": 129000.0,
+      "total_price": 129000.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "OYONG 3 TELOR",
+      "quantity": 1,
+      "unit_price": 84000.0,
+      "total_price": 84000.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "GURAME FILLET M",
+      "quantity": 1,
+      "unit_price": 163000.0,
+      "total_price": 163000.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "CHINESE TE",
+      "quantity": 2,
+      "unit_price": 14000.0,
+      "total_price": 28000.0,
+      "category": "Beverages",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "NASI PUTIH",
+      "quantity": 8,
+      "unit_price": 10000.0,
+      "total_price": 80000.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "HOT TEA",
+      "quantity": 3,
+      "unit_price": 12000.0,
+      "total_price": 36000.0,
+      "category": "Beverages",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "ICED TEA",
+      "quantity": 3,
+      "unit_price": 12000.0,
+      "total_price": 36000.0,
+      "category": "Beverages",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 21,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000711.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 UDG GR TLUR ASIN 165,000\n=*MEDIUM*=\n1 SAPO TH SEAFOOD 129,000\n=*MEDIUM*=\n1 CUMI GR JUNJAN 129,000\n=*MEDIUM*=\n1 OYONG 3 TELOR 84,000\n=*MEDIUM*=\n1 GURAME FILLET M 163,000\n=ASAM MANIS\n2 CHINESE TE 14,000 28,000\n2 CRYSAN\t\n8 NASI PUTIH 10,000 80,000\n3 HOT TEA 12,000 36,000\n3 ICED TEA 12,000 36,000\nFOOD 757,000\nBEVERAGES 100,000\nOTHERS 80,000\nSUBTOTAL 937,000\nSERVICE CHARGE 56,220\nTAX 10% 99,322\nDU 1,092,542"
+  }
+}

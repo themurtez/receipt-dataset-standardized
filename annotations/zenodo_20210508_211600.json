@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Intermarche Malveira",
+    "address": "Malveira - Supermercados, Lda, Lagoa n:27 2665-279 Malveira",
+    "phone": "219 666 980",
+    "tax_id": "PT 507 776 283",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-22",
+    "time": "12:42:24",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 20.0,
+    "tax": 3.74,
+    "tip": 0.0,
+    "total": 20.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GLO SIMPLES",
+      "quantity": 14.94,
+      "unit_price": 1.339,
+      "total_price": 20.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_211600.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "INTERMARCHE MALVEIRA\nMALVEIRA - SUPERMERCADOS, LDA\nLagoa n:27 2665-279 Malveira\nPT 507 776 283 Cap. Soc.: 200 000 Eur\nTel: 219 666 980 Fax: 219 666 989\n\n22-04-2018 Hora 12:42:24 POS 1 Operador 106 Turno 13759\nFatura\nIMP1T00A85C007CC6E0/21453\nProduto Preco Unit Qtd. Imp-% Sub-Total\nGLO SIMPLES 1.339 14.94 23.00 20.00\nBomba:4 Mangueira:4\n\nNIF: 510776914\nNome Cliente\nFLIKEHOME MEDIACAU IMOBILIARIA LDA\nMorada\nLISBOA\n\nDinheiro 20.00\nIva 23.00%: 3.74\nTotal Venda : 20.00 Eur\n\n\nBens/Servicos colocados ao dispor\ndo cliente final no acto da venda\n\nTem 5 dias para solicitar factura\nObrigado e Boa Viagem\ndfSd-Processado por prog. certificado 166/AT"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "BCM Bricolage SA",
+    "address": "Leroy Merlin, Alfragide",
+    "phone": "214 252 200",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-01-25",
+    "time": "14:30:24",
+    "currency": "EUR",
+    "payment_method": "Visa Electron",
+    "subtotal": 49.99,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 49.99,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.85
+  },
+  "items": [
+    {
+      "name": "VELC DB N",
+      "quantity": 1,
+      "unit_price": 49.99,
+      "total_price": 49.99,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_113703.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BCM - BRICOLAGE S.A. LEROY MERLIN ALFRAGIDE TEL: 214 252 200 ***** ABERTO DE SEGUNDA A DOMINGO DAS 08H **** ** 22H ***** BCM BRICOLAGE SA CARNAXIDE Terminal Pagamento Automático: 00513615 2019-01-25 14:30:24 Per045 Tr071 Msg201 BANCO BPI CARTAO: ****7973/65 A0000000032010 VISA ELECTRON COMPRA 49,99€ VELC DB N AUT:432370 VELC DB N REDUNICRE INOVACAO E CONFIANCA CONTACTLESS Visa payWave PROCESSADO POR SIBS 005-000137-003-0040 25/01/2019 14:30"
+  }
+}

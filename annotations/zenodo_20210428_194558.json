@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "R Actor António Silva, 7, 1649-033 Lisboa",
+    "phone": "213828600",
+    "tax_id": "500259933",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-04-14",
+    "time": "09:39:00",
+    "currency": "EUR",
+    "payment_method": "Visa Electron",
+    "subtotal": 4.21,
+    "tax": 0.97,
+    "tip": 0.0,
+    "total": 5.18,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Café Rossio NI",
+      "quantity": 2,
+      "unit_price": 2.59,
+      "total_price": 5.18,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_194558.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "FRANCISCO METRASS\nTel.: 213828600\nPingo Doce - Distribuição Alimentar, S.A.\nSede: R Actor António Silva,7,1649-033 Lisboa\nRegisto C.R.C. Lisboa-Matricula/NIPC: 500259933\nAMREE: P1001379 SociaI: 33,808,115 EUR\nArtigos\nMERCEARIA + PET FOOD\nE 23% CAPS. CAFE ROSS10 NI\n2 x 2,59 5,18\nResumo\nTOTAL A PAGAR\n5.18\nPagamentos\nTOTAL PAGO 5,18\nMultibanco 5,18\nResumo IVA\nTaxa Valor s/IVA Valor IVA Valor c/IVA\nE 23% 4,21 0,97 5,18\nAtendido por: Liliana Filipe\n262530 2019-04-14 09:39 001 0005 0442\naet4-Processado por programa certificado 369/A1\nFatura/Recibo FT 044205911062010115641\n1ª Via Original Data de emissão: 14-04-2019\nContribuinte: 510776914\nN.º Original: Feels Like Home\nMorada.........: Lisboa\nLocalidade.....: Lisboa\nLocal carga...: FRANCISCO METRASS\nLocal descarga.: Morada do cliente\nData: 2019-04-14 Hora: 09:39\nPingo Doce SA\nFRANCISCO METRASS\n1350-144 LISBOA\nTerminal Pagamento Automático: 00115841\n2019-04-14 09:38:31 Per027 Tr011 Msg152\nMILLENNIUM BCP\nRODRIGUES/CARLOS\nCARTAO: *****8665/06\nA0000000032010 VISA ELECTRON\nCOMPRA 5,18€ VELOC PP N\nID ESTAB:000077885 AUT:627385\nREDUNICRE\nINOVACAO E CONFIANCA\nCÓPIA CLIENTE\nPROCESSADO POR SIBS\nFactura necessaria para troca em 15 dias\n\n(Afgaros Têxtil e Calçado prazo 30 dias)\nNao se trocam medicamentos e artigos assinalados\nApoio ao Cliente\n808 20 45 45 / 210 11 44 11 (24 horas)"
+  }
+}

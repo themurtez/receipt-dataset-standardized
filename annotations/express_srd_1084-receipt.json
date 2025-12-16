@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Trattoria Saporito",
+    "address": "328 Washington Street, Hoboken, NJ 07030",
+    "phone": "201-533-1801",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-07-01",
+    "time": "17:53:48",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 117.75,
+    "tax": 8.24,
+    "tip": 0.0,
+    "total": 125.99,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Stuffed Artichoke",
+      "quantity": 1,
+      "unit_price": 18.0,
+      "total_price": 18.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "BK Fett al Porcini",
+      "quantity": 1,
+      "unit_price": 36.0,
+      "total_price": 36.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Costolette Alla Pap",
+      "quantity": 1,
+      "unit_price": 42.0,
+      "total_price": 42.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Broccoli Rabe w/ GA",
+      "quantity": 1,
+      "unit_price": 10.5,
+      "total_price": 10.5,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Espresso",
+      "quantity": 1,
+      "unit_price": 3.75,
+      "total_price": 3.75,
+      "category": "Beverage",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "DBLD Espresso",
+      "quantity": 1,
+      "unit_price": 7.5,
+      "total_price": 7.5,
+      "category": "Beverage",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1084-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Trattoria Saporito\n328 Washington Street\nHoboken, NJ 07030\n201-533-1801\nTABLE # 4\nCHECK# 27273\nDATE/TIME: 7/1/2018 5:53:48 PM\nSERVER: Gastone\nSTATION: 01\nItem Count: 4\n\n1 STUFFED ARTICHOKE $18.00\nCCC222\n1 BK FETT AL PORCINI * $36.00\n1 COSTOLETTE/ALLA/PAP* $42.00\n1 BROCCOLI RABE W/ GA* $10.50\n1 ESPRESSO* $3.75\n1 DBLD ESPRESSO* $7.50\n\nSubtotal $117.75\nTax $8.24\nGRAND TOTAL $125.99\nOpened: 7/1/2018 5:53:48 PM"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "A Fung",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 63636.0,
+    "tax": 6348.0,
+    "tip": 0.0,
+    "total": 70000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Baso Tahu Bihun",
+      "quantity": 1,
+      "unit_price": 50000.0,
+      "total_price": 50000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Limau Kasturi",
+      "quantity": 1,
+      "unit_price": 13636.0,
+      "total_price": 13636.0,
+      "category": "Drink",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Loyalty Program",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Discount",
+      "accounting_category": "Promotion",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000500.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BASO TAHU BIHUN 1 50,000 50,000\nLIMAU KASTURI 1 13,636 13,636\nLOYALTY PROGRAM 1 0\nTOTAL 63,636\nDPP 63,636\nTAX 10.00 % 6,348\nGRAND TOTAL 70,000\nTUNAI 70,000\nKEMBALI\n"
+  }
+}

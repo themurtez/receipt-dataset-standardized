@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "DEBIT BCA",
+    "subtotal": 45490.0,
+    "tax": 4548.0,
+    "tip": 0.0,
+    "total": 50039.0,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "KUE PILUS ASIN",
+      "quantity": 210,
+      "unit_price": 80.0,
+      "total_price": 16800.0,
+      "category": "Snack",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "KACANG MEDAN",
+      "quantity": 302,
+      "unit_price": 95.0,
+      "total_price": 28690.0,
+      "category": "Snack",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000088.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KUE PILUS ASIN\n210.00 x 80 16,800\nKACANG MEDAN\n302.00 x 96 28,690\nTOTAL: 45,490\nDisk.Member: 0\nDiskon: 0\nPPN: 4,548\nNetto: 50,039\nDEBIT BCA: 50,039\nKEMBALIAN: 0"
+  }
+}

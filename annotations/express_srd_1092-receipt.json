@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Kaiseki Japanese Cuisine",
+    "address": "7 West Merrick Rd., Valley Stream, NY 11580",
+    "phone": "(516) 561-3556",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-07-28",
+    "time": "15:42:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 39.85,
+    "tax": 3.45,
+    "tip": 0.0,
+    "total": 43.3,
+    "accounting_category": "Meals",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Sushi Dinner w.Miso Soup",
+      "quantity": 1,
+      "unit_price": 18.95,
+      "total_price": 18.95,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lady Gaga",
+      "quantity": 1,
+      "unit_price": 13.95,
+      "total_price": 13.95,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ginger Ale",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Beverage",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Fried Cheese Cake",
+      "quantity": 1,
+      "unit_price": 4.95,
+      "total_price": 4.95,
+      "category": "Dessert",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1092-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Kaiseki\nJapanese Cuisine\n7 West Merrick Rd., Valley Stream, NY 11580\nTel: (516) 561-3556\n\nDine_In  \n07/28/18 03:42 PM   A3         20\nServer: MANDY  Guest 2\nSushi Dinner       18.95\nw.Miso Soup\nLady Gaga          13.95\nGinger Ale         2.00\nFried Cheese Cake  4.95\nSubtotal:         39.85\nTax:              3.45\nTotal:            43.30\n\nRecommended Tips:\n15%=$5.98\n18%=$7.17\n20%=$7.97\n\nThank You"
+  }
+}

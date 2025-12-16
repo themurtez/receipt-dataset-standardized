@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 48000.0,
+    "tax": 4800.0,
+    "tip": 0.0,
+    "total": 52800.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Arem Arem",
+      "quantity": 4,
+      "unit_price": 12000.0,
+      "total_price": 48000.0,
+      "category": "Snack",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 1200.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000444.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Arem Arem\n4x 12.000 48.000\nSubtotal 48.000\nTax (10.0%) 4.800\nTotal 52.800\nCash 54.000\nChange 1.200"
+  }
+}

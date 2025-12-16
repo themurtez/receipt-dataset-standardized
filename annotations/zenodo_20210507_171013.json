@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "ZHANG HUANZHEN",
+    "address": "RUA SANTA MARTA N.43-A\n1150-293 LISBOA",
+    "phone": "966689798",
+    "tax_id": "229460720",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-10-10",
+    "time": "13:21:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 21.5,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 21.5,
+    "accounting_category": "Electrical Products",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Produto Electricos",
+      "quantity": 1,
+      "unit_price": 21.5,
+      "total_price": 21.5,
+      "category": "Electrical Products",
+      "accounting_category": "Electrical Products",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_171013.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ZHANG HUANZHEN\nZHANG HUANZHEN\nContribuinte Nr: 229460720\nRUA SANTA MARTA N.43-A\n1150-293 LISBOA\nTel: 966689798\n2019-10-10 13:21\nNome : FLIKE HOME\nCont.Nr: 510776914\nMorada :\nORIGINAL\nFatura Nr: FAC 202/00021708\nIVA Descrição\n0% Produto Electricos 21.50\nTotal A Pagar Euros: 21.50\nNumero De Artigos : 1\nRecebido (Euros) : 21.50\nTroco (Euros) : 0.00\nIVA-NAO CONFER. DIREITO A DEDUCAO\nTotal: 21.50Euros\nFatura indispensavel para troca em 8 dias.\nfGeq - Processado por Programa\nCertificado Nr: 1174/AT\nOBRIGADO E VOLTE SEMPRE"
+  }
+}

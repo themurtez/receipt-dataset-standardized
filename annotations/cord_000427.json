@@ -1,0 +1,190 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 629000.0,
+    "tax": 66045.0,
+    "tip": 0.0,
+    "total": 726495.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Pangsit Delima",
+      "quantity": 1,
+      "unit_price": 27000.0,
+      "total_price": 27000.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Lumpia Udg K Th",
+      "quantity": 1,
+      "unit_price": 30000.0,
+      "total_price": 30000.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Ha Kaoo Udng",
+      "quantity": 1,
+      "unit_price": 28000.0,
+      "total_price": 28000.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Cheong Fen Udg",
+      "quantity": 1,
+      "unit_price": 35000.0,
+      "total_price": 35000.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Hatosi Ramoutan",
+      "quantity": 2,
+      "unit_price": 60000.0,
+      "total_price": 120000.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Sio May Kpting",
+      "quantity": 1,
+      "unit_price": 23500.0,
+      "total_price": 23500.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Kwo Tie Jala2",
+      "quantity": 1,
+      "unit_price": 27500.0,
+      "total_price": 27500.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Pancake Durian",
+      "quantity": 1,
+      "unit_price": 32000.0,
+      "total_price": 32000.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Mie Gr Udg Gala",
+      "quantity": 1,
+      "unit_price": 65000.0,
+      "total_price": 65000.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Lamien Udang T",
+      "quantity": 1,
+      "unit_price": 46000.0,
+      "total_price": 46000.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Lamien Aym Ktsu",
+      "quantity": 1,
+      "unit_price": 46000.0,
+      "total_price": 46000.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Ns Ppng Kj Sp",
+      "quantity": 1,
+      "unit_price": 23000.0,
+      "total_price": 23000.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Kwt Polos Hdn",
+      "quantity": 1,
+      "unit_price": 35000.0,
+      "total_price": 35000.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "N Aym Hainam Jl",
+      "quantity": 1,
+      "unit_price": 39000.0,
+      "total_price": 39000.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Chinese Tea",
+      "quantity": 1,
+      "unit_price": 35000.0,
+      "total_price": 35000.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Ice Lemon Tea",
+      "quantity": 1,
+      "unit_price": 16000.0,
+      "total_price": 16000.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Mineral Water",
+      "quantity": 2,
+      "unit_price": 18000.0,
+      "total_price": 36000.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 17,
+    "rounding": 0.0,
+    "change_due": 5.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000427.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1Prs Pangsit Delima 27,000\n1Prs Lumpia Udg K Th 30,000\n1Prs Ha Kaoo Udng 28,000\n1Prs Cheong Fen Udg 35,000\n2Prs Hatosi Ramoutan 60,000\n1Prs Sio May Kpting 23,500\n1Prs Kwo Tie Jala2 27,500\n1Prs Pancake Durian 32,000\n1Prs Mie Gr Udg Gala 65,000\n1Prs Lamien Udang T 46,000\n1Prs Lamien Aym Ktsu 46,000\n1Prs Ns Ppng Kj Sp 23,000\n1Prs Kwt Polos Hdn 35,000\n1Prs N Aym Hainam Jl 39,000\n1Pot Chinese Tea 35,000\n1Gls Ice Lemon Tea 16,000\n2Btl Mineral Water 18,000\nSubtotal 629,000\nService Charge 31,450\nPb 1 66,045\nTotal 726,495\nBalance 726,500\nTotal Item 17\nTotal Qty 19"
+  }
+}

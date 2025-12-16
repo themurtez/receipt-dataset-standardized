@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "C W KHOO HARDWARE SDN BHD",
+    "address": "NO.50, JALAN PBS 14/11, KAWASAN PERINDUSTRIAN BUKIT SERDANG",
+    "phone": "03-89410243",
+    "tax_id": "000549584896",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-26",
+    "time": "12:16:15",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 80.0,
+    "tax": 4.8,
+    "tip": 0.0,
+    "total": 84.8,
+    "accounting_category": "Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "50MM X 3PCS 'TAKKA' K.A PADLOCK",
+      "quantity": 1,
+      "unit_price": 80.0,
+      "total_price": 80.0,
+      "category": "Hardware",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006349081.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "(481500-M)\nC W KHOO HARDWARE SDN BHD\nNO.50, JALAN PBS 14/11,\nKAWASAN PERINDUSTRIAN BUKIT SERDANG,\nTel: 03-89410243 Fax : 03-89410243\nGST Reg No.: 000549584896\nTax Invoice\nInvoice No. : CR 1804/1627\nDate : 26/04/2018 12:16:15 PM\nCashier No. : tee\nCounter No. : c2\nPrinted Date : 26/04/2018 12:14:49 PM\nItem Name Qty Unit Price Amount\n50MM X 3PCS 'TAKKA' K.A PADLOCK @ SET\n1 80.00 80.00 SR\n1 Item(s) Total (MYR) : 80.00\nGST @ 6% : 4.80\nNet Total (MYR) : 84.80\nRounding Adj. : 0.00\nNet Total Rounded (MYR) : 84.80\nCash : 84.80\nChange : 0.00\nGST Summary Item Amount (MYR) JST (MYR)\nSR @ 6% 1 80.00 4.80\nThank You. Please Come Again !"
+  }
+}

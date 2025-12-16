@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y.(KUCHAI) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000473792512",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-16",
+    "time": "13:49:00",
+    "currency": "MYR",
+    "payment_method": "MASTERCARD",
+    "subtotal": 50.28,
+    "tax": 3.02,
+    "tip": 0.0,
+    "total": 53.3,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Epoxy Putty+ (2 x 50gm)",
+      "quantity": 1,
+      "unit_price": 8.5,
+      "total_price": 8.5,
+      "category": "Hardware",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Paper Clip 8pcs No4",
+      "quantity": 1,
+      "unit_price": 2.7,
+      "total_price": 2.7,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Hook HY-0021",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Hardware",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Door Guard EC008",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Hardware",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Multi Fan Blade 16'",
+      "quantity": 3,
+      "unit_price": 4.5,
+      "total_price": 13.5,
+      "category": "Home Accessories",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Key Holder (Grid)",
+      "quantity": 1,
+      "unit_price": 6.3,
+      "total_price": 6.3,
+      "category": "Home Accessories",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Door Guard Foot AW-D48",
+      "quantity": 1,
+      "unit_price": 7.5,
+      "total_price": 7.5,
+      "category": "Hardware",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Unnamed Item 9002107",
+      "quantity": 2,
+      "unit_price": 4.9,
+      "total_price": 9.8,
+      "category": "Uncategorized",
+      "accounting_category": "Uncategorized",
+      "category_confidence": 0.5
+    }
+  ],
+  "summary": {
+    "total_items": 11,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005719914.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. D.I.Y.(KUCHAI) SDN BHD\n(CO Reg : 750441-W)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No:000473792512)\n(TESCO MENJALARA KEPONG,HQ)\n- TAX INVOICE -\n--------------------------------------\nEPOXY PUTTY+ (2 X 50GM) *S\nWA17 12/144\n9555075106825 1 X 8.50 8.50\nCORD TIE 3PCS *S\nAF12 - 10/1000\n9067170 1 X 2.70 2.70\nPAPER CLIP 8PCS NO4 *S\nMI11/3-21 - 12/480\n9082115 1 X 2.50 2.50\nHOOK HY-0021 *S\nDC11/2 - 20/160\n6946759900212 1 X 2.50 2.50\nDOOR GUARD EC008 *S\nTJ12 - 10/100\n9002148 3 X 4.50 13.50\nMULTI FAN BLADE 16’ FB1688 *S\nWA50 - 30\n9750009 1 X 6.30 6.30\nKEY HOLDER (GRID)#*VS *S\nO100 - 12/480\n9045734 1 X 7.50 7.50\nDOOR GUARD FOOT AW-D48 *S\nTD33 - 5/200\n9002107 2 X 4.90 9.80\nItem(s) : 8 Qty(s) : 11\n--------------------------------------\nTotal Incl. GST@6% RM 53.30\nEDC\n************7186 (MASTER)\nCHIEW YON LOY/\nGST Summary Amt(RM) Tax(RM)\nGST S@6% 50.28 3.02\n--------------------------------------\n16-03-18 13:49 SHO1 BO26 T2 R000178141\nOPERATOR THQT - NOOR FATIN NAJIBAH\nEXCHANGE ARE ALLOWED WITHIN\n7 DAYS WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "BRICO LAGOS",
+    "address": "RUA DO BAIRRO DA ABROTEA, 8600-710 LAGOS",
+    "phone": "282.247.320",
+    "tax_id": "NIF.507821149",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-06-06",
+    "time": "14:08:00",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO MANUA",
+    "subtotal": 8.12,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 9.99,
+    "accounting_category": "Home Improvement",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CHUVEIRO 3J CR. TR AL",
+      "quantity": 1,
+      "unit_price": 8.12,
+      "total_price": 9.99,
+      "category": "Home Improvement",
+      "accounting_category": "Fixtures",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_165310.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BRICO LAGOS\nRUA DO BAIRRO DA ABROTEA\n8600-710 LAGOS\nNIF.507821149 - CAP. SOC 200.000 EUROS\nTEL: 282.247.320\n\nFATURA FT OEO6011219/4248\nreferencia:91570112912 ORIGINAL\n(Preços em Euros)\nIdentificação cliente\nNIF . PT 514407395\nNOME : FLIKEHOME ALGARVE\nMORADA :99\nVIATURA :99\nC.POSTAL :\nLOCAL DE DESCARGA :\nDia 2019/06/06 A 14:08\n\nArtigo P.Unitario P.Total\nQDADE sem I.VA sem I.VA\nCHUVEIRO 3J CR. TRAL 03050391A059990\n\nTOTAL S/IVA 8,12 8,12\nTOTAL C/IVA 9,99\nMULTIBANCO MANUA 9,99\nCod. Taxa IVA 1\nTaxas: S/IVA C/IVA\nB. 23,00 1,87 8,12 9,99\nTotais: 1,87 9,99\nO CARTAO POUPANÇA DE VANTAGENS\nTODOS OS DIAS.\nSOLICITE-O ! E GRATIS !\n\nOBRIGADO\nVOLTE SEMPRE\nTALÃO OBRIGATORIO PARA TROCA E DEVOLUÇÃO\nNO PRAZO DE 15 DIAS\nPROCESSADO POR COMPUTADOR\nHORÁRIO 8H30-20H30\n\nZFZ6 - Processado por programa\nCertificado no:1359/AT TRS:0159\nLoja:08182 CAIXA:0001 OP:1017\nData de compra 2019-06-06 A 14:08\nBens entregues nesta data e hora\n\nao adquirente,\ne carregados na própria loja"
+  }
+}

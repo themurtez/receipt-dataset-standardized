@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Chili's",
+    "address": "Chili's Grill & Bar KLCC",
+    "phone": "03-2164 1400",
+    "tax_id": "001042104320",
+    "website": "www.go-chilis.com"
+  },
+  "transaction": {
+    "date": "2017-12-30",
+    "time": "18:40:57",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 87.8,
+    "tax": 5.81,
+    "tip": 8.78,
+    "total": 102.4,
+    "accounting_category": "Dining",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Pineapple Juice",
+      "quantity": 1,
+      "unit_price": 12.95,
+      "total_price": 12.95,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Tostada Chips",
+      "quantity": 1,
+      "unit_price": 16.95,
+      "total_price": 16.95,
+      "category": "Appetizer",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "CHP_BWL CK",
+      "quantity": 1,
+      "unit_price": 29.95,
+      "total_price": 29.95,
+      "category": "Main Course",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "MARG CK",
+      "quantity": 1,
+      "unit_price": 27.95,
+      "total_price": 27.95,
+      "category": "Main Course",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.01,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005663280.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "31812012\nChili’s\nChili’s Grill & Bar KLCC\nT.A.S Leisure Sdn Bhd (256864-P)\nTel: 03-2164 1400\nGST ID: 001042104320\nTax Receipt\nGST ID: 001042104320\n\n4 CHILIS3 23\nChk 1080323\n30 Dec 17 18:40:57\nTBL64 / 1 30/12/17\n\n--- EAT IN ---\n\n1 PINEAPPLE JUICE 12.95\n1 TOSTADA CHIPS 16.95\n1 CHP_BWL CK 29.95\n1 MARG CK 27.95\n\nSubtotal 87.80\n10% Srv Chg 8.78\nGST @6% 5.81\nTotal: 102.39\n0.01\n\nTotal 102.40\n\nYOUR OPINION MATTERS\n\nWe invite you to complete our\nGUEST EXPERIENCE SURVEY\nYOU COULD WIN RM500 CASH OR\nCHILI’S VOUCHER FOR RM1,000\nA WINNER EVERY MONTH\nVisit www.go-chilis.com\nYOUR SURVEY CODE: 5013\nPls enter within the next 4 days\nMust be 18 or above. Void where\nprohibited. See web for complete\nrules and sweepstakes details.\n\nAmount(RM) GST(RM)\nS-GST @6%:96.58 5.81\nZ-GST @0%:0.00 0.00\n"
+  }
+}

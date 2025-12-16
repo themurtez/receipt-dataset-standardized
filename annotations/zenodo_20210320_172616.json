@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "IKEA",
+    "address": "Avenida Da Liberdade 36, Lisboa, 1250-000, Portugal",
+    "phone": "",
+    "tax_id": "505461654",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-30",
+    "time": "18:26:00",
+    "currency": "EUR",
+    "payment_method": "VISA Electron",
+    "subtotal": 99.5,
+    "tax": 18.71,
+    "tip": 0.0,
+    "total": 99.5,
+    "accounting_category": "Home Improvement",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "FALREN (2 Bowls 10cm x 7cm)",
+      "quantity": 1,
+      "unit_price": 7.0,
+      "total_price": 7.0,
+      "category": "Home Goods",
+      "accounting_category": "Home Improvement",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "FRAKTA Bag 71L Blue",
+      "quantity": 2,
+      "unit_price": 0.9,
+      "total_price": 1.8,
+      "category": "Home Goods",
+      "accounting_category": "Home Improvement",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 25,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210320_172616.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Obrigado por Visitar a IKEA Loule! \n"
+  }
+}

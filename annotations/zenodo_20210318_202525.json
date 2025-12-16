@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Ricardo Peixe Frutaria, Lda.",
+    "address": "Largo Calhariz 1, 1200-086 Lisboa, Cons Reg Comercial Mafra N. 50968412",
+    "phone": "213 474 967",
+    "tax_id": "509 658 126",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-01-02",
+    "time": "08:44:00",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 8.92,
+    "tax": 0.54,
+    "tip": 0.0,
+    "total": 9.46,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Laranja Mesa",
+      "quantity": 1,
+      "unit_price": 0.98,
+      "total_price": 4.82,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Laranja Mesa",
+      "quantity": 1,
+      "unit_price": 0.98,
+      "total_price": 4.64,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_202525.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROSFRUTOS NO CARMO\nRICARDO PEIXE FRUTARIA, LDA.\nCONTRIB. 509 658 126 TEL. 213 474 967\nLARGO CALHARIZ, 1 1200-086 LISBOA\nCONS REG. COMERCIAL MAFRA N. 50968412\nNIF 5203.0030.3555.001:30\nFATURA SIMPLIFICADA\nORIGINAL PST: 3\nDATA: 2019/01/02 8:44 N A/573847\nCliente: FLIKEHOME\nMorade: \nCont N: 510776914\nArtigo Qtd Preço € Valor €\nLARANJA MESA 4,920 Kg x 0,98 4,82\nLARANJA MESA 4,730 Kg x 0,98 4,64\nTOTAL 9,46\nNumerário 9,46\nTroco 0,00\nIVA Incluido à taxa indicada\nTaxa/ Sujeito IVA Total\n6,00 8,92 0,54 9,46\nXPP-Processado por programa certificado\nN 88/AT - 1 A/573847\nor: OPERADOR 3"
+  }
+}

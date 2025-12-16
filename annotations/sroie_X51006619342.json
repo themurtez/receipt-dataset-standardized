@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (KUCHAI) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000473792512",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-04-17",
+    "time": "14:02:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 3.3,
+    "tax": 0.19,
+    "tip": 0.0,
+    "total": 3.3,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SPONGE DISHES 6103W",
+      "quantity": 1,
+      "unit_price": 3.3,
+      "total_price": 3.3,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619342.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. D.I.Y. (KUCHAI) SDN BHD\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000473792512)\n(SG WANG)\n\nSPONGE DISHES 6103W *S\nUH14-21-32 - 12/120\n9068739 1 X 3.30 3.30\n\nItem(s) : 1 Qty(s) : 1\n\nTotal Incl. GST06% RM 3.30\nCASH RM 3.30\n\nGST @6% included in total RM 0.19\n---------------------------------------\n17-04-16 14:02 SH01 B019 T3 RO00034325\nOPERATOR CHC - JIVAN\n\nEXCHANGE ARE ALLOWED WITHIN\n3 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

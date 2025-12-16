@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 43000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 43000.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Gado Gado",
+      "quantity": 1,
+      "unit_price": 36000.0,
+      "total_price": 36000.0,
+      "category": "Main Course",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Nasi Putih GG",
+      "quantity": 1,
+      "unit_price": 7000.0,
+      "total_price": 7000.0,
+      "category": "Side Dish",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000512.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Gado Gado 36,000\n1 Nasi Putih GG 7,000\nSUBTOTAL 43,000\nTOTAL 43,000\nCASH 43,000"
+  }
+}

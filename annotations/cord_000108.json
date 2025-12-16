@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "VND",
+    "payment_method": "DEBIT",
+    "subtotal": 30000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 30000.0,
+    "accounting_category": "Beverages",
+    "category_confidence": 0.85
+  },
+  "items": [
+    {
+      "name": "M-Ice Cream Milk Tea",
+      "quantity": 1,
+      "unit_price": 30000.0,
+      "total_price": 30000.0,
+      "category": "Beverage",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000108.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1x M-Ice Cream Milk Te @30,000 30,000\nFr Konjac\n70%\nLess Ice\n\nPB1: 0\nSubtotal: 30,000\nTotal: 30,000\nDEBIT: 30,000\nCHANGE: 0"
+  }
+}

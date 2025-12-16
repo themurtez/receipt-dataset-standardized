@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Card Payment",
+    "subtotal": 52727.0,
+    "tax": 5273.0,
+    "tip": 0.0,
+    "total": 58000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "[RICHE] WHITE SKIMM",
+      "quantity": 1,
+      "unit_price": 52727.0,
+      "total_price": 52727.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PEACH",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Fruit",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "LYCHEE",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Fruit",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "LONGAN",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Fruit",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "ROASTED ALMOND",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Nuts",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "YELLOW VELVET",
+      "quantity": 2,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Dessert",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000185.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 [RICHE] WHITE SKIMM 52,727\n1 PEACH 0\n1 LYCHEE 0\n1 LONGAN 0\n1 ROASTED ALMOND 0\n1 YELLOW VELVET 0\n1 YELLOW VELVET 0\n\nSub Total 52,727\nPB1 (10%) 5,273\nTotal 58,000\n\nCard Payment 58,000"
+  }
+}

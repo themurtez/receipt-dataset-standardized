@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "GALPESTE S.A.",
+    "address": "RUA TOMÁS DA FONSECA, TORRE C, 2º, 1600-209 LISBOA",
+    "phone": "707 504 257",
+    "tax_id": "PT503043745",
+    "website": "galp.com"
+  },
+  "transaction": {
+    "date": "2019-06-08",
+    "time": "20:24:13",
+    "currency": "EUR",
+    "payment_method": "CARTÃO DÉBITO",
+    "subtotal": 75.0,
+    "tax": 14.02,
+    "tip": 0.0,
+    "total": 75.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "GASOLEO SIMPLES",
+      "quantity": 1,
+      "unit_price": 1.459,
+      "total_price": 75.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_164802.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "galp\nPRE-PAGAMENTO\nA.S. LOULÉ (FARO/LOULÉ) 11503\nGALPESTE S.A.\nRUA TOMÁS DA FONSECA, TORRE C, 2º\n1600-209 LISBOA Tel: 961232239\nNIF: PT503043745\n------ Fatura/Recibo ------\nQuantidade     Preco Unitário     Preço\n51.41 L     Bomba 01\nGASOLEO SIMPLES 76\n1.459 EUR / L 11849 EUR 75.00\n23.00 % IVA     A              EUR 14.02\nCliente: 1532\nNome: Flikehome Algarve Lda\nMorada:\nCodigo Postal:\nLocalidade:\nNº Contribuinte: 514407395\nMatricula: 59-IV-86\nOperador: 11858846 Bruno Carvalho\nTotal     EUR 75.00\nCARTÃO DÉBITO\nEUR 75.00\nTerminal Pagamento Automático: 00669865\nData: 2019-06-08     Hora: 20:24:13\nPeríodo: 070 Transação: 026 Mensagem: 337\nMILLENNIUM BCP\nAMARAL SALVADOR\nCARTA: ******2010\nA000000032010   .***1008/12\n08-06-19 20:23 61279 01 0018 116\nRegime IVA de Caixa nos casos em que tal\nseja aplicável ou cliente\nclientes@galp.com/ Tel 707 504 257\nA sua opiniao e importante!\nPartilhe-a connosco em\nopinao.galp.com/postos\nProcessado por SIBS\n9 9016127964008040000180000075.00"
+  }
+}

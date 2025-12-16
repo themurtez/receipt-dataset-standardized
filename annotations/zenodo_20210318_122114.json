@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Sulaman Minimerado",
+    "address": "Rua das Pretas, 21\n1150-270 Lisboa",
+    "phone": "920076129",
+    "tax_id": "513889949",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-04",
+    "time": "13:17:00",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 16.24,
+    "tax": 3.74,
+    "tip": 0.0,
+    "total": 19.98,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "#002",
+      "quantity": 2,
+      "unit_price": 9.99,
+      "total_price": 19.98,
+      "category": "Product",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_122114.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SULAMAN MINIMERCADO\nTEMPEROS DA SEMANA UNIPESSOAL, LDA.\nCONTRIB.513889949 TEL.920076129\nRUA DAS PRETAS,21\n1150-270 LISBOA\n\nFATURA SIMPLIFICADA\nORIGINAL Nº A/26752\nDATA 2019/02/04 - 13:17\n\nCliente: FLIKEHOME\nMorada: LISBOA\nCont.Nº: 510776914\n\nArtigo Qtd   Preço €     Valor €\nExtensao 23%\n#002       2 Un x  9,99    = 19,98\n\nTOTAL ........................... 19,98\nNumerário................... 19,98\nTroco.............................  0,00\n\nIVA Incluído à taxa indicada\nTaxa%     Sujeito     IVA     Total\n23,00       16,24       3,74       19,98\n\nProcessado por programa certiﬁcado\nNº 88/AT - 1 A/26752\n\nOpr: SULAMAN\n\nOBRIGADO - VOLTE SEMPRE"
+  }
+}

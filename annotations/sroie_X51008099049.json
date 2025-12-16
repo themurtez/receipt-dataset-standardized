@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "PappaRich BMC",
+    "address": "NO.19 & 21, JALAN TEMENGGUNG 23/9, BANDAR MAHKOTA CHERAS, 43200 SELANGOR DARUL EHSAN, MALAYSIA",
+    "phone": "",
+    "tax_id": "000164270080",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-15",
+    "time": "08:34:31",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 15.67,
+    "tax": 1.55,
+    "tip": 0.0,
+    "total": 17.2,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "B02 HALF BL EGG E",
+      "quantity": 1,
+      "unit_price": 4.53,
+      "total_price": 4.53,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "B03 HNN TST+b+k E",
+      "quantity": 1,
+      "unit_price": 5.57,
+      "total_price": 5.57,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "D19 CHAM (I) E",
+      "quantity": 1,
+      "unit_price": 5.57,
+      "total_price": 5.57,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": -0.02,
+    "change_due": 2.8
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008099049.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PappaRich BMC\nNO.19 & 21\nJALAN TEMENGGUNG 23/9\nBANDAR MAHKOTA CHERAS\n43200 SELANGOR DARUL EHSAN, MALAYSIA\nTAX INVOICE\nGST ID: 000164270080\n2 COUNTER1 2003 saiful\nChk 274898 Guest1\n15 Jun 18 08:34:31 PM\nTBL35 / 1\n1 B02 HALF BL EGG E 4.53 S\n1 B03 HNN TST+b+k E 5.57 S\n1 D19 CHAM (I) E 5.57 S\nCASH 20.00\nSubtotal 15.67\n10% Srv Chg 1.55\nTotal: 17.22\nRND ADJ 0.02-\nTTL ATF RND 17.20\nPayment 20.00\nChange Due 2.80\n-----2003 CLOSED 15 Jun 18 09:08:37 PM-----\nTHANK YOU! PLEASE COME AGAIN!\nGST AT 0%\nGSTSummary Amount(RM) GST(RM)\nS=GST @0%: 17.20 0.00\nZ=GST @0%: 0.00 0.00"
+  }
+}

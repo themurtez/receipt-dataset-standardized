@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "GALP",
+    "address": "EST. MONTECHORO 103M, MOSQUEIRA, 8200-393, ALBUFEIRA",
+    "phone": "707 504 505",
+    "tax_id": "PT506066995",
+    "website": "opiniaogalp.com/postos"
+  },
+  "transaction": {
+    "date": "2019-06-20",
+    "time": "11:36:00",
+    "currency": "EUR",
+    "payment_method": "CARTAO DEBITO",
+    "subtotal": 40.65,
+    "tax": 7.48,
+    "tip": 0.0,
+    "total": 40.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GASOLEO SIMPLES",
+      "quantity": 29.413,
+      "unit_price": 1.359,
+      "total_price": 40.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_161023.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "...full text of receipt..."
+  }
+}

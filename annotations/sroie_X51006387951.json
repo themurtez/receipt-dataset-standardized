@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Amano Malaysia Sdn Bhd",
+    "address": "12 Jalan Pengacara U1/48, Temasya Industrial Park, 40150 Shah Alam, Selangor",
+    "phone": "03-55695002/5003",
+    "tax_id": "001137704960",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-04-30",
+    "time": "23:14:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 2.83,
+    "tax": 0.17,
+    "tip": 0.0,
+    "total": 3.0,
+    "accounting_category": "Parking",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Parking Fee",
+      "quantity": 1,
+      "unit_price": 2.83,
+      "total_price": 2.83,
+      "category": "Parking",
+      "accounting_category": "Parking",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006387951.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AMANO MALAYSIA SDN BHD (682288-V)\n12 JALAN PENGACARA U1/48\nTEMASYA INDUSTRIAL PARK\n40150 SHAH ALAM SELANGOR\nTEL: 03-55695002/5003\n(GST ID: 001137704960)\n\nTAX INVOICE\n\nP/S #02 A INV-No.0002300417000138\nT/O #11 Ticket No.029190\nEntry Time 30/04/2017 (Sun) 19:44\nPaid Time 30/04/2017 (Sun) 23:14\nParking Time 3:30\nType Rate A RM3.00\n\nParking Fee RM2.83\nGST (Included) 6.00% RM0.17\n\nTotal RM3.00\nPaid RM3.00\nChange RM0.00\n\nThank You\nInclusive 6% GST"
+  }
+}

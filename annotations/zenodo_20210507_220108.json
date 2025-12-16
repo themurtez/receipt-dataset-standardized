@@ -1,0 +1,127 @@
+{
+  "merchant": {
+    "name": "TABERNA AÇOR",
+    "address": "RUA DOS MERCADORES 41, 9500-092 PONTA DELGADA",
+    "phone": "",
+    "tax_id": "510776914",
+    "website": "TABERNAACOR@GMAIL.COM"
+  },
+  "transaction": {
+    "date": "2017-11-09",
+    "time": "21:36:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 44.95,
+    "tax": 4.34,
+    "tip": 0.0,
+    "total": 44.95,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "SOPA DO DIA",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "AZEITONAS NORMAL",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Food",
+      "accounting_category": "Appetizers",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "PÃO/ALHO",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Food",
+      "accounting_category": "Appetizers",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "SALADAS FRIAS",
+      "quantity": 1,
+      "unit_price": 4.5,
+      "total_price": 4.5,
+      "category": "Food",
+      "accounting_category": "Salads",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "TABUA ENCHIDOS",
+      "quantity": 1,
+      "unit_price": 17.5,
+      "total_price": 17.5,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "SUMOS",
+      "quantity": 3,
+      "unit_price": 1.2,
+      "total_price": 3.6,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "FINO ESPECIAL",
+      "quantity": 2,
+      "unit_price": 3.0,
+      "total_price": 6.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "CERVEJA PRETA",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "SOBREMESA NORMAL",
+      "quantity": 2,
+      "unit_price": 3.0,
+      "total_price": 6.0,
+      "category": "Food",
+      "accounting_category": "Desserts",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "CAFÉ",
+      "quantity": 3,
+      "unit_price": 0.65,
+      "total_price": 1.95,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 10,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_220108.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TABERNA AÇOR\nPEDRO MIGUEL MARTINS RAPOSO\nCONTIBUINTE N°229763194\nRUA DOS MERCADORES 41\n9500-092 PONTA DELGADA\nTABERNAACOR@GMAIL.COM\n2106209064\nFATURA SIMPLIFICADA\nORIGINAL\nDATA 2017/11/09 - 21:36 No A/54681\nCl: FLH\nMono: 510776914\nArtigo Mesa N° 24\nOtd Preço C\nSOPA DO DIA 1 Un x 1,50 = 1,50\nAZEITONAS NORMAL 1 Un x 2,00 = 2,00\nPÃO/ALHO C/O 1 Un x 2,50 = 2,50\nSALADAS FRIAS 1 Un x 4,50 = 4,50\nTABUA ENCHIDOS 1 Un x 17,50 = 17,50\nSUMOS 3 Un x 1,20 = 3,60\nFINO ESPECIAL 2 Un x 3,00 = 6,00\nCERVEJA PRETA 1 Un x 3.00 = 3,00\nSOBREMESA NORMAL 2 Un x 3.00 = 6,00\nCAFÉ 3 Un x 0.65 = 1,95\n#018\n44,95\nSOM STAR/TROCO\n44,95\n0.00\nIVA Incluido à taxa indicada\nTaxa Sujeito IVA Total\n18.00 7,63 1,37 9,00\n9,00 32,98 2,97 35,95\nsSOE-Processado por programa certificado\nN° 88/AT - 1 A/54631\nOpr: PEDRO RAPOSO\nOBRIGADO - VOLTE SEMPRE"
+  }
+}

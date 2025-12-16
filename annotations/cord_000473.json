@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 29000.0,
+    "tax": 2900.0,
+    "tip": 0.0,
+    "total": 31900.0,
+    "accounting_category": "Food & Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "DORI SAMBAL MATAH 1+1",
+      "quantity": 1,
+      "unit_price": 29000.0,
+      "total_price": 29000.0,
+      "category": "Food & Dining",
+      "accounting_category": "Food & Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000473.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "271004 DORI SAMBAL MATAH 1+1\n1 x 29000 29,000\nNETTO........................29,000\nPB1 (10%)................2,900\nTOTAL BAYAR...........31,900"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "MINGFAN ZHENG",
+    "address": "RUA DOS FANQUEIROS 46, 1100-231 LISBOA",
+    "phone": "927003791",
+    "tax_id": "246018160",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-10-07",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 16.22,
+    "tax": 3.73,
+    "tip": 0.0,
+    "total": 19.95,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Artigos de Usodlario",
+      "quantity": 5,
+      "unit_price": 3.99,
+      "total_price": 19.95,
+      "category": "Goods",
+      "accounting_category": "Retail",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_172022.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MINGFAN ZHENG\nContribuinte Nr: 246018160\nRUA DOS FANQUEIROS 46\n1100-231 LISBOA\nTel: 927003791\n2019-10-07\nNome: FlikeHome\nCont. Nr: 510776914\nMorada\n\nORIGINAL\nFatura Nr: FAC 201/00002265\n\nIVA Descrição\n\n23% Artigos de Usodlario\n5 X 3.99 19.95\n\nTotal A Pagar (Euros): 19.95\nNúmero De Artigos: 5\n\nRecebido (Euros): 19.95\nTroco (Euros): 0.00\n\nIVAX Base IVA Total\n23% 16.22 3.73 19.95\n\nTotal: 19.95Euros\n\nFactura indispensavel para troca.\n1T9i - Processado por Programa\nCertificado Nr: 1174/AT\n\nOBRIGADO E VOLTE SEMPRE"
+  }
+}

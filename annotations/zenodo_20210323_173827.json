@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "BP - PORCHES (S) - PETROMIX, LDA",
+    "address": "E.N.125 Km 55.9, 8400-489 Porches-Sul",
+    "phone": "[282381119]",
+    "tax_id": "513615598",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-07",
+    "time": "15:52:20",
+    "currency": "EUR",
+    "payment_method": "Prepaid",
+    "subtotal": 41.2,
+    "tax": 8.54,
+    "tip": 0.0,
+    "total": 50.0,
+    "accounting_category": "Fuel and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GASOLEO BOMBA NR: 4",
+      "quantity": 27.61,
+      "unit_price": 1.449,
+      "total_price": 40.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "AGUA LUSO SPORT 75CL",
+      "quantity": 1,
+      "unit_price": 1.2,
+      "total_price": 1.2,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 8.8
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_173827.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "bp\nBP - PORCHES (S) - PETROMIX, LDA\nE.N.125 Km 55.9 8400-489 Porches-Sul\nMatricula/NIPC: 513615598 Tel:[282381119]\nCapital Social: 5.000 EUR\nPOS: 1 Ref:5304 Op:Joao Rosado\nData de emissão: 2019-05-07 15:52:20\n************ PRÉ PAGO ****************** 40,00 EUR 4\nGASOLEO BOMBA NR: 4\n27,61 1 x 1,449 EUR/1\n*************************************\nAGUA LUSO SPORT 75CL 1,20 EUR 3\nTOTAL 41,20 EUR\nNUMERÁRIO 50,00 EUR 8,80 EUR\nTROCO\nIVA X IVA + LIQ = ILIQ\nIVA 3 13,00 0,14 1,06 1,20\nIVA 4 23,00 7,48 32,52 40,00\nRegime part. tabaco. DL346/85\nFatura FT 268031001/001152\nQ53e-Processado por Programa Certificado\nno. 0177/AT\nNIF: PT514407395\nNome\nFLIKEHOME GO LDA\nMorada.\nRUA JOÃO ANASTACIO ROSA N 4 - 1 DT\n1200-693 LISBOA\nMatricula\n54-CC-40"
+  }
+}

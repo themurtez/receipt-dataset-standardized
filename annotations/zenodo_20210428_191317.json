@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "CRC Torres Vedras",
+    "address": "2564-912 Torres Vedras",
+    "phone": "261318500",
+    "tax_id": "504290592",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-03",
+    "time": "12:11:23",
+    "currency": "EUR",
+    "payment_method": "Cartão Bancário",
+    "subtotal": 4.85,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 4.85,
+    "accounting_category": "Transportation",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Bem Lido-Transito",
+      "quantity": 1,
+      "unit_price": 4.85,
+      "total_price": 4.85,
+      "category": "Transportation",
+      "accounting_category": "Transportation",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_191317.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "2564-912 TORRES VEDRAS\nTelefone: 261318500 Fax: 261318582\nNIF: 504290592 - Matrc. CRC Torres Vedras: 3830\nCapital Social: 55.000.000 €\n\nFACTURA SIMPLIFICADA\n\nRecibo: FS 08191081902/0007149 Original\nData e Hora: 2019-03-03 12:11:23\nSaída: 0819 - Bombarral\nVia: 108\n\nEntrada: 0811 - Loures\nTítulo: Bem lido-transito-\nModo de Pagamento: Cartão Bancário\nClasse: 1 Taxa: 4,85 €\n\nPAGAMENTO AUTOMATICO num: 6299\nNOVO BANCO\nLocal de pagamento: A08-19\n\nIVA incluído à taxa normal\n\nG43g-Processado por programa certificado n.2011/AT\n\nObrigado e Boa Viagem!"
+  }
+}

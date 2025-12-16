@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Uncle Julio's",
+    "address": "8030 Renaissance Parkway, Durham, NC 27713",
+    "phone": "(984) 329-2900",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-18",
+    "time": "12:25:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 43.47,
+    "tax": 3.26,
+    "tip": 0.0,
+    "total": 46.73,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Taco Salad",
+      "quantity": 1,
+      "unit_price": 15.49,
+      "total_price": 15.49,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Ground Beef",
+      "quantity": 1,
+      "unit_price": 8.99,
+      "total_price": 8.99,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Add Chicken Fajita",
+      "quantity": 1,
+      "unit_price": null,
+      "total_price": null,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Pechuga de Pollo",
+      "quantity": 1,
+      "unit_price": 18.99,
+      "total_price": 18.99,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1033-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "8030 Renaissance Parkway\nDurham, NC 27713\n(984) 329-2900\n\nServer: ANASTASHIA 05/18/2019\nTable 57/1 12:25 PM\nGuests: 2 80001\n\nTaco Salad 15.49\n   Ground Beef 8.99\n   Add Chicken Fajita\nPechuga de Pollo 18.99\n\nSubtotal 43.47\nTax 3.26\nTotal 46.73\n\nBalance Due 46.73\n\nAsk your Server about the\nUncle Julio's Loyalty Program\nFree to join and tons of rewards to earn!"
+  }
+}

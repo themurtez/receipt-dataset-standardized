@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "MINIPRECO",
+    "address": "LG DO CALHARIZ 10, 1200-086 LISBOA",
+    "phone": "",
+    "tax_id": "503003808",
+    "website": "www.minipreco.pt"
+  },
+  "transaction": {
+    "date": "2019-09-04",
+    "time": "08:58:49",
+    "currency": "EUR",
+    "payment_method": "VISA ELECTRON",
+    "subtotal": 1.98,
+    "tax": 0.12,
+    "tip": 0.0,
+    "total": 2.1,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Pao Marca Natural",
+      "quantity": 1,
+      "unit_price": 2.1,
+      "total_price": 2.1,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_190814.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MINIPRECO\nLG DO CALHARIZ 10\n1200-086 LISBOA\nNumero Fiscal de Contribuinte: 503003808\nTerminal Pagamento Automatico\nData: 2019-09-04 Hora: 08:58:49\nPst: 006 Tra: 032 Proc: 016 Mensagem: 412\nNd\nCOMPR. CHIP OT/CT\nVISA ELECTRON\nCartão: 5303008302/3620961\nConta/Autorizacao\nM BCP\nEUR: 2.10\nVISA ELECTRON\nTOTAL 2.10"
+  }
+}

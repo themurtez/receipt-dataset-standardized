@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "MAX",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 38.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 38.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Caramel Small",
+      "quantity": 1,
+      "unit_price": 38.0,
+      "total_price": 38.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 62.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000434.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Caramel Small 38.000\nTOTAL 38.000\nCASH 100.000\nCHANGED 62.000"
+  }
+}

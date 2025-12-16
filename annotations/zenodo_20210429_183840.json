@@ -1,0 +1,145 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-04",
+    "time": "14:34:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 146.6,
+    "tax": 17.42,
+    "tip": 0.0,
+    "total": 146.6,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "IMPERIAL",
+      "quantity": 16,
+      "unit_price": 1.35,
+      "total_price": 21.6,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "COSTELETAS DE VITELA",
+      "quantity": 1,
+      "unit_price": 13.95,
+      "total_price": 13.95,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "COSTELETAS DE VITELA",
+      "quantity": 1,
+      "unit_price": 13.95,
+      "total_price": 13.95,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "COSTELETAS DE VITELA",
+      "quantity": 1,
+      "unit_price": 13.95,
+      "total_price": 27.9,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PATANISCAS",
+      "quantity": 3,
+      "unit_price": 8.95,
+      "total_price": 26.85,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BIFE A PASSARINOS",
+      "quantity": 1,
+      "unit_price": 12.95,
+      "total_price": 12.95,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "QUEIJO FRESCO",
+      "quantity": 8,
+      "unit_price": 1.35,
+      "total_price": 10.8,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MANTEIGA",
+      "quantity": 1,
+      "unit_price": 0.9,
+      "total_price": 0.9,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "AZEITONAS",
+      "quantity": 4,
+      "unit_price": 0.9,
+      "total_price": 3.6,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PÃO",
+      "quantity": 6,
+      "unit_price": 0.5,
+      "total_price": 3.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "VITELA NATURAL",
+      "quantity": 2,
+      "unit_price": 2.45,
+      "total_price": 4.9,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CAFÉ",
+      "quantity": 6,
+      "unit_price": 0.85,
+      "total_price": 5.1,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 12,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_183840.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "FATURA SIMPLIFICADA\nORIGINAL\nDATA 2019/03/04 14:34 N.º A/9802\nCliente:\nMorada\nConL No: 510776914\nMesa No 22\nArtigo   Qtd   Preço   Moeda €   Valor\nIMPERIAL 16 un x 1.35 21.60\n23% COSTELETAS DE VITELA\n13% 1 un x 13.95 13.95\nCOSTELETAS DE VITELA\n13% 1 un x 13.95 13.95\nCOSTELETAS DE VITELA\n13% 1 un x 13.95 27.90\n13% PATANISCAS\n3 un x 8.95 26.85\nBIFE A PASSARINOS\n1 un x 12.95 12.95\nQUEIJO FRESCO\n8 un x 1.35 10.80\nMANTEIGA\n1 un x 0.90 0.90\nAZEITONAS\n4 un x 0.90 3.60\nPÃO\n6 un x 0.50 3.00\nVITELA NATURAL\n0.75 13% 2 un x 2.45 4.90\nCAFÉ\n13% 6 un x 0.85 5.10\n#052 TOTAL: 146.60\nNumerário: 146.60\nTroco: 0.00\nIVA incluido á taxa indicada\nTaxa %   Sujeito   IVA   Total\n23% 17.56 4.04 21.60\n13% 110.62 14.38 125.00\nNBEv Processado por programa certificado\nNo 06/AT | A/9802\nOPR: MARTINHO\nOBRIGADO VOLTE SEMPRE"
+  }
+}

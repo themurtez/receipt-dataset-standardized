@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "FACE TO FACE NOODLE HOUSE",
+    "address": "No.25, Jalan Metro Perdana Barat 2, Taman Usahawan Kepong, Kepong Utara, 52100 Kuala Lumpur.",
+    "phone": "016-680 8777",
+    "tax_id": "001927782400",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-21",
+    "time": "11:12:56",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 29.81,
+    "tax": 1.79,
+    "tip": 0.0,
+    "total": 31.6,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Omega Half Boiled Egg",
+      "quantity": 1,
+      "unit_price": 3.2,
+      "total_price": 3.2,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Toasted Bread (Homemade Kaya)",
+      "quantity": 1,
+      "unit_price": 4.3,
+      "total_price": 4.3,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Honey Lemon (Hot)",
+      "quantity": 1,
+      "unit_price": 3.9,
+      "total_price": 3.9,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Honey Lemon (Cold)",
+      "quantity": 1,
+      "unit_price": 4.2,
+      "total_price": 4.2,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "House Specialty Hot & Spicy Pan Mee (Dry) (b)",
+      "quantity": 1,
+      "unit_price": 8.0,
+      "total_price": 8.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "House Specialty Hot & Spicy Pan Mee (Dry) (a)",
+      "quantity": 1,
+      "unit_price": 8.0,
+      "total_price": 8.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006679216.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "FACE TO FACE NOODLE HOUSE\nFTOF NOODLE HOUSE\n(002049088-U)\nNo.25, Jalan Metro Perdana Barat 2,\nTaman Usahawan Kepong, Kepong Utara,\n52100 Kuala Lumpur.\nTel: 016-680 8777\n(GST ID: 001927782400)\nDate: 21/05/2018 Time: 11:12:56AM\nINV No: 443181\nTable: 12-Dine In\nCounter: C1\nStaff: T.Y. / JAMES LELE\nDescription\nUnit Price Unit Discount Amount\n711-Omega Half Boiled Egg\nRM 3.20 1 0.00 RM3.20 SR\n706-Toasted Bread (Homemade Kaya)\nRM 4.30 1 0.00 RM4.30 SR\n837-Honey Lemon (Hot)\nRM 3.90 1 0.00 RM3.90 SR\n838-Honey Lemon (Cold)\nRM 4.20 1 0.00 RM4.20 SR\n2022-House Specialty Hot & Spicy\nPan Mee (Dry) (b)\nRM 8.00 1 0.00 RM8.00 SR\n2021-House Specialty Hot & Spicy\nPan Mee (Dry) (a)\nRM 8.00 1 0.00 RM8.00 SR\nQty: 6 Total Amount: RM31.60\nDiscount: RM0.00\nAfer Discount: RM31.60\nCent Rounding: RM0.00\nTotal Sales: RM31.60\nGST Summary Excl Amount(RM) Tax(RM)\nSR = 6% 29.81 1.79\n"
+  }
+}

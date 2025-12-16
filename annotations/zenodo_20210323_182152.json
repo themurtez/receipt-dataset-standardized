@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "LOULE-ANDRADE SOUSA",
+    "phone": "289401390",
+    "tax_id": "500292995",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-20",
+    "time": "09:43:00",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 7.98,
+    "tax": 0.75,
+    "tip": 0.0,
+    "total": 3.99,
+    "accounting_category": "Personal Care",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "E 23% P HIG RENOVA ACTIVE",
+      "quantity": 1,
+      "unit_price": 7.98,
+      "total_price": 7.98,
+      "category": "Personal Care",
+      "accounting_category": "Personal Care",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_182152.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PINGO DOCE LOULE-ANDRADE SOUSA Tel.: 289401390 Pingo Doce – Distribuicao Alimentar, S. A. Sede: R Actor Ántonio Silva, N7, 1649-033 Lisboa Registro C.R.C. Lisboa-Matricula: NIPC: 500292995 ANREEE: P1001730 C. Social: 33.808.115 EUR Artigos PRODUTOS PESSOAIS 7,98 E 23% P HIG RENOVA ACTIVE 3,99) Poupcanca Imediata Resumo Total 7,98 TOTAL POUPANCA (3,99) TOTAL A PAGAR 3,99 Pagamentos TOTAL PAGO 3,99 Multibanco Val3,24 Resumo IVA Valor s/IVA Valor IVA Valor c/IVA E 23% 3,24 0,75 3,99 NESTA COMPRA POPOU 3.99 € Atendido por: NATERCIA AFONSO SM/PJ: Processado por programa certicficado 369/AT Fatura Simplificada FS 0755001190101602/023001 1a Via Original Data de emissao: 20-03-2019 N. Contribuinte: 541409735 PINGO DOCE, S.A. LOULE ANDRADE SOUSA Terminal Pagamento Automático: 00425477 Data: 20-03-09 TermPC TR022 Msg255 2019-03-20 09:43 S/ALBANO Cert 9730/63 MULTIBANCO COMPR3599€ AUT: 294930 REDUNICRE INOVACAO E CONFIANCA COPIA CLIENTE PROCESSADO POR SIBS 5016493FF Fatura necessaria para troca em 15 dias Artigos Textil e Calcado prazo 30 dias) NAO se trocam medicamentos e artigos assinados Apoio & cliente 808 20 45 45 / 210 11 44 11 (24 horas)"
+  }
+}

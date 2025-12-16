@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "MTD FERRAGENS DO COMBRO LDA",
+    "address": "CALCADA DO COMBRO N 3, 1200-110 LISBOA",
+    "phone": "213363535",
+    "tax_id": "513363535",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-10-30",
+    "time": "10:59:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 1.95,
+    "tax": 0.45,
+    "tip": 0.0,
+    "total": 2.4,
+    "accounting_category": "Hardware",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Bucha de Plastico",
+      "quantity": 1,
+      "unit_price": 0.5,
+      "total_price": 0.5,
+      "category": "Hardware",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Buchas de Plastico",
+      "quantity": 1,
+      "unit_price": 0.7,
+      "total_price": 0.7,
+      "category": "Hardware",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Fichas Macho",
+      "quantity": 1,
+      "unit_price": 1.2,
+      "total_price": 1.2,
+      "category": "Hardware",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_213727.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MTD FERRAGENS DO COMBRO LDA\nFERRAGENS FERRAMENTAS CHAVES FECHADURAS\nMAT. ELECTRICO * MAT. CANALIZACAO\nCALCADA DO COMBRO N 3 1200-110 LISBOA\nNIF: 513363535\nEmail: j05e.m.duarte@sapo.pt\nTel: 213475762\nFATURA SIMPLIFICADA\nORIGINAL\nDATA 30/10/2017 10.59 Nº A/20262\nCliente: FLKEHOME Lda\nMorada:\nCont.Nº: 510776914\nArtigo Qtí Preço Valor €\n10 Buchas de Plastico\n23% 1 Un x 0,50 0,50\n10 Buchas de Plastico\n23% 1 Un x 0,70 0,70\nFichas Macho\n23% 1 Un x 1,20 1,20\n#003\nTOTAL 2,40\nNumerário 2,40\nTroco 0,00\nIVA Incluído á taxa indicada\nTaxa Sujeito IVA Total\n23,00 1,95 0,45 2,40\nData de carga: 30/10/2017\nHora de carga: 11:09\nLocal carga: N/Instalações\nMatricula: -\nData descarga:\nHora descarga: V/Instalaçoes\nLocal descarga: V/Instalaçoes\nstd>Processado por programa certificado\nNº 88/AT - 1 A/20262\nOpr: Administrador\nOBRIGADO - VOLTE SEMPRE"
+  }
+}

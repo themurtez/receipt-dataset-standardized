@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-24",
+    "time": "13:03:00",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 20000.0,
+    "tax": 2000.0,
+    "tip": 0.0,
+    "total": 22000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "MACARON BLUE",
+      "quantity": 2,
+      "unit_price": 10000.0,
+      "total_price": 22000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 30000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000632.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "2 MACARON BLUE .22,000\nSUBTOTAL .20,000\nTAX 10% .2,000\nTotal .22,000\nCASH .52,000\nCHANGE .30,000"
+  }
+}

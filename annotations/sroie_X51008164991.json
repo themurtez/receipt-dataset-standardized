@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "One One Three Seafood Restaurant Sdn Bhd",
+    "address": "No.1, Taman Sri Dengkil, Jalan Air Hitam, 43800 Dengkil, Selangor.",
+    "phone": "",
+    "tax_id": "000670224384",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-13",
+    "time": "22:53:19",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 35.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 35.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Rice w Seafood/Meat Item Single",
+      "quantity": 1,
+      "unit_price": 15.0,
+      "total_price": 15.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Beverage",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Noodle Item Single",
+      "quantity": 1,
+      "unit_price": 15.0,
+      "total_price": 15.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008164991.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ONE ONE THREE SEAFOOD RESTAURANT SDN BHD\n(1120908-M)\nNO.1, TAMAN SRI DENGKIL, JALAN AIR HITAM\n43800 DENGKIL, SELANGOR.\n(GST Reg. No ; 000670224384)\nTax Invoice\nTable 37\nBill#:V001-540338    Order#: 140447\nDate : 13-06-2018 22:53:19\nCashier : 113 CASHIER        Pax(s): 0\nQty   Description          Total  TAX\n-------------------------------------------------\n1     Rice w Seafood /Meat Item Single      D 15.00 SR\n1     Beverage                               D 5.00 SR\n1     Noodle Item Single                     D 15.00 SR\n-------------------------------------------------\nTotal (Excluding GST):                     35.00\nTotal (Inclusive of GST):                  35.00\nTOTAL :                                    35.00\nClosed: 1                   13-06-2018    23:12:13\nServer: 113 CASHIER\nCASH                                     :35.00\nGST Summary        Amount(RM)   Tax(RM)\nSR     (@ 0%)       35.00     0.00\n-------------------------------------------------\n**** Thank You ****\nPlease Come Again"
+  }
+}

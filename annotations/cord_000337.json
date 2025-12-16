@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "DEBIT Card",
+    "subtotal": 66000.0,
+    "tax": 6600.0,
+    "tip": 0.0,
+    "total": 72600.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Iced Sleepy Coffee",
+      "quantity": 1,
+      "unit_price": 38000.0,
+      "total_price": 38000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Pisang Goreng",
+      "quantity": 1,
+      "unit_price": 28000.0,
+      "total_price": 28000.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000337.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Iced Sleepy Coffee 38.000\n1 Pisang Goreng 28.000\nSubtotal 66.000\nPajak 6.600\nTotal 72.600\nDEBIT Card 72.600\nKembalian 0"
+  }
+}

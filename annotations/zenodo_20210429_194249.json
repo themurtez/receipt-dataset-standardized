@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Casa Travanca Capucho",
+    "address": "Rua da Atalaia No113, 1200-039 Lisboa",
+    "phone": "213242481",
+    "tax_id": "10808513",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-09-27",
+    "time": "11:21:44",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 10.41,
+    "tax": 2.39,
+    "tip": 0.0,
+    "total": 12.8,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Busca Polos",
+      "quantity": 1,
+      "unit_price": 3.5,
+      "total_price": 3.5,
+      "category": "Tools",
+      "accounting_category": "Tools & Hardware",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Tubo",
+      "quantity": 1,
+      "unit_price": 0.8,
+      "total_price": 0.8,
+      "category": "Tools",
+      "accounting_category": "Tools & Hardware",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Fio Electrico",
+      "quantity": 10,
+      "unit_price": 0.85,
+      "total_price": 8.5,
+      "category": "Electrical",
+      "accounting_category": "Electrical Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_194249.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CASA TRAVANCA CAPUCHO\nDE: JOAQUIM ANTÃO TRAVANCA CAPUCHO\nRUA DA ATALAIA No113 1200-039 LISBOA\nNIF: 10808513 TEL: 213242481\nFERRAGENS - FERRAMENTAS - MAT.ELECTRICO\nIva Incluido as Taxas Legais em Vigor\nzhob - Processado por programa certificado n:3/AT\nFactura: 19FT 001/4193 ORIGINAL\nData: 2019-09-27 11:21:44\nDoc Orig:\nNQCliente: 10002059\nNome: F Likehome\nContribuinte: 510776914\nMorada: Lx\nCod Postal:\nDescricao Pvu. Qtd. Desc.% Valor\nBUSCA POLOS\n(D) 23% 3,50 1 3,50\nTUBO\n(D) 23% 0,80 1 0,80\nFIO ELECTRICO\n(D) 23% 0,85 10 8,50\nItens: 3 12,80\nIliquido Tax% V.Tax\n(D) 10,41 23 2,39\nTotal a Pagar: 12,80 €\nMULTIBANCO\n12,80 €\nOBRIGADO, VOLTE SEMPRE"
+  }
+}

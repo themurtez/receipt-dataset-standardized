@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 57000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 57000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Giant Squid",
+      "quantity": 1,
+      "unit_price": 39000.0,
+      "total_price": 39000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Milo Dino",
+      "quantity": 1,
+      "unit_price": 18000.0,
+      "total_price": 18000.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 43000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000690.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Giant Squid\nx1 Rp. 39.000\nA.Flavour - BBQ Rp. 0\nB.Spicy Level - Hottie Rp. 0\nC.Finishing - Cut Rp. 0\nMilo Dino x1 Rp. 18.000\nSubtotal Rp. 57.000\nTotal Rp. 57.000\nCash Rp. 100.000\nChange Rp. 43.000"
+  }
+}

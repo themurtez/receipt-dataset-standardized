@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "ROGERIO PAIS, LDA",
+    "address": "AVENIDA ALMIRANTE REIS, 9-E, 1150-007 LISBOA",
+    "phone": "210853901",
+    "tax_id": "510776914",
+    "website": "www.ticagest.pt"
+  },
+  "transaction": {
+    "date": "2019-05-08",
+    "time": "09:31:00",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 35.19,
+    "tax": 8.09,
+    "tip": 0.0,
+    "total": 43.28,
+    "accounting_category": "Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Torneira temporisada pá",
+      "quantity": 1,
+      "unit_price": 28.0,
+      "total_price": 28.0,
+      "category": "Plumbing",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Curvas PVC 90º - 32",
+      "quantity": 1,
+      "unit_price": 0.53,
+      "total_price": 0.53,
+      "category": "Plumbing",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Tubo pvc flexível 32 me",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Plumbing",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cola veda UHU POLY MAX",
+      "quantity": 1,
+      "unit_price": 10.5,
+      "total_price": 10.5,
+      "category": "Adhesive",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "União pvc 32",
+      "quantity": 1,
+      "unit_price": 1.25,
+      "total_price": 1.25,
+      "category": "Plumbing",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_203757.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROGERIO PAIS, LDA\nFERRAGENS * FERRAMENTAS * MAQUINAS * UTILIDADES\nAVENIDA ALMIRANTE REIS, 9-E * 1150-007 LISBOA\nTel/Fax 210853901 Tel. 966086896\n* Sociedade por quotas * Capital Social\n5.012,92€ REG.CRC. 34852\nNIB: 0033 0000 0128028643 52\n\n2019-05-08 FATURA SIMPLIFICADA N:\nOriginal FS 1A1901/3615\n09:31 BALCAO 1\n\nContribuinte: 510776914\n\nDESCRICAO IVA VALOR\n1 Torneira temporisada pá 23% 28,00\n1 Curvas PVC 90º - 32 23% 0,53\n1 Tubo pvc flexível 32 me 23% 3,00\n1 Cola veda UHU POLY MAX 23% 10,50\n1 Uniao pvc 32 23% 1,25\n\nTAXA IVA INCD.\n23% 8,09 35,19\nTOTAL INCIDENCIAS: 8,09 35,19\nTOTAL: Eur 43,28\n\nPago em Numerario\nValor entregue: 43,28\nTroco: 0,00\n\nImplementado por www.ticagest.pt\n\nfMRI-Processado por programa\ncertificado n. 217/AT\n\nOs servicos e/ou bens foram realizados e/ou coloq\ncados a disposicao do adquirente nesta data (Art\n.- 36 do CIVA, Nu5 alInea F)\n\nLicenca: ROGERIO PAIS, LDA\nContribuinte: 500544000"
+  }
+}

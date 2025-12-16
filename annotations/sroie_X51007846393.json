@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Moonlight Cake House Sdn Bhd",
+    "address": "No.1, Jalan Permas 10/5, Bandar Baru Permas Jaya, 81750 Johor Bahru, Johor.",
+    "phone": "",
+    "tax_id": "001559298048",
+    "website": "www.moonlightcake.com"
+  },
+  "transaction": {
+    "date": "2018-06-20",
+    "time": "18:07:10",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 14.18,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 14.2,
+    "accounting_category": "Takeaway",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "T-Butter slice Cheese",
+      "quantity": 1,
+      "unit_price": 4.15,
+      "total_price": 4.15,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "T-Green Tea Mochi",
+      "quantity": 1,
+      "unit_price": 3.3,
+      "total_price": 3.3,
+      "category": "Dessert",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "T-Honey Walnut",
+      "quantity": 1,
+      "unit_price": 3.7,
+      "total_price": 3.7,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "T-Saha Bread",
+      "quantity": 1,
+      "unit_price": 4.6,
+      "total_price": 4.6,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.02,
+    "change_due": 6.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007846393.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MOONLIGHT CAKE HOUSE SDN BHD 862725-U\n(GST Reg No: 001559298048)\nNo.1, Jalan Permas 10/5, Bandar Baru Permas Jaya\n81750 Johor Bahru, Johor.\nwww.moonlightcake.com\n\nTable : Counter\nInvoice No: SP-null-18/06/20-1022050\nDate : 20/06/2018 18:07:10\nPayment Type: Cash\nMember Number: 3000000100068587\n--- TAKE AWAY ---\nT-Butter slice Cheese *# 1 RM4.15 ST\nDiscount RM-0.41\nT-Green Tea Mochi *# 1 RM3.30 ST\nDiscount RM-0.33\nT-Honey Walnut *# 1 RM3.70 ST\nDiscount RM-0.37\nT-Saha Bread *# 1 RM4.60 ST\nDiscount RM-0.46\n\nTotal (Incl GST, 0%) RM14.18\nRounding RM0.02\nGrand Total RM14.20\nTotal Paid RM20.20\nChange RM6.00\n\nDiscount Summary\nBirthday Discount RM1.57\n\nGST Summary\nGST Summary Item Amount(RM) GST(RM)\nST = 0% 4 14.18 0.00\nNS = 0% 0 0.00 0.00\n20/06/2018 18:07:10"
+  }
+}

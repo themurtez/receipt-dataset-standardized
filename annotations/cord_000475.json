@@ -1,0 +1,136 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 940000.0,
+    "tax": 79640.0,
+    "tip": 0.0,
+    "total": 1096040.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "IKAN GURAME MED",
+      "quantity": 1,
+      "unit_price": 158000.0,
+      "total_price": 158000.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "SOP IKAN",
+      "quantity": 1,
+      "unit_price": 129000.0,
+      "total_price": 129000.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "CUMI GR JUNJAN",
+      "quantity": 1,
+      "unit_price": 129000.0,
+      "total_price": 129000.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "CUMI GR TEPUNG",
+      "quantity": 1,
+      "unit_price": 129000.0,
+      "total_price": 129000.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "ASSTO TH PC JMR",
+      "quantity": 1,
+      "unit_price": 147000.0,
+      "total_price": 147000.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "POCAI BWG PUTIH",
+      "quantity": 1,
+      "unit_price": 90000.0,
+      "total_price": 90000.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "LUMPIA UDG PREM",
+      "quantity": 1,
+      "unit_price": 144000.0,
+      "total_price": 144000.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "NASI PUTIH",
+      "quantity": 6,
+      "unit_price": 10000.0,
+      "total_price": 60000.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "HOT TEA",
+      "quantity": 3,
+      "unit_price": 12000.0,
+      "total_price": 36000.0,
+      "category": "Beverages",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "AQUA",
+      "quantity": 1,
+      "unit_price": 11000.0,
+      "total_price": 11000.0,
+      "category": "Beverages",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "ICED TEA",
+      "quantity": 2,
+      "unit_price": 12000.0,
+      "total_price": 24000.0,
+      "category": "Beverages",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 19,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000475.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "IKAN GURAME MED 158,000\nSOP IKAN\nCUMI GR JUNJAN 129,000\n=MEDIUM=\nCUMI GR TEPUNG 129,000\n=MEDIUM=\nASSTO TH PC JMR 147,000\n=MEDIUM=\nPOCAI BWG PUTIH 90,000\n=MEDIUM=\nLUMPIA UDG PREM 144,000\n=MEDIUM=\nNASI PUTIH 10,000 60,000\nHOT TEA 12,000 36,000\nAQUA 11,000\nICED TEA 12,000 24,000\nICED TEA 12,000\nFOOD 797,000\nBEVERAGES 83,000\nOTHERS 60,000\nSUBTOTAL 940,000\nSERVICE CHARGE 56,400\nTax 10% 79,640\nDU 1,096,040"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "AKI Mafra",
+    "address": "Comendador José Noronha Gorjão, Urbanização Quinta das Pevides, 2640-408 Mafra",
+    "phone": "261 091 200",
+    "tax_id": "502261066",
+    "website": "www.aki.pt"
+  },
+  "transaction": {
+    "date": "2018-06-08",
+    "time": "17:08:00",
+    "currency": "EUR",
+    "payment_method": "Cartão Bancário",
+    "subtotal": 40.95,
+    "tax": 7.66,
+    "tip": 0.0,
+    "total": 40.95,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ALMOFADA QUADRADA 40X40X2C",
+      "quantity": 1,
+      "unit_price": 13.96,
+      "total_price": 13.96,
+      "category": "Home Goods",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TIN EX MAT 40X BLF 15LT U",
+      "quantity": 1,
+      "unit_price": 26.99,
+      "total_price": 26.99,
+      "category": "Home Goods",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_211256.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AKI Mafra\nComendador José Noronha Gorjão\nUrbanização Quinta das Pevides\n2640-408 Mafra\nTel. - 261 091 200\nwww.aki.pt\n\nEntrega - Distribuição de Bricolage, SA\n\nDuplicado Fatura\nNúmero: FT 0554011/00187104\nData: 08/06/2018 17:08\n\nFEELSIKHOMED LDA\nRua Saraiva de Carvalho N244 39DTO\n\nLocalidade: 1350302 LISBOA\n\nNIF: 510776914\n\nIVA CODIGO DESCRIÇÃO VALOR\nVENDA\n23.0% 3455411 ALMOFADA QUADRADA 40X40X2C 13,96€\n\n23.0% 4006414 TIN EX MAT 4R BLF 15LT U 26,99€\n\nTotal 40,95€\nRecapitulativo IVA\n\nTaxa Liq. IVA\n23.0% 33,29 7,66\n\nCartão Bancário\n\nN9\n\nPontos ganhos : 40\nPontos acumulados : 95\n\nJ á ganhou com o seu Cartão AKI: 165,00€\n\n0554 1 91002276 569966\n\nTotal da Fatura: 40,95€\n\n\n\nOBRIGADO POR COMPRAR NA NOSSA LOJA"
+  }
+}

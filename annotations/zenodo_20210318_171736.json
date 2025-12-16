@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Campolide",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-01-02",
+    "time": "17:09:42",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 106.5,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 106.5,
+    "accounting_category": "Purchase",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Compra",
+      "quantity": 1,
+      "unit_price": 106.5,
+      "total_price": 106.5,
+      "category": "General Merchandise",
+      "accounting_category": "Purchase",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_171736.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CAMPOLIDE\nIdent. TPA: 00821925\n2019-01-02 17:09:42\nPer. 050 Tr. 018 M 024\nMILLENNIUM BCP\nMANUEL ARROUBE/JOSE\nCARTAO: **8902/76\n501649FF20\nMULTIBANCO\nCOMPRA 106,50€\nAUT: 384381 MB\nNetcaixa\nNa Caixa. Com Certeza\nPROCESSADO POR SIBS"
+  }
+}

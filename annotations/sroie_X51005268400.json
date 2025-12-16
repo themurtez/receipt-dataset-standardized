@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Restoran Hassan Bistro",
+    "address": "No. 2-1-1 Jalan Setia Prima Q, U 13/Q Setia Alam 40170, Shah Alam, Selangor",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-28",
+    "time": "22:17:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 15.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 15.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Makanan",
+      "quantity": 1,
+      "unit_price": 15.0,
+      "total_price": 15.0,
+      "category": "Entree",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005268400.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "RESTORAN HASSANBISTRO\nNO.2-1-1 JALAN SETIA PRIMA Q\nU 13/Q SETIA ALAM 40170\nSHAH ALAM\nSELANGOR\n***********************\nTAX INVOICE\n***********************\nTERMINAL : C1\nCASHIER : HASSAN\nBILL NO : C1-0170778\nDATE : 12/28/2017 10:17:32 PM\nTOKEN : CT1\nTABLE : CT1\nProduct Qty U.Price GST Total\n--------------------------------\nMAKANAN 1 15.00 0 15.00 ZR\n--------------------------------\nTotal Items = 1.00\nTotal Qty = 1.00\n\n Sub Total RM 15.00\n Discount RM 0.00\n\n Total Excl.6% GST RM 15.00\n GST 6% RM 0.00\n Total Incl.6% GST RM 15.00\n Rounding RM 0.00\n\n CASH RM 15.00\n CHANGE RM 0.00\n\nThank You.Come Again\n2017-12-28 22:17PM"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "AIK HUAT HARDWARE ENTERPRISE (SETIA ALAM) SDN BHD",
+    "address": "No. 17-G, Jalan Setia Indah (X) U13/X, Setia Alam, Seksyen U13, 40170 Shah Alam",
+    "phone": "012-6631703",
+    "tax_id": "000397529768",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-07-13",
+    "time": "08:13:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 4.0,
+    "tax": 0.23,
+    "tip": 0.0,
+    "total": 4.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "15AMP UBS PLUG TOP (SIRIM)",
+      "quantity": 1,
+      "unit_price": 4.0,
+      "total_price": 4.0,
+      "category": "Electrical",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 16.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007339639.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AIK HUAT HARDWARE ENTERPRISE (SETIA ALAM) SDN BHD\n822537-X\nNO. 17-G, JALAN SETIA INDAH\n(X) U13/X, SETIA ALAM,\nSEKSYEN U13, 40170 SHAH ALAM.\nTEL: 012 - 6631703 FAX: 03 – 3362403\nGST NO: 000397529768\n\nSIMPLIFIED TAX INVOICE\n\nCASH\nRECEIPT #: GP037224 DATE: 13/07/2017\nSALESPERSON : AHO03 TIME : 08:13:00\nITEM\nQTY\nU/P\nAMOUNT\n(RM)\n(RM)\n4060150000005 1 4.00 4.00\n15AMP UBS PLUG TOP (SIRIM)\nTOTAL QUANTITY 1\n\nSUB-TOTAL (GST)\n4.00\nDISC\nROUNDING\n0.00\n0.00\nTOTAL\nCASH\nCHANGE\n4.00\n20.00\n16.00\n\n#GST @ 6% INCLUDED IN TOTAL\n\nGST SUMMARY\n\nCODE\nSR\nAMOUNT\n3.77\n%\n6\nTAX/AMT\n0.23\n\nTAX TOTAL:\n0.23\n\nGOODS SOLD ARE NOT REFUNDABLE.\nTHANK YOU FOR CHOOSING US.\nPLS PROVIDE ORIGINAL BILL FOR GOODS\nEXCHANGE WITHIN 1 WEEK FROM TRANSACTION\nGOODS MUST BE IN ORIGINAL STATE TO BE\nENTITLED FOR EXCHANGE."
+  }
+}

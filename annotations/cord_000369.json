@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Tea Shop",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 60000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 60000.0,
+    "accounting_category": "Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "HZ CHOCO MT (L) TOPPING",
+      "quantity": 1,
+      "unit_price": 27000.0,
+      "total_price": 27000.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PEARL (L)",
+      "quantity": 1,
+      "unit_price": 4000.0,
+      "total_price": 4000.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MANGO GT (L)",
+      "quantity": 1,
+      "unit_price": 25000.0,
+      "total_price": 25000.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PEARL (L)",
+      "quantity": 1,
+      "unit_price": 4000.0,
+      "total_price": 4000.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 40000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000369.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Tea Shop\n\n1 x HZ CHOCO MT (L) TOPPING 27,000\nPEARL (L) 4,000\n1 x MANGO GT (L) 25,000\nPEARL (L) 4,000\n\nSUB TOTAL 60,000\nTOTAL SALES 60,000\nTOTAL ITEMS 2\nCASH 100,000\nCHANGE 40,000"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "SABOR COM CARACTER, LDA",
+    "address": "RUA ANCHIETA N.3, 1200-023 LISBOA",
+    "phone": "",
+    "tax_id": "PT508295575",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-27",
+    "time": "14:57:08",
+    "currency": "EUR",
+    "payment_method": "Dinheiro",
+    "subtotal": 20.13,
+    "tax": 2.87,
+    "tip": 0.0,
+    "total": 23.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Salada Chevre",
+      "quantity": 1,
+      "unit_price": 10.9,
+      "total_price": 10.9,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Bratwurst",
+      "quantity": 1,
+      "unit_price": 8.9,
+      "total_price": 8.9,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Limo 0,5l",
+      "quantity": 1,
+      "unit_price": 3.2,
+      "total_price": 3.2,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_191041.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SABOR COM CARACTER, LDA\nRUA ANCHIETA N.3\n1200-023 LISBOA\nNIF: PT508295575\n\nData: 2019-03-27, 14:57:08\nFactura simplificada n: FS S/0118551\nNIF: 510776914\n\nQt Desc.             IVA     p.unit   total\n1  Salada Chevre     13%     10,90    10,90\n1  Bratwurst         13%     8,90     8,90\n1  Limo 0,5l         23%     3,20     3,20\n\nTotal:                    23,00\nMetodos de Pagamento:\nDinheiro                    23,00\n\nTaxa    Incid.    Valor   Total\n23%      2,60     0,60    3,20\n13%     17,53     2,27    19,80\nTotal:  20,13     2,87    23,00\n\nEmpregado: REGI\nMesa: 24\nSubtotais: DC C0109487\nv9Hr: Processado por programa certificado N.1280/AT Sage GesRestII\n\n*  Obrigado - Volte Sempre  *"
+  }
+}

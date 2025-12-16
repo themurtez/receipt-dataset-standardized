@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Debit",
+    "subtotal": 94000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 94000.0,
+    "accounting_category": "Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "M-Ovaltine Macchiat",
+      "quantity": 2,
+      "unit_price": 31000.0,
+      "total_price": 62000.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "M-Konjac Milk Tea",
+      "quantity": 1,
+      "unit_price": 32000.0,
+      "total_price": 32000.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000740.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "2X M-Ovaltine Macchiat @31,000 62,000\n70%\nNo Ice\n1X M-Konjac Milk Tea @32,000 32,000\n100%\nSubtotal: 94,000\nTotal: 94,000\nDEBIT: 94,000\nCHANGE: 0"
+  }
+}

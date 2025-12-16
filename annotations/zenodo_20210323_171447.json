@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "GESPOST GESTAO E ADMINISTRACAO DE POSTOS DE ABASTECIMENTO UNIPESSOAL LDA",
+    "address": "SITIO DA BOLOTA 8200-314 ALBUFEIRA",
+    "phone": "+351289589370",
+    "tax_id": "510440795",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-07-07",
+    "time": "11:31:34",
+    "currency": "EUR",
+    "payment_method": "VISA ELECTRON",
+    "subtotal": 40.65,
+    "tax": 9.35,
+    "tip": 0.0,
+    "total": 50.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "GASOLEO SIMPLES",
+      "quantity": 1,
+      "unit_price": 1.369,
+      "total_price": 50.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_171447.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GESPOST GESTAO E ADMINISTRACAO DE POSTOS\nDE ABASTECIMENTO UNIPESSOAL LDA\nAV DOS MALHOAS, 16-1099-091 LISBOA\nCAP SOC 2.093.261,11 EUR\nC.R.C.:LISBOA 705 769 959\nPA: REPSOL ALBUFEIRA II\nSITIO DA BOLOTA 8200-314 ALBUFEIRA\nTEL: 289589370\n\nFACTURA/RECIBO\n\nDATA/HORA 2019-07-07\n11:31:34\nN. OPERACAO:4347/3823636 CAIXA N. 1\nVENDEDOR: ANABELA FELICIO\n\nVenda de Combustivel\nN. de Bomba 3 GASOLEO SIMP\nE 35,520 Litros 1,369 €/Ltr 50,00 €\nCash Account\nTotal: 50,00 €\nBANCARIO:\nTROCO\nTotal\n\nTipo Base \nE 23.0 % 40,65 € 9,35 €\n\nIncluido a taxa em vigor\n\nDoc. Nr:\nFR 4347/TPV/190014350\nNome: FLIKERHOME ALGARVE, LDA\nNIF: 514404795\nMATRICULA: 54CC40\nMORADA: AV DA LIBERDADE 36 1B\nCONCELHO: LISBOA\n\nPA ALBUFEIRA\nPA ALBUFEIRA\nSITIO DA BOLOTA\n8200 ALBUFEIRA\n\nNúmero Fiscal de Contribuinte: 000000000\nTerminal Pagamento Automatico: 00539706\nData: 2019/07/07 Hora: 11:31:27\nPeriodo: 071 Transacao: 077 Mensagem: 536\nNumero Comerciante: 0000610253\n\n* COMPRA-CHIP 00/00\n\nS/ALGARVE\nCartao 00 ********9730/35 Op.: 00170\nA0000000032010\nVISA ELECTRON\nConta/Autorizacao: AUT:942172\nMILLENNIUM BCP\n\nEUR: 50,00\nVISA ELEC PP N\n\nREDUNCRE\nINOVACAO E CONFIANCA\nPROCESSADO POR SIBS"
+  }
+}

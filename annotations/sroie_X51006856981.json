@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Guardian Health And Beauty Sdn Bhd",
+    "address": "Lot B-005-006, Basement Level 1, The Starling Mall, Jalan SS21/60, Damansara Utama",
+    "phone": "03-7662 5789",
+    "tax_id": "1101083-T",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-07-07",
+    "time": "20:56:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 13.78,
+    "tax": 0.78,
+    "tip": 0.0,
+    "total": 20.0,
+    "accounting_category": "Health & Beauty",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "OPTICARE 500X3",
+      "quantity": 1,
+      "unit_price": 13.78,
+      "total_price": 13.78,
+      "category": "Health & Beauty",
+      "accounting_category": "Health & Beauty",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.02,
+    "change_due": 6.2
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006856981.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Guardian Health And Beauty Sdn Bhd\nLot B-005-006, Basement Level 1\nThe Starling Mall\nJalan SS21/60, Damansara Utama.\nTel: 03-7662 5789\nCompany Reg #1101083-T\nGST Reg #000899874816\n121066051 \"OPTICARE 500X3\" RM 13.78\nSUBTOTAL 13.78\nTOTAL (GST INCL) 13.78\nCASH 20.00\nROUNDING ADJUSTMENTS 0.02\nCHANGE DUE 6.20\nYOUR SAVINGS FOR TODAY 3.49\nGST - Rate --GST Excl -- GST Amt\n6% 13.00 0.78\n^ Promo price items\nThank You For Shopping\nAt Guardian\nAll Amounts Are in RM\nGoods sold are non-refundable.\nAll exchanges and returns including\nGuardian brand products must be made\nwithin 7days with original receipts and\nproduct in original condition.\nSt:8541 Ctr3 ID:3003 TaxInv:11612\n20:56 07/07/17"
+  }
+}

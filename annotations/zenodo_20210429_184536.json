@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "AZ DE COMER ACT. HOT., LDA",
+    "address": "RUA ALMEIDA E SOUSA, 32, 1350-012 CAMPO DE OURIQUE",
+    "phone": "Tel. 213856496",
+    "tax_id": "501692070",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-09-08",
+    "time": "18:53:22",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 8.54,
+    "tax": 1.11,
+    "tip": 0.0,
+    "total": 9.65,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "pastelaria",
+      "quantity": 1,
+      "unit_price": 8.54,
+      "total_price": 8.54,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_184536.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AZ DE COMER\nACT. HOT., LDA\nRUA ALMEIDA E SOUSA, 32\n1350-012 CAMPO DE OURIQUE Tel.213856496\nContrib. 501692070\nRegisto na Cons. n.\nCapital Social Euros\nN.C. 510776914\n\nFatura simplificada FS 002/697008\n2019-09-08 18:53:22\nQt Artigo IV Total\n1 pastelaria 13 9.65\nTotal 9.65\nTroco 0.00\n\nNumerário 9.65\n\nTaxa Base IVA Total\n13.00 8.54 1.11 9.65\n\nEmp. Gerente\nMesa: 100\nIVA incluido\nconsultas:\nL8BS-Processado por programa\ncertificado n. 0071/AT\nCopyright GrupoPIE, SA"
+  }
+}

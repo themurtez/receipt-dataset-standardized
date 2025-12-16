@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "Terra Nostra Garden Hotel",
+    "address": "Largo Vasco Bensaude S/N, Furnas, S. Miguel Açores, 9500-105 Ponta Delgada",
+    "phone": "",
+    "tax_id": "510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-10-14",
+    "time": "23:02:00",
+    "currency": "EUR",
+    "payment_method": "NUMERARIO",
+    "subtotal": 155.0,
+    "tax": 15.6,
+    "tip": 0.0,
+    "total": 155.0,
+    "accounting_category": "Hospitality",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Menu TN",
+      "quantity": 1,
+      "unit_price": 96.0,
+      "total_price": 96.0,
+      "category": "Dining",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Aguados Art",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Dining",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Nata Cha VR",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Dining",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Agua Luso (LI)",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Dining",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Monte Das",
+      "quantity": 2,
+      "unit_price": 20.0,
+      "total_price": 40.0,
+      "category": "Dining",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cascas Colheit",
+      "quantity": 2,
+      "unit_price": 20.0,
+      "total_price": 40.0,
+      "category": "Dining",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Café Expresso",
+      "quantity": 4,
+      "unit_price": 2.0,
+      "total_price": 8.0,
+      "category": "Dining",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Mousse de Iogurte com BA",
+      "quantity": 1,
+      "unit_price": 7.0,
+      "total_price": 7.0,
+      "category": "Dining",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 12,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_220021.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TERRA NOSTRA GARDEN HOTEL...\n[...]"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Super Market",
+    "address": "Central St. 5",
+    "phone": "123-456-7890",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 16500.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 16500.0,
+    "accounting_category": "groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Astor Stick Cokelat 40gr",
+      "quantity": 1,
+      "unit_price": 8000.0,
+      "total_price": 8000.0,
+      "category": "snack",
+      "accounting_category": "groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Green Tea",
+      "quantity": 1,
+      "unit_price": 8500.0,
+      "total_price": 8500.0,
+      "category": "beverage",
+      "accounting_category": "groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 33500.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000272.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Super Market\nCentral St. 5\n123-456-7890\n\nAstor Stick Cokelat 40gr\n1       8,000        8,000\ngreen tea\n1       8,500        8,500\n\nTOTAL                       16,500\nCASH                        50,000\nCHANGE                  33,500"
+  }
+}

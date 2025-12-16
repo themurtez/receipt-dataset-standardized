@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Gardenia Bakeries (KL) Sdn Bhd",
+    "address": "Lot 3, Jalan Pelabuh 23/1, 40300 Shah Alam, Selangor",
+    "phone": "03-55423228",
+    "tax_id": "00038139040",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-08-27",
+    "time": "11:03:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 35.03,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 35.03,
+    "accounting_category": "Grocery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "O.C. WHITE",
+      "quantity": 2,
+      "unit_price": 2.13,
+      "total_price": 4.26,
+      "category": "Bread",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "WHOLEMEAL",
+      "quantity": 10,
+      "unit_price": 2.78,
+      "total_price": 27.8,
+      "category": "Bread",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "O.C. JUMBO",
+      "quantity": 1,
+      "unit_price": 2.97,
+      "total_price": 2.97,
+      "category": "Bread",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 13,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006556603.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GARDENIA BAKERIES (KL) SDN BHD (139386 X)\nLot 3, Jalan Pelabuh 23/1, 40300 Shah Alam, Selangor.\nTel: 03-55423228 Fax:0 - 55423213\nGST ID: 00038139040\n\nTAX INVOICE / ADJUSTMENT NOTE\nCash Inv No.: 7827F711\nVE0514 Date: 27/08/2017\nMAKASSAR FRESH MARKET SDN BHD\nGROUND FLOOR, NC. 4 & 6,\nJALAN SS 15/4B,\n47500 SUBANG JAYA, SELANGOR\nVE05: Ridzuan (11906)\n\nDD: 27/08/2017 11:03\nDescription U.P Iss Exc D Saie Amt(RM)\nO.C. WHITE 2.13 5 3 0 2 4.26\nWHOLEMEAL 2.78 10 0 0 10 27.80\nO.C JUMBO 2.97 10 4 0 1 2.97\n\nTotal 0% supplies: 35.03\nTotal Payable: 35.03\n\nE.&O.E.\nReceived above goods in good order condition...\nCUSTOMER'S COPY"
+  }
+}

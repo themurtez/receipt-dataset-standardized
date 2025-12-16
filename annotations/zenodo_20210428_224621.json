@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "ROGERIO PAIS, LDA",
+    "address": "AVENIDA ALMIRANTE REIS, 9-E, 1150-007 LISBOA",
+    "phone": "218655391",
+    "tax_id": "500544000",
+    "website": "www.ticasgest.pt"
+  },
+  "transaction": {
+    "date": "2019-05-24",
+    "time": "10:44:00",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 16.26,
+    "tax": 3.74,
+    "tip": 0.0,
+    "total": 20.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.85
+  },
+  "items": [
+    {
+      "name": "FAJA - Puxador 581/30",
+      "quantity": 4,
+      "unit_price": 2.5,
+      "total_price": 10.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Escapula ferro c/rosca",
+      "quantity": 1,
+      "unit_price": 10.0,
+      "total_price": 10.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_224621.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROGERIO PAIS LDA\nFERRAMENTAS • MAQUINAS • UTILIDADES\nAVENIDA ALMIRANTE REIS, 9-E • 1150-007 LISBOA\nTel/Fax 218655391 Tel. 96006896\nSociedade por quotas • Capital Social\n5.012.92€ REG.CRC. 34852\nNIB: 0033 0000 01280285463 52\n2019-05-24 FATURA SIMPLIFICADA N:\nOriginal FS 1A1901/4146\n10:44 BALCAO 1\nContribuinte: 510776914\nDESCRICAO IVA VALOR\n*4 FAJA - Puxador 58 1/30 C 23% 10,00\nPreco: 2.50/UNIDADE\n- 1 Escapula ferro c/rosca 23% 10,00\nTAXA IVA INCID.\n23% 3,74 16,26\nTOTAL INCIDENTE:\nTOTAL: Eur 20,00\nPago em Numerario\nValor entregue: 20,00\nTroco: 0.00\nImplementado por www.ticasgest.pt\nNp5z-Processado por programa\ncertificado n. 217/AT\nOs servicos e/ou bens foram realizados e/ou colo\ncados a disposicao do adquirente nesta data (Art\n36-do CIVA, No5 alinea F)\nLicenca: ROGERIO PAIS, LDA\nContribuinte: 500544000\nAlo Chiado\nLavandaria (Escadci)\n"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "HON HWA HARDWARE TRADING",
+    "address": "NO 37, JALAN MANIS 7, TAMAN SEGAR, 56100 CHERAS, KUALA LUMPUR.",
+    "phone": "+603-9130 2672",
+    "tax_id": "GST Reg: 001125220352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-01-05",
+    "time": "16:47:51",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 4.72,
+    "tax": 0.28,
+    "tip": 0.0,
+    "total": 5.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PVC WALLPLUG (50PCS)",
+      "quantity": 5,
+      "unit_price": 1.0,
+      "total_price": 5.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005568890.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "HON HWA HARDWARE TRADING\nCompany Reg. No.: 001065194X\nNO 37, JALAN MANIS 7, TAMAN SEGAR,\n56100 CHERAS, KUALA LUMPUR.\n+603-9130 2672\nGST Reg: 001125220352\nTAX INVOICE\nCB#: 66549 05/01/2017 4:47:51 PM\nM#: C2-0\nCashier: cash1-\nQty Description Price Total(RM)\n5 PVC WALLPLUG 1.00 5.00 SR\n(50PCS)\n5 Type: 1 Total 5.00\nDiscount: 0.00\nRounding Adj 0.00\nTotal Inclusive GST: 5.00\nCASH 5.00\nGST Summary\nCode % Net Amt GST Total(RM)\nSR SR 4.72 0.28 5.00\nTotal 4.72 0.28 5.00\nThank you ! & Please come again !!\nGoods sold are not returnable for refund or exchange !!"
+  }
+}

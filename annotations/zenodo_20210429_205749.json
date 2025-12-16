@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "R Actor Antonio Silva n/7A, 1600-033 Lisboa",
+    "phone": "213828600",
+    "tax_id": "500297993",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-10-20",
+    "time": "14:28:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 18.89,
+    "tax": 1.11,
+    "tip": 0.0,
+    "total": 18.89,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BOL WAF PD BAUN 250G",
+      "quantity": 1,
+      "unit_price": 0.85,
+      "total_price": 0.85,
+      "category": "Food",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ESPARGETE MIL 500GR",
+      "quantity": 1,
+      "unit_price": 0.63,
+      "total_price": 0.63,
+      "category": "Food",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "FAR B.NEVE FINA KG",
+      "quantity": 1,
+      "unit_price": 1.04,
+      "total_price": 1.04,
+      "category": "Food",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PAO SCHOGETTEN PRL",
+      "quantity": 1,
+      "unit_price": 1.19,
+      "total_price": 1.19,
+      "category": "Food",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TAB CHOC TINE LAR",
+      "quantity": 1,
+      "unit_price": 1.98,
+      "total_price": 1.98,
+      "category": "Food",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "LEITE MAGRO VIGOR 1LT",
+      "quantity": 1,
+      "unit_price": 0.79,
+      "total_price": 0.79,
+      "category": "Dairy",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "VITAL MANGO/LARA 20CL",
+      "quantity": 1,
+      "unit_price": 0.47,
+      "total_price": 0.47,
+      "category": "Beverages",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "DET BONGO BANANA 2KG",
+      "quantity": 1,
+      "unit_price": 0.94,
+      "total_price": 0.94,
+      "category": "Household",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 1.11
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_205749.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "FRANCISCO METRASS\nPingo Doce - Distribuição Alimentar, S.A.\nSede: R Actor Antonio Silva n/7A, 1600-033 Lisboa\nRegistro: C.R.C. Lisboa-Matricula/NIPC: 500297993\nArtigos\nE 232 BOL WAF PD BAUN 250G 0,85\nC 6Z ESPARGETE MIL 500GR 0,79\nPoupância Imediata 0,00\nC 4Z FAR.B.NEVE Fina KG 1,19\nPoupância Imediata 0,24\nC E 234 PAO SCHOGETTEN PRL 1,19\nC E 234 TAB CHOC TINE LAR 1,98\nE 232 LEITE MAGRO VIGOR 1LT 0,79\nC 6Z UT HT VIG IPCEE 1L 0,54\nC 6Z OVOS UN SOLO PD 6UN 0,95\nBEBIDAS\nC 6Z VITAL FRUT VER 20CL 0,94\nC 8Z VITAL MANGO/LARA 20CL 0,94\nC 8Z DET BONGO BANANA 2KG 0,94\nResumao\nTOTAL À PAGAR 18,89\nPagamentos\nEURO 20,00\nTaxa Valor s/IVA Valor c/IVA\n23% 7,70 0,46 8,16\n6% 8,22 2,01 2,22\n"
+  }
+}

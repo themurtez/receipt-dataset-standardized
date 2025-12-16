@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 107272.0,
+    "tax": 10727.0,
+    "tip": 0.0,
+    "total": 117999.0,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Milk Choco Egg Avenger 60gr",
+      "quantity": 1,
+      "unit_price": 53636.0,
+      "total_price": 53636.0,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Milk Choco Egg Frozen 60gr",
+      "quantity": 1,
+      "unit_price": 53636.0,
+      "total_price": 53636.0,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000132.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ZAI: Milk Choco Egg Avenger 60gr\n1 53,636.00 53,636.00\nZAI: Milk Choco Egg Frozen 60gr\n1 53,636.00 53,636.00\nTOTAL 107,272.00\nDISCOUNT 0.00\nTAX 10,727.00\nGRAND TOTAL 117,999.00\nTOTAL BAYAR 117,999.00\nCHANGE 0.00"
+  }
+}

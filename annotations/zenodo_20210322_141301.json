@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Intermarche",
+    "address": "Poco Partido, Carvoeiro, 8400-557 Lagoa",
+    "phone": "282380320",
+    "tax_id": "502 997 767",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-07-25",
+    "time": "16:04:00",
+    "currency": "EUR",
+    "payment_method": "VISA",
+    "subtotal": 11.34,
+    "tax": 2.61,
+    "tip": 0.0,
+    "total": 13.95,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "RISJAR SECADOR CABE",
+      "quantity": 1,
+      "unit_price": 11.34,
+      "total_price": 13.95,
+      "category": "Appliances",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210322_141301.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Intermarché\n***** LAGOA *****\nDISTRILAGOA SUPERMARCADOS LDA\nCONTR. N. 502 997 767\nPOCO PARTIDO - CARVOEIRO\n8400-557 LAGOA\nTELEFONE: 282380320 *FAX: 282342807\nDocumento processado por computador\nFATURA FT 3F5C101219/471\n(referencia:92061012631) ORIGINAL\n(Precos em Euros)\nIdentificao cliente\nContribuinte:PT 514407395\nNome: FILMEHOME ALGAR LDA\nMorada: LISBOA\nVIATURA: B.LOCAL DE DESCARGA\nData 2019/07/25 A 16:04\nArtigo P.Unitario P.Total\nQuantidade Sem IVA sem IVA\n1 RISJAR SECADOR CABE\n11,34 11,34 2.00 B\nTOTAL s/IVA 11,34\nTOTAL c/IVA 13,95\nVISA 13,95\nIVA\nBase Taxa IVA s/IVA c/IVA\n023 23,00 2.61 11,34 13,95\nTotais: 2.61 11,34 13,95\n\nHa coisas na vida que valem muito,\nmas devem custar muito pouco\nIntermarché\nJuntos pelo melhor e mais barato.\nDOCUMENTO PROCESSADO POR COMPUTADOR\nCONSERVE ESTE DOCUMENTO\nSERVE DE RECIBO APOS BOA COBRANCA\nRZPEP Processado por programa\nFactura: N.o 1359/AT\n02357 CAIXA 010/0 T/S 2013 R/S O103\nBanco cheque CLIENTE\nData compra: 2019-07-25 A 16:04\nBem entregues nesta data e hora \nao aderente,\npagamento na propria loja."
+  }
+}

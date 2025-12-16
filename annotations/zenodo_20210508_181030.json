@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "ROGERIO PAIS, LDA",
+    "address": "AVENIDA ALMIRANTE REIS, 9-E * 1150-007 LISBOA",
+    "phone": "218653901",
+    "tax_id": "510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-06",
+    "time": "11:34:00",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 17.8,
+    "tax": 4.1,
+    "tip": 0.0,
+    "total": 21.9,
+    "accounting_category": "Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Silicone Branco Sanitar",
+      "quantity": 2,
+      "unit_price": 3.0,
+      "total_price": 6.0,
+      "category": "Supplies",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Bucha Quimica PECOL 300",
+      "quantity": 1,
+      "unit_price": 10.0,
+      "total_price": 10.0,
+      "category": "Supplies",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "AMIG – Esquadro mod. 30",
+      "quantity": 2,
+      "unit_price": 0.95,
+      "total_price": 1.9,
+      "category": "Supplies",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cola branca UHU sec.",
+      "quantity": 1,
+      "unit_price": 3.5,
+      "total_price": 3.5,
+      "category": "Supplies",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_181030.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROGERIO PAIS, LDA\nFERRAGENS * FERRAMENTAS * MAQUINAS * UTILIDADES\nAVENIDA ALMIRANTE REIS, 9-E * 1150-007 LISBOA\nTel/Fax 218653901 Tel. 960008696\n* Sociedade por quotas * Capital Social\n5.012,92 REG.CRC. 34852\nNIB: 0033 0000 00102806463 52\n\n2018-06-06 FATURA SIMPLIFICADA N:\nOriginal FS 1A1801/4873\n11:34 BALCAO 1\n\nContribuinte: 510776914\n\nDESCRICAO IVA VALOR\n2 Silicone Branco sanitar 23% 6,00\nPreco: 3,00/UNIDADE\n1 Bucha Quimica PECOL 300 23% 10,00\n2 AMIG- Esquadro mod. 30 23% 1,90\nPreco: 0,95/UNIDADE\n1 Cola branca UHU sec. ra 23% 3,50\n\nTAXA IVA INCID.\n23% 4,10 17,80\nTOTAL INCIENCIAS: 4,10 17,80\nTOTAL: Eur 21,90\n\nPago em Numerario\nValor entregue: 21,90\nTroco: 0,00\n\nImplementado por www.ticasgest.pt\n\nK3BU-Processado por programa\ncertificado n. 217/AT\n\nOs servicos e/ou bens foram realizados e/ou colo\ncados a disposicao do adquirente nesta data (Art .36  do CIVA, Nº5almea F)\n\nLicenca: ROGERIO PAIS, LDA\nContribuinte: 500544000"
+  }
+}

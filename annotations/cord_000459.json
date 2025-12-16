@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 104500.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 104500.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ZUPPA SOUP",
+      "quantity": 1,
+      "unit_price": 28600.0,
+      "total_price": 28600.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHILLY N’CHEESE",
+      "quantity": 1,
+      "unit_price": 33000.0,
+      "total_price": 33000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BEEF CHEDDAR PD",
+      "quantity": 1,
+      "unit_price": 36300.0,
+      "total_price": 36300.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MINERAL WATER",
+      "quantity": 1,
+      "unit_price": 6600.0,
+      "total_price": 6600.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 500.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000459.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "05130000 ZUPPA SOUP 28,600\n04010000 CHILLY N’CHEESE 33,000\n04080000 BEEF CHEDDAR PD 36,300\n13100000 MINERAL WATER 6,600\nTotal 104,500\nCASH 105,000\nCHANGE 500\n"
+  }
+}

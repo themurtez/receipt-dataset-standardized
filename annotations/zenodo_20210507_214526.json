@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Galp",
+    "address": "Parque Dinis da Mota Nº 4, 9500-241 Ponta Delgada",
+    "phone": "707 504 257",
+    "tax_id": "PT512003637",
+    "website": "galpenergia.com"
+  },
+  "transaction": {
+    "date": "2017-11-11",
+    "time": "16:21:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 26.73,
+    "tax": 4.08,
+    "tip": 0.0,
+    "total": 26.73,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Gasoleo Simples",
+      "quantity": 22.65,
+      "unit_price": 1.18,
+      "total_price": 26.73,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 13.27
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_214526.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "galp\nDOCUMENTO DE VENDA\nPA Principe Monaco S. Miguel 956527\nA. C. CYMBRON, S.A\nParque Dinis da Mota nº 4\n9500-241 PONTA DEL TEL:\nNIF: PT512003637\nFatura/Recibo\nQuantidade\nPreco Unitário\n22.65 L Bomba 04\nGASOLEO SIMPLES EUR 26.73\n1.180 EUR / L\nTotal EUR 26.73\n18.00 % IVA EUR 4.08\nCliente:\nNome:\nMorada:\nCodigo Postal:\nNº Contribuinte: 510776914\nMatricula:\nOperador: Filipe Silva\nDoc. Nº\n0120100305AAB00009656272017/000011618\nTDTe - Processado por Programa\nCertificado n.o 1396/AT\nData\nHora N°Tr POS N°Op Turno\n11-11-17 16:21 21996 01 0004 173\nRegime IVA de Caixa nos casos em que tal seja aplicável ao cliente\nclientes@galp.com / Tel. 707 504 257\nPague com Cartão Continente ou Universo\nDesconto até +6 cent/lt\nExperimente os combustiveis EVOLOGIC\n+PERFORMANCE, +PROTECAO, +POUPANCA\nE + AMBIENTE. Consulte galp.pt.\nSe ainda não tem cartão\nMais por Menos Açores adira já em\nmaispormenos.acores galpenergia.com\nou 707504257.\nTotal EUR 26.73\nNUMERARIO EUR 40.00\nTroco EUR 13.27"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 70000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 70000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chocolate Eclair",
+      "quantity": 1,
+      "unit_price": 13000.0,
+      "total_price": 13000.0,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Double Cheese Pan Bread (L)",
+      "quantity": 1,
+      "unit_price": 37000.0,
+      "total_price": 37000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Whole Wheat Pan Bread",
+      "quantity": 1,
+      "unit_price": 20000.0,
+      "total_price": 20000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 30000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000528.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 CHOCOLATE ECLAIR 13,000\n1 DOUBLE CHEESE PAN BREAD(L) 37,000\n1 WHOLE WHEAT PAN BREAD 20,000\nTOTAL 70,000\nCASH 100,000\nCHANGE 30,000"
+  }
+}

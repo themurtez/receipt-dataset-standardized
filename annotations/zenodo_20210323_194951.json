@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "AKI Portimão",
+    "address": "Rua Adega da Cooperativa, 8500-420 Portimão",
+    "phone": "282 416 900",
+    "tax_id": "506 360 545",
+    "website": "www.aki.pt"
+  },
+  "transaction": {
+    "date": "2019-02-03",
+    "time": "14:17:00",
+    "currency": "EUR",
+    "payment_method": "Visa Electron",
+    "subtotal": 11.97,
+    "tax": 2.24,
+    "tip": 0.0,
+    "total": 11.97,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "2 Redutores E27/E14 Plast",
+      "quantity": 1,
+      "unit_price": 1.99,
+      "total_price": 1.99,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Base C Mesa Quad 40W E14 P",
+      "quantity": 2,
+      "unit_price": 4.99,
+      "total_price": 9.98,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_194951.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AKI Portimão\nRua Adega da Cooperativa\n8500-420 Portimão\nTel.: 282 416 900\nwww.aki.pt\nBCM Bricolage, SA\nR. Ota do Palacin /10,12/790-231 Carnaxide\nCRC Cascais - Capital Soc. 1.232.052 EUR\nNIPC: 506380545 - Reg. REE: PT006860\nFatura\nN°: 053190111/0126862\nData: 03/02/2019 14:17\nHora: 14:17\nMorada:\nLoc.: 1900000 Lisboa\nNIF: 514047935\nIVA\tCÓDIGO\tDESCRIÇÃO\tVALOR\nVENDA\n23.03\t4011092\t2 REDUTORES E27/E14 PLAST\t1,99€\n23.03\t8859380\tBASE C MESA QUAD 40W E14 P\t9,98€\n\t\t2 X 4,99€\t11,97€\nTotal\t\t\t11,97€\nCartão Bancário\t\t\nRECAPITULAÇÃO IVA\nTAXA\tLÍQ.\tIVA\n23.0%\t9,73\t2,24\nLoc. de carga: morada da loja\nLoc. de descarga: morada do cliente\nData e hora de transporte: data e hora da compra\nFATURA INDISPENSÁVEL PARA\nTROCA E DEVOLUÇÃO ATE 100 DIAS\nQwFw-Emitido por programa\nCertificado n°2286/AT.\nOBRIGADO POR COMPRAR NA NOSSA LOJA\nAKI-BRICODIS-PORTIMA\nCRUZ DA PARTERIA\n8500-313 PORTIMAO\nTerminal Pagamento Automático: 00829491\n2019-02-03 14:16:56 Per053 Tr031 Msg547\nMILLENIUM BCP\nS/ALGARVE\nCartao: ****9730/92 \\ VISA ELECTRON\nA0000000032010 \\ COMPRA \\ 11,97€ VELC PP N\nID ESTAB:000008039 AT:853937 VELC PP N\nREDUNRICE\nINOVAÇÃO E CONFIANÇA\nCÓPIA CLIENTE\nPROCESSADO POR SIBS"
+  }
+}

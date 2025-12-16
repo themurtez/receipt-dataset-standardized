@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "SEMBOYAN TEGAS SDN BHD",
+    "address": "No.5 & 7, Jalan TSJ 2, Taman Subang Jasa, Kg. Baru Subang, 40150 Shah Alam, Selangor Darul Ehsan",
+    "phone": "03-7846 1113",
+    "tax_id": "001539653504",
+    "website": "www.semboyan.com"
+  },
+  "transaction": {
+    "date": "2018-06-03",
+    "time": "07:24:06",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 26.2,
+    "tax": 0.78,
+    "tip": 0.0,
+    "total": 27.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "taucu kisar",
+      "quantity": 2,
+      "unit_price": 6.5,
+      "total_price": 13.0,
+      "category": "Food",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Teh wangi ros 180g",
+      "quantity": 2,
+      "unit_price": 4.2,
+      "total_price": 8.4,
+      "category": "Beverage",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "ASAM JAWA 1KG",
+      "quantity": 1,
+      "unit_price": 4.8,
+      "total_price": 4.8,
+      "category": "Food",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.02,
+    "change_due": 25.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006329183.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SEMBOYAN TEGAS SDN BHD\nNo.5 & 7 , Jalan TSJ 2.\nTaman Subang Jasa\nKg. Baru Subang, 40150 Shah Alam\nSelangor Darul Ehsan\nTel 03-7846 1113 Fax 03-7832 1368\nHp: 012-396 1688 012-353 7738\nwww.semboyan.com\nEmail: semboyantegas@gmail.com\n(GST Reg No: 001539653504)\nTax Invoice\n\nCheck #: 549146 Pax(s): 5\nDate : 06-03-2018 07:24:06\nCashier: CASHIER 4\n\nDescription Qty U.price Total TAX\n-\n\ntaucu kisar 2 x 6.50 13.00 SR\nTeh wangi ros 180g 2 x 4.20 8.40 ZR\nASAM JAWA 1KG 1 x 4.80 4.80 ZRL\n\nTotal (Excluding GST) 26.20\nGST Payable: 0.78\nTotal (Inclusive of GST) 26.98\nRounding Adj: 0.02\n\nTOTAL: 271 27.00\nClosed 06-03-2018 07:24.44\n\nCASH : 52.00\nCHANGE : 25.00\n\nGST Summary Amount(RM) Tax(RM)\nSR (@ 6%) 13.00 0.78\nZR (@ 0%) 8.40 0.00\nZRL (@ 0%) 4.80 0.00\n\n*** Thank You ***\nPlease Come Again"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "KB Bake",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 58000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 58000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Cheese Tart",
+      "quantity": 2,
+      "unit_price": 29000.0,
+      "total_price": 58000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 42000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000530.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KB BAKE\n\n*2 Pcs Cheese Tart Rp58000.00\nBag-S\nPS Carrier\nSubtotal: Rp58000.00\nTotal: Rp58000.00\nCustomer Paid Cash: Rp100000.00\nCustomer Change: Rp42000.00"
+  }
+}

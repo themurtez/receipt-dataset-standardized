@@ -1,0 +1,36 @@
+{
+  "merchant": {
+    "name": "Rosebud on Rush",
+    "address": "720 North Rush Street, Chicago, IL",
+    "phone": "312-266-6444",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-07-15",
+    "time": "16:07:00",
+    "currency": "USD",
+    "payment_method": "Visa",
+    "subtotal": 79.17,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 79.17,
+    "accounting_category": "Dining",
+    "category_confidence": 0.8
+  },
+  "items": [],
+  "summary": {
+    "total_items": 0,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1115-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Rosebud on Rush\n720 North Rush Street\nChicago, IL\n312-266-6444\nDate: Jul15'17 04:07PM\nCard Type: Visa\nAcct #: XXXXXXXXXXXX3426\nCard Entry: SWIPED\nTrans Type: PURCHASE\nTrans Key: GIG005625257729\nAuth Code: 190275\nCheck: 1738\nTable: 81/1\nServer: 226 Chelsea\nSubtotal: 79.17\nTIP\nTOTAL\nSIGNATURE\nTHIS IS ROSEBUD'S COPY\nThank You!"
+  }
+}

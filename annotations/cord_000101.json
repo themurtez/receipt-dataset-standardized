@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 13000.0,
+    "tax": 1300.0,
+    "tip": 0.0,
+    "total": 14300.0,
+    "accounting_category": "beverages",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ES CHOCO GREEN TEA",
+      "quantity": 1,
+      "unit_price": 13000.0,
+      "total_price": 13000.0,
+      "category": "beverages",
+      "accounting_category": "beverages",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 85700.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000101.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ES CHOCO GREEN TEA 1 13.000\nSubtotal 13.000\nPPN (10%) 1.300\nTotal 14.300\nTunai 100.000\nKembali 85.700"
+  }
+}

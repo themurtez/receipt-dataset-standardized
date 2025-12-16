@@ -1,0 +1,136 @@
+{
+  "merchant": {
+    "name": "Restaurante Ramíres",
+    "address": "Rua 25 de Abril, n 14, 8200-433 Guia, Albufeira",
+    "phone": "289561232",
+    "tax_id": "50807526",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-25",
+    "time": "20:37:00",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 31.0,
+    "tax": 3.83,
+    "tip": 0.0,
+    "total": 31.0,
+    "accounting_category": "Dining",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Pudim Flan",
+      "quantity": 1,
+      "unit_price": 2.6,
+      "total_price": 2.6,
+      "category": "Dessert",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Mousse Chocolate",
+      "quantity": 1,
+      "unit_price": 2.6,
+      "total_price": 2.6,
+      "category": "Dessert",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Frango",
+      "quantity": 1,
+      "unit_price": 12.5,
+      "total_price": 12.5,
+      "category": "Main Course",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Salada Pequena",
+      "quantity": 1,
+      "unit_price": 3.2,
+      "total_price": 3.2,
+      "category": "Salad",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Dose Arroz",
+      "quantity": 1,
+      "unit_price": 1.7,
+      "total_price": 1.7,
+      "category": "Side",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cola Zero",
+      "quantity": 1,
+      "unit_price": 1.7,
+      "total_price": 1.7,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "IceTea Pessego",
+      "quantity": 1,
+      "unit_price": 1.8,
+      "total_price": 1.8,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Agua s/Gas 25cl",
+      "quantity": 1,
+      "unit_price": 1.2,
+      "total_price": 1.2,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pão",
+      "quantity": 1,
+      "unit_price": 0.7,
+      "total_price": 0.7,
+      "category": "Bread",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Manteiga",
+      "quantity": 2,
+      "unit_price": 0.6,
+      "total_price": 1.2,
+      "category": "Condiment",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Paté Sardinha",
+      "quantity": 1,
+      "unit_price": 1.2,
+      "total_price": 1.2,
+      "category": "Appetizer",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 11,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210321_121830.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Restaurante Ramíres\nRestaurante Ramíres Unipessoal, Lda\nRua 25 de Abril, n 14\n8200-433 Guia - Albufeira\nTel: 289561232\nEmail: restaurante@ramires.pt\nN. Contrib. 50807526\nRegisto na Cons. Albufeira n. 50807526\nCapital Social € 5,000.00\n\nNIF: 514407395\nNome: LIKEHOME ALGARVE, LDA\nMorada:\n\nFatura-recibo FR A191/890\n2019-03-25 20:37\n\nDocumentos referenciados\nTC A191/7029\n\nQt Descrição P.Unit\n1.00 Pudim Flan € 2.60 13\n1.00 Mousse Chocolate € 2.60 13\n1.00 Frango € 12.50 13\n1.00 Salada Pequena € 3.20 13\n1.00 Dose Arroz € 1.70\n1.00 Cola Zero € 1.70\n1.00 IceTea Pessego € 1.80\n1.00 Agua s/Gas 25cl € 1.20\n1.00 Pão € 0.70 13\n2.00 Manteiga € 0.60 13\n1.00 Paté Sardinha € 1.20\nTotal liq. € 31.00\n\nPagamento Valor\nMultibanco € 31.00\n\nTaxa Base Valor Total\n23.00 € 2.92 € 0.68 € 3.60 NOR\n13.00 € 24.23 € 3.17 € 27.40 INT\n\nIVA Incluido\nR/C: 18\n\nK+H-Processado por program\ncertificado n 02513/AT\n\nInformatica Semuel, Lda"
+  }
+}

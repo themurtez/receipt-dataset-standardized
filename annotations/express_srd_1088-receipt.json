@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "MOOYAH Burgers Fries & Shakes #199",
+    "address": "6121 NW Cache Rd, Lawton, OK 73505",
+    "phone": "580-699-5200",
+    "tax_id": "",
+    "website": "MOOYAH.com/survey"
+  },
+  "transaction": {
+    "date": "2014-03-22",
+    "time": "11:44:00",
+    "currency": "USD",
+    "payment_method": "Cash",
+    "subtotal": 11.97,
+    "tax": 1.06,
+    "tip": 0.0,
+    "total": 13.03,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Little MOO Shake",
+      "quantity": 1,
+      "unit_price": 2.99,
+      "total_price": 2.99,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MOOYAH Burger",
+      "quantity": 1,
+      "unit_price": 4.99,
+      "total_price": 4.99,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MOOYAH American Cheese",
+      "quantity": 1,
+      "unit_price": 0.7,
+      "total_price": 0.7,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MOOYAH Sauce",
+      "quantity": 1,
+      "unit_price": 0,
+      "total_price": 0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lettuce",
+      "quantity": 1,
+      "unit_price": 0,
+      "total_price": 0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pickles",
+      "quantity": 1,
+      "unit_price": 0,
+      "total_price": 0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Fried Onion Strings",
+      "quantity": 1,
+      "unit_price": 0,
+      "total_price": 0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Regular Fries",
+      "quantity": 1,
+      "unit_price": 3.29,
+      "total_price": 3.29,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1088-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MOOYAH Burgers Fries & Shakes #199\n6121 NW Cache Rd\nLawton, OK 73505\n580-699-5200\n416\nTable Q#1\nTrans #: 39416 Serv: Petra\n3/22/2014 11:44 AM # Cust: 1\n---------------------------\nQuan  Descript             Cost\n1     Little MOO Shake     $2.99\n1     MOOYAH Burger        $4.99\n1     MOOYAH American Cheese $0.70\n1     MOOYAH Sauce\n1     Lettuce\n1     Pickles\n1     Fried Onion Strings\n1     Regular Fries        $3.29\n---------------------------\nNet Total:             $11.97\nTax:                   $1.06\n---------------------------\nTOTAL:                 $13.03\n\nFood: $8.98\nBeverage: $2.99\n---------------------------\nCASH                   $13.03\n\nGet FREE Small French Fries!\nTake our 1-minute survey\nWithin 72 hours\nMOOYAH.com/survey\n"
+  }
+}

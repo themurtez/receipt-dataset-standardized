@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Farmasi Maluri S/B",
+    "address": "23, Jln Burung Jentayu, Tmn Bukit Maluri, Kepong, 52100 KL",
+    "phone": "",
+    "tax_id": "000342237184",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-02",
+    "time": "17:16:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 79.35,
+    "tax": 4.1,
+    "tip": 0.0,
+    "total": 79.35,
+    "accounting_category": "Pharmacy",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BMS MILK THISTLE",
+      "quantity": 1,
+      "unit_price": 111.3,
+      "total_price": 72.35,
+      "category": "Health Supplement",
+      "accounting_category": "Pharmacy",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TRILON-E CRM",
+      "quantity": 1,
+      "unit_price": 7.0,
+      "total_price": 7.0,
+      "category": "Cosmetic",
+      "accounting_category": "Pharmacy",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 20.65
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005685357.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "3180301\n\nFor Staff : Leong Seng Fook\n\nFarmasi Maluri S/B(587969-U)\nGST NO: 000342237184 (ID:5033)\n23, Jln Burung Jentayu, Tmn Bukit\nMaluri, Kepong, 52100 KL.\nTAX INVOICE\n\nCashier : pos1N M/c. ID : POS7\nReceipt : 71857936 02/03/18 05:16 PM\n\nDescription Disc. Subtotal\n061558 - **BMS MILK THISTLE\n1 X 111.30 36.75 72.35 S\n910845 - TRILON-E CRM\n1 X 7.00 7.00 Z\n\nTOTAL (Including GST) 79.35\n\nROUNDING 0.00\nNET 79.35\nTENDER 100.00\nCHANGE/BALANCE 20.65\n\nGST Summary Amt(Excl.Gst) Tax(RM)\nZRL @0.00% 7.00 0.00\nSR @6.00% 68.25 4.10\n\nGOODS SOLD ARE NON-REFUNDABLE BUT\nEXCHANGEABLE WITHIN 7 DAYS WITH\nRECEIPT PLUS GOODS ARE IN\nRESALEABLE CONDITION.\nAll face mask & injectable are\nnon-returnable & non -exchangeable\n**special promotion"
+  }
+}

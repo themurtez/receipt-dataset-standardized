@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "PINGO DOCE - Distribuição Alimentar, S.A.",
+    "address": "R Actor António Silva, N7, 1649-033 Lisboa",
+    "phone": "213136180",
+    "tax_id": "500829993",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-08-07",
+    "time": "15:21:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 5.58,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 5.58,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "AÇUCAR SIDUL",
+      "quantity": 1,
+      "unit_price": 1.59,
+      "total_price": 1.59,
+      "category": "Grocery",
+      "accounting_category": "Edible",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "DETERG. E PROD. LIMPEZA",
+      "quantity": 1,
+      "unit_price": 3.89,
+      "total_price": 3.89,
+      "category": "Cleaning",
+      "accounting_category": "Non-Edible",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "SACO PLAST RECICL",
+      "quantity": 1,
+      "unit_price": 0.1,
+      "total_price": 0.1,
+      "category": "Misc",
+      "accounting_category": "Miscellaneous",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 14.42
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_203534.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TOMAS RIBEIRO\nTel. 213136180\nPingo Doce - Distribuição Alimentar, S.A.\nSede: R Actor António Silva, N7, 1649-033 Lisboa\nRegisto C.R.C. Lisboa-Matricula/NIPC: 500829993\nANREEE: PT003170 \tC.V. Social: 33,808,115 EUR\n\nArtigos\nMERCEARIA + PET FOOD\nE 23% AÇUCAR SIDUL 125 SAQ \t1.59\nDETERG. E PROD. LIMPEZA\nE 23% DET LOIÇA CONC CIF M \t3.89\nE 23% SACO PLAST RECICL PD \t0.10\nResumo\nTOTAL A PAGAR\t5.58\n\nPagamentos:\nTOTAL PAGO \t\t\t\t20.00\nTROCO \t\t\t\t14.42\nEURO\t\t\t\t20.00\n\nResumo IVA\n\nTaxa\tValor s/IVA\tValor IVA\tValor c/IVA\n\n23%\t4.54\t1.04\t5.58\n\nAtendido por: Luis Fonseca\n\nFactura/Recibo\tFT 0440003197021225/000154\n1ª Via Original  \tData de emissão:07-08-2019\nNº Contribuinte: 510776914\nNome:\tFLIKHOME LDA\nMorada:\tAv da Liberdade 36 1B 1250/145\nLocalidade:\tLisboa\n\nLocal carga... : TOMAS RIBEIRO\nLocal descarga: Morada do cliente\nData:\t2019-08-07 Hora: 15:21\n\n\nFactura necessária para troca em 15 dias\n(Artigos Têxtil e Calçado prazo 30 dias)\n\nexcepto medicamentos e artigos assinados\n\nApoio ao Cliente\n808 20 45 45 / 210 11 44 11 (24 horas)"
+  }
+}

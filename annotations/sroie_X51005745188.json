@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "SLF Cash & Carry",
+    "address": "No.15, Jln TSJ2, Tmn Subang Jasa, Off Jln Bt 3 Subang, 40000 Shah Alam, Sel.",
+    "phone": "03-77343662",
+    "tax_id": "001169132944",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-02-02",
+    "time": "08:31:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 45.28,
+    "tax": 2.72,
+    "tip": 0.0,
+    "total": 48.0,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Royal Baking Powder 450g",
+      "quantity": 4,
+      "unit_price": 11.32,
+      "total_price": 45.28,
+      "category": "Baking Supplies",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005745188.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SLF CASH & CARRY\nNO.15, JLN TSJ2, TMN SUBANG JASA,\nOFF JLN BT 3 SUBANG,\n40000 SHAH ALAM, SEL.\nGST NO: 001169132944\nTEL: 03-77343662 FAX: TAX INVOICE\n\nCASH\n\nRECEIPT #: C500241867 DATE: 02/02/2018\nSALESPERSON : TIME: 08:31:00\nCASHIER : KELLY\n\nITEM QTY U/P AMOUNT\n6194020100124 4 11.32 45.28 S\n(UNIT) ROYAL BAKING POWDER 450G\nTOTAL QUANTITY 4\n\nSUB-TOTAL 45.28\nDISC 0.00\nTAX 0.00\nROUNDING 0.00\nTOTAL 48.00\nCASH 48.00\nCHANGE 0.00\n\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU.\n\nGST SUMMARY\nCODE AMOUNT % TAX/AMT\nSR 45.28 6 2.72\n\nTAX TOTAL: 2.72"
+  }
+}

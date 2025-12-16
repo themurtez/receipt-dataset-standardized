@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "IKEA ALFRAGIDE",
+    "address": "AV DA LIBERDADE, N° 36 1° B, 1200-000, LISBOA",
+    "phone": "",
+    "tax_id": "505186634",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-07-19",
+    "time": "15:09:00",
+    "currency": "EUR",
+    "payment_method": "VISA",
+    "subtotal": 47.97,
+    "tax": 11.03,
+    "tip": 0.0,
+    "total": 59.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ENOKI MOSSBY Capa",
+      "quantity": 2,
+      "unit_price": 23.99,
+      "total_price": 47.98,
+      "category": "Home Goods",
+      "accounting_category": "Furniture",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.02,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_203806.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Obrigado por Visitar IKEA Alfragide\nIKEA Portugal – Móveis e Decoração, Lda.\nNIF: 505186634\nMorada: AV DA LIBERDADE, N° 36 1° B, 1200-000, LISBOA\nVenda\nData: 2018-07-19\nHora: 15:09\nCartão: VISA\nCompra: 00/00\nCartão: 00xxxxxxxx1299/12\nArtigos:\nENOKI MOSSBY Capa 47.98\nTotal: 59.00 EUR\nIVA 23%: 11.03 EUR"
+  }
+}

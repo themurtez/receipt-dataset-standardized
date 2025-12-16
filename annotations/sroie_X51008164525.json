@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "PASAR RAYA MEGA MAJU (SEMENYIH) SDN BHD",
+    "address": "NO 24, 25 & 26, JALAN PUSAT PERNIAGAAN BUNGA RAYA 4, PUSAT PERNIAGAAN BUNGA RAYA",
+    "phone": "",
+    "tax_id": "000746659840",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-07-03",
+    "time": "17:22:43",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 30.45,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 30.45,
+    "accounting_category": "retail",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "SRO 9555544201075 PRO BALANCE 400GM - BEEF",
+      "quantity": 4,
+      "unit_price": 4.35,
+      "total_price": 17.4,
+      "category": "pet food",
+      "accounting_category": "pet food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SRO 9555544201198 PRO BALANCE LAMB 400GM",
+      "quantity": 3,
+      "unit_price": 4.35,
+      "total_price": 13.05,
+      "category": "pet food",
+      "accounting_category": "pet food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.05
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008164525.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PASAR RAYA MEGA MAJU\n(SEMENYIH) SDN BHD\n(767840-W)\nNO 24, 25 & 26,\nJALAN PUSAT PERNIAGAAN BUNGA RAYA 4,\nPUSAT PERNIAGAAN BUNGA RAYA,\nTEL: FAX:\nGST Reg No: 000746659840\n----------------------------------------\nInvoice No : 01-283886\nDate : 03/07/2018 5:22:43 PM\nCashier : SITI\nTAX INVOICE\n----------------------------------------\nDescription Qty Price Amount\n1 SRO 9555544201075 4 4.35 17.40\nPRO BALANCE 400GM - BEFF\n2 SRO 9555544201198 3 4.35 13.05\nPRO BALANCE LAMB 400GM\n\nTotal : 30.45\nDiscount: 0.00\nTotal Sales Inclusive GST @0.00%: 30.45\nCash Received : 30.50\nChange : 0 05\nGST Summary % Amount(RM) Tax(RM)\nSR0 0.00 30.45 0.00\n----------------------------------------\nThank You. Please Come Again\nTerima Kasih. Sila Datang Lagi\nGood Sold Are Not Refundable And Returnable"
+  }
+}

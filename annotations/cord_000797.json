@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 117500.0,
+    "tax": 19557.0,
+    "tip": 0.0,
+    "total": 148127.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GRILLED BABY POTATO (R)",
+      "quantity": 1,
+      "unit_price": 50500.0,
+      "total_price": 50500.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "HOT TUNA",
+      "quantity": 1,
+      "unit_price": 67000.0,
+      "total_price": 67000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "HOT TUNA",
+      "quantity": 1,
+      "unit_price": 67000.0,
+      "total_price": 67000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Discount",
+      "quantity": 1,
+      "unit_price": -67000.0,
+      "total_price": -67000.0,
+      "category": "Discount",
+      "accounting_category": "Adjustments",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "SVC CHG 6%",
+      "quantity": 1,
+      "unit_price": 11070.0,
+      "total_price": 11070.0,
+      "category": "Service Charge",
+      "accounting_category": "Adjustments",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000797.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 GRILLED BABY POTATO (R) 50,500\n1 HOT TUNA 67,000\n1 HOT TUNA 67,000\nDisc -100%(ITM06) -67,000\nSUBTTL 117,500\nSVC CHG 6% 11,070\nPB1 10% 19,557\nTOTAL 148,127"
+  }
+}

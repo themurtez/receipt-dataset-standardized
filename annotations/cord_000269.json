@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 81400.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 81400.0,
+    "accounting_category": "food_and_beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TUNA & CHEDDAR",
+      "quantity": 1,
+      "unit_price": 55000.0,
+      "total_price": 55000.0,
+      "category": "food",
+      "accounting_category": "food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "ONION RINGS",
+      "quantity": 1,
+      "unit_price": 19800.0,
+      "total_price": 19800.0,
+      "category": "food",
+      "accounting_category": "food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "AQUA BTL",
+      "quantity": 1,
+      "unit_price": 6600.0,
+      "total_price": 6600.0,
+      "category": "beverage",
+      "accounting_category": "beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 18600.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000269.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "0111000 TUNA & CHEDDAR 55,000\n0410000 ONION RINGS 19,800\n1310000 AQUA BTL 6,600\nTotal 81,400\nCASH 100,000\nCHANGE 18,600\n"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "UNIHAKKA INTERNATIONAL SDN BHD",
+    "address": "12, Jalan Tampoi 7/4,Kawasan Perindustrian Tampoi, 81200 Johor Bahru, Johor",
+    "phone": "",
+    "tax_id": "000065195684",
+    "website": "Facebook.com/BarWangRice"
+  },
+  "transaction": {
+    "date": "2018-03-21",
+    "time": "17:59:00",
+    "currency": "USD",
+    "payment_method": "CASH",
+    "subtotal": 8.21,
+    "tax": 0.49,
+    "tip": 0.0,
+    "total": 8.7,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Yong Tau Foo (S)",
+      "quantity": 1,
+      "unit_price": 1.6,
+      "total_price": 1.6,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "1 Meat + 3 Vege",
+      "quantity": 1,
+      "unit_price": 7.1,
+      "total_price": 7.1,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005442386.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "UNIHARKA INTERNATIONAL SDN BHD\n21 Mar 2018 17:59\n(867388-U)\n12, Jalan Tampoi 7/4,Kawasan Perindustrian\nTampoi,81200 Johor Bahru,Johor\nTAX INVOICE\nInvoice #: DR18032102170360\n-----------------------------------------------------------\nItem Qty Total\nSR I001000000121- Yong Tau Foo (S)\n$1.60 1 $1.60\nSR I001000000035- 1 Meat + 3 Vege\n$7.10 1 $7.10\nTotal Amount: $8.70\nGST @6%: $0.49\nNett Total: $8.70\n-----------------------------------------------------------\nPayment Mode Amount\nCASH $8.70\nChange $0.00\nGST Summary Amount ($) Tax ($)\nSR = GST @6% 8.21 0.49\nGST REG #000065195684\nBAR WANG RICE@ PERMAS JAYA\n(Price Inclusive Of GST)\nThank You & Come Again!\nLike and Follow Us on Facebook!\nFacebook.com/BarWangRice"
+  }
+}

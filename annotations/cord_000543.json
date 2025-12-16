@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 31000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 31000.0,
+    "accounting_category": "food and beverages",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Hz Choco Mi Topping",
+      "quantity": 1,
+      "unit_price": 27000.0,
+      "total_price": 27000.0,
+      "category": "beverage",
+      "accounting_category": "food and beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Crystal Coffee Jelly",
+      "quantity": 1,
+      "unit_price": 4000.0,
+      "total_price": 4000.0,
+      "category": "add-on",
+      "accounting_category": "food and beverages",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 20000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000543.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 X HZ CHOCO MI (1) TOPPING 27,000\nCRYSTAL COFFEE JELLY ( L ) 4,000\nICE LESS 0 \nSUB TOTAL 31,000\nTOTAL SALES 31,000\nTOTAL ITEMS 1\nCASH 51,000\nCHANGE 20,000"
+  }
+}

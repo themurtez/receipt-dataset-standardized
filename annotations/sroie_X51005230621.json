@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "SIN LIANHAP SDN BHD",
+    "address": "LOT 13, JALAN IPOH, KG BATU 30, ULU YAM LAMA, 44300 BTG KALI, SELANGOR.",
+    "phone": "03-60752222",
+    "tax_id": "001610333920",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-02-05",
+    "time": "",
+    "currency": "MYR",
+    "payment_method": "cash",
+    "subtotal": 7.3,
+    "tax": 0.41,
+    "tip": 0.0,
+    "total": 7.3,
+    "accounting_category": "retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PPD 4MM DENLIME",
+      "quantity": 1,
+      "unit_price": 1.887,
+      "total_price": 2.0,
+      "category": "stationery",
+      "accounting_category": "office supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "6023# GARDEN",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.3,
+      "category": "garden supply",
+      "accounting_category": "home and garden",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005230621.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SIN LIANHAP SDN BHD\nLOT 13, JALAN IPOH,\nKG BATU 30, ULU YAM LAMA\n44300 BTG KALI, SELANGOR.\nTEL: 03-60752222 (HUNTING LINE) FAX: 03-60752572\n( Company Reg No:  264922-D )\n(GST Reg No: 001610333920)\n\nTAX INVOICE\n\nCASH CUSTOMER\nInvoice No. : H0003939\nDate : 05/02/2018\nCashier # :\n\n                       RM             Code\nPPD 4MM DENLIME\n              1.887                SR\n1.000 PC     x                   2.00\n6023# GARDEN\n              5.000                SR\n1.000 PC     x                   5.30\n\n         Subtotal :                                  7.30\nTotal Sales Excluding GST :         6.89\nTotal Sales Inclusive of GST :     7.30\nRounding Adjustment :                 0.00\nPayment :                                    7.30\nChange Due :                               0.00\n\nTotal Item(s) : 2\nGST Summary              Amount    Tax\nSR                               @ 6                             6.89     0.41\n\n***** THANK YOU! *****\n*** PLEASE COME AGAIN ***"
+  }
+}

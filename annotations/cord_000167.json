@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2023-10-01",
+    "time": "12:00:00",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 12600,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 12600,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Risol Rogut",
+      "quantity": 2,
+      "unit_price": 9000,
+      "total_price": 18000,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 88100
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000167.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "2X 9000\nRISOL ROGUT 18000\nDISC ITEM 30.00%\nAMOUNT 54000\nMIKA KCL 0\nPLASTIK 25 0\nSUBTOTAL 12600\nTOTAL 12600\nCASH 100700\nCHANGE 88100"
+  }
+}

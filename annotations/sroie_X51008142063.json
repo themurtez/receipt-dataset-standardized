@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "KEDAI PAPAN YEWO CHUAN",
+    "address": "LOT 276 JALAN BANTING, 43800 DENGKIL, SELANGOR.",
+    "phone": "03-87686092",
+    "tax_id": "000781500416",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-30",
+    "time": "13:01:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 381.5,
+    "tax": 22.89,
+    "tip": 0.0,
+    "total": 404.39,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.85
+  },
+  "items": [
+    {
+      "name": "BESI Y 10 (CQ)",
+      "quantity": 6,
+      "unit_price": 18.02,
+      "total_price": 108.12,
+      "category": "Construction Materials",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "BESI R 5.5 (CQ)",
+      "quantity": 4,
+      "unit_price": 8.48,
+      "total_price": 33.92,
+      "category": "Construction Materials",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "SIMEN",
+      "quantity": 15,
+      "unit_price": 17.49,
+      "total_price": 262.35,
+      "category": "Construction Materials",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 25,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008142063.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KEDAI PAPAN YEWO CHUAN\n(0005583085-K)\nLOT 276 JALAN BANTING\n43800 DENGKIL, SELANGOR.\nTEL: 03-87686092 FAX 03-87686092\nGST ID: 000781500416\nTAX INVOICE\nBill To :\nSUCI ALAM JAYA TRANSPORT\nNO 1 JALAN AMAN 2\nTAMAN DESA 43800\nDENGKIL SELANGOR\n017-6057770\nDoc No.: CS00012330 Date: 30/04/2018\nCashier : USER Time: 13:01:00\nSalesperson : Ref.:\n(GST) (GST)\nItem Qty S/Price S/Price Amount Tax\nJO139 6 17 00 18 02 108.12 SR\nBESI Y 10 (CQ)\n100135 4 8.00 8.48 33.92 SR\nBESI R 5.5 (CQ)\n101756 15 16.50 17.49 262.35 SR\nSIMEN\nTotal Qty: 25 404.39\nTotal Sales (Excluding GST) : 381.50\nDiscount : 0.00\nTotal GST : 22.89\nRounding : 0.00\nTotal Sales (Inclusive of GST) : 404.39\nCASH : 404.39\nChange :  0.00\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR 6 381.50 22.89\nTotal :  381.50 22.89\nGOODS SOLD ARE NOT RETURNABLE. THANK YOU."
+  }
+}

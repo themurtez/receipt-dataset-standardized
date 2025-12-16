@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "FamilyMart",
+    "address": "No 16A, Jalan Astaka U8/83, Bukit Jelutong, 40150 Shah Alam, Selangor",
+    "phone": "",
+    "tax_id": "000468594688",
+    "website": "www.familymart.com.my"
+  },
+  "transaction": {
+    "date": "2018-04-10",
+    "time": "18:31:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 5.0,
+    "tax": 0.33,
+    "tip": 0.0,
+    "total": 5.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "F/Friend S/F Original 2",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Food",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.2
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006502534.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Welcome to the Family\nFamilyMart\nMaxincome Resources Sdn Bhd (383322-D)\nNo 16A, Jalan Astaka U8/83, Bukit Jelutong,\n40150 Shah Alam, Selangor, D.E.\nGST ID: 000468594688\n#0004 Gateway@KLIA 2 (L3-1)\nTel No:\nTAX INVOICE\n10/04/2018 18:31 #000420693\nPOS: 02 CSH: 00004108\nStaff: ECAH\nDesc Amt (RM)\n---------------------------\nF/Friend S/F Original 2 5.00\n---------------------------\nSUB TOTAL (Inc GST)\nTOTAL 5.00\nCASH 6.00\nCHANGE 0.20\n# ITEMS SOLD 1\nTax Code Amt(RM) Tax(RM)\nSR (6%) 5.47 0.33\nTHANK YOU & PLEASE COME AGAIN\n***\nBE A PART OF OUR FAMILY TODAY!\nFACEBOOK : FamilyMartMY\nwww.familymart.com.my"
+  }
+}

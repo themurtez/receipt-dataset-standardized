@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "AIK HUAT HARDWARE ENTERPRISE (SETIA ALAM) SDN BHD",
+    "address": "NO. 17-G, JALAN SETIA INDAH (X) U13/X, SETIA ALAM, SEKSYEN U13, 40170 SHAH ALAM",
+    "phone": "012-6651783",
+    "tax_id": "000394528768",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-06-15",
+    "time": "15:29:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 15.0,
+    "tax": 0.85,
+    "tip": 0.0,
+    "total": 15.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "20\" 1.6KG X 500MM BIG STRETCH FILM",
+      "quantity": 1,
+      "unit_price": 15.0,
+      "total_price": 15.0,
+      "category": "Packaging Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005268200.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AIK HUAT HARDWARE ENTERPRISE (SETIA ALAM) SDN BHD 822737-X NO. 17-G, JALAN SETIA INDAH (X) U13/X, SETIA ALAM, SEKSYEN U13, 40170 SHAH ALAM TEL: 012-6651783 FAX: 03-33423608 GST NO: 000394528768 SIMPLIFIED TAX INVOICE CASH RECEIPT #: CSP039321 DATE: 15/06/2017 SALESPERSON : AH002 TIME: 15:29:00 ITEM QTY U/P (RM) AMOUNT (RM) 2000160000024 1 15.00 15.00 S 20\" 1.6KG X 500MM BIG STRETCH FILM ???? TOTAL QUANTITY 1 SUB-TOTAL (GST) DISC ROUNDING TOTAL CASH CHANGE 15.00 0.00 0.00 15.00 15.00 0.00 *GST @ 6% INCLUDED IN TOTAL GST SUMMARY CODE AMOUNT % TAX/AMT SR 14.15 6 0.85 TAX TOTAL: 0.85 GOODS SOLD ARE NOT REFUNDABLE, THANK YOU FOR CHOOSING US. PLS PROVIDE ORIGINAL BILL FOR GOODS EXCHANGE WITHIN 1 WEEK FROM TRANSACTION GOODS MUST BE IN ORIGINAL STATE TO BE ENTITLED FOR EXCHANGE."
+  }
+}

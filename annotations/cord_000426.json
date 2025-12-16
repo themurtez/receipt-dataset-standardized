@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "BCA EDC",
+    "subtotal": 132636.0,
+    "tax": 13264.0,
+    "tip": 0.0,
+    "total": 145900.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "COLD OCHA",
+      "quantity": 1,
+      "unit_price": 10309.0,
+      "total_price": 10309.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BCA PROMO",
+      "quantity": 1,
+      "unit_price": 54455.0,
+      "total_price": 54455.0,
+      "category": "Discount",
+      "accounting_category": "Promotions",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ABURA UDON SPICY",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "KAKE UDON",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SKEWERED SHUMAI",
+      "quantity": 1,
+      "unit_price": 12727.0,
+      "total_price": 12727.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SKEWERED TOFU ROLL",
+      "quantity": 1,
+      "unit_price": 12727.0,
+      "total_price": 12727.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "EBI TEMPURA",
+      "quantity": 1,
+      "unit_price": 13636.0,
+      "total_price": 13636.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "KITSUNE UDON (KIDS)",
+      "quantity": 1,
+      "unit_price": 28182.0,
+      "total_price": 28182.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000426.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "COLD OCHA 1 10,309\nBCA PROMO 1 54,455\nABURA UDON SPICY 1 0\nKAKE UDON 1 0\nSKEWERED SHUMAI 1 12,727\nSKEWERED TOFU ROLL 1 12,727\nEBI TEMPURA 1 13,636\nKITSUNE UDON (KIDS) 1 28,182\nSUB. TOTAL 132,636\nRESTAURANT TAX 13,264\nGRAND TOTAL 145,900"
+  }
+}

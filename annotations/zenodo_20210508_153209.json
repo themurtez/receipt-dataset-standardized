@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Cyber Clube Ericeira",
+    "address": "Praca da Republica, 11\n2655-347 Ericeira",
+    "phone": "",
+    "tax_id": "244765766",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-07-26",
+    "time": "12:23:00",
+    "currency": "EUR",
+    "payment_method": "Dinheiro",
+    "subtotal": 1.22,
+    "tax": 0.28,
+    "tip": 0.0,
+    "total": 1.5,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "A4 Cores",
+      "quantity": 3,
+      "unit_price": 0.5,
+      "total_price": 1.5,
+      "category": "Paper Products",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_153209.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CYBER CLUBE ERICEIRA\nRAFAELA CARLOS CLEMENTE\nPRACA DA REPUBLICA, 11\n2655-347 ERICEIRA\nNIF: 244765766\nCRC N:\nTIF: 261865743\nNIF: 510776914\n2018-07-26 12:23 (Claudio) Original\nFatura Simplificada FSC 009/30724\nValores em Euro\n008215 A4 CORES 0,50€ 23%\n( 3un x 0,50) 1,50\nTotal (001) 1.50\nDinheiro 1,50\nIVA 23% s/ 1,221 : 0,281\nVINT-Processado por programa certificado n°2360/AT\nGRATOS PELA PREFERÊNCIA"
+  }
+}

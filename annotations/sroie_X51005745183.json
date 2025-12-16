@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "BILLION SIX ENTERPRISE",
+    "address": "NO 3, JALAN TAMAN JASA 2, SECTION U6, 40150 SHAH ALAM.",
+    "phone": "603-58856749",
+    "tax_id": "000944312320",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-02-22",
+    "time": "07:41:46",
+    "currency": "MYR",
+    "payment_method": "Master Card",
+    "subtotal": 60.19,
+    "tax": 3.61,
+    "tip": 0.0,
+    "total": 63.8,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TG7 7\" HIPS PLATE (50PCS) JP",
+      "quantity": 11,
+      "unit_price": 5.8,
+      "total_price": 63.8,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005745183.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BILLION SIX ENTERPRISE\nNO 3, JALAN TAMAN JASA 2, SECTION U6, 40150 SHAH ALAM.\nTel : 603-58856749\nGST Reg No: 000944312320\nTax Invoice\nInvoice No : C .170891\nDate : 22/02/2018 7:41:46 AM\nCashier : 123\nDescription Qty Price Amount\n1 SR 9556405112206 11 5.80 63.80\nTG7 7\" HIPS PLATE (50PCS) JP\nTotal : 63.80\nTotal Sales Inclusive GST @6.00%: 63.80\nMaster Card 63.80\n5148826201779121\nGST Summary % Amount(RM) Tax(RM)\nSR 6.00 63.80 60.19 3.61\nBarang yang sudah di beli, wang tidak dapat di kembalikan. Pertukaran barang hanya boleh dibuat dalam 3 hari sahaja dengan resit."
+  }
+}

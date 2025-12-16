@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Galp",
+    "address": "RUA TOMAS DA FONSECA, TORRE C, 2º, 1600-209 LISBOA",
+    "phone": "961232242",
+    "tax_id": "PT 500434745",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-06-05",
+    "time": "15:28:12",
+    "currency": "EUR",
+    "payment_method": "Cartão Débito",
+    "subtotal": 48.78,
+    "tax": 11.22,
+    "tip": 0.0,
+    "total": 60.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GASOLEO SIMPLES",
+      "quantity": 41.12,
+      "unit_price": 1.459,
+      "total_price": 60.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_170017.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "galp\n\nPRE-PAGAMENTO\n\nA.S. LAGOS (FARO/SAGRES) - 11442\nGALGPESTE S.A\nRUA TOMAS DA FONSECA, TORRE C, 2º\n1600-209 LISBOA Tel: 961232242\nNIF: PT500434745\nFatura/Recibo\n\nQuantidade     Preço Unitário     Preço\n\n41.12 L               Bomba 01            EUR 60.00 A\nGASOLEO SIMPLES\n1.459 EUR / L          EUR 60.00\nTotal % IVA A          EUR 60.00\n23.00 % IVA A         EUR 11.22\n\nCliente: 1766\nNome: FLIXEH0ME ALGARVE LDA\n\nLocalidade:\nContribuinte: 514407395\nMatricula: 59-IV-86\nOperador: 11710237 MARIA JOAO\n\nRb2p - Processado por Programa\nCertificado n.o 1396/AT\n\nData     Hora N°Or POS N°Op Turno\n05-06-19 15:27 19126 02 0011 815\nRegime IVA de Caixa nos casos em que tal\n\nseja aplicavel o cliente\nclientes@galp.com Tel. 707 504 257\n\nA sua opinião é importante!\nPartilhe-a connosco em\nopinao.galp.com/postos\n\nTotal                 EUR 60.00\nCARTAO DEBITO   EUR 60.00\n\nTerminal Pagamento Automático: 00669856\nData: 2019-06-05    Hora: 15:28:12\n\nPedido: 043 Transação: 021 Mensagem:552\nMILLENNIUM BCP\nAMARAL/SALVADOR\nCARTAO: ***1008/09\nA0000000032010       VISA ELECTRON\nCOMPRA   00 VELC PP W\nID ESB: 0001004512 AUT: 795351\nPROCESSADO POR SIBS\n\n9 902191262001100008401254851\n"
+  }
+}

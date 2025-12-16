@@ -1,0 +1,154 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 1490000.0,
+    "tax": 163900.0,
+    "tip": 0.0,
+    "total": 1802900.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Angus Striploin",
+      "quantity": 1,
+      "unit_price": 295000.0,
+      "total_price": 295000.0,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Chicken Steak",
+      "quantity": 1,
+      "unit_price": 140000.0,
+      "total_price": 140000.0,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "CK Red Velvet",
+      "quantity": 1,
+      "unit_price": 65000.0,
+      "total_price": 65000.0,
+      "category": "Pastry",
+      "accounting_category": "Dessert",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Creamed Spinach",
+      "quantity": 1,
+      "unit_price": 40000.0,
+      "total_price": 40000.0,
+      "category": "Food",
+      "accounting_category": "Side Dish",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Fresh Squeezed Orange",
+      "quantity": 1,
+      "unit_price": 60000.0,
+      "total_price": 60000.0,
+      "category": "Beverage",
+      "accounting_category": "Drink",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "House Blend",
+      "quantity": 1,
+      "unit_price": 40000.0,
+      "total_price": 40000.0,
+      "category": "Beverage",
+      "accounting_category": "Drink",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ice Tea Peach",
+      "quantity": 1,
+      "unit_price": 45000.0,
+      "total_price": 45000.0,
+      "category": "Beverage",
+      "accounting_category": "Drink",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ice Tea Rose",
+      "quantity": 1,
+      "unit_price": 70000.0,
+      "total_price": 70000.0,
+      "category": "Beverage",
+      "accounting_category": "Drink",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Jasmine Tea",
+      "quantity": 1,
+      "unit_price": 40000.0,
+      "total_price": 40000.0,
+      "category": "Beverage",
+      "accounting_category": "Drink",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Roasted Chicken",
+      "quantity": 2,
+      "unit_price": 130000.0,
+      "total_price": 260000.0,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Salmon",
+      "quantity": 1,
+      "unit_price": 180000.0,
+      "total_price": 180000.0,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Salmon Seaweed Bowl",
+      "quantity": 1,
+      "unit_price": 120000.0,
+      "total_price": 120000.0,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Sorbet",
+      "quantity": 1,
+      "unit_price": 55000.0,
+      "total_price": 55000.0,
+      "category": "Dessert",
+      "accounting_category": "Dessert",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 13,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000321.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Angus Striploin 295,000\n1 Chicken Steak 140,000\n1 CK Red Velvet 65,000\n1 Creamed Spinach 40,000\n1 F Squeeze Orange 60,000\n1 House Blend 40,000\n1 Ice Tea Peach 45,000\n1 Ice Tea Rose 70,000\n1 Jasmine Tea 40,000\n2 Roasted Chicken 260,000\n1 Salmon 180,000\n1 Salmon Seaweed Bowl 120,000\n1 Sorbet 55,000\n\nSUBTOTAL 1,490,000\nSERVICE 149,000\nTAX 163,900\n\nTOTAL 1,802,900"
+  }
+}

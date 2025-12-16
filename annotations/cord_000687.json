@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 154000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 154000.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "AMBUSH DBL CHS BURG",
+      "quantity": 8,
+      "unit_price": 132000.0,
+      "total_price": 132000.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "AMBUSH CHS BURGER",
+      "quantity": 2,
+      "unit_price": 22000.0,
+      "total_price": 22000.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000687.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "8 AMBUSH DBL CHS BURG 132,000.00\n2 AMBUSH CHS BURGER 22,000.00\n\nSUB-TOTAL 154,000.00\nTAX INCLUDED\nAMOUNT DUE 154,000.00\nVMB BCA 154,000.00\nCHANGE 0.00"
+  }
+}

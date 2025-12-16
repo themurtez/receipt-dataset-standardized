@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Western Eastern Stationery Sdn. Bhd",
+    "address": "42-46, Jln Sultan Azlan Shah, 51200 Kuala Lumpur",
+    "phone": "03-4043 7678",
+    "tax_id": "000517095424",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-26",
+    "time": "14:52:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 40.45,
+    "tax": 2.43,
+    "tip": 0.0,
+    "total": 42.88,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CLR P.S A4/A3",
+      "quantity": 1,
+      "unit_price": 7.0,
+      "total_price": 7.0,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "B/W P.S A4/A3",
+      "quantity": 1,
+      "unit_price": 35.88,
+      "total_price": 35.88,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.02,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006466070.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "3180404\nColor photostat\nWESTERN EASTERN\nSTATIONERY SDN. BHD\nCO REG NO : 210038-K\nGST ID : 000517095424\n42-46, JLN SULTAN AZLAN\nSHAH 51200 KUALA LUMPUR\nTEL : 03-4043 7678\nTAX INVOICE\nREG 26-04-2018 14:52\nC01 KL 001 038239\nCLR P.S A4/A3\nS RM7.00\nB/W P.S A4/A3\nS RM35.88\n2 No\nGST TA AMT RM40.45\nGST 6% RM2.43\nTOTAL RM42.88\nROUNDING\nRM0.02\nCASH RM42.90\nTAX INVOICE OF GST\nGOODS SOLD ARE NOT\nRETURNABLE"
+  }
+}

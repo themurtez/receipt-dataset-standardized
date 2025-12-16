@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Marinagel, Similares de Hotelaria, SA",
+    "address": "Edif. Marina Gaviota, Lj. 17, 8125 022 Vilamoura",
+    "phone": "289302871",
+    "tax_id": "503673838",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-26",
+    "time": "14:29:00",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 20.0,
+    "tax": 0.54,
+    "tip": 0.0,
+    "total": 20.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Pao Alho c/ Queijo",
+      "quantity": 1,
+      "unit_price": 4.9,
+      "total_price": 4.9,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "P. Chourico",
+      "quantity": 1,
+      "unit_price": 12.2,
+      "total_price": 12.2,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Agua Media",
+      "quantity": 1,
+      "unit_price": 2.9,
+      "total_price": 2.9,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210322_130033.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MARINAGEL Similares de Hotelaria, SA\nEdif. Marina Gaviota, Lj. 17\n8125 022 VILAMOURA Tel. 289302871\nC.R.C. LOULE\nC.S. 100 360 Euros NIPC:503673838\nProcessado por computador\n\nFatura\n2019/03/26 14:29 FA 15/7348\n\nNome: FLIKEHOME ALGARVE\nMorada:\nContribuinte: 514407395\numMw - Processado por Programa\ncertificado n. 64/AT - Restus\n\nQTD DESIGNACAO %IVA VALOR\n1 Pao Alho c/ Quei 13,00 4,90\n1 P. Chourico 13,00 12,20\n1 Agua Media 23,00 2,90\n\nSUBTOTAL 20,00\nTOTAL EUR..... 20,00\nMultibanco EUR .......... 20,00\n\nIMPOSTO % INCIDENCIA VALOR\nIVA 13,00 15,14 1,96\nIVA 23,00 2,36 0,54\n\nMESA: 90\nID: Manager"
+  }
+}

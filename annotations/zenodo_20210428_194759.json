@@ -1,0 +1,127 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "510776914",
+    "website": "www.inforectula.com"
+  },
+  "transaction": {
+    "date": "2019-05-17",
+    "time": "00:09:00",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 135.0,
+    "tax": 17.19,
+    "tip": 0.0,
+    "total": 135.0,
+    "accounting_category": "Meals",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "COUVERT",
+      "quantity": 2,
+      "unit_price": 2.5,
+      "total_price": 5.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "HEINEKEN 0,25cl",
+      "quantity": 2,
+      "unit_price": 2.5,
+      "total_price": 5.0,
+      "category": "Beverages",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "LUSO C/ GAS",
+      "quantity": 1,
+      "unit_price": 2.1,
+      "total_price": 2.1,
+      "category": "Beverages",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "LEGENDARY TOMAH",
+      "quantity": 1,
+      "unit_price": 65.0,
+      "total_price": 65.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BLACK ANGUS NEW",
+      "quantity": 1,
+      "unit_price": 25.0,
+      "total_price": 25.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "LEGUMES ASSADOS",
+      "quantity": 1,
+      "unit_price": 4.0,
+      "total_price": 4.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "BATATA FRITA",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "COCA-COLA",
+      "quantity": 2,
+      "unit_price": 2.5,
+      "total_price": 5.0,
+      "category": "Beverages",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "LUSO C/ GAS",
+      "quantity": 1,
+      "unit_price": 2.1,
+      "total_price": 2.1,
+      "category": "Beverages",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "BANANA TWIX CHE",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Dessert",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 11,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_194759.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Diogo\nMesa 30\nNIF: 510776914\nNome: FLH\nMorada:\nFatura-recibo FR 19NG/6537\n2019-05-17 00:09\nOriginal\nDocumentos referenciados\nPRRF 19MS/655\nQt Descricao P.Unit. Valor\n2.00 COUVERT e 2.50 e 5.00 INT\n2.00 HEINEKEN 0,25cl e 2.50 e 5.00 NOR\n1.00 LUSO C/ GAS e 2.10 e 2.10 NOR\n1.00 LEGENDARY TOMAH e 65.00 e 65.00 INT\n1.00 BLACK ANGUS NEW e 25.00 e 25.00 INT\n1.00 LEGUMES ASSADOS e 4.00 e 4.00 INT\n1.00 BATATA FRITA e 3.00 e 3.00 INT\n2.00 COCA-COLA e 2.50 e 5.00 NOR\n1.00 LUSO C/ GAS e 2.10 e 2.10 NOR\n1.00 BANANA TWIX CHE e 6.00 e 6.00 INT\nTotal liq. e 135.00\nPagamento Numerario Valor e 135.00\nTaxa Base Valor Total\n23.00 e 18.71 e 4.29 e 23.00 NOR\n13.00 e 99.10 e 12.90 e 112.00 INT\n0.00 e 0.00 e 0.00 e 0.00 ISE\nProduto Motivo de isencao\nTEM ENTRADA!!! Regime particular do\nIVA Incluido\nCAFk-Processado por programa\ncertificado n.0072/AT\n(Alinea f do Art.36 CIVA) Os artigos faturados foram colocados a disposicao\ndo adquirente em 2019-05-16\nwww.inforectula.com"
+  }
+}

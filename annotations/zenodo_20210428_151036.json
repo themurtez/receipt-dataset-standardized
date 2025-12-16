@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "ROGERIO PAIS, LDA",
+    "address": "AVENIDA ALMIRANTE REIS, 150-007 LISBOA",
+    "phone": "218853901",
+    "tax_id": "510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-21",
+    "time": "12:05:00",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 50.89,
+    "tax": 11.71,
+    "tip": 0.0,
+    "total": 62.6,
+    "accounting_category": "Hardware",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Lampada MATEL LED G9",
+      "quantity": 10,
+      "unit_price": 3.5,
+      "total_price": 35.0,
+      "category": "Lighting",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Calha tecnica br 2mts",
+      "quantity": 1,
+      "unit_price": 2.6,
+      "total_price": 2.6,
+      "category": "Technical Equipment",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Torneira 20x20 c/v",
+      "quantity": 1,
+      "unit_price": 25.0,
+      "total_price": 25.0,
+      "category": "Plumbing",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 12,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_151036.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROGERIO PAIS, LDA\nFERRAGENS * FERRAMENTAS * MAQUINAS * UTILIDADES\nAVENIDA ALMIRANTE REIS, 150-007 LISBOA\nTel/Fax 218853901 Tel. 960000896\n* Sociedade por quotas * Capital Social\n5.012,92€ REG.CRC. 348562\nNIB: 0033 0000 01206206463 52\n2019-03-21 FATURA SIMPLIFICADA N°\nOriginal FS 1A1901/2282\n12:05 BALCAO 1\nContribuinte: 510776914\n\nDESCRICAO IVA VALOR\n10 Lampada MATEL LED G9 2 23% 35,00 >Stock\nPreco: 3,50/UNIDADE\n1 Calha tecnica br 2mts 2 23% 2,60 >7/12\n1 Torneira 20x20 c/v 2,5 23% 25,00\nPreco: 12,50/UNIDADE\n\nTAXA IVA INCID.\n23% 11,71 50,89\nTOTAL INCIDENCIAS: 11,71 50,89\nTOTAL: Eur 62,60\n\nPago em Numerario\nValor entregue: 62,60\nTroco: 0,00\n\nImplementado por www.tisoages.pt\n\nTVQq-Processado por programa\ncertificado n.° 217/AT\n\nOs servicos e/ou bens foram realizados e/ou coló\ncados a disposiçao do adquirente nesta data (Art\n36 do CIVA, No5 alinea F)\n\nLicenca: ROGERIO PAIS, LDA\nContribuinte: 500544000"
+  }
+}

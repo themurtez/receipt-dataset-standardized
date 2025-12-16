@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "FamilyMart",
+    "address": "No 16A, Jalan Astaka U8/83, Bukit Jelutong, 40150 Shah Alam, Selangor, D.E.",
+    "phone": "",
+    "tax_id": "000468594688",
+    "website": "www.familymart.com.my"
+  },
+  "transaction": {
+    "date": "2018-04-16",
+    "time": "16:28:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 18.8,
+    "tax": 1.06,
+    "tip": 0.0,
+    "total": 18.8,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "MarlboroMegaIceB1stBox",
+      "quantity": 1,
+      "unit_price": 17.0,
+      "total_price": 17.0,
+      "category": "Tobacco",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Alladdin Silk Logo 2.58",
+      "quantity": 1,
+      "unit_price": 1.8,
+      "total_price": 1.8,
+      "category": "General Merchandise",
+      "accounting_category": "Retail",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 31.2
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006502531.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Welcome to the Family\nFamilyMart\nMaxincome Resources Sdn Bhd (383322-D)\nNo 16A, Jalan Astaka U8/83, Bukit Jelutong,\n40150 Shah Alam, Selangor, D.E.\nGST ID : 000468594688\n#0023 KLIA2 ARRIVAL\nTel No: -\nTAX INVOICE\n16/04/2018 16:28 #002348863\nPOS: 04 CSH: 00023122\nStaff: REKHA\nDesc\nAmt (RM)\nMarlboroMegaIceB1stBox 17.00SR\nAlladdin Silk Logo 2.58 1.80SR\nSUB TOTAL (Inc GST) 18.80\nTOTAL 18.80\nCASH 50.00\nCHANGE 31.20\n# ITEMS SOLD 2\nTax Code Amt(RM) Tax(RM)\n(6%) 17.74 1.06\nTHANK YOU & PLEASE COME AGAIN\n***\nPART OF OUR FAMILY TODAY!\nFACEBOOK : FamilyMartMY\nwww.familymart.com.my"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 261000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 304326.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BLACK PEPPER MEATBALL",
+      "quantity": 1,
+      "unit_price": 76500.0,
+      "total_price": 76500.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "QUARTO FORMAGGI PASTA",
+      "quantity": 1,
+      "unit_price": 82500.0,
+      "total_price": 82500.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "GREEN TEA WITH CRUMBLE",
+      "quantity": 1,
+      "unit_price": 56000.0,
+      "total_price": 56000.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ORIGINAL BREWED TEA",
+      "quantity": 2,
+      "unit_price": 46000.0,
+      "total_price": 92000.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000015.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 BLACK PEPPER MEATBALL 76,500\n1 QUARTO FORMAGGI PASTA 82,500\n1 GREEN TEA WITH CRUMBLE 56,000\n2 ORIGINAL BREWED TEA 46,000\nSUBTTL 261,000\nSVC CHG 6% 15,660\nPB1 10% 27,666\nTOTAL 304,326"
+  }
+}

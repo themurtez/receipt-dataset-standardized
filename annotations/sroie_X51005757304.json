@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "BAIFU (M) Sdn Bhd",
+    "address": "DAISO JAPAN, IOI MALL",
+    "phone": "03-80763806",
+    "tax_id": "001389649920",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-20",
+    "time": "19:07:00",
+    "currency": "MYR",
+    "payment_method": "cash",
+    "subtotal": 33.4,
+    "tax": 2.0,
+    "tip": 0.0,
+    "total": 35.4,
+    "accounting_category": "sales",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Plastic spoons 8pcs",
+      "quantity": 3,
+      "unit_price": 5.9,
+      "total_price": 17.7,
+      "category": "utensils",
+      "accounting_category": "office_supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Plastic forks 8pcs",
+      "quantity": 3,
+      "unit_price": 5.9,
+      "total_price": 17.7,
+      "category": "utensils",
+      "accounting_category": "office_supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 14.6
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005757304.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "#000002 BAIFU (M) Sdn Bhd\nCOMPANY NO(814198-X)\nDAISO JAPAN, IOI MALL\nPHONE 03-80763806\nGST ID : 001389649920\nWELCOME\nTAX INVOICE\n20/03/2018 7:07pm RCPT NO.18252\nREG:01 CSH:00000008\n4997642045475\nPlastic spoons 8pcs\n5.90 x 3 17.70\n4997642045482\nPlastic forks 8pcs\n5.90 x 3 17.70\nSUB TOTAL (INCL. GST) 35.40\nTOTAL RM 35.40\nCASH\n50.00\nCHANGE\n14.60\n# ITEMS SOLD 6\n-------------------------------------\nTax Code Amt(RM) GST(RM)\nGST (6.000%)\n33.40 2.00\n-------------------------------------\n~THANK YOU~\n~PLEASE COME AGAIN~"
+  }
+}

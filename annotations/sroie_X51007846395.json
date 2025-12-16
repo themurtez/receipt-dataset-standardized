@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Gerbang Alaf Restaurants Sdn Bhd",
+    "address": "Level 6, Bangunan TH, Damansara Uptown 3, No. 3, Jalan SS21/39, 47400 Petaling Jaya, Selangor",
+    "phone": "07-5542-467",
+    "tax_id": "000504664064",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-24",
+    "time": "22:43:04",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 12.8,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 12.8,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "9 Nuggets, Barbecue Sauce, Sweet and Sour Sauce, Sprite, Fries",
+      "quantity": 1,
+      "unit_price": 12.8,
+      "total_price": 12.8,
+      "category": "Fast Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.2
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007846395.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Gerbang Alaf Restaurants Sdn Bhd\n(65351-M)\nLicensee of McDonald's\nLevel 6, Bangunan TH, Damansara Uptown3\nNo.3, Jalan SS21/39,47400 Petaling Jaya\nSelangor\n(GST ID No: 000504664064)\nMcDonald's Mutiara Rini DT (#309)\nTel No. 07-5542-467\nTAX INVOICE\nMFY Side 1\nINV# 003090200024723\nORD #60 -REG #2- 24/06/2018 22:43:04\nQTY ITEM TOTAL\n1 L 9Nuggets 12.80\n1 9Nuggets\n1 Barbecue Sauce\n1 Sweet and Sour Sauce\n1 L Sprite\nLess Ice\n1 L Fries\nEat-In Total (Incl GST) 12.80\nTotal Rounded 12.80\nCash Tendered 13.00\nChange 0.20\nTOTAL INCLUDES 0% GST 0.00\nThank You and Please Come Again."
+  }
+}

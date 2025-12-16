@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Fabrica da Nata - Restauradores",
+    "address": "Praca dos Restauradores, n.62-68\n1250-110 Lisboa",
+    "phone": "211325435",
+    "tax_id": "510776914",
+    "website": "primefood@primefood.pt"
+  },
+  "transaction": {
+    "date": "2019-09-30",
+    "time": "17:29:43",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 5.31,
+    "tax": 0.69,
+    "tip": 0.0,
+    "total": 6.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "1 Cx.6 Natas",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Dessert",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 14.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_182435.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Fabrica da Nata - Restauradores\nPrime Food, SA\nMorada: Praca dos Restauradores, n.62-68\n1250-110 Lisboa\nSede: Rua Ivone Silva n.6 19.\nNo. Contribuinte: 504273183\nTelefone: 211325435\nE-mail: primefood@primefood.pt\nNo. Contribuinte: 510776914\nFatura simplificada FS 022/1322591\nOriginal\nData: 2019-09-30  Hora: 17:29:43\nQt Artigo   IV  Total\n1 Cx.6 Natas    13   6.00\nTotal:                              6.00\nTroco:                             14.00\nTaxa         Base          IVA          Total\n13.00      5.31          0.69         6.00\nConsultas:\nAtendido por: Souto\n** Codigo WC 3366 **\nProcessado por Computador\nIVA Incluido\nCopyright GrupoPIE, SA"
+  }
+}

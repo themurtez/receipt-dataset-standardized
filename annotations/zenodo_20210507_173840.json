@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "botaminuto",
+    "address": "Amoreiras",
+    "phone": "210994257",
+    "tax_id": "IRS 510776914",
+    "website": "www.botaminuto.com"
+  },
+  "transaction": {
+    "date": "2019-10-25",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 4.5,
+    "tax": 0.5,
+    "tip": 0.0,
+    "total": 4.5,
+    "accounting_category": "Retail",
+    "category_confidence": 0.8
+  },
+  "items": [
+    {
+      "name": "Capa Plana",
+      "quantity": 2,
+      "unit_price": 2.25,
+      "total_price": 5.0,
+      "category": "Retail",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_173840.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "botaminuto\nAMOREIRAS\nContribuinte: 506 Lojas de CalÇado Freitas,\nReferencia C.  99927T Ficha Chaleiro Lda\nR. Castilho 392 ABC Vila Verde L R\nComercio Edeputo Minorista  Contribuinte M. 9999/2067\nEtnico:  SES\nLISBOA\nnV NF\nLIR. 510776914 N CI 62519076914\nC 125186151\nETR 61/7251 Data 2019-10-25 Original\nFactura\nVende JOAO ALCÁIDE\nArt. Descricão de Pr. Unit Valor IVA\ntaxa\nCAPA PLANA USO USD\n172 0.250 2.00\n2\nLiquid de C\nVALOR LIQUIDO IVA  Valor IVA\n6 0\n9 0\n80\ntroco\nProcesado por programa\nCertificado N. 1627\nBem colocados a disposicäo dos adqui-\nrentes nesta data, de acordo con\naliina e) do n.5 do artigo 36 de CIVA.\nTrocas e devolugöes aceites com compro-\nvativo de compra E ate 30 dias da data\nde compra.\nA devolugäo de qualquer quantia herente\nà troca ou devolugäo do artigo é feita\npor meio de reembolso com validade de 30\ndias.\n\nObrigado pela Visita. Volte Sempre\nTaläo 1di.spensavel / Entrega-Reclamacao\nTROCAS PRAZO 1 MES\nTel.: 210994257 www.botaminuto.com\nConte-nos a sua\nExperiència!"
+  }
+}

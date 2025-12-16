@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "BRAGAPARQUES, S.A.",
+    "address": "4700 BRAGA, Pq.Estacionamento Martim Moniz, Lisboa",
+    "phone": "",
+    "tax_id": "503290426",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-09-24",
+    "time": "16:32:00",
+    "currency": "EUR",
+    "payment_method": "Dinheiro",
+    "subtotal": 2.9,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 2.9,
+    "accounting_category": "Parking",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Parking Fee",
+      "quantity": 1,
+      "unit_price": 2.9,
+      "total_price": 2.9,
+      "category": "Parking",
+      "accounting_category": "Parking",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_192628.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BRAGAPARQUES, S.A.\nCap. Soc: 10,000,000\n4700 BRAGA\nN. Contr: 503290426\nPq.Estacionamento\nMartim Moniz\nLisboa\n\nRECIBO K2190105707\nCaixa C2\nData: 24.09.19\n\nHORA DE ENTRADA:\n24.09.19 16:32\nHORA DE SAIDA:\n24.09.19 17:42\nTEMPO PARO: HOR:MIN\n01:10\n\nQUANTIA:\nEUR 2.90\n\nTIPO DE PAGAMENTO\nA DINHEIRO\nIVA Incluido\nA Taxa Normal\nDocumento conforme\nArt. 40 n.5a) CIVA\n\nDocum. ao portador\nNome:____\nN. Contr.:____\nMatricula:____\n\nOBRIGADO PELA SUA\nVISITA"
+  }
+}

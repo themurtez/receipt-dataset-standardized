@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Minuto Amorieras",
+    "address": "Quinta Palmeiras, 31 D, Oeiras",
+    "phone": "213099257",
+    "tax_id": "NIF: 506175502",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-08-19",
+    "time": "15:56:00",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 37.4,
+    "tax": 8.6,
+    "tip": 0.0,
+    "total": 46.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "CHAVE PALHETA RLN",
+      "quantity": 2,
+      "unit_price": 8.0,
+      "total_price": 16.0,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "CH AVE ENT SOF1 / SOF-2",
+      "quantity": 2,
+      "unit_price": 14.0,
+      "total_price": 28.0,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_202410.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "minuto AMOREIRAS\nServicos Rapidos Amoreiras, Lda\nQuinta Palmeiras, 31 D , Oeiras\nComercial Amoreiras, loja 5041\nLisboa Tel 213099257\nCap. Soc. 5,000 Euros NIPC 506175502\nCom. Cascais N.9955/2007\nSenhor(es): FLIKEHOME\nNIF: 510776914 N.CLI: PT510776914\nC 2719155662\nFTR 6/12326 Data 2018-08-19 Original\nFactura\nVendedor : Hernany Lima\nArt. Descricao Qde. Pr.Unit. Valor IVA\nCH AVE ENT SOFI / SOF-2\n552 2.00 8.800 17.60 23\nCHAVE PALHETA RLN\n579 2.00 14.200 28.40 23\nTotal de pecas : 4\nVALOR LIQUIDO IVA % VALOR IVA\n0.00 6 0.00\n0.00 13 0.00\n37.40 23 8.60\nDESCONTO 0.00\nTOTAL DOCUMENTO EURO 46.00\nNumerario 46.00\nvVd9-Processado por programa\ncertificado N. 1627/AT\nLocal Carga : Nossa Morada Hora:15:56\nLocal Descarga:Morada Cliente Hora:23:59\nMatricula^\nRef Nome:FLIKEHOME|\nObrigado Pela Visita - Volte Sempre\nO INDISPENSAVEL P/ENTREGA-RECLAMACAO\nTROCAS PRAZO 1 MES\n"
+  }
+}

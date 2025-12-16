@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "GESPOST GESTAO E ADMINISTRACAO DE POSTOS",
+    "address": "AE NORTE KM 262, 3850 ALBERGARIA-A-VELHA",
+    "phone": "234541687",
+    "tax_id": "7856 9012 4025 8658 011",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-16",
+    "time": "18:52:45",
+    "currency": "EUR",
+    "payment_method": "VISA",
+    "subtotal": 93.11,
+    "tax": 17.41,
+    "tip": 0.0,
+    "total": 93.11,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GASOLEO SIMP",
+      "quantity": 66.08,
+      "unit_price": 1.469,
+      "total_price": 97.06,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SOLRED OS DESCONTO IMEDIATO",
+      "quantity": 1,
+      "unit_price": -3.0,
+      "total_price": -3.0,
+      "category": "Discount",
+      "accounting_category": "Discount",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_204308.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GESPOST GESTAO E ADMINISTRACAO DE POSTOS\nABASTECIMENTO UNIPESSOAL LDA\nA25 KM262 NÓ IC2 3850-771 ILHAVO\nCAP SOCIAL EUR 10.000,00 CRC\nNIPC: PT508737877\nS.A.S.REPSOL ANTA A\nANTIGA EN 257,3850 ALB.A-VELHA\nTel.234541687\nFACTURA/RECIBO\nDATA/HORA: 2018-05-16 18:52:45\nNº OPERACAO: 1435/7819881 CAIXA N 2\nVENDEDOR: SILVIA SOUTINHO\nVenda de Combustivel\nNº de Bomba 7 GASOLEO SIMP\nL E 66.080 Litros a 1.469 €/Ltr 97,06 €\n1 Desc. Comb. U203 61,00 €\n1 SOLRED OS DESCONTO IMEDI\nCash Account\nTotal:\nBANCARIO: 93,11 €\nTROCO\nTipo Base \nE 23.0 % 75.70 € \nIncluido a taxa em vigor\nDoc Nr: FR 4305TPY2/280053926\n1 Matricula: 69 GE53\nZIKS-Processado por Programa Certificado\nN.1072/AT\nLocal: 000001693-01\nOpere.: 0454 Tipo:1-V Nr.Auto: 780311\nSOLRED OS DESCONTO IMEDIATO\n7856 9012 4025 8658 011\nEmpresa: 000000000000\nPA AS ANTUA A\nAE NORTE KM 262\n3850 ALBERG.A-VELHA\nNumero Fiscal de Contribuinte: 000000000\nTerminal Pagamento Automatico: 00002402\nData: 2018/05/16 Hora: 18:52:23\nPeriodo:061 Transacao:020 Mensagem:547\nNumero Comercio: 0000060941\nCOMPRA CHIP 00/00\nRODRIGUES/MIGUELEN* * *\nCartao 00 ********4840/95 Op.: 00007\nVisa VISA\nConta/Autorizaqao: AU:063275\nMILLENNIUM BCP\nEnq: 93,11\nVISA COMM DB N\n"
+  }
+}

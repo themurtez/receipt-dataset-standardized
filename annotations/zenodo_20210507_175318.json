@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "BIZARSHOPPING",
+    "address": "ALAMEDA SANTO ANTONIO DOS CAPUCHOS 2A, 1150-220 QUINTA DE SAU PEDRO, LISBOA",
+    "phone": "",
+    "tax_id": "259645575",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-09-28",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 1.83,
+    "tax": 0.42,
+    "tip": 0.0,
+    "total": 2.25,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Produtos Decorativos",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Home Decor",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ferramentas",
+      "quantity": 1,
+      "unit_price": 0.75,
+      "total_price": 0.75,
+      "category": "Tools",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 17.75
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_175318.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BIZARSHOPPING\nXU JIA\nContribuinte Nr: 259645575\nALAMEDA SANTO ANTONIO DOS CAPUCHOS 2A\n1150-220 QUINTA DE SAU PEDRO LISBOA\nTel:\n2019-09-28\nNome: FLIKEHOME\nCont. Nr: 51076914\nMorada:\nORIGINAL\nFatura Nr: FAC 101/00031763\nIVA Descricao Total\n23% Produtos Decorativos \n1 X 1.50 1.50\n23% Ferramentas \n1 X 0.75 0.75\nTotal A Pagar Euros: 2.25\nNumero De Artigos : 2\nRecebido (Euros) 20.00\nTroco (Euros) 17.75\nIVAX Base IVA Total\n23% 1.83 0.42 2.25\nTotal: 2.25Euros\nTalao indispensavel para troca em 15 dias.\nOBRIGADO E VOLTE SEMPRE"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Worten",
+    "address": "Rua Santana, Lisboa",
+    "phone": "810-390-500",
+    "tax_id": "PT502540000",
+    "website": "www.worten.pt"
+  },
+  "transaction": {
+    "date": "2017-10-04",
+    "time": "19:51:13",
+    "currency": "EUR",
+    "payment_method": "Credit Card",
+    "subtotal": 24.38,
+    "tax": 5.61,
+    "tip": 0.0,
+    "total": 29.99,
+    "accounting_category": "Electronics",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "RE:200",
+      "quantity": 1,
+      "unit_price": 29.99,
+      "total_price": 29.99,
+      "category": "Electronics",
+      "accounting_category": "Electronics",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_202523.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "WORTEN LOJA\nTax ID: PT502540000\nRua Santana LISBOA\nTEL: 810-390-500\nData: 04/10/2017 Hora: 19:51:13\nComprimento: 29,99 EUR\nCX GERAL DEPOSITOS\nCartao: ***2801/85\nMULTIBANCO\nCompra: 29,99 EUR\nwww.worten.pt"
+  }
+}

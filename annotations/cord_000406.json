@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Boston Cream",
+    "address": "Paskal Hyper Square Lantai UG",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-04-08",
+    "time": "18:28:00",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 6000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 6000.0,
+    "accounting_category": "Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Nu Greentea 330",
+      "quantity": 1,
+      "unit_price": 6000.0,
+      "total_price": 6000.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000406.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Boston Cream, Paskal Hyper Square\nPaskal Hyper Square Lantai UG, No\n\n18:28 PM, 08 Apr 2019\n\nNu Greentea 330\n1x 6.000 6.000\n\nSubtotal 6.000\nPajak\nTotal 6.000\n\nTunai 6.000"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "merchant": {
+    "name": "Fish Farm Thai Restaurant",
+    "address": "KM 4, Jln Ampang, Hulu Langat, 68000 Ampang, Selangor.",
+    "phone": "+6012-260 6493 or +6012-286 8193",
+    "tax_id": "0009 3395 3536",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-01",
+    "time": "06:33:22",
+    "currency": "MYR",
+    "payment_method": "VISA",
+    "subtotal": 371.0,
+    "tax": 23.37,
+    "tip": 18.55,
+    "total": 412.9,
+    "accounting_category": "Dining",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Fried Kampung Chicken",
+      "quantity": 1,
+      "unit_price": 80.0,
+      "total_price": 80.0,
+      "category": "Food",
+      "accounting_category": "Dining: Entree",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Tom Yam Seafood",
+      "quantity": 1,
+      "unit_price": 40.0,
+      "total_price": 40.0,
+      "category": "Food",
+      "accounting_category": "Dining: Soup",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Watermelon Juice (Big)",
+      "quantity": 1,
+      "unit_price": 20.0,
+      "total_price": 20.0,
+      "category": "Beverage",
+      "accounting_category": "Dining: Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Orange Juice (Big)",
+      "quantity": 1,
+      "unit_price": 20.0,
+      "total_price": 20.0,
+      "category": "Beverage",
+      "accounting_category": "Dining: Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Lala Chili Paste",
+      "quantity": 1,
+      "unit_price": 21.0,
+      "total_price": 21.0,
+      "category": "Condiment",
+      "accounting_category": "Dining: Condiment",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Nasi Putih",
+      "quantity": 6,
+      "unit_price": 2.5,
+      "total_price": 15.0,
+      "category": "Food",
+      "accounting_category": "Dining: Side",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "BBQ Talapia",
+      "quantity": 1,
+      "unit_price": 84.0,
+      "total_price": 84.0,
+      "category": "Food",
+      "accounting_category": "Dining: Entree",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Sotong Steam Lime Sauce",
+      "quantity": 1,
+      "unit_price": 36.0,
+      "total_price": 36.0,
+      "category": "Food",
+      "accounting_category": "Dining: Entree",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Kacang Botol B Putih",
+      "quantity": 1,
+      "unit_price": 15.0,
+      "total_price": 15.0,
+      "category": "Food",
+      "accounting_category": "Dining: Side",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Telur Goreng Bawang",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Food",
+      "accounting_category": "Dining: Side",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Butter Prawn (S)",
+      "quantity": 1,
+      "unit_price": 28.0,
+      "total_price": 28.0,
+      "category": "Food",
+      "accounting_category": "Dining: Entree",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 12,
+    "rounding": -0.02,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008042787.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "FISH FARM THAI RESTAURANT\nVeg Fish Farm Thai Restaurant S/B\nComp. Reg. No. 928627-V\nKM 4, Jln Ampang, Hulu Langat,\n68000 Ampang, Selangor.\n+6012-260 6493 or +6012-286 8193\n**TAX INVOICE**\nGST Reg. No.: 0009 3395 3536\n(DUPLICATED)\nINV No.: 36173 Printed: 01/05/2018 6:33:22\nStatus: CLOSED\nTable 40 Pax. 6\nCashier: jam01 01/05/2018 2:30:10\nQty Product Code Unit RM Subtotal RM & Tax Code\nDescription\nA3B 80.00 80.00 SR\n1 FRIED KAMPUNG CHICKEN (1 EKOR)\nF1 40.00 40.00 SR\n1 TOMYAM SEAFOOD (MERAH)\nFJ68 20.00 20.00 SR\n1 WATERMELON JUICE (BIG)\nFJ5B 20.00 20.00 SR\nORANGE JUICE (BIG)\nL1B 21.00 21.00 SR\nLALA CHILI PASTE (B)\nN5 2.50 15.00 SR\nNASI PUTIH\nQ1 84.00 84.00 SR\nBBQ TALAPIA\nS6 36.00 36.00 SR\nSOTONG STEAM LIME SAUCE\nSKB2B 15.00 15.00 SR\nKACANG BOTOL B PUTIH (B)\nT2B 12.00 12.00 SR\nTELUR GORENG BAWANG (B)\nU5 28.00 28.00 SR\nBUTTER PRAWN (S)\nSUBTOTAL: 371.00\nNET SALES : 371.00\nSERVICE CHARGE 5% : 18.55\nGST 6% : 23.37\nTotal : 412.92\nRounding Adj. : -0.02\nGRAND TOTAL : 412.90\nVISA 412.90\nGST CODE & % Amount (RM): Tax (RM):\nSR 6% 389.55 23.37\nZRL 0% 0.00 0.00\n\nThank You!"
+  }
+}

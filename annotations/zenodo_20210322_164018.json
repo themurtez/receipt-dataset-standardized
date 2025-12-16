@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "O Forno do Fraser",
+    "address": "Rua de Casino, Nº 4 B/C, 8400-515 Carvoeiro",
+    "phone": "",
+    "tax_id": "181528479",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-06-03",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 11.5,
+    "tax": 1.46,
+    "tip": 0.0,
+    "total": 11.5,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Fraser 30cm",
+      "quantity": 1,
+      "unit_price": 9.5,
+      "total_price": 9.5,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cerveja",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Beverage",
+      "accounting_category": "Drink",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 8.5
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210322_164018.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "O Forno do Fraser\nJoão Carlos Barata Conceição N 4\nRua de Casino, Nº 4 B/C\n8400-515 Carvoeiro\nNr. Contribuinte: 181528479\nFatura Simplificada: FS 1/5850\nOriginal\nContribuinte: 514407935\nData: 2019-06-03\n------------------------------------------\nQnt Produto Unit Sub\n1 Fraser 30cm 9.50 9.50\n1 Cerveja 2.00 2.00\n------------------------------------------\nTotal: 11.50 EUR\n\nModo de Pagamento: Numerário\nEntrega: 20.00 Troco: 8.50\nPronto Pagamento\n------------------------------------------\nResumo de impostos\nTotal Imp. Incid\n13 1.09\n23 0.37\n------------------------------------------\nUA01-Processado por programa\ncertificado n. 1522/AT-IDRnet\nTerminal: 1 Mesa: 9\nEmpregado: Gerente\n------------------------------------------\n* Obrigado e volte sempre! *"
+  }
+}

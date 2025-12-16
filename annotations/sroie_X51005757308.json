@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Mr. D.I.Y. (M) Sdn Bhd",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000306020352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-21",
+    "time": "12:27:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 20.28,
+    "tax": 1.22,
+    "tip": 0.0,
+    "total": 21.5,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Cloth Tape 46mm*5m (Red)",
+      "quantity": 1,
+      "unit_price": 1.9,
+      "total_price": 1.9,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Bopp Tape 48mm*100m Clear",
+      "quantity": 1,
+      "unit_price": 3.9,
+      "total_price": 3.9,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cloth Tape 46mm*5m (Green)",
+      "quantity": 1,
+      "unit_price": 1.9,
+      "total_price": 1.9,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "DBL Side Clear Acrylic Tape",
+      "quantity": 1,
+      "unit_price": 11.9,
+      "total_price": 11.9,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "D/S Tape 1.8*15m",
+      "quantity": 1,
+      "unit_price": 1.7,
+      "total_price": 1.7,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Plastic Bags",
+      "quantity": 1,
+      "unit_price": 0.2,
+      "total_price": 0.2,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 28.5
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005757308.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "31803045\nMR. D.I.Y. (M) SDN BHD\n(CO.REG :860671-D)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000306020352)\n(IOI PUCHONG)\n-TAX INVOICE-\n------------------------------------------\nCLOTH TAPE 46MM*5M (RED) *S\nRC22-32 - 36\n9084134 1 X 1.90 1.90\nBOPP TAPE 48MM*100M CLEAR *S\nGB12-21-22 - 36\n6935818350846 1 X 3.90 3.90\nCLOTH TAPE 46MM*5M (GREEN) *S\nHDO3 - 36\n9084135 1 X 1.90 1.90\nDBL SIDE CLEAR ACRYLIC TAPE VST106C *S\nWA10 - 8/64\n9554100363103 1 X 11.90 11.90\nD/S TAPE 1.8*15M *S\nMC42 - 88\n9080456 1 X 1.70 1.70\nPLASTIC BAGS *S\n99999 1 X 0.20 0.20\nItem(s) : 6\nQty(s) : 6\n------------------------------------------\nTotal Incl. GST@6% RM 21.50\nCASH RM 50.00\nCHANGE RM 28.50\nGST @6% included in total RM 1.22\n------------------------------------------\n*--------------------------------------*\n21-03-18 12:27 SH01 ZJ86 T2 R000110882\nOPERATOR TRAINEE CASHIER\nEXCHANGE ARE ALLOWED WITHIN\n7 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

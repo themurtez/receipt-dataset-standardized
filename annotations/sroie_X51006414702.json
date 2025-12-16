@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "Triple Six Point Enterprise 666",
+    "address": "No 14 & 16 Jalan Permas 4/3 Bandar Baru Permas Jay",
+    "phone": "016-7574666",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-23",
+    "time": "18:29:01",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 165.1,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 157.9,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Hey Song Japan green Tea 580ml",
+      "quantity": 24,
+      "unit_price": 4.3,
+      "total_price": 96.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Hwa Tai Luxury coklat cream",
+      "quantity": 1,
+      "unit_price": 3.9,
+      "total_price": 3.9,
+      "category": "Snack",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Hwa Tai Luxury peanuts cracker",
+      "quantity": 1,
+      "unit_price": 3.9,
+      "total_price": 3.9,
+      "category": "Snack",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Hwa Tai Luxury lemon cream",
+      "quantity": 2,
+      "unit_price": 3.9,
+      "total_price": 7.8,
+      "category": "Snack",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Bento Sweet Spicy",
+      "quantity": 1,
+      "unit_price": 12.9,
+      "total_price": 12.9,
+      "category": "Snack",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Tango Almonds 20Bars",
+      "quantity": 1,
+      "unit_price": 30.9,
+      "total_price": 30.9,
+      "category": "Snack",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Yeos Soya 1L",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 31,
+    "rounding": 0.0,
+    "change_due": 2.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006414702.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Triple Six Point Enterprise 666\nNo 14&16 Jalan Permas 4/3 Bandar Baru Permas Jay\nTel: 016-7574666\nReceipt no: REC-0016614\nDate: 23-04-2018 06:29:01 PM\nPayment Type: Cash\nReceipt\n(Receipt No.: REC-0016614)\nQTY ITEM PRICE TOTAL\nPRICE (RM)\n(RM)\n24 Hey Song 4.30 96.00\nx Japan green\nTea 580ml\n(Disc: 7.2000)\n1x Hwa Tai Luxury 3.90 3.90\ncoklat cream\n1x Hwa Tai Luxury 3.90 3.90\npeanuts\ncracker\n2x Hwa Tai Luxury 3.90 7.80\nlemon cream\n1x Bento Sweet 12.90 12.90\nSpicy\n1x Tango Almonds 30.90 30.90\n20Bars\n1x Yeos Soya 1L 2.50 2.50\nDiscount 7.20\nTotal Amount 157.90\nTendered 160.00\nChange 2.10"
+  }
+}

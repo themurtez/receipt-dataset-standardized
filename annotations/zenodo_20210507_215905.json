@@ -1,0 +1,145 @@
+{
+  "merchant": {
+    "name": "Portvgalia",
+    "address": "Rua de S. Caetano N°4, 1249-132 Lisboa",
+    "phone": "213 911 234",
+    "tax_id": "502036768",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-20",
+    "time": "14:51:55",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 48.07,
+    "tax": 6.73,
+    "tip": 0.0,
+    "total": 54.8,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "1 Imp Branca 25cl",
+      "quantity": 1,
+      "unit_price": 1.7,
+      "total_price": 1.7,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "1 Pepsi zero lt",
+      "quantity": 1,
+      "unit_price": 2.1,
+      "total_price": 2.1,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "1 Bacalhau Bras",
+      "quantity": 1,
+      "unit_price": 8.35,
+      "total_price": 8.35,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "1/2 Bacalhau Bras",
+      "quantity": 1,
+      "unit_price": 6.1,
+      "total_price": 6.1,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "1 Bife Vazia",
+      "quantity": 1,
+      "unit_price": 15.1,
+      "total_price": 15.1,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "1 Pepsi lt",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "3 Pão",
+      "quantity": 3,
+      "unit_price": 0.8,
+      "total_price": 2.4,
+      "category": "Food",
+      "accounting_category": "Appetizer",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "1 Tarte Frade Fatias",
+      "quantity": 1,
+      "unit_price": 0.8,
+      "total_price": 0.8,
+      "category": "Food",
+      "accounting_category": "Dessert",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "1 Manteiga Alho",
+      "quantity": 1,
+      "unit_price": 0.8,
+      "total_price": 0.8,
+      "category": "Food",
+      "accounting_category": "Appetizer",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "3 Café",
+      "quantity": 3,
+      "unit_price": 0.85,
+      "total_price": 2.55,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "1 Farófias",
+      "quantity": 1,
+      "unit_price": 2.35,
+      "total_price": 2.35,
+      "category": "Food",
+      "accounting_category": "Dessert",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "1 Baba Canel",
+      "quantity": 1,
+      "unit_price": 3.1,
+      "total_price": 3.1,
+      "category": "Food",
+      "accounting_category": "Dessert",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 12,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_215905.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Portvgalia\nPortugália Rio\nPortugalia Restaruções, SA\nRua de S Caetano N° 4\n1249-132 Lisboa\nTel:123513234 213 911 234\nN. Contrib: 502036768\nRegistro na Cons: Lisboa n. 502036768\nCapital Contato: 809 045 29 Euros\nCliente 000776914\nFatura simplificada FS 113/156767\n2017-11-20 14:51:55\nQt Artigo IV Total\n1 Imp Branca 25cl 23 € 1 1.70\n1 Pepsi zero lt 23 2.10\n1 Bacalhau Bras 13 € 8.35\n1/2 Bacalhau Bras 13 € 6.10\n1 Bife Vazia 13 € 15.10\n1 Pepsi lt 23 € 3.00\n3 Pão 13 € 0.80\n1 Tarte Frade Fatias 13 € 0.80\n1 Manteiga Alho 13 € 0.80\n3 Café 13 € 2.35\n1 Farófias 13 € 2.35\n1 Baba Canel 13 € 3.10\nTotal €54.80\nPago €54.80\nTroco €0.00\nMétodos de pagamento:\nMultibanco € 18.50\n€ 36.30\nTaxa Base IVA IR\n13 43.27 5 6.30 \n23.00 4.60 1.10 € 5.90\nTotal € 48.07 € 6.73 € 54.80\nMesa 50 Emp 16925\nIVA incluído\nconsultas:\nDC 113/351971\nObrigado e voltem sempre\nWivig Processado por programa\ncertificado n. 0071/AT\nCopyright GrupoPIE SA"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 212500.0,
+    "tax": 35275.0,
+    "tip": 0.0,
+    "total": 247775.0,
+    "accounting_category": "Food and Beverages",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Black Pepper Meatball",
+      "quantity": 1,
+      "unit_price": 76500.0,
+      "total_price": 76500.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Green Tea with Crumble",
+      "quantity": 1,
+      "unit_price": 56000.0,
+      "total_price": 56000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Earl Grey Milk Tea",
+      "quantity": 1,
+      "unit_price": 57000.0,
+      "total_price": 57000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Original Brewed Tea",
+      "quantity": 1,
+      "unit_price": 23000.0,
+      "total_price": 23000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverages",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000013.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BLACK PEPPER MEATBALL 76,500\nGREEN TEA WITH CRUMBLE 56,000\nEARL GREY MILK TEA 57,000\nORIGINAL BREWED TEA 23,000\nSUBTTL 212,500\nSVC CHG 6% 12,750\nPB1 10% 22,525\nTOTAL 247,775"
+  }
+}

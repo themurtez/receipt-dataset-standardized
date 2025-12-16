@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Noches De Colombia",
+    "address": "204 Jericho Turnpike, Mineola, NY 11501",
+    "phone": "(516) 747-8061",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-07-09",
+    "time": "09:22:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 9.95,
+    "tax": 0.86,
+    "tip": 0.0,
+    "total": 10.81,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chicharron",
+      "quantity": 1,
+      "unit_price": 3.95,
+      "total_price": 3.95,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Maduros",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1087-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "#Noches De Colombia\n204 JERICHO TURNPIKE\nMINEOLA, NY 11501\n(516)747-8061\n\nCheck:500592 Guests: 0\nDate: 07/09/19 Time:09:22am\nTable: 1\nServer: Emely\n\n1 Chicharron $3.95\n1 Maduros $6.00\n\nSubtotal: $9.95\nTax: $0.86\nSbt w/Tax: $10.81\nAmt Due: $10.81"
+  }
+}

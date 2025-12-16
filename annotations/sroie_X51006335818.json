@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Segi Cash & Carry Sdn.Bhd",
+    "address": "PT17920, SEKSYEN U9, 40150 SHAH ALAM, SELANGOR DARUL EHSAN",
+    "phone": "011-3194 0284",
+    "tax_id": "001951645696",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-02-06",
+    "time": "12:57:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 26.98,
+    "tax": 1.53,
+    "tip": 0.0,
+    "total": 27.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "KJ ESSENCE MERAH CERAH 25G",
+      "quantity": 5,
+      "unit_price": 2.44,
+      "total_price": 12.19,
+      "category": "Grocery",
+      "accounting_category": "Retail",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "STAR ORANGE FLAVOUR 25ML",
+      "quantity": 3,
+      "unit_price": 2.49,
+      "total_price": 7.47,
+      "category": "Grocery",
+      "accounting_category": "Retail",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "KJ ESSENCE HIJAU EPAL 25G",
+      "quantity": 3,
+      "unit_price": 2.44,
+      "total_price": 7.32,
+      "category": "Grocery",
+      "accounting_category": "Retail",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 11,
+    "rounding": 0.02,
+    "change_due": 23.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006335818.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Segi Cash & Carry Sdn.Bhd (317041-W)\nPT17920, SEKSYEN U9, 40150 SHAH ALAM, SELANGOR DARUL EHSAN.\nGST Reg. No. : 001951645696.\nInvoice No : 46640\nDate : 06 Feb 2017 12:57pm\nCounter : 02\nKJ ESSENCE MERAH CERAH 25G\n5 x 2.44 12.19 S\nSTAR ORANGE FLAVOUR 25ML\n3 x 2.49 7.47 S\nKJ ESSENCE HIJAU EPAL 25G\n3 x 2.44 7.32 S\nNo of items: 11\nSubtotal Incl. GST:RM 26.98\nRounding:RM 0.02\nTotal Incl. GST:RM 27.00\nCash:RM 50.00\nChange:RM 23.00\nMissed Point Today: 25\nServed by ASHOK KUMAR\nGST Code Amount(RM) Tax(RM)\nS 06.0% 25.45 1.53\nRef No: 0060666246046640\nThank You. Please come again.\nGoods Sold Are Not Returnable.\nFor feedback or complaint, please call: 011-3194 0284"
+  }
+}

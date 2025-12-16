@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 46000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 46000.0,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Original No Salt",
+      "quantity": 1,
+      "unit_price": 12000.0,
+      "total_price": 12000.0,
+      "category": "Snacks",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Sour Cream N Onion",
+      "quantity": 2,
+      "unit_price": 17000.0,
+      "total_price": 34000.0,
+      "category": "Snacks",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 54000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000655.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ORIGINAL NO SALT\n1  12,000\nSOUR CREAM N ONION\n2  17,000\nSUB TOTAL  46,000\nGRAND TOTAL  46,000\nCASH  100,000\nCHANGE DUE  54,000"
+  }
+}

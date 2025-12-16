@@ -1,0 +1,118 @@
+{
+  "merchant": {
+    "name": "Sepi Cash & Carry Sdn. Bhd.",
+    "address": "P17920 Sek U9, Shah Alam",
+    "phone": "",
+    "tax_id": "001951645696",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-05-11",
+    "time": "10:13:00",
+    "currency": "MYR",
+    "payment_method": "Master",
+    "subtotal": 83.54,
+    "tax": 4.17,
+    "tip": 0.0,
+    "total": 83.55,
+    "accounting_category": "Retail",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Salad Bulat",
+      "quantity": 1,
+      "unit_price": 2.28,
+      "total_price": 2.28,
+      "category": "Grocery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Salad Bulat",
+      "quantity": 1,
+      "unit_price": 2.31,
+      "total_price": 2.31,
+      "category": "Grocery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Siew Pak Choy - Pkt",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Grocery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Nestum All Family Cereal",
+      "quantity": 1,
+      "unit_price": 4.19,
+      "total_price": 4.19,
+      "category": "Grocery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Daun Bawang",
+      "quantity": 1,
+      "unit_price": 1.2,
+      "total_price": 1.2,
+      "category": "Grocery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Daun Ketumbar Thai",
+      "quantity": 1,
+      "unit_price": 2.18,
+      "total_price": 2.18,
+      "category": "Grocery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Alighan Fruit Cocktail B3AG",
+      "quantity": 2,
+      "unit_price": 5.95,
+      "total_price": 11.9,
+      "category": "Grocery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Mighty Mark Bleach 10L",
+      "quantity": 3,
+      "unit_price": 11.5,
+      "total_price": 34.5,
+      "category": "Household",
+      "accounting_category": "Cleaning Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Mighty Mark Dishwash 1L",
+      "quantity": 2,
+      "unit_price": 11.5,
+      "total_price": 23.0,
+      "category": "Household",
+      "accounting_category": "Cleaning Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 13,
+    "rounding": -0.01,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006388068.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Sepi Cash & Carry Sdn. Bhd.\nP17920 Sek U9, Shah Alam\nGST Reg No : 001951645696\n05/sd400827/36805 11/05/17 10:13am\nSALAD BULAT\n0.38 x 6.00 2.28\nSALAD BULAT\n0.385 x 6.00 2.31\nSIEW PAK CHOY - PKT\n1 x 2.00 2.00\nNESTUM ALL FAMILY CEREAL ORI S/P\n1 x 4.19 4.19\nDAUN BAWANG\n0.11 x 10.91 1.20\nDAUN KETUMBAR THAI\n0.115 x 18.96 2.18\nALIGHAN FRUIT COCKTAIL B3AG\n2 x 5.95 11.90\nMIGHTY MARK BLEACH 10L\n3 x 11.50 34.50\nMIGHTY MARK DISHWASH 1L\n2 x 11.50 23.00\nNo of items: 13\nSubtotal Incl. GST: RM 83.54\nRounding: RM -0.01\nTotal Incl. GST: RM 83.55\nMaster 7113 83.55\nChange RM 0.00\nMissed Point Today: 79\nServed by ROHANA BINTI MD DALI\nGST Summary\nGST Code Amount (RM) Tax (RM)\nZ 0.0% 9.97 0.00\nS 6.0% 69.42 4.17\nRef No: 0040497430036805\nGoods Sold Are Not Returnable. TC"
+  }
+}

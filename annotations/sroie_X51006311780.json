@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "MR. D. I. Y. (KUCHAI) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000473792512",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2013-03-15",
+    "time": "15:41:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 112.92,
+    "tax": 6.78,
+    "tip": 0.0,
+    "total": 119.7,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "MAGNETIC WHITEBOARD LDOO1# 90*60CM",
+      "quantity": 1,
+      "unit_price": 35.0,
+      "total_price": 35.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TAPE DISPENSER SET JE600 -CITRUS",
+      "quantity": 2,
+      "unit_price": 19.9,
+      "total_price": 39.8,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CANDLE E3001050#",
+      "quantity": 1,
+      "unit_price": 9.5,
+      "total_price": 9.5,
+      "category": "Home Goods",
+      "accounting_category": "Home Goods",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "BALL PEN 6BK 0.5MM KC1069#",
+      "quantity": 1,
+      "unit_price": 2.9,
+      "total_price": 2.9,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "WHITE BOARD MARKER SET 8358",
+      "quantity": 1,
+      "unit_price": 3.3,
+      "total_price": 3.3,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "FIRST AID KIT",
+      "quantity": 1,
+      "unit_price": 26.9,
+      "total_price": 26.9,
+      "category": "Health Care",
+      "accounting_category": "Health Care",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "PLANNING MAGNET 30MM#",
+      "quantity": 1,
+      "unit_price": 2.3,
+      "total_price": 2.3,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.3
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006311780.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. D.I.Y. (KUCHAI) SDN BHD...\n15-03-13 15:41 SHO1 B019 T2 R000643654\nOPERATOR TRAINEE CASHIER\n"
+  }
+}

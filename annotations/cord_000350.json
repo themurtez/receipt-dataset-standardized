@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Sugakiya",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "JPY",
+    "payment_method": "OVO",
+    "subtotal": 29090.0,
+    "tax": 2909.0,
+    "tip": 0.0,
+    "total": 32000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "VALUE MEAL 1",
+      "quantity": 1,
+      "unit_price": 29090.0,
+      "total_price": 29090.0,
+      "category": "Meal",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SUGAKIYA RAMEN",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Meal",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "COLD OCHA",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Drink",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 1.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000350.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Sugakiya\n\nVALUE MEAL 1 1 29,090\n- SUGAKIYA RAMEN 1 0\n- COLD OCHA 1 0\nITEMS: 3\nPB1 10.00%\nRounding 1\nTotal 32,000\nOVO 32,000"
+  }
+}

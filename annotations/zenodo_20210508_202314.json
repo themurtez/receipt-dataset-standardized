@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Rapos Amoreiras, Lda",
+    "address": "R. Quinta Palmeiras, 31 D, Oeiras",
+    "phone": "210942857",
+    "tax_id": "506175502",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-08-19",
+    "time": "15:57:00",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 23.09,
+    "tax": 5.31,
+    "tip": 0.0,
+    "total": 28.4,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CHAVE PALHETA SMS1/SAF-1G",
+      "quantity": 2,
+      "unit_price": 14.0,
+      "total_price": 28.4,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 1.6
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_202314.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "otaminuto\nAMOREIRAS\nRapos Amoreiras, Lda\nR. Quinta Palmeiras, 31 D, Oeiras\nCentro Comercial Amoreiras, 1034 5041\nLisboa Tel 210942857\nSoc 5,000 Euros NIPC 506175502\nC.M. Cascais N.9955/2007\nLISBOA\nNIF :510776914 N.CLI:PT510776914\nFTR 6/12363 Data 2018-08-19 Original\nVendedor: Hernany Lima\nArt. Descricao Qde. Pr.Unit. Valor IVA\nCHAVE PALHETA SMS1/SAF-1G\n2.00 14.00 28.40 23\nTotal de pecas: 2\nVALOR LIQUIDO IVA % VALOR IVA\n0.00 0 0.00\n0.00 6 0.00\n0.00 13 0.00\n23.09 23 5.31\nDESCONTO 0.00\nTOTAL DOCUMENTO EURO 28.40\nNumerario 30.00\nTroco 1.60\nLocal Carga : Nossa Morada Hora: 15:57\nLocal Descarga: Morada Cliente Hora: 23:59\nNome: FLIKEHOME\nObrigado Pela Visita - Volte Sempre\nTALAO INDISPENSAVEL P/ENTREGA-RECLAMACAO\nTROCAS PRAZO 1 MES"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Teo Heng Stationery & Books",
+    "address": "No. 53, Jalan Besar, 45600 Batang Berjuntai, Selangor, Baru Ehsan",
+    "phone": "03-3271 9872",
+    "tax_id": "000689713664",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-15",
+    "time": "",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 120.0,
+    "tax": 7.2,
+    "tip": 0.0,
+    "total": 127.2,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Artline 70",
+      "quantity": 48,
+      "unit_price": 2.7,
+      "total_price": 120.0,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 48,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005361908.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TEO HENG STATIONERY & BOOKS\n(001481637-M)\nNO. 53, JALAN BESAR, 45600 BATANG BERJUNTAI\nSELANGOR, BARU EHSAN\nTEL: 03-3271 9872 FAX: 03-3271 9481\nGST No.: 000689713664\nSIMPLIFIED TAX INVOICE\nCASH\nReceipt No. : CS1803/28617 Date: 15/03/2018\nITEM QTY U/P DISC% AMOUNT\n(RM)\n4974052801334 48 2.70 7.41 120.00 *\n- ARTLINE 70\nTotal Qty: 48 120.00\nSUB-TOTAL (EX) 120.00\nTOTAL TAX 7.20\nROUNDING 0.00\nTOTAL 127.20\nCASH 127.20\nCHANGE 0.00\nGST SUMMARY\nTAX CODE % AMOUNT\n(RM) TAX\n(RM)\nSR 6.00 120.00 7.20\nTOTAL 120.00 7.20\nNote: (*) Indicated The Item Sold Has Been Related\nTo GST (Goods & Services Tax)\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU"
+  }
+}

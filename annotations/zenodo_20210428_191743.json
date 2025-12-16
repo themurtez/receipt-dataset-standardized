@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "PROPIL Produtos de Petroleo, Lda.",
+    "address": "A2 - Km 193/Sub-Lanco Castro Verde, 7701 Almodovar",
+    "phone": "",
+    "tax_id": "500223840",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-01",
+    "time": "15:11:27",
+    "currency": "EUR",
+    "payment_method": "Dinheiro",
+    "subtotal": 16.52,
+    "tax": 3.8,
+    "tip": 0.0,
+    "total": 20.32,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "S-CH 95",
+      "quantity": 13.12,
+      "unit_price": 1.549,
+      "total_price": 20.32,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_191743.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PROPIL Produtos de Petroleo, Lda.\nCapital Social 224,459.05 Euros\nC.R.C de Lisboa Sob 500223840\nP.A. ALMODOVAR II (nascente)\nCONTRIB: 500223840\nA2 - Km 193/Sub-Lanco Castro Verde\n7701 Almodovar\nUnida. Codigo Artigo Preço Valor\n13.12 023574 03 S-CH 95 1.549 20.32\nTOTAL: EUR 20.32\nIVA 23.0% Base: 16.52 Imposto: 3.80\nTOTAL A PAGAR: EUR 20.32\nDINHEIRO\nCaixa: 713992\nRecibo: 0.2.0.131 01/03/2019 15:11:27\nRef: 0834000168 TSQ: 0000447219\nNOME: FLIKEHOME MEDIACAO IMOBIL. LD\nNIF: 510776914\nMATRICULA: 20-ID-84\nMORADA:\nData: 01/03/2019 15:11:27\nFATURA NR:\nFT 63376100012019/00001440\nJoon - Processado por Programa\nCertificado Nº: 1299/AT"
+  }
+}

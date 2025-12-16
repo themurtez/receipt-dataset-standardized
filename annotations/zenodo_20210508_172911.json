@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Worten",
+    "address": "Estrada Nacional 9 Cascais 2645-543 Alcabideche",
+    "phone": "808 100 007",
+    "tax_id": "506330330",
+    "website": "www.worten.pt"
+  },
+  "transaction": {
+    "date": "2018-11-24",
+    "time": "13:08:00",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 81.28,
+    "tax": 18.7,
+    "tip": 0.0,
+    "total": 99.98,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "IRRADI.OLEO KUNFT2500W KKR",
+      "quantity": 2,
+      "unit_price": 49.99,
+      "total_price": 99.98,
+      "category": "Electronics",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.02
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_172911.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Worten Cascais\nWorten equipamentos para o Lar SA\nService Apoio Cliente: 808 100 007\nEstrada Nacional 9 Cascais 2645-543 Alcabideche\nNIPC: 506330330\nRegistado CRP Porto sob o núm: 506330330\nSede: F28.400.000,00 EUR SIREFEI: PC1001257\nFactura simplificada\nData: 11/24/2018 13:08\nCliente: PI150776914\nNome: FILKEMHE NEGI@RIQ IMOBILIARIA LDA\nNIF: 590 960 970\nLocal: 1560ALC\nC. Postal: 1250.145\nIVR DESCRICAO VALOR\nPequenos Domésticos:\n5601998258350 IRRADI.OLEO KUNFT2500W KKR\n2 X 49.99 99.98\nTotal a pagar 99.98\nNumerario 100.00\nTroco 0.02\nIVA Total Liq. IVA Total\n23.00% 81.28 18.70 99.98\nPPIP/Processed por programa certificado\nN. 1356/\n0535 0903 54757 023706 - 10012208617301\nLocal carga: Morada de loja\nLocal descargo: Morada do cliente\nData: 24/11/2018 Hora: 13:08\nConsulte as condições de Politica de\nSatisfacao/Devolucao, afixada na loja\nTeixo indispensavel troca-me\nPrazo de 15 dios, nos termos prestamos\nNão estào abrangido pela política de\nSatisfacao/devolucao os artigos co\nactivacao em caixa\nPera mais informações consultar\nwww.worten.pt"
+  }
+}

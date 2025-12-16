@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "IKEA",
+    "address": "Av. 25 de Abril, 1250-091 Lisboa",
+    "phone": "",
+    "tax_id": "510467905",
+    "website": "www.ikea.pt"
+  },
+  "transaction": {
+    "date": "2019-07-10",
+    "time": "14:56:13",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 118.68,
+    "tax": 22.19,
+    "tip": 0.0,
+    "total": 118.68,
+    "accounting_category": "Furniture",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Lote de Artigos",
+      "quantity": 1,
+      "unit_price": 118.68,
+      "total_price": 118.68,
+      "category": "Furniture",
+      "accounting_category": "Furniture",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 11,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_173242.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Obrigado por Visitar a IKEA loule\nIKEA Portugal - Móveis e Decoração Lda.\nFACTURA SIMPLIFICADA\nNPIC: 123 456 789\nNúmero de fatura: 231/2019/00173\nData: 10/07/2019 14:56:13\nShop: IKEA ALGARVE, LDA\nNIF: 510467905\nCódico do Cliente: 006\nNIB: PT500018000011500000001\nDescritivo de Artigos:\nLote de Artigos - 11\nTotal c/ IVA: 118,68 EUR\nObrigado pela sua visita\nwww.ikea.pt"
+  }
+}

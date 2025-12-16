@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Brisa - Concessão Rodoviária, S.A.",
+    "address": "Quinta da Torre da Aguilha - Edifício Brisa, 2785-599 São Domingos de Rana",
+    "phone": "",
+    "tax_id": "NIPC 502 790 024",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-08-15",
+    "time": "20:18:04",
+    "currency": "EUR",
+    "payment_method": "Cartão Bancário",
+    "subtotal": 9.15,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 9.15,
+    "accounting_category": "Transport",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Bem Vindo-Transito",
+      "quantity": 1,
+      "unit_price": 9.15,
+      "total_price": 9.15,
+      "category": "Toll",
+      "accounting_category": "Transport",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_214834.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Brisa - Concessão Rodoviária, S.A.\nQuinta da Torre da Aguilha - Edifício Brisa\n2785-599 São Domingos de Rana\nMCRC Cascais e NIPC 502 790 024\nCapital Social: 75 000 000 €\nFACTURA SIMPLIFICADA\nRecibo: FS 12131121702/0044404  Original\nData e Hora: 2017-08-15 20:18:04\nSaida: 1213 - Pinhal Novo pv\nVia: 112\nEntrada: 0614 - Évora Poente\nTitulo: Bem Vindo-Transito\nModo de Pagamento: Cartão Bancário\nClasse: 1 Taxa: 9,15 €\nPAGAMENTO AUTOMATICO num: 1208\nMONTEPIO **********7312\nLocal de pagamento: A12-13\nIVA incluido à taxa normal\nCyDX-Processado por programa certificado\nn .2011/AT\nObrigado e Boa Viagem!"
+  }
+}

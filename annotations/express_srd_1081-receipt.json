@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Brasas Restaurant",
+    "address": "6011 W Roosevelt Rd, Cicero, IL 60804",
+    "phone": "7087127173",
+    "tax_id": "",
+    "website": "https://clover.com/r/T237TH0Q0T7RC"
+  },
+  "transaction": {
+    "date": "2019-03-02",
+    "time": "12:53:48",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 9.0,
+    "tax": 0.97,
+    "tip": 0.0,
+    "total": 9.97,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chicken Torta",
+      "quantity": 1,
+      "unit_price": 6.5,
+      "total_price": 6.5,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Horchata",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Drink",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Custom Item",
+      "quantity": 1,
+      "unit_price": 0.5,
+      "total_price": 0.5,
+      "category": "Custom",
+      "accounting_category": "Misc",
+      "category_confidence": 0.7
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1081-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BRASAS RESTAURANT\n6011 W ROOSEVELT RD\nCICERO, IL 60804\n7087127173\n\nCashier: Tany\n02-Mar-2019 12:53:48P\n\n1 Chicken Torta $6.50\n1 Horchata $0.00\n MD $2.00\n\n1 Custom Item $0.50\n\nSubtotal $9.00\nTax $0.97\nTotal $9.97\n\nOrder T237TH0Q0T7RC\nOnline: https://clover.com/r/T237TH0Q0T7RC"
+  }
+}

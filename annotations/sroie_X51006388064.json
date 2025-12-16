@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "BEMED (SP) SDN. BHD.",
+    "address": "No.49, Jalan Dinar G U3/G, Subang Perdana, 40150 Shah Alam, Selangor D.E.",
+    "phone": "03-7845 8155",
+    "tax_id": "001734164480",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-05-14",
+    "time": "02:56:39",
+    "currency": "MYR",
+    "payment_method": "VISA",
+    "subtotal": 191.22,
+    "tax": 10.14,
+    "tip": 0.0,
+    "total": 191.2,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PIL CHI-KIT TECK AUN (12'S)",
+      "quantity": 1,
+      "unit_price": 15.8,
+      "total_price": 14.22,
+      "category": "Health Products",
+      "accounting_category": "Medicine",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PANADOL ACTIFAST 20'S",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Health Products",
+      "accounting_category": "Medicine",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ALPHA LIPID LIFE LINE",
+      "quantity": 1,
+      "unit_price": 165.0,
+      "total_price": 165.0,
+      "category": "Health Products",
+      "accounting_category": "Supplement",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": -0.02,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006388064.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BEMED (SP) SDN. BHD.\nNo.49, Jalan Dinar G U3/G,\nSubang Perdana,\n40150 Shah Alam, Selangor D.E.\n03-7845 8155\nGST Reg: 001734164480\nCASH RECEIPT\nCB#: 59581331715 14/May/2017 02:56:39\nCashier : mimiie ()\nQty Code&Desc Price\nPIL CHI-KIT TECK AUN (12'S) SR\n1 160160 -1.58 15.80 14.22\nPANADOL ACTIFAST 20'S ZRL\n1 458140 12.00 12.00\nALPHA LIPID LIFE LINE SR\n1 184810 165.00 165.00\n3 Type: 3\nSubTotal: 191.22\nRounding Adj: -0.02\nTotal Inclusive GST: 191.20\nVISA 191.20\nGST Summary: Amount (MYR) Tax (MYR)\nSR 169.08 10.14\nZRL 12.00 0.00\nONG GUAT CHYE\nPoints : 1,305\nThank you.\nPlease come again."
+  }
+}

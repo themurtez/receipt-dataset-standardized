@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "99 SPEED MART S/B",
+    "address": "LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY, 41150 KLANG, SELANGOR, 1214-JINJANG UTARA",
+    "phone": "",
+    "tax_id": "000181747712",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-22",
+    "time": "21:28:00",
+    "currency": "MYR",
+    "payment_method": "CREDIT",
+    "subtotal": 181.98,
+    "tax": 2.02,
+    "tip": 0.0,
+    "total": 182.0,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "HELANG MINYAK MASAK 5KG",
+      "quantity": 2,
+      "unit_price": 24.35,
+      "total_price": 48.7,
+      "category": "Cooking Oil",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "JASMINE SUPER 5 SPECIA",
+      "quantity": 1,
+      "unit_price": 29.9,
+      "total_price": 29.9,
+      "category": "Rice",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "GREENLINK BIOTECH BIKE",
+      "quantity": 1,
+      "unit_price": 8.4,
+      "total_price": 8.4,
+      "category": "Household",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "LIFEBUY COOL FRESH 50",
+      "quantity": 2,
+      "unit_price": 6.99,
+      "total_price": 13.98,
+      "category": "Personal Care",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "PIPIT BLEACH 2%1KG TP",
+      "quantity": 1,
+      "unit_price": 4.2,
+      "total_price": 4.2,
+      "category": "Cleaning",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "FAB PERFECT BAR (B) 130",
+      "quantity": 10,
+      "unit_price": 0.9,
+      "total_price": 9.0,
+      "category": "Household",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "NESCAFE CLASSIC ARABICA",
+      "quantity": 3,
+      "unit_price": 22.6,
+      "total_price": 67.8,
+      "category": "Beverages",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "rounding": 0.02,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006389884.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "99 SPEED MART S/B (519537-X)\nLOT P.T. 2811, JALAN ANGSA,\nTAMAN BERKELEY\n41150 KLANG, SELANGOR\n1214-JINJANG UTARA\nGST ID. NO : 000181747712\nINVOICE NO : 18224/102/T0496\n09:28PM 567455 22-11-17\n-----------------------------------\n261 HELANG MINYAK MASAK 5KG RM48.70 z\n@2 X RM 24.35\n8038 JASMINE SUPER 5 SPECIA RM29.90 z\n086 GREENLINK BIOTECH BIKE RM8.40 s\n2829 LIFEBUY COOL FRESH 50 RM13.98 s\n@2 X RM 6.99\n820 PIPIT BLEACH 2%1KG TP RM4.20 s\n861 FAB PERFECT BAR (B) 130 RM9.00 s\n@10 X RM .90\n551 NESCAFE CLASSIC ARABICA RM67.80 z\n@3 X RM 22.60\n-----------------------------------\nTotal Sales (Inclusive GST) RM 181.98\nRounding Adjustment RM .02\nRounding RM 182.00\nCREDIT RM 182.00\nCHANGE RM .00\n-----------------------------------\nGST Summary Amount(RM) Tax(RM)\ns = 6% 33.56 2.02\nz = 0% 146.40 .00\nThank You. Please come again\nKeep the invoice for applicable returns"
+  }
+}

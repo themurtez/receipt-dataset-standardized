@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "99 SPEED MART S/B",
+    "address": "LOT P.T. 2911, JALAN ANGA, TAMAN BERKELEY, 41150 KLANG, SELANGOR 1032-SUNGAI PERDANA",
+    "phone": "",
+    "tax_id": "000181747712",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-05-21",
+    "time": "16:56:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 19.62,
+    "tax": 1.18,
+    "tip": 0.0,
+    "total": 20.8,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "AJINOMOTO 1KG",
+      "quantity": 1,
+      "unit_price": 19.62,
+      "total_price": 20.8,
+      "category": "Grocery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.2
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006388065.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "99 SPEED MART S/B (519537-X)\nLOT P.T. 2911, JALAN ANGA,\nTAMAN BERKELEY\n41150 KLANG, SELANGOR\n1032-SUNGAI PERDANA\nGST ID. NO : 000181747712\n\nINVOICE NO : 18039/103/T0209\n\n04:56PM 565420 21-05-17\n\n154 AJINOMOTO 1KG RM20.90\n\n@1 x RM 10.40\n\nTotal Sales (Inclusive GST) RM 20.90\nCASH RM 21.00\nCHANGE RM 0.20\n\nGST Summary Amount(RM) Tax(RM)\ns = 6% 19.62 1.18\n\nThank You. Please come again\n"
+  }
+}

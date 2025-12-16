@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (M) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000306020352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-17",
+    "time": "14:49:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 42.9,
+    "tax": 2.43,
+    "tip": 0.0,
+    "total": 42.9,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "STUDENT SOCKS 3PCS BK",
+      "quantity": 1,
+      "unit_price": 9.5,
+      "total_price": 9.5,
+      "category": "Clothing",
+      "accounting_category": "Apparel",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "BELT 5202-3#*VS",
+      "quantity": 1,
+      "unit_price": 22.9,
+      "total_price": 22.9,
+      "category": "Accessory",
+      "accounting_category": "Apparel",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "PVC MAN PPER 969 (BK)",
+      "quantity": 1,
+      "unit_price": 10.5,
+      "total_price": 10.5,
+      "category": "Accessory",
+      "accounting_category": "Apparel",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 7.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005757290.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "31803040\nMR. D.I.Y. (M) SDN BHD\n(CO.REG :860671-D)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000306020352)\n(IOI PUCHONG)\n-TAX INVOICE-\nSTUDENT SOCKS 3PCS BK *S\nJH61 - 4/200\n9034915 1 X 9.50 9.50\nBELT 5202-3#*VS *S\nQI31 - 12/480\n9034870 1 X 22.90 22.90\nPVC MAN PPER 969 (BK) *S\nWA36 -\n955559050U184 1 X 10.50 10.50\nItem(s) : 3 Qty(s) : 3\n------------------------------------------------------------*\nTotal Incl. GST@6% RM 42.90\nCASH RM 50.00\nCHANGE RM 7.10\nGST @6% included in total RM 2.43\n*\n17-03-18 14:49 SH01 ZJ86 T1 R000110133\nOPERATOR TRAINEE CASHIER\nEXCHANGE ARE ALLOWED WITHIN\n7 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

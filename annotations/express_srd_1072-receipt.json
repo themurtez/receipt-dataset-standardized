@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Ohana Hawaiian BBQ",
+    "address": "4469 Slauson Ave, Maywood, CA 90270",
+    "phone": "(323) 771-9888",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2013-06-01",
+    "time": "19:44:18",
+    "currency": "USD",
+    "payment_method": "Cash",
+    "subtotal": 19.9,
+    "tax": 1.79,
+    "tip": 0.0,
+    "total": 21.69,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "1/2 and 1/2 Combo Fried Shrimp Short Rib",
+      "quantity": 1,
+      "unit_price": 8.45,
+      "total_price": 8.45,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "1/2 and 1/2 Combo BBQ Beef Fried Shrimp",
+      "quantity": 1,
+      "unit_price": 7.95,
+      "total_price": 7.95,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Fountain Medium",
+      "quantity": 2,
+      "unit_price": 3.5,
+      "total_price": 3.5,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": -0.31
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1072-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "OHANA HAWAIIAN BBQ\n4469 SLAUSON AVE\nMaywood, CA 90270\n(323) 771-9888\nServer: karla    Station: 3\nOrder #: 65193          Dine In\n\n>> SETTLED <<\n1 1/2 AND 1/2 COMBO  8.45\n   FRIED SHRIMP\n   SHORT RIB\n1 1/2 AND 1/2 COMBO  7.95\n   BBQ BEEF\n   FRIED SHRIMP\n2 FOUNTAIN MEDIUM    3.50\n\nBar Subtotal:         0.00\nFood Subtotal:       19.90\nTax 1:                1.79\n\nAMOUNT DUE:         $21.69\nCash Tendered:      22.00\nCHANGE:             -0.31\n\n>> Ticket #: 94 <<\nCreated: 6/1/2013 7:43:46 PM\nSETTLED: 6/1/2013 7:44:18 PM\n\nTHANK YOU!"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "JMTD - FERRAGENS DO COMBRO LDA",
+    "address": "CALÇADA DO COMBRO Nº 3, 1200-110 LISBOA",
+    "phone": "213 476 762",
+    "tax_id": "513 350 535",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-09",
+    "time": "10:14:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 3.66,
+    "tax": 0.84,
+    "tip": 0.0,
+    "total": 4.5,
+    "accounting_category": "Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Spray Lubricante",
+      "quantity": 1,
+      "unit_price": 4.5,
+      "total_price": 4.5,
+      "category": "Hardware",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_204135.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "JMTD-FERRAGENS DO COMBRO LDA\nFERRAGENS FERRAMENTAS CHAVES FECHADURAS\nMAT ELECTRICO - MAT. CANALIZACAO\nCALCADA DO COMBRO N°3 1200-110 LISBOA\nNIF. 513 350 535\nEmail j.dos-m.a.duarte@app.pt\nTelf: 21 347 67 62\nFATURA SIMPLIFICADA\nORIGINAL\nDATA 09/05/2019 - 10:14 Nº A/31039\nCliente: FLKEHOME Lda\nMorada:\nCont. Nº: 510776914\nArtigo Qtd Preço € Valor €\n------------------------------------\nSpray Lubricante\n23%\n#001 1 Un x 4,50 - 4,50\n\nTOTAL................................. 4,50\nNumerário......................... 4,50\nTroco .................................0,00\nIVA Incluído à taxa indicada\nTaxa% Sujeito IVA Total\n23,00 3,66 0,84 4,50\nData de carga.: 09/05/2019\nHora de carga.: 10:24\nLocal carga....: N /Instalações\nMatrícula..... :\nData descarga.\nHora descarga.\nLocal descarga: V/Instalações\n------------------------------------\nIC/p-Processado por programa certificado\nNº 88/AT - 1 A/31039\n\nOpr: Administrador\n\nOBRIGADO - VOLTE SEMPRE"
+  }
+}

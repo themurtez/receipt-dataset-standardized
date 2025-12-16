@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Tous Les Jours",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 96000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 96000.0,
+    "accounting_category": "Food & Dining",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Twist Orange Choco Donut",
+      "quantity": 2,
+      "unit_price": 10000.0,
+      "total_price": 20000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Chocolate Twist",
+      "quantity": 2,
+      "unit_price": 16000.0,
+      "total_price": 32000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Real Chocolate Roll",
+      "quantity": 1,
+      "unit_price": 16000.0,
+      "total_price": 16000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Chocolate Soboro",
+      "quantity": 2,
+      "unit_price": 14000.0,
+      "total_price": 28000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Dining",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 4000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000360.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "2 TWIST ORANGE CHOCO DONUT 20,000\n2 CHOCOLATE TWIST 32,000\n1 REAL CHOCOLATE ROLL 16,000\n2 CHOCOLATE SOBORO 28,000\nTOTAL 96,000\nCASH 100,000\nCHANGE 4,000"
+  }
+}

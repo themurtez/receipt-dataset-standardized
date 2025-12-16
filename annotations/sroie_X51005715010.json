@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Watson's Personal Care Stores Sdn Bhd",
+    "address": "JS Summit, Subang (SS)",
+    "phone": "",
+    "tax_id": "000947639264",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-25",
+    "time": "13:11:54",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 41.43,
+    "tax": 2.34,
+    "tip": 0.0,
+    "total": 41.45,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "WS CUT SCISSORS",
+      "quantity": 1,
+      "unit_price": 18.0,
+      "total_price": 18.0,
+      "category": "Personal Care",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "QVS TEMPO TWEEZER",
+      "quantity": 1,
+      "unit_price": 17.9,
+      "total_price": 17.9,
+      "category": "Personal Care",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "WS BABY WIPES FRAG",
+      "quantity": 1,
+      "unit_price": 7.9,
+      "total_price": 7.9,
+      "category": "Personal Care",
+      "accounting_category": "Health",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "WATSONS BASKET",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Miscellaneous",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.02,
+    "change_due": 10.05
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005715010.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "3-1708032\nwatsons\nWatson's Personal Care Stores Sdn Bhd\nCompany Reg No.: 289892V\nGST Reg No. 000947639264\nJS Summit, Subang (SS)\n22241 WS CUT SCISSORS 18.00 S\n64542 QVS TEMPO TWEEZER 17.90 S\n21434 WS BABY WIPES FRAG 7.90 S\nPWP LESS 30% MAR 18 -2.37\n95448 WATSONS BASKET 0.00 Z\nSUBTOTAL (QTY 4) RM41.43\nROUNDING RM0.02\nSUBTOTAL (QTY 4) RM41.45\nCASH RM51.50\nCHANGE CASH RM10.05\nGST SUMMARY\nRate Net(RM) GST(RM) Total (RM)\nS 6.00% 39.09 2.34 41.43\nSTATEMENT\nLoyalty acc.number 9926061**\nDescription Total Points\nOpening Balance 2264\nEarned Points 43\nClosing Balance 2307\n0044001036 25032018 13:11:54 0003 ika"
+  }
+}

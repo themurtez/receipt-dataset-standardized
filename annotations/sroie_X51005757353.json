@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (M) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000306020352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-24",
+    "time": "18:10:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 11.6,
+    "tax": 0.7,
+    "tip": 0.0,
+    "total": 12.3,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "WHITE CABLE TIE 4*200MM(8')",
+      "quantity": 1,
+      "unit_price": 3.9,
+      "total_price": 3.9,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "WHITE CABLE TIE 5*250",
+      "quantity": 1,
+      "unit_price": 6.5,
+      "total_price": 6.5,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "HOSE PUMP C88351#",
+      "quantity": 1,
+      "unit_price": 1.9,
+      "total_price": 1.9,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 37.7
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005757353.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "31803055\nMR. D.I.Y. (M) SDN BHD\n(CO.REG : 860671-D)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000306020352)\n(IOI PUCHONG)\n-TAX INVOICE-\nWHITE CABLE TIE 4*200MM(8')\nUB52 - 20/250\n9072317 1 X 3.90 3.90\n*S\nWHITE CABLE TIE 5*250\nUH32 - 10/150\n9072318 1 X 6.50 6.50\n*S\nHOSE PUMP C88351#\nKE23-33-53 - 12/120\n9074333 1 X 1.90 1.90\n*S\nItem(s) : 3 Qty(s) : 3\n-------------------------------------\nTotal Incl. GST@6%\nRM 12.30\nCASH RM 50.00\nCHANGE RM 37.70\n-------------------------------------\nGST @6% included in total RM 0.70\n*\n24-03-18 18:10 SH01 ZJ86  T1 R000112046\nOPERATOR TRAINEE CASHIER\nEXCHANGE ARE ALLOWED WITHIN\n7 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

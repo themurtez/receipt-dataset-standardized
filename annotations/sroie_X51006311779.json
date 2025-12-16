@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Anzel Advertising (M) Sdn Bhd",
+    "address": "Unit G-5B, Ground Floor, Wisma UOA II, No 21, Jalan Pinang, 50450 Kuala Lumpur, Malaysia",
+    "phone": "03-2163 2766 / 03-2161 6706",
+    "tax_id": "002121732096",
+    "website": "www.exprintshop.com"
+  },
+  "transaction": {
+    "date": "2018-03-27",
+    "time": "16:54:04",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 8.0,
+    "tax": 0.48,
+    "tip": 0.0,
+    "total": 8.5,
+    "accounting_category": "Printing Services",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Plastic Lamination A4",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 4.24,
+      "category": "Printing Services",
+      "accounting_category": "Printing",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "A4 COL Simili 80gsm",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 4.24,
+      "category": "Printing Services",
+      "accounting_category": "Printing",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": -0.02,
+    "change_due": 91.5
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006311779.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "EXPrint\nPrint Partner, Communication Direct\nAnzel Advertising (M) Sdn Bhd (752795-H)\nUnit G-5B, Ground Floor, Wisma UOA II,\nNo 21, Jalan Pinang,\n50450 Kuala Lumpur, Malaysia\nTel: 03-2163 2766 / 03-2161 6706\nGST No: 002121732096\nTax Cash Sales\nNo.: UOA-CS16-01713\nQty RM Tax\nPlastic Lamination A4 @ 2.00 4.24 6%\n2.00\nA4 COL Simili 80gsm @ 2.00 4.24 6%\n2.00\nTotal Amt Incl. GST @ 6%: 8.48\nRounding Adjustment: (0.02)\nTotal Amt Payable: 8.50\nPaid Amount : 100.00\nChange : 91.50\nTotal Qty Tender: 4\nTHANK YOU\nFor any enquiry, please e-mail us:\nwww.exprintshop.com\nE: exprintfucasl@gmail.com\n04:54 pm, 27 March, 2018\nGST Summary Amount\n(RM)\nSR @ A 8.00 0.48\nTotal 8.00 0.48\nTHANK YOU\nFor any enquiry, please e-mail us:\n27/03/2018 16:54:04"
+  }
+}

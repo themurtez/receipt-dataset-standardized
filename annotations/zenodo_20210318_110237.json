@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "ISREF3 REO MONUMENTAL, SA",
+    "address": "Lisboa",
+    "phone": "",
+    "tax_id": "513322361",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-01-23",
+    "time": "11:09:00",
+    "currency": "EUR",
+    "payment_method": "Dinheiro",
+    "subtotal": 2.4,
+    "tax": 0.44,
+    "tip": 0.0,
+    "total": 2.4,
+    "accounting_category": "Parking",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Parking Fee",
+      "quantity": 1,
+      "unit_price": 2.4,
+      "total_price": 2.4,
+      "category": "Parking",
+      "accounting_category": "Parking",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_110237.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ISREF3 REO\nMONUMENTAL, SA\nLisboa\nP. Estacionamento\n\nFATURA/RECIBO N:\nK00119/00002763\n\nBILHETE: 10360680\n\nHORA DE ENTRADA:\n23.01.19    11:09\nHORA DE SAIDA:\n23.01.19    12:31\nTEMPO PARO:Hor:Min\n0:01:22\n\nQUANTIA:   EUR 2.40\n\nTIPO DE PAGAMENTO:\nA DINHEIRO\n\nYAUh - -\nProcessado por\nPrograma\nCertificado No\n1542/AT\n\nNIPC: 513322361\nCapital Social:\n50,000,00 Euros\nN. Registo na CRC\nLisboa 513322361\n23% IVA incluido\nOBRIGADO PELA\nSUA VISTIA"
+  }
+}

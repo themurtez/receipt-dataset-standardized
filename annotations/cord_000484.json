@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 11818.0,
+    "tax": 1182.0,
+    "tip": 0.0,
+    "total": 13000.0,
+    "accounting_category": "Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Aqua MinWtr 330ml",
+      "quantity": 2,
+      "unit_price": 5909.0,
+      "total_price": 11818.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 37000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000484.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "2 Aqua MinWtr 330ml 11,818\nSubTotal: 11,818\nPR1: 1,182\nTotal: 13,000\ncash: 50,000\nChange: 37,000"
+  }
+}

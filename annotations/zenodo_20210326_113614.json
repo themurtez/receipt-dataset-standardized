@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Norauto",
+    "address": "Avenida dos Cavaleiros, Nº 49, 2794-057 Carnaxide, Rua Sério Almalhôa 10 12 14, Quinta dos Espadeiros de Cima, 2815-500 Almada",
+    "phone": "210170800",
+    "tax_id": "503629995",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-24",
+    "time": "21:21:44",
+    "currency": "EUR",
+    "payment_method": "Cartões Multibanco / Visa / Amex",
+    "subtotal": 18.24,
+    "tax": 4.21,
+    "tip": 0.0,
+    "total": 22.45,
+    "accounting_category": "Automotive",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "S. NORAUTO 15W40 D",
+      "quantity": 1,
+      "unit_price": 14.95,
+      "total_price": 14.95,
+      "category": "Car Oil",
+      "accounting_category": "Automotive",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "LÂMPADA NORAUTO H4",
+      "quantity": 2,
+      "unit_price": 6.5,
+      "total_price": 6.5,
+      "category": "Car Lamp",
+      "accounting_category": "Automotive",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "LIMPA VIDROS VELOX 50ML",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Glass Cleaner",
+      "accounting_category": "Automotive",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210326_113614.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Norauto\nNorauto Portugal S.A.\nAvenida dos Cavaleiros, N.º49\n2794-057 Carnaxide\nNIF: 503 629 995\nCapital: 50,000 €\nALMADA\nRua Sérgio Almalhôa 10 12 14\nQuinta dos Espadeiros de Cima\n2815-500 Almada\nTel.: 210170800\n503629995\nFACTURA\nRef. fiscal FT 066000003/332060\n2006622 S. Norauto 15W40 D\n14.95 1\n14.95\n2224162 (2) Lâmpada Norauto H4\n6.50 1\n6.50\n2055949 (2) Limpa Vidros Velox 50ml\n1.00 x 1\n1.00\nTOTAL EUR\n22.45\nIVA (23.00%)\n4.21\nTOTAL S/ TAXAS\n18.24\nEUR\nCliente\nSr. FLIKEHOME\n1100-001 LISBOA\nPORTUGAL\nCódigo: 100000179903\nNIF: 510776914\nAtendido por ANA PESTANA\nNr.0606-3-56829 UPM 21\n24/02/2019 21:21:44\nFT78-Processado por Programa Certificado n.º1220/AT\nA066/0-1526528\nOperação Comercial\nProdutos abrangidos pelo SIGOU (DL 153/2003, I/10/7)\nnº.0346/16\nOs adiantamentos SR não são reembolsáveis.\nQueria guardar este cupão.\nApresente-o na próxima visita\npara crédito de breve\nTalão inválido sem para trocas"
+  }
+}

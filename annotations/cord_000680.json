@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "BCA CARD",
+    "subtotal": 378400.0,
+    "tax": 48442.0,
+    "tip": 0.0,
+    "total": 459442.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Fruit Compliment",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Complimentary",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.7
+    },
+    {
+      "name": "Udang Mentega Sdg (M)",
+      "quantity": 1,
+      "unit_price": 162000.0,
+      "total_price": 162000.0,
+      "category": "Main Course",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chinese Tea - Jasmine",
+      "quantity": 2,
+      "unit_price": 25000.0,
+      "total_price": 50000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Burung Gr TN",
+      "quantity": 1,
+      "unit_price": 230000.0,
+      "total_price": 230000.0,
+      "category": "Main Course",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Nasi Putih",
+      "quantity": 5,
+      "unit_price": 45000.0,
+      "total_price": 45000.0,
+      "category": "Side Dish",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000680.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Fruit Compliment\n1 Udang Mentega Sdg (M) 162,000\n2 Chinese Tea - Jasmine 25,000\n5 Burung Gr TN 230,000\n5 Nasi Putih 45,000\nITEMS TOTAL 597,000\nLUCKY BCA 20% (78,400)\nSUBTOTAL 378,400\nService 27,420\nTax 48,442\nSubtotal Beverage 20,000\nSubtotal Dessert 45,000\nSubtotal Food 313,400\nTOTAL 459,442\nBCA CARD 459,442"
+  }
+}

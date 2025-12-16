@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (M) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000306020352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-22",
+    "time": "18:37:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 25.66,
+    "tax": 1.54,
+    "tip": 0.0,
+    "total": 27.2,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Cotton Mop",
+      "quantity": 1,
+      "unit_price": 8.9,
+      "total_price": 8.9,
+      "category": "Home Supplies",
+      "accounting_category": "Cleaning Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Hard Broom 484P W/4FT",
+      "quantity": 1,
+      "unit_price": 5.9,
+      "total_price": 5.9,
+      "category": "Home Supplies",
+      "accounting_category": "Cleaning Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Nylon Bath Broom 718 4'",
+      "quantity": 2,
+      "unit_price": 6.2,
+      "total_price": 12.4,
+      "category": "Home Supplies",
+      "accounting_category": "Cleaning Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007103668.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "31804045\nMR. D.I.Y. (M) SDN BHD\n(CO.REG: 860671-D)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID NO: 000306020352)\n(IOI PUCHONG)\n- TAX INVOICE -\nCOTTON MOP\nFZ07 - 20\n9068374 1 X 8.90 8.90\n*S\nHARD BROOM 484P W/4FT\nWA03 - 12/144\n9555221300275 1 X 5.90 5.90\n*S\nNYLON BATH BROOM 718 4'\nWA01 - 6/144\n9555221300602 2 X 6.20 12.40\n*S\nItem(s) : 3 Qty(s) : 4\n--------------------------------------------\nTotal Incl. GST@6%\nCASH RM 27.20\n--------------------------------------------\nGST @6% included in total RM 1.54\n--------------------------------------------\n*\n22-04-18 18:37 SH01 ZJ86 T3 R000064116\nOPERATOR TRAINEE CASHIER\nEXCHANGE ARE ALLOWED WITHIN\n7 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

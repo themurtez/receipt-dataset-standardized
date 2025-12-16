@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "BAR RISTORANTE",
+    "address": "VIA S. MONTANO - LACCO AMENO (NA)",
+    "phone": "",
+    "tax_id": "00200430635",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-08-28",
+    "time": "12:41:00",
+    "currency": "EUR",
+    "payment_method": "Contante",
+    "subtotal": 34.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 34.0,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Vassoi e Stoviglie",
+      "quantity": 2,
+      "unit_price": 0.5,
+      "total_price": 1.0,
+      "category": "Supplies",
+      "accounting_category": "Dining Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Macedonia",
+      "quantity": 2,
+      "unit_price": 5.0,
+      "total_price": 10.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Insalata Negombo",
+      "quantity": 1,
+      "unit_price": 10.0,
+      "total_price": 10.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Bufala",
+      "quantity": 1,
+      "unit_price": 8.0,
+      "total_price": 8.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pomodorini",
+      "quantity": 1,
+      "unit_price": 4.0,
+      "total_price": 4.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Nat 1/2 lt",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1197-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BAR RISTORANTE\nSTABILIMENTO MARINO E TERMALE\nSAN MONTANO S.R.L.\nVIA S. MONTANO - LACCO AMENO (NA)\nPARTITA IVA 00200430635\n\nEURO\n2 X 0.50\nVassoi e Stoviglie\n2 X 5.00\nMacedonia\nInsalata Negombo\nBufala\nPomodorini\nNat 1/2 lt\n\nTOTALE €\n34,00\n\nCONTANTE\n\nREG. 001 OPER. 1\n28-08-2018 12:41\nSCONTRINO FISCALE N. 52\n\n/ F TV 45400311"
+  }
+}

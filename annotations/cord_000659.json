@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 254000.0,
+    "tax": 26670.0,
+    "tip": 0.0,
+    "total": 293370.0,
+    "accounting_category": "Dining",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Gyoza Ayam Goreng",
+      "quantity": 1,
+      "unit_price": 32000.0,
+      "total_price": 32000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Ocha Hangat",
+      "quantity": 2,
+      "unit_price": 24000.0,
+      "total_price": 24000.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Ocha Dingin",
+      "quantity": 1,
+      "unit_price": 12000.0,
+      "total_price": 12000.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Ramen Ayam Special",
+      "quantity": 3,
+      "unit_price": 186000.0,
+      "total_price": 186000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000659.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 GYOZA AYAM GORENG 32,000\n2 OCHA HANGAT 24,000\n1 OCHA DINGIN 12,000\n3 RAMEN AYAM SPECIAL 186,000\nSUBTTL 254,000\nSVC 5% 12,700\nPB1 10% 26,670\nTOTAL 293,370\nBCAD 293,370"
+  }
+}

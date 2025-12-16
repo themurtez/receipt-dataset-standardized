@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Outlet do Bairro",
+    "address": "Rua Almeida e Sousa, 21 1350-006",
+    "phone": "",
+    "tax_id": "513740198",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-01-15",
+    "time": "15:31:20",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 5.28,
+    "tax": 1.22,
+    "tip": 0.0,
+    "total": 6.5,
+    "accounting_category": "Goods",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Andorinha",
+      "quantity": 1,
+      "unit_price": 5.28,
+      "total_price": 6.5,
+      "category": "Home Goods",
+      "accounting_category": "Goods",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_205544.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "OUTLET DO BAIRRO\nALEXANDRA FERREIRA PINTO, UNIP, LDA.\nRUA ALMEIDA E SOUSA,21 1350-006\nTel.\nN. Contrib. 513740198\nRegisto na Cons. Lisboa n. 513740198\nCapital Social 1000\n\nNome FLIKE HOME\nN.C. 510776914\nAv. Liberdade 36 1.B lisboa\n\nFatura-Recibo FT 003/388\nOriginal\n2019-01-15 15:31:20\n\nQt Artigo IV Total\n1 Andorinha 23 e 6.50\n\ne 6.50\n\nTaxa Base IVA Total\n23.00 e 5.28 e 1.22 e 6.50\n\nEmp 1\nIVA incluido\n\nConsultas:\nObrigado e volte sempre\n\nC9YJ-Processado por programa\ncertificado n. 0071/AT\n\nCopyright GrupoPIE, SA"
+  }
+}

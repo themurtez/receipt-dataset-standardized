@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "THREE STOOGES BISTRO & CAFE",
+    "address": "109, SS21/1A, DAMANSARA UTAMA",
+    "phone": "",
+    "tax_id": "001661886464",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-12-03",
+    "time": "10:25:49",
+    "currency": "RM",
+    "payment_method": "",
+    "subtotal": 295.0,
+    "tax": 19.47,
+    "tip": 0.0,
+    "total": 343.95,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "HH GUINESS 12 GLASSES",
+      "quantity": 1,
+      "unit_price": 150.0,
+      "total_price": 150.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "HH TIGER 12 GLASSES",
+      "quantity": 1,
+      "unit_price": 145.0,
+      "total_price": 145.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": -0.02,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005441401.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "THREE STOOGES\nBISTRO & CAFE\n109, SS21/1A,\nDAMANSARA UTAMA\nGST ID : 001661886464\nTABLE : BAR 7\nORDER: 00012916\nBIZDATE: 12/03/2018\nCASHIER: CASHIER\nBILL DT: 12/03/2018 10:25:49 PM RM\nQTY ITEM AMOUNT\n1 HH GUINESS 12 GLASSES 150.00\n1 HH TIGER 12 GLASSES 145.00\n2 SUB TOTAL 295.00\nSERVICE CHARGE 10% 29.50\nGST 6% 19.47\nROUNDING ADJ -0.02\nNET TOTAL 343.95\nTax Summary Amount Tax\nSVC SERVICE CHARGE 10 295.00 29.50\nSR GST 6% 324.50\nThank You. Please Come Again"
+  }
+}

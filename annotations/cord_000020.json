@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 26950.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 26950.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Bubur Ungu",
+      "quantity": 1,
+      "unit_price": 26000.0,
+      "total_price": 18200.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sendok Bebek",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Utensils",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Wajik",
+      "quantity": 1,
+      "unit_price": 7000.0,
+      "total_price": 4900.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Centik Manis",
+      "quantity": 1,
+      "unit_price": 5500.0,
+      "total_price": 3850.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Plastik Sedang",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Packaging",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000020.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "NATURAL\nBUBUR UNGU 26,000\nDISC ITEM -30.000%\nAMOUNT -7,800\nSENDOK BEBEK 0\nWAJIK 7,000\nDISC ITEM -30.000%\nAMOUNT -2,100\nCENTIK MANIS 5,500\nDISC ITEM -30.000%\nAMOUNT -1,650\nPLASTIK SEDANG 0\nSUBTOTAL 26,950\nTOTAL 26,950\nCASH\n"
+  }
+}

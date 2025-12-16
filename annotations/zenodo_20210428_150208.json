@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Autovidreira, LDA",
+    "address": "Rua Poiais de São Bento, Lisboa",
+    "phone": "213904109",
+    "tax_id": "500482930",
+    "website": "www.autovidreira.com"
+  },
+  "transaction": {
+    "date": "2019-03-18",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 15.45,
+    "tax": 3.55,
+    "tip": 0.0,
+    "total": 19.0,
+    "accounting_category": "Services",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Espelho 3mm",
+      "quantity": 1,
+      "unit_price": 19.0,
+      "total_price": 19.0,
+      "category": "Automotive Parts",
+      "accounting_category": "Goods",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_150208.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Autovidreira, LDA\n500482930\nRua Poiais dos Negros\n1200-365 Lisboa\nTel: 213904109\nFax:\nCl.: 510776914\nFikehome\n510776914\nFatura simplificada\nFS N.121\nData: 2019-03-18\nModelo: EUR\nRec. por Multibanco\n19,00\nCod. do Artigo - Descricao\nQuant. Preco IVA Total\n0003E Espelho 3mm\n1,00 X 19,00 23,0 19,00\nCred. Devolucoes : 0,00\nTotal Iliquido : 15,45\nTotal Descontos : 0,00\nTotal de IVA : 3,55\nTotal Liquido : 19,00\nTotal Alternativo : 19,00 EUR\nIVA\nTaxa Indidencia Valor Motivo\n23,00 15,45 3,55\nMUITO OBRIGADO\nVisite-nos em\nwww.autovidreira.com\nwww.facebook.com/autovidreira\nSitr-Processado por Programa Certificado\nn. 0030/AT / FS 2019/121"
+  }
+}

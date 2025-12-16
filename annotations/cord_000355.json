@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "OVO",
+    "subtotal": 92000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 92000.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Avocado with Rock Salt and Cocoa",
+      "quantity": 1,
+      "unit_price": 28000.0,
+      "total_price": 28000.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cream [R] Big Pearls",
+      "quantity": 1,
+      "unit_price": 4000.0,
+      "total_price": 4000.0,
+      "category": "Addon",
+      "accounting_category": "Addon",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Avocado with Rock Salt and Cocoa",
+      "quantity": 1,
+      "unit_price": 28000.0,
+      "total_price": 28000.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cream [R] Red Bean",
+      "quantity": 1,
+      "unit_price": 4000.0,
+      "total_price": 4000.0,
+      "category": "Addon",
+      "accounting_category": "Addon",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Coffee Rock Salt and Cheese [R]",
+      "quantity": 1,
+      "unit_price": 28000.0,
+      "total_price": 28000.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000355.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Avocado with Rock Salt and Cocoa 28,000\nCream [R] 4,000\nBig Pearls\nAvocado with Rock Salt and Cocoa 28,000\nCream [R] 4,000\nRed Bean\nCoffee Rock salt and Cheese [R] 28,000\nTotal 92,000\nOVO 92,000"
+  }
+}

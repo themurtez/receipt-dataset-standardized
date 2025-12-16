@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "POPULAR BOOK CO. (M) SDN BHD",
+    "address": "No 8, Jalan 7/118B, Desa Tun Razak, 56000 Kuala Lumpur, Malaysia",
+    "phone": "03-55235214",
+    "tax_id": "001492992000",
+    "website": "www.popular.com.my"
+  },
+  "transaction": {
+    "date": "2018-03-08",
+    "time": "18:01:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 28.94,
+    "tax": 1.74,
+    "tip": 0.0,
+    "total": 30.7,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "No Plastic Bag Campai",
+      "quantity": 1,
+      "unit_price": 0.2,
+      "total_price": 0.2,
+      "category": "Miscellaneous",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "70g P.Copy 450'S",
+      "quantity": 1,
+      "unit_price": 13.69,
+      "total_price": 13.69,
+      "category": "Office Supplies",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PB O/TAPE 48X40X45BX3",
+      "quantity": 2,
+      "unit_price": 7.99,
+      "total_price": 15.98,
+      "category": "Office Supplies",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PB S/Tape 18x40 41N1",
+      "quantity": 1,
+      "unit_price": 5.99,
+      "total_price": 5.99,
+      "category": "Office Supplies",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.02,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006008092.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "POPULAR BOOK\nCO. (M) SDN BHD\n(Co. No. 113825-W)\n(GST Reg No. 001492992000)\nNo 8, Jalan 7/118B, Desa Tun Razak\n56000 Kuala Lumpur, Malaysia\nAEON SHAH ALAM\nTel : 03-55235214\n08/03/18 18:01 Slip No : 8010180429\nSupervisor Trans: 196796\nMember Card No: 1001016686849\nCard Expiry: 31/05/18\nDescription Amount\nNo Plastic Bag Campai 0.20 T\n70g P.Copy 450'S 13.69 T\nStat-Great Saving -1.20\nPB O/TAPE 48X40X45BX3\n2pc @ 7.99 15.98 T\nStat-Buy 2@RM 12 -3.98\nPB S/Tape 18x40 41N1 5.99 T\nTotal RM Incl. of GST 30.88\nRounding Adj 0.02\nTotal RM 30.70\nCash -30.70\nItem Count 5\nGST Summary Amount (RM)\nT @ 6% 28.94 1.74\nTotal Savings -5.18\nBE A POPULAR CARD MEMBER\nAND ENJOY SPECIAL DISCOUNTS\nTHANK YOU. PLEASE COME AGAIN.\nwww.popular.com.my\nBuy Chinese books online\nwww.popularonline.com.my"
+  }
+}

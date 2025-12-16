@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Ascendi",
+    "address": "",
+    "phone": "707 20 25 25",
+    "tax_id": "503 933 813",
+    "website": "www.ascendi.pt"
+  },
+  "transaction": {
+    "date": "2019-03-26",
+    "time": "11:32:26",
+    "currency": "EUR",
+    "payment_method": "Automatic Payment",
+    "subtotal": 1.05,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 1.05,
+    "accounting_category": "Transport",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Toll Fee",
+      "quantity": 1,
+      "unit_price": 1.05,
+      "total_price": 1.05,
+      "category": "Toll",
+      "accounting_category": "Transport",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_181436.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SERVICO DE PAGAMENTO DE PORTAGENS\nPAGAMENTO AUTOMATICO\nTALAO DE PORTAGEM Nº RB 160110/3106052\nData: 2019/03/26-11:32:26\nPortagem: Sao Pedro\nCobrador: 721030108\nEntrada: Virtual North\nClasse: 1\nTotal: 1,05 EUR\nIVA incluido a taxa de 23%\nPAGAMENTO AUTOMATICO num: 0544\nBANCO BPI ************9797\nLocal de pagamento: A16-01\nfeRU-Processado por Programa\nCertificado n.º 1295/AT\nAPOIO A CLIENTES\n707 20 25 25 ::: www.ascendi.pt\nObrigado e Boa Viagem!"
+  }
+}

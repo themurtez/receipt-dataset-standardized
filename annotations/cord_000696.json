@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 47727.0,
+    "tax": 4773.0,
+    "tip": 0.0,
+    "total": 52500.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Spaghetti Deluxe",
+      "quantity": 1,
+      "unit_price": 8132.0,
+      "total_price": 8132.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Lychee Float",
+      "quantity": 1,
+      "unit_price": 5909.0,
+      "total_price": 5909.0,
+      "category": "Beverage",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "SB 1 HC",
+      "quantity": 1,
+      "unit_price": 27727.0,
+      "total_price": 27727.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Perkedel",
+      "quantity": 1,
+      "unit_price": 5909.0,
+      "total_price": 5909.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 7500.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000696.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1  Spaghetti Deluxe     8.132\n1  Lychee Float        5.909\n1  SB 1 HC            27.727\n1  Perkedel            5.909\n          Sub Total  47.727\n     P.Rest 10 %      4.773\n               Total  52.500\n               Cash   60.000\nKembali                7.500\n               4 Items,"
+  }
+}

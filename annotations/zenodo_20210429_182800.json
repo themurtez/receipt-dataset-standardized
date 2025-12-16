@@ -1,0 +1,199 @@
+{
+  "merchant": {
+    "name": "Conchinha Unipessoal, Lda.",
+    "address": "Largo do Almada, 7645-217 Vila Nova Milfontes",
+    "phone": "",
+    "tax_id": "510949911",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-08-16",
+    "time": "21:13:00",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 75.1,
+    "tax": 8.83,
+    "tip": 0.0,
+    "total": 75.1,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Sopa do dia",
+      "quantity": 2,
+      "unit_price": 2.5,
+      "total_price": 5.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pão",
+      "quantity": 1,
+      "unit_price": 1.4,
+      "total_price": 1.4,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Hamburger",
+      "quantity": 1,
+      "unit_price": 8.0,
+      "total_price": 8.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ovos Rotos",
+      "quantity": 1,
+      "unit_price": 7.5,
+      "total_price": 7.5,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cogumelos salteados",
+      "quantity": 1,
+      "unit_price": 5.5,
+      "total_price": 5.5,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Farinha com ovo",
+      "quantity": 1,
+      "unit_price": 7.5,
+      "total_price": 7.5,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pica pau",
+      "quantity": 1,
+      "unit_price": 5.5,
+      "total_price": 5.5,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Salada de polvo",
+      "quantity": 1,
+      "unit_price": 7.0,
+      "total_price": 7.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Salada de Buzinas",
+      "quantity": 1,
+      "unit_price": 6.5,
+      "total_price": 6.5,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Grelos com Paio",
+      "quantity": 1,
+      "unit_price": 4.0,
+      "total_price": 4.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Linguiça frita",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Vinho meia cura",
+      "quantity": 1,
+      "unit_price": 10.0,
+      "total_price": 10.0,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Coca cola",
+      "quantity": 1,
+      "unit_price": 1.8,
+      "total_price": 1.8,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Agua sem gas 050",
+      "quantity": 2,
+      "unit_price": 2.8,
+      "total_price": 5.6,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Agua das pedras",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Imperiais S. Bock",
+      "quantity": 2,
+      "unit_price": 1.0,
+      "total_price": 2.0,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Descafeinado",
+      "quantity": 1,
+      "unit_price": 1.6,
+      "total_price": 1.6,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Abatanado",
+      "quantity": 1,
+      "unit_price": 1.6,
+      "total_price": 1.6,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 19,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_182800.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Conchinha Unipessoal, Lda.\nLargo do Almada\n7645-217 Vila Nova Milfontes\nFiscal nr.: 510949911\nCS: 50E CRC Odemira\n\nNome: Consumidor final\nNIF: 510769614\n\nFatura\n\nDoc.: FT 1/23538\nData: 2019-08-16 21:13\nOp. Emp.: 01\n\nQuant Artigo                    IVA              Valor\n\n2   sopa do dia              13,00             5,00\n1   Pão                          13,00             1,40\n1   HAMBURGER         13,00             8,00\n1   ovos rotos                 13,00             7,50\n1   cogumelos saltead 13,00             5,50\n1   farinheira com o  13,00             7,50\n1   pica pau                     13,00             5,50\n1   salada de polvo        13,00             7,00\n1   Salada de Buzinas   13,00             6,50\n1   linguiça frita               13,00             3,00\n1   vinho tinto                13,00            10,00\n1   coca cola                  13,00             1,80\n2   Água sem gas O5O  13,00             2,80\n1   Água das pedras     13,00             2,00\n1   1/4 Imperiais S.Bock   13,00             1,00\n1   Descafeinado           13,00             1,60\n1   Abatanado               13,00             1,60\n\nTotal                        EUR               75,10\n\nResumo do IVA\n\nTaxa        Incidência   Imposto     Total\n13,00       64,07            8,33         72,40\n23,00        2,20              0,50           2,70\n\nSALA - 34\n\nMeio Liquidação: Numerário\n\nRws-Processado por Programa\nCertificado n. 525/AT\nIVA Incluído\n\nObrigado pela Visita"
+  }
+}

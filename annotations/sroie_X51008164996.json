@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "One One Three Seafood Restaurant SDN BHD",
+    "address": "No.1, Taman Sri Dengkil, Jalan Air Hitam, 43800 Dengkil, Selangor",
+    "phone": "",
+    "tax_id": "000670224384",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-17",
+    "time": "14:07:29",
+    "currency": "RM",
+    "payment_method": "CASH",
+    "subtotal": 58.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 58.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Omelette Item",
+      "quantity": 1,
+      "unit_price": 8.0,
+      "total_price": 8.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "K.P Chicken Item-1",
+      "quantity": 1,
+      "unit_price": 15.0,
+      "total_price": 15.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Rice w Seafood/Meat Item Single",
+      "quantity": 1,
+      "unit_price": 15.0,
+      "total_price": 15.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Beverage",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Drink",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Noodle Item Single",
+      "quantity": 1,
+      "unit_price": 15.0,
+      "total_price": 15.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008164996.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ONE ONE THREE SEAFOOD RESTAURANT SDN BHD\n(1120908-M)\nNO.1, TAMAN SRI DENGKIL, JALAN AIR HITAM\n43800 DENGKIL, SELANGOR.\n(GST Reg. No : 000670224384)\nTax Invoice\nTable 22\nBill#:V001-540581 Order#: 140688\nDate : 17-06-2018 14:07:29\nCashier: 113 CASHIER Pax(s):\n-----------------------------------------------------\nQty Description Total TAX\n1 Omelette Item D 8.00 SR\n1 K.P Chicken Item-1 D 15.00 SR\n1 Rice w Seafood /Meat Item Single D 15.00 SR\n1 Beverage D 5.00 SR\n1 Noodle Item Single D 15.00 SR\n-----------------------------------------------------\nTotal (Excluding GST): 58.00\nTotal (Inclusive of GST): 58.00\nTOTAL : 58.00\nClosed: 1 17-06-2018 14:19:35\nServer: 113 CASHIER\nCASH :            58.00\nGST Summary Amount(RM) Tax(RM)\nSR (@ 0%) 58.00 0.00\n**** Thank You ****\nPlease Come Again"
+  }
+}

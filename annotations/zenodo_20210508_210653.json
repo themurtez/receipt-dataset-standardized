@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "R. Actor António Silva, n.7, 1649-033 Lisboa",
+    "phone": "",
+    "tax_id": "502.003.512",
+    "website": "www.pingodoce.pt"
+  },
+  "transaction": {
+    "date": "2018-04-06",
+    "time": "20:42:24",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 3.65,
+    "tax": 0.84,
+    "tip": 0.0,
+    "total": 4.49,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Produto Pessoal",
+      "quantity": 2,
+      "unit_price": 2.24,
+      "total_price": 4.49,
+      "category": "Personal Care",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_210653.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Pingo Doce\nLAGOA\nTel: 282380110\nPingo Doce - Distribuição Alimentar S.A.\nSede: R. Actor António Silva, n.7, 1649-033 Lisboa\nFactura/Recibo No 076100012180102062/005074\nData Emissão: 2018-04-06\nLocal carga... LAGOA\nTotal Pago 4.49 EUR\nMultibanco 4.49 EUR\nResum IVA 0.84 EUR\nValores s/IVA 3.65 EUR\nValor c/IVA 4.49 EUR\nAtendido por: ANDRE SILVA\nPIN...\nwww.pingodoce.pt"
+  }
+}

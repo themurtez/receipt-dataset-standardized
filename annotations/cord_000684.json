@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 18181,
+    "tax": 1818,
+    "tip": 0.0,
+    "total": 20000,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CHOCOLATE SUNDAE",
+      "quantity": 1,
+      "unit_price": 8636,
+      "total_price": 8636,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "REGULAR FRIES",
+      "quantity": 1,
+      "unit_price": 8636,
+      "total_price": 8636,
+      "category": "Snack",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TakeAway Charge",
+      "quantity": 1,
+      "unit_price": 909,
+      "total_price": 909,
+      "category": "Service Charge",
+      "accounting_category": "Miscellaneous",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000684.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CHOCOLATE SUNDAE     8,636\nREGULAR FRIES       8,636\nTakeAway Charge       909\nSubtotal           18,181\nPB1 (10%)           1,818\nTakeAway Total     20,000\nCash               20,000"
+  }
+}

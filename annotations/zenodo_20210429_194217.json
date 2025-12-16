@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "WANGGUI CHEN",
+    "address": "RUA POCO DOS NEGROS N147, 1200-337, LISBOA",
+    "phone": "967219021",
+    "tax_id": "PT252031776",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-09-26",
+    "time": "12:44:59",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 3.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 3.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ESCOVA ACO",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Household Supplies",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_194217.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "WANGGUI CHEN\nRUA POCO DOS NEGROS N147\n1200-337, LISBOA\nDomicilio Fiscal\nN°Contribuinte: PT252031776\nTEL: 967219021\nOriginal\n2019-9-26 12:44:59\nFATURA: FT 1/201700020593\nNome: flikehome\nMORADA:\nN°Contribuinte: 510776914\nDescriçao Prec Qta Total\nESCOVA ACO 3.00 0% 1 3.00\nTOTAL: 3.00€\nRECEBIDO: 3.00€\nTROCO: 0.00€\nDto Total 0.00 Sub Total 3.00\nIVA% IMPONIB IVA VALOR TOTAL\n0.00 3.00 0.00 3.00\nArtigo 60 do Codigo IVA. Regime especial pequena\nretalhista. IVA-NAO CONFERE DIREITO A\nDEDUCAO 0%IVA\nKJYY - processado por programa\ncertificado n.1549/AT\nFATURA Indispensavel p/ trocas em\n7 dias. nao efetuamos devolucoes do\ndinheiro"
+  }
+}

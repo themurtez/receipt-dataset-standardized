@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Farmacia Estacio",
+    "address": "Pr. Pedro IV, 60 A 63, 1100-200 Lisboa",
+    "phone": "213213190",
+    "tax_id": "506406415",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-11-06",
+    "time": "14:19:23",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 5.74,
+    "tax": 0.32,
+    "tip": 0.0,
+    "total": 5.74,
+    "accounting_category": "Pharmacy",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Ibuprofeno Farmoz, 400 mg x 20 comp",
+      "quantity": 1,
+      "unit_price": 2.95,
+      "total_price": 2.95,
+      "category": "Medication",
+      "accounting_category": "Pharmacy",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ben-U-Ron, 1000 mg x 18 comp",
+      "quantity": 1,
+      "unit_price": 2.79,
+      "total_price": 2.79,
+      "category": "Medication",
+      "accounting_category": "Pharmacy",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_152009.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "FARMACIA ESTACIO\nA3I - Serviços Integrados de Saúde, Lda\nPrÇ. P. Pedro IV, 60 A 63\n1100-200 LISBOA\n506406415\nDra Maria Joao Duarte\nTel.: 213213190\nCapital Soc.: 100.010,00 Euros\nOriginal\nFATURA SIMPLIFICADA N.: Y Y009/84646\nData: 06-11-2018 14:19:23\nVenda n. 1144163 (ANA ANDRADE)\nContribuinte n: 510776914\nProduto P.Ref Qt Comp Liquido IVA\nIbuprofeno Farmoz, 400 mg x 20 comp rev\n2,95 0,00 2,95 6%\nBen-U-Ron, 1000 mg x 18 comp\n2,79 1,79 0.00 2,79 6%\nTotal(Euros): 5,74\nTotal de IVA: 0,32 5,74\nTaxa\n6%\nImportância Liquidada\n\n(\n1144163\n(00370)\nFsNE-Processado por programa certificado\nnº 432/AT\nMarque a já a sua Consulta de Nutrição\nVd Suspensa válida até ao fim do mes dat o talao.\nTalao indispensável para troca no prazo de 7 dias\nNão se aceitam trocas e devolução de med icamentos."
+  }
+}

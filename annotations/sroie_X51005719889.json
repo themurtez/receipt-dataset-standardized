@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "HENG KEE DELIGHTS BAK KUT TEH",
+    "address": "NO 31, JALAN 3/62A, BANDAR MENJALARA, KEPONG, 52100 KUALA LUMPUR",
+    "phone": "016-6555553",
+    "tax_id": "000403890176",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-01",
+    "time": "07:42:10",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 39.62,
+    "tax": 2.38,
+    "tip": 0.0,
+    "total": 42.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Bak Kut Teh Soup",
+      "quantity": 2,
+      "unit_price": 17.0,
+      "total_price": 34.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "White Rice",
+      "quantity": 2,
+      "unit_price": 1.5,
+      "total_price": 3.0,
+      "category": "Food",
+      "accounting_category": "Sides",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Tofu",
+      "quantity": 1,
+      "unit_price": 4.0,
+      "total_price": 4.0,
+      "category": "Food",
+      "accounting_category": "Appetizers",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chinese Tea / Water",
+      "quantity": 2,
+      "unit_price": 0.5,
+      "total_price": 1.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005719889.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "HENG KEE DELIGHTS BAK KUT TEH.\nNO31, JALAN 3/62A,\nBANDAR MENJALARA\nKEPONG. 52100 KUALA LUMPUR\nGST NO:000403890176\nH/P : 016-6555553\nTAX INVOICE :TB011530\nTABLE:TAKE AWAY\nDATE:04/01/2018 7:42:10 AM\nTransaction By:admin\nEMS Reference:\n180104074210_TB011530_djf8537854+23\nDESCRIPTION AMOUNT TAX\n2.00 X 17.00 34.00 SR\nBak Kut Teh Soup (\n2.00 X 1.50 3.00 SR\nWhite Rice (B)\n1.00 X 4.00 4.00 SR\nTofu (B)\n2.00 X 0.50 1.00 SR\nChinese Tea/ Water\nSubtotal (GST Incl) 42.00\nVoucher Discount 0.00\nRedeem Point Discount 0.00\nDeposit 0.00\nRounding 0.00\nTotal: RM 42.00\n--Payment Summary--\nCash 42.00\nChange 0.00\n--GST Summary--\nAmount(SR) 39.62\nTax(SR) 2.38\nTHANK YOU\nPLEASE COME AGAIN"
+  }
+}

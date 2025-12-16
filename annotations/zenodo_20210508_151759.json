@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "TIGER PORTUGAL, SA",
+    "address": "Rua Nova do Almada, 105\n1200-219 Lisboa",
+    "phone": "",
+    "tax_id": "510414850",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-10-29",
+    "time": "10:57:00",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 3.25,
+    "tax": 0.75,
+    "tip": 0.0,
+    "total": 4.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BLACKBOARD WOOD",
+      "quantity": 1,
+      "unit_price": 3.25,
+      "total_price": 4.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_151759.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "flying tiger\ncopenhagen\nTIGER PORTUGAL, SA.\nChiado\nRua Nova do Almada, 105\n1200-219 Lisboa\nContribuinte N° 510414850\nSede: Quinta do Bom Retiro, 7 lvale Fetal\n2820-690 Charneca da Caparica\nNIF Clt: 510776914 N:\nFatura Simplificada\nNatureza: Fatura Sinplificada\n2018-10-29 10:57 SOLANGE RIJO GONCALVES\nVbo 18114/241346 Original Ter: 165\nQuant Pr. Unit. IVA Desc. Total\n1 3002501 BLACKBOARD WOOD 4,00\nIVA - % - %\nItens:1 4,00 EUR\nTotal 4,00\nForma Pag. MULTIBANCO\nIva Incluido a Taxa Indicaida\nTaxa Valor Iva Base Imp. Valor Total\n23% 0,75 3,25 4,00\nTrocas apenas com fatura até 31/12/2018\nConsultar condições na loja\nNão aceitamos devoluções\nc5AU-Processado por programa certificado\nn° 2/AT - Sage\nEste documento não constitui documento d\ne transporte, nos termos do Decreto-Lei\nn.° 147/2003\nProdutor EEE n° PTP02741\nProdutor P&A n° PTP00808"
+  }
+}

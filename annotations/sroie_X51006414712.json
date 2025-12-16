@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Domino's Pizza",
+    "address": "30, Jln Kebudayaan 7, Tmn Universiti, 81300 Skudai, Johor",
+    "phone": "1300888333",
+    "tax_id": "001694261248",
+    "website": "www.dominos.com.my"
+  },
+  "transaction": {
+    "date": "2018-04-28",
+    "time": "13:19:29",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 57.0,
+    "tax": 2.24,
+    "tip": 0.0,
+    "total": 39.6,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PLSB-R",
+      "quantity": 1,
+      "unit_price": 0.2,
+      "total_price": 0.2,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "RCD AOA4-ADI",
+      "quantity": 1,
+      "unit_price": 14.5,
+      "total_price": 14.5,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PEP (CAN) LVDR-RG4",
+      "quantity": 1,
+      "unit_price": 3.5,
+      "total_price": 3.5,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PEP (CAN) LVDR-RG4",
+      "quantity": 1,
+      "unit_price": 3.5,
+      "total_price": 3.5,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "T/B LVDR-RG4",
+      "quantity": 1,
+      "unit_price": 7.5,
+      "total_price": 7.5,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "9\"HT (AC) LVDR-RG4",
+      "quantity": 1,
+      "unit_price": 27.8,
+      "total_price": 27.8,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.4
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006414712.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TAX INVOICE\nDOMINO'S PIZZA\nGST REF NO : 001694261248\nDOMINO'S PIZZA TAMAN UNIVERSITI\n30, Jln Kebudayaan 7, Tmn Universiti\n81300 Skudai, Johor\n\nCARRY OUT NOW    Pay By: CASH\nOrder      : 8557       By : 5586\nOrder Time : 13:19:29  Date : 28/04/18\nName: MS NIWA\nPickup Time: 13:34:29\n\nQty Menu   Desc  Coupon  Disc  Price\n1   PLSB-R                  0.20\n1   RCD           AOA4-ADI        14.50\n1   PEP (CAN)   LVDR-RG4      3.50\n1   PEP (CAN)   LVDR-RG4      3.50\n1   T/B        LVDR-RG4      7.50\n1   9\"HT (AC)  LVDR-RG4     27.80\n                       17.40 57.00\nTotal Items \nSub-Total      :  57.00\nCoupon Discount:  17.40\nGrand Total    :  39.60\nPayment        :  40.00\nChange Due     :  00.40\n*6% GST Included :  2.24\n\nSUPPORT OUR SMILE CAMPAIGN : )\nDid we smile at you?\nLet us know at\nwww.dominos.com.my/smile and\nreceive a 30% off side item e-coupon\nupon survey submission\nSurvey Code: CBD280740855719\n\nThank you for visiting Domino's.\nPlease Come Again!\n1-300-888-333\nwww.dominos.com.my\n\nWe are compliant to the PDPA 2010.\nVisit www.dominos.com.my/terms\nto view our Personal Data\nProtection Policy.\n\nOwned by\nDommal Food Services Sdn Bhd\nCo. No. 41906-A"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Sen Lee Heong Restaurant",
+    "address": "G-O-1, M.Avenue No.1, Jln 1/38A, Segambut Bahagia, 51200, K. Lumpur",
+    "phone": "012-2525903 / 03-6258 5987",
+    "tax_id": "002083199-T",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-12",
+    "time": "21:53:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 73.0,
+    "tax": 4.38,
+    "tip": 0.0,
+    "total": 77.4,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Food SR",
+      "quantity": 1,
+      "unit_price": 67.0,
+      "total_price": 67.0,
+      "category": "Main Course",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Big Rice SR",
+      "quantity": 2,
+      "unit_price": 1.5,
+      "total_price": 3.0,
+      "category": "Side",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Tea Pot SR",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Beverage",
+      "accounting_category": "Drink",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.02,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005719863.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SEN LEE HEONG RESTAURANT\nCO NO.(002083199-T)\nGST ID NO(001115316224)\nG-O-1,M.AVENUE NO.1,JLN 1/38A,\nSEGAMBUT BAHAGIA,51200,K.LUMPUR\nTEL:012-2525903/ 03-6258 5987\nCashier:Manager MachNo:0000\nItem Qty Price Amount\n--------------------------------\nTable Number: 4\nFOOD SR 1 67.00 RM 67.00\nBIG RICE SR 2 1.50 RM 3.00\nTEA POT SR 1 3.00 RM 3.00\nSubtotal RM 73.00\n--------------------------------\nGST TAX AMT: RM 73.00\nGST( 6.0%) Amount: RM 4.38\nROUND ADJ RM 0.02\nItem: 4\nTOTAL RM 77.40\nCash\n12-01-2018 21:53\nTAX Invoice: #11372\nTHANK YOU\nPLEASE COME AGAIN"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "ROGERIO PAIS, LDA FERRAGENS E FERRAMENTAS",
+    "address": "AVENIDA ALMIRANTE REIS, 9-E, 1150-007 LISBOA",
+    "phone": "218853901",
+    "tax_id": "510776914",
+    "website": "www.ticasgest.pt"
+  },
+  "transaction": {
+    "date": "2019-09-16",
+    "time": "14:01:28",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 1.22,
+    "tax": 0.28,
+    "tip": 0.0,
+    "total": 1.5,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.8
+  },
+  "items": [
+    {
+      "name": "UNI Aldrabagate f",
+      "quantity": 1,
+      "unit_price": 1.22,
+      "total_price": 1.5,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_193339.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROGERIO PAIS, LDA FERRAGENS E FERRAMENTAS * MAQUINAS * UTILIDADES AVENIDA ALMIRANTE REIS, 9-E, 1150-007 LISBOA Tel/Fax 218853901 Tel 960608696\nSociedade por quotas * Capital Social 5.012,92 R EUR CRC: 34852NIB: 0033 0000 01280628463 52\n\n2019-09-16 FATURA SIMPLIFICADA N: Original FS 1A1901/7509\n14:01:28 BALCAO 1\n\nContribuinte: 510776914\n\nQTD UNI DESCRICAO IVA VALOR\n1 UNI Aldrabagate f 23% 1,50\nPreco: 1,50/UNIDADE\n\nTAXA IVA INCID. Totais\n23% 0,28 1,22\nTOTAL INCIDENCIAS: 0,28 1,22\n\nTOTAL: \nEur 1,50\n\nPago em Numerario\nValor entregue: 1,50\nTroco: 0.00\n\nImplementado por www.ticasgest.pt\n\nGPR-Processado por programa certificado n. 217/AT\n\nLicenca: ROGERIO PAIS, LDA\nContribuinte: 500544000"
+  }
+}

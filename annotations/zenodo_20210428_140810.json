@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Euro Telemoveis",
+    "address": "Rua do Benformoso, 53/57, 1100-083 Lisboa",
+    "phone": "218058646",
+    "tax_id": "77264189",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-20",
+    "time": "19:50:00",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 5.28,
+    "tax": 1.22,
+    "tip": 0.0,
+    "total": 6.5,
+    "accounting_category": "Electronics",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Multi plug",
+      "quantity": 1,
+      "unit_price": 6.5,
+      "total_price": 6.5,
+      "category": "Electronics",
+      "accounting_category": "Electronics",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_140810.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "EURO TELEMOVEIS\nIMRUL ISLAM\nCONTRIB. 77264189 TEL. 218058646\nRUA DO BENFORMOSO, 53/57\n1100-083 LISBOA\n\nFATURA/RECIBO\n\nORIGINAL\nDATA 2019/02/20 - 19:50 Nº A1/1547\nCliente: 1 like home\nMorada:\nCont.Nº: 510776914\n\nArtigo Qtd Preço € Valor €\n\nmulti plug 1 un x 6.50 = 6.50\n\nTOTAL\nNumerário 6.50\nTroco 0.00\n\nIVA incluído à taxa indicada\nTaxa % Sujeito IVA Total\n23.00 5.28 1.22 6.50\n\nwQCO-Processado por programa certificado\nNº 88/AT - 2 AI/1547\n\nOpr: IMRUL\n\nOBRIGADO - VOLTE SEMPRE"
+  }
+}

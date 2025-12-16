@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Worten",
+    "address": "Edifício Norcentro Piso. Rua Martinho 91, 1099-199, Lisboa",
+    "phone": "",
+    "tax_id": "PT501725914",
+    "website": "www.worten.pt"
+  },
+  "transaction": {
+    "date": "2019-02-04",
+    "time": "20:17:00",
+    "currency": "EUR",
+    "payment_method": "N/A",
+    "subtotal": 20.99,
+    "tax": 3.52,
+    "tip": 0.0,
+    "total": 25.6,
+    "accounting_category": "Electronics",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Pequenos Domésticos",
+      "quantity": 1,
+      "unit_price": 20.99,
+      "total_price": 20.99,
+      "category": "Home Appliances",
+      "accounting_category": "Electronics",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_142844.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "WORTEN Entornores para o lar SA\nEdifício Norcentro Piso. Rua Martinho 91, 1099-199\nLISI3A\nRegisto C.R.Crm Lien 0. 500300789 - F11012 7530 7\nNIF: PT501725914\nC. os 4.000.000 0,, i. CRRAXº Estr brare PwiTO3'7\nFoturno Deplica. v\n€9CRAD: HAR0134159431 04/02/2019 20.17\nCliene: FlxMENE\nNIF: PT501725914\nMORA DA: LEBOA\nLocal: LlESOA\nC. Posu: 900 000\nIVA DESCRICÂO VAIJOR\nPequenas Domesticos 20.99\n(G) 506154523B1CE 2304F1\n17.07\nTOAL A PAGAR 20.99\n23.inn 9\nPascn\nNumeroru 25,.60\nIRGO\n1356/\n5198 0003 72760 231179 - 1000065559724744\nLocal cargo: Marada da loja\nLocal descarga: Morada do cliente\nData: 04/02/2019 Hora: 20.17\nIVA INCLUIDO\nTai. ICN Indispensavel para traso\nParzo de devolução: 15 dius\n*** OBRIGADO ***\nN'lo politice\nNão eão artunigidos pela de\nsatísfoção/devoluçao os ortigos conv\nativacao mXaixa\nParoa mais informações consultar\nwww.worten.pt"
+  }
+}

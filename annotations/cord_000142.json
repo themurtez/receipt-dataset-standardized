@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Bread Life",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "BCA",
+    "subtotal": 55500.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 55500.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Pillow Chaco",
+      "quantity": 1,
+      "unit_price": 18000.0,
+      "total_price": 18000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pillow Cheese",
+      "quantity": 1,
+      "unit_price": 18000.0,
+      "total_price": 18000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pillow Kombi",
+      "quantity": 1,
+      "unit_price": 19500.0,
+      "total_price": 19500.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000142.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Bread Life\nTime to Eat\n\n1 Pillow Chaco 18,000\n1 Pillow Cheese 18,000\n1 Pillow Kombi 19,500\n\nSUBTOTAL 55,500\nDUE 55,500\nROUNDING 0\nBCA: 55,500\n\nTOTAL QTY 3 ITEM 3 PCS\n"
+  }
+}

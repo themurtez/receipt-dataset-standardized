@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "RESTORAN WAN SHENG",
+    "address": "No.2, Jalan Temenggung 19/9, Seksyen 9, Bandar Mahkota Cheras, 43200 Cheras, Selangor",
+    "phone": "",
+    "tax_id": "001335787520",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-17",
+    "time": "15:22:52",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 9.07,
+    "tax": 0.53,
+    "tip": 0.0,
+    "total": 9.6,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Kopi (B)",
+      "quantity": 1,
+      "unit_price": 2.2,
+      "total_price": 2.2,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Teh (B)",
+      "quantity": 2,
+      "unit_price": 2.2,
+      "total_price": 4.4,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cham (B)",
+      "quantity": 1,
+      "unit_price": 2.2,
+      "total_price": 2.2,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Take Away",
+      "quantity": 4,
+      "unit_price": 0.2,
+      "total_price": 0.8,
+      "category": "Service",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005711402.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "RESTORAN WAN SHENG\n002043319-W\nNo.2, Jalan Temenggung 19/9, Seksyen 9, Bandar Mahkota Cheras,\n43200 Cheras, Selangor\nGST REG NO: 001335787520\nTax Invoice\nINV No.: 1049519 Cashier: Thandar\nDate : 17-03-2018 15:22:52\nDescription Qty U.price Total TAX\nKopi (B) 1 x 2.20 2.20 SR\nTeh (B) 2 x 2.20 4.40 SR\nCham (B) 1 x 2.20 2.20 SR\nTake Away 4 x 0.20 0.80 SR\nTotal QTY: 8\nTotal (Excluding GST): 9.07\nGST payable (6%): 0.53\nTotal (Inclusive of GST): 9.60\nTOTAL: 9.60\nCASH : 9.60\nGST Summary Amount(RM) Tax(RM)\nSR (@ 6%) 9.07 0.53"
+  }
+}

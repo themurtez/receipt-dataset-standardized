@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "SYARIKAT KAM LAI SEONG SDN BHD",
+    "address": "NO. 1442, JALAN SK 11/5, SERI KEMBANGAN, 43300 SELANGOR",
+    "phone": "03-89486342",
+    "tax_id": "001632722944",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-08",
+    "time": "05:01:12",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 179.25,
+    "tax": 10.75,
+    "tip": 0.0,
+    "total": 190.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "5lt Nippon Zinc Chromate",
+      "quantity": 2,
+      "unit_price": 95.0,
+      "total_price": 190.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007433809.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SYARIKAT KAM LAI SEONG SDN BHD (Co No. 95156P)\nNO. 1442, JALAN SK 11/5, SERI KEMBANGAN\n43300 SELANGOR\nTEL: 03-89486342\nFAX: 03-89586342\nGST Reg. No.: 001632722944\nInsert by: admin\nT.S.Hoh\nPayment Type: Cash\nDate: 08-03-2018 05.01.12 PM\nTax Invoice\n(Invoice No.: INV-37002)\nITEM\tQTY\tU.PRICE (RM)\tTOTAL (RM)\tTAX CODE\nOPEN ITEM\t2\t95.00\t190.00\tSR\n5lt Nippon Zinc Chromate\nItem Count\t2\nTotal\t190.00\nDiscount\t0.00\nExtra Disc (0.00%)\t0.00\nGST(6.00%)\t10.75\nBef. Rounding\t190.00\nRounding Adj.\t0.00\nTotal Including GST\t190.00\nTendered\t190.00\nGST summary\nAmount\tTax\nSR(6.00%)\t179.25\t10.75\nTotal:\nPrint: 08-Mar-18\nOpened By: admin\n----\nReceive By\n"
+  }
+}

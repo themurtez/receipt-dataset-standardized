@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 54000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 54000.0,
+    "accounting_category": "Beverages",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Viet Milk Coffee +L +Ice",
+      "quantity": 1,
+      "unit_price": 23000.0,
+      "total_price": 23000.0,
+      "category": "Coffee",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Viet Milk Coffee +Ice +#",
+      "quantity": 1,
+      "unit_price": 25000.0,
+      "total_price": 25000.0,
+      "category": "Coffee",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 2000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000134.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Viet Milk Coffee 23.000\n+L\n+Ice\n1 Viet Milk Coffee 25.000\n+Ice\n+#\nSubtotal. 54.000\nTotal 54.000\n56.000\nKembalian 2.000"
+  }
+}

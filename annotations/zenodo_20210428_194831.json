@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "H3 - Campo Ourique",
+    "address": "R. Tierno Galvan n10 Torre3-P3 301a303, Cod. Postal: 1070-274 Lisboa",
+    "phone": "213803110",
+    "tax_id": "506784363",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-26",
+    "time": "12:55:24",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 13.98,
+    "tax": 2.12,
+    "tip": 0.0,
+    "total": 16.1,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Sopa Legumes",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Peito Frango",
+      "quantity": 1,
+      "unit_price": 4.85,
+      "total_price": 4.85,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Arroz Thai",
+      "quantity": 1,
+      "unit_price": 1.95,
+      "total_price": 1.95,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Batatas as Rodelas",
+      "quantity": 1,
+      "unit_price": 1.35,
+      "total_price": 1.35,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Esparregado",
+      "quantity": 1,
+      "unit_price": 1.95,
+      "total_price": 1.95,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Limonada H3",
+      "quantity": 2,
+      "unit_price": 1.85,
+      "total_price": 3.7,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_194831.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "H3 - Campo Ourique\nH3 Portugal, S.A.\nR. Tierno Galvan n10 Torre3-P3 301a303\nCod. Postal: 1070-274 Lisboa\nTelefone: 213803110\nNo. Contribuinte: 506784363\nRegisto na Cons. Lisboa n.506784363\nCapital Social: 150.000 Euros\n\nNIF: 510776914\n\nFatura simplificada FS 129/45851\nData: 2019-05-26 - Hora: 12:55:24\nOriginal\n\nQt Artigo IVA Total\n1 Sopa Legumes 13 e 2.50\n1 Peito Frango 13 e 4.85\n1 Arroz Thai 13 e 1.95\n1 Batatas as Rodelas 13 e 1.35\n1 Esparregado 13 e 1.95\n1 Limonada H3 23 e 1.85\n1 Limonada H3 23 e 1.85\n\nTotal e 16.10\n\nMesa 6 - Emp. Tatiana Almeida\n\nTaxa Base IVA Total\n13.00 e 10.98 e 1.42 e 12.40\n23.00 e 3.00 e 0.70 e 3.70\nTotal: e 13.98 e 2.12 e 16.10\n\nConsultas:\nPag. mesa 405\nIVA incluido a taxa legal em vigor\n\nGanhou 2 pontos !\nVisite tugaresiste.pt para consultar\no seu saldo\n\nActualize ja a nova versao da app H3!\n\nIDtrans: 000004664860 IDterm: 9020793\n\nCopyright GrupoPIE, SA"
+  }
+}

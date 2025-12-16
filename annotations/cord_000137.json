@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 80000.0,
+    "tax": 8000.0,
+    "tip": 0.0,
+    "total": 88000.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "FA-Cookies Mix 200 gr",
+      "quantity": 1,
+      "unit_price": 80000.0,
+      "total_price": 80000.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "FA-Polycello Bag 200 gr",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Packaging",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000137.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "FA-Cookies Mix 200 gr\n1 80,000.00 80,000.00\nFA-Polycello Bag 200 gr\n1 0.00 0.00\nTOTAL 80,000.00\nDISCOUNT 0.00\nTAX 8,000.00\nGRAND TOTAL 88,000.00\nTOTAL BAYAR 88,000.00\nCHANGE 0.00"
+  }
+}

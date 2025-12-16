@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "EMEL Parques de Estacionamento S.A.",
+    "address": "Av. Conde Valbom, 30 Piso 5, 1050-068 Lisboa",
+    "phone": "",
+    "tax_id": "NIF: Consumidor Final",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-11",
+    "time": "15:13:00",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 4.3,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 4.3,
+    "accounting_category": "Parking",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Parking Fee",
+      "quantity": 1,
+      "unit_price": 4.3,
+      "total_price": 4.3,
+      "category": "Parking",
+      "accounting_category": "Parking",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210427_162556.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "\nEMEL Parques de \nEstacionamento S.A. \nAv. Conde Valbom, 30 Piso 5 \n1050-068 Lisboa \nCont: 503316685 / CRC: 05636 \nPARQUE CAMOES \n\nDoc n: 181168 \nTerminal: 22 \nBilhete No: 39696974 \nRetido: EUR 4,10 \nEntrada: 2019-03-11 13:19 \nValor: EUR 4,30 \nData: 2019-03-11 Hora: 15:13 \nIVA a taxa legal em vigor \nProcessado por Computador \nNome: Consumidor Final \nNIF: Consumidor Final \n\nPQ ESTACIONAMENTO \nCAMOES \nPC LUIS CAMOES \nLISBOA \nN.F.C: 503316685 T.P.A: M19828M7 \nData: 2019/03/11 Hora: 15:12:35 \nPer.: 162 Tra.: M15 Mem.: 897 \n\n* \nCOMPRA-CHIP W/WW \nISABEL MATIAS CRAVO/ \nCartao: MB OP: 11166 \n**** **** **** 7973/15 \n\n581649FF220 \nMULTIBANCO \nConta/Autorizacao: AUT:439926 \n\nBANCO BPI \nMB 4,30 Eur\n"
+  }
+}

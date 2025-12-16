@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (M) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KP 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000306020352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-14",
+    "time": "21:49:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 35.0,
+    "tax": 2.1,
+    "tip": 0.0,
+    "total": 37.1,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Souring Pad",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Household",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Scissor G/Fish",
+      "quantity": 4,
+      "unit_price": 2.8,
+      "total_price": 11.2,
+      "category": "Tools",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Trailing Skt Cable",
+      "quantity": 2,
+      "unit_price": 1.5,
+      "total_price": 3.0,
+      "category": "Electronics",
+      "accounting_category": "Electrical",
+      "category_confidence": 0.88
+    },
+    {
+      "name": "Item #9553114461966",
+      "quantity": 1,
+      "unit_price": 22.9,
+      "total_price": 22.9,
+      "category": "Hardware",
+      "accounting_category": "Tools",
+      "category_confidence": 0.87
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 12.9
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005361946.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PAID\n14 MAR 2018\nMR. D.I.Y. (M) SDN BHD\n(CO Reg. 860041-D)\nLOT. 1851-A & 1851-B, JALAN KP 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID NO. 000306020352)\n(TESCO MUTIARA DAMANSARA)\n- TAX INVOICE -\nSOURING PAD: 1018-4 48 *5\nWA03 24/240\n95522130 0101 4 X 2.80 11.20 *S\nSCISSOR G/FISH\nADJ : 24/360\n9064422 2 X 1.50 3.00 •s\nTRAILING SKT 5GN+SP 3X1.25MM CABLE 2 *S\nWA27 20\n9553114461966 1 X 22.90 22.90\nItem(s): 3 Qty(s): 7\nTotal Incl. GST@6% RM 37.10\nCASH RM 50.00\nCHANGE RM 12.90\nGST Summary Amt(RM) Tax(RM)\nGST @6% 35.00 2.10\n*\n14-03-18 21:49 SH03 ZJ20 T1 R000418193\nOPERATOR TMDC - SAH BIJAY KUMAR\nEXCHANGE ARE ALLOWED WITHIN\n7 DAYS WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

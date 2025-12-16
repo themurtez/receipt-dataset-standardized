@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "SILETRICA LDA",
+    "address": "LISBOA",
+    "phone": "",
+    "tax_id": "TPA: 00806466",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-01-15",
+    "time": "11:56:50",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 43.68,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 43.68,
+    "accounting_category": "Utilities",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Compra",
+      "quantity": 1,
+      "unit_price": 43.68,
+      "total_price": 43.68,
+      "category": "Utilities",
+      "accounting_category": "Utilities",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_172000.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SILETRICA LDA\nLISBOA\nIdent. TPA: 00806466\n2019-01-15 11:56:50\nPer: 057 Tr: 004 Mg944\nMILLENNIUM BCP\nMANUEL ARROUBE/JOSE\nCARTAO: ****8902/85\n5016491*20\nMULTIBANCO\nCOMPRA 43,68€\nAUT: 433037/MB\nCAIXA ECONOMICA\nMONTEPIO GERAL\nCOPIA CLIENTE\nPROCESSADO POR SIBS"
+  }
+}

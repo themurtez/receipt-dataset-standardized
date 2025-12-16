@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "R. Actor António Silva, N7, 1600-003 Lisboa",
+    "phone": "213136100",
+    "tax_id": "510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-08-05",
+    "time": "13:06:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 8.85,
+    "tax": 2.03,
+    "tip": 0.0,
+    "total": 10.88,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.85
+  },
+  "items": [
+    {
+      "name": "DETERG. E PROD. LIMPEZA",
+      "quantity": 1,
+      "unit_price": 4.89,
+      "total_price": 4.89,
+      "category": "Cleaning Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "E 23% INSECT RASTEJ BAYGON",
+      "quantity": 1,
+      "unit_price": 5.99,
+      "total_price": 5.99,
+      "category": "Pest Control",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 9.12
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_202207.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TOMAS RIBEIRO\nTel. 213136100\nPingo Doce - Distribuição Alimentar, S.A.\nSede: R Actor António Silva, N7, 1600-003 Lisboa\nRegisto G.R.C Lisboa Matrícula/NIPC 500027938\nANREE: PT0071730 C. Social: 33,808,115 EUR\n\nArtigos\nDETERG. E PROD. LIMPEZA\nE 23% INSECT RASTEJ BAYGON 4.89\nE 23% BAYGON ESP ACT400 5.99\n\nResumo\nTOTAL A PAGAR 10.88\nTOTAL PAGO 20.00\nTROCO 9.12\nEURO 20.00\n\nResumo IVA\nE 23% Valor S/IVA Valor IVA Valor C/IVA\n8.85 2.03 10.88\nAtendido por: João Santos\n005506 2019-08-05 13:06 0084 0003 0040\n\nPm2w-Processado por programa certificado 369/AT\nFatura/Recibo FT 0400031907021225/000124\nData de emissão: 05-08-2019\nN. Contribuinte: 510776914\nNome: FILKEHOME LDA\nMorada: AV DA LIBERDADE 36 1B 1250/145\nLocalidade: Lisboa\n\nLocal carga: TOMAS RIBEIRO\nMorada do cliente\nData: 2019-08-05 Hora: 13:06\n\nFacture necessária para troca em 15 dias\n(Artigos Têxtil e Calçado prazo 30 dias)\n\nPara trocas mencionamentos artigos assinalados\nApoio ao Cliente\n808 20 45 45 / 210 11 44 11 (24 horas)"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Dynamic",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 18000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 18000.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Keju Susu",
+      "quantity": 1,
+      "unit_price": 11000.0,
+      "total_price": 8800.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pisang Keju",
+      "quantity": 1,
+      "unit_price": 11500.0,
+      "total_price": 9200.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Plastik Kecil",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Other",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.7
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 2000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000664.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Dynamic\nKeju Susu 11,000\nDisc Item -20.000%\nAmount -2,200\nPisang Keju 11,500\nDisc Item -20.000%\nAmount -2,300\nPlastik Kecil 0\nSubtotal 18,000\nTotal 18,000\nCash 20,000\nChange 2,000\n"
+  }
+}

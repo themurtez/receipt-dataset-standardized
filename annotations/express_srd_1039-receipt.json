@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "CARL'S JR",
+    "address": "8105 MADISON AVE, FAIR OAKS, CA",
+    "phone": "(916) 962-3415",
+    "tax_id": "1100375",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-12-19",
+    "time": "19:42:42",
+    "currency": "USD",
+    "payment_method": "Credit",
+    "subtotal": 12.08,
+    "tax": 0.97,
+    "tip": 0.0,
+    "total": 13.05,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Santa Fe Ckn",
+      "quantity": 2,
+      "unit_price": 5.69,
+      "total_price": 11.38,
+      "category": "Main Course",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "American Ch",
+      "quantity": 1,
+      "unit_price": 0.7,
+      "total_price": 0.7,
+      "category": "Add-on",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1039-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CARL'S JR 1100375\n(916) 962-3415\n8105 MADISON AVE\nFAIR OAKS, CA\nRegister 1 Order is Tendered\n12/19/2016 7:42:42 PM\nDriveThru #3100 / 3625\n\n2 Santa Fe Ckn $11.38\n- American Ch\nE Green Chile $0.70\nS Santa Fe Sce\nSub Total $12.08\nDiscounts $0.00\nTax $0.97\nTotal $13.05\nCredit $13.05\nChange $0.00"
+  }
+}

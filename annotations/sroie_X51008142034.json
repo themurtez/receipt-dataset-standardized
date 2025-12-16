@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "MEGAH RETAIL SDN BHD",
+    "address": "3-7, GROUND FLOOR, JLN PUTRA DENGKIL 1, TMN PUTRA DENGKIL, 43800 DENGKIL, SELANGOR DARUL EHSAN",
+    "phone": "",
+    "tax_id": "000736312332",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-09",
+    "time": "13:12:43",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 4.69,
+    "tax": 0.26,
+    "tip": 0.0,
+    "total": 4.7,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "350ML CALPIS ORIGINAL",
+      "quantity": 1,
+      "unit_price": 2.49,
+      "total_price": 2.49,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "500ML COKE",
+      "quantity": 1,
+      "unit_price": 2.2,
+      "total_price": 2.2,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.01,
+    "change_due": 0.3
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008142034.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MEGAH RETAIL SDN BHD\n3-7, GROUND FLOOR, JLN PUTRA DENGKIL 1\nTMN PUTRA DENGKIL\n43800 DENGKIL, SELANGOR DARUL EHSAN\nGST Reg No. : 000736312332\nTAX INVOICE\n03/290900 Inv No.:HQ18ED09/0101\nPromoter:00 09/05/2018 1:12:43 PM\nItem Code Qty U/Price Amt\n350ML CALPIS ORIGINAL\nSR-9556404118038 1 2.49 2.49\n500ML COKE\nSR-9555589200392 1 2.20 2.20\nSub Total : RM 4.69\nRounding Adj : RM 0.01\nTotal Sales Inclusive GST : RM 4.70\nCash : RM 5.00\nChange : RM 0.30\nGST Summary Amount GST Amt\nSR@6.00% 4.43 0.26\nZR@0.00% 0.00 0.00\nNo. of Item : 2 Total Qty. : 2\nPrintedBy : 290900\nGOODS SOLD ARE NOT RETURNABLE\nTHANK YOU, PLEASE COME AGAIN"
+  }
+}

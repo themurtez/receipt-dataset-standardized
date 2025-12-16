@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "IKEA",
+    "address": "Rua Sousa Martins N°27 5°",
+    "phone": "",
+    "tax_id": "509546654",
+    "website": "www.ikea.pt"
+  },
+  "transaction": {
+    "date": "2019-02-27",
+    "time": "10:14:33",
+    "currency": "EUR",
+    "payment_method": "Cartão Devolução",
+    "subtotal": -114.95,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": -114.95,
+    "accounting_category": "Refund",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GRUSBLAD edred",
+      "quantity": -5,
+      "unit_price": 22.99,
+      "total_price": -114.95,
+      "category": "Home Goods",
+      "accounting_category": "Refund",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": -5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_192455.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "IKEA Nota de credito Doc. Név. 3/703320190207/2/525\nDocumento Reg E P0016127 Encruzu/ Ru da Setuna 02601 FRIST\nMOxe– Decciação Lda\nRUA Sousa MARTINS I°2 5\nURSE-RI e Sal- Dação\nFara o date 7,9 P P\nPne-E :\nRua Sousa MARTINS N 27°\nCRIPTE\nRO\nooo27r7200\nc\nCXXXXX\norado\nValo 2270 ea\nP\nA\tRaed\nIlipr\nX\nUlt Askmeemenedapama\n201547 Para trocar: \nao\nivae\n"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "PappaRich BMC",
+    "address": "NO.19 & 21 JALAN TEMENGGUNG 23/9 BANDAR MAHKOTA CHERAS 43200 SELANGOR DARUL EHSAN, MALAYSIA",
+    "phone": "",
+    "tax_id": "00164270080",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-29",
+    "time": "06:01:34",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 42.64,
+    "tax": 4.25,
+    "tip": 0.0,
+    "total": 46.9,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "N22 SPRG NDL+su+cr E",
+      "quantity": 1,
+      "unit_price": 9.34,
+      "total_price": 9.34,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "RO2 N’ LMK+cc+st E",
+      "quantity": 1,
+      "unit_price": 20.66,
+      "total_price": 20.66,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "D27 MILO (I) E",
+      "quantity": 1,
+      "unit_price": 5.19,
+      "total_price": 5.19,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "D31 MOCHA (I) E",
+      "quantity": 1,
+      "unit_price": 7.45,
+      "total_price": 7.45,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.01,
+    "change_due": 10.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008099100.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PappaRich BMC\nNO.19 & 21\nJALAN TEMENGGUNG 23/9\nBANDAR MAHKOTA CHERAS\n43200 SELANGOR DARUL EHSAN, MALAYSIA\n\nTAX INVOICE\nGST ID: 00164270080\n2 COUNTER1\t\t\t2003 saiful\nChk 276703\t\tGuest1\n29 Jun 18 06:01:34 PM\nTBL35 / 1\n1 N22 SPRG NDL+su+cr E\t\t9.34 S\n1 RO2 N’ LMK+cc+st E\t\t20.66 S\n1 D27 MILO (I) E\t\t5.19 S\n1 D31 MOCHA (I) E\t\t7.45 S\n\nCASH\n56.90\nSubtotal\t\t42.64\n10% Srv Chg\t\t4.25\nTotal:\t\t46.89\nRND ADJ\t\t0.01\nTTL ATF RND\t\t46.90\nPayment\t\t56.90\nChange Due\t\t10.00\n----2003 CLOSED 29 Jun 18 06:25:04 PM----\nTHANK YOU! PLEASE COME AGAIN!\nGST AT 0%\nGSTSummary Amount(RM) GST(RM)\nS=GST @0%: 46.90 0.00\nZ=GST @0%: 0.00 0.00"
+  }
+}

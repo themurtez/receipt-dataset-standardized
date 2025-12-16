@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "KEDAI PAPAN YEW CHUAN",
+    "address": "LOT 276 JALAN BANTING, 43800 DENGKIL, SELANGOR",
+    "phone": "03-87686092",
+    "tax_id": "000781500416",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-17",
+    "time": "10:50:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 180.0,
+    "tax": 10.8,
+    "tip": 0.0,
+    "total": 190.8,
+    "accounting_category": "Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SIMEN",
+      "quantity": 10,
+      "unit_price": 16.5,
+      "total_price": 174.9,
+      "category": "Building Materials",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "KAPUR AIR (A1)",
+      "quantity": 5,
+      "unit_price": 3.0,
+      "total_price": 15.9,
+      "category": "Building Materials",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 15,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008142059.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KEDAI PAPAN YEW CHUAN\n(0005583085-K)\nLOT 276 JALAN BANTING\n43800 DENGKIL, SELANGOR.\nTEL: 03-87686092 FAX: 03-87686092\nGST ID: 000781500416\nTAX INVOICE\nBill To:\nSUCI ALAM JAYA TRANSPORT\nNO 1 JALAN AMAN 2\nTAMAN DESA 43800\nDENGKIL SELANGOR\n017-6057770\nDoc No. : CS00011904 Date: 17/04/2018\nCashier : USER Time: 10:50:00\nSalesperson : Ref.:\nItem Qty S/Price (GST)\n(GST) Amount Tax\nS/Price\n101756 10 16.50 17.49 174.90 SR\nSIMEN\n100160 5 3.00 3.18 15.90 SR\nKAPUR AIR (A1)\nTotal Qty: 15 190.80\nTotal Sales (Excluding GST) : 180.00\nDiscount : 0.00\nTotal GST : 10.80\nRounding : 0.00\nTotal Sales (Inclusive of GST) : 190.80\nCASH : 190.80\nChange : 0.00\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR 6 180.00 10.80\nTotal : 180.00 10.80\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU."
+  }
+}

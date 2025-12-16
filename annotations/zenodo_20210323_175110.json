@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "V SEIS EXPLORAÇÃO DE COMBUSTIVEIS, LDA",
+    "address": "Av. V6 - Alto do Quintão 8500-510 Portimão",
+    "phone": "",
+    "tax_id": "503141500",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-04-16",
+    "time": "14:00:46",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 42.36,
+    "tax": 9.74,
+    "tip": 0.0,
+    "total": 52.1,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GASOLEO BUMBA NR: 3",
+      "quantity": 36.08,
+      "unit_price": 1.444,
+      "total_price": 52.1,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_175110.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "V SEIS EXPLORAÇÃO DE COMBUSTIVEIS, LDA\nAv. V6 - Alto do Quintão 8500-510 Portimão\nNIF: 503141500 Oper. 1\nPOS Nr. 1 Datum: 2019-04-16 14:00:46 Ref.nr. 4541\nFatura Simplificada FS 27043_003/177419\nGASOLEO BUMBA NR: 3 36.08 lit x 1.444 €/Lit = 52.10\nTOTAL = 52.10\nMULTIBANCO = 52.10\nV SEIS EXPLOARAÇÃO\nTerminal Pagamento Automático: 00373947 2019-04-16 14:00:36\nPer 034 Tr 183 Msg. 421\nMillennium BCP\n501649FF20 MULTIBANCO\nCOMPRA 52.10 EUR MB\nAUT: 511942\nREDUNCIREE INOVAÇÃO E CONFIANÇA\nPROCESSADO POR SIBS\nIVA 4 23.00% 9.74 42.36 = 52.10\nZ: ZE1-Processado por Programa Certificado no. 0177/AT\nNome: FLIKEROME ALGARVE, LDA\nNIF: P1514407395"
+  }
+}

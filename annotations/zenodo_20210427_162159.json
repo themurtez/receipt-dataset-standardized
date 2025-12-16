@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "JMTD-FERRAGENS DO COMBRO LDA",
+    "address": "Calçada do Combro Nº3, 1200-110 Lisboa",
+    "phone": "21 347 67 62",
+    "tax_id": "513 356 535",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-07",
+    "time": "15:53:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 8.54,
+    "tax": 1.96,
+    "tip": 0.0,
+    "total": 10.5,
+    "accounting_category": "Hardware Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chave Pontos",
+      "quantity": 1,
+      "unit_price": 9.0,
+      "total_price": 9.0,
+      "category": "Tool",
+      "accounting_category": "Hardware Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chave Universal Especial",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Tool",
+      "accounting_category": "Hardware Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210427_162159.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "JMTD-FERRAGENS DO COMBRO LDA\nFERRAGENS FERRAMENTAS CHAVES FECHADURAS\nMAT ELECTRICO - MAT CANALIZACAO\nCALCADA DO COMBRO N°3 - 1200-110 LISBOA\nNIF: 513 356 535\nEmail: jose.m.a.duarte@sapo.pt\n Tel: 21 347 67 62\n\nFATURA SIMPLIFICADA\nORIGINAL\nDATA 07/03/2019 - 15:53       Nº A/29649\n\nCliente: FLKEHOME Lda\nMorada:\nCont.N°:  510776914\n\nArtigo  Qtd   Preço €   Valor €\n---------------------------------------\nChave Pontos\n23%         1 Un x   9,00  =   9,00\nChave Universal Especial\n23%        1 Un x   1,50  =   1,50\n\nTOTAL..............................................  10,50\nNumerário......................................\nTroco...............................................\n\nIVA Incluido a taxa indicada\nTaxa% Sujeito          IVA         Total\n23.00     8,54            1,96        10,50\n\nData de carga : 07/03/2019\nHora de carga : 16:03\nLocal carga : N/Instalações\nMatricula:\nData descarga:\nHora descarga: V/Instalações\nLocal descarga: V/Instalações\n\nzD9U-Processado por programa certificado\nNº 88/AT - 1 A/29649\n\nOpr: Administrador\n\nOBRIGADO - VOLTE SEMPRE"
+  }
+}

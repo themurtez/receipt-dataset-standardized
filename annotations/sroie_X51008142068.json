@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "KEDAI PAPAN YEW CHUAN",
+    "address": "LOT 276 JALAN BANTING, 43800 DENGKIL, SELANGOR.",
+    "phone": "03-87686092",
+    "tax_id": "000781500416",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-11",
+    "time": "16:52:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 65.0,
+    "tax": 3.9,
+    "tip": 0.0,
+    "total": 68.9,
+    "accounting_category": "office_supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PASIR HALUS (D)",
+      "quantity": 1,
+      "unit_price": 65.0,
+      "total_price": 68.9,
+      "category": "office_supplies",
+      "accounting_category": "office_supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008142068.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KEDAI PAPAN YEW CHUAN\n(0005583085-K)\nLOT 276 JALAN BANTING\n43800 DENGKIL, SELANGOR.\nTEL : 03-87686092 FAX : 03-87686092\nGST ID : 000781500416\nTAX INVOICE\nBill To\nSUCI ALAM JAYA TRANSPORT\nNO 1 JALAN AMAN 2\nTAMAN DESA 43800\nDENGKIL SELANGOR\n017-6057770\nDoc No. : CS00012658\nDate: 11/05/2018\nCashier : USER\nTime: 16:52:00\nSalesperson :\nRef.:\nItem\nQty\nS/Price\n(GST)\nS/Price\n(GST)\nAmount\nTax\n101870\n1\n65.00\n68.90\n68.90\nSR\nPASIR HALUS (D)\nTotal Qty: 1 68.90\nTotal Sales (Excluding GST) : 65.00\nDiscount : 0.00\nTotal GST : 3.90\nRounding : 0.00\nTotal Sales (Inclusive of GST): 68.90\nCASH :\n68.90\nChange :\n0.00\nGST SUMMARY\nTax Code\nSR\n% 6\nAmt (RM) 65.00\nTax (RM) 3.90\nTotal : 65.00 3.90\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU"
+  }
+}

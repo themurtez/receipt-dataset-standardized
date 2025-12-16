@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "ROGERIO PAIS, LDA",
+    "address": "AVENIDA ALMIRANTE REIS, 9-E, 1150-007 LISBOA",
+    "phone": "218853901",
+    "tax_id": "510776914",
+    "website": "www.ticasgest.pt"
+  },
+  "transaction": {
+    "date": "2019-03-29",
+    "time": "09:45:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 4.07,
+    "tax": 0.94,
+    "tip": 0.0,
+    "total": 5.0,
+    "accounting_category": "Utilities",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "1 Castelo P/ Torneira 1/2",
+      "quantity": 1,
+      "unit_price": 4.07,
+      "total_price": 4.07,
+      "category": "Plumbing",
+      "accounting_category": "Utilities",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_200638.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROGERIO PAIS, LDA FERRAGENS * FERRAMENTAS * MAQUINAS * UTILIDADES AVENIDA ALMIRANTE REIS, 9-E * 1150-007 LISBOA Tel/Fax 218853901 Tel. 966008696 * Sociedade por quotas * Capital Social 5.012,92€ REG.CRC. 34852 NIB: 0033 0000 0128028643 52\n2019-03-29 ORIGINAL 09:45 BALCAO 1\nFAIURA SIMPLIFICADA N:\nFS 1A1901/2540\nContribuinte: 510776914 DESCRIPTION\n1 Castelo P/ Torneira 1/2 23% 5,00\nTAXA IVA INCID.\n23% 0,94 4,07 TOTAL INCIDENCIAS: 0,94\nTOTAL :  Eur 5,00\nPago em Numerario\nValor entregue: 5,00\nTroco: 0,00\nImplementado por www.ticasgest.pt\n\nREZE-Processado por programa\ncertificado n. 2177AT\nOs servicos e/ou bens foram realizados e/ou colocados a disposicao do adquirente nesta data (Art. 36 do CIVA, No5 alinea F)\nLicenca: ROGERIO PAIS, LDA\nContribuinte:  500544000"
+  }
+}

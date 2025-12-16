@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Virgilio & Martins, Lda.",
+    "address": "Avenida Miguel Bombarda, 41-B e 60A, 2700-581 Amadora",
+    "phone": "21494908",
+    "tax_id": "500 429 987",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-20",
+    "time": "15:28:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 4.07,
+    "tax": 0.93,
+    "tip": 0.0,
+    "total": 5.0,
+    "accounting_category": "Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BICHAS DE AGUA",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_151140.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "VIRGILIO & MARTINS, LDA.\nAVENIDA MIGUEL BOMBARDA, 41-B E 60A\n2700-581 AMADORA•TEL.21494908•214911822\nCONTRIBUINTE: 500 429 987\nC.SOC.7.482,00€ • REG.COM.AMADORA N°2646\n\nFATURA SIMPLIFICADA\n\nORIGINAL\nDATA 2019/03/20 - 15:28 No A/7294\n\nCliente: FLIKEHOME LDA\nMorada:\nCont.№: 510776914\n\nArtigo Qtd Preço€ Valor €\nBICHAS DE AGUA\n23% 1 Un x 5,00 = 5.00\n#001 -\n\nTOTAL 5,00\nNumerario 5,00\nTroco 0,00\n\nIVA Incluído à taxa indicada\nTaxa% Sujeito IVA Total\n23,00 4,07 0,93 5,00\n\nytni-Processado por programa certficado\nNo 88/AT - 1 A/7294\n\nOpr: PAULO\n\nOBRIGADO • VOLTE SEMPRE\n"
+  }
+}

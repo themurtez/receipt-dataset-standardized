@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Gourmet Amoreiras",
+    "address": "Trav. Teixeira Junior, 1, 1300-553 Lisboa",
+    "phone": "210457900",
+    "tax_id": "502607924",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-07-26",
+    "time": "20:58:00",
+    "currency": "EUR",
+    "payment_method": "VISA",
+    "subtotal": 87.61,
+    "tax": 11.39,
+    "tip": 0.0,
+    "total": 99.0,
+    "accounting_category": "Grocery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "VITO HERD PESO 2014",
+      "quantity": 1,
+      "unit_price": 99.0,
+      "total_price": 99.0,
+      "category": "Wine",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_205238.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GOURMET AMOREIRAS\nTEL: 210457900 / FAX: 217103495\nAUCHAN PORTUGAL HIPERMERCADOS, SA.\nSede: Trav. Teixeira Junior,1\n1300-553 Lisboa\nMat.C.R.C. de Lisboa n.4a.Seccao\nCap. Social: 84.000.000 Euros\nSIRPEE:PT000019\n\nContribuinte Nr 502607924\n\nFATURA                               DR\nNo.0880022016070000/011242   119663\n\nNo. Cont.: 510776914               ORIGINAL\n\nIVA ARTIGO/QT/LT   PRECO  VALOR\n13 VITO HERD.PESO 2014   99,00\n   1 volume\nTOTAL PAGO               99,00\nVISA                               99,00\nTROCO                              0,00\n\nRESUMO DO IVA\nIVA TAXA   BASE     VALOR\n13,00% (13)    87,61  11,39\nTOTAL             87,61  11,39\n\nMOV:260718   043964/000097/0008/002\n\nLocal de Carga:\nAv. Eng.D. P. C.C. Amoreiras\nLocal de Descarga:\nMORADA CLIENTE\nData Emissao: 2018-07-26 20:58\n\nYMe-Processado por programa\ncertificado n. 1140/AT\n\nAtendido por: Gourmet Balcao - Ricardo L\n\nTROCAS e DEVOLUCOES apenas com fatura\nate 30 dias. Consulte as excecoes.\nIVA 0% isento conf n27 art 9 CIVA\nou regime bens em 2 mao\n\nOs dados pessoais apresentados\ndestinanse ao processamento\nda transacao"
+  }
+}

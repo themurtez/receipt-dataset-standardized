@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Pastelaria MouraPão II",
+    "address": "Av. da Marina Loja 5 e 6 8125-468",
+    "phone": "Tel.289301396",
+    "tax_id": "N. Contrib. 509875645",
+    "website": "mourapao@clix.pt"
+  },
+  "transaction": {
+    "date": "2019-03-07",
+    "time": "08:18:53",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 3.36,
+    "tax": 0.59,
+    "tip": 0.0,
+    "total": 3.95,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "B laranja",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.85,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Croissant Fiambre",
+      "quantity": 1,
+      "unit_price": 1.86,
+      "total_price": 2.1,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_184838.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Pastelaria MouraPão II\nManuel Odília & Paulo Barbosa, lda\nAv. da Marina Loja 5 e 6 8125-468\nTel.289301396\nN. Contrib. 509875645\nRegisto na Cons. Loulé n.509875645\nCapital Social 6000 Euros\nmourapao@clix.pt\n\nNome flikehome algarve lda\nN.C. 514407395\n\nFatura-Recibo FT 014/6831\nOriginal\n2019-03-07 08:18:53\n\nQt Artigo IV Total\n1 B laranja 23 1.85\n1 Croissant Fiambre 13 2.10\nTotal 3.95\n\nTaxa Base IVA Total\n23.00 1.50 0.35 1.85\n13.00 1.86 0.24 2.10\nTotal 3.36 0.59 3.95\n\nEmp 2\nIVA incluido\n\nConsultas:\n\nObrigado e volte sempre\n\nWXoO-Processado por programa certificado n. 0071/AT\nCopyright GrupoPIE, SA\n"
+  }
+}

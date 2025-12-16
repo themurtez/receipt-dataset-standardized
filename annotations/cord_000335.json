@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Tous Les Jours",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2023-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "BCA DB",
+    "subtotal": 83000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 83000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Twist Donut",
+      "quantity": 3,
+      "unit_price": 9000.0,
+      "total_price": 27000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cranberry Walnut (S)",
+      "quantity": 2,
+      "unit_price": 8500.0,
+      "total_price": 17000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Potato Sausage Bread",
+      "quantity": 1,
+      "unit_price": 19000.0,
+      "total_price": 19000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Black Cheese Hotdog",
+      "quantity": 1,
+      "unit_price": 20000.0,
+      "total_price": 20000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000335.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TOUS LES JOURS\n\n3 TWIST DONUT 27,000\n2 CRANBERRY WALNUT (S) 17,000\n1 POTATO SAUSAGE BREAD 19,000\n1 BLACK CHEESE HOTDOG 20,000\n\nTOTAL 83,000\nBCA DB 83,000\n"
+  }
+}

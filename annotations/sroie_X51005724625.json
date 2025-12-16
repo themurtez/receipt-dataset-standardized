@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "KEDAI PAPAN YEW CHUAN",
+    "address": "LOT 276 JALAN BANTING, 43800 DENGKIL, SELANGOR",
+    "phone": "03-87686092",
+    "tax_id": "000781500416",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-12",
+    "time": "09:20:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 267.5,
+    "tax": 16.05,
+    "tip": 0.0,
+    "total": 283.55,
+    "accounting_category": "Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PASIR KASAR (D)",
+      "quantity": 2,
+      "unit_price": 60.0,
+      "total_price": 127.2,
+      "category": "Building materials",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BATU 3/4 (D)",
+      "quantity": 1,
+      "unit_price": 65.0,
+      "total_price": 68.9,
+      "category": "Building materials",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SIMEN",
+      "quantity": 5,
+      "unit_price": 16.5,
+      "total_price": 87.45,
+      "category": "Building materials",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 16.45
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005724625.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KEDAI PAPAN YEW CHUAN (0005583085-K)\nLOT 276 JALAN BANTING 43800 DENGKIL, SELANGOR.\nTEL: 03-87686092 FAX: 03-87686092\nGST ID : 000781500416\nTAX INVOICE\nBill To: SUCI ALAM JAYA TRANSPORT\nNO 1 JALAN AMAN 2\nTAMAN DESA 43800\nDENGKIL SELANGOR\n017-6057770\nDoc No: CS00010702 Date: 12/03/2018\nCashier : USER Time: 09:20:00\nSalesperson Ref.:\nItem Qty S/Price S/Price Amount Tax\n101869 2 60.00 63.60 127.20 SR\nPASIR KASAR (D)\n101871 1 65.00 68.90 68.90 SR\nBATU 3/4 (D)\n101756 5 16.50 17.49 87.45 SR\nSIMEN\nTotal Qty: 8 283.55\nTotal Sales (Excluding GST) : 267.50\nDiscount : 0.00\nTotal GST : 16.05\nRounding : 0.00\nTotal Sales (Inclusive of GST) : 283.55\nCASH : 300.00\nChange : 16.45\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR 6 267.50 16.05\nTotal : 267.50 16.05\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU."
+  }
+}

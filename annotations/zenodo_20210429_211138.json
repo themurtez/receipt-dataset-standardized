@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Dia Portugal - Sup. Soc. Unip., Lda",
+    "address": "Qta Fonte Edif Alvares Cabral 2770-190 Paço Arcos",
+    "phone": "",
+    "tax_id": "PT503003808",
+    "website": "www.minipreco.pt"
+  },
+  "transaction": {
+    "date": "2019-08-08",
+    "time": "10:15:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 1.87,
+    "tax": 0.11,
+    "tip": 0.0,
+    "total": 1.98,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Iog.Natural Dia P-6",
+      "quantity": 2,
+      "unit_price": 0.99,
+      "total_price": 1.98,
+      "category": "Dairy",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_211138.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Dia Portugal - Sup. Soc. Unip., Lda\nQta Fonte Edif Alvares Cabral\n2770-190 Paço Arcos\nC.R.C. Num. Contrib.: PT503003808\nCapital Social Empresa: 51,802,855.12\nNome Cliente: Fikehome\nDireção Cliente:\nNum. Contribuinte: 510776914\nLocalidade: Cod. Post:\nFatura/Recibo\nFT 021140220190102/00000768\nCaixa: 2 Data: 2019-08-08 Hora: 10:15\nCodigo de Operario: 54189\nCodigi Descricao\nIVA PVP/Unit Quantidade Descontos Total\n6% 0.99 2 0.00\n127143 Iog.Natural Dia P-6 1.98\nTotal a Pagar Euros 1.98\nRecebido 1.98\nTroco 0.00\nTipo IVA Base IVA\n01 6.00% 1.87 0.11\nTotal 1.87 0.11 1.98\nLocal Carga:\nLg do Calhariz 10\n1200-086 Lisboa\nData: 2019-08-08 Hora: 10:15\nLocal Descarga: Morada do Cliente\nqvUV-Processado por prog.cert. ni1752/AT\nWWW.MINIPRECO.PT\nSIRPEEE PT000245"
+  }
+}

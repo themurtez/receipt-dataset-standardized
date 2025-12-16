@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Caltex",
+    "address": "Kelana Jaya, 47301 Petaling, Selangor Darul Ehsan.",
+    "phone": "",
+    "tax_id": "001410277376",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-11-07",
+    "time": "09:58:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 6.04,
+    "tax": 0.36,
+    "tip": 0.0,
+    "total": 6.4,
+    "accounting_category": "Food",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Sweetie Ban Kacang Merah",
+      "quantity": 1,
+      "unit_price": 3.2,
+      "total_price": 3.2,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sweetie Potato Bun",
+      "quantity": 1,
+      "unit_price": 3.2,
+      "total_price": 3.2,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 43.6
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006334927.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CALTEX\nBIRU PETROLEUM\nCo.No:001684044-P\nKELANA JAYA. 47301 PETALING\nSELANGOR DARUL EHSAN.\nGST No.001410277376\nStaff food\n>>>>>>>>>>>> Tax invoice <<<<<<<<<<<<<\nSweetie Ban Kacang Merah RM 3.20 S\nSweetie Potato Bun RM 3.20 S\nTotal RM 6.40\nCash RM 50.00\nChange Due RM 43.60\n6.00 % TAX S RM 0.36\nTotal Exclusive of Tax RM 6.04\nTransaction number: 01000206618\n   ate     Time     Num POS CNo PSNo\n7/11/16 09:58 64051 01 0004 437\nEnjoy the Journey\n"
+  }
+}

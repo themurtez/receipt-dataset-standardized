@@ -1,0 +1,118 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 340909.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 375000.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Mocha",
+      "quantity": 1,
+      "unit_price": 47273.0,
+      "total_price": 47273.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cappucino",
+      "quantity": 1,
+      "unit_price": 36364.0,
+      "total_price": 36364.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ice Tea",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ice Tea Lemon",
+      "quantity": 1,
+      "unit_price": 29091.0,
+      "total_price": 29091.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lemon Juice",
+      "quantity": 1,
+      "unit_price": 36364.0,
+      "total_price": 36364.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Croque Mme.",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Mme Beef",
+      "quantity": 1,
+      "unit_price": 87273.0,
+      "total_price": 87273.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Caesar Salad",
+      "quantity": 1,
+      "unit_price": 72727.0,
+      "total_price": 72727.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Canele (Mini)",
+      "quantity": 1,
+      "unit_price": 31818.0,
+      "total_price": 31818.0,
+      "category": "Dessert",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 9,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000563.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Mocha 47,273\n1 Cappucino 36,364\n1 Ice Tea 0\n1 Ice Tea Lemon 29,091\n1 Lemon Juice 36,364\n1 Croque Mme. 0\n1 Mme Beef 87,273\n1 Caesar Salad 72,727\n1 Canele (Mini) 31,818\nSubtotal 340,909\nPB1 34,091\nTotal 375,000\nGo Pay 375,000\nTotal Item 7\nTotal Qty 7"
+  }
+}

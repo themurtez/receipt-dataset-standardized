@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 36500.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 36500.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Disney Taartjes Siram Coklat",
+      "quantity": 1,
+      "unit_price": 14500.0,
+      "total_price": 14500.0,
+      "category": "Food",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Plastik Tentengan Kecil",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Supplies",
+      "accounting_category": "Retail",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Mini Glazed Croissant (1 isi 5 pcs)",
+      "quantity": 1,
+      "unit_price": 22000.0,
+      "total_price": 22000.0,
+      "category": "Food",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 3500.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000534.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Thank you for your visit\n\n\n\n3190-Disney Taartjes Siram Coklat\n 14,500,00 x1 14,500,00\n1245-Plastik Tentengan Kecil\n 0,00 x1 0,00\n4032-Mini Glazed Croissant (iss 5 pcs)\n 22,000,00 x1 22,000,00\n\nTotal Item: 3\n\nTotal. 36,500,00\n Cash.\n Tendered: 40,000,00\n Charge: 3,500,00"
+  }
+}

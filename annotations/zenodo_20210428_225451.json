@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "BP DOMINGOS SEQUEIRA",
+    "address": "Rua Domingos Sequeira, n.20 Tel.213920166, 1350-122 Lisboa",
+    "phone": "",
+    "tax_id": "503593933",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-22",
+    "time": "19:11:01",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 10.57,
+    "tax": 2.43,
+    "tip": 0.0,
+    "total": 13.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Sem Chumbo 95",
+      "quantity": 7.74,
+      "unit_price": 1.679,
+      "total_price": 13.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_225451.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BP DOMINGOS SEQUEIRA\nPETROCONDE COMBUSTIVEIS, LDA.\nRua Domingos Sequeira, n.20 Tel.213920166\n1350-122 Lisboa\nMatricula / NIPC: 503593933\nPOS:1 Ref:6100 Op:Bruno Ferreira\nData de emissão: 2019-05-22 19:11:01\n\nSEM CHUMBO 95 BOMBA Nr: 2 13,00 EUR 4\n7.74 Lit * 1,679 EUR/Lit\n\nTOTAL 13,00 EUR\n\nMultibanco 13,00 EUR\nIVA% IVA 1,10\nIVA 4 23,00 2,43 10,57\n\nRegime part. tabaco. DL346/85\n\nFatura-Recibo FR 270650100/03/1864\nIRSL-Processado por Programa Certificado\nn.º 0177/AT\n\nNIF: PT510776914\nNome\nFLICKEHME. MEDIAÇÃO IMOBILIARIA, L.D.\nMorada\nR. SARAIVA DE CARVALHO, N.º 244, 3.9 DTO\n1350-302 LISBOA\nMatricula\n20 ID B4\n\nCartão Utilizado: BP PremierPlus\nNúmero cartão : ************711\nPontos Emitidos: 8\nPontos por Promoção: 0\nPontos Actuais: 315\nSaldo acumulado mes: 0,00 EUR\n\nBP LIS DOMINGOS SEQU\nEIRA\nLISBOA\n\nTerminal Pagamento Automático: 0106436\n2019-05-22 19:10:11 Per049 1070 Msg:A1\nMILLENNIUM BCP\nMARIA SORRAL/JOSÉ\nCartão: ****7398/64\nA0000000032010 V V\nVISA ELECTRON\nCOMPRA 13,00 EUR VELOC P/N\nID ESTAC:000034701 AUT:70820\n\nREDUNICRE\nINOVACAO E CONFIANCA\nPROCESSADO POR SIBS\n"
+  }
+}

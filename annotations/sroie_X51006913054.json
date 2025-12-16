@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "De Luxe Circle Fresh Mart Sdn Bhd",
+    "address": "No. 89&91, Jalan Utama, Taman Mutia Rini, 81300 Skudai, Johor",
+    "phone": "016-7780546",
+    "tax_id": "001507647488",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-12",
+    "time": "12:12:57",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 11.32,
+    "tax": 0.68,
+    "tip": 0.0,
+    "total": 12.0,
+    "accounting_category": "Grocery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Heaven & Earth Ayataka Green Tea 1.5L",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Beverage",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Konnyaku 10g",
+      "quantity": 2,
+      "unit_price": 3.5,
+      "total_price": 7.0,
+      "category": "Food",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 38.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006913054.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "DE LUXE CIRCLE FRESH MART SDN BHD\n(Mutiara Rini 16)\nCo Reg No:797887-W GST No:001507647488\nNo. 89&91, Jalan Utama,\nTaman Mutia Rini, 81300 Skudai, Johor.\nTel:016-7780546\n\nMT161201805120055 12/05/18 12:12:57 pm\nCashier: Chu Peck 12/05/18 12:13:17 pm\n\nHeaven & Earth Ayataka Green Tea 1.5L\n8888002119454 5.00*1 5.00 S\nKonnyaku 10g\n8888338001119 3.50*2 7.00 S\n\nITEM: 2 Total with GST @ 6% 12.00\nQTY: 3 ROUNDING 0.00\nTOTAL SAVING: 0.00 TOTAL 12.00\n\nTENDER\nCash 50.00\nCHANGE 38.00\n\nGST Analysis Goods Tax Amount\nS = 6% 11.32 0.68\nZ = 0% 0.00 0.00\n\nMEMBER 0000036581 Points Earned: 11\nMember: WONG SHOO YUEN\n*Thank You. See You Again !!\n*Customer Care Line : 012-7092889\n*customerservice@deluxegroups.com"
+  }
+}

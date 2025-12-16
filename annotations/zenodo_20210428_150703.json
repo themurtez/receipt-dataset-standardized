@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Drogaria Semino",
+    "address": "Semino 8125-303, Quarteira",
+    "phone": "289 380 171",
+    "tax_id": "NIF 026073000",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-13",
+    "time": "09:14:00",
+    "currency": "EUR",
+    "payment_method": "Dinheiro",
+    "subtotal": 6.46,
+    "tax": 1.49,
+    "tip": 0.0,
+    "total": 7.95,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Famura - Pistola Silicone T/P",
+      "quantity": 1,
+      "unit_price": 7.95,
+      "total_price": 7.95,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_150703.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "DROGARIA SEMINO\nSOC.FERRAMENTAS E FERRAGENS SEMINO LDA\nMATERIALIS DE CONSTRUCAO FERRAMENTAS\nSEMINO 8125-303 QUARTEIRA TEL.289 380 171\nNIF 026073000 CA.SO.5000EU CRC 2545 LOULE\nFAX 289383200 * EMAIL sffsemino@sapo.pt\nCliente:\nContr: 510776914\nFatura Simplificada\nNaturezaFatura Simplificada\n2019-03-13 09:14 JOAQUIM BATISTA\nFS 2/36726 Original Terr3\nQuant. Pr. Unit. IVA Desc.\n299.1370 FAMURA - PISTOLA SILICONE T/P\n1 7,95 23% 7,95\nItens: 1\nForma Pag. DINHEIRO 7,95 EUR\nIva Incluido a Taxa Indicada\nTaxa Valor Iva Base Imp. Valor Total\n23% 1,49 6,46 7,95\nYQ8R-Processado por programa certificado\nnº 2/AT - Sage\nEste documento nao constituti documento de\ntransporte, nos termos do Decreto-Lei\nn.º 147/2003"
+  }
+}

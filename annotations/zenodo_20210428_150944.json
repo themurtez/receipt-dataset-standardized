@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "ROGERIO PAIS, LDA",
+    "address": "AVENIDA ALMIRANTE REIS, 9-E, 1150-007 LISBOA",
+    "phone": "218853901",
+    "tax_id": "510776914",
+    "website": "www.ticasgest.pt"
+  },
+  "transaction": {
+    "date": "2019-03-19",
+    "time": "16:14:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 36.18,
+    "tax": 8.32,
+    "tip": 0.0,
+    "total": 44.5,
+    "accounting_category": "Hardware",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Lampada MATEL globo LED",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Lighting",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Lampada Fluorescente 18",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Lighting",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Puxador Porta Interior",
+      "quantity": 1,
+      "unit_price": 28.5,
+      "total_price": 28.5,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_150944.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROGERIO PAIS, LDA\nFERRAGENS * FERRAMENTAS * MAQUINAS * UTILIDADES\nAVENIDA ALMIRANTE REIS, 9-E * 1150-007 LISBOA\nTel/Fax 218853901 Tel. 966008696\n* Sociedade por quotas * Capital Social\n5.012,92€ REG.CRC. 34852\nNIB: 0033 0000 0120828463 52\n\n2019-03-19          FATURA SIMPLIFICADA N:\nOriginal                          FS 1A1901/2205\n16:14 BALCAO 1\n\nContribuinte: 510776914\n\nDESCRICAO                  IVA        VALOR\n1 Lampada MATEL globo LED 23%   12,00\n1 Lampada Fluorescente 18 23%   3,00\n1 Puxador Porta Interior 23%    28,50\n\nTAXA                         IVA  INCID.\n23%                          8,32 36,18\nTOTAL INCIDENCIAS:           8,32 36,18\nTOTAL:                      Eur  44,50\n\nPago em Numerario\nValor entregue:                    44,50\nTroco:                              0,00\n\nImplementado por www.ticasgest.pt\n\nfwvcc-Processado por programa\ncertificado n. 217/AT\n\nOs servicos e/ou bens foram realizados e/ou colo\ncados a disposicao do adquirente nesta data (Art\n. 36 do CIVA, No5 alinea F)\n\nLicenca: ROGERIO PAIS, LDA\nContribuinte: 500544000"
+  }
+}

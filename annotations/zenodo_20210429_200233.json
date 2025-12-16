@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "El Corte Ingles",
+    "address": "Lisboa",
+    "phone": "",
+    "tax_id": "501810285",
+    "website": "www.elcorteingles.pt"
+  },
+  "transaction": {
+    "date": "2019-08-18",
+    "time": "19:29:44",
+    "currency": "EUR",
+    "payment_method": "Visa Electron",
+    "subtotal": 12.95,
+    "tax": 2.42,
+    "tip": 0.0,
+    "total": 12.95,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Item",
+      "quantity": 1,
+      "unit_price": 12.95,
+      "total_price": 12.95,
+      "category": "General Merchandise",
+      "accounting_category": "Retail",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_200233.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "EL CORTE INGLES GRANDES ARMAZENS, S.A.\nEL CORTE INGLES C.C. AV. LISBOA\nVISITE-NOS EM WWW.ELCORTEINGLES.PT\n\nFATURA\nVendedor T1 Emp 002 010 Horario 001 T\n01749776 Data Hora E01/2 T\n18/08/19 19:29 010500 00\n\n1070642 043132063672\nCod controlar Quantidade Valor\n01 **** **** **** **** Total 12.95\nTOTAL\n\n12.95\nCARTAO DÉBITO A QUOTA\n4256**********099 AUT:034028\n\nMERCHANT:DEBT UNION IN\nNIF: 501810285\nID Estado :0008126 AUT: 426118\nNa Caixa Com Certeza\n\nCONTACTLESS Visa payWave\n\n***\nPROCESSADO POR SIBS\n"
+  }
+}

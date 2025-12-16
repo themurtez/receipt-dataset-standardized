@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "ESIL, Parques de Estacionamento S.A.",
+    "address": "Av. Conde Valbom, 3H - Piso 5, 1050-068 Lisboa",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-06",
+    "time": "18:36:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 2.95,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 2.95,
+    "accounting_category": "Parking",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Parking Fee",
+      "quantity": 1,
+      "unit_price": 2.95,
+      "total_price": 2.95,
+      "category": "Parking",
+      "accounting_category": "Parking",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210324_200548.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ESIL, Parques de Estacionamento S.A.\nAv. Conde Valbom, 3H - Piso 5\n1050-068 Lisboa\nCont: 503311685 / GRCL: 65536\nPARQUE CAMEOS\n\nDoc n: 869673\nTerminal: 06\nBilhete No: 391466188\nRetido: EUR 0.00\nEntrada: 2019-03-06 17:22\nValor: EUR 2.95\nData: 2019-03-06 Hora: 18:36\nIVA a taxa legal em vigor\nProcessado por Computador\nNome: Consumidor Final\nNIF: Consumidor Final"
+  }
+}

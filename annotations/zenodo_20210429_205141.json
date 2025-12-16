@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Atalho do Mercado",
+    "address": "Mercado Municipal de Campo de Ourique, 1350-075 Campo de Ourique",
+    "phone": "",
+    "tax_id": "510854230",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-11-21",
+    "time": "14:00:00",
+    "currency": "EUR",
+    "payment_method": "Cartão de Debito",
+    "subtotal": 12.39,
+    "tax": 1.61,
+    "tip": 0.0,
+    "total": 14.0,
+    "accounting_category": "Food",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Entrecote Prato",
+      "quantity": 1,
+      "unit_price": 12.39,
+      "total_price": 12.39,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_205141.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ATALHO DO MERCADO\nProxima Travessia, Lda\nNIF: 510 854 230\nMercado Municipal de Campo de Ourique\n1350-075 Campo de Ourique\n2019-11-21 FATURA SIMPLIFICADA N:\nOriginal FS 5A1901/45292\n14:00 MESA N: 12/0\nContribuinte: 510776914\nQTD UNIT DESCRICAO IVA VALOR\n1 Kg Entrecote Prato 13% 14.00\nTAXA IVA INCID.\n13% 1.61 12.39\nTOTAL INCIDENCIAS: 1.61 12.39\nTOTAL: Eur 14,00\nPago por Cartão de Debito\nObrigado. Volte Sempre\nJW2A-Processado por programa\ncertificado n. 196/AT\nLicenca: Proxima Travessia Lda\nContribuinte: 510854230"
+  }
+}

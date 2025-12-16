@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "SANYU STATIONERY SHOP",
+    "address": "NO. 31G&33G, JALAN SETIA INDAH X, U13/X, 40170 SETIA ALAM",
+    "phone": "+603-3362 4137",
+    "tax_id": "001531760640",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-04-05",
+    "time": "",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 3.11,
+    "tax": 0.19,
+    "tip": 0.0,
+    "total": 3.3,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Journal Book 80pgs A4 70g",
+      "quantity": 1,
+      "unit_price": 3.3,
+      "total_price": 3.3,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 1.7
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007339105.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SANYU STATIONERY SHOP\nNO. 31G&33G, JALAN SETIA INDAH X, U13/X, 40170 SETIA ALAM\nMobile /Whatsapps : +6012-918 7937\nTel: +603-3362 4137\nGST ID No: 001531760640\nTAX INVOICE\nOwned By:\nSANYU SUPPLY SDN BHD (1135772-K)\nCASH SALES COUNTER\n1. 2012-0043 JOURNAL BOOK 80PGS A4 70G\nCARD COVER (SJB-4013)\n1 X 3.3000 - 3.30 SR\nTotal Sales Inclusive GST @6% 3.30\nDiscount 0.00\nTotal 3.30\nRound Adj 0.00\nFinal Total 3.30\nCASH 5.00\nCHANGE 1.70\nGST Summary Amount(RM) Tax(RM)\nSR @ 6% 3.11 0.19\nINV NO: CS-SA-0076015 Date: 05/04/2017\nGoods sold are not Returnable & Refundable\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN.\nTERIMA KASIH SILA DATANG LAGI\n** PLEASE KEEP THIS RECEIPT FOR PROVE OF\nPURCHASE DATE FOR I.T PRODUCT WARRANTY\nPURPOSE **\nFollow us in Facebook : Sanyu.Stationery"
+  }
+}

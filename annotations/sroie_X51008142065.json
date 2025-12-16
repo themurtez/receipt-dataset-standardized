@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "KEDAI PAPAN YEW CHUAN",
+    "address": "LOT 276 JALAN BANTING\n43800 DENGKIL, SELANGOR",
+    "phone": "03-87686092",
+    "tax_id": "000781500416",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-23",
+    "time": "15:28:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 153.5,
+    "tax": 9.21,
+    "tip": 0.0,
+    "total": 162.71,
+    "accounting_category": "Hardware",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Pasir Halus (D)",
+      "quantity": 1,
+      "unit_price": 65.0,
+      "total_price": 68.9,
+      "category": "Building Materials",
+      "accounting_category": "Construction Materials",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Simen",
+      "quantity": 5,
+      "unit_price": 16.5,
+      "total_price": 87.45,
+      "category": "Building Materials",
+      "accounting_category": "Construction Materials",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Kapur Air (A1)",
+      "quantity": 2,
+      "unit_price": 3.0,
+      "total_price": 6.36,
+      "category": "Building Materials",
+      "accounting_category": "Construction Materials",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008142065.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KEDAI PAPAN YEW CHUAN\n(0005583085-K)\nLOT 276 JALAN BANTING\n43800 DENGKIL, SELANGOR.\nTEL : 03-87686092 FAX : 03-87686092\nGST ID : 000781500416\nTAX INVOICE\nBill To :\nSUCI ALAM JAYA TRANSPORT\nNO 1 JALAN AMAN 2\nTAMAN DESA 43800\nDENGKIL SELANGOR\n017-6057770\nDoc No. : CS00013033 Date: 23/05/2018\nCashier : USER Time : 15:28:00\nSalesperson : Ref.:\nItem Qty S/Price (GST) S/Price (GST) Amount Tax\n101870 1 65.00 68.90 68.90 SR\nPASIR HALUS (D)\n101756 5 16.50 17.49 87.45 SR\nSIMEN\n100160 2 3.00 3.18 6.36 SR\nKAPUR AIR (A1)\nTotal Qty: 8 162.71\nTotal Sales (Excluding GST) : 153.50\nDiscount : 0.00\nTotal GST : 9.21\nRounding : 0.00\nTotal Sales (Inclusive of GST) : 162.71\nCASH : 162.71\nChange : 0.00\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR 6 153.50 9.21\nTotal : 153.50 9.21\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU.\n** RE-PRINT **"
+  }
+}

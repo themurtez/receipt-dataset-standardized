@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "UNIHKA INTERNATIONAL SDN BHD",
+    "address": "12, Jalan Tampoi 7/4, Kawasan Perindustrian Tampoi, 81200 Johor Bahru, Johor",
+    "phone": "",
+    "tax_id": "867388-U",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-02",
+    "time": "18:23:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 10.36,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 10.35,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Herbal Tea (Iced)",
+      "quantity": 1,
+      "unit_price": 1.88,
+      "total_price": 1.88,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "3 Vege",
+      "quantity": 1,
+      "unit_price": 4.15,
+      "total_price": 4.15,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Meat Dish",
+      "quantity": 1,
+      "unit_price": 2.83,
+      "total_price": 2.83,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Imported Veggies",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": -0.01,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007846268.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "UNIHAKKA INTERNATIONAL SDN BHD\n02 Jun 2018 18:23\n(867388-U)\n12, Jalan Tampoi 7/4,Kawasan Perindustrian\nTampoi,81200 Johor Bahru,Johor\nTAX INVOICE\nInvoice # : OR1806020170385\nItem Qty Total\nSR I00100000053- Herbal Tea (Iced)\nRM1.88 1 RM1.88\nSR I00100000031- 3 Vege\nRM4.15 1 RM4.15\nSR I00100000171- Meat Dish\nRM2.83 1 RM2.83\nSR I00100000170- Imported Veggies\nRM1.50 1 RM1.50\nTotal Amount: RM10.36\nGST @0%: RM0.00\nRounding: -RM0.01\nNett Total: RM10.35\nPayment Mode Amount\nCASH RM10.35\nChange RM0.00\nGST Summary Amount(RM) Tax(RM)\nSR = GST @0% 10 36 0.00\nGST REG #000656195584\nBAR WANG RICE@PERMAS JAYA\nThank You & Come Again!\nLike and Follow Us on Facebook!\nFacebook.com/BarWangRice"
+  }
+}

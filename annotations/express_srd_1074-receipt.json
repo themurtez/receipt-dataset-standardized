@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Lin Buffet",
+    "address": "2988 N. Expressway, Brownsville, TX",
+    "phone": "(956) 544-6600",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-24",
+    "time": "15:22:00",
+    "currency": "USD",
+    "payment_method": "Visa",
+    "subtotal": 31.16,
+    "tax": 2.57,
+    "tip": 0.0,
+    "total": 33.73,
+    "accounting_category": "Dining",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Weekend Buffet",
+      "quantity": 2,
+      "unit_price": 13.59,
+      "total_price": 27.18,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Drink",
+      "quantity": 2,
+      "unit_price": 1.99,
+      "total_price": 3.98,
+      "category": "Beverages",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1074-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Lin Buffet\n2988 N. Expressway\nBrownsville, TX\nPhone: (956) 544-6600\nDate: Feb 24, 2019 Time: 03:22PM\nServer: Kenya Judith # Guest: 1\nBill: 0270\n2 Weekend Buffet 27.18\n2 Drik 3.98\nSubtotal 31.16\nSales Tax 2.57\nTotal 33.73\nVisa 33.73\nBeverages 3.98\nFood 27.18\nOpen Time: Feb 24, 2019 03:22PM"
+  }
+}

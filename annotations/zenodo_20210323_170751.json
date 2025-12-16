@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Sol Dourado Shopping",
+    "address": "SITIO DO SEMINO 484 A, 8125-303 QUARTEIRA",
+    "phone": "963301878",
+    "tax_id": "247380850",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-07-03",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 0.81,
+    "tax": 0.19,
+    "tip": 0.0,
+    "total": 1.0,
+    "accounting_category": "Shopping",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Pilha",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Electronics",
+      "accounting_category": "Shopping",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 9.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_170751.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SOL DOURADO SHOPPING\nCHEN SHUANG\nContribuinte Nr: 247380850\nSITIO DO SEMINO 484 A\n8125-303 QUARTEIRA\nTel: 963301878\n2019-07-03\n\nNome : Flikehome Algarve, Lda.\nCont.Nr. : 514407395\nMorada : lisboa\n\nORIGINAL\nFatura Nr: FAC 201/00083286\n\nIVA Descricao Total\n\n23% Pilha 1 X 1.00 1.00\n\nTotal A Pagar Euros: 1.00\nNumero De Artigos : 1\n\nRecebido (Euros) : 10.00\nTroco (Euros) : 9.00\n\nIVA% Base IVA Total\n23% 0.81 0.19 1.00\n\nTotal: 1.00Euros\n\nFatura indispensavel para troca em 8 dias.\nq0n3 - Processado por Programa\nCertificado Nr: 1174/AT\nOBRIGADO E VOLTE SEMPRE"
+  }
+}

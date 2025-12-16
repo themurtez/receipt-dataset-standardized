@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Heart of Portugal Restaurant",
+    "address": "241 Mineola Blvd, Mineola, NY 11501",
+    "phone": "516-742-9797",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-09-10",
+    "time": "15:28:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 65.9,
+    "tax": 5.68,
+    "tip": 0.0,
+    "total": 71.58,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Traditional Pork & Clams",
+      "quantity": 1,
+      "unit_price": 20.95,
+      "total_price": 20.95,
+      "category": "Entree",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Osso Buco Sp",
+      "quantity": 1,
+      "unit_price": 28.95,
+      "total_price": 28.95,
+      "category": "Entree",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "House Wines Half Pitcher",
+      "quantity": 1,
+      "unit_price": 16.0,
+      "total_price": 16.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1121-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Heart of Portugal Restaurant\n241 Mineola Blvd\nMineola, NY 11501\n516-742-9797\n\nServer: oscar d\nCheck #11\n09/10/17 3:28 PM\nTable D2\n\nTraditional Pork & Clams $20.95\n1 Osso Buco Sp $28.95\nHouse Wines Half Pitcher $16.00\n\nSubtotal $65.90\nTax $5.68\nTotal $71.58\n\nThanks for Dining with Us!\nSee you soon!!!"
+  }
+}

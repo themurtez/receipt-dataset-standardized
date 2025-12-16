@@ -1,0 +1,136 @@
+{
+  "merchant": {
+    "name": "PERNIAGAAN ZHENG HUI",
+    "address": "NO.59 JALAN PERMAS 9/6\nBANDAR BARU PERMAS JAYA\n81750 JOHOR BAHRU",
+    "phone": "07-386 7524",
+    "tax_id": "000600588824",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-09",
+    "time": "08:49:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 313.5,
+    "tax": 18.81,
+    "tip": 0.0,
+    "total": 332.3,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SR. 14\" TRU-CUT CUTTING DISC (1 PC)",
+      "quantity": 1,
+      "unit_price": 35.0,
+      "total_price": 35.0,
+      "category": "Tools",
+      "accounting_category": "Operating Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SR: KOBELCO G-12 (2.6MM) WELDING",
+      "quantity": 2,
+      "unit_price": 7.5,
+      "total_price": 15.0,
+      "category": "Welding Supplies",
+      "accounting_category": "Operating Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SR: G3 3\" (75) PAINT BRUSH",
+      "quantity": 2,
+      "unit_price": 5.5,
+      "total_price": 11.0,
+      "category": "Paint Supplies",
+      "accounting_category": "Operating Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SR: CS 2\" (750) PAINT BRUSH",
+      "quantity": 2,
+      "unit_price": 3.5,
+      "total_price": 7.0,
+      "category": "Paint Supplies",
+      "accounting_category": "Operating Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SR: CS-1 1/2\" (750) PAINT BRUSH",
+      "quantity": 1,
+      "unit_price": 3.5,
+      "total_price": 3.5,
+      "category": "Paint Supplies",
+      "accounting_category": "Operating Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SR. 2\" LAMBWOOL YANA ROLLERIN -20PC",
+      "quantity": 1,
+      "unit_price": 25.0,
+      "total_price": 25.0,
+      "category": "Paint Supplies",
+      "accounting_category": "Operating Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SR: DIAMOND COTTON GLOVE #104",
+      "quantity": 3,
+      "unit_price": 1.7,
+      "total_price": 5.0,
+      "category": "Safety Supplies",
+      "accounting_category": "Operating Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SR: 10# WELDING GLASS (BLACK)",
+      "quantity": 1,
+      "unit_price": 8.0,
+      "total_price": 8.0,
+      "category": "Welding Supplies",
+      "accounting_category": "Operating Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SR: WELDING GLASS (CLEAR) 1 PC",
+      "quantity": 1,
+      "unit_price": 8.0,
+      "total_price": 8.0,
+      "category": "Welding Supplies",
+      "accounting_category": "Operating Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SR: AEC BROOM NO.5110 # C/W IRON HANDLE",
+      "quantity": 2,
+      "unit_price": 12.0,
+      "total_price": 24.0,
+      "category": "Cleaning Supplies",
+      "accounting_category": "Maintenance",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SR: S/STEEL DUST PAN L C/W HANDLE 23",
+      "quantity": 2,
+      "unit_price": 12.0,
+      "total_price": 24.0,
+      "category": "Cleaning Supplies",
+      "accounting_category": "Maintenance",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 28,
+    "rounding": -0.01,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005433533.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PERNIAGAAN ZHENG HUI\nJM0325956-V\nNO.59 JALAN PERMAS 9/6\nBANDAR BARU PERMAS JAYA\n81750 JOHOR BAHRU\nTEL: 07-386 7524 FAX: 07-386 3793\nGST NO : 000600588824\nSIMPLIFIED TAX INVOICE\nGOGIANT ENGINEERING (M) SDN BHD\nReceipt #: C S00084670\nSalesperson: Date: 09/03/2018\nCashier: USER Time: 08:49:00\n\nItem Qty (RM)\n10273 G3 180 1 170.00 170.00\nSR: 14\" TRU-CUT CUTTING DISC (1 PC)\n2547 G3 180 1 35.00 35.00\nSR: KOBELCO G-12 (2.6MM) WELDING\n12133 G3 180 2 7.50 15.00\nSR: G3 3\" (750) PAINT BRUSH\n10157 G3 180 2 5.50 11.00\nSR: CS 2\" (750) PAINT BRUSH\n12134 G3 180 1 3.50 3.50\nSR: CS-1 1/2\" (750) PAINT BRUSH\n955725615125 G3 180 1 25.00 25.00\nSR: 2\" LAMBWOOL YANA ROLLERIN -20PC\nSR: DIAMOND COTTON GLOVE #104\n3679 G3 180 3 1.70 5.00\nSR: 10# WELDING GLASS (BLACK)\n3608 G3 180 1 8.00 8.00\nSR: WELDING GLASS (CLEAR) 1 PC\n3083 GD 180 2 12.00 24.00\nSR: AEC BROOM NO.5110# C/W IRON HANDLE\n6891 GD 180 2 12.00 24.00\nSR: S/STEEL DUST PAN L C/W HANDLE 23 X X\nTOT QTY: 28 313.50\n(Excluded GST) Sub Total (RM) : 313.50\nDiscount (RM) : 0.00\nTotal GST (RM) : 18.81\nRounding (RM) : -0.01\nTotal (RM) : 332.30\nCASH : 332.30\nChange (RM) : 0.00\n\nGST SUMMARY\nTax Code % Amount GST\nSR 6 313.50 18.81\nTotal 313.50 18.81\n\nGOODS SOLD ARE NOT RETURNABLE.\nTHANK YOU."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "YONG CEN ENTERPRISE",
+    "address": "8, JALAN SUBANG JASA 3, 40150 SHAH ALAM, SELANGOR.",
+    "phone": "012-9719438",
+    "tax_id": "001147831824",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-08-11",
+    "time": "07:40:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 18.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 18.1,
+    "accounting_category": "Grocery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SR.GROUNDNUT INDIA 2.50KG",
+      "quantity": 1,
+      "unit_price": 18.0,
+      "total_price": 18.0,
+      "category": "Grocery",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.02,
+    "change_due": 31.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006332641.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "YONG CEN ENTERPRISE\n8, JALAN SUBANG JASA 3,\n40150 SHAH ALAM, SELANGOR.\nTEL: 012-9719438\nT NO: 001147831824\n--------------------------\nCASH\n--------------------------\nRECEIPT#: C300627438 DATE: 11/08/2017\nSALESPERSON: TIME: 07:40:00\nCOUNTER:\nITEM QTY U/P AMOUNT\n2411062341 1 18.00 18.00\nSR.GROUNDNUT INDIA 2.50KG\n--------------------------\nTOTAL QUANTITY 1\n\nSUB-TOTAL 18.00\nDISC 0.00\nGST 0.00\nTAX 0.00\nROUNDING 0.02\nTOTAL 18.10\nCASH 50.10\nCHANGE 31.00\n\nGOODS SOLD ARE NOT RETURNABLE.\nTHANK YOU."
+  }
+}

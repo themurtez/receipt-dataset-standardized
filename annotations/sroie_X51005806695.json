@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Juwita Weddings",
+    "address": "LOT G18 & G19, JLN 8/27A, WANGSA MAJU (AEON BIG SHOPPING CENTER), 53300 KUALA LUMPUR",
+    "phone": "0341434733",
+    "tax_id": "000889004544",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-02-28",
+    "time": "16:37:04",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 3.87,
+    "tax": 0.23,
+    "tip": 0.0,
+    "total": 4.1,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Measurement Tape",
+      "quantity": 2,
+      "unit_price": 1.935,
+      "total_price": 3.87,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005806695.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "JUWITA WEDDINGS (366310-U)\nSAYANG YOU STATION SDN BHD\nLOT G18 & G19, JLN 8/27A\nWANGSA MAJU (AEON BIG SHOPPING CENTER)\n53300 KUALA LUMPUR\nTel : 0341434733 / Fax : 0341434722\nGST ID : 000889004544\n\nTAX INVOICE\n\nInvoice No. : RCP180228-0101-77106\nReceipt Date : 28-Feb-2018 16:37:04\nCashier : Juwita Weddings\n\nItem Description Qty RM\n1640310083\n1PCS 2 4.10 SR\nMEASUREMENT TAPE\n714WH\n\nSub Total: 4.10\nTOTAL : 4.10\nCASH : 4.10\nBALANCE : 0.00\nINC. GST 6.00% : 0.23\n\nGST Summary Amount (RM) Tax (RM)\nSR 3.87 0.23\n\nAll Payments must be made only in the form\nof a credit card or cash payable to Juwita\nWeddings Sdn Bhd. Exchange are allowed\nwithin 3 day with receipt. Strictly no cash\nrefund. Thank you."
+  }
+}

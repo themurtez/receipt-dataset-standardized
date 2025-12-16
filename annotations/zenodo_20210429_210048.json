@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Restaurante Himalaya Lda",
+    "address": "R. S. José 105 Lj, 1150-322 Lisboa",
+    "phone": "213429567",
+    "tax_id": "506377229",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-10-23",
+    "time": "14:08:19",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 19.19,
+    "tax": 2.96,
+    "tip": 0.0,
+    "total": 22.15,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Buffet Almoco",
+      "quantity": 2,
+      "unit_price": 7.5,
+      "total_price": 15.0,
+      "category": "Meal",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Coca Cola",
+      "quantity": 1,
+      "unit_price": 4.5,
+      "total_price": 4.5,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Agua C/Gas 25CL",
+      "quantity": 1,
+      "unit_price": 1.35,
+      "total_price": 1.35,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Café Normal",
+      "quantity": 1,
+      "unit_price": 1.3,
+      "total_price": 1.3,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_210048.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "RESTAU.\nR. S. JOSE 105 LJ\n1150-322, Lisboa Tel.213429567\nN. Contrib. 506377229\nRegisto na Cons. n\nCapital Social\nLicenciado a RESTAURANTE HIMALAYA LDA\nN.C. 510767914\nFatura simplificada FS 101/37786\nOriginal 2019-10-23 14:08:19\nQt Artigo IV Total\n1 Buffet Almoco 13 7.50\n1 Buffet Almoco 13 7.50\n1 Coca Cola 23 4.50\n1 Agua C/Gas 25CL 23 1.35\n2 Café Normal 13 1.30\nTotal 22.15\nTaxa Base IVA Total\n13.00 14.43 1.87 16.30\n23.00 4.76 1.09 5.85\nTotal 19.19 2.96 22.15\nEmp 4446\nIVA incluido\nConsultas:\nObrigado e volte sempre\nB/Y4 Processado por programa\ncertificado n. 0071/AI\nCopyright GrupoPIE, SA"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "PA Arroios",
+    "address": "Lisboa",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-01",
+    "time": "11:21:39",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 10.84,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 10.84,
+    "accounting_category": "Expense",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Compra",
+      "quantity": 1,
+      "unit_price": 10.84,
+      "total_price": 10.84,
+      "category": "General",
+      "accounting_category": "Expense",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_122239.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PA ARROIOS\nLISBOA\nIdent. TPA:00960710\n2019-02-01 11:21:39\nPer:023 Tr:030 M:325\nMILLENNIUM BCP\nMARIA SOBRAL/JOSE\nCARTAO: ****7398/68\n501649FF20\nMULTIBANCO\nCOMPRA 10,84€\nAUT:099425 MB\nCAIXA ECONOMICA\nMONTEPIO GERAL\nCÓPIA CLIENTE\nPROCESSADO POR SIBS"
+  }
+}

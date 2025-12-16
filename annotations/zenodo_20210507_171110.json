@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Botaminuto Amoreiras",
+    "address": "R. Alferes da Guarda CID, Amoreiras, Lisboa",
+    "phone": "210994257",
+    "tax_id": "50615502",
+    "website": "www.botaminuto.com"
+  },
+  "transaction": {
+    "date": "2019-10-10",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 12.03,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 15.9,
+    "accounting_category": "Retail",
+    "category_confidence": 0.8
+  },
+  "items": [
+    {
+      "name": "AR METAL 2.5cm (photo)",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHAVE PLANA UL50",
+      "quantity": 1,
+      "unit_price": 2.6,
+      "total_price": 2.6,
+      "category": "Tools",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHAVE TENTEICIL 1956A",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Tools",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_171110.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Botaminuto AMOREIRAS\nContribuinte 50615502\nConservatória Registo das Amoreiras,\nR. Alferes da Guarda CID, Amoreiras, Lisboa\nCC. Com. Letra Julio N. Civ. PTS10776914\nTel.: 210994257 www.botaminuto.com\nExmo(a) Senhor(a) CLIENTE\nLISBOA\nNIF 510776914 N.Civil PTS10776914\nC 101434641\nFTR 6713641 Data 2019-10-10 Original\nFactura Vendedor: BRUNO ANTUNES\nPos Descrição Qte. Frs Unit. Valor IVA\nAR METAL 2.5cm (foto) 1.000 5.00 5.00 23\nCHAVE PLANA UL50 1.00 2.60 2.60 23\nCHAVE A ENT TEICICIL 1956A 1.00 1.00 1.00 23\nValor: 12.00 12.80 23\nTotal de pecas: 3\n\nVALOR LIQUIDO IVA 0 VALOR IVA 0\n12.03 0 0\n12.03 2.87 0\n15.90\nNumerário 15.90\nENOA-Processado por programa certificado n. 1627/AT\nSe desconhecedores do exarado\nneste documento, ou em caso de er-\nro, verificar poderá\nTrocas e devolucões aceites com comprativo\nvale de reembolso com validade de 30 días\nObrigado pela visita - Volte Sempre\nTalão indispensável p/ entrega em reclamacao\nTel.: 210994257 www.botaminuto.com\nConte-nos a sua Experiência!"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "merchant": {
+    "name": "GREAT ZONE HOUSEHOLD CENTRE SDN BHD",
+    "address": "60 & 62, Jalan Ciku, 86000, KLUANG",
+    "phone": "",
+    "tax_id": "001833082880",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-02-18",
+    "time": "18:08:59",
+    "currency": "MYR",
+    "payment_method": "Credit Card",
+    "subtotal": 346.51,
+    "tax": 20.79,
+    "tip": 0.0,
+    "total": 367.3,
+    "accounting_category": "Retail",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "200SHEET COMPACT SERVIETTES (NTE)",
+      "quantity": 1,
+      "unit_price": 3.3,
+      "total_price": 3.3,
+      "category": "Household",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "1.5\" RUBBER BAND",
+      "quantity": 1,
+      "unit_price": 3.6,
+      "total_price": 3.6,
+      "category": "Office Supplies",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PP 3X5 04",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Office Supplies",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "18MMX90Y OPP TAPE",
+      "quantity": 1,
+      "unit_price": 1.6,
+      "total_price": 1.6,
+      "category": "Office Supplies",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "911 TAPE DISPENSER",
+      "quantity": 1,
+      "unit_price": 8.6,
+      "total_price": 8.6,
+      "category": "Office Supplies",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PSI-890 PENSONIC DRY IRON WITH SPRAY",
+      "quantity": 1,
+      "unit_price": 49.9,
+      "total_price": 49.9,
+      "category": "Appliances",
+      "accounting_category": "Appliances",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "AP-17 APRON PLAIN CLOTH",
+      "quantity": 20,
+      "unit_price": 10.9,
+      "total_price": 218.0,
+      "category": "Clothing",
+      "accounting_category": "Clothing",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TALI UKURAN",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Tools",
+      "accounting_category": "Tools",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CC-100 100PC CITE CANDLE",
+      "quantity": 1,
+      "unit_price": 22.9,
+      "total_price": 22.9,
+      "category": "Home Decor",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "F1502 SCISSOR 08C (CH) (TLC)",
+      "quantity": 6,
+      "unit_price": 6.0,
+      "total_price": 36.0,
+      "category": "Tools",
+      "accounting_category": "Tools",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "2KG HC KITCHEN SCALE",
+      "quantity": 1,
+      "unit_price": 19.9,
+      "total_price": 19.9,
+      "category": "Appliances",
+      "accounting_category": "Appliances",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 11,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005806692.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Tax Invoice\nGREAT ZONE HOUSEHOLD CENTRE SDN BHD (801049-U)\n60 & 62, Jalan Ciku, 86000, KLUANG\nGST Reg.: 001833082880\nDocument No.: KLG0201130227\nDate: 18/02/2018 06:08:59 PM\nDebtor\nMember:\nTerminal: KLG0201\nCashier: KLG02\nDESC |\nQTY\nU. PRICE\nRM\n1\n1\ni\ni\n1\n1\n20\n1\n1\n6\n1\n1\nSub Total (Exclusive GST):\nGST 6%\nService Charge\nRounding Adjustment:\nRounded Total (RM):\nCredit Card\nGST Summary\nAmount(RM)\nTAX\nCategory:\nAMOUNT TAX MW\nRM CODE\n1\n4\n1\n3.30(SR\n3.60 (SR\n2.50 (SR\n1.60 (SR\n8.60 (SR\n49.90 (SR\n0.00\n0.00\n0.00\n0.00\n200SHE(} COMPACT SERVIETTES (NTE)\n1.5\" RUBBER BAND\nPP 3X5 04\n18MMX90Y OPP TAPE\n91 TAPE DISPENSER\nPSI-890 PENSONIC DRY IRON WITH SPRAY\nAP-17 APRON PLAIN CLOTH\nTALI UKURAN\nCC-100 100PC CITE CANDLE\nF1502 SCISSOR 08C (CH) (TLC)\n2KG HC KITCHEN SCALE\n10.90 (SR\n1.00 (SR\n22.90 (SR\n6.00 (SR\n19.90 (SR\n346.51\n20.79\n0.00\n0.00\n367.30\n367.30\nSR @ 6%\n346.51\n20.79\n"
+  }
+}

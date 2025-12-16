@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "ROGERIO PAIS, LDA",
+    "address": "AVENIDA ALMIRANTE REIS, 9-F, 1150-007, LISBOA",
+    "phone": "218853901",
+    "tax_id": "500544000",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-07",
+    "time": "09:10:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 9.51,
+    "tax": 2.19,
+    "tip": 0.0,
+    "total": 11.7,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Ficha culatra",
+      "quantity": 1,
+      "unit_price": 4.8,
+      "total_price": 4.8,
+      "category": "Hardware",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Suporte quadro EL 994",
+      "quantity": 1,
+      "unit_price": 1.2,
+      "total_price": 1.2,
+      "category": "Hardware",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Suno tomada int. c/te",
+      "quantity": 1,
+      "unit_price": 3.35,
+      "total_price": 3.35,
+      "category": "Electrical",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Suno espelho simpes",
+      "quantity": 1,
+      "unit_price": 0.55,
+      "total_price": 0.55,
+      "category": "Furniture",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ficha macho c/terra",
+      "quantity": 1,
+      "unit_price": 1.8,
+      "total_price": 1.8,
+      "category": "Electrical",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210324_200238.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROGERIO PAIS, LDA\nFERRAGEN, FERRAMENTAS, MAQUINAS, UTILIDADES\nAVENIDA ALMIRANTE REIS, 9-F, 1150-007 LISBOA\nTel/Fax 218853901 Tel. 960008606\nSociedade por quotas Capital Social\n5.012,92€ REG. CRC 34852\nNIPC: 0033 000 01230286453 52\n\n2019-03-07 FACTURA SIMPLIFICADA N:\nOriginal FS 1A1901/1950\n09:10 BALCAO 1\n\nContribuinte: 510776914\n\nDESCRICAO IVA VALOR\n1 Ficha culatra q) c192d 23% 4,80\n1 Suporte quadro EL 994 23% 1,20\n1 SUNO tomada int. c/te 23% 3,35\n1 SUNO espelho simpes 23% 0,55\n1 Ficha macho c/terra sal 23% 1,80\n\nTAXA IVA INCID\n23% 2,19 9,51\nTOTAL INCIDENCIAS: 2,19 9,51\n\nTOTAL: Eur 11,70\n\nPago em Numerario\nValor entregue: 11,70\nTroco: 0,00\n\nImplementado por www.ticasgest.pt\n\nZta9-Processado por programa\ncertificado n. 217/AT\n\nOs serv1cos e/ou bens foram realizados e/ou colo\ncados a disposicao do adquirente nesta data (Art\n36 do CIVA, No5 alinea F)\n\nLicenca: ROGERIO PAIS, LDA\nContribuinte: 500544000"
+  }
+}

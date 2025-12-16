@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "POPULAR BOOK CO. (M) SDN BHD",
+    "address": "No 8, Jalan 7/118B, Desa Tun Razak, 56000 Kuala Lumpur, Malaysia",
+    "phone": "03-41423450/20",
+    "tax_id": "001492992000",
+    "website": "www.popular.com.my"
+  },
+  "transaction": {
+    "date": "2018-01-07",
+    "time": "14:41:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 29.69,
+    "tax": 1.78,
+    "tip": 0.0,
+    "total": 31.45,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "70g P. Copy 450's",
+      "quantity": 3,
+      "unit_price": 13.69,
+      "total_price": 41.07,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Stat-Great Saving",
+      "quantity": 1,
+      "unit_price": -9.6,
+      "total_price": -9.6,
+      "category": "Discount",
+      "accounting_category": "Adjustments",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": -0.02,
+    "change_due": 18.55
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005605333.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "POPULAR BOOK CO. (M) SDN BHD\n(Company No: 113825-W) (GST Reg No: 001492992000)\nNo 8, Jalan 7/118B, Desa Tun Razak, 56000 Kuala Lumpur, Malaysia\nKL FESTIVAL CITY MALL\nTel: 03-41423450/20\n\n07/01/18 14:41 Slip No: 7010386084\nNorhasmida Trans: 3649310\n\nDescription Amount\n70g P. Copy 450'S\n3pc @ 13.69 41.07 T\nStat-Great Saving -9.60\n\nTotal RM Incl. of GST 31.47\nRounding Adj -0.02\nTotal RM 31.45\nCash -50.00\nCHANGE 18.55\n\nItem Count 3\nGST\nT @ 6% 29.69 1.78\n\nTotal Savings -9.60\n\nBE A POPULAR CARD MEMBER AND ENJOY SPECIAL DISCOUNTS\nTHANK YOU. PLEASE COME AGAIN.\nwww.popular.com.my\nBuy Chinese books online\nwww.popularonline.com.my\n"
+  }
+}

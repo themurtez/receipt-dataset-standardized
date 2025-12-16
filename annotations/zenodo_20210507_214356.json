@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Comboios de Portugal, E.P.E",
+    "address": "Calçada do Duque 20, 1249-104 Lisboa",
+    "phone": "707 210 220",
+    "tax_id": "500498601",
+    "website": "www.cp.pt"
+  },
+  "transaction": {
+    "date": "2017-11-10",
+    "time": "07:45:09",
+    "currency": "EUR",
+    "payment_method": "Cartão de Débito",
+    "subtotal": 72.7,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 72.7,
+    "accounting_category": "Transportation",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Metro/CP Sintra 30 dias Sintra/Lisboa Oriente",
+      "quantity": 1,
+      "unit_price": 72.7,
+      "total_price": 72.7,
+      "category": "Transportation",
+      "accounting_category": "Transportation",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_214356.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CP - Comboios de Portugal, E.P.E\nCalçada do Duque 20\n1249-104 Lisboa\nNIF: 500498601\n\nTalão Carregamento Nº: 1663-687625\nFactura Simplificada Nº: FS 1663/250613\nData: 2017-11-10 07:45:09\nLocal: Mercês\nEquipamento: PVA CPLX Marces 1 (x25637)\nTurno Nº: 1663-3524\nOperador: Nuno Ribeiro\n\nNº Contribuinte: 510776914\n\nProduto Qt. Val.Liq.Unit. Val.Liq.Total\nMetro/CP Sintra 30 dias Sintra/Lisboa Oriente\n1 € 72,70 € 72,70\n\nTotal a pagar (incl. IVA à 6%): € 72,70\n\nForma pagamento: Cartão de Débito\nData fim Validade: 2017-12-09\nContrato nº 75181943 / 00300497410\nSuporte nr. 201593106\n\nfcsB-Processado por programa certificado n.º92332/AT\n\nApoio ao Cliente: 707 210 220\n(0,10 € min - rede fixa 0,25 € /min - rede móvel) + IVA\n\nwww.cp.pt\n\nDescarregue gratuitamente a App CP e compre viagens em\nAlfa Pendular, Intercidades e complemento de viagem em\nregionais/InterRegionais.\n\n4.5.3.1"
+  }
+}

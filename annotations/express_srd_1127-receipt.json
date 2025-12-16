@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Pizza Hut",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-10-25",
+    "time": "20:30:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 23.5,
+    "tax": 2.32,
+    "tip": 0.0,
+    "total": 26.76,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Hand toss Cheese Pepperoni",
+      "quantity": 1,
+      "unit_price": 12.49,
+      "total_price": 12.49,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Bone OUT GarlicParm",
+      "quantity": 1,
+      "unit_price": 7.69,
+      "total_price": 7.69,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Pitcher Dos Equis",
+      "quantity": 1,
+      "unit_price": 13.5,
+      "total_price": 13.5,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1127-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PIZZA HUT\nDINE_IN\nTicket #00100\nItem Count: 3\nENTERED BY TABLE #GUEST\nMAURICE 56 2\n030835 10/25/2018 8:30 PM\n01 1 $FiveLU 12.49\nHand toss\nCheese\nPepperoni\n02 1 $FiveLU 7.69\nBone OUT\nGarlcParm\n03 1 PiTcher 13.50\nDosEquis\nCOUPON (F6) 10.18\nSubtotal 23.50\nService Fee\nSALES TAX 2.32\nBalance Due 26.76"
+  }
+}

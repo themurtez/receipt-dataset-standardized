@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "FNAC Portugal",
+    "address": "Centro Colombo, Lisboa",
+    "phone": "707 23 24 25",
+    "tax_id": "PT 503 593 270",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-09-15",
+    "time": "21:06:00",
+    "currency": "EUR",
+    "payment_method": "VISA",
+    "subtotal": 105.68,
+    "tax": 24.31,
+    "tip": 0.0,
+    "total": 129.99,
+    "accounting_category": "Electronics",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Nintendo",
+      "quantity": 1,
+      "unit_price": 129.99,
+      "total_price": 129.99,
+      "category": "Electronics",
+      "accounting_category": "Electronics",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_192107.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "FNAC PORTUGAL\nALCORDA LIVR\nFonte: F. E. 99904\nN. Fropa: Cart. 10\nMorada: Centro Colombo\nLoja D\nLisboa\nT. Front: Cart 10\nContribuinte: PT 503 593 270\nE Tran: TM 503592270\nFATURA SIMPLIFICADA\nLocal de Desempenho: Centro Colombo\nTelefone: 707 23 24 25\nNif Contribuinte: PT 503 593 270\nMor. TELEXHME LINO\nOriginal\nLisboa\nLoja\nBilhete: 010162001053000/01647\n\nOriginal\nSenha\nLoja: Centro Colombo\nMorada\nLisboa\n\nItem\n515079614\nQTD\n1\nVALOR\nVALOR A PAGAR\nVISA\nTROCO\nRESUMO IVA\n100 A\n23.00\nVALOR\n129.99\nIVA INCLUDO\nBASE\n24.31\nVALOR\n24.31\nCARATAO FUNC\n501647\nDATA EMISSAO: 2019-09-15\n145:\nHARTE MACHADOL\n\n152569 5253456\nConsulta SIBA-ILS\nCND: 04352522456\nTerminal Message Facial\n197930 944003\n36: 94622\n\nFNAC Portugal\nLOJA COLOMBO\n1500-092\nLisboa\nNumero Total de Bruto\n1200 12816881\nData Emissao: 15-09-19\nHora: 21:06\nProj VOC\nAB 030026\n\nFNAC PORTUGAL\nLoja COLOMBO\n1500-092 LISBOA\nTerminal Pagamento Automatico: 00857568\n2019-09-15 21:05 - ID T7019 - T0959284\nJeronimo\nPedra\nUAGI\n501647-FP 293/72\nCompra: 129,99€\nTip MB\nAUT: 850159\n\n\nPALONS DELIENMO\nUSBURGO\nReeDepoprocoMega \nNCHDNANDO\n\nMB\n\nreducti reig certcouse\nproecssadors\nsau\n\nSenobora\nProj: UCOO\n\nDooder dooooo2\n\nConsulte crafto@gmail.com\nCertificado soporte\nPara accerierlo\nPode fazer cambiastesvidas\nPLURP COMBO\nmediante o Bilhete\nPor favor contacthr nos antes den\nsolicitara transferenda pointe\npor accdenierlo \npeustas\nPrazo\nRESTURI\nComute\nColombo\nLoco n adrensa\nEJ-00001 CX: 18\nMORADA CENTRO\nREDUICRE \nCONFANCA\nPROCESSADO POR SIBS\n\n15/09/19 21:06 OP: 000010 LJ: 00001 CX: 18"
+  }
+}

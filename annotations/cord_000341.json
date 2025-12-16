@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Solaria",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Debit BCA",
+    "subtotal": 138185.0,
+    "tax": 13819.0,
+    "tip": 0.0,
+    "total": 152000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "ES TEH TAWAR",
+      "quantity": 2,
+      "unit_price": 10910.0,
+      "total_price": 21820.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lychee Tea",
+      "quantity": 1,
+      "unit_price": 9091.0,
+      "total_price": 9091.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "FROZEN CAPUCINO",
+      "quantity": 1,
+      "unit_price": 15455.0,
+      "total_price": 15455.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "NS BISTIK AYM TP",
+      "quantity": 1,
+      "unit_price": 35455.0,
+      "total_price": 35455.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "NS+AYAM GR RICA",
+      "quantity": 1,
+      "unit_price": 35455.0,
+      "total_price": 35455.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "KWETIAUW AYM SRM",
+      "quantity": 1,
+      "unit_price": 31819.0,
+      "total_price": 31819.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": -4.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000341.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SOLARIA\n2 ES TEH TAWAR 10,910\n1 Lychee Tea 9,091\n1 FROZEN CAPUCINO 15,455\n1 NS BISTIK AYM TP 35,455\n1 NS+AYAM GR RICA 35,455\n1 KWETIAUW AYM SRM 31,819\nITEMS :7 138,185\nVAT 10% 13,819\nRounding -4\nTotal 152,000\nDEBIT BCA : 152,000\n"
+  }
+}

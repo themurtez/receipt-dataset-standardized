@@ -1,0 +1,118 @@
+{
+  "merchant": {
+    "name": "Lee Wah Florist Sdn Bhd",
+    "address": "129, Jalan Tun H S Lee, 50000 Kuala Lumpur",
+    "phone": "03-20782322 / 012-5389466",
+    "tax_id": "00101149908",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-02-02",
+    "time": "21:41:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 353.0,
+    "tax": 21.18,
+    "tip": 0.0,
+    "total": 374.18,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Peacock Yellow",
+      "quantity": 2,
+      "unit_price": 12.0,
+      "total_price": 24.0,
+      "category": "Flower",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Statice Full Imp",
+      "quantity": 4,
+      "unit_price": 34.0,
+      "total_price": 144.16,
+      "category": "Flower",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lily Concordo 2h",
+      "quantity": 1,
+      "unit_price": 58.0,
+      "total_price": 58.0,
+      "category": "Flower",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Snow White Leaf",
+      "quantity": 2,
+      "unit_price": 6.0,
+      "total_price": 12.0,
+      "category": "Leaf",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Florida Beauty",
+      "quantity": 1,
+      "unit_price": 3.5,
+      "total_price": 3.5,
+      "category": "Flower",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Palm Leaf L",
+      "quantity": 4,
+      "unit_price": 9.0,
+      "total_price": 38.16,
+      "category": "Leaf",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Palm Leaf M",
+      "quantity": 3,
+      "unit_price": 4.5,
+      "total_price": 14.31,
+      "category": "Leaf",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Rose India Superior",
+      "quantity": 1,
+      "unit_price": 22.0,
+      "total_price": 22.0,
+      "category": "Flower",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Succulent L",
+      "quantity": 4,
+      "unit_price": 12.0,
+      "total_price": 50.88,
+      "category": "Plant",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 22,
+    "rounding": 0.02,
+    "change_due": 25.8
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005806679.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "LEE WAH FLORIST SDN BHD\n(521273-W)\n129, JALAN TUN H S LEE,\n50000 KUALA LUMPUR.\nTEL: 03-20782322 / 012-5389466 FAX: 03-\nSALES@LEEWAHFLORIST.COM\nGST ID: 00101149908C\nTAX INVOICE\nDoc No. : CS00183946 Date: 02/02/2018\nCashier : USER Time : 21:41:00\nSalesperson : Ref. :\n(GST)\nItem Qty S/Price S/Price Amount Tax\n1015 2 12.00 12.72 25.44 S/R\nPEACOCK YELLOW\n1012 4 34.00 36.04 144.16 S/R\nSTATICE FULL IMP\n1145 1 58.00 61.48 61.48 S/R\nLILY CONCORDO 2H\n1037 2 6.00 6.36 12.72 S/R\nSNOW WHITE LEAF\n1050 1 3.50 3.71 3.71 S/R\nFLORIDA BEAUTY\n1097 4 9.00 9.54 38.16 S/R\nPALM LEAF L\n1098 3 4.50 4.77 14.31 S/R\nPALM LEAF M\n1006 1 22.00 23.32 23.32 S/R\nROSE INDIA SUPERIOR\n2748 4 12.00 12.72 50.88 S/R\nSUCCULENT L\nTotal Qty: 22 374.18\nTotal Sales (Excluding GST) : 353.00\nDiscount : 0.00\nTotal GST : 21.18\nRounding : 0.02\nTotal Sales (Inclusive of GST) : 374.20\nCASH : 400.00\nChange : 25.80\nGST SUMMARY\nTax Code % Amt (RM) Tax(RM)\nSR 6 353.00 21.18\nTotal: 353.00 21.18\nGOODS SOLD ARE NOT RETURNABLE; THANK YOU."
+  }
+}

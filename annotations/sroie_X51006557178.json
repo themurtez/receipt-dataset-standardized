@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Gardenia Bakeries (KL) Sdn Bhd",
+    "address": "Lot 3, Jalan Pelabur 23/1, 40300 Shah Alam, Selangor",
+    "phone": "03-55423228",
+    "tax_id": "000381399040",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-10-25",
+    "time": "11:43:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 34.53,
+    "tax": 0.48,
+    "tip": 0.0,
+    "total": 35.01,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "O.C. White",
+      "quantity": 3,
+      "unit_price": 2.13,
+      "total_price": 6.39,
+      "category": "Bakery",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Wholemeal",
+      "quantity": 3,
+      "unit_price": 2.78,
+      "total_price": 8.34,
+      "category": "Bakery",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "O.C. Jumbo",
+      "quantity": 4,
+      "unit_price": 2.97,
+      "total_price": 11.88,
+      "category": "Bakery",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CR-Choct",
+      "quantity": 11,
+      "unit_price": 0.72,
+      "total_price": 7.92,
+      "category": "Candy",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006557178.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GARDENIA BAKERIES (KL) SDN BHD (139386 X)\nLot 3, Jalan Pelabur 23/1,\n40300 Shah Alam, Selangor.\nTel: 03-55423228 Fax:03- 55423213\nGST ID: 000381399040\n\nTAX INVOICE / ADJUSTMENT NOTE\nCash Inv No.: 7025F713\nDate: 25/10/2017\n\nVE0514\nMAKASSAR FRESH MARKET SDN BHD\nGROUND FLOOR, NO. 4 & 6,\nJALAN SS 15/4B,\n47500 SUBANG JAYA, SELANGOR\nVE05: Ridzwan (11900)\n\nDD: 25/10/2017 11:43\n\nDescription  U.P Iss Exc D Sale Amt(RM)\n\nO.C. WHITE      2.13                             3          6.39\nWHOLEMEAL      2.78                             3          8.34\nO.C. JUMBO      2.97                             4         11.88\n\nTotal 0% supplies:       26.61\n\nCR-CHOCLT       0.72  26  9  0  11        7.92\n\nTotal 6% supplies (excl. GST):  7.92\nGST:                             0.48\nTotal 6% supplies (Inc. GST):    8.40\n\nTotal 0% supplies:              26.61\nTotal Payable:                   35.01\n\nE.&O.E.\nReceived above goods in good order condition.\nThe recipient of Gardenia’s products is\nrequired to make necessary adjustments to its\ninput tax claims, on the basic of the\nadjustments shown in this Tax Invoice /\nAdjustment Note\nCUSTOMER’S COPY"
+  }
+}

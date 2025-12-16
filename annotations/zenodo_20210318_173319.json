@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "EMEL EMP. PUBLICA",
+    "address": "MUNIC. ESTAC. LISBOA, LISBOA",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-01-23",
+    "time": "16:29:38",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 13.05,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 13.05,
+    "accounting_category": "Parking",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Compra",
+      "quantity": 1,
+      "unit_price": 13.05,
+      "total_price": 13.05,
+      "category": "Parking",
+      "accounting_category": "Parking",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_173319.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "EMEL EMP. PUBLICA\nMUNIC. ESTAC. LISBOA\nLISBOA\nIdent. TPA:00408079\n2019-01-23 16:29:38\nPer:041 Tr:003 M:567\nMILLENNIUM BCP\nMANUEL ARROUBE/JOSE\nCARTAO: **** **** **** 8902/90\n501649FF20\nMULTIBANCO\nCOMPRA 13,05€\nAUT.975711 MB\nBanco BPI\nPagamento automatico\nCOPIA CLIENTE\nPROCESSADO POR SIBS"
+  }
+}

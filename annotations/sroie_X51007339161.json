@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Sanyu Stationery Shop",
+    "address": "No. 31G&33G, Jalan Setia Indah X, U13/X, 40170 Setia Alam",
+    "phone": "+603-3362 4137",
+    "tax_id": "001531760640",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-29",
+    "time": "16:21:39",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 2.17,
+    "tax": 0.13,
+    "tip": 0.0,
+    "total": 2.3,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Cactus Numbering Sticker",
+      "quantity": 1,
+      "unit_price": 2.3,
+      "total_price": 2.3,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 3.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007339161.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SANYU STATIONERY SHOP\nNO. 31G&33G, JALAN SETIA INDAH X ,U13X\n40170 SETIA ALAM\nMobile /Whatsapp : +6012-918 7937\nTel: +603-3362 4137\nGST ID No: 001531760640\nTAX INVOICE\nOwned By:\nSANYU SUPPLY SDN BHD (1135772-K)\nCASH SALES COUNTER\n1. 2020-0202 CACTUS NUMBERING STICKER\n60P/CRD (G-0113-NUM)\n1 X 2.3000 - 2.30 SR\nTotal Sales Inclusive GST @6% 2.30\nDiscount 0.00\nTotal 2.30\nRound Adj 0.00\nFinal Total 2.30\nCASH 5.40\nCHANGE 3.10\nGST Summary Amount(RM) Tax(RM)\nSR @ 6% 2.17 0.13\nINV NO: CS-SA-0127451\nDate: 29/11/2017\nTotal Qty: 1\nPrint Time : Wednesday, 29 November, 2017 4:21:39\nGoods sold are not Returnable & Refundable\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN.\nTERIMA KASIH SILA DATANG LAGI\nPLEASE KEEP THIS RECEIPT FOR PROVE OF\nPURCHASE DATE FOR I.T PRODUCT WARRANTY\nPURPOSE\nFollow us in Facebook : Sanyu.Stationery"
+  }
+}

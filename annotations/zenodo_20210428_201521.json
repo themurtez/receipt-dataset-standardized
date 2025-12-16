@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Galp",
+    "address": "Rua Correia Teles 20 B, 1350-099 Lisboa",
+    "phone": "213852393",
+    "tax_id": "PT501194006",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-02",
+    "time": "16:10:23",
+    "currency": "EUR",
+    "payment_method": "Cartão Débito",
+    "subtotal": 6.5,
+    "tax": 1.22,
+    "tip": 0.0,
+    "total": 6.5,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Gasolina Simples 95",
+      "quantity": 3.93,
+      "unit_price": 1.654,
+      "total_price": 6.5,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_201521.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "galp\nDOCUMENTO DE VENDA\nGAR. RIBAMAR (Campo de Ourique) 11272\nGAR.RIBAMAR F.CUNHA COSTA\nRua Correia Teles 20 B\n1350-099 Lisboa Tel. 213852393\nNIF: PT501194006\nFatura/Recibo\nQuantidade Preço\nPreço Unitario\n3.93 L Bomba 02\nGASOLINA SIMPLES 95 EUR 6.50 A\n1.654 EUR/L\nTotal EUR 6.50\n23.00 % IVA A 1.22\nCliente: 3561\nNome: FLEXHOME\nMorada: LISBOA\nCódigo Postal:\nLocalidade:\nN.o Contribuinte: 510776914\nMatricula: 03-TR-50\nOperador: Paulo Freitas\n Doc. N.o: 3000000001101008120221/022019/00004358 A\nSkn® - Processado por Programa\nCertificado n.o: 1396/AT\n02-05-19 16:09 52952 01 002 793\nRegime IVA de Caixa nos casos em que tal\nseja aplicável ao cliente\n cliente@galp.com Tel. 707 504 257\nDesconto: até 16c/l com Cartão Universo\nPague com saldo do Cartão Continente\nExperimente os combustíveis EVOLOGIC\n• PERFORMANCE. PROTEÇÃO, POUPANÇA\nE + AMBIENTE. Consulte galp.com\nA sua opinião é importante!\n (valide a sua opinião em galp.com/pontos)\ne receba desconto em combustível\nEvologic, o combustível mais evoluído\nTOTAL EUR 6.50\nCARTAO DEBITO\nTerminal Pagamento Automático: 00611497\nData: 2019-05-02 Hora: 16:10:23\nPeríodo: 026 Transação: 002 Mensagem: 963\nJERONIMO PEDRO JOAO\nCARTAO: MILLENIUM BCP\n501654F20 MULTIBANCO\nCOMPRA 6,50E ML\nAUT: 317526 PROCESSADO POR SIBS\n"
+  }
+}

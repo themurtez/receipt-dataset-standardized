@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Galp",
+    "address": "GAR. RIBAMAR, Rua Correia Teles 20 B",
+    "phone": "707 504 247",
+    "tax_id": "507705914",
+    "website": "galp.com"
+  },
+  "transaction": {
+    "date": "2018-07-06",
+    "time": "15:56:52",
+    "currency": "EUR",
+    "payment_method": "POS",
+    "subtotal": 30.0,
+    "tax": 5.61,
+    "tip": 0.0,
+    "total": 30.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Gasóleo Simples",
+      "quantity": 20.851,
+      "unit_price": 1.439,
+      "total_price": 30.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_205626.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "galp\nDOCUMENTO DE VENDA\nGAR. RIBAMAR C. da Onzila\nGAR. RIBAMAR | CUNHA COSTA\nRua Correia Teles 20 B\n11272\nNI F 509758844\nFatura/Recibo\nQuantidade\nPreço Unitário\n20.851 L\nGASOLEO SIMPLES\n1.439 EUR / L\nTotal\n23.00 % IVA\nEUR\nA\nEUR\nEUR\nBomba 03\n30.00 A\n30.00\n5.61\nCliente: 3561\nNome: FILKEHOME\nMorada: LISBOA\nCodigo Postal:\nLocalidade:\nN. Contribuinte: 507705914\nMatricula: 64-10-15\nOperador: Carlos Filipe\nDoc. N°\n012010062110 A050000111220103100002689\nV716 - Processado por Programa\nCertificado n.° 1395/AT\nData\nHora N° T. POS N° Op. TurnO\n06-07-18 15:56 02131 01 0001 269\nRegime IVA de Caixa nos casos em que tal\nseja aplicável ao cliente\nclientes@galp.com . Tel. 707 504 247\nDescontos ate 16 c/1 com cartão Universo\nPague com saldo do Cartão Continente\nExperimente os combustíveis EVOLUTION:\n- PERFORMANCE PROTECAO POUPANCA\n- E AMBIENTE. Consulte galp.com\nA sua opinião é importante!\nDê a opinião galp.com/postos\netecia desconto 2 eur em combustível\nNumesot II comustivel mais evoluciono\nTOTAL\nNUMERARIO\nEUR\nEUR\n30.00\n30.00"
+  }
+}

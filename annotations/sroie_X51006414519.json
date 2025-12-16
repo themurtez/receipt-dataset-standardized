@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "HASHA PETROKIOSK",
+    "address": "Lot PTD 198718 Tmn Sierra P 81750 Masai Johor",
+    "phone": "073000190",
+    "tax_id": "JM0632980-V",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-06",
+    "time": "17:36:35",
+    "currency": "MYR",
+    "payment_method": "Card",
+    "subtotal": 50.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 50.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "FuelSave 95",
+      "quantity": 22.73,
+      "unit_price": 2.2,
+      "total_price": 50.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006414519.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "HASHA PETROKIOSK\nCompany No: JM0632980-V\nLot PTD 198718 Tmn Sierra P\n81750 Masai Johor\nSite:2591\nTelephone: 073000190\nGST No: 000908345344\n\n>>>>>>> Receipt <<<<<<<\nInvoice number 60000437782\n\n22.73 litre Pump # 02\nFuelSave 95 RM 50.00 C\n2.200 RM / litre\nTotal RM 50.00\nCash RM 50.00\nRelief GST C RM 0.00\nTotal Gross C RM 50.00\n\n2018-04-06 17:36:35\nCustomer Copy\nTerminal ID: 84259112\nID/STAN: 274961/000000\nEntry Mode: MSR/1\nCard: Attendant Tag Card\nXXXXXXXX0053\nResponse:- 000 APPROVED\n\nAttendant:\nMRifan\n\nDate Time Num OPT\n06/04/18 17:36 41766 02\n\nDiesel & Petrol RON95\ngiven Relief under Section\n56 (3) (b) GST Act 2014\n\nThank you\nPlease come again\n"
+  }
+}

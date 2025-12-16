@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Worten",
+    "address": "Centro Colombo, Av. Lusíada, 1500-392 Lisbon",
+    "phone": "",
+    "tax_id": "502156600",
+    "website": "www.worten.pt"
+  },
+  "transaction": {
+    "date": "2019-02-15",
+    "time": "16:50:00",
+    "currency": "EUR",
+    "payment_method": "V/MC",
+    "subtotal": 10.56,
+    "tax": 2.43,
+    "tip": 0.0,
+    "total": 12.99,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "COMMAND ONE FOR ALL URC 12",
+      "quantity": 1,
+      "unit_price": 12.99,
+      "total_price": 12.99,
+      "category": "Electronics",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_142550.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Worten\nIVA Incluído\nMorada: Colombo Lisboa\nNIF: 502156600\nData: 15/02/2019 Hora: 16:50\nAcess. \nCOMMAND ONE FOR ALL URC 12\t12.99\nIVA\tTotal L.\tIVA\tTotal\n23.00%\t10.56\t2.43\t12.99\nV/MC-Processado por programa certificado\nN. 1356\nLocal carga: Morada da loja\nwww.worten.pt\n"
+  }
+}

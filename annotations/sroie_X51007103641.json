@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (M) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000306020352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-19",
+    "time": "18:04:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 32.83,
+    "tax": 1.97,
+    "tip": 0.0,
+    "total": 34.8,
+    "accounting_category": "retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "DOUBLE EXT BOX 10Y 40/016 CBD4110",
+      "quantity": 1,
+      "unit_price": 25.9,
+      "total_price": 25.9,
+      "category": "hardware",
+      "accounting_category": "supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SPONGE S/MAGIC 4S",
+      "quantity": 1,
+      "unit_price": 0.9,
+      "total_price": 0.9,
+      "category": "cleaning supplies",
+      "accounting_category": "supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SPONGE MESH F004-4S",
+      "quantity": 1,
+      "unit_price": 2.3,
+      "total_price": 2.3,
+      "category": "cleaning supplies",
+      "accounting_category": "supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "COLANDER RM20202",
+      "quantity": 1,
+      "unit_price": 5.5,
+      "total_price": 5.5,
+      "category": "kitchen supplies",
+      "accounting_category": "kitchen",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PLASTIC BAGS",
+      "quantity": 1,
+      "unit_price": 0.2,
+      "total_price": 0.2,
+      "category": "packaging",
+      "accounting_category": "supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 65.2
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007103641.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "31804037\nMR. D.I.Y. (M) SDN BHD\n(CO.REG: 860671-D)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID NO.: 000306020352)\n(IOT PUCHONG)\n-TAX INVOICE-\nDOUBLE EXT BOX 10Y 40/016 CBD4110 *S\n9553114461423 1 X 25.90 25.90\nSPONGE S/MAGIC 4S\n90063450 1 X 0.90 0.90\nSPONGE MESH F004-4S\n6928794601200 1 X 2.30 2.30\nCOLANDER RM20202#\n6926292505723 1 X 5.50 5.50\nPLASTIC BAGS\n999999 1 X 0.20 0.20\nItem(s): 5 Qty(s): 5\nTotal Incl. GST@6% RM 34.80\nCASH RM 100.00\nCHANGE RM 65.20\nGST @6% included in total RM 1.97\n19-04-18 18:04 SH01 ZJ86 T1 R000118085\nOPERATOR TRAINEE CASHIER\nEXCHANGE ARE ALLOWED WITHIN\n7 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

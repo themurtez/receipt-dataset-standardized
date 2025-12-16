@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "FY Eagle Enterprise",
+    "address": "No. 42, Jalan PS 14/11, Taman Perindustrian Bukit Serdang, 43300 Seri Kembangan, Selangor",
+    "phone": "03-89473143",
+    "tax_id": "001643154224",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-07",
+    "time": "16:18:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 9.43,
+    "tax": 0.57,
+    "tip": 0.0,
+    "total": 10.0,
+    "accounting_category": "Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SR-500ML Paint Remover(M.TE)-KTH",
+      "quantity": 1,
+      "unit_price": 10.0,
+      "total_price": 10.0,
+      "category": "Supplies",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005577191.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "FY EAGLE ENTERPRISE\n601028644-X\nNO. 42, JALAN PS 14/11,\nTAMAN PERINDUSTRIAN BUKIT SERDANG,\n43300 SERI KEMBANGAN,\nSELANGOR\nTEL: 03-89473143 FAX: 03-89473143\nGST NO: 001643154224\n\nTAX INVOICE\n\nRECEIPT #: C500031383 DATE: 07/12/2017\nSALESPERSON : TIME: 16:18:00\nCASHIER : USER\n\nITEM QTY U/P AMOUNT\n (RM) (RM)\n13451 1 10.00 10.00\nSR-500ML PAINT REMOVER(M.TE)-KTH\nTOTAL QUANTITY 1\n\nSUB-TOTAL 9.43\nDISC. 0.00\nGST 0.57\nROUNDING 0.00\n\nTOTAL 10.00\nCASH 10.00\nCHANGE 0.00\n\nGST SUMMARY\n\nCODE AMOUNT % TAX/AMT\nSR 9.43 6 0.57\n\nTAX TOTAL: 0.57\n\n\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Lian Chi Pu Tian Vegetarian Restaurant Sdn Bhd",
+    "address": "54, Jalan SS23/11, Taman Sea, 47400 Petaling Jaya, Selangor",
+    "phone": "03-7805 7889, 016-3020 669",
+    "tax_id": "001147416576",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-06",
+    "time": "12:17:26",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 47.8,
+    "tax": 2.86,
+    "tip": 0.0,
+    "total": 53.55,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Curry Mixed Vege",
+      "quantity": 1,
+      "unit_price": 16.85,
+      "total_price": 16.85,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Xinghua Spring Roll",
+      "quantity": 1,
+      "unit_price": 12.72,
+      "total_price": 12.72,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Ti Guan Yin Tea",
+      "quantity": 1,
+      "unit_price": 3.18,
+      "total_price": 3.18,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Plain Rice",
+      "quantity": 2,
+      "unit_price": 1.59,
+      "total_price": 3.18,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005447848.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "LIAN CHI PU TIAN VEGETARIAN\nRESTAURANT SDN BHD\n( 1095514-X )\n(GST ID No: 001147416576)\n54,JALAN SS23/11\nTAMAN SEA,47400\nPETALING JAYA,SELANGOR\nTel: 03-7805 7889, 016-3020 669\n\nTable : 8\nCashier     :\nDate       : 06/01/18  12:17:26 PM\n\nItem         Qty    Price    Amount\n(S)                @15.90\nCURRY MIXED VEGE\n515            1     16.85    16.85 SR\n(S)                @13.90\n517            1     14.73    14.73 SR\n(12 PCS)     @12.00\n'XINGHUA' SPRING ROLL\n410            1     12.72    12.72 SR\n(POT)         @3.00\nTI GUAN YIN TEA\n822            1      3.18      3.18 SR\n(B)             @1.50\nPLAIN RICE\n922            2      1.59      3.18 SR\n\nGross Amt         : 47.80\nSvr Tax                 : 2.87\nGST (6%)            : 2.86\n\nNet Amt           : 53.55\n\nGST Summary   Amount(RM)  Tax(RM)\n@ 0%               2.87         0.00\nSR @ 6%            47.80       2.86\n\nTHANK YOU\nPLEASE COME AGAIN"
+  }
+}

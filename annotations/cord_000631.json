@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 58000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 58000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CHOC BANANA",
+      "quantity": 1,
+      "unit_price": 10000.0,
+      "total_price": 10000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHEESE BUN",
+      "quantity": 1,
+      "unit_price": 10500.0,
+      "total_price": 10500.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SUPER CHEESE",
+      "quantity": 2,
+      "unit_price": 13000.0,
+      "total_price": 26000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CLS CHK CHIL",
+      "quantity": 1,
+      "unit_price": 12000.0,
+      "total_price": 12000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PLASTIC BAG ME",
+      "quantity": 1,
+      "unit_price": 500.0,
+      "total_price": 500.0,
+      "category": "Other",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 41500.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000631.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CHOC BANANA 10.000\nCHEESE BUN 10.500\nSUPER CHEESE 13.000\nSUPER CHEESE 13.000\nCLS CHK CHIL 12.000\nPLASTIC BAG ME 0.500\n6.00 ITEMS\nTOTAL 58.500\nCASH 100.000\nCHANGE 41.500"
+  }
+}

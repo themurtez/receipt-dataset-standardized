@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Almancil - Est. Pereiras Pedro & Cristina Benedito, Lda",
+    "address": "Estrada das Escavinas Tel:289394122 8135-016 - Almancil",
+    "phone": "289394122",
+    "tax_id": "507161670",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-07-23",
+    "time": "09:25:32",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 51.46,
+    "tax": 9.36,
+    "tip": 0.0,
+    "total": 50.04,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Gasoleo Bomba",
+      "quantity": 2,
+      "unit_price": 25.73,
+      "total_price": 51.46,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_172557.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "\nAlmancil - Est. Pereiras\nPedro & Cristina Benedito, Lda\nEstrada das Escavinas Tel:289394122\n8135-016 - Almancil\nMatricula / NIPC: 507161670\n\nPOS: 1 Ref:4796 Op: Cassandra Carvalho\nData de emissaa: 2019-07-23 09:25:46\n\nGASOLEO BOMBA NR: 2 51,46 EUR\n35,39 1,454 EUR/1\n\nDESCONTO BP BONUS 1,42-EUR\n\nTOTAL 50,04 EUR\n\nMultibanco 50,04 EUR\nIVA% IVA + LIO\nIVA 4 23,00 9,36 40,68 50,04\n\nRegime part. tabaco. DL346/85\n\nFatura-Recibo FR 275161002/002487\n0g9tt-Processado por Programa Certificado\nno. 0177/AT\n\nNIF: PT514407395\nNome\nFLIKEHOME GO LDA\nMorada\nRUA JOAO ANASTACIO ROSA N 4 - 1 DT\n1200-693 LISBOA\n\nMatricula\n54 CC 40\n\nCartao Desconto\n7056840140793233\nMelhor Desc 0,04\n\nCartao Utilizado: BP PremierPlus\nNumero cartao: ************823\nPontos Emitidos: 35\nPontos por Promocao: 0\nPontos Actuais: 719\nSaldo acumulado meses: 0.0 EUR\n\nBP ALMANCIL PEREIRAS\n\nALMANCIL\nTerminal Pagamento Automatico: 01014543\n2019-07-23 09:25:32 Per016 Tr015 Msg015\nMILLENNIUM BCP\nS/ALGARVE\nCartao: ****9730/55\n\n501649FF20 MULTIBANCO\nCOMPRA 50,04 EUR MB\nAUT:377675\n\nREDUNICRE\nINOVACAO E CONFIANCA\nPROCESSADO POR SIBS\n"
+  }
+}

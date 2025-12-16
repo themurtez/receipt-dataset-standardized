@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "VND",
+    "payment_method": "cash",
+    "subtotal": 67000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 67000.0,
+    "accounting_category": "food and beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Twist Donut",
+      "quantity": 1,
+      "unit_price": 9000.0,
+      "total_price": 9000.0,
+      "category": "donut",
+      "accounting_category": "food and beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Peach Pastry",
+      "quantity": 1,
+      "unit_price": 17000.0,
+      "total_price": 17000.0,
+      "category": "pastry",
+      "accounting_category": "food and beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Choco Custard Pastry",
+      "quantity": 1,
+      "unit_price": 12000.0,
+      "total_price": 12000.0,
+      "category": "pastry",
+      "accounting_category": "food and beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Egg Tart",
+      "quantity": 1,
+      "unit_price": 13000.0,
+      "total_price": 13000.0,
+      "category": "pastry",
+      "accounting_category": "food and beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Royal Cheese Tart",
+      "quantity": 1,
+      "unit_price": 16000.0,
+      "total_price": 16000.0,
+      "category": "pastry",
+      "accounting_category": "food and beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000262.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 TWIST DONUT 9,000\n1 PEACH PASTRY 17,000\n1 CHOCO CUSTARD PASTRY 12,000\n1 EGG TART 13,000\n1 ROYAL CHEESE TART 16,000\nTOTAL 67,000\nCASH 67,000\nCHANGE 0"
+  }
+}

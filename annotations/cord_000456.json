@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "BAKUBEN",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "VISA BCA",
+    "subtotal": 135000.0,
+    "tax": 14513.0,
+    "tip": 0.0,
+    "total": 159638.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "mush pasta",
+      "quantity": 1,
+      "unit_price": 80000.0,
+      "total_price": 80000.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "chic ques",
+      "quantity": 1,
+      "unit_price": 55000.0,
+      "total_price": 55000.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000456.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BAKUBEN\n1    mush pasta                 80,000\n1    chic ques                   55,000\nITEMS: 2\nService charge             10,125\nPB1                                 14,513\nTotal..........              159,638\nVISA BCA\n159,638"
+  }
+}

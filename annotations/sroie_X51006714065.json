@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "ANN GIAP TRADING SDN BHD",
+    "address": "NO. 135, JALAN BANGI, 43500, SEMENYIH, SELANGOR",
+    "phone": "03-87238214",
+    "tax_id": "000436633600",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-09-30",
+    "time": "",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 62.26,
+    "tax": 3.74,
+    "tip": 0.0,
+    "total": 66.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "3.5 LITRE MAX COATING",
+      "quantity": 1,
+      "unit_price": 48.0,
+      "total_price": 48.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "THINNER 1 GALLON",
+      "quantity": 1,
+      "unit_price": 18.0,
+      "total_price": 18.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006714065.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ANN GIAP TRADING SDN BHD\nNO. 135, JALAN BANGI, 43500\nSEMENYIH, SELANGOR\nTEL: 03-87238214 FAX: 03-87230508\nCompany Reg No: 557752-H\nGST Reg No : 000436633600\nTAX INVOICE\nName : CASH\n1. 3.5 LITRE MAX COATING\n1.0000 - 48.00 SR\n2. THINNER 1 GALLON\n1.0000 - 18.00 SR\nTotal Sales Inclusive GST @6% 66.00\nRound Adj 0.00\nFinal Total 66.00\nCASH 66.00\nCHANGE 0.00\nGST Summary Amount(RM) Tax(RM)\nSR @6% 62.26 3.74\nINV NO : CS-020819 Date : 30-09-2017\nAGENT :\n********THANK YOU********\n****PLEASE COME AGAIN****"
+  }
+}

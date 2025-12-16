@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "Tomas Ribeiro, Av. da Liberdade 36 18 1250/145 Lisboa",
+    "phone": "211318360",
+    "tax_id": "510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-08-25",
+    "time": "13:53:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 1.8,
+    "tax": 0.1,
+    "tip": 0.0,
+    "total": 1.8,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Pão Carcaça",
+      "quantity": 20,
+      "unit_price": 0.09,
+      "total_price": 1.8,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "rounding": 0.0,
+    "change_due": 18.2
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_202036.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TOMAS RIBEIRO\nPingo Doce Distribuiçao Alimentar. S.A.\nC 62 PÃO CARCAÇAIbi00456\n20,000 X 0,09 1,80\nTOTAL A PAGAR 1,80\nPagamentos\nTOTAL PAGO 20,00\nTROCO 18,20\nResumo IVA\nValor s/IVA Valor IVA Valor c/IVA\n1,70 0,10 1,80\nData e hora: 25-08-2019\nNome: FLKMEHOME LDA\nMorada: AV DA LIBERDADE 36 18 1250/145\nLisboa\nLocal carga: TOMAS RIBEIRO\nLocal descarga: Morada de cliente\nData: 2019-08-25; Hora: 13:53"
+  }
+}

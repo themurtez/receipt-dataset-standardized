@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Golden Arches Restaurants Sdn Bhd",
+    "address": "Level 6, Bangunan TH, Damansara Uptown3, No.3, Jalan SS21/39, 47400 Petaling Jaya, Selangor",
+    "phone": "03-6156-2180",
+    "tax_id": "000504664064",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-12-25",
+    "time": "13:51:47",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 29.28,
+    "tax": 1.66,
+    "tip": 0.0,
+    "total": 29.3,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "FiletOFish",
+      "quantity": 2,
+      "unit_price": 10.59,
+      "total_price": 21.18,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Coke",
+      "quantity": 2,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Fries",
+      "quantity": 2,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "6Nuggets",
+      "quantity": 1,
+      "unit_price": 7.1,
+      "total_price": 7.1,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Barbecue Sauce",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Condiment",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Small Cone",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Dessert",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 9,
+    "rounding": 0.02,
+    "change_due": 20.7
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006334926.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Your order number is\n264\nGolden Arches Restaurants Sdn Bhd\n(65351-M)\nLevel 6, Bangunan TH, Damansara Uptown3\nNo.3, Jalan SS21/39,47400 Petaling Jaya\nSelangor\n(GST ID No: 000504664064)\nMcDonald's Kota Damansara DT(#178)\nTel No. 03-6156-2180\nTAX INVOICE\nMFY Side 1\nINV# 001780200112117\nORD #64 -REG #2- 25/12/2016 13:51:47\nQTY ITEM TOTAL\n2 L FiletOFish 21.18\n2 L Coke -\nNO Ice -\n2 L Fries -\n1 6Nuggets 7.10\n1 Barbecue Sauce\n1 Small Cone 1.00\nEat-In Total (incl GST) 29.28\nRounding Adjust 0.02\nTotal Rounded 29.30\nCash Tendered 50.00\nChange 20.70\nTOTAL INCLUDES 6% GST 1.66\nThank You and Please Come Again.\nCustomer Service Hotline : 03-2726-5600"
+  }
+}

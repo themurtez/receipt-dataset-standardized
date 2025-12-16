@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "PREMIO STATIONERY SDN BHD",
+    "address": "No 57, Jalan SS 3/29, 47300 Petaling Jaya, Selangor.",
+    "phone": "03-7874 8605",
+    "tax_id": "001032994816",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-20",
+    "time": "15:20:16",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 13.4,
+    "tax": 0.76,
+    "tip": 0.0,
+    "total": 13.4,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ENERGIZER BATTERY AA 4'S",
+      "quantity": 1,
+      "unit_price": 13.4,
+      "total_price": 13.4,
+      "category": "Batteries",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 6.6
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005621482.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PREMIO STATIONERY SDN BHD\n(Co. No.: 123769-W)\nGST Reg. No.: 001032994816\nNo 57, Jalan SS 3/29, 47300 Petaling Jaya, Selangor.\n03-7874 8605\nTAX INVOICE\nInvoice No : SS3-154439\nDate : 20/03/2018 3:20:16 PM\nCashier : IVY\nDescription Qty Price Amount\n1 SR ENERGIZER 1 13.40 13.40\nBATTERY AA 4'S\nTotal : 13.40\nDiscount: 0.00\nTotal Sales Inclusive GST @6.00% : 13.40\nCash Received : 20.00\nChange : 6.60\nStarting 1st April, we will no longer be issuing handwritten invoices. Your service jobs such as photocopy and printing are replaced by the order form along with a copy of this receipt.\nAll goods and services are subjected to the 6% GST during checkout.\nAll goods sold are not returnable/refundable. Exchanges are only acceptable within 3 days with a proof of receipt.\nAll cartridge & toner sales are final and non-refundable.\nNo cash refunds for credit card purchases.\nNo refunds or exchanges will be entertained without proof of receipt.\nTerms and conditions applied.\n\nGST Summary % Amount(RM) Tax(RM)\nSR 6.00 12.64 0.76\nThank you for Shopping at PREMIO\nHave a Nice Day!\nFor the latest news and updates like us on facebook.com/premiostationery"
+  }
+}

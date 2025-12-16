@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "AA PHARMACY",
+    "address": "B-8, JALAN SS15/4D, 47500 SUBANG JAYA, SELANGOR",
+    "phone": "03-56127718",
+    "tax_id": "001536708608",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-10-29",
+    "time": "20:18:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 27.27,
+    "tax": 1.64,
+    "tip": 0.0,
+    "total": 28.9,
+    "accounting_category": "Medical Supplies",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Super Safe Powder Free Nitrile Gloves (Box 100s)",
+      "quantity": 1,
+      "unit_price": 14.9,
+      "total_price": 14.9,
+      "category": "Medical Supplies",
+      "accounting_category": "Medical Supplies",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Super Safe Latex Glove Powder Free (S Size)",
+      "quantity": 1,
+      "unit_price": 14.0,
+      "total_price": 14.0,
+      "category": "Medical Supplies",
+      "accounting_category": "Medical Supplies",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": -0.01,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006554833.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SIMPLIFIED TAX INVOICE\nAA PHARMACY\nSUBANG HEALTHCARE SDN BHD\n1118528-K\nGST NO: 001536708608\nB-8, JALAN SS15/4D,\n47500 SUBANG JAYA, SELANGOR\nTEL: 03-56127718\n\nCASH\n\nRECEIPT#: CS00251915 DATE: 29/10/2017\nSALESPERSON : C3 TIME: 20:18:00\nCASHIER : C3\n\nITEM QTY U/P AMOUNT\n(GST) (GST)\n\n030249 1 14.90 14.90 S\n(BOX 100S) SUPER SAFE POWDER FREE NITRIL\n03022 1 14.00 14.00 S\n(S SIZE) SUPER SAFE LATEX GLOVE POWDER F\nTOTAL QUANTITY\n\nSUB-TOTAL 27.27\nDISC 0.00\nGST 1.64\nROUNDING -0.01\n\nTOTAL 28.90\nCASH 28.90\nCHANGE 0.00\n\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU.\nS-STANDARD RATED, Z-ZERO RATED\n\nGST SUMMARY\n\nCODE AMOUNT % TAX/AMT\nSST 27.27 6 1.64\n\nTAX TOTAL: 1.64\n"
+  }
+}

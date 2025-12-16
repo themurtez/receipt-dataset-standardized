@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "LUBRIALBUFEIRA, LDA.",
+    "address": "EST. MONTECHORO-TORRE MOSQUEIRA, 8200-387 ALBUFEIRA",
+    "phone": "707 504 257",
+    "tax_id": "PT508663999",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-06-20",
+    "time": "11:35:37",
+    "currency": "EUR",
+    "payment_method": "CARTAO DEBITO",
+    "subtotal": 40.0,
+    "tax": 7.48,
+    "tip": 0.0,
+    "total": 40.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GASOLEO SIMPLES",
+      "quantity": 29.43,
+      "unit_price": 1.359,
+      "total_price": 40.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210322_172251.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "galp\n\nPRE-PAGAMENTO\n\nLUBRIALBUFEIRA, LDA. - 19107\nLUBRIALBUFEIRA UNIPESSOAL LDA\nEST. MONTECHORO-TORRE MOSQUEIRA,\n8200-387ALBUFEIRA Tel.\nNIF: PT508663999\nFatura/Recibo\n\n                                          Quantidade Preco\nPreco Unitario\n\n29.43 L Bomba 06\nGASOLEO SIMPLES EUR 40.00 A\n1.359 EUR / L EUR 40.00\n\nTotal EUR 40.00\n\n23.00 % IVA A\n\n7.48\n\nCliente: 1914\nNome: ELIKEHOME ALGARVE LDA\nMorada:\nCodigo Postal:\nLocalidade:\nNo Contribuinte: 514407395\nMatricula: 54-C0-40\nOperador: Valentina Rei\n\nCX-6 - Processado por Programa\nCertificado n.o 1396/AT\n\nData Hora NT° POS N°Op Turno\n20-nu-19 11:36 56133 01 0002 810\nRelemos  IVA da Caixa nos casos em que tai\nseja aplicavel ao cliente\nclientes@galp.com Tel. 707 504 257\n\nA sua opiniao é importante!\nPartiha-connosco em\nopiniao.galp.com/postos\n\nTotal EUR 40.00\nCARTAO  DEBITO EUR 40.00\n\nTerminal Pagamento Automatico: 00605939\nData: 2019-06-20 Hora: 11:35:37\nPeriodo: 006 Transacao: 060 Mensagem:093\nMILLENIUM BCP\nAMARAL SALVADOR\n  * ***1008/27\n0000000032010 VISA ELECTRON\nCOMPRA * 40,00€ VEIC PP N\nID ESTAB .00021414002 AUT:169452\nPROCESSADO POR SIBS\n\n9 901563133029130020 22006200103\n"
+  }
+}

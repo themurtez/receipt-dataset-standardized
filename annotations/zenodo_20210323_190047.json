@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Pastelaria Mourapao",
+    "address": "Av. da Marina Loja 6, Vilamoura",
+    "phone": "289301396",
+    "tax_id": "509875645",
+    "website": "mourapaoFelix.pt"
+  },
+  "transaction": {
+    "date": "2019-02-18",
+    "time": "08:36:10",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 3.65,
+    "tax": 0.5,
+    "tip": 0.0,
+    "total": 4.15,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Agua 0.33l",
+      "quantity": 1,
+      "unit_price": 1.7,
+      "total_price": 1.7,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Nectar pessego",
+      "quantity": 1,
+      "unit_price": 1.65,
+      "total_price": 1.65,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cafe",
+      "quantity": 1,
+      "unit_price": 0.8,
+      "total_price": 0.8,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_190047.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Pastelaria MouraPão\nManuel Odília & Paulo Barbosa, lda\nAv. da Marina Loja 6 8125-406\nTel.: 289301396\nN. Contrib. 509875645\nRegisto na Cons. Loulé n.509875645\nCapital Social 8000 Euros\nmourapaofelix.pt\n\nNome #likehome algarve lda\nN.C. 574407365\n\nFatura-Recibo FT 014/6784\n\n2019-02-18 08:36:10\n\nQt Artigo  IV Total\n1 Agua 0.33l 13 1.70\n1 Nectar pessego 23 1.65\n1 Cafe 13 0.80\n\nTotal 4.15\n\nTaxa Base IVA Total\n13.00 2.21 0.29 2.50\n23.00 1.34 0.31 1.65\nTotal 3.65 0.60 4.15\n\nEmo 2\nIVA Incluído\n\nConsultas:\nObrigado e volte sempre\n\nREGR-Processado por programa certificado n. 0071/AT\n\nCopyright CompSoft, SA"
+  }
+}

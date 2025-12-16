@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "HIGH FIVE ENTERPRISE",
+    "address": "Jalan Bidara, Taman Bidara, Selayang 68100, Batu Caves, Selangor",
+    "phone": "03-61363779",
+    "tax_id": "001215471616",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-04",
+    "time": "21:57:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 95.48,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 95.48,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "FuelSave 95",
+      "quantity": 43.4,
+      "unit_price": 2.2,
+      "total_price": 95.48,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": -0.02,
+    "change_due": 4.5
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006438346.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "HIGH FIVE ENTERPRISE\nCompany No : 1351865-X\nJalan Bidara, Taman Bidara, Selayang\n68100, Batu Caves, Selangor\nSite : 2059\nTelephone : 03-61363779\nGST No : 001215471616\nInvoice number: 01000683964\n\n43.40 litre Pump # 11\nFuelSave 95 RM 95.48 C\n2.200 RM / litre\n--------------------------------\nTotal RM 95.48\nCash RM 100.00\nRounding RM 0.02-\nChange RM 4.50\nRelief GST C RM 0.00\nTotal Gross C RM 95.48\n\nCashier:\nAAZMAN3\n\nDate Time Num POS CNo Shift\n05/04/18 21:57 16074 01 3334 699\n\nDiesel & Petrol RON95 given relief\nunder Section 56(3)(b) GST Act 2014\n\nThank You and Please Come Again"
+  }
+}

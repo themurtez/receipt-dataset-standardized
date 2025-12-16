@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "PRINT TO FILE - IMPRESSÃO DIGITAL, LDA.",
+    "address": "PRAÇA CENTRAL, LOJA 14F - TELHEIRAS, 1600-614 LISBOA",
+    "phone": "21 759 31 18",
+    "tax_id": "507 104 129",
+    "website": "WWW.PRINTOFILE.PT"
+  },
+  "transaction": {
+    "date": "2019-05-29",
+    "time": "14:26:21",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 32.5,
+    "tax": 7.48,
+    "tip": 0.0,
+    "total": 39.98,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TAXA",
+      "quantity": 1,
+      "unit_price": 39.98,
+      "total_price": 39.98,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_201713.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PRINT TO FILE - IMPRESSÃO DIGITAL, LDA.\nR. PROF. EDUARDO ARAUJO COELHO\nPRAÇA CENTRAL, LOJA 14F - TELHEIRAS\n1600-614 LISBOA\nTELF. 21 759 31 18\nCONTRIBUINTE: 507 104 129\nCRC LISBOA Nº 13644 de 20040930\nCAP. SOCIAL: 100.000 euros\nIva Incluido às Taxas Legais em Vigor\nCliente nº.\nFactura: 19FT 001/643 ORIGINAL\nPEDRO\nDATA:2019-05-29 / 14:26:21\nNºCliente: 10.002.336\nNome: FLIKE LDA\nNIF:510776914\nMorada: LISBOA\nDescrição Pvu. Qtd. Desc.% Valor\nTAXA 23 % 39,98 1 39,98\nItens: 1 39,98\nValor S/IVA IVAX V.Iva\n32,50 23 7,48\nTotal a Pagar: 39,98 €\nMULTIBANCO 39,98 €\n\nOs artigos e serviços constantes deste\ndocumento foram prestados ou colocados à\ndisposição do adquirente nesta data.\n\nIes:Processado por programa certificado nº 003/AT\nEMAIL: PRINTOFILE@NETCAD.PT"
+  }
+}

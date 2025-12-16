@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "FLIKEHOME, LDA",
+    "address": "R Dr César Raul da Costa Andrade Lote C1 Loja, 2655-242 Ericeira, PT",
+    "phone": "965401376",
+    "tax_id": "189578084",
+    "website": "erimetal.ericeira@gmail.com"
+  },
+  "transaction": {
+    "date": "2018-08-06",
+    "time": "16:47:25",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 5.94,
+    "tax": 1.11,
+    "tip": 0.0,
+    "total": 5.94,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Extensão 6 2P+1 1.5m",
+      "quantity": 1,
+      "unit_price": 6.6,
+      "total_price": 6.6,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_153550.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Mª do Rosário da Graça Roque Fernand\nR Dr César Raul da Costa Andrade Lote C1 Loja\n2655-242 Ericeira\nPT\ne-mail erimetal.ericeira@gmail.com\nweb\nTel: 965401376\nnif: 189578084\n\nNome FLIKEHOME, LDA\nMorada - Ericeira\n\nContribuinte 510776914\nFATURA SIMPLIFICADA N° 4720/2018\nIdentificação única: FS 2018/4720 (ORIGINAL)\nDATA: 2018-08-06 HORA: 16:47:25\n\nExtensão 6 2P+1 1.5m\n1,000 x 6.60 0% 23% 6.60\n\nNúmero de Artigos: 1\n\nTOTAL: 5,94\n\nDescontos: 0.66\nDetalhe da Liquidação\nMULTIBANCO 5,94\nDetalhe do IVA\n\nTaxa Incidência Valor Total\n23% 4.83 1.11 5.94\n\nYsd1 - Processado por programa certificado\nn° 0097/AT Magnisoft - OranGest\n\nObrigado pela sua preferência\nAté Breve"
+  }
+}

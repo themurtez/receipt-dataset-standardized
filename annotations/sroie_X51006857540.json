@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Becon Stationer",
+    "address": "No.41G, Jln SS21/60, Damansara Utama, 47400 PJ, Selangor",
+    "phone": "603 7732 0925",
+    "tax_id": "000670859264",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-13",
+    "time": "12:23:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 270.1,
+    "tax": 15.28,
+    "tip": 0.0,
+    "total": 270.1,
+    "accounting_category": "Stationery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "H/COVER F/SCAP BOOK 300PGS",
+      "quantity": 3,
+      "unit_price": 7.2,
+      "total_price": 21.6,
+      "category": "Stationery",
+      "accounting_category": "Stationery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TACK-IT 12pcs F/CASTELL 75GMS",
+      "quantity": 1,
+      "unit_price": 5.7,
+      "total_price": 5.7,
+      "category": "Stationery",
+      "accounting_category": "Stationery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "NOTE BOOK SPIRAL 202",
+      "quantity": 2,
+      "unit_price": 1.4,
+      "total_price": 2.8,
+      "category": "Stationery",
+      "accounting_category": "Stationery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "REAMS IK PLUS Simili Paper A4 80",
+      "quantity": 4,
+      "unit_price": 60.0,
+      "total_price": 240.0,
+      "category": "Stationery",
+      "accounting_category": "Stationery",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 10,
+    "rounding": 0.0,
+    "change_due": 30.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006857540.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BEACON STATIONER\nBecon Enterprise Sdn Bhd (82256-V)\nDamansara Utama Outlet\nNo.41G, Jln SS21/60, Damansara\nUtama, 47400 PJ, Selangor\nTel: 603 7732 0925\nGST No.000670859264\n----------------------------------------\nTax Invoice: 0019894\nCashier : Norlida Mohd Rashdi\nDate : 13-11-2017 Time : 1223\nPos No : 181 Shift : 1\nMEMBER PRICE\nName : SIA BAN YI\nPoint : 744\n----------------------------------------\nProduct Name\nCode Qty @ U/(RM) GST Total(RM)\nH/COVER F/SCAP BOOK 300PGS {NN) HFC309/HFC\n#1010273 3 @ 7.20 SR 21.60\nTACK-IT 12pcs F/CASTELL 75GMS 187092/7057\n#1210622 1 @ 5.70 SR 5.70\nNOTE BOOK SPIRAL 202 CROWN\n#1010802 2 @ 1.40 SR 2.80\nDEAL074#5 REAMS IK PLUS Simili Paper A4 80\n#DOJ17074 4 @ 60.00 SR 240.00\n----------------------------------------\nSub Total 270.10\n(GST) 15.28\nRounding 0.00\n----------------------------------------\nTotal Include GST 270.10\nCash 300.10\nChange 30.00\n\nCustomer Saving from RRP 3.40\n----------------------------------------\nPrice Inclusive of GST6%\nGST Summary Amount(RM) Tax(RM)\nSR@6.00% 254.82 15.28\n----------------------------------------\nThank You for shopping at BEACON.\nGoods sold are not exchangeable refundable"
+  }
+}

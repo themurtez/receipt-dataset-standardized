@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "SUPERMERCADO ROCHA S.A.",
+    "address": "Rua 1 de Dezembro 45-3, 1249-057 Lisboa",
+    "phone": "",
+    "tax_id": "500403201",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-10-10",
+    "time": "11:00:32",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 9.811,
+    "tax": 0.589,
+    "tip": 0.0,
+    "total": 10.4,
+    "accounting_category": "Grocery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CONG.SG.BONTA IT PIZZA VEGGIE S.L 390G",
+      "quantity": 2,
+      "unit_price": 5.2,
+      "total_price": 10.4,
+      "category": "Grocery",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_144732.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SUPERMERCADO ROCHA S.A.\nRua 1 de Dezembro 45-3\n1249-057 Lisboa\nContribuinte: 500403201\nEstabelecimento: 1 DEZEMBRO\n\nFatura 2018-10-10 11:00   FT 20182003/422\nV/N.Contribuinte: 510776914\nFLIKEHOME\n\nDescriçao   Taxa Quant      Preco     Valor\n\nProduto sem Gluten\nCONG.SG.BONTA IT PIZZA VEGGIE S.L 390G\n421331                   2          5.20      10.40\n\nTotal Euros........         10.40\n\nTaxa   B.Tributavel     Imposto    Total\n1-6.00%      9.811           0.589      10.40\ntotais................        0.589     10.40\n\nCertificado Nr. 2129/AT\n\nCarga: 10-10-2018    11:00:32\n\nDevolucoes ou troca so no prazo de 15 dias por desconformidade do mesmo mediante a presentaçao do talao e de preferencia na loja onde o adquiriu\n\nM.Banco.........    10.40\nTroco...........       0.00"
+  }
+}

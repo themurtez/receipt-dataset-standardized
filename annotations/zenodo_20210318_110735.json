@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "ESIL - Parque de Estacionamento, S.A.",
+    "address": "R. Joaquim Antonio de Aguiar, 19-2, 1070-149 Lisboa",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-01-18",
+    "time": "13:39:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 5.7,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 5.7,
+    "accounting_category": "Transport",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Parking",
+      "quantity": 1,
+      "unit_price": 5.7,
+      "total_price": 5.7,
+      "category": "Parking Fee",
+      "accounting_category": "Transport",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_110735.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ESIL - Parque de Estacionamento, S.A.\nR. Joaquim Antonio de Aguiar,\n19-2, 1070-149 Lisboa\nCont: 503311685 / CRC:L 5536\nPARQUE CAMES\n\nDoc N: B78477\nTerminal: 22\nBilhete No: 3572422\nRetido: EUR h /.08\nEntrada: 2019-01-18 13:39\nValor: EUR 5.70\nData: 2019-01-18 Hora: 16:24\nIVA a taxa legal em vigor\nProcessado por Computador\nNome: Consumidor Final\nNIF: Consumidor Final"
+  }
+}

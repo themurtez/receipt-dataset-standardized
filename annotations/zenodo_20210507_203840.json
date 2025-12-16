@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "FNAC PORTUGAL",
+    "address": "Armazéns do Chiado, Rua do Carmo n-2",
+    "phone": "",
+    "tax_id": "502 690 229",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-17",
+    "time": "13:31:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 10.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 10.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Livro Filipe Medias",
+      "quantity": 1,
+      "unit_price": 8.4,
+      "total_price": 8.4,
+      "category": "Books",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "IA - Filos. Processing Digital",
+      "quantity": 1,
+      "unit_price": 1.6,
+      "total_price": 1.6,
+      "category": "Software",
+      "accounting_category": "Retail",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.12
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_203840.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "FNAC PORTUGAL \nR.SOC. FNAC - Pª ACOOLMARC. LDA \nCAPIAL SOCIAL 1.500.000,00 \nAv. Chefos des Adeusfira 02265 902 \nN agnan\nB Pror Contabilesos S 502 0g7 229 \nCONTCRIBUTC? NO S02 692 28) \nCon Filamento 2004 \nNdco;osso; PC; T0000r/00360209R \nTL zl \nMOV: 711171 \n(ABRIGADO DIEGO) \nNcm. FILJENIE MEXINHAS JUNA LDA  \nRefer.: \nDetiva총: \nFA7.0\n220005-014052  1.60 \nVALO\na\n2200600200\nAL \nCARTÃO FNAC \n01361270170 \n1 ⏢\nVALOR P DA ENOS\nValor: 23200 \nTOTAL = \nRESUMO DO IVA \nTAXA A BASE \nIVA Liquidado \nft: 000 07 \nCARTAO FNENIC ENGS \n1326177010 \n21 VA\nMadalene Estirado. \nAoteorge\nEmail Csava: MFC\nCertificado.\n—— Atendido por:——Foto nome \n14 Dezeró Fried @\ni EPacejú Invez fivegier topode \nDL Doss Poteito.\n\nOA OCPropriate Tope Pe ? \nAit: 500.5\nCHEE"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "MARINAGEL, Similares de Hotelaria, SA",
+    "address": "Edif. Marina Gaviota, Lj. 17, 8125 022 VILAMOURA",
+    "phone": "289302871",
+    "tax_id": "503673838",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-19",
+    "time": "22:06:00",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 35.0,
+    "tax": 4.21,
+    "tip": 0.0,
+    "total": 35.0,
+    "accounting_category": "Dining",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "P. Tropical",
+      "quantity": 1,
+      "unit_price": 12.9,
+      "total_price": 12.9,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Pizza Aveiro",
+      "quantity": 1,
+      "unit_price": 13.9,
+      "total_price": 13.9,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Imperial",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Agua 50 cl",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Bica",
+      "quantity": 2,
+      "unit_price": 1.6,
+      "total_price": 3.2,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_194644.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MARINAGEL, Similares de Hotelaria, SA\nEdif. Marina Gaviota, Lj. 17\n8125 022 VILAMOURA Tel. 289302871\nC.R.C. LOULF\nC.S. 100 360 Euros NIPC.503673838\nProcessado por computador\nFatura\n2019/02/19 22:06 FA T5/3121\nNome: FLiKEHOME ALGARVE\nMorada: .\nContribuinte: 514407395\nCus7 - Processado por Programa\ncertificado n. 64/AT - Restus\nQTD DESIGNACAO XIVA VALOR\n1 P. Tropical 13,00 12,90\n1 Pizza Aveiro 13,00 13,90\n1 Imperial 13,00 2,50\n1 Agua 50 cl 13,00 1,00\n2 Bica 13,00 3,20\nSUBTOTAL 35,00\nTOTAL EUR..... 35,00\nMultibanco EUR 35,00\nIMPOSTO % INCIDENCIA VALOR\nIVA 13,00 28,76 3,74\nIVA 23,00 2,03 0,47\nMESA: 52\nID: Manager\n"
+  }
+}

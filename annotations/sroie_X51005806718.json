@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "HUGO TRADING SDN BHD",
+    "address": "LOT 8A9, KOMPLEKS PASAR BORONG SELANGOR, 43300 SERI KEMBANGAN, SEL",
+    "phone": "03-89442249",
+    "tax_id": "001552822272",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-13",
+    "time": "11:44:30",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 38.49,
+    "tax": 2.31,
+    "tip": 0.0,
+    "total": 40.8,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "HD 32 X40 1kg",
+      "quantity": 2,
+      "unit_price": 10.38,
+      "total_price": 22.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "GB3648-GARBAGE BAG 36x48",
+      "quantity": 2,
+      "unit_price": 8.87,
+      "total_price": 18.8,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 10.2
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005806718.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "HUGO TRADING SDN BHD\nBR No. 1160956-H\nLOT 8A9, KOMPLEKS PASAR BORONG SELANGOR,\n43300 SERI KEMBANGAN, SEL\n03-89442249,\nGST No. 001552822272\nTAX INVOICE\n13/01/2018 11:44:30PM\nTRN: C2050063\nCounter 2\nCASHIER 2\nQTY UOM UNIT Amt Exc. Amt Inc GSTC\nPrice Tax Taxode\nHD 32 X40 1kg\n2 PKT 10.38 20.75 22.00 SR\nGST @6% + 1.25\nGB3648-GARBAGE BAG 36x48 1X15\n2 PKT 8.87 17.74 18.80 SR\nGST @6% + 1.06\n*Total Qty. 4 00\nTotal Includes GST 6%\n40 80\nCustomer's Payment\nCash 51.00\nChange 10.20\nGST Summary Amount (RM) Tax (RM)\nSR = 6 % 38.49 2.31\n*Goods sold are not returnable\nThank you for shopping at HU\nTRADING SDN BHD"
+  }
+}

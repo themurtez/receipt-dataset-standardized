@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (M) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000306020352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-11",
+    "time": "17:42:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 8.49,
+    "tax": 0.51,
+    "tip": 0.0,
+    "total": 9.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "OPENER SS MT-005",
+      "quantity": 1,
+      "unit_price": 8.8,
+      "total_price": 8.8,
+      "category": "Household",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PLASTIC BAGS",
+      "quantity": 1,
+      "unit_price": 0.2,
+      "total_price": 0.2,
+      "category": "Miscellaneous",
+      "accounting_category": "Retail",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": -0.51,
+    "change_due": 1.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007103599.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. D.I.Y. (M) SDN BHD (CO.REG : 860671-D)\nLOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR (GST ID NO : 000306020352)\n(IOI PUCHONG) -TAX INVOICE-\nOPENER SS MT-005\nAI31 - 12/108\n9064430 1 X 8.80 8.80\nPLASTIC BAGS\n99999 1 X 0.20 0.20\nItem(s) : 2\nTotal Incl. GST@6% RM 9.00\nCASH RM 10.00\nCHANGE RM 1.00\nGST @6% included in total RM 0.51\n* 11-04-18 17:42 SHO1 ZJ86 T2 R000116475\nOPERATOR IOIT - NUR FATIHAH\nEXCHANGE ARE ALLOWED WITHIN 7 DAY WITH RECEIPT. STRICTLY NO CASH REFUND."
+  }
+}

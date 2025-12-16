@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Tunai",
+    "subtotal": 25900.0,
+    "tax": 2355.0,
+    "tip": 0.0,
+    "total": 25900.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "WALL'S FEAST CKLT.65",
+      "quantity": 1,
+      "unit_price": 5400.0,
+      "total_price": 5400.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CMPN TROPICANA.CHO75",
+      "quantity": 1,
+      "unit_price": 5500.0,
+      "total_price": 5500.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MAGNUM WHT ALMND 80",
+      "quantity": 1,
+      "unit_price": 15000.0,
+      "total_price": 15000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverages",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000098.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "WALL'S FEAST CKLT.65 1 5400 5,400\nCMPN TROPICANA.CHO75 1 5500 5,500\nMAGNUM WHT ALMND 80 1 15000 15,000\nHARGA JUAL 25,900\nTOTAL 25,900\nTUNAI 25,900\nPPN= 2,355"
+  }
+}

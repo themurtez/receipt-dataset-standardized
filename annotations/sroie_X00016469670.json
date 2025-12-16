@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "OJC Marketing SDN BHD",
+    "address": "No 2 & 4, Jalan Bayu 4, Bandar Seri Alam, 81750 Masai, Johor",
+    "phone": "07-388 2218",
+    "tax_id": "538358-H",
+    "website": "ojcgroup.com"
+  },
+  "transaction": {
+    "date": "2019-01-15",
+    "time": "11:05:16",
+    "currency": "MYR",
+    "payment_method": "Visa Card",
+    "subtotal": 193.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 193.0,
+    "accounting_category": "Protective Equipment",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Kings Safety Shoes KWD B05",
+      "quantity": 1,
+      "unit_price": 193.0,
+      "total_price": 193.0,
+      "category": "Footwear",
+      "accounting_category": "Protective Equipment",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X00016469670.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "tan chay yee\n*** COPY ***\nOJC MARKETING SDN BHD\nROC NO: 538358-H\nNO 2 & 4, JALAN BAYU 4,\nBANDAR SERI ALAM,\n81750 MASAI, JOHOR\nTel:07-388 2218 Fax:07-388 8218\nEmail: ng@ojcgroup.com\nTAX INVOICE\n---------------\nInvoice No : PEGIV-1030765\nDate : 15/01/2019 11:05:16 AM\nCashier : NG CHUAN MIN\nSales Persor : FATIN\nBill To : THE PEAK QUARRY WORKS\nAddress :\n---------------\nDescription Qty Price Amount\n0000000111 1 193.00 193.00 SR\nKINGS SAFETY SHOES KWD B05\nQty: 1 Total Exclude GST: 193.00\nTotal GST @6%: 0.00\nTotal Inclusive GST: 193.00\nRound Amt: 0.00\nTOTAL: 193.00\nVISA CARD 193.00\nxxxxxxxxxxxx4318\nApproval Code:000\nGoods Sold Are Not Returnable & Refundable\n****Thank You. Please Come Again.****"
+  }
+}

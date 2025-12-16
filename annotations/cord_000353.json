@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 17272.0,
+    "tax": 1727.0,
+    "tip": 0.0,
+    "total": 18999.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Soft Dri 3 Top",
+      "quantity": 1,
+      "unit_price": 17272.0,
+      "total_price": 17272.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000353.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Soft Dri 3 Top          17,272\nTop Oreo                  0\nTop Oreo                  0\nTop Banana                0\n\nSubTotal:                17,272\nPB1:                     1,727\nTotal:                  18,999\ncash:                   18,999"
+  }
+}

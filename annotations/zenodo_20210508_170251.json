@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Flikehome Mediação Imobiliaria Lda",
+    "address": "Estrada das Laranjeiras 1500-452 Lisboa",
+    "phone": "",
+    "tax_id": "PT 510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-11-05",
+    "time": "13:58:28",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 21.71,
+    "tax": 4.99,
+    "tip": 0.0,
+    "total": 26.7,
+    "accounting_category": "Logistics",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Volume(s)",
+      "quantity": 4,
+      "unit_price": 5.43,
+      "total_price": 21.71,
+      "category": "Shipping",
+      "accounting_category": "Freight",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_170251.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "RAPIDO EXPRESSOS.LDA \nEstrada das Laranjeiras 1500-452 LISBOA \n\n\nFatura Simplificada Nr.: 02420/9999305M \n\n05-11-2018 13:58:28  \n\nOrigem: LISBOA ORIENTE \n\nDestino: PORTO \n\nNOME: FLIKEHOME MEDIAÇÃO IMOBILIARIA LDA \n\nNIF: PT 510776914 \n\nDESTINATARIO: \n\nRicardo Moutinho \n\nPORTO \n\nDiscrim.: VOLUME(S) Zona : 30010 \nNr. Volumes:  4  Peso : 25.60 KG. \nEfectuado  : 05-11-2018 Hora : 13:58 \nEXPEDICAO : 05-11-2018 Hora : 15:00 \nDespachante : RMALTINHA Total : 26,70 Eur \n\nIVA incluido a Taxa Indicada \n\nTaxa | Liquido | IVA | Total\n\n23,00% | 21,71 | 4,99 | 26,70 \n\nLAN-Processado por programa \n\ncertificado N.1143/AT"
+  }
+}

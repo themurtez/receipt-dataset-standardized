@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "debit",
+    "subtotal": 164000.0,
+    "tax": 16400.0,
+    "tip": 0.0,
+    "total": 147600.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Choco Chip",
+      "quantity": 2,
+      "unit_price": 13000.0,
+      "total_price": 26000.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Choco Banana",
+      "quantity": 3,
+      "unit_price": 14000.0,
+      "total_price": 42000.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Crispy Choco",
+      "quantity": 2,
+      "unit_price": 14000.0,
+      "total_price": 28000.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chocban Cup",
+      "quantity": 3,
+      "unit_price": 12000.0,
+      "total_price": 36000.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Red Velvet",
+      "quantity": 2,
+      "unit_price": 16000.0,
+      "total_price": 32000.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 12,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000180.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "2X 13.000\nCHOCO CHIP 26.000\n3X 14.000\nCHOCO BANANA 42.000\nCRISPY CHOCO 14.000\nCRISPY CHOCO 14.000\n3X 12.000\nCHOCBAN CUP 36.000\n2X 16.000\nRED VELVET 32.000\nSUBTOTAL 164.000\n10% 16.400\nTL 147.600\nDEBIT 147.600\n"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "São Domingos de Rana, Edifício Brisa",
+    "phone": "",
+    "tax_id": "502 790 024",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-25",
+    "time": "14:35:30",
+    "currency": "EUR",
+    "payment_method": "Cartão Bancário",
+    "subtotal": 20.95,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 20.95,
+    "accounting_category": "Transportation",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Bem Indo-Trânsito",
+      "quantity": 1,
+      "unit_price": 20.95,
+      "total_price": 20.95,
+      "category": "Transportation",
+      "accounting_category": "Transportation",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_181827.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "FACTURA SIMPLIFICADA \nRecibo: FS 02111061902/0033496 Original \nData e Hora: 2019-03-25 14:35:30 \nSaida: 0211 - Coina PV \nvia: 106 Portageiro: 01815 \nEntrada: 0222 - Paderne \nTitulo: Bem Ido-Trânsito \nModo de Pagamento: Cartão Bancário \nClasse: 1 Taxa: 20,95 € \nPAGAMENTO AUTOMATICO num: 539 \nBANCO BPI *************9797 \nLocal de pagamento: A02-11 \nIVA incluído à taxa normal \nEAAO-Processado por programa certificado \nn.2011/AT \nObrigado e Boa Viagem!"
+  }
+}

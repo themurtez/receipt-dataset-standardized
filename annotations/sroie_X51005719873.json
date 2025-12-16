@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Tealive Shell Kepong",
+    "address": "SHELL STATION PT15944, Mukim Batu, Jln Besar Kepong",
+    "phone": "",
+    "tax_id": "002570632-X",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-21",
+    "time": "15:46:09",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 8.6,
+    "tax": 0.48,
+    "tip": 0.0,
+    "total": 8.6,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Hazelnut Coco -L",
+      "quantity": 1,
+      "unit_price": 7.5,
+      "total_price": 7.5,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Pearl",
+      "quantity": 1,
+      "unit_price": 1.1,
+      "total_price": 1.1,
+      "category": "Add-on",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.4
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005719873.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Your order number is\n7290\ntealive\nCT281 - Tealive Shell Kepong\nOttogo Enterprise\n002570632-X\nGST ID: 001018802176\nSHELL STATION PT15944, Mukim Batu,\nJln Besar Kepong\nTAX INVOICE\nCounter: 7290 Take Away\nBill No: 394024495 COMPLETED\nDate: 21/01/2018 15:46:09\nSales Remarks\nItem Name Qty Price(RM)\nHazelnut Coco - L 1 7.50\n: Pearl 1 1.10\nSub Total RM8.60\nRounding RM0.00\nTotal Sales Incl GST @ 6% RM8.60\nCash 8.60\nTendered 9.00\nChange 0.40\nCode Amount\nSR @ 6% 8.12 0.48\nYou have just missed out 8 points\nSign up for a Tealive UniTea Card\ntoday to enjoy exclusive member\npromotions and collect BPoints to\nredeem on future purchases\nThank You Please Come Again\nPrinted at: 21/01/2018 15:46:09"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Garagem Auto Lis",
+    "address": "Rua da Palma, 273, 1100-391 Lisboa",
+    "phone": "218 868 163",
+    "tax_id": "510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-22",
+    "time": "10:30:04",
+    "currency": "EUR",
+    "payment_method": "NUMERARIO",
+    "subtotal": 50.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 50.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Gasoleo",
+      "quantity": 1,
+      "unit_price": 50.0,
+      "total_price": 50.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_181759.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GARAGEM AUTO LIS\nRecolha Automoveis da Lis, Lda.\nRua da Palma, 273 1100-391 Lisboa\nTelef: 21 868 163 Fax: 21 888 1627\nCap.Social: 9.975,% C: 501 470 492\nDt:22/06/2018 FATURA No:PD/001/1805081\nCliente No: 2583 Desc.x\nContribuinte No: 510776914\nFAT 0001\nLISBOA\nArtigo/Quant. V.Unit. Iva Valor\n93-QE-99\n0.00\nGASOLEO\n34.04 1.194 23.0 50.00\nINCIDENCIA DE IVA . Desc.\n23.0 40.65\nIVA \nTOTAL 50.00\n“Os Produtos/serviços constantes deste\ndoc foram colocados à disposição do\nadclente na data do mesmo”\nPRODUTO XENERGIA EMISSOES CO2\nPRIMARIA\nGasolina 100% Energia 2,3 kgCO2e/1\n(auto) Fossil\nGasolea 95% Energia 2,5 kgCO2e/1.\nRodoviario Fossil e\nCX Energia de\nOrigem Renov.\nGPL Butano 100% Energia 3,0 kgCO2e/kg\nPropano\nFossil\ndHKM - Processado por programa certifica\ndo nº 621/AT\nPagamento: NUMERARIO\nHora: 10:30:04\nESTE DOCUMENTO ENCONTRA-SE PAGO"
+  }
+}

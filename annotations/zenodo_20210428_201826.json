@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "EASY STYLE",
+    "address": "RUA FERNAO LOPES NO 2, 1000-132 LISBOA",
+    "phone": "927490955",
+    "tax_id": "240740831",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-29",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 9.76,
+    "tax": 2.24,
+    "tip": 0.0,
+    "total": 12.0,
+    "accounting_category": "office_supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PORTA CARTOES",
+      "quantity": 10,
+      "unit_price": 1.2,
+      "total_price": 12.0,
+      "category": "office_supplies",
+      "accounting_category": "office_supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 10,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_201826.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "EASY STYLE\nXIUCHUN CHEN\nContribuinte Nr: 240740831\nRUA FERNAO LOPES NO 2\n1000-132 LISBOA\nTel: 927490955\n2019-05-29\nNome : FLIKEHOME\nCont.Nr: 510776914\nMorada :\nORIGINAL\nFatura Nr: FAC 1101/00004180\nIVA Descricao Total\n23% PORTA CARTOES\n10 X 1.20 12.00\nTotal A Pagar Euros: 12.00\nNumero de Artigos : 10\nRecebido (Euros) : 12.00\nTroco (Euros) : 0.00\nIVA% Base IVA Total\n23% 9.76 2.24 12.00\nTotal: 12.00Euros\nFatura indispensavel para troca em 8 dias.\nOBRIGADO E VOLTE SEMPRE"
+  }
+}

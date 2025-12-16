@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Intermache Supermercados LDA",
+    "address": "Estrada Nacional 116, Km1 Edificio Intermarche",
+    "phone": "+351-261863624",
+    "tax_id": "514166362",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-12-12",
+    "time": "11:39:51",
+    "currency": "EUR",
+    "payment_method": "Dinheiro",
+    "subtotal": 25.01,
+    "tax": 4.68,
+    "tip": 0.0,
+    "total": 25.01,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GASOLEO",
+      "quantity": 18.82,
+      "unit_price": 1.329,
+      "total_price": 25.01,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_184210.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Intermache Supermercados LDA\nEstrada Nacional 116, Km1\nEdificio Intermarche\nCont. 514166362\nTel. 261-863624\nFriceira\nData: 12-12-2019 Hora: 11:39:51 POS: 1 Operador: 302\nFactura/Recibo Turno: 6004\nF1673P3T10AQ9G007EA965/15129\nQtd. Preco Un. Produto IVA Sub-total\nBomba:6 Margiura:4\nGASOLEO 18.82 lt 1.329 Eur/lt 25.01 Eur\nIVA 23 %\nNIF 0776914\nNome Cliente\nFEELSLIKEHOME\nMorada\nDescorhecido\nCheque Auto 25.00\nDinheiro 0.01\nIva 23.00 %: 4.68 Eur\nTotal Verda: 25.01 Eur\nBens/Servicos colocados ao dispor\ndo cliente final no acto da venda\nObrigado e Boa Viagem!"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Bota Minuto",
+    "address": "R. Quinta Palmirhal 31 D, Oeiras, Centro Comercial Amoreiras, Loja 5041",
+    "phone": "",
+    "tax_id": "506775914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-11-08",
+    "time": "19:15:00",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 13.5,
+    "tax": 3.1,
+    "tip": 0.0,
+    "total": 16.6,
+    "accounting_category": "Repair Service",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chave Palheta CSL",
+      "quantity": 1,
+      "unit_price": 14.2,
+      "total_price": 14.2,
+      "category": "Repair Service",
+      "accounting_category": "Repair Service",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chave Plana UL150",
+      "quantity": 1,
+      "unit_price": 2.4,
+      "total_price": 2.4,
+      "category": "Repair Service",
+      "accounting_category": "Repair Service",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 3.4
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_174017.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "bota minuto\nAMOREIRAS\nConsertos Rapidos Amoreiras, Lda\nSede: R. Quinta Palmirhal 31 D, Oeiras\nCentro Comercial Amoreiras, Loja 5041\n1070 Lisboa Tel: 210492675\nCap. Soc 5,000 Euros NIPC 506775502\nC.R. Com. Cascais N. 9955 / 2007\n\nExmo(s) Senhor(es):\nFLIKEHOME\nLISBOA\n\nNIF: 510775914 N.CLI.:PT510775914\nC 2/08150502\nFTR 6/17402 Data 2018-11-08 Original\nFactura\nVendedor: Esmivido Borges\n\nArt. Descriçao Qtds. Pr. Unit. Valor IVA\n\nCHAVE PALHETA 'CSL' / CI-4G ou CI-14G /\n559 1.00 14.200 14.20 23\nCHAVE PLANA UL150 / U-5D\n172 1.00 2.400 2.40 23\n\nTotal de pecas : 2\n\nVALOR LIQUIDO IVA VALOR IVA\n0.00 0 0.00\n0.00 6 0.00\n13.50 13 0.00\n13.50 23 3.10\n\nDESCONTO : 0.00\nTOTAL DOCUMENTO EURO 16.60\n\nNumerario 20.00\nTroco 3.40\n\nj / D - Processado por programa\n certificado N. 1627/AT\n\nLocal Carga : Nossa Morada Hora: 19:15\nLocal Descarga: Morada Cliente Hora: 23:59\nMatricula\nRef. : Nome: FLIKEHOME\n------------------------------------------------------\nObrigado Pela Visita - Volte Sempre\nTALAO INDISPENSAVEL P / ENTREGA - RECLAMACAO\nTROCAS PRAZO 1 MES\n"
+  }
+}

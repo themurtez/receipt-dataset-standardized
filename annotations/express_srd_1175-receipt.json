@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Bar Louie Huntsville",
+    "address": "365 The Bridge St., Suite 1, Huntsville, AL, 35806",
+    "phone": "",
+    "tax_id": "",
+    "website": "huntsville@barlouieamerica.com"
+  },
+  "transaction": {
+    "date": "2015-07-03",
+    "time": "16:42:00",
+    "currency": "USD",
+    "payment_method": "CASH",
+    "subtotal": 6.25,
+    "tax": 1.31,
+    "tip": 0.0,
+    "total": 7.56,
+    "accounting_category": "Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Whiskey",
+      "quantity": 1,
+      "unit_price": 6.25,
+      "total_price": 6.25,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 2.44
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1175-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Bar Louie Huntsville\n365 The Bridge St., Suite1\nHuntsville, AL, 35806\nServer: 07/03/2015\nCashier: 4:42 PM\n143/2 20111\nGuests: 1\nReprint #: 1\nWhiskey 6.25\nSubtotal 6.25\nTax 1.31\nTotal 7.56\nCASH 10.00\nChange 2.44\nThank you for visiting us!\nAsk us about hosting\nyour party or private event\nat Bar Louie Huntsville!\nEat, Drink, Be Happy!\nhuntsville@barlouieamerica.com\n--- Check Closed ---"
+  }
+}

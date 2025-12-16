@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Nascimento Da Silva Filhos LDA",
+    "address": "1070 029 Lisboa",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-01-24",
+    "time": "13:33:32",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 73.8,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 73.8,
+    "accounting_category": "Purchase",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Compra",
+      "quantity": 1,
+      "unit_price": 73.8,
+      "total_price": 73.8,
+      "category": "Purchase",
+      "accounting_category": "Expense",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_113425.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Santander\nNASCIMENTO DA SILVA\nFILHOS LDA\n1070 029 LISBOA\nIdent. TPA: 00470178\n2019/01/24 13:33:32\nPer: 1027 Tr: 004 N° 1937\nMILLENIUM BCP\nALMEIDA/JORGE\nCARTAO: ****1299/04\n501649FF20\nMULTIBANCO\nCOMPRA 73,80 €\nAUT: 386558 MB\nSANTANDER TOTTA\nSANTANDER TOTTA\nPROCESSADO POR SIBS"
+  }
+}

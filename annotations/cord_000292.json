@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "XXI Café",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2023-10-01",
+    "time": "12:00:00",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 40000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 40000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Mineral Water (S)",
+      "quantity": 2,
+      "unit_price": 10000.0,
+      "total_price": 20000.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Popcorn Salt (S)",
+      "quantity": 1,
+      "unit_price": 20000.0,
+      "total_price": 20000.0,
+      "category": "Snack",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000292.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "XXI Café\n\n2 Mineral Water (S) 20.000\n1 Popcorn Salt (S) 20.000\nTOTAL 40.000\nCASH\nCHANGED 40.000\n0"
+  }
+}

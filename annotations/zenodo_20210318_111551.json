@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "FERRAGENS IDEAL DA BOAVISTA, LDA",
+    "address": "RUA DA BOAVISTA N-172, 1200-070 LX",
+    "phone": "213465401",
+    "tax_id": "500602760",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-01-11",
+    "time": "08:52:25",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 10.57,
+    "tax": 2.43,
+    "tip": 0.0,
+    "total": 13.0,
+    "accounting_category": "Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BROCA",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Tools",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BROCA",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Tools",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ESQUADRO ZINCADO",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Tools",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PORCAS",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Hardware",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PARAFUSOS",
+      "quantity": 1,
+      "unit_price": 3.95,
+      "total_price": 3.95,
+      "category": "Hardware",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ANILHAS",
+      "quantity": 1,
+      "unit_price": 3.05,
+      "total_price": 3.05,
+      "category": "Hardware",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_111551.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "FiB\nFERRAGENS IDEAL DA BOAVISTA, LDA\nRUA DA BOAVISTA N-172 1200-070 LX\nC.SOCIAL:20.000eur C.R.C. N-49620 LX\nNIF:500602760 TEL:213465401\nIva Incluido as Taxas Legais m Vigor\nydPA - Processado por rograma Certificado n13/AT\nFactura:19FT 002/46 ORIGINAL\nDate:2019-01-11 8:52:25 A\nDoc Orig:\nNOC Inclente: 10001932\nNome: FLlKEHOME LDA\nContribuinte 510776914\nMorada: LX\nCod Postal:\nDescrigäo Pvu Qtd Desc. % Valor\nBROCA\n(D) 23% 1,00 1 1,00\nBROCA\n(D) 23% 1,50 1 1,50\nESQUADRO ZINCADO\n(D) 23 % 2,50 1 2,50\nPORCAS\n(D) 23% 1,00 1 1,00\nPARAFUSOS\n(D) 23% 3,95 1 3,95\nANILHAS\n(D) 23% 3,05 1 3,05\nzemas\nItens: 6 13,00\n(D)\nIliquido tax(V.Tax\n10,57 23 2,43\nTotal a Pagar: 13,00 €\n* MULTIBANCO\n13,00 €\nOBRIGADO PELA PREFERENCIA\nTALAO INDISPENSAVEL PARA TROCA\nNO PRAZO DE 30 DIAS"
+  }
+}

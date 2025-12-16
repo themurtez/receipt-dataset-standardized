@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "CP - Comboios de Portugal, E.P.E.",
+    "address": "Calçada do Duque 20, 1249-109 Lisboa",
+    "phone": "707 210 220",
+    "tax_id": "500498601",
+    "website": "www.cp.pt"
+  },
+  "transaction": {
+    "date": "2018-11-08",
+    "time": "18:49:26",
+    "currency": "EUR",
+    "payment_method": "Cartão de Débito",
+    "subtotal": 74.15,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 74.15,
+    "accounting_category": "Transport",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Metro/CP Sintra 30 dias Sintra/Lisboa Oriente",
+      "quantity": 1,
+      "unit_price": 74.15,
+      "total_price": 74.15,
+      "category": "Transport",
+      "accounting_category": "Transport",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_144329.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CP - Comboios de Portugal, E.P.E.\nCalçada do Duque 20\n1249-109 Lisboa\nNIF: 500498601\nTelha Carregamento No: 1664-544203\nFactura Simplificado no: FS 1664/250623\nData: 2018-11-08 18:49:26\nLocal: Mercês\nEquipamento: PVA CPLX Mercês 2 (X23821)\nN. turno: 1664-384\nOperador: João Grossinho\nNº Contribuinte: 510776914\nProduto Qt. Val.Liq.Unit. Val.Liq.Total\nMetro/CP Sintra 30 dias Sintra/Lisboa Oriente 1 € 74,15 € 74,15\nTotal a pagar (inc. IVA á 6%): € 74,15\nForma Pagamento: Cartão de Débito\nData Início Validade: 2018-03-10\nData fim Validade: 2018-12-08\nN° cartão: 7981152041\nSuporte n°: 2019531906 / 00300484710\nProcessado por programa certificado n. 92332/AT\nApoio ao Cliente 707 210 220\nwww.cp.pt"
+  }
+}

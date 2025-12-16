@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "H3 Tivoli Forum",
+    "address": "Av. Eng. Duarte Pacheco Loja 4, 1070-101 Lisboa",
+    "phone": "213870310",
+    "tax_id": "506784965",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-10-28",
+    "time": "14:04:53",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 6.55,
+    "tax": 0.95,
+    "tip": 0.0,
+    "total": 7.5,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "H3 Prato Grelhado",
+      "quantity": 1,
+      "unit_price": 6.55,
+      "total_price": 6.55,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_205932.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "h3 new hamburgoLogy\n\n    h3 Tivoli Forum\nH3 Portugal S.A.\nA: Av. Eng. Duarte Pacheco, 1070-101 Lisboa\nPostal: 1070 274 Lisboa\nTelefone: 213870310\nNo Contribuinte: 506784965\nRegisto na Cons. Lisboa no. 506784965\nCapital Social: 150,000,00 Euros\n\nNIF: 510767814\n\nFatura simplificada FS 190248274\nData: 2019-10-28 Hora: 14:04:53\nOriginal \nNo Artigo IVA Total\n1 H3 Prato Grelhado 13 6.55\n1 Médio Passado 13 0.00\n1 Arroz Thai 13 0.17\n1 Limonada H3 13 0.00\n\nPag. mesa 1\n\nConsultas:\nIVA incluído taxa legal em vigor\n\nGanhou 1 pontos!\nVisite tugaresiste.pt para consultar\n o seu saldo\n\nActualize já versão da app H3!\n\nIDTrans: 00006540653 IDTerm: 9002327\n\nRJUl Processado por programa\n certificado no. 0071/AT\n\nCopyright GrupoPIE SA"
+  }
+}

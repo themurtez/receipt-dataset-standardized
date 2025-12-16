@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Ferragens G Lemos, Lda",
+    "address": "Rua da Madalena, 101 - 107, 1100-319 Lisboa",
+    "phone": "218869341",
+    "tax_id": "501378723",
+    "website": "geral@viuva.com"
+  },
+  "transaction": {
+    "date": "2019-05-28",
+    "time": "09:28:00",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 16.26,
+    "tax": 3.74,
+    "tip": 0.0,
+    "total": 20.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "ASSENTO SANIT A EUROPA BRAN CO",
+      "quantity": 1,
+      "unit_price": 14.0,
+      "total_price": 14.0,
+      "category": "Home Improvement",
+      "accounting_category": "Furniture",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "FITA AUTO ADE SIVA 2-FACES",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Tools",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_224350.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Ferragens G Lemos, Lda\nRua da Madalena, 101 - 107\n1100-319 LISBOA\nContribuinte N. 501378723\nCapital Social 34.916,00 Euros\nTel.: 21 8689341/ Fax.: 218869158\nMail: geral@viuva.com\nNIF: 510776914\nNome: Flikehome - Mediacao Imobil\nMorada: AV da Liberdade N 36 1 An\nLocalidade: Lisboa\nCod.Postal: 1250-145 Lisboa\nFatura\nNIF: P0519V12/1910032 Original\nData: 28-05-2019 HORA: 09:28\nDESIGACAO IVAX QTD VALOR\nASSENTO SANIT A EUROPA BRAN CO 23 1.0 14.00\nFITA AUTO ADE SIVA 2-FACES 049521,5mt 23 1.0 6.00\nTaxa valor IVA T.Bruto: 20.26\n6 0.00 T.Dsc: 0.00\n23 3.74 T.Liq: 16.26\n13 0.00 T.IVA: 3.74\nA PAGAR: 20.00\nMULTIBANCO 20.00\nIno? Processado por programa cer\ntificado n. 775/AT"
+  }
+}

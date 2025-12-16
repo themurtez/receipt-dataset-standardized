@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "SIZZLING STONEGRILL",
+    "address": "Lot S25, AEON Tebrau City Jusco, No 1, Jln Desa Tebrau, Tmn Desa Tebrau, 81100 Johor Bahru, Johor",
+    "phone": "+607-357.1177",
+    "tax_id": "0013 7941 8112",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-26",
+    "time": "20:53:27",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 155.5,
+    "tax": 9.31,
+    "tip": 0.0,
+    "total": 164.8,
+    "accounting_category": "Dining",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "CREAM OF MUSHROOM SOUP",
+      "quantity": 2,
+      "unit_price": 6.1,
+      "total_price": 12.2,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "NOODLE SOUP O.T.ROCK",
+      "quantity": 1,
+      "unit_price": 12.9,
+      "total_price": 12.9,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "SPICY T/S SPAGHETTI",
+      "quantity": 2,
+      "unit_price": 34.9,
+      "total_price": 69.8,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "SIRLOIN STEAK",
+      "quantity": 1,
+      "unit_price": 19.9,
+      "total_price": 19.9,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "GRILLED MARINATED",
+      "quantity": 1,
+      "unit_price": 18.9,
+      "total_price": 18.9,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "GRILLED CHICKEN CHOP",
+      "quantity": 1,
+      "unit_price": 18.9,
+      "total_price": 18.9,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "ICED LEMON TEA",
+      "quantity": 1,
+      "unit_price": 6.9,
+      "total_price": 6.9,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 9,
+    "rounding": 0.01,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007231361.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SIZZLING STONEGRILL\nDimiliki Oleh : Dove Holdings Sdn Bhd\nReg No : 91694-X\nLot S25, AEON Tebrau City Jusco\nNo 1, Jln Desa Tebrau, Tmn Desa Tebrau,\n81100 Johor Bahru, Johor\n+607-357.1177\nGST ID: 0013 7941 8112\nTAX INVOICE NO 15\n80292\nDate: 26/05/2018 8:53:27 PM\nCashier: 001\nTax Qty Code/Desc Unit Price Total RM\nSR 2 6.10 12.20\n07 CREAM OF MUSHROOM SOUP\nSR 1 12.90 12.90\n101 NOODLE SOUP O.T.ROCK\nSR 2 34.90 69.80\n107 SPICY T/S SPAGHETTI\nSR 1 19.90 19.90\n40 SIRLOIN STEAK\nSR 1 18.90 18.90\n51 GRILLED MARINATED\nSR 1 18.90 18.90\n54 GRILLED CHICKEN CHOP\nSR 1 6.90 6.90\n99 ICED LEMON TEA\nTotal Amount : 155.50\nGST 6% 9.31\nRounding Adj : 0.01\nTotal Amount: 164.80\nTOTAL: RM 164.80\nType 7 Qty: 9 26/05/2018 8:53:37\nGST Summary Amount RM TAX RM\nSR 6% 155.50 9.31\nZR 0% 0.00 0.00\n... Xposmart WiFiPOS Since 1985 ..."
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "merchant": {
+    "name": "H3 New Hamburgology",
+    "address": "Centro Ourique, Av. José Bernardino, E S.A.C. 1070-051 Lisboa",
+    "phone": "Tel. P/ contactos: 918767057",
+    "tax_id": "C.S.: 511008965",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-07-14",
+    "time": "16:34:49",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 65.73,
+    "tax": 9.77,
+    "tip": 0.0,
+    "total": 75.5,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Coca-Cola Lata 0,33",
+      "quantity": 1,
+      "unit_price": 1.95,
+      "total_price": 1.95,
+      "category": "Beverage",
+      "accounting_category": "Food & Drinks",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Morzarella (Prato)",
+      "quantity": 1,
+      "unit_price": 1.15,
+      "total_price": 1.15,
+      "category": "Food",
+      "accounting_category": "Food & Drinks",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Arroz Thai",
+      "quantity": 1,
+      "unit_price": 2.75,
+      "total_price": 2.75,
+      "category": "Food",
+      "accounting_category": "Food & Drinks",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Coca-Cola 0,50",
+      "quantity": 1,
+      "unit_price": 1.14,
+      "total_price": 1.14,
+      "category": "Beverage",
+      "accounting_category": "Food & Drinks",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "H3 Prato",
+      "quantity": 6,
+      "unit_price": 7.75,
+      "total_price": 46.5,
+      "category": "Food",
+      "accounting_category": "Food & Drinks",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Batatas (Prato)",
+      "quantity": 2,
+      "unit_price": 1.75,
+      "total_price": 3.5,
+      "category": "Food",
+      "accounting_category": "Food & Drinks",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Batatas Rodelas",
+      "quantity": 2,
+      "unit_price": 2.05,
+      "total_price": 4.1,
+      "category": "Food",
+      "accounting_category": "Food & Drinks",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Limonada H3",
+      "quantity": 1,
+      "unit_price": 5.65,
+      "total_price": 5.65,
+      "category": "Beverage",
+      "accounting_category": "Food & Drinks",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Limonada de Maracuja",
+      "quantity": 1,
+      "unit_price": 5.85,
+      "total_price": 5.85,
+      "category": "Beverage",
+      "accounting_category": "Food & Drinks",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "H3 Prato (Pao)",
+      "quantity": 1,
+      "unit_price": 0.9,
+      "total_price": 0.9,
+      "category": "Food",
+      "accounting_category": "Food & Drinks",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Cafe Ristretto",
+      "quantity": 4,
+      "unit_price": 1.0,
+      "total_price": 4.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Drinks",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 16,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_205453.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "H3 New Hamburgology ... (full text truncated for brevity)"
+  }
+}

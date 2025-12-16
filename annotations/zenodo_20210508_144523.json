@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "R Actor António Silva, N 7, 1600-033 Lisboa",
+    "phone": "213 247 330",
+    "tax_id": "502690933",
+    "website": "www.pingodoce.pt"
+  },
+  "transaction": {
+    "date": "2018-10-06",
+    "time": "12:30:00",
+    "currency": "EUR",
+    "payment_method": "Card",
+    "subtotal": 1.15,
+    "tax": 0.26,
+    "tip": 0.0,
+    "total": 1.41,
+    "accounting_category": "Household",
+    "category_confidence": 0.8
+  },
+  "items": [
+    {
+      "name": "DETERG. E PROD. LIMPEZA",
+      "quantity": 1,
+      "unit_price": 1.15,
+      "total_price": 1.41,
+      "category": "Cleaning Supplies",
+      "accounting_category": "Household",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_144523.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "pingo doce\nfaca bem proveito\n1o Dezembro\nTel.: 213 247 330\nPingo Doce Distribuicao Alimentar, S.A\nSede: R Actor António Silva, N°7. 1600-033 Lisboa\nCap. Social e Cautelar 51.80E VAT/CIVA - 502690933\nResgisto C.R.C. Lismo NIPCEE: PT5010730\nTax: Total to pay: 105.18 EUR\nArtigos\nDETERG. E PROD. LIMPEZA 1,41\n+ E 23% INF CAP. ULTRA FROSO\nResumo IVA: 1 . 41\n\nTOTAL A PAGAR\nPagamentos\n\nTOTAL PAGO 20,00\nTROCO 18.59\nResmo IVA\n\nTabela Valor s/IVA Valor IVA Valor c/IVA\nE23% 1.15 0.26 1.41\n\nRoupa Mais\n\nPara utilizar os descontos Maiores MAX\nregistre-se em www.poupamais.pt\n\nAttendido por: INES COELHO\n\n002461 175268 2018-10-06 12:30 100003 0004 0451\n\nFatova/Recibo: FT 0451004110616/10710963\nData Emissão: 06-10-2018\n\nN Contribuinte: 510767914\n\nNome : FLIKEMEMME\nMorada: LISBOA\nLisboa\nM\n\nLocal carga: 19 Dezembro\nLocal descarga: Morada do cliente\nData: 2018-10-06 Hora: 12:30\n\n15%4 Processado por programa\ncertificado 2590/AT\n\nFactava necessaria para troca em 15 dias\nArtigos Têxtil Calçado prazo 30 dias\nNão se trocam documentos artigos assinalados\n\nApoio ao Cliente\n808 20 45 45/210 114 141 (24 horas)\nwww.pingodoce.pt\nPREÇOS SEMPRE BAIXOS E\nGRANDES OPORTUNIDADES\nDE POUPANÇA IMEDIATA"
+  }
+}

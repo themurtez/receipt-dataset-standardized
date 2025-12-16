@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "XXI Cafe",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 50.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 50.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Caramel Medium",
+      "quantity": 1,
+      "unit_price": 50.0,
+      "total_price": 50.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000783.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "XXI Cafe\n\n1 Caramel Medium 50.000\n\nTOTAL 50.000\n\nCASH 50.000\nCHANGED 0"
+  }
+}

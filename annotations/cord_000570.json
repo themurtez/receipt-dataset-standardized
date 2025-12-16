@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Tous Les Jours",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 43500.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 43500.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Redbean Bread",
+      "quantity": 1,
+      "unit_price": 9000.0,
+      "total_price": 9000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Kaya Bun",
+      "quantity": 1,
+      "unit_price": 9500.0,
+      "total_price": 9500.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Real Milk Choco Bread",
+      "quantity": 2,
+      "unit_price": 12500.0,
+      "total_price": 25000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 7000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000570.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TOUS LES JOURS\n\n1 REDBEAN BREAD 9,000\n1 KAYA BUN 9,500\n2 REAL MILK CHOCO BREAD 25,000\n\nTOTAL 43,500\nCASH 50,500\nCHANGE 7,000"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Fill In Enterprise",
+    "address": "Lot 2407, Jalan Dua, 52100 Kepong Baru, KL",
+    "phone": "03-62587995",
+    "tax_id": "001229619200",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-03",
+    "time": "00:23:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 100.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 100.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "FuelSave 95",
+      "quantity": 45.45,
+      "unit_price": 2.2,
+      "total_price": 100.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008114321.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "FILL IN ENTERPRISE\nCompany No: MA0057302-M\nLot 2407, Jalan Dua\n52100 Kepong Baru, KL\nSite: 2076\nTelephone: 03-62587995\nGST No: 001229619200\n>>>>>>> Pre-Authorisation <<<<<<<\nPre auth code A01A1527956635\n\n45.45 litre Pump # 12\nFuelSave 95 RM 100.00 C\n 2.200 RM / litre\n----------------------------------------\nTotal RM 100.00\nCash RM 100.00\n\nRelief GST C RM 0.00\nTotal Gross C RM 100.00\n\nCashier:\nBHasan\n\nThis is not the final fiscal receipt\n\nDate Time Num POS CNo Shift\n03/06/18 00:23 34001 01 5093 868\n\nDiesel & Petrol RON95 given Relief\nunder Section 56 (3) (b) GST Act 2014\n\nThank You and Please Come Again"
+  }
+}

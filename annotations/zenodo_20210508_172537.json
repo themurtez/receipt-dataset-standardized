@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "WRT Amoreiras",
+    "address": "Edifício Amoreiras Plaza, Rua Maria Ulrich 1 1070-169 Lisboa",
+    "phone": "",
+    "tax_id": "PT506330330",
+    "website": "www.worten.pt"
+  },
+  "transaction": {
+    "date": "2018-11-25",
+    "time": "19:17:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 49.99,
+    "tax": 9.33,
+    "tip": 0.0,
+    "total": 50.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Irrad. Oleo",
+      "quantity": 1,
+      "unit_price": 49.99,
+      "total_price": 49.99,
+      "category": "Home Appliances",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.01,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_172537.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "WRT Amoreiras\nWORTEN Equipamentos para o Lar SA\nEdifício Amoreiras Plaza, Rua Maria Ulrich 1 1070-169 Lisboa\nRegistado CRC Porto sob o n° 506330330\nNIF: PT506330330 C.S: 4.600.000,00 EUR Sirref: F000/257\nFatura Original\nFatura: F1 HRX001 63/11/18 25/11/2018 19:17\nCliente: FINKEROHE MEDIACAO IMOBILIARIA LDA\nNIF: PT50776914\nMorada: LISBOA\nLocal: LISBOA\nC. Postal: 1250.145\nIVA DESCRICÃO VALOR\n(C) 5501980528580 IRRAD. OLEO 49,99\nTOTAL A PAGAR 49,99\nNumerario 50,00\nTROCO 0,01\n(T.IVA %IVA Inc. TotaIVA Total\n23,00 9,33 49,99\n1810250600190907751999\nnfi-Processado por programa certificado N. 1356/\n5196 0041 9027 235226 - 10007021759 506\nLocal carga: Morada da loja\nLocal descarga: Morada do cliente\nData: 25/11/2018 Hora: 19:17\nIVA INCLUIDO\nTalao Indispensavel para troca\nPrazo de devolucao: 15 dias\n*** OBRIGADO ***\nNao estao abrangidos pela politica de satisfacao/devolucao os artigos com ativacao na caixa\nPara mais informacoes consultar www.worten.pt"
+  }
+}

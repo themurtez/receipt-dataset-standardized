@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Carvalho, Batista, Lda",
+    "address": "Rua D. Estefânia, 191-B, 1000-154 Lisboa",
+    "phone": "213 157 838",
+    "tax_id": "500537380",
+    "website": "www.carvalhobaptista.com"
+  },
+  "transaction": {
+    "date": "2019-04-09",
+    "time": "12:09:50",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 5.29,
+    "tax": 1.22,
+    "tip": 0.0,
+    "total": 6.51,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Lampada Philips Tld 18",
+      "quantity": 1,
+      "unit_price": 5.29,
+      "total_price": 5.29,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_182133.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Carvalho, Batista, Lda\nSEDE: Rua D. Estefânia, 191-B\nLOJA E SHOWROOM: Loja: Rua D. Estefânia, 98 E\n1000-154 LISBOA \nTel: 213 157 838 · Fax: 213 153 786\nNIF: 500537380\nEmail: carvalho.baptista.lda@gmail.com\nSite: www.carvalhobaptista.com\n\nFatura/RC POS Num. 2560 - 17\nFatura FT 2019471/2560 - 2019-04-09/12:09:50\nOp: Jorge Custódio\n\nNome: FLIKEHOME LDA\nMORADA:\nNIF: 510776914\nLOCAL: LISBOA\n\nSoftware PHC dlv8-Processado por\nprograma certificado nº 0006/AT (20180728)\n\nQTD P.U.N. PRODUTO IVA TOTAL\n1.00 x 5.29 Lampada Philips Tld 18 23% 5.29\n\nTotal líquido 5,29\nIVA total 1,22\n\nTOTAL EURO 6,51\n\nTAXA B.INC. IVA I TAXA B.INC. IVA\n6% 0,00 0,00 I 13% 0,00 0,00\n23% 5,29 1,22\n\nDocumento indispensável para troca no prazo de 10 dias.\nNão efectuamos devolução de dinheiro.\n\nOs artigos foram colocados à disposição do adquirente\nem 09.04.2019\n\nObrigado pela visita, volte sempre!"
+  }
+}

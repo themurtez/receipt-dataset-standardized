@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "ROGERIO PAIS, LDA",
+    "address": "AVENIDA ALMIRANTE REIS, 9 - E, 1150-007 LISBOA",
+    "phone": "218853901",
+    "tax_id": "501276914",
+    "website": "www.ticassgest.pt"
+  },
+  "transaction": {
+    "date": "2019-04-29",
+    "time": "16:46:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 28.46,
+    "tax": 6.54,
+    "tip": 0.0,
+    "total": 35.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Cremone ALPHA 620",
+      "quantity": 2,
+      "unit_price": 17.5,
+      "total_price": 35.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_203645.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROGERIO PAIS, LDA\nFERRAGENS * FERRAMENTAS * MAQUINAS * UTILIDADES\nAVENIDA ALMIRANTE REIS, 9 - E 1150-007 LISBOA\ntel/Fax 218853901 Tel. 966008696\n* Sociedade por quotas * Capital Social £\n5.012,92 REG.CRC. 34852\nNIB: 0033 0000 01280286423 52\n\n2019-04-29 FATURA SIMPLIFICADA N:\nOriginal FS 1A1901/3392\n16:46 BALCAO 1\n\nContribuinte: 510776914\n\nDESCRICAO IVA VALOR\n2 Cremone ALPHA 620 c/ ch 23%\nPreco: 17,50/UNIDADE 35,00\n\nTAXA IVA INCID.\n23% 6,54 28,46\nTotal INDICENCIAS: 6,54\n\nTOTAL:\nEur 35,00\n\nPago em Numerario\nValor entregue: 35,00\nTroco: 0.00\n\nImplementado por www.ticassgest.pt\n\nVCom-Processado por programa\ncertificado n. 217/AT\n\nOs servicos e/ou bens foram realizados e/ou colocados a disposicao do adquirente nesta data (Art . 36 do CIVA, No5 alinea F)\n\nLicenca: ROGERIO PAIS, LDA\nContribuinte: 500544000"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "BreadLife",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 42500.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 42500.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Hero",
+      "quantity": 2,
+      "unit_price": 11500.0,
+      "total_price": 23000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Choco Bite",
+      "quantity": 3,
+      "unit_price": 6500.0,
+      "total_price": 19500.0,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 7500.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000469.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BreadLife\n\n----------------------------------\n2 Hero 23,000\n3 Choco Bite 19,500\n----------------------------------\nSUBTOTAL 42,500\nDUE 42,500\nROUNDING 0\nCASH 50,000\nCHANGE 7,500\n\nTOTAL QTY 2 ITEM 5 PCS\n"
+  }
+}

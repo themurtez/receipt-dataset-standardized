@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Royaltea",
+    "address": "KSL City GF-S03B, No.33, Jalan Seladang Taman Abad, 80250 Johor Bahru, Johor, Malaysia.",
+    "phone": "",
+    "tax_id": "000000241664",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-02",
+    "time": "14:58:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 13.1,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 13.1,
+    "accounting_category": "Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Cheese Matcha",
+      "quantity": 1,
+      "unit_price": 13.1,
+      "total_price": 13.1,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 2.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007846403.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "**Royaltea**\n(1237365-V)\nGST NO :000000241664\n.\nKSL City\nGF-S03B\nNO.33 , Jalan Seladang Taman Abad,\n80250 Johor Bahru,\nJohor,Malaysia.\n\nWifi:Royaltea KSL\nPassword:RoyalteaS03B\n\nTAX INVOICE\nInvoice No : KSL001/26988\nDate : 02/06/2018 #1 2:57 PM\nCashier : Admin\nRef No : 35 ta\nPRN ON : 02/06/2018 2:58 PM\n\nQTY ITEM\n----------------------------------------------------\nRM\n----------------------------------------------------\n*** Retail/Takeaway ***\n1 Cheese Matcha 13.10 SR\n1 Cold\n\n1 SubTotal 13.10\nNet Total 13.10\n\nCash 15.10\nCHANGE 2.00\n----------- *** 02/06/2018 2:58 PM *** ------------\nTax Summary Amount Tax\nSR:GST @0% 13.10 0.00\n\nTHANK YOU, PLEASE COME AGAIN\nGoods Sold Are Non Refundable"
+  }
+}

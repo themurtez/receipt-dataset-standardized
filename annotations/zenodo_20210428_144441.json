@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "ROGERIO PAIS, LDA",
+    "address": "AVENIDA ALMIRANTE REIS, 9-E 1150-007 LISBOA",
+    "phone": "218853901",
+    "tax_id": "500544000",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-15",
+    "time": "16:29:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 2.97,
+    "tax": 0.68,
+    "tip": 0.0,
+    "total": 3.65,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Cola PATEX bisnaga 50gr",
+      "quantity": 1,
+      "unit_price": 2.97,
+      "total_price": 3.65,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_144441.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROGERIO PAIS, LDA\nFERRAGENS * FERRAMENTAS * MAQUINAS * UTILIDADES AVENIDA ALMIRANTE REIS, 9-E * 1150-007 LISBOA Tel/Fax 218853901 Tel. 966008696 * Sociedade por quotas * Capital Social 5.012,92€ REG.CRC. 34852 NLb: 0033 0002 0128028463 52 2019-02-15 FATURA SIMPLIFICADA N: Original FS IA1901/1404 16:29 BALCAO 1 Contribuinte: 510776914 DESCRICAO IVA VALOR 1 Cola PATEX bisnaga 50gr 23% 3,65 TAXA IVA INCID. 23% 0,68 2,97 TOTAL INCIDENCIAS: TOTAL: Eur 3,65  Pego em Numerario Valor entregue: 3,65 Troco: 0,00 Implementado por www.ticasgest.pt jbS7-Processado por programa certificado n. 217/AT Os servicos e/ou bens foram realizados e/ou colo cados a disposicao do adquirente nesta data (Art . 36 do CIVA, No5 alinea F) Licenca: ROGERIO PAIS, LDA Contribuinte: 500544000"
+  }
+}

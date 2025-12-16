@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "BCA DEBIT",
+    "subtotal": 301003.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 301003.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Crunchy Wings (5) Louisiana",
+      "quantity": 1,
+      "unit_price": 199910.0,
+      "total_price": 199910.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Bag (5) Boneless",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.7
+    },
+    {
+      "name": "Steam Rice",
+      "quantity": 4,
+      "unit_price": 29182.0,
+      "total_price": 116728.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "FF Soft Drink (M)",
+      "quantity": 2,
+      "unit_price": 22727.0,
+      "total_price": 45454.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Mush Fritters",
+      "quantity": 1,
+      "unit_price": 301003.0,
+      "total_price": 301003.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.7
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000754.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "5 Crunchy Wings(S) Louisiana 199910\n25 Louisiana Rub\n3 1oz Honey mustard\n2 1oz Ranch\n5 Bag0 (5) Boneless\n5 Asian Spice\n5 Sumer Spice\n5 Red Hot Cajun\n5 Atomic Blast\n5 Plain Flavour\n4 Steam Rice 29182\n2 FF SoftDrink (M) 22727\n1 Mush Fritters 301003\nBCA DEBIT\nFood 242729\nBeverage 30910\nPB1 27364\nTotal 301003\nChange Due 0"
+  }
+}

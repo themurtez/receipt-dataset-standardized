@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 107400.0,
+    "tax": 11706.0,
+    "tip": 0.0,
+    "total": 128764.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "IO9.NG NANAS",
+      "quantity": 1,
+      "unit_price": 49800.0,
+      "total_price": 49800.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "DE13.PSANG IJO MDM",
+      "quantity": 1,
+      "unit_price": 29800.0,
+      "total_price": 29800.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CT12.BLK JELY KPI IC",
+      "quantity": 1,
+      "unit_price": 29800.0,
+      "total_price": 29800.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000179.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 IO9.NG NANAS                          49,800\n1 DE13.PSANG IJO MDM               29,800\n1 CT12.BLK JELY KPI IC              29,800\n\nSUBTOTAL                                       107,400\nSC 7%                                             7,658\nTAX 10%                                       11,706\n\nTOTAL                                         128,764\nTotal item 4\nTotal Qty = 4"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "Carvalho, Batista, Lda.",
+    "address": "Rua D. Estefania, 191-B, 1000-154 Lisboa",
+    "phone": "213 157 838",
+    "tax_id": "500537380",
+    "website": "www.carvalhobatista.com"
+  },
+  "transaction": {
+    "date": "2019-05-29",
+    "time": "12:19:16",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 98.38,
+    "tax": 22.63,
+    "tip": 0.0,
+    "total": 121.01,
+    "accounting_category": "Hardware",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Fechadura in.20.705",
+      "quantity": 1,
+      "unit_price": 4.6,
+      "total_price": 4.6,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ferrolho 57x60",
+      "quantity": 17,
+      "unit_price": 1.0,
+      "total_price": 17.0,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cilindro Normal 30x30",
+      "quantity": 1,
+      "unit_price": 10.5,
+      "total_price": 10.5,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cadeado Sady 25mm",
+      "quantity": 2,
+      "unit_price": 3.3,
+      "total_price": 6.6,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Fecho Tic-Tac P Moveis",
+      "quantity": 6,
+      "unit_price": 0.25,
+      "total_price": 1.5,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ficha Hacho 10 A Branc",
+      "quantity": 1,
+      "unit_price": 1.25,
+      "total_price": 1.25,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Broca aco rapido HSS 2",
+      "quantity": 1,
+      "unit_price": 1.25,
+      "total_price": 1.25,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Rebites Pop Alun.cego",
+      "quantity": 10,
+      "unit_price": 0.35,
+      "total_price": 3.5,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 39,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_202721.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Carvalho, Batista, Lda.\nSEDE: Rua D. Estefania, 191-B\nLOJA E SHOWROOM: Loja: Rua D. Estefania, 98 E\n1000-154 LISBOA\nTel: 213 157 838 | Fax: 213 153 786\nNIF: 500537380\nEmail: carvalho.baptista.lda@gmail.com\nSite: www.carvalhobatista.com\n\nFatura/RC POS - Num. 3735 - 17\nFatura FT 2019/17/3735 - 2019-05-29/12:19:16\nOp: Jorge Custódio\n\nNOME: FLIXEHOME LDA\nMORADA:\nNIF: 510776914\nLOCAU: LISBOA 1350-302\nSoftware PHC - z7tu-Processado por\nprograma certificado no 0006/AT (20190407)\n\nQTD P.UN. PRODUTO IVA TOTAL\n1.00 x 4.60 Fechadura in.20.705 6 23% 4.60\n17.00 x 1.00 Ferrolho 57x60 m/n Zin 23% 17.00\n1.00 x 10.50 Cilindro Normal 30x30 23% 10.50\n2.00 x 3.30 Cadeado Sady 25mm 23% 6.60\n6.00 x 0.25 Fecho Tic-Tac P Moveis 23% 1.50\n1.00 x 1.25 Ficha Hacho 10 A Branc 23% 1.25\n1.00 x 1.25 Broca aco rapido HSS 2 23% 1.25\n10.00 x 0.35 Rebites Pop Alun.cego 23% 3.50\nTotal liquido 98.38\nIVA total 22.63\nTOTAL EURO 121.01\n\nTrâº\nTAXA M.TAX INC. IVA\n23% 0,00 13% 0.00\n22.63\n\nDocumento indispensavel para troca no prazo de 10 dias.\nNao efectuamos devolucao de dinheiro.\nArtigos foram colocados a disposição do adquirente\nem 29.05.2019\n\nObrigado pela visita, volte sempre!\n"
+  }
+}

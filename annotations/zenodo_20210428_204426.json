@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "ROGERIO PAIS, LDA",
+    "address": "AVENIDA ALMIRANTE REIS, 9-E, 1150-007 LISBOA",
+    "phone": "218853901",
+    "tax_id": "500544009",
+    "website": "www.t1casget.pt"
+  },
+  "transaction": {
+    "date": "2019-05-17",
+    "time": "17:31:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 8.13,
+    "tax": 1.87,
+    "tip": 0.0,
+    "total": 10.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Cartucho p/ monocomando",
+      "quantity": 2,
+      "unit_price": 5.0,
+      "total_price": 10.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_204426.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROGERIO PAIS, LDA\nFERRAGENS * FERRAMENTAS * MAQUINAS * UTILIDADES\nAVENIDA ALMIRANTE REIS, 9-E * 1150-007 LISBOA\nTel/Fax 218853901 Tel. 966006896\nContribuinte: 510776914\n2019-05-17 FATURA SIMPLIFICADA N:\n17:31 BALCA O 1\nDESCRICAO IVA VALOR\n2 Cartucho p/ monocomando 23% 10,00\nPreco: 5,00/UNIDADE\nTAXA IVA INCI.D.\n23% 1,87 8,13\nTOTAL:\nEur 10,00\nPago em Numerdrio\nValor entregue: 10,00\nTroco: 0,00\nImplementado por www.t1casget.pt\n1982-Processado por programa\ncertificado n.o 217/AT\nLicenca: ROGERIO PAIS, LDA\nContribuinte: 500544009"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Galp",
+    "address": "Qt. S. Jose dos Quartos, Apartado 2, 2601-906 Castanheira",
+    "phone": "212796471",
+    "tax_id": "PT502876355",
+    "website": "galp.com"
+  },
+  "transaction": {
+    "date": "2019-09-24",
+    "time": "10:44:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 80.0,
+    "tax": 14.96,
+    "tip": 0.0,
+    "total": 94.96,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Gasoleo Simples",
+      "quantity": 54.46,
+      "unit_price": 1.469,
+      "total_price": 80.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_181303.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "galp\nDOCUMENTO DE VENDA\nGASNUNOS DISTR. COM GAS. LDA 1134\nGASNUNOS DISTR. COM GAS. LDA\nQT. S. JOSE DOS QUARTOS APARTADO 2\n2601-906 CASTANHEIRA\nTel: 212796471\nNIF PT502876355\nFactura/Recibo\nQuantidade Preço\nPreco Unitário\n54,46 L Bomba 03\nGASOLEO SIMPLES EUR 80.00 A\n1.469 EUR/L EUR 0.00\nTotal\n23.00% IVA A EUR 14.96\nCliente: 1856\nNome: FLIKEHOME\nMorada:\nLocalidade:\nNº Contribuinte: 510778914\nMatricula: 69-UE-53\nOperador: Ricardo Cunha\nDoc: A\n022011004698FAA0000113462019/000025034\nUfwo Processado por Programa\nCertificado n.o 1395/AT\nData Hora Nº Int POS Nº Oper turno\n24-09-19 10:44 50882 02 0011 402\nTotal\nEUR 80.00\nEUR 94.96\nNUMERO: IO\n099952086089368..."
+  }
+}

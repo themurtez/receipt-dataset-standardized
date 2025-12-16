@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "FRANCISCO METRASS",
+    "address": "PINGO DOCE, Lisboa",
+    "phone": "213828600",
+    "tax_id": "510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-12",
+    "time": "11:16:00",
+    "currency": "EUR",
+    "payment_method": "VISA ELECTRON",
+    "subtotal": 11.35,
+    "tax": 0.57,
+    "tip": 0.0,
+    "total": 9.95,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Pipocas Doce 150g",
+      "quantity": 1,
+      "unit_price": 0.89,
+      "total_price": 0.89,
+      "category": "Snack",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Mix F. Secos Croa",
+      "quantity": 1,
+      "unit_price": 1.99,
+      "total_price": 1.99,
+      "category": "Snack",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sals Nobre 8 Uni",
+      "quantity": 1,
+      "unit_price": 2.09,
+      "total_price": 2.09,
+      "category": "Meat",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Uva Branca S/Graina",
+      "quantity": 1,
+      "unit_price": 2.69,
+      "total_price": 2.69,
+      "category": "Fruit",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Iogurte Liquido",
+      "quantity": 1,
+      "unit_price": 2.69,
+      "total_price": 2.69,
+      "category": "Dairy",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_194128.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "FRANCISCO METRASS\nTel. 213828600\nPingo Doce\nDistribuidor Alimentar, S.A.\nSede: R. Actor Antonio Silva, N7,1649-033 Lisboa\nRegisto C.R.C. Lisboa-Matricula:NIP: 500297896\nANREEE: 1P001730.0 - Soc.ist 33 806,115 EUR\n\nArtigos\nMERCARIA + PET FOOD\nE 23% PIPOCAS 00015 P0 150 0,89\nE 23% MIX F. SECOS CROA 1 1,99\nE 23% SALS NOBRE 8 UN 2,09\nPoupanga Imediata\nFRUTAS E VEGETAIS\nC 6% UVA BRANCA S/GRAINA 2,69\nPRODUTOS LACEOS\nC 6% 1L IO YOGUIA 4X160G 2,69\nPoupanga Imediata\nResumo\nTOTAL 11,35\nTOTAL POUPANCA 1,40 €\nTOTAL A PAGAR 9,95\nTOTAL PAGO Pagamentos\nMultibanco 9,95\n\nTaxa Valor Resumo IVA\nE 23% 4,04 0,24 Valor IVA Valor c/IVA\nC 6% 7,31 11,11 0,16 4,28\n\nNESTA COMPRA POUPOU\n1,40 €\n\nAtendido por: Priti Bala\n\n273903 2019-05-12 11:16 0011 0005 0442\n\nJ2AV-Processado por programa certificado 369/AT\nFatura Simplificada FS 04402005910100621/V02054\n1a Via Original Data de emissa: 12-05-2019\nN. Contribuinte: 510776914\nPINGO DOCE SA\nFRANCISCO METRASS\n1350-144 LISBOA\nTerminal Pagamento Automático: 00115341\n2019-05-12 11:14:47 Per009 Tr063c Msg919\nMILLENNIUM BCP\nRODRIGUES/CARLOS\nCARTAO: *****8666/14\nA0000000032010 v. VISA ELECTRON\nCOMPRA q 9,95€ VELC PP N\nID ESTAB: 000707885 AUT: 739678\nINOVACE CONFIANCA\nCOPIA CLIENTE\nPROCESSADO POR SIBS"
+  }
+}

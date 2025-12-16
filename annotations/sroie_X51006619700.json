@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (KUCAI) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300, SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000473792512",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-01-10",
+    "time": "14:46:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 7.64,
+    "tax": 0.46,
+    "tip": 0.0,
+    "total": 8.1,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ANTI SLIP MAT 820# 30*50CMXVS",
+      "quantity": 3,
+      "unit_price": 2.7,
+      "total_price": 8.1,
+      "category": "Home Goods",
+      "accounting_category": "Home Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 2.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619700.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. DIY. (KUCAI) SDN BHD\nCo-REG:750441-W\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG;\n43300, SERI KEMBANGAN, SELANGOR\n(GST ID No :000473792512)\n(KEPONG)\n-TAX INVOICE-\n\nANTI SLIP MAT 820# 30*50CMXVS *S\nMH22/3 - 6/120\n9067301 3 X 2.70 8.10\nItem(s) = 1 Qty(s) = 3\n\nTOTAL INCL. GST@6% RM 8.10\nCASH RM 10.10\nCHANGE RM 2.00\n\nGST @6% included in total RM 0.46\n\n10-01-16 14:46 SHO2 B003 T2 R000310319\nOPERATOR TRAINEE\n\nEXCHANGE ARE ALLOWED WITHIN\n3 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

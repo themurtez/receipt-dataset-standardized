@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "KEDAI PAPAN YEW CHAN",
+    "address": "LOT 276 JALAN BANTING, 43800 DENGKIL, SELANGOR",
+    "phone": "03-87686092",
+    "tax_id": "000781500416",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-08",
+    "time": "14:58:00",
+    "currency": "MYR",
+    "payment_method": "cash",
+    "subtotal": 295.0,
+    "tax": 17.7,
+    "tip": 0.0,
+    "total": 312.7,
+    "accounting_category": "hardware",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "101756 SIMEN",
+      "quantity": 10,
+      "unit_price": 17.49,
+      "total_price": 174.9,
+      "category": "building materials",
+      "accounting_category": "cost of goods sold",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "101870 PASIR HALUS (D)",
+      "quantity": 2,
+      "unit_price": 68.9,
+      "total_price": 137.8,
+      "category": "building materials",
+      "accounting_category": "cost of goods sold",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 12,
+    "rounding": 0.0,
+    "change_due": 37.3
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005724623.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KEDAI PAPAN YEW CHAN\n(05580185-K)\nLOT 276 JALAN BANTING\n43800 DENGKIL, SELANGOR.\nTEL: 03-87686092 FAX: 03-87686092\nGST ID: 000781500416\nTAX INVOICE\nBill To\nSUCH AIAM JAYA TRANSPORT\nNO 1 JALAN AMAN 2\nTAMAN DESA 43800\nDENGKIL, SELANGOR\n017\nD IN X CS00010612 Date: 08/03/2018\nUSER Time: 14:58:00\nItem\n101756\nSIMEN\n101870\nPASIR HALUS (D)\nTotal Qty:\n(GST)\nS/Price 10 50\nS/Price\n65.00\nAmount\n174.90\n137.80\n312.70\n17.49\n68.90\nQty\n(T)\nSR\nTotal Sales (Excluding GST) : 295.00\nDiscount :\nTotal GST : 17.70\nRounding : 0.00\nTotal Sales (Inclusive of GST) : 312.70\nCASH : 350.00\nChange : 37.30\nST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR 6 295.00 17.70\nTotal : 295.00 17.70\nGOODS SOLD ARE NOT RETURNABLE"
+  }
+}

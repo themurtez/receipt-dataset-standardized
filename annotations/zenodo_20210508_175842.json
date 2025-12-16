@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "ROGERIO PAIS, LDA",
+    "address": "AVENIDA ALMIRANTE REIS, 9-E, 1150-007 LISBOA",
+    "phone": "218853901",
+    "tax_id": "510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-15",
+    "time": "16:13:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 8.86,
+    "tax": 2.04,
+    "tip": 0.0,
+    "total": 10.9,
+    "accounting_category": "Hardware",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Asa inox ALFA 2071.200m",
+      "quantity": 1,
+      "unit_price": 10.0,
+      "total_price": 10.0,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Tampa caixa aparelhagem",
+      "quantity": 2,
+      "unit_price": 0.3,
+      "total_price": 0.6,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Tampa caixa aplique",
+      "quantity": 1,
+      "unit_price": 0.3,
+      "total_price": 0.3,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_175842.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROGERIO PAIS, LDA\nFERRAGENS • FERRAMENTAS • MAQUINAS • UTILIDADES\nAVENIDA ALMIRANTE REIS, 9-E * 1150-007 LISBOA\nTel/Fax 218853901 Tel. 966008696\n* Sociedade por quotas * Capital Social\n5.012,92€ REG.CRC. 34852\nNIB: 0033 0000 01280286463 52\n2018-06-15 FATURA SIMPLIFICADA N:\nOriginal FS 1A1801/5155\n16:13 BALCAO 1\nContribuinte: 510776914\nDESCRICAO IVA VALOR\n1 Asa inox ALFA 2071.200m 23% 10,00\n1 Tampa caixa aparelhagem 23% 0,60\nPreco: 0,30/UNIDADE\n2 Tampa caixa aplique 23% 0,30\nPreco: 0,15/UNIDADE\nTAXA\nIVA INCID. \n23% 2,04 8,86\nTOTAL INCIDENCIAS: 2,04 8,86\nTOTAL: Eur 10,90\nPago em Numerario 10,90\nValor entregue: 0,00\nTroco: 0,00\nImplementado por www.ticasgest.pt\n\n\n\n\n\n\n\n\n\n\n"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Botaminuto",
+    "address": "R. Alfredo Silva, Lt. 275-656 B. D R 1300-051 Lisboa, Portugal",
+    "phone": "210994257",
+    "tax_id": "506175502",
+    "website": "www.botaminuto.com"
+  },
+  "transaction": {
+    "date": "2019-03-15",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 29.4,
+    "tax": 0.6,
+    "tip": 0.0,
+    "total": 29.4,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CHAVE ALIMENTO CSLC / CI-3G CI-135",
+      "quantity": 2,
+      "unit_price": 14.7,
+      "total_price": 29.4,
+      "category": "Key Service",
+      "accounting_category": "Services",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.6
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_151555.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Botaminuto\nContributente: 506175502\nExmo(a) Senhor(a): FLINCHOIRE\nLISBOA\nNIF: 510767914 \nArt. Descricao Qde. Pr. Unit. Valor IVA\nCHAVE ALIMENTO CSLC / CI-3G CI-135 2 14.700 29.40 23\nTotal de pecas: 2\nVALOR LIQUIDO IVA VALOR IVA\n29.00 0.60\nDESCONTO\nTOTAL DOCUMENTO EURO 29.40\nNumerario 30.00\nTroco 0.60\nwww.botaminuto.com"
+  }
+}

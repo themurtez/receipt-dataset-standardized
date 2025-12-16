@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Tay Ho Oakland",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-19",
+    "time": "13:20:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 12.95,
+    "tax": 1.23,
+    "tip": 0.0,
+    "total": 14.18,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Special Combo Pho",
+      "quantity": 1,
+      "unit_price": 12.95,
+      "total_price": 12.95,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1078-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Tay Ho Oakland\nElegant Vietnamese Cuisine\n\nFollow us on Instagram & Facebook\n@tayhooakland #tayhooakland\nPlease help us going Green & Save our resources!\nPlease ask for Credit Card Receipt if you'd like one printed for your record…\n\nOrder# 142750\nTable: Table - 7\nDate: 2/19/19, 1:20 PM\n\n#19-D.B.B.V. - Special Combo Pho  $12.95\nSubtotal:                $12.95\nTotal Tax:               $1.23\n-----------------------------------\nTotal:                      $14.18\nOrder Balance due:      $14.18\n\nSuggested Gratuity\n%               Tip          Total\n18.00% of sale: $2.33 = $16.51\n20.00% of sale: $2.59 = $16.77"
+  }
+}

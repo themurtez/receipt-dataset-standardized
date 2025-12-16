@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Renato Fonseca Lda",
+    "address": "Rua D. Marcelino Franco, N.26-28, 8800-347 Tavira",
+    "phone": "281323950",
+    "tax_id": "509816975",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-27",
+    "time": "15:31:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 6.77,
+    "tax": 1.27,
+    "tip": 0.0,
+    "total": 6.77,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Espatula Chinesa 1 1/2",
+      "quantity": 1,
+      "unit_price": 0.8,
+      "total_price": 0.83,
+      "category": "Kitchenware",
+      "accounting_category": "Goods",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Hantek 15-950",
+      "quantity": 1,
+      "unit_price": 7.96,
+      "total_price": 5.97,
+      "category": "Electronics",
+      "accounting_category": "Goods",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210320_170837.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "RENATO FONSECA LDA\nRUA D. MARCELINO FRANCO, N.26-28, 8800-347 TAVIRA\nContribuinte No: 509816975\nTEL:281323950\n\nData:2019-03-27 Fatura/Rec FP001.0008038\nHora: 15:31 Caixa : 12\n\nArtigo Qtd. Pr.Unit. Valor IVA\n359960031 ESPATULA CHINESA 1 1/2\n1.000 0.80 0.80 23\n350010166 HANTEK 15-950 003.0\n1.000 7.96 5.97 23\n\nDESC. : 1.99\nTOTAL : 6.77\nNumerario : 6.77\nTROCO : 0.00\n\nNome : FIKINHONE ALGARVE LDA\nMorada : LISBOA\nContrib : 514407395\nVendedor: 11 HELENA E.\nIva Tx Vl.Merc. Vl.Iva\n\n23 5.50 1.27\n\nObrigado, Volte Sempre!\nProcessado por computador\n\n* TROCAS NO PRAZO MAXIMO DE 15 DIAS *\n* POR ARTIGO DE VALOR IGUAL OU SUPERIO*\n* COM TALAO DE VENDA *\n* COM A RESPECTIVA EMBALAGEM *\n* ARTIGO SEM ESTAR USADO *\n\nWoHA-Processado por programa\ncertificado N. 0151/AT"
+  }
+}

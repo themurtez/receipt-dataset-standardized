@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "HERO DISTRIBUTION SDN BHD",
+    "address": "4243, Kompleks Perniagaan Sri Gaya, Jln Tmn Subang Jasa 3, 40150 Selangor",
+    "phone": "",
+    "tax_id": "001627654144",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-05-17",
+    "time": "08:48:09",
+    "currency": "MYR",
+    "payment_method": "Master",
+    "subtotal": 41.48,
+    "tax": 1.02,
+    "tip": 0.0,
+    "total": 41.5,
+    "accounting_category": "Sales",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CAP MAKMUR MINYAK PACKET 1KG",
+      "quantity": 3,
+      "unit_price": 2.5,
+      "total_price": 7.5,
+      "category": "Groceries",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "H/GRASS K/JELLY F/POW S'BERRY 250G",
+      "quantity": 3,
+      "unit_price": 6.0,
+      "total_price": 18.0,
+      "category": "Groceries",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SA GRAINY SMITH 10's (PKT)",
+      "quantity": 2,
+      "unit_price": 7.99,
+      "total_price": 15.98,
+      "category": "Groceries",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.02,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006388066.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "HERO DISTRIBUTION SDN BHD\n(Sutang Jasa) 667670-U\nGST Reg 001627654144\n4243, Kompleks Perniagaan Sri Gaya,\nJln Tmn Subang Jasa 3,\n40150 Selangor\nPOSTED\nTax Invoice : SIP03201705170016 17/05/17\nCashier : SITI AMI 08:48:09\nCAP MAKMUR MINYAK PACKET 1KG\n9555845400009 2.50 * 3 7.50 Z\nH/GRASS K/JELLY F/POW S'BERRY 250G*1\n9555124301089 6.00 * 3 18.00 S\nSA GRAINY SMITH 10's (PKT)\n515474 7.99 * 2 15.98 Z\nItem 3 Total with GST @ 6% 41.48\nQty 8 Rounding 0.02\nTotal Saving 0.00 Total 41.50\nTender Master 5148 App 83550 41.50\nChange 0.00\nGST Analysis Goods Tax Amount\nS=6% 16.98 1.02 v\nZ=0% 23.48 0.00\n41.50\nMember Num : 80148970\nWONG TAI CHIN\nThank you for shopping with us. Please come again"
+  }
+}

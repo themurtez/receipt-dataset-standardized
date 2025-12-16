@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Platinum Racking SDN BHD",
+    "address": "8B, Jalan Lumpur, Off Jalan Putra, 05100 Alor Setar, Kedah.",
+    "phone": "04-7342316",
+    "tax_id": "001034461184",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-22",
+    "time": "13:44:23",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 21.7,
+    "tax": 1.3,
+    "tip": 0.0,
+    "total": 23.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "5596 Vivid",
+      "quantity": 2,
+      "unit_price": 11.5,
+      "total_price": 23.0,
+      "category": "Furniture",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 77.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006349085.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TAX INVOICE\nPLATINUM RACKING SDN BHD\n( PLAT MART )\n752173-W\n8B, JALAN LUMPUR, OFF JALAN PUTRA, 05100\nALOR SETAR, KEDAH.\nTel: 04-7342316 Fax: 04-7342317/\n7330990\n(GST ID No:001034461184)\nSales Date: 22/04/2018\nSales Rep: platinum racking plat mart\nReceipt No: 31076707\nPrint On: 22/04/2018 13:44:23\nItem Unit\nCode Item Name Qty Price (RM) Total Code\n95550 5596 VIVID 2 11.50 23.00 SF\n70731 STOOL-\n084 BLUE/ORANGE\nTotal Qty: 2\nTotal Rounding: 0.00\nTotal Sales Inclusive GST 6%: 23.00\nCash 100.00\nChange 77.00\nTendered: 100.00\nChange Due: 77.00\nCode GST% Amount (RM) Tax (RM)\nSR 6% 21.70 1.30\nPlease retain receipt to exchange damage goods\nwithin 3 day after sales is made.\nThank You"
+  }
+}

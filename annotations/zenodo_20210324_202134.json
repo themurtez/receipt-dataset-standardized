@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "R Actor António Silva, Nº7, 1649-033 Lisboa",
+    "phone": "213 247 330",
+    "tax_id": "500629993",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-10",
+    "time": "13:39:00",
+    "currency": "EUR",
+    "payment_method": "Visa Electron",
+    "subtotal": 3.84,
+    "tax": 0.12,
+    "tip": 0.0,
+    "total": 3.84,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "V.A.L. Susegó TTO",
+      "quantity": 1,
+      "unit_price": 4.99,
+      "total_price": 4.99,
+      "category": "Beverages",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Poupaço Imediata",
+      "quantity": 1,
+      "unit_price": -1.25,
+      "total_price": -1.25,
+      "category": "Discount",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Deterg. E Prod. Limpeza",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Cleaning Products",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Saco Plast Recicl PD",
+      "quantity": 1,
+      "unit_price": 0.1,
+      "total_price": 0.1,
+      "category": "Miscellaneous",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210324_202134.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "pingo doce\ncompro com pingo doce\n12 Dezembro\nTel.: 213 247 330\nPingo Doce -Distribuição Alimentar, S.A.\nSede: R Actor António Silva, N7, 1649-033 Lisboa\nRegisto C.R.C. Lisboa-Matricula/NIPC: 500629993\nANREE: R1001730 C. Social: 33,808,115 EUR\nArtigos\nBEBIDAS\nD 13% V.A.L. SUSSEGO TTO 4,99\nPoupaqco Imediata (1,25)\nDETERG. E PROD. LIMPEZA\nE 23% SACO PLAST RECICL PD 0,10\nResumo\nTOTAL POUPANCA 5,09\nTOTAL A PAGAR 3,84\nPagamentos\nTOTAL PAGO 3,84\nMultibanco 3,84\nResumo IVA\nTaxa Valor s/IVA Valor IVA Valor c/IVA\nD 13% 4,41 0,58 5,00\nE 23% 0,08 0,02 0,10\nNESTA COMPRA POUPOU\n1,25 €\nAtendido por: MARIA VIRGINIA GOMES\n396444 2019-02-10 13:39 0005 0005 0045\n31BY-Processado por programa certificado 369/AT\nFatura/Recibo FT 04510051901000167/000417\n1a Via Duplicado Data de emissão: 10-02-2019\nN. Contribuinte: 510176914\nNome*: Feels Like Home\nMorada..\nLocalidade. Lisboa\nLisboa\nLocal carga... 19 Dezembro\nData: 20-12-19 Hora: 13:39\nMorada do cliente\nPINGO DOCE\n1 DEZEMBRO\n1200-358 LISBOA\nTerminal Pagamento Automático: 00584598\n2019-02-10 13:39:53 Per: 030 Trx03 Msg:14\nMILLENIUM BCP\nPRIME SUITES/CHIADO\nCartão: *****9888/26\nA0000000032030 < Euro: 3,84\nVISA ELECTRON\nCOMPRA 3,84€ VELOC PP N\nID ESTAC:000061/10 ALI:865104 VELOC PP N\nINVOCACAO DE CONFIANCA\nCOPIA CLIENTE\nPROCESSADO POR SIBS\nFatura necessaria para troca em 15 dias\n(Artigos Textil e Calçado prazo 30 dias)\n(Não se trocam medicamentos e outros artigos assinalados\nApoio ao Cliente\n808 20 45 45 / 210 11 44 11 (24 horas)"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Popular Book Co. (M) Sdn Bhd",
+    "address": "A-8, Jalan 7/118B, Desa Tun Razak, 56000 Kuala Lumpur, Malaysia",
+    "phone": "017-7765076 / 7765987",
+    "tax_id": "001492902080",
+    "website": "www.popular.com.my"
+  },
+  "transaction": {
+    "date": "2018-02-08",
+    "time": "18:47:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 13.81,
+    "tax": 0.83,
+    "tip": 0.0,
+    "total": 14.64,
+    "accounting_category": "Stationery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CORR. PEN ZL1-W",
+      "quantity": 1,
+      "unit_price": 7.65,
+      "total_price": 7.65,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PB K/ RING FILE W/CLI",
+      "quantity": 1,
+      "unit_price": 6.99,
+      "total_price": 6.99,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.01,
+    "change_due": 35.35
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005715451.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "3-1708032\nPOPULAR BOOK\nCO. (M) SDN BHD\n(C. No. 113831-W)\n(GST Reg No. 001492902080)\nNo. A-8, Jalan 7/118B, Desa Tun Razak\n56000 Kuala Lumpur. Malaysia\nKSL CITY\nTel : 017-7765076 / 7765987\n08/02/18 18:47 Slip No: 0010291725\nCheah Pei Ni Trans: 246761\nDescription Amount\nCORR. PEN ZL1-W 7.65 T\nPB K/ RING FILE W/CLI 6.99 T\nTotal RM Incl. of GST 14.64\nRounding Adj 0.01\nTotal RM 14.65\nCash -50.00\nCHANGE 35.35\nItem Count 2\nGST Summary Amount (RM) Tax (RM)\nT @ 6% 13.81 0.83\nTotal Savings 0.00\nBE A POPULAR CARD MEMBER\nAND ENJOY SPECIAL DISCOUNTS\nTHANK YOU! PLEASE COME AGAIN.\nwww.popular.com.my\nBuy Chinese books online\nwww.popularonline.com.my"
+  }
+}

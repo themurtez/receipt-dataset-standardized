@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "MPH Bookstores SDN BHD",
+    "address": "MPH One Utama Phase 2, Lot S319, 2nd Floor, 1 Utama Shopping Centre, No1, Lebuh Bandar Utama, 47800 P.Jaya",
+    "phone": "03-77259003",
+    "tax_id": "000542572544",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-11",
+    "time": "21:42:10",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 31.45,
+    "tax": 1.78,
+    "tip": 0.0,
+    "total": 31.45,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Stickers & Other Gift",
+      "quantity": 3,
+      "unit_price": 10.49,
+      "total_price": 31.47,
+      "category": "Gifts",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": -0.02,
+    "change_due": 18.55
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006857265.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MPH BOOKSTORES SDN BHD\nGST No: 000542572544\nMPH One Utama Phase 2\nLot S319, 2nd Floor, 1 Utama Shopping Centre,\nNo1, Lebuh Bandar Utama,47800 P.Jaya\nTel:03-77259003 Fax:03-77224003\n\nSTICKERS & OTHER GIFT\n2312475009906 3x10.49 31.47 S\n\nTotal Amount(incl. GST) 31.47\nRounding -0.02\n\nTOTAL 31.45\nCASH 50.00\nCHANGE 18.55\n\nZ - 0% GST 0.00 0.00\nS- 6% GST 29.69 1.78\n\nITEMS: 3 CASHIER: TRAIN2 TRAINEE STAFF\nINVOICE NO: 008558 TRANS: 009628\nSHF:1 POS:12 04BFRTL 11/12/2017 21:42:10\n\nGoods sold are non-returnable\nExchanges may be made for books\nonly within 7 days from the date of\npurchase with this receipt\n(Conditions apply)\nThank You for Shopping at\nMPH AT ONE UTAMA"
+  }
+}

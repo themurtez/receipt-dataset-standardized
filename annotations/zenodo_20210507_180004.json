@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "botaminuto",
+    "address": "Centro Comercial Amoreiras, Loja 1056, 1070-155 Lisboa",
+    "phone": "210994257",
+    "tax_id": "506175502",
+    "website": "www.botaminuto.com"
+  },
+  "transaction": {
+    "date": "2019-09-15",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 28.78,
+    "tax": 6.62,
+    "tip": 0.0,
+    "total": 35.4,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PLANA UL050",
+      "quantity": 2,
+      "unit_price": 7.8,
+      "total_price": 15.6,
+      "category": "Hardware",
+      "accounting_category": "Product",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHAVE Z ENT SOFT",
+      "quantity": 3,
+      "unit_price": 9.2,
+      "total_price": 27.6,
+      "category": "Services",
+      "accounting_category": "Service",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 4.5
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_180004.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "botaminuto\nAMOREIRAS\nContribuinte: 506175502\nCentro Comercial das Amoreiras, Loja 1056\nConsultase Cojaia Copias Chave Lis\nR. Frederico Silva, Lote 203\nTelf. 210994257\nTransrado\nMod. N. ARM. 0898\n508150\nSODOUER CRC Cascais N.9997/2007\nEnto: FilhorCasa\nFILTEIRHOME\nLISBOA\nNIF: 510776914 N CLI:PTS10776914\nC 1/15145261\nFTR 6114641 Data 2019-09-15 Original\nFacture.\nVendedor: RUBEN\nArt. Descrocao Qde Pr. Unt. Valor IVA\n172 PLANA UL050 / U 50D\n2\n7.80 23\nCHAVE Z ENT SOFT\nValor Bruto\n2(01\n9.200\nVAL LIQUIDO\n7,80\n23\nDesconto\nTotal da pecas:\nOra\nVALOR IVA\n6.62\n27.60\n4 Cr1c\n23\n28.78\nVALOR Euro\nTROCO\n40.00\n4.50\nTOTAL DOCUMENTO EURO\n35.40\nm3ee-Processado por programa\nSertificado N. 1627/AT\nens colocados a disposico do aquiente\nneste data, de acordo com a alinea )e) dno. 36 do CIVA\nTROCAS & DEVOLUCOES ACEITES COM COMPRO-\nVATIVO DE COMPRA & ATE 30 DIAS DA DATA DE COMRA.\nA DEVOLUCAO DE QUALQUER QUANTIA INERENTE\nA TROCA OU DEVOLUCAO DE ARTIGO É FEITA POR VALE DE REEMBOLSO COM VALIDADE DE 30\nOBRIGADO PELA\nTALAO INDISPENSAVEL P/ENTREGA RECLAMACAO\nTROCAS PRAZO 1 MES\nConte-nos\na sua\nExperiência!\n2019-09-15\nwww.botaminuto.com"
+  }
+}

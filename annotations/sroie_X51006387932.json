@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Billion Six Enterprise",
+    "address": "No 3, Jalan Taman Jasa 2, Section U6, 40150 Shah Alam.",
+    "phone": "603-58856749",
+    "tax_id": "000944312320",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-05-04",
+    "time": "07:19:43",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 12.0,
+    "tax": 0.68,
+    "tip": 0.0,
+    "total": 12.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.85
+  },
+  "items": [
+    {
+      "name": "Bakery Deep Tray (18)",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 38.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006387932.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BILLION SIX ENTERPRISE\nNO 3, JALAN TAMAN JASA 2,\nSECTION U6, 40150 SHAH ALAM.\nTel : 603-58856749\nGST Reg No: 000944312320\n\nTax Invoice\nInvoice No : 01 148409\nDate : 04/05/2017 7:19:43 AM\nCashier : 123\n\nDescription         Qty   Price   Amount\n1 GR 9655255201803   1    12.00   12.00\n5001 BAKERY DEEP TRAY18 14BCM, KT\n\nTotal                          12.00\nDiscount                      0.00\nTotal Sales Inclusive GST @6.00%        12.00\nCash Received            50.00\nChange                      38.00\n\nGST Summary    %    Amount(RM)   Tax(RM)\nSR             6    11.32              0.68\n\nBarang yang sudah di beli, wang tidak dapat di\nkembalikan.  Pertukaran barang hanya boleh\ndibuat dalam 3 hari sahaja dengan resit"
+  }
+}

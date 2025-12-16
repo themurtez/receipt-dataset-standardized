@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "VORTEN Equipamentos para o Lar SA",
+    "address": "Rua de S. Pedro Matos da Costa N 133 8500-513 Portimão",
+    "phone": "808 100 007",
+    "tax_id": "PT514407395",
+    "website": "www.worten.pt"
+  },
+  "transaction": {
+    "date": "2019-07-21",
+    "time": "14:55:00",
+    "currency": "EUR",
+    "payment_method": "Cartão Crédito",
+    "subtotal": 9.99,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 9.99,
+    "accounting_category": "Telecommunications",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CABO MICRO-USB 2.0",
+      "quantity": 1,
+      "unit_price": 9.99,
+      "total_price": 9.99,
+      "category": "Telecommunications",
+      "accounting_category": "Telecommunications",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210322_161042.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "VRT Portimao RP\nVORTEN Equipamentos para o Lar SA\nServico Apoio Cliente: 808 100 007\nRua de S. Pedro Matos da Boavista N 133 8500-513\nPortimao\nRegistada CRC Porto sob o N 503630330\nINET: PT503630330\nC.S.: 10.150.000,00 EUR SIRPEE: PT001257\nFatura Duplicada 2a Via\nNro: AT B1AT09/012049 21/07/2019 14:55\nCliente: FLIKEHOME ALGARVE LDA\nNIF: PT514407395\nMorada: LOULÉ\nLocal: LOULÉ\nC. Postal: 8100 000\nIVA DESCRICAO\nTelecomunicacoes:\n(C) 5601968266524 CABO MICRO-USB 2.0\nGOODTIS 9.99\nTOTAL A PAGAR 9.99\nCartao Credito 9.99\nTROCO 0.00\n19072109046281117115\n17fn-Processado por programa certificado\nN. 1356/AT\n1171 0109 46281 126521 - 100060562760230\nLocal carga: Morada da Loja\nLocal descarga: Morada do cliente \nData: 21/07/2019 Hora: 14:55.\nConsulte as condicoes da Politica de\nSatisfacao/Devolucao, no SPV da Loja\nTalao indispensavel para Troca no\nPrazo de 15 dias, nos termos previstos\nNão estão abrangidos pela politica de\nsatisfação/devolução os artigos com\nactivação em caixa\nPara mais informações consultar\nwww.worten.pt"
+  }
+}

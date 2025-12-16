@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "BP DOMINGOS SEQUEIRA",
+    "address": "Rua Domingos Sequeira, n. 24/26, 1350-122 LISBOA",
+    "phone": "",
+    "tax_id": "NPC: 504285174",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-11-04",
+    "time": "10:36:30",
+    "currency": "EUR",
+    "payment_method": "MasterCard",
+    "subtotal": 25.14,
+    "tax": 8.43,
+    "tip": 0.0,
+    "total": 33.57,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Combustível",
+      "quantity": 1,
+      "unit_price": 25.14,
+      "total_price": 25.14,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_200028.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BP DOMINGOS SEQUEIRA\nPETROLEUM COMBUSTIVEIS, LDA.\nRua Domingos Sequeira, n. 24/26\n1350-122 Lisboa\nMatricula: NPC: 504285174\nPOS: 2 Ref: 6209 Op: Ofelia Antunes\nData de emissao: 2019-11-04 10:36:30\nS/IM OLEO SBO BOMBA N2 25.Lit x 1,574 EUR/\n25.14 Lit x 1.574 EUR/L\nTOTAL 33.57 EUR\nRED PUMPA: 5.56 EUR\nMultibanco IVA 1.43\nIVA A 23,00 7.40 1.17\nRegime part: tabaco 01.346/85\nFactura-Recibo FR 28/2019/105536\nProcessado por Programa Certificado\nNº. 0017/A\nNIF: PT510779694\nNome: FileNome.\nMedicao Industrial LDA.\nR. Sarmento de Carvalho, N.244, 3. DO\n1350-302 LISBOA\nMatricula: 76 60 59\nNumero Cartao: ************261\nPontos Emitidos: 25\nPontos por Promocao: 0\nPontos Actuais: 2456\nPontos Resgatados: 500365449067\nSaldo: disponivel Poupa Mais: 0.0 EUR Expiram a: 0.0 EUR\nSaldo acumulado mes: 0.0 EUR\nBP H2S DOMINGOS SEQ.\nLISBOA\nTerminal Pagamento Automatico: U1054369\n2019-11-04 10:36:30 Period: 8\nMillennium BCP\nCartao: *****************365\nA00000000047001000 MASTERCARD\nCOMPRA 33,57 EUR MEM DEB A\nAut: 129435\nRedunicre\nINOVACAO E CONFIANCA CONTACTLESS\nMasterCard PayPass\nPROCESSADO POR SIBS"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Five Star Cash & Carry",
+    "address": "G.23 & G.22, Plaza Seri Setia, No.1 Jalan SS 9/1, 47300 PJ, Selangor.",
+    "phone": "603-7877 9712",
+    "tax_id": "000610435072",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-06-19",
+    "time": "11:43:00",
+    "currency": "RM",
+    "payment_method": "Cash",
+    "subtotal": 42.45,
+    "tax": 2.55,
+    "tip": 0.0,
+    "total": 45.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "[AKS]APPALAM 3KG",
+      "quantity": 1,
+      "unit_price": 45.0,
+      "total_price": 45.0,
+      "category": "Groceries",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006392122.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "FIVE STAR CASH & CARRY\n(1365663-P)\nG.23 & G.22, Plaza Seri Setia,\nNo.1 Jalan SS 9/1, 47300 PJ, Selangor.\nTel/Fax : 603-7877 9712 (POS 3)\n(GST No.: 000610435072)\n\nTAX INVOICE\nRECEIPT NO.[00550398] 19/06/17 11:43\n9555339300051 x 1 45.00 S\n[AKS]APPALAM 3KG\n\nQuantity Out : 1\n\nNET TOTAL : 45.00\nCASH : 45.00\n\nGST Summary Amount(RM) Tax(RM)\nS = 6% 42.45 2.55\nZ = 0% 0.00 0.00\n\n...THANK YOU AND DO VISIT US AGAIN......\n\nCashier [P. NISANTHI] Machine [003]\n[19/06/17] [11:43]"
+  }
+}

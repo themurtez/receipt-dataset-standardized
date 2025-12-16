@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "GHEE HIANG",
+    "address": "216, Macalister Road, 10400 Penang, 10400 Penang",
+    "phone": "04-227 2222",
+    "tax_id": "001315377152",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-20",
+    "time": "12:53:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 85.2,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 85.2,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TAU SAR PNEAH (S) 16PCS",
+      "quantity": 4,
+      "unit_price": 9.0,
+      "total_price": 36.0,
+      "category": "Food",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "DB TAU SAR PNEAH (S) 12PCS",
+      "quantity": 2,
+      "unit_price": 7.6,
+      "total_price": 15.2,
+      "category": "Food",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BEH TEH SAW 8PCS",
+      "quantity": 2,
+      "unit_price": 8.0,
+      "total_price": 16.0,
+      "category": "Food",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PHONG PNEAH 6PCS",
+      "quantity": 2,
+      "unit_price": 9.0,
+      "total_price": 18.0,
+      "category": "Food",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 10,
+    "rounding": 0.0,
+    "change_due": 15.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008145450.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Mbb\nGHEE HIANG\nGH DISTRIBUTOR & MARKETING SDN BHD\n(1097826-H)\n216, Macalister Road, 10400 Penang.\n10400 Penang.\n*Tel: 04-227 2222\nGST Reg.No.: 001315377152\nTAX INVOICE\nInvoice No : 216_01/21047\nDate : 20/06/2018 #1 12:53 PM\nCashier : PART TIMERS 05\nPRN ON : 20/06/2018 12:56 PM\nQTY ITEM RM\n*** Retail/Takeaway ***\n4 TAU SAR PNEAH (S) 16PCS @9.00\nDB TAU SAR PNEAH (S) 12PCS @7.60\nBEH TEH SAW 8PCS @8.00\nPHONG PNEAH 6PCS @9.00\n36.00 SR\n15.20 SR\n16.00 SR\n18.00 SR\n10 SubTotal 85.20\nNet Total 85.20\nCash 100.20\nCHANGE 15.00\n*** 20/06/2018 12:56 PM ***\nTax Summary Amount Tax\nSR:GST @0%\n85.20 0.00\nTHANK YOU. PLEASE COME AGAIN\nGoods Sold Are Non Refundable\n"
+  }
+}

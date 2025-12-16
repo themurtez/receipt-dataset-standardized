@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Tous Les Jours",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "KRW",
+    "payment_method": "Card",
+    "subtotal": 87000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 87000.0,
+    "accounting_category": "Food and Beverages",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Milk Pastry Roll",
+      "quantity": 3,
+      "unit_price": 9000.0,
+      "total_price": 27000.0,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Redbean Bread",
+      "quantity": 4,
+      "unit_price": 9000.0,
+      "total_price": 36000.0,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Frankfurt Sausage Roll",
+      "quantity": 2,
+      "unit_price": 12000.0,
+      "total_price": 24000.0,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 9,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000517.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "3 MILK PASTRY ROLL 27,000\n4 REDBEAN BREAD 36,000\n2 FRANKFURT SAUSAGE ROLL 24,000\nTOTAL 87,000\nCARD 87,000\n"
+  }
+}

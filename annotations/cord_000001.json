@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 503000.0,
+    "tax": 52815.0,
+    "tip": 25150.0,
+    "total": 580965.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SPGTHY BOLOGNASE",
+      "quantity": 1,
+      "unit_price": 58000.0,
+      "total_price": 58000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PEPPER AUS",
+      "quantity": 1,
+      "unit_price": 165000.0,
+      "total_price": 165000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "WAGYU RIBEYE",
+      "quantity": 1,
+      "unit_price": 195000.0,
+      "total_price": 195000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ICED LEMON TEA",
+      "quantity": 1,
+      "unit_price": 22000.0,
+      "total_price": 22000.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "FUSION TEA LYCHE",
+      "quantity": 1,
+      "unit_price": 28000.0,
+      "total_price": 28000.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "NUTTELA BROWNIES",
+      "quantity": 1,
+      "unit_price": 35000.0,
+      "total_price": 35000.0,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000001.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TABLE 67/1\n\n1 SPGTHY BOLOGNASE 58,000\n1 PEPPER AUS 165,000\n WELL DONE\n1 WAGYU RIBEYE 195,000\n MEDIUM WELL\n1 ICED LEMON TEA 22,000\n1 FUSION TEA LYCHE 28,000\n1 NUTTELA BROWNIES 35,000\nSUBTOTAL 503,000\nPB1 52,815\nSVC CHRG 25,150\nDUE 580,965"
+  }
+}

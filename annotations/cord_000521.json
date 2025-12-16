@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 156364.0,
+    "tax": 15636.0,
+    "tip": 0.0,
+    "total": 172000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "New Beef Spaghetti",
+      "quantity": 1,
+      "unit_price": 40000.0,
+      "total_price": 40000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "New Beef Lasagna",
+      "quantity": 1,
+      "unit_price": 47273.0,
+      "total_price": 47273.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Paket Ber2",
+      "quantity": 1,
+      "unit_price": 69091.0,
+      "total_price": 69091.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000521.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 NEW BEEF SPAGHETTI 40,000\n1 NEW BEEF LASAGNA 47,273\n1 PAKET BER2 69,091\n1 BREAD N CHEESE DEL\n1 CRABSTICK FUSILLI DEL\n1 P/P THOUSAND ISL DEL\n1 ORANGE JUICE DELIGHT\n1 LIPTON ICE TEA DEL\nSUBTOTAL 156,364\nTAX 15,636\nTOTAL 172,000"
+  }
+}

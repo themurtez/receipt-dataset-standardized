@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Becon Stationer",
+    "address": "No.41G, Jln SS21/60, Damansara Utama, 47400 P.J, Selangor.",
+    "phone": "603 7732 0925",
+    "tax_id": "000670859264",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-09-13",
+    "time": "16:48:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 247.55,
+    "tax": 14.01,
+    "tip": 0.0,
+    "total": 247.55,
+    "accounting_category": "Stationery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Payment Voucher UEW 6\" x 7¾\" (5's/pack)",
+      "quantity": 18,
+      "unit_price": 7.3,
+      "total_price": 131.4,
+      "category": "Stationery",
+      "accounting_category": "Stationery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CD-R MAXELL (MX-CDR) 100's",
+      "quantity": 1,
+      "unit_price": 92.8,
+      "total_price": 92.8,
+      "category": "Media",
+      "accounting_category": "Media",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CD Sleeve Refill DAIBAO DB103 (VR100)/KAYE",
+      "quantity": 1,
+      "unit_price": 8.5,
+      "total_price": 8.5,
+      "category": "Stationery",
+      "accounting_category": "Stationery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Puncher MAX DP-F2BN",
+      "quantity": 1,
+      "unit_price": 14.85,
+      "total_price": 14.85,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 21,
+    "rounding": 0.0,
+    "change_due": 52.45
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006857660.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BECON STATIONER\nBecon Enterprise Sdn Bhd (82256-V)\nDamansara Utama Outlet\nNo.41G, Jln SS21/60, Damansara\nUtama,47400 P.J, Selangor.\nTel: 603 7732 0925\nGST No.000670859264\n-----------------------------------------------------\nTax Invoice : 0017756\nCashier : Norlida Morid Rashdi\nDate : 13-09-2017  Time : 1648\nPos No : 181       Shift : 1\nMEMBER PRICE\nName : SIA BAN YI\nPoint : 496\n-----------------------------------------------------\nProduct Name\nCode     Qty  @  U/(RM)    GST    Total(RM)\n-----------------------------------------------------\nPayment Voucher UEW 6\" x 7¾\" (5's/pack)\n#1011801-5   18 @   7.30       SR      131.40\nCD-R MAXELL (MX-CDR) 100's\n#1120221      1  @  92.80       SR       92.80\nCD SLEEVE REFILL DAIBAO DB103 (VR100)/KAYE\n#1120472      1  @   8.50       SR        8.50\nPUNCHER MAX DP-F2BN\n#1240302-02   1  @  14.85      SR       14.85\n-----------------------------------------------------\nSub Total                              247.55\n(GST)                                   14.01\nRounding                                 0.00\n\nTotal Include GST            247.55\nCash                                   300.00\nChange                                52.45\n-----------------------------------------------------\nCustomer Saving from RRP           27.30\n-----------------------------------------------------\nPrice Inclusive of GST6%\nGST Summary      Amount(RM)      Tax(RM)\nSR@6.00%                 233.54            14.01\n-----------------------------------------------------\n  Thank You for shopping at BECON.\nGoods sold are not exchangable or refundable"
+  }
+}

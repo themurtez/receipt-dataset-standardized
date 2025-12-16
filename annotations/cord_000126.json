@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Coin Block",
+    "address": "90 Djuanda Boulevard, ID",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Go-Pay static QR",
+    "subtotal": 53200.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 53200.0,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Round Wagyu (1gr)",
+      "quantity": 1,
+      "unit_price": 53200.0,
+      "total_price": 53200.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000126.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "COIN BLOCK\n90 Djuanda Boulevard\nReceipt No. XXXXXXXX\nTAX: XXXXX\n\n133 Round Wagyu (1gr) 53.200\nSubtotal\nTOTAL 53.200\nGo-Pay static QR 53.200\nThank you for visiting"
+  }
+}

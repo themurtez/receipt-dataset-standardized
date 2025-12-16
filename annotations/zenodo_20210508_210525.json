@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Vital Costa Braz",
+    "address": "C.C. Continente, Piso -1 Lj E11",
+    "phone": "282483666",
+    "tax_id": "510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-02",
+    "time": "18:37:11",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 14.84,
+    "tax": 3.41,
+    "tip": 0.0,
+    "total": 18.25,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chaves Universais",
+      "quantity": 1,
+      "unit_price": 18.25,
+      "total_price": 18.25,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_210525.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Vital Costa Braz\nC.C. Continente, Piso -1 Lj E11\nTlf/Fax: 282483666\n2018-04-02 Fatura Simplificada Nº\n18:37:11 Balcao 1 FS 1A1801/2821\nContribuinte: 510776914\nDescricao IVA Valor\n1 Chaves Universais 23% 18,25\nTaxa IVA Incid.\n23% 3,41 14,84\nTotal incidencias: 14,84\nTotal: Eur 18,25\nPago em Numerario\nOBRIGADO/THANK YOU\nGYxe-Processado por programa\ncertificado n. 217/AT\nOs servicos e/ou bens foram realizados e\n/ou colocados a disposicao do adquirente\nnesta data (Art. 36 do CIVA, No5 alinea\nF).\nLicenca: Vital Costa Braz\nContribuinte: 152533403"
+  }
+}

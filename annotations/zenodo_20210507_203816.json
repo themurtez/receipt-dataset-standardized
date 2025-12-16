@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Flying Tiger Copenhagen",
+    "address": "Tiger Portugal, SA, Lojas Pai 1006, Av. António Bernardo Cabral de Macedo, 2770-219 Caxias",
+    "phone": "C. Postal: 1250-145 Lisboa",
+    "tax_id": "C.I.F.: 510740514",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-11",
+    "time": "21:32:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 3.25,
+    "tax": 0.75,
+    "tip": 0.0,
+    "total": 4.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "FRAME PS STANDING 1M",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Household",
+      "accounting_category": "Furniture",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "FRAME PS STANDING 2M",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Household",
+      "accounting_category": "Furniture",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "FRAME PS STANDING 2M",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Household",
+      "accounting_category": "Furniture",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_203816.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Flying Tiger Copenhagen\nTIGER PORTUGAL, SA.\n1006 Lojas Pai\nAv. Antonio Bernardo Cabral de Macedo\n2770 219 Caxias\nContribuinte n. 510740514\nSede Distrito de Lisboa, Freguesia Oeiras\n2830-004 Charneca da Caparica\n\nCliente: \nMorada: Lisboa\nFatura/Recibo\n2017/11 21:32 Formacio utilizada\nTaxa Incluida\nTAXA : Fatura/Recibo\nFR1172/45 Orig: 102\n\n304045\nFRAME PS STANDING 1M\n1,00\n1,00\n\n304046\nFRAME PS STANDING 2M\n1 Enil Construo\n2,00\n2,00\n\nTotal 4,00 EUR\nForma Pagamento: Multibanco 6,00\n\nIva Incluida a Taxa Indicada\nData Carga: 11-11-2017\nHora Carga: 21:32\nCifares F4] 1008 Av. Antonio\nBernardo Cabral de Macedo\nTransporte: V/Viatua\nUn: 400\nData Descarga: 11-11-2017\nHora Descarga: 00:00:00\n\nTaxa Valor Iva Base Imp. Valor Total\n23% 0,75 3,25 4,00\n\nTrocas 30 dias na loja da compra\nConsultar condicoes na loja\nNao aceitamos devolucoes\n\nEDS5F-Processado por programa certificado\nn2/AI - Sage\n\nProdutor EEE n PIB02141\nProdutor P&A n° PIB00808"
+  }
+}

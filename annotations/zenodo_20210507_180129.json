@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "JIN & JIN LDA.",
+    "address": "RUA CONDES DE MONSANTO 2B/C, 1100-159 LISBOA",
+    "phone": "966836862",
+    "tax_id": "507097017",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-15",
+    "time": "14:52:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 6.34,
+    "tax": 1.46,
+    "tip": 0.0,
+    "total": 7.8,
+    "accounting_category": "Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ARTIGO HIGIENE",
+      "quantity": 1,
+      "unit_price": 5.95,
+      "total_price": 5.95,
+      "category": "Toiletries",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ARTIGO HIGIENE",
+      "quantity": 1,
+      "unit_price": 1.85,
+      "total_price": 1.85,
+      "category": "Toiletries",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_180129.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "JIN & JIN LDA.\nRUA CONDES DE MONSANTO 2B/C\n1100-159 LISBOA\nCONTRIB. 507097017 TEL. 966836862\nCONS.REG. COMERCIAL LISBOA N-14602\nCAPITAL SOCIAL 10.000,00 EUROS\nFATURA SIMPLIFICADA\nORIGINAL\nDATA 2019/03/15 - 14:52 N A/235191\nCliente: FLIXEHONE, LDA.\nMorada: \nCont. NIF: 510776914\nArtigo Qtd Preço € Valor €\nARTIGO HIGIENE 1 Un x 5,95 = 5,95\n23%\nARTIGO HIGIENE 1 Un x 1,85 = 1,85\n23%\nTOTAL................. 7,80\nJumerario. 7,80\nTroco 0,00\nIVA Incluído à taxa indicada\nTaxa% Sujeito IVA Total\nZ23,00 6,34 1,46 7,80\nMdVp-Processado por programa certificado\nNº 88/AT - 1 A/235191\nOpr: JIN\nOBRIGADO - VOLTE SEMPRE"
+  }
+}

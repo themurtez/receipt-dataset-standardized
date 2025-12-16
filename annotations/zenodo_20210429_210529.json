@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Minipreco",
+    "address": "LG DO CALHARIZ, 10, 1200-086 LISBOA",
+    "phone": "",
+    "tax_id": "503003808",
+    "website": "www.minipreco.pt"
+  },
+  "transaction": {
+    "date": "2019-08-28",
+    "time": "12:58:00",
+    "currency": "EUR",
+    "payment_method": "VISA Electron",
+    "subtotal": 1.64,
+    "tax": 0.1,
+    "tip": 0.0,
+    "total": 1.74,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "OVOS CLASSE M 1/2",
+      "quantity": 2,
+      "unit_price": 0.87,
+      "total_price": 1.74,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_210529.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Dia Portugal - Distribuicao, Soc. Unip., Lda\nLOJA FONIE EDF ALVARES CABRAL\n02770-190 PACO ARCOS\n\nNOME CLIENTE:\nKEHOME\n\nNUM. CONTRIBUINTE: 510776914\nLOCAL DESCARGA: MORADA DO CLIENTE\n\nFT 01211404201901200008461\nCAIXA: 4 DATA: 2019-08-28 HORA: 12:58\nCODIGO DE OPERARIO: 53413\n\nCODIGO DESCRICAO TOTAL\nIVA PVP/UNIT QUANTIDADE DESCONTOS\n\n13747 OVOS CLASSE M 1/2 1,74\n6,00% 0,87 2 0,00\n\nTOTAL A PAGAR EUROS 1,74\nMULTIBANCO 1,74\nTROCO 0,00\n\nTIPO IVA BASE IVA TOTAL\nC 6,00% 1,64 0,10 1,74\n\nMINIPRECO\nLG DO CALHARIZ,10\n1200-086 LISBOA\nwww.minipreco.pt\nSIRPEEE PT000245\n\nPRIME SUITES/BICA\nCartao 001xxxxxx7764/32  Op.:00102\n\n****** VISA ELECTRON\n**** MILENNIUM\n\nEUR: 1,74\nVISA ELEC PP N\n\nPROCCESSADO POR SIBS"
+  }
+}

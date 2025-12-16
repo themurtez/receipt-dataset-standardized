@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Consorcio Rapido Amoreiras, Lda",
+    "address": "Centro Comercial Amoreiras, 1070 Lisboa",
+    "phone": "+351 213904215",
+    "tax_id": "PT510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-26",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 11.54,
+    "tax": 2.66,
+    "tip": 0.0,
+    "total": 14.2,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CHAVE PALHETAO CSLE",
+      "quantity": 1,
+      "unit_price": 14.2,
+      "total_price": 14.2,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_181940.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "botaminuto\nAMOREIRAS\nConsorcio Rapidos Amoreiras, Lda\nSede: R Quinta Palmeira, 31 D, Oeiras\nCentro Comercial Amoreiras, Loja 5041\n1070 Lisboa Tel 213904215\nCap Soc 5,000 euros NFPC 506175502\nC.R.Com Cascais N 9955/2007\nExmo(a) Senhor(es)\nFLIKEHOME\nLISBOA\nNIF: 510776914 N.C.I.I. PT510776914\nC 5/26171895\nFTR 6/295 Data 2018-06-26 Original\nFactura\nVendedor: RUBEN\nArt. Descricao Qte Pr.Unit. Valor IVA\nCHAVE PALHETAO CSLE CI-36 cu CI-136\n560 1.00 14.200 14.20 23\nTotal de pecas: 1\nVALOR LIQUIDO IVA VALOR IVA\n0.00 0 0.00\n0.00 6 0.00\n0.00 13 0.00\n11.54 23 2.66\nDESCONTO 0.00\nTOTAL DOCUMENTO EURO 14.20\nNumerario .................. 14.20\n2Jyy-Processado por programa\ncertificado N. 1627/AT\nLocal Carga : Nossa Morada Hora: 17:18\nLocal Descarga: Morada Cliente Hora: 23:59\nMatricula\nRef Nome: FLIKEHOME\nObrigado Pela Visita - Volte Sempre\nTALAO INDISPENSAVEL P/ENTREGA –RECLAMACAO\nGARANTIA PECA 1 MES – NFPC\n"
+  }
+}

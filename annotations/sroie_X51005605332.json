@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Popular Book Co. (M) Sdn Bhd",
+    "address": "No 8, Jalan 7/118B, Desa Tun Razak, 56000 Kuala Lumpur, Malaysia",
+    "phone": "03-9201 6281/6920",
+    "tax_id": "001492992000",
+    "website": "www.popular.com.my"
+  },
+  "transaction": {
+    "date": "2018-03-14",
+    "time": "12:52:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 7.5,
+    "tax": 0.45,
+    "tip": 0.0,
+    "total": 7.95,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CBE Rubber Band 200gm",
+      "quantity": 1,
+      "unit_price": 7.5,
+      "total_price": 7.95,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 2.05
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005605332.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "POPULAR BOOK CO. (M) SDN BHD\n(Co. No. 113825-W)\n(GST Reg No. 001492992000)\nNo 8, Jalan 7/118B, Desa Tun Razak\n56000 Kuala Lumpur, Malaysia\nSUNWAY VELOCITY\nTel : 03-9201 6281/6920\n14/03/18 12:52 Slip No.: 0040081037\nLEE WIN LEE Trans: 90243\nDescription Amount\nCBE Rubber Band200gm 7.95 T\nTotal RM Incl. of GST 7.95\nCash -10.00\nCHANGE 2.05\nItem Count 1\nGST Summary Amount (RM) Tax (RM)\nT @ 6% 7.50 0.45\nTotal Savings 0.00\nBE A POPULAR CARD MEMBER AND ENJOY SPECIAL DISCOUNTS\nTHANK YOU. PLEASE COME AGAIN.\nwww.popular.com.my\nBuy Chinese books online\nwww.popularonline.com.my"
+  }
+}

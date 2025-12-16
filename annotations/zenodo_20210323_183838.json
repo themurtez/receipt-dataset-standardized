@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Sol Dourado Shopping",
+    "address": "Sitio do Semino 484 A, 8125-303 Quarteira",
+    "phone": "963301878",
+    "tax_id": "247388858",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-11",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "cash",
+    "subtotal": 0.61,
+    "tax": 0.14,
+    "tip": 0.0,
+    "total": 0.75,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Etiquetas Autocolantes",
+      "quantity": 1,
+      "unit_price": 0.75,
+      "total_price": 0.75,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_183838.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SOL DOURADO SHOPPING\nCHEN SHUANG\nContribuinte Nr: 247388858\nSITIO DO SEMINO 484 A\n8125-303 QUARTEIRA\nTel: 963301878\n2019-03-11\nNome : Flikehome Algarve, Lda.\nCont.Nr: 514407395\nMorada : lisboa\nORIGINAL\nFatura Nr: FAC 201/00073469\nIVA Descricao\n23% ETIQUETAS AUTOCOLANTES\n1 X 0.75 0.75\nTotal A Pagar Euros: 0.75\nNumero De Artigos : 1\nRecebido (Euros) : 0.75\nTroco (Euros) : 0.00\nIVA% Base IVA Total\n23% 0.61 0.14 0.75\nTotal: 0.75Euros\nFatura indispensavel para troca em 8 dias.\nViuZ - Processado por Programa\nCertificado Nr: 1174/AT\nOBRIGADO E VOLTE SEMPRE"
+  }
+}

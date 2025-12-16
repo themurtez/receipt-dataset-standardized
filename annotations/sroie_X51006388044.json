@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Perniagaan Riang Ria",
+    "address": "NO7, JLN UERO, SHAH ALAM",
+    "phone": "",
+    "tax_id": "001662431232 1210644T",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-05-10",
+    "time": "21:51:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 21.32,
+    "tax": 1.28,
+    "tip": 0.0,
+    "total": 22.6,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "27\" T.S Basin Besar",
+      "quantity": 1,
+      "unit_price": 21.32,
+      "total_price": 21.32,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 7.4
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006388044.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PERNIAGAAN RIANG RIA\ngst:001662431232 1210644T\nTAX INVOICE\nNO7,JLN UERO,SHAH ALAM.\n------------------------------------\n27\" T.S BASIN BESAR 400002\n1.00 X 21.32 21.32\nS\nNo. Qtys: 1.00 No. Items: 1\n------------------------------------\nTOTAL 22.60\nCASH 30.00\nCHANGE 7.40\nTAXABLE AMT (S) 21.32\nGST 6% 1.28\nTAXABLE AMT (Z) 0.00\nGST 0% 0.00\n------------------------------------\nTHANK YOU FOR SHOPPING\nGOOD SOLD ARE NOT REFUNDABLE\n\nRabu, 10-05-2017 Time : 21:51\nCashier : NSK\nWT1 SFULL OP Inv: R000039737\n"
+  }
+}

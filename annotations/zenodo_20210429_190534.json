@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Minipreco",
+    "address": "LG DO CALHARIZ 10, 1200-086 LISBOA",
+    "phone": "",
+    "tax_id": "PT503003808",
+    "website": "www.minipreco.pt"
+  },
+  "transaction": {
+    "date": "2019-09-02",
+    "time": "08:58:00",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 1.59,
+    "tax": 0.1,
+    "tip": 0.0,
+    "total": 1.69,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "MORANGO EMBALADO",
+      "quantity": 1,
+      "unit_price": 1.59,
+      "total_price": 1.69,
+      "category": "Food",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_190534.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Dia Portugal - Sup. Soc. Unip., Lda\nDIA FONTE EDF ALVARES CABRAL\n02770-190 PACO ARCOS\nC.R.C./NUM. CONTRIB.: PT503003808\nCAPITAL SOCIAL EMPRESA: 51,802,855.12\nNOME CLIENTE:\nFLIKEHOME\nDIRECÃO CLIENTE:\nNUM. CONTRIBUINTE: 510776914\nLOCALIDADE:\nCOD. POST:\nFATURA/RECIBO\nFT 021140320190102/00008391\nCAIXA: 3 DATA: 2019-09-02 HORA: 08:58\nCODIGO DE OPERARIO: 53040\nCODIGO DESCRIÇÃO\nTOTAL\nIVA PVP/UNIT QUANTIDADE DESCONTOS\n33404 MORANGO EMBALADO 1.69\n6.00% 1.69 1 0.00\nTOTAL A PAGAR EUROS 1,69\nMULTIBANCO 1.69\nTROCO 0,00\nTIPO IVA BASE IVA\n01 6.00% 1.59 0.10 1.69\nTOTAL 1.59 0.10 1.69\nLOCAL CARGA:\nLG DO CALHARIZ 10\n1200-086 LISBOA\nDATA: 2019-09-02 HORA: 08:58\nLOCAL DESCARGA: MORADA DO CLIENTE\nNil6-Processado por prog.cert. n°1752/AT\nwww.minipreco.pt\nSIRPEEE PT000245\n--- COPIA PARA O CLIENTE ---"
+  }
+}

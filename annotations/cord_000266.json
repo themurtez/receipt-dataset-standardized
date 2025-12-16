@@ -1,0 +1,145 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 1065000.0,
+    "tax": 112890.0,
+    "tip": 0.0,
+    "total": 1241790.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "UDANG REBUS (M) MEDIUM",
+      "quantity": 1,
+      "unit_price": 162000.0,
+      "total_price": 162000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "AGSIO TH PC JMR MEDIUM",
+      "quantity": 1,
+      "unit_price": 147000.0,
+      "total_price": 147000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "AYAM GR KERING",
+      "quantity": 1,
+      "unit_price": 108000.0,
+      "total_price": 108000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "BIHUN GORENG JJ MEDIUM",
+      "quantity": 1,
+      "unit_price": 87000.0,
+      "total_price": 87000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "NASI GORENG NJUN MEDIUM",
+      "quantity": 1,
+      "unit_price": 87000.0,
+      "total_price": 87000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "HOT TEA",
+      "quantity": 5,
+      "unit_price": 12000.0,
+      "total_price": 60000.0,
+      "category": "Beverages",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "IKAN GURAME MED SOP IKAN",
+      "quantity": 1,
+      "unit_price": 158000.0,
+      "total_price": 158000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "CUMI GR JUNJAN XLARGEX",
+      "quantity": 1,
+      "unit_price": 172000.0,
+      "total_price": 172000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "SUP BURUNG DARA",
+      "quantity": 1,
+      "unit_price": 38000.0,
+      "total_price": 38000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "ICED TEA",
+      "quantity": 1,
+      "unit_price": 12000.0,
+      "total_price": 12000.0,
+      "category": "Beverages",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHINESE TEA KWAN'IM",
+      "quantity": 1,
+      "unit_price": 14000.0,
+      "total_price": 14000.0,
+      "category": "Beverages",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "NASI PUTIH",
+      "quantity": 2,
+      "unit_price": 10000.0,
+      "total_price": 20000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 12,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000266.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 UDANG REBUS (M) 162,000\n =*MEDIUM*=\n 1 AGSIO TH PC JMR 147,000\n =*MEDIUM*=\n 1 AYAM GR KERING 108,000\n 1 BIHUN GORENG JJ 87,000\n =*MEDIUM*=\n 1 NASI GORENG NJUN 87,000\n =*MEDIUM*=\n 5 HOT TEA 12,000 60,000\n 1 IKAN GURAME MED 158,000\n SOP IKAN\n 1 CUMI GR JUNJAN 172,000\n =*XLARGEX*=\n 1 SUP BURUNG DARA 38,000\n 1 ICED TEA 12,000\n 1 CHINESE TEA 14,000\n KWAN'IM\n 2 NASI PUTIH 10,000 20,000\n FOOD 959,000\n BEVERAGES 86,000\n OTHERS 20,000\n SUBTOTAL 1,065,000\n SERVICE CHARGE 63,790\n Tax 10% 112,890\n DU 1,241,790"
+  }
+}

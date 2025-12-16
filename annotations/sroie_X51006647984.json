@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "Kechara Oasis",
+    "address": "63&67-P1, Block D, The Suite, Jaya One, No. 72A, Jalan Universiti, 46200, Petaling Jaya, Selangor.",
+    "phone": "03-79681818",
+    "tax_id": "000619970560",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-15",
+    "time": "13:06:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 55.3,
+    "tax": 3.65,
+    "tip": 0.0,
+    "total": 64.5,
+    "accounting_category": "Food & Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Butter Mushrooms (S)",
+      "quantity": 1,
+      "unit_price": 16.8,
+      "total_price": 16.8,
+      "category": "Food",
+      "accounting_category": "Food & Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Mix Vegetable Curry (S)",
+      "quantity": 1,
+      "unit_price": 15.8,
+      "total_price": 15.8,
+      "category": "Food",
+      "accounting_category": "Food & Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Brown Rice",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Food",
+      "accounting_category": "Food & Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Plain Water (Hot)",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Longan Sea Coconut (S Bar)",
+      "quantity": 1,
+      "unit_price": 6.8,
+      "total_price": 6.8,
+      "category": "Dessert",
+      "accounting_category": "Food & Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Special Day Set Lunch",
+      "quantity": 1,
+      "unit_price": 11.9,
+      "total_price": 11.9,
+      "category": "Food",
+      "accounting_category": "Food & Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Bak Kut Teh",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Food & Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chinese Tea (Hot)",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": -35.5
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006647984.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "31\n**TAX INVOICE**\nKechara Oasis\nKechara Vegetarian Restaurant S/B\n(835643-A)\n63&67-P1, Block D, The Suite, Jaya One,\nNo. 72A, Jalan Universiti,\n46200, Petaling Jaya, Selangor.\nTel:03-79681818\nGST ID : (000619970560)\n* Receipt *\nCheck 21485-00 15/05/18 13:06\nTable 31 2 Guest(s) Teh Guat Hee\nButter Mushrooms (S) 1 16.80 S\nMix Vegetable Curry (S) 1 15.80 S\nBrown Rice 1 3.00 S\nPlain Water (Hot) 1 0.00 S\nLongan Sea Coconut (S Bar) 1 6.80 S\nSpecial Day Set Lunch 1 11.90 S\nBak Kut Teh 1 0.00 S\nChinese Tea (Hot) 1 0.00 S\nSub-total 55.30\nService Charge 5.53\nGST at 6% 3.65\nTotal 64.50\nGST Taxable Amt 60.83\nGST 6% 3.65\nZero Taxable Amt 0.00\nStn 01 15/05/18 13:07:00\nPayment 0000003 Check 21485-00\nBill Amt 64.50\nBill Amt 64.50 Tips 0.00\nCASH Pay Amt 100.00\nChange -35.50\nThank You! Please Come Again!"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 498608.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 498608.0,
+    "accounting_category": "retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "VALINO DONNA",
+      "quantity": 2,
+      "unit_price": 349900.0,
+      "total_price": 698000.0,
+      "category": "clothing",
+      "accounting_category": "retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000479.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "94759141 VALINO DONNA 498,608\n2 349,900\ndisc toko 25%( 2 )-174,950\ndisc mrcday 5%( 2 )-26,242\n93025784 SB SIZE 45.5\n3 ITEMS TOTAL 498,608"
+  }
+}

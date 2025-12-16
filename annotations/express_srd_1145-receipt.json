@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "Miguels Mexican",
+    "address": "3035 W. Kennedy Blvd, Tampa, FL",
+    "phone": "(813) 876-2587",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2012-12-26",
+    "time": "16:41:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 60.87,
+    "tax": 4.27,
+    "tip": 0.0,
+    "total": 65.14,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Water",
+      "quantity": 3,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Crab Suiza",
+      "quantity": 1,
+      "unit_price": 13.25,
+      "total_price": 13.25,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Shrimp Veracruz",
+      "quantity": 1,
+      "unit_price": 14.95,
+      "total_price": 14.95,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Enchilada",
+      "quantity": 1,
+      "unit_price": 4.95,
+      "total_price": 4.95,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Fajita BF",
+      "quantity": 1,
+      "unit_price": 13.95,
+      "total_price": 13.95,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Take Out",
+      "quantity": 1,
+      "unit_price": 0.25,
+      "total_price": 0.25,
+      "category": "Service",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "HH Miguels Margarit",
+      "quantity": 4,
+      "unit_price": 3.38,
+      "total_price": 13.52,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1145-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MIGUELS MEXICAN\n3035 W. KENNEDY BLVD\nTAMPA, FL.\n(813) 876 - 2587\n127 MISSY\nTbl 82/1 Chk 55 Gst 3\nDec26'12 04:41PM\n3 WATER 0.00\n1 CRAB SUIZA 13.25\n1 SHRIMP VERACRUZ 14.95\n1 ENCHILADA 4.95\n1 FAJITA BF 13.95\n1 **TAKE OUT** 0.25\n4 HH MIGUELS MARGARIT @ 3.38 13.52\nSubtotal 60.87\nTax 4.27\n05:19PM Total 65.14\nPLEASE PAY YOUR SERVER"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "MR D.I.Y. (JOHOR) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR (MR DIY TESCO TERBAU)",
+    "phone": "",
+    "tax_id": "933109-X",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-01-12",
+    "time": "21:23:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 33.92,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 33.9,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CHOPPING BOARD 35.5x25.5CM",
+      "quantity": 1,
+      "unit_price": 19.0,
+      "total_price": 19.0,
+      "category": "Kitchenware",
+      "accounting_category": "Household",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "AIR PRESSURE SPRAYER SX-575-1 1.5L",
+      "quantity": 1,
+      "unit_price": 8.02,
+      "total_price": 8.02,
+      "category": "Gardening",
+      "accounting_category": "Outdoor",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "WAXCO WINDSHIELD CLEANER 120ML",
+      "quantity": 1,
+      "unit_price": 3.02,
+      "total_price": 3.02,
+      "category": "Automotive",
+      "accounting_category": "Car Accessories",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BOPP TAPE 48MM*100M CLEAR",
+      "quantity": 1,
+      "unit_price": 3.88,
+      "total_price": 3.88,
+      "category": "Office Supplies",
+      "accounting_category": "Stationery",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": -0.02,
+    "change_due": 16.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X00016469620.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "tan woon yann\nMR D.I.Y. (JOHOR) SDN BHD\n(CO.REG :933109-X)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(MR DIY TESCO TERBAU)\n-INVOICE-\n-------------------------------------------------\nCHOPPING BOARD 35.5X25.5CM 803M#\nEZ10HD05 - 24\n8970689                1 X 19.00       19.00\nAIR PRESSURE SPRAYER SX-575-1 1.5L\nHC03-7 - 15\n9066468                1 X  8.02        8.02\nWAXCO WINDSHILED CLEANER 120ML\nWA14-3A - 48\n9557031100236     1 X  3.02        3.02\nBOPP TAPE 48MM*100M CLEAR\nFZ-04 - 36\n6935818350846     1 X  3.88        3.88\nItem(s) : 4                Qty(s) : 4\n-------------------------------------------------\nTOTAL                                        RM 33.92\nROUNDING ADJUSTMENT               -RM 0.02\nTOTAL ROUNDED                        RM 33.90\nCASH                                        RM 50.00\nCHANGE                                     RM 16.10\n-------------------------------------------------\n12-01-19 21:23 SH01 ZK09                   T4 R000027830\nOPERATOR TRAINEE CASHIER\n-------------------------------------------------\nEXCHANGE ARE ALLOWED WITHIN\n7 DAYS WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

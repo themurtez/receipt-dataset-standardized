@@ -1,0 +1,145 @@
+{
+  "merchant": {
+    "name": "Portvgalia",
+    "address": "Rua de S Caetano N° 4, 1249-132 Lisbon",
+    "phone": "213 913 324, 212 511 234",
+    "tax_id": "500236768",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-20",
+    "time": "14:51:55",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 48.07,
+    "tax": 6.73,
+    "tip": 0.0,
+    "total": 54.8,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Imp Branca 25cl",
+      "quantity": 1,
+      "unit_price": 2.7,
+      "total_price": 2.7,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pepsi zero lt",
+      "quantity": 1,
+      "unit_price": 2.1,
+      "total_price": 2.1,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Bacalhau Bras",
+      "quantity": 1,
+      "unit_price": 8.5,
+      "total_price": 8.5,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "1/2 Bacalhau Bras",
+      "quantity": 1,
+      "unit_price": 5.15,
+      "total_price": 5.15,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Bife Vazia",
+      "quantity": 1,
+      "unit_price": 15.1,
+      "total_price": 15.1,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pepsi Lt",
+      "quantity": 1,
+      "unit_price": 2.1,
+      "total_price": 2.1,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pao",
+      "quantity": 1,
+      "unit_price": 0.9,
+      "total_price": 0.9,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pao Torrado fatias",
+      "quantity": 1,
+      "unit_price": 0.65,
+      "total_price": 0.65,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Manteiga",
+      "quantity": 1,
+      "unit_price": 0.6,
+      "total_price": 0.6,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Manteiga Alho",
+      "quantity": 1,
+      "unit_price": 0.8,
+      "total_price": 0.8,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cafe",
+      "quantity": 1,
+      "unit_price": 0.8,
+      "total_price": 0.8,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pudim Flan",
+      "quantity": 1,
+      "unit_price": 3.5,
+      "total_price": 3.5,
+      "category": "Dessert",
+      "accounting_category": "Dessert",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 12,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_215902.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PORTVGÁLIA\nPortugália Rio\nPortugália Restauração, SA\nRua de S Caetano N° 4\n1249-132 Lisbon\nTel 213913324 212 511 234\nN. Contrib. 500236768\nRegisto na Cons. Lisboa n 02036788\nCapital Social 2.859.045,29 Euros\nCliente:\nN: 76914\nFatura simplificada F6 113/156767\n2017-11-20 14:51:55\nQt Artigo IV Total\n@@\n1 Imp Branca 25cl 23 € 2,70\n1 Pepsi zero lt 23 € 2,10\n1 Bacalhau Bras 13 € 8,50\n1/2 Bacalhau Bras 13 € 5,15\n1 Bife Vazia 13 € 15,10\n1 Pepsi Lt 23 € 2,10\n1 Pao 13 € 0,90\n1 Pao Torrado fatias 13 € 0,65\n1 Manteiga 13 € 0,60\n1 Manteiga Alho 13 € 0,80\n1 Cafe 13 € 0,80\n1 Pudim Flan 13 € 3,50\nTotal € 54,80\nPago € 54,80\nTroco € 0,00\nMetodos de pagamento:\nMultibanco € 18,50\nMultibanco € 36,30\nNo\nTaxa Base IVA Total\n23,00 € 4,60 € 1,10 € 5,90\n13,00 € 43,27 € 5,63 € 48,90\nTotal € 48,07 € 6,73 € 54,80\nMesa 50 Emp 10925\nIVA incluido\nconsultas:\nDC 113/351971\nObrigado e volte sempre\n•\nWWIG Processado por programa\ncertificado n. 0071/AT\nCopyright GrupoPIÉ SA"
+  }
+}

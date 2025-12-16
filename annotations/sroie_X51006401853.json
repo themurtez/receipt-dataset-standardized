@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "99 Speed Mart S/B",
+    "address": "LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY, 41150 KLANG, SELANGOR, 1299-SUBANG PERMAI",
+    "phone": "",
+    "tax_id": "000181747712",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-02-07",
+    "time": "18:34:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 35.32,
+    "tax": 2.12,
+    "tip": 0.0,
+    "total": 37.44,
+    "accounting_category": "Retail",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "INDOCAFE COFFEEMIX 3IN1",
+      "quantity": 1,
+      "unit_price": 29.95,
+      "total_price": 29.95,
+      "category": "Groceries",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "CADBURY CHOCOLATE HAZEL",
+      "quantity": 1,
+      "unit_price": 7.49,
+      "total_price": 7.49,
+      "category": "Groceries",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.01,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006401853.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "99 SPEED MART S/B (519537-X)\nLOT P.T. 2811. JALAN ANGSA,\nTAMAN BERKELEY\n41150 KLANG. SELANGOR\n1299-SUBANG PERMAI\nGST ID. NO : 000181747712\n\nINVOICE NO : 17936/102/10275\n\n06:34PM 562004 07-02-17\n\n0857 INDOCAFE COFFEEMIX 3IN1 RM29.95 s\n407 CADBURY CHOCOLATE HAZEL RM7.49 s\n\nTotal Sales (Inclusive GST) RM 37.44\nRounding Adjustment RM .01\nRounding RM 37.45\nCREDIT RM 37.45\nCHANGE RM .00\n\nGST Summary Amount(RM) Tax(RM)\ns = 6% 35.32 2.12\n\nThank You. Please come again\nKeep the invoice for applicable returns"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "WORTEN",
+    "address": "Cerro Alagoa, 3Fase, Lote 32, Vale Mangude 8200-161",
+    "phone": "808 100 007",
+    "tax_id": "PT503630030",
+    "website": "www.worten.pt"
+  },
+  "transaction": {
+    "date": "2019-05-26",
+    "time": "19:34:27",
+    "currency": "EUR",
+    "payment_method": "Visa Electron",
+    "subtotal": 9.99,
+    "tax": 1.67,
+    "tip": 0.0,
+    "total": 9.99,
+    "accounting_category": "Electronics",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "AURICULAR JBL T",
+      "quantity": 1,
+      "unit_price": 9.99,
+      "total_price": 9.99,
+      "category": "Headphones",
+      "accounting_category": "Electronics",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210322_161137.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "WMB Albufeira\nWORTEN Equipamentos para o Lar SA\nServiço Apoio Cliente: 808 100 007\nCerro Alagoa, 3Fase, Lote 32, Vale Mangude 8200-161\nRegistada CRC Porto sob n° 503630030\nNIF: PT503630030\nCap. Soc. 10.150.000,00 EUR SIMPEE: PT010217\nFatura Simplificada Original\nN° FS:19/07/014951 26/05/2019 19:34\nNIF: PT5151470935\nVALOR\nIVA DESCRIÇÃO\nAcess. ITENUNIDADE\nAURICULAR IE JBL T\n9.99\n110 PRE\n9.99\nTOTAL A PAGAR\n9.99\nCartao Credito\n9.99\n0,00\nIVA\n23.00%\nTotal Liq.\n0.12\n1.67\nTotal\n9.99\n190620063024071033514473935\nID: ESTB:000146500 AUT: 5566094\nWORTEN MOBILE\nALBUFEIRA\nTerminal Pagamento Automático: 00392401\n2019-05-26 19:34:27 P05 T013 Mss803\nMILLENNIUM BCP\nAMARAL SALVADOR\nCartão: ***** 1008/35\nA0000000032010 VISA ELECRON\nCOMPRA\n3.99€ VELC PP N\nREINCI ERE\nINOVACAO E CONFIANCA\nCOPY CLIENT\nPROCESSED BY SIBS\nTALAO INCLUIDO\nTalao Indispensavel para Substitucao\nMediante politica satisfaco/devolucao\nwww.worten.pt"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "99 Speed Mart S/B",
+    "address": "Lot P.T. 33198, Batu 4, Jalan Kapar, Mukim Kapar, 42100 Klang, Selangor",
+    "phone": "",
+    "tax_id": "000181747712",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-06-30",
+    "time": "20:10:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 25.74,
+    "tax": 1.54,
+    "tip": 0.0,
+    "total": 27.28,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "MARIGOLD HL MILK 1L",
+      "quantity": 2,
+      "unit_price": 6.79,
+      "total_price": 13.58,
+      "category": "Dairy",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "TIGER BEER BOTTLE 660ML",
+      "quantity": 1,
+      "unit_price": 13.7,
+      "total_price": 13.7,
+      "category": "Beverages",
+      "accounting_category": "Alcohol",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.02,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619777.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "99 SPEED MART S/B (519537-X)\nLOT P.T. 33198, BATU 4\nJALAN KAPAR, MUKIM KAPAR\n42100 KLANG, SELANGOR\n1558-TMN PUSAT KEPONG\nGST ID. NO : 000181747712\nINVOICE NO : 17714/102/T0382\n08:10PM 560197 30-06-16\nB019 MARIGOLD HL MILK 1L RM13.58 s\n@2 X RM 6.79\n559 TIGER BEER BOTTLE 660ML RM13.70 s\nTotal Sales (Inclusive GST) RM 27.28\nRounding Adjustment RM .02\nRounding RM 27.30\nCASH RM 27.30\nCHANGE RM .00\nGST Summary Amount(RM) Tax(RM)\ns = 6/% 25.74 1.54\nThank You. Please come again\nKeep the invoice for applicable returns"
+  }
+}

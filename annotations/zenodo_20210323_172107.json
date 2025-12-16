@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "NOS COMUNICACOES SA",
+    "address": "R ATOR ANTONIO SILVA, 9",
+    "phone": "",
+    "tax_id": "502604751",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-07-14",
+    "time": "10:21:00",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO DEBITO",
+    "subtotal": 8.13,
+    "tax": 1.87,
+    "tip": 0.0,
+    "total": 10.0,
+    "accounting_category": "Telecommunications",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Kanguru Prepaid Top-up",
+      "quantity": 1,
+      "unit_price": 8.13,
+      "total_price": 10.0,
+      "category": "Telecommunications",
+      "accounting_category": "Telecommunications",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_172107.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "N.CAIXA: 0010/0676/04 DATA: 2019-07-14\nCONTA: 041999103142149 HORA: 10:21\nMULTIBANC DEBITO **************1537 00\nID.: 501649FE20\nNOS COMUNICACOES SA\nR ATOR ANTONIO SILVA, 9\nN.I.F.: 502604751\nCapital Social: 576,326,759.00 EUR\n502604751\n\nFATURA SIMPLIFICADA:\nFS A2019C1/000157303\nMontante : 10,00 EURO\n(IVA INCLUIDO A TAXA DE 23,00%)\n\nN.I.F.: 514407395\nKanguru\nFoi efectuado o carregamento\nAcima indicado\n\nn7pm-Processado por programa\ncertificado n. 2591/AT"
+  }
+}

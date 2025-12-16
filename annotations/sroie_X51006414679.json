@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "De Maximum Thai Express Sdn Bhd",
+    "address": "Blk 2, Unit G1 & G2, Bestari Terrace, Lot PTD 182908 & PTD 143216, Jalan Danga, Taman Nusa Bestari, 81300",
+    "phone": "",
+    "tax_id": "1241045-D",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-14",
+    "time": "23:28:59",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 21.8,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 21.8,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "D15 THAI ICE TEA",
+      "quantity": 1,
+      "unit_price": 8.9,
+      "total_price": 8.9,
+      "category": "Beverage",
+      "accounting_category": "Food & Drink",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "FR01 BELACAN FRIED RICE",
+      "quantity": 1,
+      "unit_price": 12.9,
+      "total_price": 12.9,
+      "category": "Main Course",
+      "accounting_category": "Food & Drink",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006414679.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "De Maximum Thai Express Sdn Bhd\n1241045-D\nBlk 2, Unit G1 & G2, Bestari Terrace,\nLot PTD 182908 & PTD 143216,\nJalan Danga, Taman Nusa Bestari, 81300\nTAX INVOICE NO 8\n5664\nDate: 14/04/2018 11:28:59 PM\nCashier: s201\nWaiter: ANJO\nQty Code/Desc Unit Price Total RM\n1 D15 8.90 8.90\nTHAI ICE TEA\n1 FR01 12.90 12.90\nBELACAN FRIED RICE\nTotal Amount : 21.80\nRounding Adj : 0.00\nTotal Amount: 21.80\nTOTAL: RM 21.80\nType 2 Qty: 2 14/04/2018\n...Xposmart WiFiPOS Since 1985..."
+  }
+}

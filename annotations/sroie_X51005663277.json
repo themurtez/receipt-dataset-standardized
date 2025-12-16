@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "SYARIKAT PERNIAGAAN GIN KEE",
+    "address": "NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR.",
+    "phone": "03-40210276",
+    "tax_id": "000750673920",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-02",
+    "time": "08:44:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 28.0,
+    "tax": 1.68,
+    "tip": 0.0,
+    "total": 29.68,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "105MM/4' CUTTING DISC",
+      "quantity": 1,
+      "unit_price": 29.68,
+      "total_price": 29.68,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005663277.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS,\nSETAPAK,\n53200, KUALA LUMPUR.\nTEL: 03-40210276\nGST ID: 000750673920\nSIMPLIFIED TAX INVOICE\nCASH\nDoc No. CS00011926 Date: 02/12/2017\nCashier USER Time: 08:44:00\nSalesperson Ref.\nItem Qty S/Price Amount Tax\n3122 1 29.68 29.68 SR\n(W33) 105MM/4' CUTTING DISC\nTotal Qty: 1 29.68\nTotal Sales (Excluding GST) 28.00\nDiscount 0.00\nTotal GST 1.68\nRounding 0.00\nTotal Sales (Inclusive of GST) 29.68\nCASH 29.68\nChange 0.00\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR 6 28.00 1.68\nTotal: 28.00 1.68\nCASH NOTE IS NOT REFUNDABLE. THANK YOU."
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "merchant": {
+    "name": "RESTORAN SIAM VILLAGE",
+    "address": "No. 8, Jalan Permas 10/7, Permas Jaya, 81750 Johor Bahru.",
+    "phone": "013-7279552",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-27",
+    "time": "",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 275.9,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 275.9,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CLAYPOT F/TOFU",
+      "quantity": 1,
+      "unit_price": 18.9,
+      "total_price": 18.9,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "STIR RED CURRY",
+      "quantity": 2,
+      "unit_price": 18.9,
+      "total_price": 37.8,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "THAI ICE TEA",
+      "quantity": 2,
+      "unit_price": 6.9,
+      "total_price": 13.8,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "THAI ICE GREEN",
+      "quantity": 2,
+      "unit_price": 6.9,
+      "total_price": 13.8,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "THAI STYLE /ACACIA LEAF",
+      "quantity": 1,
+      "unit_price": 16.0,
+      "total_price": 16.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "STEAMED SQUIDS",
+      "quantity": 1,
+      "unit_price": 32.0,
+      "total_price": 32.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SPICY THAI TOM AFOOD (S)",
+      "quantity": 2,
+      "unit_price": 25.0,
+      "total_price": 50.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "FRIED KANGKUNG",
+      "quantity": 1,
+      "unit_price": 16.9,
+      "total_price": 16.9,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "S/FRIED KAILAN D FISH",
+      "quantity": 1,
+      "unit_price": 18.9,
+      "total_price": 18.9,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "THAI STYLE PRAWN",
+      "quantity": 2,
+      "unit_price": 15.9,
+      "total_price": 31.8,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "WHITE RICE (PER FILL)",
+      "quantity": 13,
+      "unit_price": 2.0,
+      "total_price": 26.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 28,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006414394.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "f'q4 o106\nRESTORAN SIAM VILLAGE\nNo. 8, Jolan Permos 10/7,\nPermas Jaya, 81750 Johor Babru\nTel: 013-7279552\nCash Receipt Table  ).\n.\nHQ\nBill No: 1863\nSevr By : manaqer-\nCreate Time : 27/04/2018\nQty Description Total (RM)\nBC001 CLAYPOT F/TOFU 18.90\n2 C004 STIR RED CURRY 37.80\n@ RM18.90\n2 DR001C THAI ICE TEA 13.80\n@RM6.90 \nDR002C THAI ICE GREEN 13.90\n@RM6.90\nSD002 THAIL STYLE 16.00\n/ACACIA LEAF\nSO003L STEAMED SQUIDS 32.00\nt oo2S SPICY THAI TOM\nAFOOD (5) 50.00\n@RM25.00\nVool FRIED KANGKUNG 16.90\nV002 S/FRIED KAILAN\nD FISH 18.90\nW003 THAI STYLE\nPRAWN 31.80\n@RM15.90\nW006 WHITE RICE (PER\nFILL) 26.00\n280.SUBTOTAL: 275.90\nType: 11 Oty : 28\nBill Total : 275.90\nRounding Adj :\nNET TOTAL : 275.90\nCASH\n275.90\nThank You!\nPlease Come Again\nmanager-\n"
+  }
+}

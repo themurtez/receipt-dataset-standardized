@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Segi Cash & Carry Sdn.Bhd",
+    "address": "PT17920, SEKSYEN U9, 40150 SHAH ALAM, SELANGOR DARUL EHSAN",
+    "phone": "011-3194 0284",
+    "tax_id": "001951645696",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-01-05",
+    "time": "12:41:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 12.61,
+    "tax": 0.71,
+    "tip": 0.0,
+    "total": 12.6,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Budget Toilet Roll 20's",
+      "quantity": 1,
+      "unit_price": 12.61,
+      "total_price": 12.61,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": -0.01,
+    "change_due": 37.4
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006334699.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Segi Cash & Carry Sdn.Bhd\n(317041-W)\nPT17920, SEKSYEN U9,\n40150 SHAH ALAM,\nSELANGOR DARUL EHSAN.\nGST Reg. No.: 001951645696\nInvoice No: 45691\nDate: 05 Jan 2017 12:41pm\nCounter: 07\nBUDGET TOILET ROLL 20'S\n1 x 12.61 12.61\nNo of items: 1\nSubtotal Incl. GST:RM 12.61\nRounding:RM -0.01\nTotal Incl. GST:RM 12.60\nCash:RM 50.00\nChange:RM 37.40\nMissed Point Today: 11\nServed by WINNA FRISKANA MAYESI\nGST Code Amount(RM) Tax(RM)\nS 06.0% 11.90 0.71\n** 086807162140045691 **\nThank You. Please come again.\nGoods Sold Are Not Returnable.\nFor feedback or complaint, please call:\n011-3194 0284\n*REDEEM VOUCHER BEFORE POINTS EXPIRY!*"
+  }
+}

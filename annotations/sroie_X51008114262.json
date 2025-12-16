@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "99 Speed Mart S/B",
+    "address": "Lot P.T. 2811, Jalan Angsa, Taman Berkeley, 41150 Klang, Selangor, 1237-Tmn Indah Perdana",
+    "phone": "",
+    "tax_id": "000181747712",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-05",
+    "time": "17:23:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 129.55,
+    "tax": 7.6,
+    "tip": 0.0,
+    "total": 137.15,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Knorr Chicken Stock 1K",
+      "quantity": 8,
+      "unit_price": 16.85,
+      "total_price": 134.8,
+      "category": "Grocery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Gardenia Enriched White",
+      "quantity": 1,
+      "unit_price": 2.35,
+      "total_price": 2.35,
+      "category": "Grocery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 9,
+    "rounding": 0.0,
+    "change_due": 13.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008114262.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "99 SPEED MART S/B (519537-X)\nLOT P.T. 2811, JALAN ANGSA,\nTAMAN BERKELEY\n41150 KLANG, SELANGOR\n1237-TMN INDAH PERDANA\nGST ID. NO : 000181747712\nINVOICE NO : 18398/103/T0126\n05:23PM 568268 05-05-18\n0715 KNORR CHICKEN STOCK 1K RM134.80 s\n88 X RM 16.85\n8048 GARDENIA ENRICHED WHIT RM2.35 z\nTotal Sales (Inclusive GST) RM 137.15\nCASH RM 150.15\nCHANGE RM 13.00\nGST Summary Amount(RM) Tax(RM)\ns = 6% 127.20 7.60\nz = 0% 2.35 .00\nThank You, Please come again\nKeep the invoice for applicable returns"
+  }
+}

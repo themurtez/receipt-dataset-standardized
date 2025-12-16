@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "Morganfield's",
+    "address": "Lot 50, Floor T2, Sky Avenue, Genting Highlands, Pahang, 69000 Pahang, Malaysia",
+    "phone": "",
+    "tax_id": "0000 6771 0976",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-23",
+    "time": "18:43:34",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 559.53,
+    "tax": 33.57,
+    "tip": 0.0,
+    "total": 593.1,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Ribs Platter",
+      "quantity": 1,
+      "unit_price": 259.9,
+      "total_price": 259.9,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Naughty Spare Rib - Full Slab",
+      "quantity": 1,
+      "unit_price": 106.9,
+      "total_price": 106.9,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Apple - 350ml",
+      "quantity": 1,
+      "unit_price": 13.9,
+      "total_price": 13.9,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Sour Apple Mojito",
+      "quantity": 1,
+      "unit_price": 18.9,
+      "total_price": 18.9,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Berry Easy",
+      "quantity": 1,
+      "unit_price": 18.9,
+      "total_price": 18.9,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Aust Rib-eye Steak",
+      "quantity": 1,
+      "unit_price": 21.9,
+      "total_price": 21.9,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Fruity Garden Salad",
+      "quantity": 1,
+      "unit_price": 21.9,
+      "total_price": 21.9,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "HH Asahi 1+1/2",
+      "quantity": 1,
+      "unit_price": 77.8,
+      "total_price": 77.8,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005442361.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Morganfield's\nHome of Sticky Bones\nTimeless Kitchenette Sdn Bhd\nCompany no: 1174703-K\nGST Reg no: 0000 6771 0976\nLot 50, Floor T2, Sky Avenue Genting Highlands\nPahang, 69000 Pahang Malaysia\nGuest Check\nInvoice no: 000039121\nDate: 2018-03-23\nCashier : Mizan Genting Server:\nOpen: 18:43:34 Table: 25\nPax: 6\n1 Ribs Platter SR 259.90\n1 Naughty Spare Rib - Full SR 106.90\nSlab\n1 Apple - 350ml SR 13.90\n1 Sour Apple Mojito SR 18.90\n1 Berry Easy SR 18.90\n1 Aust Rib-eye Steak SR 21.90\n1 Fruity Garden Salad SR 21.90\n2 HH Asahi 1+1/2 SR 77.80\nSub-total: 593.10\n(Inclusive) GST 6% 33.57\n19:32:35\nTotal: 593.10\nGST Summary\n6% SR 559.53 33.57\n0% 0.00 0.00"
+  }
+}

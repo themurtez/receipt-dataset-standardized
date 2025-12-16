@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-01",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 30000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 30000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ROTI 'O'",
+      "quantity": 3,
+      "unit_price": 10000.0,
+      "total_price": 30000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SHOPPING BAG ROTI 'O'",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Bag",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 20000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000392.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROTI 'O'\n3 X 10.000 30.000\nSHOPPING BAG ROTI 'O' 370/\n1 X 0 0\nSUBTOTAL 4 PCS\n30.000\nDISCOUNT 0\nROUNDED 0\nPAID 30.000\n50.000\n50.000\nCHANGE 20.000\nNOV 2017"
+  }
+}

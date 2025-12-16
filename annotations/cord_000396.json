@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "BAKE",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "BCA Debit",
+    "subtotal": 58000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 58000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Cheese Tart",
+      "quantity": 2,
+      "unit_price": 29000.0,
+      "total_price": 58000.0,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000396.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "*2 Pcs - Cheese Tart Rp58000.00\nBag-S\nPS Carrier\nSubtotal: Rp58000.00\nTotal: Rp58000.00\nCustomer Paid BCA Debit: Rp58000.00\nBCA Debit: Rp0.00"
+  }
+}

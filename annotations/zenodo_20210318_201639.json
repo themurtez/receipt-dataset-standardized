@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Dia Portugal - Sur, Soc. Unip., Lda",
+    "address": "Qta Fonte EDF Alvares Cabral, 0270-190 Paco Arcos",
+    "phone": "",
+    "tax_id": "PT503003808",
+    "website": "www.miniprecodisney.com"
+  },
+  "transaction": {
+    "date": "2019-01-05",
+    "time": "12:36:00",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 5.28,
+    "tax": 0.97,
+    "tip": 0.0,
+    "total": 6.25,
+    "accounting_category": "Grocery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "COMPAL FRESH LARANJA",
+      "quantity": 1,
+      "unit_price": 1.49,
+      "total_price": 1.49,
+      "category": "Beverage",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "REF S/GAS LARANJA",
+      "quantity": 4,
+      "unit_price": 1.19,
+      "total_price": 4.76,
+      "category": "Beverage",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_201639.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Dia Portugal - Sur, Soc. Unip., Lda\nQTA FONTE EDF ALVARES CABRAL\n0270-190 PACO ARCOS\nC.R.C. /NUM. Contrib.: PT503003808\nCAPITAL SOCIAL EMPRESA: 51.802.855,12\nNOME CLIENTE:\nFLIKHOME\nDIRECAO CLIENTE:\nLISBOA\nNUM. CONTRIBUINTE: 510776914\nLOCAL: CHIADO\nCOD. POST:      FATURA/RECIBO\nFT 021144021901012/00000150\nCAIXA: 4 DATA: 2019-01-05 HORA: 12:36\nCODIGO DE OPERADOR: 50372\nCODIGO DESCRIÇAO TOTAL\nIVA PVP/UNIT QUANTIDADE DESCONTOS\n59444 COMPAL FRESH LARANJA 1,49\n6,00% 1,49 1 0,00\n500632 REF S/GAS LARANJA 4,76\n23,00% 1,19 4 0,00\nTOTAL A PAGAR EUROS 6,25\nMULTIBANCO 6,25\nTROCO 0,00\nTIPO IVA BASE IVA\n01 6,00% 1,41 0,08 1,49\n03 23,00% 3,87 0,89 4,76\nTOTAL 5,28 0,97 6,25\nLOCAL CARGA:\nLG DO CALHARIZ 10\n1200-086 LISBOA\nDATA: 2019-01-05 HORA : 12:36\nLOCAL DESCARGA: MORADA DO CLIENTE\nSOY1- Processado por prog. cert. n° 1752/AT\nwww.miniprecodisney.com\nSIRFPEE PT000245"
+  }
+}

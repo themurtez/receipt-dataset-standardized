@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "KING'S CONFECTIONERY S/B",
+    "address": "LOT NO. G23, GIANT KELANA JAYA, LOT PT244, JLN PERBANDARAN SS6/4, PUSAT BANDAR KELANA JAYA, PETALING",
+    "phone": "03-7803 0974",
+    "tax_id": "000294068032",
+    "website": "www.kings.com.my"
+  },
+  "transaction": {
+    "date": "2017-02-07",
+    "time": "16:16:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 9.9,
+    "tax": 0.56,
+    "tip": 0.0,
+    "total": 9.9,
+    "accounting_category": "Food & Beverages",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Portugues",
+      "quantity": 1,
+      "unit_price": 9.9,
+      "total_price": 9.9,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverages",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 40.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006327960.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KING'S CONFECTIONERY S/B 273500-U (G/KJ)\nLOT NO. G23, GIANT KELANA JAYA\nLOT PT244, JLN PERBANDARAN SS6/4\nPUSAT BANDAR KELANA JAYA, PETALING\nTEL NO: 03 - 7803 0974\n(GST ID : 000294068032)\nTax Invoice\nInv No : GKJ30786544 Date: 07/02/17 16:16\nCashier: FT10060 Ctr :01\n---------------------------------------\nCode Desc: Qty RM \n211011 Portugues 1 9.90 0 9.90 S\nQty 1 9.90\nRounding Adj 0.00\nDue 9.90\nPay 50.00\n---------------------------------------\nChange 40.10\n=======================================\n(Total Included GST @ 6% : 0.56)\nGOODS SOLD NOT RETURNABLE/EXCHANGEABLE!\nTHANK YOU PLEASE COME AGAIN!!\nTASTY BAKING HEALTHY NATION!!!\n==Visit us online at www.kings.com.my==\n"
+  }
+}

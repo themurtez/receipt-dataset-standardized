@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "021-5450773",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2023-03-02",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Card",
+    "subtotal": 510000.0,
+    "tax": 64255.0,
+    "tip": 0.0,
+    "total": 599955.0,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GONG GIBAB",
+      "quantity": 1,
+      "unit_price": 20000.0,
+      "total_price": 20000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BO SSAM",
+      "quantity": 1,
+      "unit_price": 320000.0,
+      "total_price": 320000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "HAEMUL DENJANG",
+      "quantity": 1,
+      "unit_price": 85000.0,
+      "total_price": 85000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "JIGGAE",
+      "quantity": 1,
+      "unit_price": 85000.0,
+      "total_price": 85000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MULNAENGMYON",
+      "quantity": 1,
+      "unit_price": 85000.0,
+      "total_price": 85000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000362.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "021-5450773\nGONG GIBAB 1 20,000\nBO SSAM 1 320,000\nHAEMUL DENJANG 1 85,000\nJIGGAE 1 85,000\nMULNAENGMYON 1 85,000\nSub Total 510,000\nService 35,700\nTax 64,255\nDiscount 0\nTOTAL 599,955\nCard 599,955\nCHANGE 0"
+  }
+}

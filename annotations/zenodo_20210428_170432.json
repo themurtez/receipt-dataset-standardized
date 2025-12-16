@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Worten",
+    "address": "Edificio Amoreiras Plaza, Rua Maria Ulrich, 1070-169 Lisboa",
+    "phone": "",
+    "tax_id": "PT506031330",
+    "website": "www.worten.pt"
+  },
+  "transaction": {
+    "date": "2019-04-03",
+    "time": "16:10:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 97.55,
+    "tax": 22.44,
+    "tip": 0.0,
+    "total": 119.99,
+    "accounting_category": "Consumer Electronics",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TV LED 22 FHD KIWIF K3642X",
+      "quantity": 1,
+      "unit_price": 97.55,
+      "total_price": 119.99,
+      "category": "Electronics",
+      "accounting_category": "Consumer Electronics",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.01
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_170432.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Worten\nEdificio Amoreiras Plaza, Rua Maria Ulrich, 1070-169 Lisboa\n... (Additional text extracted from image)"
+  }
+}

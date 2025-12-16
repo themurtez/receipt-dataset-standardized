@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 73183.0,
+    "tax": 7318.0,
+    "tip": 0.0,
+    "total": 80501.0,
+    "accounting_category": "restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "JUICE JAMBU",
+      "quantity": 1,
+      "unit_price": 16364.0,
+      "total_price": 16364.0,
+      "category": "beverage",
+      "accounting_category": "beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TEH TAWAR",
+      "quantity": 1,
+      "unit_price": 5455.0,
+      "total_price": 5455.0,
+      "category": "beverage",
+      "accounting_category": "beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "N AYM PENYET SAMBAL MATAH",
+      "quantity": 1,
+      "unit_price": 25455.0,
+      "total_price": 25455.0,
+      "category": "food",
+      "accounting_category": "food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TAHU DOMBA MEMBARA",
+      "quantity": 1,
+      "unit_price": 13636.0,
+      "total_price": 13636.0,
+      "category": "food",
+      "accounting_category": "food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TP KULIT",
+      "quantity": 1,
+      "unit_price": 12273.0,
+      "total_price": 12273.0,
+      "category": "food",
+      "accounting_category": "food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 19499.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000767.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 JUICE JAMBU 16,364\n1 TEH TAWAR 5,455\n1 N AYM PENYET\nSAMBAL MATAH 25,455\n1 TAHU DOMBA\nMEMBARA 13,636\n1 TP KULIT 12,273\nSubtotal 73,183\nPB1 7,318\nTotal 80,501\nCASH 100,000\nCash CHANGE -19,499\nTotal Item 5\nTotal Qty 5"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Lubrialbufeira Unipessoal LDA",
+    "address": "Estr. Montechoro Jorre Moqueira, 8200-393 Albufeira",
+    "phone": "707 504 257",
+    "tax_id": "PT 508666989",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-06-20",
+    "time": "11:31:17",
+    "currency": "EUR",
+    "payment_method": "Cartão Debito",
+    "subtotal": 60.0,
+    "tax": 11.22,
+    "tip": 0.0,
+    "total": 60.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Gasoleo Simples",
+      "quantity": 44.15,
+      "unit_price": 1.359,
+      "total_price": 60.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_161714.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "galp\n\nPRE PAGAMENTO\n\nLUBRIALBUFEIRA LDA 19107\nLUBRIALBUFERA UNIPESSOAL LDA\nEST. MONTECHORO JORRE MOGUEIRA\n8200-393 ALBUFEIRA Tel.\nNIF PT508666989\nFatura/Recibo\n\nQuantidade Bomba Preco\n\nPreco Unitário\n\nEUR\n\n44.15 L Bomba 08\nGASOLEO SIMPLES EUR\n1.359 EUR / L EUR\nTotal EUR\n23.00 % IVA A EUR\n\nCliente: 19414\nNome: FLIXEMO ALGARVE LDA\nMorada:\nCódigo Postal:\nLocalidade:\nNumero de cliente: 514407395\nMatrícula: 59-TV-86\nOperador: Valentina Publivola\n\n0210000023AAA0000191072019/0600/0013670\n\nData Hora N Tr POS N°°P Turno\n20-06-19 11:30 56128 01 0002 810\n\nIVA de Caias nos casos em que lai\nseja aplic\nd cliente\n\nA sua opiniao importante!\nPetértie curæosa em\noptima galp com/postos\n\nTotal\n\nCERTICADO N. O 1396/AT\n\nmais se elieola!\nclientes@galp com 707 504 257\n\nEUR\n\nEUR\n\n60.00\n60.00\n\nCARTAO DEBITO\n\nTerminal Pagamento Automätico: 00669589\nData: 2019-06-20 Hora: 11:31:17\nSE M P0S\nID ESTAB.: 1214402 AUT: 161540\n\nCARTAO: ****1008/26\nVISA ELECTRON\n\nPROCESSADO POR SIBS\nCOMPR\n60.0UE VELC PP N\nMLENNIUM BCP\n\nAMARAL/SALVADOR\n\nWORLD 120000102019/0600 0 00 0 0\n"
+  }
+}

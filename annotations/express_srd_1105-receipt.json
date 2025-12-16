@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "The Place 2 Be",
+    "address": "615 Franklin Ave, Hartford, CT 06114",
+    "phone": "8609047891",
+    "tax_id": "",
+    "website": "https://www.Place2BeCT.com"
+  },
+  "transaction": {
+    "date": "2018-02-17",
+    "time": "09:41:47",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 21.5,
+    "tax": 1.37,
+    "tip": 0.0,
+    "total": 22.87,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "American Coffee",
+      "quantity": 1,
+      "unit_price": 1.75,
+      "total_price": 1.75,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Nutella Coconut Pancakes",
+      "quantity": 1,
+      "unit_price": 8.0,
+      "total_price": 8.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "American Coffee",
+      "quantity": 1,
+      "unit_price": 1.75,
+      "total_price": 1.75,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cheddar Grits",
+      "quantity": 1,
+      "unit_price": 10.0,
+      "total_price": 10.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1105-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "THE PLACE 2 BE\nThe Place 2 Be\n615 Franklin Ave\nHartford, CT 06114\n8609047891\nhttps://www.Place2BeCT.com\n--- JOIN US FOR BOTTOMLESS BRUNCH ---\n------ EVERY SATURDAY & SUNDAY ------\n****** $15 BOTTOMLESS MIMOSAS *******\nORDER: Table 17\nDine-In\nCashier: Mariah\n17-Feb-2018 9:41:47A\nGuest 1\n1 American Coffee $1.75\n1 Nutella Coconut Pancakes $8.00\nGuest 2\n1 American Coffee $1.75\n1 Cheddar Grits $10.00\nSubtotal $21.50\nTax $1.37\nTotal $22.87\n"
+  }
+}

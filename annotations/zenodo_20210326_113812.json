@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Ferragens G Lemos, Lda",
+    "address": "Rua da Madalena, 101 - 107, 1100-319 LISBOA",
+    "phone": "21 8869341",
+    "tax_id": "501378723",
+    "website": "geral@viuva.com"
+  },
+  "transaction": {
+    "date": "2019-02-26",
+    "time": "10:13:00",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 9.51,
+    "tax": 1.78,
+    "tip": 0.0,
+    "total": 9.51,
+    "accounting_category": "Tools",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BROCA DEWALT SDS DT9532 31 Øx8mm",
+      "quantity": 1,
+      "unit_price": 7.73,
+      "total_price": 9.51,
+      "category": "Tools",
+      "accounting_category": "Tools",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210326_113812.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Ferragens G Lemos, Lda\nRua da Madalena, 101 - 107\n1100-319 LISBOA\nContribuinte N. 501378723\nCapital Social 34.916,00 Euros\nTel.: 21 8869341 / Fax: 218869158\nMail: geral@viuva.com\nNIF: 510776914\nNome: LIKEHOME MEDIACAO IMOBILIA\nMorada: LISBOA\nLocalidade: LISBOA\nCod.Postal:\nFatura\nNIF: POS19V12/1903680 Original\nData: 26-02-2019 Hora: 10:13\nDESIGNACAO IVAX% QTD VALOR\nBROCA DEWALT SDS DT9532 31 Øx8mm\n23 1.0 9.51\nTaxa valor IVA T.Bruto: 9.51\n6 % 0.00 T.Dsc: 0.00\n23 % 1.78 T.Liq: 7.73\n13 % 0.00 T.IVA: 1.78\nA PAGAR: 9.51\nMULTIBANCO 9.51\n***************\nPro issado por programa certificado nio"
+  }
+}

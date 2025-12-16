@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "GESPOST GESTAO E ADMINISTRACAO DE POSTOS DE ABASTECIMENTO UNIPESSOAL LDA",
+    "address": "AV JOSE MALHOA N 16 1099-090 LISBOA",
+    "phone": "234254547",
+    "tax_id": "510769914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-04-17",
+    "time": "18:07:52",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 14.63,
+    "tax": 3.37,
+    "tip": 0.0,
+    "total": 18.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "COCA-COLA PET 0,5L",
+      "quantity": 2,
+      "unit_price": 1.95,
+      "total_price": 3.9,
+      "category": "Drink",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TRIDENT FRESH DRAG. SPEAR",
+      "quantity": 6,
+      "unit_price": 1.25,
+      "total_price": 7.5,
+      "category": "Gum",
+      "accounting_category": "Confectionery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "WRAP ATUM 170G",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "LIPTON ICE TEA LIMAO 0,5",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Drink",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MAGNUM WHITE TABLETE 25",
+      "quantity": 1,
+      "unit_price": 1.3,
+      "total_price": 1.3,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PROMO TRIDENT - ABR19",
+      "quantity": 1,
+      "unit_price": 0.25,
+      "total_price": 0.25,
+      "category": "Discount",
+      "accounting_category": "Discounts",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_193819.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GESPOST GESTAO E ADMINISTRACAO DE POSTOS\nDE ABASTECIMENTO UNIPESSOAL LDA\nAV JOSE MALHOA N 16 1099-090 LISBOA\nCAP SOC 2.029.928,11 EUR\nC.R.C.I NIF503 769 959\nA.S. REPSOL ANTIA B\nA.E A N 255 S/N 3850 ALBOA A VELHA\nTel.234254547\nFACTURA SIMPLIFICADA\nDATA/HORA 2019-04-17 18:07:52\nN DE OPERAÇÃO.:43067/161309 CAIXA N 2\nVENDEDOR : MARIA SILVA\nE 2 COCA-COLA PET 0,5L 3,90 €\nE 6 TRIDENT FRESH DRAG. SPEAR 7,50 €\nE 3 WRAP ATUM 170G 2,50 €\nE 1 LIPTON ICE TEA LIMAO 0,5 2,00 €\nE 1 MAGNUM WHITE TABLETE 25 1,30 €\nE 1 PROMO TRIDENT - ABR19 0,25 €\n1 Cash Account\nTotal: 18,00 €\nDINHEIRO: 18,00 €\nDINHEIRO: 8,00 €\nTROCO 0,00 €\nTipo Base 23% Total\nE 23.0 % 14,63 € 3,37 € 18,00 €\nIncluido à taxa em vigor\nDoc NR: FS 4306TPV2/290029592\nNOME: O\nNIF: 51076914\nMAIORIA: O\nT/Proc#essado por Programa Certificado\nN 1072/AT\n*** OBRIGADO E BOA VIAGEM ***"
+  }
+}

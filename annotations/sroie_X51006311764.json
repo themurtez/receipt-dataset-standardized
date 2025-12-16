@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "TONYMOLY VIVA CITY",
+    "address": "UNIT L1-044B, VIVACITY MEGAMALL, JALAN WAN ALWI, 93350 KUCHING, SARAWAK.",
+    "phone": "",
+    "tax_id": "000349356032",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-29",
+    "time": "20:19:38",
+    "currency": "MYR",
+    "payment_method": "VISA",
+    "subtotal": 37.64,
+    "tax": 2.26,
+    "tip": 0.0,
+    "total": 39.9,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PURE ECO SNAIL MOISTURE GEL",
+      "quantity": 1,
+      "unit_price": 39.9,
+      "total_price": 39.9,
+      "category": "Cosmetics",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006311764.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TONYMOLY VIVA CITY\n(TONYMOLY SHOP (95874))\nUNIT L1-044B, VIVACITY MEGAMALL,\nJALAN WAN ALWI,\n93350 KUCHING, SARAWAK.\nGST ID : 000349356032\n\nTax Invoice\nTERMINAL : 880\nSALES NO. : 8807947\nSALES DATE : 29/03/2018 20:19:38\nCASHIER : Then Fiona\nCLIENT : CASH\nPOINT EARNED : 0\n--------------------------------\nPURE ECO SNAIL MOISTURE GEL 300 [SR]\nB006000800 1 * 39.90 39.90\nItem Count 1\nTotal Sales Incl. GST 39.90\nRounding Adjustment 0.00\nTotal After Rounding 39.90\nVISA 39.90\nCard No 46 xxxxxxxx 1819\nApp. Code a0000000031010\n46 xxxxxxxx 1819\n\n\n(summary Amount(RM) Tax(RM)\nSR = 6% 37.64 2.26\nPrinted on: 29-03-2018 20:19:59\n\nThank You"
+  }
+}

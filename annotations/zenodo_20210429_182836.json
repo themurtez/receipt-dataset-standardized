@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "SAPORI DI PUGLIA",
+    "address": "RUA TOMAS DE ANUNCIACAO, 25 1350-321",
+    "phone": "218032402",
+    "tax_id": "513755772",
+    "website": "info@lafocacceriapugliese.com"
+  },
+  "transaction": {
+    "date": "2019-09-01",
+    "time": "21:49:11",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 8.4,
+    "tax": 1.25,
+    "tip": 0.0,
+    "total": 9.65,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "COLA",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PIZZA DIAVOLA",
+      "quantity": 1,
+      "unit_price": 7.65,
+      "total_price": 7.65,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_182836.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SAPORI DI PUGLIA\nSAPORI DI PUGLIA, LDA.\nRUA TOMAS DE ANUNCIACAO, 25 1350-321\nTel. 218032402\nN. Contrib. 513755772\nRegisto na Cons. Lisboa n.513755772\nCapital Social 5.000,00 Euros\ninfo@lafocacceriapugliese.com\n\nN.C. 510776914\nFatura simplificada FS 003/68149\nOriginal\n2019-09-01 21:49:11\n\nQt Artigo           IVA      Total\n1 COLA             23       2.00\n1 PIZZA DIAVOLA    13       7.65\n\nDesconto                              -0.85\nTotal                                      9.65\nTaxa        Base    IVA\n23.00    1.63    0.37  2.00\n13.00    6.77    0.88  7.65\nTotal               8.40    1.25  9.65\n\nEmp 7\nIVA incluido\n\nConsultas:\nObrigado e volte sempre\nGRAZIE E ARRIVEDERCI\nHly-Processado por programa\ncertificado n. 0071/AT\n\nCopyright GrupoPIE, SA"
+  }
+}

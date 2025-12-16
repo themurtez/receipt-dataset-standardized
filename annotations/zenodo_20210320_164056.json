@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "BP Duarte Pacheco",
+    "address": "Av.Eng Duarte Pacheco PA Sul, 1070-100 Lisboa",
+    "phone": "213876668",
+    "tax_id": "500052999",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-07-25",
+    "time": "16:08:29",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 62.48,
+    "tax": 14.37,
+    "tip": 0.0,
+    "total": 76.85,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "S/CHUMBO 95 BOMBA NR: 4",
+      "quantity": 1,
+      "unit_price": 76.85,
+      "total_price": 76.85,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210320_164056.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BP DUARTE PACHECO\nFUELGIST24-EXPLORACAO DE POSTOS DE\nABASTECIMENTO E LOJAS DE CONVENIENCIA\nSOCIEDADE UNIPESSOAL LDA.\nAv.Eng Duarte Pacheco PA Sul\n1070-100 LISBOA\nCap.Soc. 25000.00€ C.R.C. LISBOA N.44420\nTEL 213876668 NIF: 500052999\nPOS 1 Oper. 64\nData 2019-07-25 16:08:29 Ref.nr. 5820\nFatura Simplificada FS 27406_004/363327\n****4142****1877\nS/CHUMBO 95 BOMBA NR: 4 1 76,85\n47,76 l 1,609 €\nTOTAL € 76,85\nMULTIBANCO € 76,85\nNumero cartao : ****6566/72\nPontos Emitidos: 48\nPontos por Promocao : 54 Pontos Actuais : 156\nSaldo acumulado Progra Mais : 0.0 EUR\nExpiram a .0.0 EUR\nSaldo acumulado mes: 0.0 EUR\nBP DUARTE PACHECO\n1070-100 LISBOA\nTerminal Pagamento Automotico: 00748886\n2019-07-25 16:08:13 Per027 Tr059 Msg132\nNOVO BANCO\nSALVADOR FERREIRA DO AMARA\nCARTAO: ****6566/72\nA0000000032010 VISA ELECTRON\nCOMPRA 76,85 EUR VELC DB N\nID ESTAB:00028063254 AUT:381981\nREDUNICRE\nINOVACAO E CONFIANCA\nPROCESSADO POR SIBS\nIVA% IVA + LIQ ITLIQ\nIVA4A 23,00% 14,37 62,48 76,85\nXHIP-Processado por Programa Certificado\nno. 0177/AT\nNIF: PT514407395"
+  }
+}

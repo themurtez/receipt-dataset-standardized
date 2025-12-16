@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Staples",
+    "address": "2795-684 Carnaxide, Portugal",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-01-16",
+    "time": "10:09:19",
+    "currency": "EUR",
+    "payment_method": "Visa Electron",
+    "subtotal": 293.13,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 293.13,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Office Equipment",
+      "quantity": 1,
+      "unit_price": 293.13,
+      "total_price": 293.13,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_205127.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "STAPLES\nSTAPLES PORTUGAL SA\nEQUIP. ESCRITORIO\n2795-684 CARNAXIDE\nIdent. TPA:00102213\n2019-01-16 10:09:19\nPer:063 Tr:014 M:213\nMILLENNIUM BCP\nMARIA SOBRAL/JOSE\nCARTAO: ****7398/40\nA0000000032010\nVISA ELECTRON\nCOMPRA 293,13€\nId Estab: 0001903558\nAUT:712943 VELC PP N\nREDUNICRE\nINOVACAO E CONFIANCA\nCÓPIA CLIENTE\nPROCESSADO POR SIBS"
+  }
+}

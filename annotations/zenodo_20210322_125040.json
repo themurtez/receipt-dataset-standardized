@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "RENATO FONSECA LDA",
+    "address": "RUA D. MARCELINO FRANCO, N.26-28, 8800-347 TAVIRA",
+    "phone": "TEL:281323950",
+    "tax_id": "CONTRIBUINTE NO: 509816975",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-27",
+    "time": "15:31:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 5.5,
+    "tax": 1.27,
+    "tip": 0.0,
+    "total": 6.77,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ESPATULA CHINESA 1.1/2",
+      "quantity": 1,
+      "unit_price": 0.8,
+      "total_price": 0.8,
+      "category": "Tools",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "HANTEK 15-950 0503",
+      "quantity": 1,
+      "unit_price": 7.96,
+      "total_price": 5.97,
+      "category": "Tools",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210322_125040.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "RENATO FONSECA LDA\nRUA D. MARCELINO FRANCO, N.26-28\n8800-347 TAVIRA\nContribuinte No: 509816975\nTEL:281323950\nData:2019-03-27 Fatura/Rec FP001.00080038\nHora: 15:31 Caixa: 12\nArtigo Qtd. Pr.Unit. Valor IVA\n359960031 ESPATULA CHINESA 1.1/2\n1.000 0.80 0.80 23\n950100166 HANTEK 15-950 0503\n1.000 7.96 5.97 23\nDESC. 1.99\nTOTAL 6.77\nNumerario TROCO: 6.77 0.00\nNome: LIKEHOME ALGARVE LDA\nMorada: LISBOA\nContrib: 514047395\nVendedor: 11 HELENA E.\nIva Tx Vl.Merc. Vl.Iva\n23 5.50 1.27\nObrigado, Volte Sempre!\nProcessado por computador"
+  }
+}

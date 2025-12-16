@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 562000.0,
+    "tax": 59572.0,
+    "tip": 0.0,
+    "total": 655292.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "HOT OCHA",
+      "quantity": 1,
+      "unit_price": 10000.0,
+      "total_price": 10000.0,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "OCHA",
+      "quantity": 3,
+      "unit_price": 10000.0,
+      "total_price": 30000.0,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BEVERAGE",
+      "quantity": 1,
+      "unit_price": 40000.0,
+      "total_price": 40000.0,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "JYO HARAMI 30X",
+      "quantity": 1,
+      "unit_price": 99000.0,
+      "total_price": 99000.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "WAKI SALAD",
+      "quantity": 1,
+      "unit_price": 45000.0,
+      "total_price": 45000.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MARBLED SIRLOIN STEAK 200gr",
+      "quantity": 2,
+      "unit_price": 189000.0,
+      "total_price": 378000.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000232.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 HOT OCHA 10,000\n3 OCHA 30,000\nBEVERAGE 40,000\n1 JYO HARAMI 30X 99,000\n1 WAKI SALAD 45,000\n2 MARBLED SIRLOIN STEAK 200gr 378,000\nFOOD 522,000\nSUBTTL 562,000\nService Charge 33,720\nPB1 59,572\nTOTAL 655,292"
+  }
+}

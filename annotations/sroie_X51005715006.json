@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "GM Rack Enterprise",
+    "address": "Lot 7F-7.02/7.03, KWC Jalan Gelugor, Jalan Kenanga, 55200 Kuala Lumpur.",
+    "phone": "014-9684661",
+    "tax_id": "000019693568",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-20",
+    "time": "17:10:20",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 150.94,
+    "tax": 9.06,
+    "tip": 0.0,
+    "total": 160.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TQ(6X9-500PCS)H0019",
+      "quantity": 5,
+      "unit_price": 16.0,
+      "total_price": 80.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TQ(8X11-300PCS)H0018",
+      "quantity": 5,
+      "unit_price": 16.0,
+      "total_price": 80.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 10,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005715006.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "3-1708032\n\nGM Rack Enterprise\nRoc: 002016014-D\nLot 7F-7.02/7.03, KWC Jalan Gelugor, Jalan Kenanga, 55200 Kuala Lumpur.\nTel:014-9684661 Fax:03-92246324\nEmail: gmrack100@yahoo.com\nGST Reg No: 000019693568\n\nInvoice No : KNG01-1032303\nDate : 20/03/2018 5:10:20 PM\nCashier : 123\n\n----------------------------------------------------------------------\nDescription Qty Price Amount\n1 TQ(6X9-500PCS)H0019 5 16.00 80.00 SR\n2 TQ(8X11-300PCS)H0018 5 16.00 80.00 SR\n----------------------------------------------------------------------\nTotal Item Discount 0.00\nTotal Sales Inclusive GST@ 6.00% 160.00\nRounding Adjustment 0.00\n----------------------------------------------------------------------\nTOTAL: 160.00\n\nCASH 160.00\n\nGST Summary % Amount(RM) Tax(RM)\n SR 6.00 150.94 9.06\n\n****Thank You.****\nPlease Come Again."
+  }
+}

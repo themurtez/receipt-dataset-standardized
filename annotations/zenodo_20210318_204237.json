@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "IKEA",
+    "address": "EN 250, Km 50, 2680-001 Frielas",
+    "phone": "",
+    "tax_id": "504166654",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-01-31",
+    "time": "13:01:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 137.11,
+    "tax": 31.54,
+    "tip": 0.0,
+    "total": 168.65,
+    "accounting_category": "Furniture",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "FRAKTA saco, grd 71 azul",
+      "quantity": 2,
+      "unit_price": 0.7,
+      "total_price": 1.4,
+      "category": "Bags & Containers",
+      "accounting_category": "Home & Garden",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ANGSVIDE prostot qb 90x200",
+      "quantity": 1,
+      "unit_price": 19.78,
+      "total_price": 19.78,
+      "category": "Bed Linen",
+      "accounting_category": "Home & Garden",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "HAMPAN 41 segment",
+      "quantity": 1,
+      "unit_price": 16.04,
+      "total_price": 16.04,
+      "category": "Decor",
+      "accounting_category": "Home & Garden",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "FORNJOT 90,24x90, recessed",
+      "quantity": 1,
+      "unit_price": 100.2,
+      "total_price": 100.2,
+      "category": "Lighting",
+      "accounting_category": "Home Improvement",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_204237.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Obrigado por Visitar a IKEA Loures\nIKEA PORTUGAL-Móveis e Decoração, Lda\nFiliacacão Reg N° PT00162\nEN250 Km 50, 2680-001 Frielas\nGalp Soc. 50.000.000,00 NIF:504166654\n504166654\nFAC N! FAC 00100520190053/677\nCadid.Test\nNIF 510775914\nNome: Avicena Mediação. Imobiliária\nMorada Avenida da Liberdade 36,\n18\nPart: PT\nCP 1255-145\nCidade: Lisboa\nLocal de descarga\nMorada Avenida da Liberdade 36,\n18\nPart PT\nCP 1255-145\nCidade: Lisboa\nCodigo Postal 125102\nArt/EAN 17228340\nFRAKTA saco, grd 71 azul Q. P\nArt/EAN 80231041\nANGSVIDE prostot qb 90x200 70\nArt/EAN 20259702\nHAMPAN 41 seg 41kdo 16\nArt/EAN 70014999\nFORNJOT 90,24x90 recônd lvw\ns\nPROCESSADO POR SIES\nInclui IVA I\nCod. L. Taxa % incluido\n23,00 % 137.11 31,54\nPTZF-Processado por\nProgram Certificado no 1995/A\nImax álbum L.\nfact: Grupo lkeq Inte.marret Trane\n31 01 2019 hora: 13 1°01 ICSOF\nNão ie meia actual\narrumação do cartão IKEA 5,56\nN° Art°36 IVA, á IKEA Não actua omo\nentidade exportadora."
+  }
+}

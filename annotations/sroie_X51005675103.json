@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "SYARIKAT PERNIAGAAN GIN KEE",
+    "address": "NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR",
+    "phone": "03-40210276",
+    "tax_id": "000750673920",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-04",
+    "time": "15:46:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 94.5,
+    "tax": 5.67,
+    "tip": 0.0,
+    "total": 100.17,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "K10' 1 X 8",
+      "quantity": 1,
+      "unit_price": 40.28,
+      "total_price": 40.28,
+      "category": "Construction",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "1LT BIG TREE HIGH GLOSS PAINT",
+      "quantity": 2,
+      "unit_price": 26.5,
+      "total_price": 53.0,
+      "category": "Paint",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "7\" ROLLER REFILL",
+      "quantity": 1,
+      "unit_price": 6.89,
+      "total_price": 6.89,
+      "category": "Tools",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.88
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005675103.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS,\nSETAPAK,\n53200, KUALA LUMPUR.\nTEL : 03-40210276\nGST ID : 000750673920\nSIMPLIFIED TAX INVOICE\nCASH\nDoc No. : CS00012544 Date: 04/01/2018\nCashier : USER Time: 15:46:00\nSalesperson : Ref. :\nItem Qty S/Price Amount Tax\n1840 1 40.28 40.28 SR\nK10' 1 X 8\n1664 2 26.50 53.00 SR\n1LT BIG TREE HIGH GLOSS PAINT\n1909 1 6.89 6.89 SR\n7\" ROLLER REFILL\nTotal Qty : 4 100.17\nTotal Sales (Excluding GST) : 94.50\nDiscount : 0.00\nTotal GST : 5.67\nRounding : 0.00\nTotal Sales (Inclusive of GST) : 100.17\nCASH : 100.17\nChange : 0.00\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR 6 94.50 5.67\nTotal : 94.50 5.67\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU."
+  }
+}

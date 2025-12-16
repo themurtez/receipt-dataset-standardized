@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "PMRP Unipessoal, Lda.",
+    "address": "N. 247, Posto BP, Mil Regos, 2655-319 Ericeira",
+    "phone": "261860130",
+    "tax_id": "507603257",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-10-30",
+    "time": "16:04:17",
+    "currency": "EUR",
+    "payment_method": "Pre Pago",
+    "subtotal": 32.52,
+    "tax": 7.48,
+    "tip": 0.0,
+    "total": 40.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Gasoleo",
+      "quantity": 1,
+      "unit_price": 28.19,
+      "total_price": 40.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_184258.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ERICIEIRA\nPMRP Unipessoal, Lda.\nSede: N. 247 Posto BP. Mil Regos\n2655-319 Ericeira\nMatricula / NIPC: 507603257 Tel: 261860130\nCapital Social: 5.000,00 EUR\nPOS:3 Ref: 6063 Op: Mariana Santos\nData de emissão: 2019-10-30 16:04:17\n************ PRE PAGO ************\nGASOLEO BOMBA NR: 1 40,00 EUR 4\n28,19 x 1,419 EUR/L\n************\nCHICKACCOR 40,00 EUR\nIVA% IVA + 1.IQ = I.IQ\nIVA 4 23.00 7.48 32.52 40.00\nRegime part. tabaco. DL346/85\nFatura-Recibo FR 2707/3001/001167\nOG/n-Processado por Programa Certificado\nno. 0177/AT\nNIF: PT510767914\nNome\nFEELSLIKEHOME\nMorada\nAV DA LIBERDADE N 36 1 ANDAR B\n1250-145 LISBOA\n"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "GLÓRIA NUNES PEREIRA, LDA.",
+    "address": "Urbanização da Camacha, Lt.5\n2655-302 ERICEIRA",
+    "phone": "",
+    "tax_id": "504239120",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-09",
+    "time": "10:49:14",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 11.71,
+    "tax": 2.69,
+    "tip": 0.0,
+    "total": 14.4,
+    "accounting_category": "Utilities",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "LAMP LED G9 TRANSP. 2W 3000K",
+      "quantity": 4,
+      "unit_price": 2.927,
+      "total_price": 11.71,
+      "category": "Lighting",
+      "accounting_category": "Utilities",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_224937.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GLÓRIA NUNES PEREIRA, LDA.\nUrbanização da Camacha, Lt.5\n2655-302 ERICEIRA\nContribuinte Número: 504239120\nMat.Cons.Reg.Com.Mafra N° 02093\n\nFATURA SIMPLIFICADA\nN. 004/0007113 2019/05/09 10h49m14s\nFEELSLIKEHOME LDA.\nRUA DO CARMO N°51, 3 DT°\nLISBOA\n13500302 LISBOA\nContribuinte N. 510776914\nQuant P.U. Desc IVA Parc\nLAMP LED G9 TRANSP.2W 3000K\n4.00 2.927 23% 11.71\nSub-total 11.71\n% TAXA 23 % 11.71 2.69\nArredondamento 0.00\nTOTAL 14.40\nModo de Pagamento:\nNumerário\n\nObrigado! Volte Sempre!\nDYJJ-Processado por Programa\nCertificado n 723/AT\nOperador: FERNANDO"
+  }
+}

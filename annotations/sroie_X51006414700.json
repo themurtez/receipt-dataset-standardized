@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "AEON CO. (M) BHD",
+    "address": "3RD FLR, AEON TAMAN MALURI SC JLN JEJAKA, TAMAN MALURI CHERAS, 55100 KUALA LUMPUR",
+    "phone": "1-300-80-AEON (2366)",
+    "tax_id": "002017394688",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-22",
+    "time": "19:29:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 10.2,
+    "tax": 0.58,
+    "tip": 0.0,
+    "total": 10.2,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Green Pea Cheese",
+      "quantity": 1,
+      "unit_price": 4.0,
+      "total_price": 4.0,
+      "category": "Snacks",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Big Nut Bread",
+      "quantity": 1,
+      "unit_price": 3.9,
+      "total_price": 3.9,
+      "category": "Bakery",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Onion Cheese",
+      "quantity": 1,
+      "unit_price": 2.3,
+      "total_price": 2.3,
+      "category": "Cheese",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006414700.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AEON CO. (M) BHD (126926-H) 3RD FLR, AEON TAMAN MALURI SC JLN JEJAKA, TAMAN MALURI CHERAS, 55100 KUALA LUMPUR GST ID : 002017394688 SHOPPING HOURS SUN-THU:1000 HRS - 2230 HRS FRI-SAT:1000 HRS - 2300 HRS\n1x 00000417969 4.00SR GREEN PEA CHEES\n1x 00000418294 3.90SR BIG NUT BREAD\n1x 00000418218 2.30SR ONION CHEESE\nSub-total 10.20 Total Sales Incl GST 10.20 Total After Adj Incl GST 10.20 CASH 10.20 Change Amt 0.00\nInvoice No: 2018042210100260452\nGST Summary Amount Tax SR @ 6% 9.62 0.58 Total 9.62 0.58\n22/04/2018 19:29 1010 026 0260452\n0304271 PJ NORSYAZWANA\nAEON PERMAS JAYA TEL 1-300-80-AEON (2366)\nTHANK YOU FOR YOUR PATRONAGE PLEASE COME AGAIN"
+  }
+}

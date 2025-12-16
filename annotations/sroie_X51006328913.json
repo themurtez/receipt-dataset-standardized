@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "BEMED (SP) SDN. BHD.",
+    "address": "No.49, Jalan Omar G U3/G, Subang Perdana, 40150 Shah Alam, Selangor D.E.",
+    "phone": "03-7845 8155",
+    "tax_id": "001734164460",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-01-02",
+    "time": "10:49:25",
+    "currency": "MYR",
+    "payment_method": "MASTER",
+    "subtotal": 165.0,
+    "tax": 8.34,
+    "tip": 0.0,
+    "total": 165.0,
+    "accounting_category": "Health",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ALPHA LIPID LIFE LINE 450MG 450G",
+      "quantity": 1,
+      "unit_price": 165.0,
+      "total_price": 165.0,
+      "category": "Health & Wellness",
+      "accounting_category": "Health",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006328913.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BEMED (SP) SDN. BHD. No.49, Jalan Omar G U3/G, Subang Perdana, 40150 Shah Alam, Selangor D.E. 03-7845 8155 GST Reg : 001734164460 CASH RECEIPT CB#: 58273569475 02/Jan/2017 10:49:25 Cashier : be() Qty Code&Desc Price Total ALPHA LIPID LIFE LINE 450MG 450G 1 184810 165.00 165 SR -1 Type: 1 SubTotal: 165.00 Rounding Adj: 0.00 Total Inclusive GST: 165.00 MASTER 165.00 GST Summary: Amount (MYR) Tax (MYR) SR 165.00 8.34    ONG QUAT CHYE Points : 3,052 Thank you. Please come again. 165.00"
+  }
+}

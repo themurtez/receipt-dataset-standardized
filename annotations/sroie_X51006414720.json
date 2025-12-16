@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "PASARAYA JALAL SDN BHD",
+    "address": "10-18, JLN KEBUDAYAAN 16, TMN U, 81300 JOHOR BAHRU",
+    "phone": "07-5208680",
+    "tax_id": "000902660096",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-20",
+    "time": "21:01:22",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 6.4,
+    "tax": 0.36,
+    "tip": 0.0,
+    "total": 6.4,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Water/Oil Tumbler or Jug Bottle 5L",
+      "quantity": 2,
+      "unit_price": 3.2,
+      "total_price": 6.4,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 93.6
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006414720.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PASARAYA JALAL SDN BHD\n396125-H\n10-18,JLN KEBUDAYAAN 16,TMN U\n81300 JOHOR BAHRU.\nTel:07-5208680 Fax:07-5208680\nEmail: sales@smart-acc.com\nGST ID No: 000902660096\nTAX INVOICE\nInvoice No : 01-428985\nDate : 20/04/2018 9:01:22 PM\nCashier : PJSTAFF5\nSales Persor : NOT APPLICABLE\nDescription        Qty  Price   Amount\n02353830              2    3.20      6.40 SR*\nWater/Oil Tumbler or Jug Bottle 5L\nQty: 2         Discount:         0.00\nTotal Inclusive GST:            6.40\nRound Amt:                     0.00\nTOTAL:                                 6.40\nCash Received :                   100.00\nChange :                             93.60\nGST Summary Amount(RM)  Tax(RM)\nSR=6.00%        6.04               0.36\nGoods Sold Are Not Returnable & Refundable\n****Thank You. Please Come Again.****"
+  }
+}

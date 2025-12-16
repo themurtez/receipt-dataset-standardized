@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Glória Nunes Pereira, LDA",
+    "address": "Urbanização da Camacha, Lt 5\n2655-302 Ericeira",
+    "phone": "",
+    "tax_id": "504239120",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-08-23",
+    "time": "12:54:03",
+    "currency": "EUR",
+    "payment_method": "Compensação de saldos em Conta",
+    "subtotal": 2.4,
+    "tax": 0.55,
+    "tip": 0.0,
+    "total": 2.95,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "DISJ MW 120 1P 20A 3KA",
+      "quantity": 2,
+      "unit_price": 1.2,
+      "total_price": 2.4,
+      "category": "Electrical",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_170030.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GLÓRIA NUNES PEREIRA, LDA.\nUrbanização da Camacha, Lt 5\n2655-302 ERICEIRA\nContribuinte Número  504239120\nMat Cons.Reg Com Mafra N° 02093\n\nFATURA SIMPLIFICADA\nN. 004/0004729     2018/08/23 12h54m03s\nFEELSLIKEHOME LDA\nRUA DO CARMO N°51,3 DT°\nLISBOA\n1350-0302 LISBOA\nContribuinte N  510776914\n\nQuant  P.U.   Desc  IVA  Parc\nDISJ MW 120 1P 20A 3KA\n2,00  1,200        23%  2.40\nSub-total                     2.40\n\n% TAXA 23 %     2.40  0.55\nTOTAL                            2.95\n\nModo de Pagamento:\nCompensação de saldos em Conta corren\n\nObrigado! Volte Sempre!\n\n1OEh-Processado por Programa\nCertificado n.723/AT\n\nOperador: PAULO"
+  }
+}

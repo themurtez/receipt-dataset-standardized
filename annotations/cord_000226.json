@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 82000.0,
+    "tax": 8200.0,
+    "tip": 0.0,
+    "total": 90200.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PKT TELOR/PERKEDEL",
+      "quantity": 1,
+      "unit_price": 26000.0,
+      "total_price": 26000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "DENDENG",
+      "quantity": 1,
+      "unit_price": 23000.0,
+      "total_price": 23000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SBL GR TERI",
+      "quantity": 1,
+      "unit_price": 17000.0,
+      "total_price": 17000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "NESTLE 330 ML",
+      "quantity": 2,
+      "unit_price": 8000.0,
+      "total_price": 16000.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 9800.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000226.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PKT TELOR/PERKEDEL 26,000\nDENDENG 23,000\nSBL GR TERI 17,000\n2X 8,000\nNESTLE 330 ML 16,000\n5.00 ITEMS\nSUBTOTAL 82,000\nTAX 10% 8,200\nTOTAL 90,200\nCASH 100,000\nCHANGE 9,800"
+  }
+}

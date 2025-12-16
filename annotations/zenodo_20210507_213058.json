@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Casa Travanca Capucho",
+    "address": "Rua da Atalaia N0113, 1200-039 Lisboa",
+    "phone": "213424181",
+    "tax_id": "108085813",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-29",
+    "time": "10:43:40",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 0.61,
+    "tax": 0.14,
+    "tip": 0.0,
+    "total": 0.75,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Sacos Lixo",
+      "quantity": 1,
+      "unit_price": 0.75,
+      "total_price": 0.75,
+      "category": "Trash Bags",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_213058.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CASA TRAVANCA CAPUCHO\nDE: JOAQUIM ANTAO TRAVANCA CAPUCHO\nRUA DA ATALAIA N0113 1200-039 LISBOA\nNIF: 108085813 TEL. 213424181\nFERRAGENS - FERRAMENTAS - MAT. ELECTRICO\nIva Incluido as Taxas Legais em Vigor\n\nCliente n9.\n\nFactura: 17FT 001/5067 ORIGINAL\nData : 2017-11-29 / 10:43:40\n\nNQ Cliente: 10.002.059\nNome: F Likehome\nContribuinte: 510776914\nMorada: Lx\n\nDescrição Pvu. Qtd. Desc.% Valor\nSACOS LIXO 23% 0,75 0,75\n\nItens: 1 0,75\n\nIliquido Tax% V. Tax\n0,61 23 0,14\n\nTotal a Pagar: 0,75 €\nNUMERARIO/CAIXA 0,75 €\n\nOs Artigos e serviços constantes deste\n3Ycb - Processado por programa certificado n9 003/AT"
+  }
+}

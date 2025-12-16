@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "ROGERIO PAIS, LDA",
+    "address": "AVENIDA ALMIRANTE REIS, 9-E, 1150-007 LISBOA",
+    "phone": "218853901",
+    "tax_id": "500544000",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-06",
+    "time": "19:00:00",
+    "currency": "EUR",
+    "payment_method": "Pago em Numerario",
+    "subtotal": 6.1,
+    "tax": 1.4,
+    "tip": 0.0,
+    "total": 7.5,
+    "accounting_category": "Hardware",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Cremone ALUALFHA 620 br",
+      "quantity": 1,
+      "unit_price": 6.1,
+      "total_price": 6.1,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_203944.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROGERIO PAIS, LDA\nFERRAGENS * FERRAMENTAS * MAQUINAS * UTILIDADES\nAVENIDA ALMIRANTE REIS, 9-E * 1150-007 LISBOA\nTel/Fax 218853901 Tel. 966008696\n* Sociedade por quotas e Capital Social\n5.012,92€ REG. CRC. 34852\nNIB: 0033 0000 01280285643 52\n\n2019-05-06 FATURA SIMPLIFICADA N:\nOriginal FS 1A1901/3571\n19:00 BALCAO 1\n\nContribuinte: 510776914\n\nDESCRICAO IVA VALOR\n1 Cremone ALUALFHA 620 br 23% 7,50\n\nTAXA IVA INICID.\n23% 1,40 6,10\n\nTOTAL INCIDENCIAS: 1,40 6,10\n\nTOTAL:\nEur 7,50\n\nPago em Numerario\nValor entregue: 7,50\nTroco: 0,00\n\nImplementado por www.ticasgest.pt\n\nNJB2-Processado por programa\ncertificado n. 217/AT\n\nOs servicos e/ou bens foram realizados e/ou colo\ncados a disposicao do adquirente nesta data (Art\n, 3o do CIVA, No5 alInea F)\n\nLicenca: ROGERIO PAIS, LDA\nContribuinte: 500544000"
+  }
+}

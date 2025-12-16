@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Botaminuto Amoreiras",
+    "address": "C.C. Amoreiras, 1070 Lisbon",
+    "phone": "210 594 257",
+    "tax_id": "506178502",
+    "website": "www.botaminuto.com"
+  },
+  "transaction": {
+    "date": "2019-02-10",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 6.5,
+    "tax": 1.5,
+    "tip": 0.0,
+    "total": 8.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Pilha CR2032 3V",
+      "quantity": 2,
+      "unit_price": 4.0,
+      "total_price": 8.0,
+      "category": "Electronics",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_140131.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "botaminuto\nAMOREIRAS\nContribuinte: 506178502\nConcertos Rápidos das Amoreiras,\nConcertos de Calçado & Copias Chaves Lda\nR. Alfredo Silva, L51 Arm1 785-566 S.D.R\nC.C. Amoreiras, L50d1 1070 Lisbon\nCap. Soc. 5,000EUR CRC: Cascais N. 59595/2007\nExmo(s) Senhor(es):\nFLIRCHEME\nLISBOA\nNIF: 510776914 N. CLI.:0510776914\nC 4/10201384\nFTR 6/27684 Data 2019-02-10 Origem1\nFactura\nVendedor: EDYJONES CARVALHO\nArt. Descricao Qde. Pr. Unit. Valor IVA\nPILHA CR2032 3V\n1292 2.00 4.000 8.00 23\nTotol de peças: 2\nVALOR LIQUIDO IVA VALOR IVA\n6.50 23 1.50\nDESCONTO 0.00\nTOTAL DOCUMENTO EURO 8.00\nNumerario 8.00\nTBSV-Processado por programa certificação N. 1627/AT\nBens colocados á disposição do adquirente nesta data, de acorco com a alinea f) do n. 5 do artigo 36 do CIVA.\nTROCAS E DEVOLUCOES ACEITES COM COMPROVATIVO DE COMPRA ATE 30 DIAS DA DATA DE COMPRA.\nA DEVOLUÇÃO DE QUALQUER QUANTIA INERENTE À TROCA OU DEVOLUÇÃO DE ARTIGO É FEITA POR VALE DE REEMBOLSO COM VALIDADE DE 30 DIAS.\nObrigado Pela Visita – Volte Sempre\nTALAO INDISPENSAVEL P/ENTREGA-RECLAMACAO TROCAS PRAZO 1 MES\nTel.: 210594257 www.botaminuto.com"
+  }
+}

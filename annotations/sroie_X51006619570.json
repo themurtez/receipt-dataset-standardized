@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (M) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000306020352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-02-21",
+    "time": "12:43:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 29.15,
+    "tax": 1.75,
+    "tip": 0.0,
+    "total": 30.9,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TOILET PAPER HOLDER BWJ-2503#",
+      "quantity": 1,
+      "unit_price": 17.5,
+      "total_price": 17.5,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CABLE TIE 100PC 408019 BLACK 200MM",
+      "quantity": 1,
+      "unit_price": 7.5,
+      "total_price": 7.5,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CABLE TIE 100PC 408015 BLACK 150MM",
+      "quantity": 1,
+      "unit_price": 5.9,
+      "total_price": 5.9,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 20.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619570.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. D.I.Y. (M) SDN BHD\nCo-REG:860671-D\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000306020352)\n(SELAYANG MALL)\n-TAX INVOICE-\n------\nTOILET PAPER HOLDER BWJ-2503# *S\nW-18 - 24\n6946208425037 1 X 17.50 17.50\nCABLE TIE 100PC 408019 BLACK 200MM(8 *S\nUI32-42 - 10/100\n6942629215400 1 X 7.50 7.50\nCABLE TIE 100PC 408015 BLACK 150MM(6 *S\nUK32 - 10/100\n6942629215387 1 X 5.90 5.90\nItem(s) : 3\nQty(s) : 3\n------------------------------------\nTOTAL INCL. GST@6% RM 30.90\nCASH RM 50.90\nCHANGE RM 20.00\n---------\nGST @6% included in total RM 1.75\n---------\n21-02-16 12:43 SHO1 ZJ08 T2 R000580475\nOPERATOR SLC - EALIL ARASI\n\nEXCHANGE ARE ALLOWED WITHIN\n3 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

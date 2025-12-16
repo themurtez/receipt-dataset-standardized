@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "KFA Supply",
+    "address": "125A Tingkat Bawah PT 1961 Jalan Malinja Site B 45400 Sekinchan Selangor",
+    "phone": "",
+    "tax_id": "002126950400",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-27",
+    "time": "20:07:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 10.94,
+    "tax": 0.66,
+    "tip": 0.0,
+    "total": 11.6,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Star 74CM x 79CM 10KEPING",
+      "quantity": 1,
+      "unit_price": 11.6,
+      "total_price": 11.6,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.4
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007228448.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KFA SUPPLY\n( ROC : SA0416111-K )\n( GST No: 002126950400 )\n125A TINGKAT BAWAH PT 1961 JALAN MALINJA\nSITE B 45400 SEKINCHAN SELANGOR\n\nTAX INVOICE\nBill No : CS0032277\nDate : 27/05/2018 8:07 PM\nCashier : CT001 / 0001\n\nItem Qty Price Amount\nSTAR 74CM x79CM 10KEPING\n9555794100234 1 11.60 11.60 SR\n\nQty: 1 Total RM : 11.60\nCASH : 12.00\nChange : 0.40\n\nGST Summary Amount Tax\nSR @ 6% 10.94 0.66\nTotal 10.94 0.66\n\nTHANK YOU\nPLEASE COME AGAIN"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "UNIHACKA INTERNATIONAL SDN BHD",
+    "address": "12, Jalan Tampoi 7/4, Kawasan Perindustrian Tampoi, 81200 Johor Bahru, Johor",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-19",
+    "time": "18:28:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 8.46,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 8.45,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Fried Noodle (S)",
+      "quantity": 1,
+      "unit_price": 1.88,
+      "total_price": 1.88,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Add Chicken",
+      "quantity": 1,
+      "unit_price": 3.49,
+      "total_price": 3.49,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Vegetable",
+      "quantity": 3,
+      "unit_price": 1.03,
+      "total_price": 3.09,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": -0.01,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007846392.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "UNIHACKA INTERNATIONAL SDN BHD\n19 Jun 2018 18:28\n(867388-U)\n12, Jalan Tampoi 7/4,Kawasan Perindustrian\nTampoi,81200 Johor Bahru,Johor\nTAX INVOICE\nInvoice #: OR18061902170482\nItem Qty Total\nSR I00100000056-Fried Noodle (S)\nRM1.88 1 RM1.88\nSR I00100000114-Add Chicken\nRM3.49 1 RM3.49\nSR I00100000015- Vegetable\nRM1.03 3 RM3.09\nTotal Amount: RM8.46\nGST @0%: RM0.00\nRounding: -RM0.01\nNett Total: RM8.45\nPayment Mode Amount\nCASH\nRM8.45\nChange RM0.00\nGST Summary Amount(RM) Tax(RM)\nSR = GST @0% 8.46 0.00\nGST REG #000656195584\nBAR WANG RICE@PERMAS JAYA\nThank You & Come Again!\nLike and Follow Us on Facebook!\nFacebook:com/BarWangRice"
+  }
+}

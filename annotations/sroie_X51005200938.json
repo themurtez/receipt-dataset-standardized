@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Perniagaan Zheng Hui",
+    "address": "No 59 Jalan Permas 9/5, Bandar Baru Permas Jaya, 81750 Johor Bahru",
+    "phone": "07-386 7524",
+    "tax_id": "000805089824",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-02-12",
+    "time": "08:30:30",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 106.1,
+    "tax": 6.37,
+    "tip": 0.0,
+    "total": 112.45,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SR: 11\" Prowess H/Duty Silicone Gun G-D2",
+      "quantity": 1,
+      "unit_price": 16.0,
+      "total_price": 15.0,
+      "category": "Tools",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "SR: X'traseal RTV Acetic Silicone SA-107",
+      "quantity": 3,
+      "unit_price": 7.0,
+      "total_price": 21.0,
+      "category": "Sealants",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SR: Central Punch Set 3pcs - 1/4\";5/32\";1/4\"",
+      "quantity": 1,
+      "unit_price": 18.0,
+      "total_price": 18.0,
+      "category": "Tools",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "SR: 24\" Marksman Pipe Wrench",
+      "quantity": 1,
+      "unit_price": 50.0,
+      "total_price": 50.0,
+      "category": "Tools",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SR: PVC Wire Tape 1pc x 7YD",
+      "quantity": 3,
+      "unit_price": 0.7,
+      "total_price": 2.1,
+      "category": "Accessories",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 9,
+    "rounding": -0.02,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005200938.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PERNIAGAAN ZHENG HUI JM0235955-V NO 59 JALAN PERMAS 9/5 BANDAR BARU PERMAS JAYA 81750 JOHOR BAHRU TEL : 07-386 7524 FAX : 07-386 3793 GST NO : 000805089824 SIMPLIFIED TAX INVOICE GO GIANT ENGINEERING (M) SDN BHD Receipt #: CS000628562 Salesperson : Date: 12/02/2018 Cashier : USER Time: 08:30:30 Item Qty (RM) RSP Amount (RM) 8239 SR: 11\" PROWESS H/DUTY SILICONE GUN G-D2 1 16.00 15.00 9555076109147 SR: XTRASEAL RTV ACETIC SILICONE SA-107 3 7.00 21.00 9744 SR: CENTRAL PUNCH SET 3PCS - 1/4\";5/32\";1/4\" 1 18.00 18.00 12525 SR: 24\" MARKSMAN PIPE WRENCH 1 50.00 50.00 2016 SR: PVC WIRE TAPE 1PC X 7YD 3 0.70 2.10 TOT QTY: 9 106.10 (Excluded GST) Sub Total (RM) : 106.10 Discount (RM) : 0.00 Total GST (RM) : 6.37 Rounding (RM) : -0.02 Total (RM) : 112.45 CASH : 112.45 Change (RM) : 0.00 GST SUMMARY Tax Code % Amount GST SR 6 106.10 6.37 Total : 106.10 6.37 GOODS SOLD ARE NOT RETURNABLE. THANK YOU."
+  }
+}

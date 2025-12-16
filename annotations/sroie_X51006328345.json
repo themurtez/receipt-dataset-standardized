@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "KING'S CONFECTIONERY S/B",
+    "address": "NO. 20-A1, JALAN SS6/3, KELANA JAYA, 47301 PETALING JAYA, SELANGOR D.E.",
+    "phone": "03-78800732",
+    "tax_id": "000294060032",
+    "website": "www.kings.com.my"
+  },
+  "transaction": {
+    "date": "2017-02-23",
+    "time": "10:53:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 7.2,
+    "tax": 0.41,
+    "tip": 0.0,
+    "total": 7.2,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "French Loaf",
+      "quantity": 3,
+      "unit_price": 2.4,
+      "total_price": 7.2,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 2.8
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006328345.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KING'S CONFECTIONERY S/B 273500-U (KJ1)\nNO. 20-A1, JALAN SS6/3, KELANA JAYA, 47301 PETALING JAYA, SELANGOR D.E.\nTEL/FAX :- 03 - 78800732 TEL:0122144371 (GST ID : 000294060032)\n\nTax Invoice\nInv No :KJ130661528 Date:23/02/17 10:53\nCashier:FW1254 Ctr :01\n\nCode Desc Qty RM D% Amt\n181010 French Lo 3 2.40 0 7.20 S\n\nQty 3 7.20\nRounding Adj 0.00\nDue 7.20\nPay 10.00\nChange 2.80\n\n(Total Included GST @ 6% : 0.41)\nGOODS SOLD NOT RETURNABLE/EXCHANGEABLE!\nTERIMA KASIH SILA DATANG LAGI!TQ\nTASTY BAKING HEALTHY NATION!!\nVisit us online at www.kings.com.my\n7.20"
+  }
+}

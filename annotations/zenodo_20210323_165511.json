@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Casa das Chaves O Alemão",
+    "address": "R. Bartolomeu Dias, Lote 16, Lj.3, 8200-096 Albufeira",
+    "phone": "289 512810",
+    "tax_id": "175 067 120",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-06-06",
+    "time": "19:40:08",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 68.46,
+    "tax": 15.74,
+    "tip": 0.0,
+    "total": 84.2,
+    "accounting_category": "Hardware",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chaves Universais",
+      "quantity": 9,
+      "unit_price": 1.8,
+      "total_price": 16.2,
+      "category": "Tools",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Chave Duplo Palhetão",
+      "quantity": 6,
+      "unit_price": 10.0,
+      "total_price": 60.0,
+      "category": "Tools",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Chave de Cruz",
+      "quantity": 1,
+      "unit_price": 8.0,
+      "total_price": 8.0,
+      "category": "Tools",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_165511.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CASA DAS CHAVES\nO ALEMÃO\nJOSÉ AGUSTO SARAIVA\nNIF:175 067 120\nR.Bartolomeu Dias, Lote 16, Lj.3\n8200-096 Albufeira\nTelefone: 289 512810\nIva Incluido as Taxas Legais em vigor\nCZK Processado por programa certificado nº 1534/AT\nOriginal\nData: 2019-06-06 / 19:40:08\nFactura Simplificada: 19FS 001/1700\nNIF: 514407395\nDescição\nQtd. Desc.%\nValor\nCHAVES UNIVESAIS\n(D) 23% 1,80 9 16,20\nCHAVE DUPLO PALHETÃO\n(D) 23% 10,00 6 60,00\nCHAVE DE CRUZ\n(D) 23% 8,00 1 8,00\nItens: 3\nIlíquido\nTax%\nV. Tax\n(D) 68,46\n23\n15,74\nTotal a Pagar:\nMULTIBANCO\n84,20 €\n84,20 €"
+  }
+}

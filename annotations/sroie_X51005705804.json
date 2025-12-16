@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "ASO Electrical Trading SDN BHD",
+    "address": "No 31G, Jalan Sepadu C 25/C, Section 25, Taman Industries, Axis 40400 Shah Alam, Selangor",
+    "phone": "03-51221701, 51313091",
+    "tax_id": "1000131-K",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-04",
+    "time": "11:29:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 93.4,
+    "tax": 5.6,
+    "tip": 0.0,
+    "total": 99.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "FUJI CONTACTOR, SC-03, 240VAC",
+      "quantity": 1,
+      "unit_price": 44.4,
+      "total_price": 47.06,
+      "category": "Electrical Component",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ANLY FLOATLESS RELAY 240V, AFS-1",
+      "quantity": 1,
+      "unit_price": 49.0,
+      "total_price": 51.94,
+      "category": "Electrical Component",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 1.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005705804.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ASO ELECTRICAL TRADING SDN BHD\n1000131-K\nNO 31G, JALAN SEPADU C 25/C,\nSECTION 25, TAMAN INDUSTRIES,\nAXIS 40400 SHAH ALAM, SELANGOR.\nTEL: 03-51221701, 51313091 FAX: 03-51215716\nGST NO: 00068390928\nTAX INVOICE\nBill To :\nReceipt #: CS00093091 Date: 04/12/2017\nSalesperson: Time: 11:29:00\nCashier: USER\n(GST) (GST)\nItem Qty RSP RSP Amount\n102749 1 44.40 47.06 47.06\nSR: FUJI CONTACTOR, SC-03, 240VAC\n106766 1 49.00 51.94 51.94\nSR: ANLY FLOATLESS RELAY 240V, AFS-1\nTOT QTY: 2\n(Excluded GST) Sub Total : 93.40\nDiscount : 0.00\nTotal GST : 5.60\nRounding : 0.00\nTotal : 99.00\nCASH : 100.00\nChange : 1.00\nGST SUMMARY\nTax Code % Amount GST\nSR 6 93.40 5.60\nTotal : 93.40 5.60\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU."
+  }
+}

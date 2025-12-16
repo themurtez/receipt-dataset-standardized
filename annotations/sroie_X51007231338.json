@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Amphawa Thai Tea & Co",
+    "address": "Paradigm Mall, Lot No: 4F-27 & 4FK-38, 4th Floor",
+    "phone": "",
+    "tax_id": "000707211264",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-11",
+    "time": "15:23:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 8.9,
+    "tax": 0.53,
+    "tip": 0.0,
+    "total": 9.45,
+    "accounting_category": "Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Thai Milk Tea - Cha Yen",
+      "quantity": 1,
+      "unit_price": 8.9,
+      "total_price": 8.9,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.02,
+    "change_due": 0.55
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007231338.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AMPHAWA THAI TEA & CO.\nDimiliki oleh T PLUS F&B SDN. BHD.\n(1219716-T)\nPARADIGM MALL\nLOT NO.: 4F-27 & 4FK-38, 4TH FLOOR\nTEL : TELEPHONE FAX : FAX\nGST ID : 000707211264\n\nTAX INVOICE\n\nOrder No: 197 UFO : 0\nReceipt #: CSPD029197\nStaff: TAKE AWAY Date: 11/05/2018\nCashier: MARIBEL Time: 15:23:00\n\nDescription Qty Price Amt Tax\nM03. THAI MILK TEA - CHA 1 8.90 8.90 SR\nYEN\nTotal: 1\n\nTotal Sales (Excluding GST) : 8.90\nDiscount : 0.00\nService Charge : 0.00\nTotal GST : 0.53\nRounding : 0.02\nTotal Sales (Inclusive of GST) 9.45\nCASH 10.00\nCHANGE 0.55\n\nGST SUMMARY\n\nTax Code % Amt (RM) Tax (RM)\nSR 6 8.90 0.53\nTotal : 8.90 0.53\n\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU."
+  }
+}

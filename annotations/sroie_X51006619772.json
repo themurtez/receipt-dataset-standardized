@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Golden Arches Restaurants Sdn Bhd",
+    "address": "Level 6, Bangunan TH, Damansara Uptown3 No.3, Jalan SS21/39,47400 Petaling Jaya, Selangor",
+    "phone": "03-6259-6498",
+    "tax_id": "000504664064",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-07-24",
+    "time": "14:21:51",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 26.6,
+    "tax": 1.6,
+    "tip": 0.0,
+    "total": 28.2,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "VM McChicken",
+      "quantity": 2,
+      "unit_price": 15.9,
+      "total_price": 15.9,
+      "category": "Meal",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "M Coke",
+      "quantity": 2,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.7
+    },
+    {
+      "name": "M Fries",
+      "quantity": 2,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Snack",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.7
+    },
+    {
+      "name": "McChicken",
+      "quantity": 1,
+      "unit_price": 4.0,
+      "total_price": 4.0,
+      "category": "Meal",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SundaeChoc",
+      "quantity": 2,
+      "unit_price": 6.4,
+      "total_price": 6.4,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ChocTop",
+      "quantity": 1,
+      "unit_price": 1.9,
+      "total_price": 1.9,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 71.8
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619772.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Golden Arches Restaurants Sdn Bhd\n(65351-M)\nLevel 6, Bangunan TH, Damansara Uptown3\nNo.3, Jalan SS21/39,47400 Petaling Jaya\nSelangor\n(GST ID No: 000504664064)\nMcDonald's MRR2 Kepong DT(#251)\nTel No. 03-6259-6498\nTAX INVOICE\nMFY Side 1\nINV# 002511900048269\nORD #95 -REG #19- 24/07/2016 14:21:51\nQTY ITEM TOTAL\n2 VM McChicken 15.90\n2 M Coke\n2 M Fries\n1 McChicken 4.00\n2 SundaeChoc 6.40\n1 ChocTop 1.90\nTakeOut Total (incl GST) 28.20\nTotal Rounded 28.20\nCash Tendered 100.00\nChange 71.80\nTOTAL INCLUDES 6% GST 1.60\nThank You and Please Come Again.\nCustomer Service Hotline : 03-2726-5600"
+  }
+}

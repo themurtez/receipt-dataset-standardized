@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "bota minuto",
+    "address": "Centro Comercial das Amoreiras, Av. Eng. Duarte Pacheco, Loja 5, 1070-103 Lisboa",
+    "phone": "210994257",
+    "tax_id": "510776914",
+    "website": "www.botaminuto.com"
+  },
+  "transaction": {
+    "date": "2019-03-07",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 34.6,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 34.6,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CHAVE PALHETA",
+      "quantity": 1,
+      "unit_price": 7.43,
+      "total_price": 7.43,
+      "category": "Keys",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHAVE PALHETA",
+      "quantity": 1,
+      "unit_price": 14.8,
+      "total_price": 14.8,
+      "category": "Keys",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHAVE PLANA UL050",
+      "quantity": 2,
+      "unit_price": 2.6,
+      "total_price": 5.2,
+      "category": "Keys",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 15.4
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_151849.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "botaminuto\nAMOREIRAS\nContribuinte: 506175902\nCentro Recapado das Amoreiras,\nCadeiras & Copias Chave Lda\nAvenida de S. Amaro 76B, 50 E.R\nC.C. Amoreiras, Lj.504 1070-165 Lisboa\nCap Soc 5.000EUR CRC Cascais N 9955/2007\nEmissor(a) Ambiente:\nFLIKHOME\nLISBOA\nNIF:510776914 N:CRC510776914\nC F/021304499\nETR 06/3899 Dia 2019-03-07 Original\nFatura: Vendedor: FILIPE AGUIAR\nArt: Descricao Qtds Pr. Unit VALOR IVA\nCHAVE PALHETA CH - GT 43 ou CH-1468\n5559 1 7.43 7.43 1_NC 23\nCHAVE PALHETA GT_ 6 532 1 14.80 14.80 1_NC 23\nCHAVE PLANA UL050 JU-5D\n1 2.60 2.60 1_NC 23\nTT2\nTotal de pecas: 4\nVALOR LIQUIDO IVA VALOR IVA\n23.83 0.00 0.00\n0.00 0.00 0.00\n23.13 0.00 0.00\n------ --------- ---------\n28.13\nDESCONTO 0.00\nTOTAL DOCUMENTO EURO 34.60\nNumerario\nTroco 15.40\n-- 651 Processado por programa\ncertificado N. 1627/IAT\nBem colocada a disposicao do adquiri-\nente nesta data, de acordo com\na alinea f) do n, 5 do artigo 3o do CIVA\nTROCAS E DEVOLUCOES ACEITES COM COMPRO-\nVATIVO DE COMPRA E ATE 30 DIAS DA DATA\nDE COMPRA.\nA DEVOLUCAO DE QUALQUER QUANTIA INERENTE\nA TROCA OU DEVOLUCAO DE ARTIGO E FEITA\nPOR VALE DE REEMBOLSO COM VALIDADE DE 30\nDIAS\nObrigado Pela Visita Volte Sempre\nTALAO INDISPENSAVEL/ENTREGA: RECLAMACAO\nTROCAS PRAZO 1 MES\nTel.: 210994257 www.botaminuto.com"
+  }
+}

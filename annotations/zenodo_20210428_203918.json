@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "JMTD-FERRAGENS DO COMBRO LDA",
+    "address": "CALÇADA DO COMBRO Nº31, 1200-110 LISBOA",
+    "phone": "21 347 67 62",
+    "tax_id": "513 350 535",
+    "website": "jose.m.a.duarte@sapo.pt"
+  },
+  "transaction": {
+    "date": "2019-05-09",
+    "time": "10:05:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 76.0,
+    "tax": 14.21,
+    "tip": 0.0,
+    "total": 76.0,
+    "accounting_category": "Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Lampada Led",
+      "quantity": 3,
+      "unit_price": 12.0,
+      "total_price": 36.0,
+      "category": "Electronics",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lampada Led",
+      "quantity": 5,
+      "unit_price": 8.0,
+      "total_price": 40.0,
+      "category": "Electronics",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_203918.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "JMTD-FERRAGENS DO COMBRO LDA\nFERRAGENS FERRAMENTAS CHAVES FECHADURAS\nMAT. ELECTRICO · MAT. CANALIZACAO\nCALCADA DO COMBRO N°31, 1200-110 LISBOA\nNIF: 513 350 535\njose.m.a.duarte@sapo.pt\nTel: 21 347 67 62\nFATURA SIMPLIFICADA\nORIGINAL\nDATA 09/05/2019 : 10:05 N° A/31036\nCliente: FLKEHOME Lda\nMorada: Cont.N°: 510776914\nArtigo Qtd Preco € Valor €\nLampada Led\n23% 3 Un x 12,00 = 36,00\nLampada Led\n23% 5 Un x 8,00 = 40,00\n#008\nTOTAL 76,00\nNumerário 76,00\nTroco 0,00\nIVA Incluído â taxa indicada\nTaxa% Sujeito IVA Total\n23,00 61,79 14,21 76,00\nData de carga: 09/05/2019\nHora de carga: 10:16\nLocal carga.. N/Instalações\nMatrícula..\nData descarga:\nHora descarga.\nLocal descarga: V/Instalações\nMl y-Processado por programa certificado\nN° 88/AT - 1 A/31036\nOpr: Administrador\nOBRIGADO - VOLTE SEMPRE"
+  }
+}

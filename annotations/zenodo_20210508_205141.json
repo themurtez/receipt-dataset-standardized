@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Restaurante Gina",
+    "address": "",
+    "phone": "965127348",
+    "tax_id": "510776914",
+    "website": "www.pingWin.ws"
+  },
+  "transaction": {
+    "date": "2018-05-22",
+    "time": "14:28:00",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 45.45,
+    "tax": 6.18,
+    "tip": 0.0,
+    "total": 47.0,
+    "accounting_category": "Meals and Entertainment",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "OLOULAS",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "OESPETADA MISTA",
+      "quantity": 1,
+      "unit_price": 12.03,
+      "total_price": 12.03,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "OAGUA PEDRAS",
+      "quantity": 2,
+      "unit_price": 2.0,
+      "total_price": 4.0,
+      "category": "Beverage",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "OOCA COLA",
+      "quantity": 2,
+      "unit_price": 2.0,
+      "total_price": 4.0,
+      "category": "Beverage",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "OOCAFE",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Beverage",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_205141.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Restaurante Gina\nMaria Georgina Lopes Alves Pinto\nTel.965127348\nN. Contrib. 176153446\nRegisto na Cons. n.\nCapital Social\nNIF: 510776914\nNome: flikehome\nMorada:\nFatura-receibo FR 18LRG/838\n2018-05-22 14:28\nOriginal\n\nDocumentos referenciados\nTC 18LRG/4613\n\nQtDescricao                        P.Unit.   Valor\n1 OOLULAS                         INT  €12.00    €12.00 \n2 OESPETADA MISTA INT €12.03    €24.06\n1 OAGUA PEDRAS          NOR €2.00   €2.00\n2 OOCA COLA                        NOR €2.00    €4.00\n1 OCAFE                             NOR €3.00    €3.00\nTotal liq.                          €47.00\n\nPagamento\nMultibanco                €47.00\n\nTaxa     Base                Valor   Total\n13.00 €31.86       €4.14     €36.00 INT\n23.00 €8.96         €2.04     €11.00 NOR\n\nIVA Incluido\n\n44 Emp.4\n\nq5sp-Processado por programa certificado\nnº2519/AT\n\nwww.pingWin.ws"
+  }
+}

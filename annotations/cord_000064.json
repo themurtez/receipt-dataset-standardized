@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "F Baby",
+    "address": "Jln. Example Address, City",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2023-10-12",
+    "time": "15:45:00",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 262000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 262000.0,
+    "accounting_category": "Baby Products",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Botol (Momogi Botol Kaca ASI)",
+      "quantity": 1,
+      "unit_price": 44000.0,
+      "total_price": 44000.0,
+      "category": "Baby Bottle",
+      "accounting_category": "Baby Products",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Spectra Disposable Breast Pads",
+      "quantity": 1,
+      "unit_price": 58000.0,
+      "total_price": 58000.0,
+      "category": "Breast Pads",
+      "accounting_category": "Baby Products",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Mustela Baby Oil 100ml",
+      "quantity": 1,
+      "unit_price": 160000.0,
+      "total_price": 160000.0,
+      "category": "Baby Oil",
+      "accounting_category": "Baby Products",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000064.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "F BABY\nJln. Example Address, City\nBOTOL(MOMOGI BOTOL KACA ASI)\n804700027 44,000\nSPECTRA DISPOSABLE BREAST PADS\n(IRIS) / BP-0001 (BREASTPADS) SP200031\n58,000\nMUSTELA BABY OIL 100ML MU240036\n160,000\nQty: 3 Amount: 262,000"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 29000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 29000.0,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chocochip & Walnut",
+      "quantity": 1,
+      "unit_price": 29000.0,
+      "total_price": 29000.0,
+      "category": "Food",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Plastic Bag Small",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Bag",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 71000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000733.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1023-Chocochip & Walnut\n29,000 x1       29,000\n6001-Plastic Bag Small\n0 x1           0\n\nTotal Item:           2\n\nTotal:             29,000\nCash \nTendered:         100,000\nChange:           71,000"
+  }
+}

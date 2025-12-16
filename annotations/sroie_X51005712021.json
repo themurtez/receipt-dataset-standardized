@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "HAPPY SNACKS ENTERPRISE",
+    "address": "19 & 19A, JALAN MERANTI 2A, SEKSYEN 2, BANDAR BARU BATANG KALI, 44300",
+    "phone": "03-60570314",
+    "tax_id": "000129863680",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-20",
+    "time": "13:11:38",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 25.3,
+    "tax": 1.52,
+    "tip": 0.0,
+    "total": 26.82,
+    "accounting_category": "Sales",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "350PCS FRUIT PLUS - APPLE",
+      "quantity": 1,
+      "unit_price": 14.31,
+      "total_price": 14.31,
+      "category": "Food",
+      "accounting_category": "Inventory",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "300PCS LOT100 CANDY - ASSORTED",
+      "quantity": 1,
+      "unit_price": 12.51,
+      "total_price": 12.51,
+      "category": "Food",
+      "accounting_category": "Inventory",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": -0.02,
+    "change_due": 23.2
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005712021.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "HAPPY SNACKS ENTERPRISE\n19 & 19A, JALAN MERANTI 2A , BANDAR BARU BATANG KALI, 44300\n03-60570314\nhappysnacks69@hotmail.com\nST Reg No : 000129863680\nBill No : HP01-188357\nDate : 20/03/2018 1:11:38 PM\nCashier : 123\nTax Invoice\nDescription Qty Price Amount\n1 SR 9556173380636 1 14.31 14.31\n350PCS FRUIT PLUS - APPLE\n2 SR 9556296307411 1 12.51 12.51\n300PCS LOT100 CANDY - ASSORTED\nTotal : 26.82\n0.00\nTotal Sales Inclusive GST : 26.82\nRounding Adjustment: -0.02\nAmount To Be Paid : 26.80\nCash Received : 50.00\nChange : 23.20\nGST Summary\nTax Code % Taxable Amount GST\nSR 6.00 25.30 1.52\nGST : 1.52\n* GST Include Item\nThank You. Please Come Again."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "First City Parking Sdn Bhd",
+    "address": "A-08-10 Prima Avenue, The Tube, 1/39, Dataran Prima, 47301 Petaling Jaya, Selangor DE",
+    "phone": "03-7887 2622",
+    "tax_id": "001656262656",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-16",
+    "time": "09:49:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 6.6,
+    "tax": 0.4,
+    "tip": 0.0,
+    "total": 7.0,
+    "accounting_category": "Parking",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Parking Fee",
+      "quantity": 1,
+      "unit_price": 7.0,
+      "total_price": 7.0,
+      "category": "Parking",
+      "accounting_category": "Parking",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006349086.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Ampang 210\nFirst City Parking Sdn Bhd\n(961394-X)\nA-08-10 Prima Avenue\nThe Tube, 1/39, Dataran Prima\n47301 Petaling Jaya\nSelangor DE\n(GST ID No : 001656262656)\nTel : 03-7887 2622\n\nTax Invoice\n\nP/S #03 A INV-No.2003160418000001\nID #22 Ticket No.071811\nEntry Time 16/04/2018 (Mon) 8:21\nPaid Time 16/04/2018 (Mon) 9:49\nParking Time 1:28\nParking Fee Rate A RM7.00\n\nAmount RM6.60\nSST(Included) 6.00% RM0.40\n\nTotal RM7.00\nPaid RM7.00\nChange RM0.00\n\nInclusive 6% GST\nThank You"
+  }
+}

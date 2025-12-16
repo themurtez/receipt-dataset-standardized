@@ -1,0 +1,127 @@
+{
+  "merchant": {
+    "name": "Kopidegit",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 404000.0,
+    "tax": 42420.0,
+    "tip": 20200.0,
+    "total": 466620.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Nasi Liwet",
+      "quantity": 1,
+      "unit_price": 49000.0,
+      "total_price": 49000.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Nasi Uduk Ayam",
+      "quantity": 1,
+      "unit_price": 47000.0,
+      "total_price": 47000.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Ayam Garang Asem",
+      "quantity": 1,
+      "unit_price": 46000.0,
+      "total_price": 46000.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Ayam Kremes",
+      "quantity": 1,
+      "unit_price": 47000.0,
+      "total_price": 47000.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Nila Penyet + Nasi",
+      "quantity": 1,
+      "unit_price": 45000.0,
+      "total_price": 45000.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Nasi Goreng Gila",
+      "quantity": 1,
+      "unit_price": 52000.0,
+      "total_price": 52000.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Nasi Goreng Rawon",
+      "quantity": 1,
+      "unit_price": 43000.0,
+      "total_price": 43000.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Mendoan",
+      "quantity": 1,
+      "unit_price": 31000.0,
+      "total_price": 31000.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Teh Tawar Dingin",
+      "quantity": 3,
+      "unit_price": 33000.0,
+      "total_price": 99000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Teh Tawar Panas",
+      "quantity": 1,
+      "unit_price": 11000.0,
+      "total_price": 11000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 12,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000293.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Ropidegit\n1 Nasi Liwet 49.000\n1 Nasi Uduk Ayam 47.000\n1 Ayam Garang Asem 46.000\n1 Ayam Kremes 47.000\n1 Nila Penyet + Nasi 45.000\n1 Nasi Goreng Gila 52.000\n1 Nasi Goreng Rawon 43.000\n1 Mendoan 31.000\n3 Teh Tawar Dingin 33.000\n1 Teh Tawar Panas 11.000\nSubtotal 404.000\nServi Charge 5% 20.200\nPajak Rest 10% 42.420\nTotal 466.620\n"
+  }
+}

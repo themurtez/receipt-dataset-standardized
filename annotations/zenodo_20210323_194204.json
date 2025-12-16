@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "R Actor Antonio Silva, N7, 1649 033 Lisboa, Lisbon",
+    "phone": "289300071",
+    "tax_id": "514407395",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-20",
+    "time": "15:11:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 4.15,
+    "tax": 0.49,
+    "tip": 0.0,
+    "total": 3.69,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Cafe Expresso",
+      "quantity": 1,
+      "unit_price": 1.2,
+      "total_price": 1.2,
+      "category": "Beverage",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pao Padas Misto",
+      "quantity": 1,
+      "unit_price": 1.15,
+      "total_price": 1.15,
+      "category": "Food",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lipton Pessego",
+      "quantity": 1,
+      "unit_price": 0.6,
+      "total_price": 0.6,
+      "category": "Beverage",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Agua Fastio",
+      "quantity": 1,
+      "unit_price": 0.6,
+      "total_price": 0.6,
+      "category": "Beverage",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_194204.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "pingo doce\nQuarteira - Morgadinho\nTel: 289300071\nPingo Doce - Distribuicao Alimentar, S.A\nSede: R Actor Antonio Silva, N7, 1649 033 Lisboa\nRegisto C.R.C. Lisboa-Matricula/NIPC: 500892903\nANREEE: PT001730 C. Social: 33.808,115 EUR\nArtigos\nPADARIA/PASTELARIA\nD 13% CAFE EXPRESSO UN C&B 1,20\n2 X 0,60\nD 13% PAO PADAS MISTO C&B 1,15\nPoupanca Imediata (0,23)\nD 23% LIPTON PESSEGO 0,60\nPoupanca Imediata (0,23)\nD 13% AGUA FASTIO C&B\nResumo\n4,15\nTotal Poupanca (0,46)\nTOTAL A PAGAR 3,69\nTotal Pago 3,69\nEURO\nPagamentos\nResumo IVA\nTaxa Valor s/IVA Valor IVA Valor c/IVA\nD 13% 2,41 0,31 2,72\nD 23% 0,79 0,18 0,97\nAtendido por: Cafe&Companhia 1\n245248 2019-02-20 15:11 0540 0055 0365\nd/18-Processado por programa certificado 369/AT\nFatura/Recibo FT 03650551901010620/00095\n1a via Original Data de emissao: 20-02-2019\nN. Contribuinte: 514407395\nNome: FIKEHOME ALGARVE\nMorada.: LISBOA\nLocalidade.: LISBOA\nLocal carga...: Quarteira - Morgadinho\nLocal descarga: Morada do cliente\nData: 2019-02-20 Hora: 15:11\nApoio ao Cliente\n808 20 45 45 / 210 11 44 11 (24 horas)"
+  }
+}

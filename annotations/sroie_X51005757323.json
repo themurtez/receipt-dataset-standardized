@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (M) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000306020352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-26",
+    "time": "15:25:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 28.0,
+    "tax": 1.58,
+    "tip": 0.0,
+    "total": 28.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PILLAR SINK TAP 87601",
+      "quantity": 1,
+      "unit_price": 19.9,
+      "total_price": 19.9,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "NASCO SEAL TAPE NST",
+      "quantity": 1,
+      "unit_price": 0.8,
+      "total_price": 0.8,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "S/S COLANDER RH-008# 24.5CM",
+      "quantity": 1,
+      "unit_price": 7.3,
+      "total_price": 7.3,
+      "category": "Kitchenware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 12.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005757323.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "31803060\nMR. D.I.Y. (M) SDN BHD\n(CO.REG : 860671-D)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No : 000306020352)\n(IOI PUCHONG)\n-TAX INVOICE-\n----------------------------------------\nPILLAR SINK TAP 87601            *S\nOZ05 - 5/60\n9074624                     1 X 19.90    19.90\nNASCO SEAL TAPE NST                *S\nWA33 - 100/1000\n9180501                     1 X  0.80     0.80\nS/S COLANDER RH-008# 24.5CM        *S\nAD41/2 - 5/100\n9067474                     1 X  7.30     7.30\nItem(s) : 3                    Qty(s) : 3\n----------------------------------------\nTotal Incl. GST@6%                    RM 28.00\nCASH                                  RM 40.00\nCHANGE                                RM 12.00\nGST @6% included in total             RM 1.58\n*----------------------------------*\n26-03-18 15:25 SH01 ZJ86        T1 R000112587\nOPERATOR TRAINEE CASHIER\n\nEXCHANGE ARE ALLOWED WITHIN\n7 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

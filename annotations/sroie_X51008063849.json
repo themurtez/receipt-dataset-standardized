@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (M) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000306020352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-28",
+    "time": "17:00:00",
+    "currency": "MYR",
+    "payment_method": "cash",
+    "subtotal": 2.55,
+    "tax": 0.15,
+    "tip": 0.0,
+    "total": 2.7,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "UNI CLASSIC QUALITY BOND UC-1701B 17 *S",
+      "quantity": 1,
+      "unit_price": 2.7,
+      "total_price": 2.7,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 7.3
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008063849.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. D.I.Y. (M) SDN BHD\n(CO REG : 860871-D)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No : 000306020352)\n(MELAWATI MALL)\n-TAX INVOICE-\n----------------------------------\nUNI CLASSIC QUALITY BOND UC-1701B 17 *S\nWA20 - 6/144\n9557950917038 1 X 2.70 2.70\nItem(s) : 1 Qty(s) : 1\n----------------------------------\nTotal Incl. GST@6% RM 2.70\nCASH RM 10.00\nCHANGE RM 7.30\n\nGST Summary Amt(RM) Tax(RM)\nGST S@6% 2.55 0.15\n----------------------------------\n28-05-18 17:00 SH01 ZJ94 T3 R000059251\nOPERATOR MLWC - NORAZLINA\n\nEXCHANGE ARE ALLOWED WITHIN\n7 DAYS WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

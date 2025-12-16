@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "INTERMARCHE SUPERMERCADOS LDA",
+    "address": "Terras Compridas Lt8, 2625-716 Vialonga",
+    "phone": "219 523 156",
+    "tax_id": "513 450 866",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-12-17",
+    "time": "19:20:21",
+    "currency": "EUR",
+    "payment_method": "Dinheiro",
+    "subtotal": 30.0,
+    "tax": 5.61,
+    "tip": 0.0,
+    "total": 30.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "GASOLEO",
+      "quantity": 23.09,
+      "unit_price": 1.299,
+      "total_price": 30.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_184443.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "INTERMARCHE SUPERMERCADOS LDA\nTerras Compridas Lt8\n2625-716 Vialonga\nNIPC: 513 450 866\nTelefone: 219 523 156\nData: 17-12-2019 Hora: 19:20:21 POS: 1 Operador: 101 Turno: 4129\nFactura/Recibo\nFT 1265PIT00A9C8007B67AE/26183\nQtd. Preco Un. Produto IVA Sub-Total\n23.09 Litros 1.299 Eur/Litros GASOLEO SIMPLES 23% 30.00 Eur\nNome Cliente FEELSLIKEHOME\nMorada LISBOA\nDinheiro 30.00\nIva 23.00 %: 5.61 Eur\nTotal Venda : 30.00 Eur\nBens/Serviços colocados ao dispor do cliente final no acto da venda\nObrigado e Boa Viagem\nVVRF Processado por prog. certificado 166/AT"
+  }
+}

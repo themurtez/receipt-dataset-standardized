@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 53020.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 53020.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.8
+  },
+  "items": [
+    {
+      "name": "#KTPOLSBTPON2S",
+      "quantity": 1,
+      "unit_price": 8000.0,
+      "total_price": 8000.0,
+      "category": "Miscellaneous",
+      "accounting_category": "Retail",
+      "category_confidence": 0.6
+    },
+    {
+      "name": "BENECOL LYCHEE 2S",
+      "quantity": 1,
+      "unit_price": 14000.0,
+      "total_price": 14000.0,
+      "category": "Beverage",
+      "accounting_category": "Retail",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "REGAL MARIE 125 GR",
+      "quantity": 1,
+      "unit_price": 12200.0,
+      "total_price": 12200.0,
+      "category": "Snack",
+      "accounting_category": "Retail",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "7 UP CAN 330 ML",
+      "quantity": 1,
+      "unit_price": 6000.0,
+      "total_price": 6000.0,
+      "category": "Beverage",
+      "accounting_category": "Retail",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "SAKATONIK LVR 10S",
+      "quantity": 1,
+      "unit_price": 6400.0,
+      "total_price": 6400.0,
+      "category": "Health",
+      "accounting_category": "Retail",
+      "category_confidence": 0.7
+    },
+    {
+      "name": "DJAR BELIBIS SBL135",
+      "quantity": 1,
+      "unit_price": 9300.0,
+      "total_price": 9300.0,
+      "category": "Miscellaneous",
+      "accounting_category": "Retail",
+      "category_confidence": 0.6
+    },
+    {
+      "name": "DAUN SEREH",
+      "quantity": 0.292,
+      "unit_price": 19890.41,
+      "total_price": 5811.0,
+      "category": "Herbs",
+      "accounting_category": "Retail",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000149.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1X 8,000\n#KTPOLSBTPON2S 8,000 *\nMEGA Discount 800-\n1X 14,000\nBENECOL LYCHEE 2S 14,000 *\nDiscount 1,400-\nMEGA Discount 1,260-\n1X 12,200\nREGAL MARIE 125 GR 12,200 *\nMEGA Discount 1,220-\n1X 6,000\n7 UP CAN 330 ML 6,000 *\nMEGA Discount 600-\n1X 6,400\nSAKATONIK LVR 10S 6,400 *\nMEGA Discount 640-\n1X 9,300\nDJAR BELIBIS SBL135 9,300 *\nDiscount 1,400-\nMEGA Discount 930-\n0.292X 19,900\nDAUN SEREH 5,811\nMEGA Discount 581-\nSUBTOTAL: 53,020\nTOTAL: 53,020\nMEGA OFFLINE EFT: 53,020"
+  }
+}

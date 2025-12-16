@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "BAKE",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 29000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 29000.0,
+    "accounting_category": "Food",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Cheese Tart",
+      "quantity": 1,
+      "unit_price": 29000.0,
+      "total_price": 29000.0,
+      "category": "Baked Goods",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 71000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000480.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "*1 Pc    Cheese Tart               Rp29000.00\nSubtotal:                         29000.00\nTotal:                           Rp29000.00\nCustomer Paid Cash:             Rp100000.00\nCustomer Change:                Rp71000.00"
+  }
+}

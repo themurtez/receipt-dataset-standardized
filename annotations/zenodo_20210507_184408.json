@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Supermercados, LDA",
+    "address": "Rua Engenhes Da Silva Marques, N. 1, 2530-320 Lourinha",
+    "phone": "",
+    "tax_id": "503 957 119",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-08-29",
+    "time": "17:58:58",
+    "currency": "EUR",
+    "payment_method": "Dinheiro",
+    "subtotal": 20.0,
+    "tax": 3.74,
+    "tip": 0.0,
+    "total": 20.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GASOLEO SIMPLES",
+      "quantity": 15.63,
+      "unit_price": 1.279,
+      "total_price": 20.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_184408.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "HYGIE SUPERMERCADOS, LDA\nRUA ENGENHES DA SILVA MARQUES, N. 1\n2530-320 LOURINHA\nCAPITAL SOCIAL 109735,53€\nNIF: 503957119\n\nDataHoraPOSOperadorTurno\n29-08-201917:58:581215999\nFactura\n1213P1700A9C900805B03/6673\n\nQtd.Preco Un.ProdutoIVA\nSub-Total\nBomba: 2 Mangueira: 4\n15.63 L1.279 Eur/L23%GASOLEO SIMPLES\n20.00 Eur\n\nNIF 0776914\nNome Cliente\nF. LIKE HOME\nMorada\nLISBOA\n\nDinheiro20.00\nIva 23.00%:3.74 Eur\n\nTotal Venda:20.00 Eur\n\nObrigado e Boa Viagem\nokIM-Processado por prog. certificado 166/AT\n"
+  }
+}

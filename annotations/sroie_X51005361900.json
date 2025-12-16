@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "TEO HENG STATIONERY & BOOKS",
+    "address": "NO. 53, JALAN BESAR, 45600 BATANG BERJUNTAI, SELANGOR DARUL EHSAN",
+    "phone": "03-3271 9872",
+    "tax_id": "000689913856",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-23",
+    "time": "",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 16.98,
+    "tax": 1.02,
+    "tip": 0.0,
+    "total": 18.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "DOUBLE SIDED TISSUE TAPE 18MM",
+      "quantity": 5,
+      "unit_price": 1.32,
+      "total_price": 6.6,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "G SOFT 6ML QUICK DRY CORRECTION PEN",
+      "quantity": 5,
+      "unit_price": 2.08,
+      "total_price": 10.38,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 10,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005361900.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TEO HENG STATIONERY & BOOKS\n(001451637-M)\nNO. 53, JALAN BESAR, 45600 BATANG BERJUNTAI\nSELANGOR DARUL EHSAN\nTEL : 03-3271 9872 FAX : 03-3271 9481\nGST No. : 000689913856\n\nSIMPLIFIED TAX INVOICE\n\nCASH\nReceipt No. : CS1801/27037 Date : 23/01/2018\n\nITEM QTY U/P DISC% AMOUNT\n(RM)\nTP-24 5 1.32 0.00 6.60\n- DOUBLE SIDED TISSUE TAPE 18MM\n\n9557546631393 5 2.08 0.00 10.38\n- G SOFT 6ML QUICK DRY CORRECTION PEN\n\nTotal Qty : 10 16.98\nSUB-TOTAL (EX) 16.98\nTOTAL TAX 1.02\nROUNDING 0.00\nTOTAL 18.00\nCASH 18.00\nCHANGE 0.00\n\nGST SUMMARY\n\nTAX CODE % AMOUNT \n(RM) TAX\n(RM)\nSR 6.00 16.98 1.02\nTOTAL : 16.98 1.02\n\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU."
+  }
+}

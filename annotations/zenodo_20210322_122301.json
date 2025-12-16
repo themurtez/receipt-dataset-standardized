@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Luz Beach Cafe",
+    "address": "Rua dos Pescadores, Loja 1, 8600-162 Luz",
+    "phone": "",
+    "tax_id": "514237511",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-25",
+    "time": "15:07:00",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 13.8,
+    "tax": 1.87,
+    "tip": 0.0,
+    "total": 13.8,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Ice Cream 1 Scoop",
+      "quantity": 1,
+      "unit_price": 1.2,
+      "total_price": 1.2,
+      "category": "Dessert",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Toasties",
+      "quantity": 2,
+      "unit_price": 4.5,
+      "total_price": 9.0,
+      "category": "Snacks",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ice Tea Peach",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Bica",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210322_122301.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Luz Beach Cafe\nArtigos e Servios - Universal, Lda\nRua dos Pescadores, Loja 1\n8600-162 Luz\nNIF: 514237511 CES 3000€ CRC Lagoa\nNome: F LIKEHOMEALVOVE\nNIF: 514407355\nFatura\nOpr.: Sokana FT: 001/00059589\nData: 2019-03-25 Hora: 15:07\nQuant Artigo IVA Valor\n1 Ice Cream 1 Scoop 23,00 1,20\n2 Toasties 13,00 9,00\n1 Ice Tea Peach 23,00 2,00\n1 Bica 13,00 1,00\nTotal EUR 13,80\nResumo do IVA\nTaxa Incidência Imposto Total\n13,00 8,84 1,16 10,00\n23,00 3,09 0,71 3,80\nESPLANADA - 0\nMeio Liquidação: Multibanco\nR7Y2-Processado por Programa\nCertificado n. 526/AT\nIVA Incluido\nSede em:\nRua do Popo\n8600-162 Luz\nObrigado pela Visita"
+  }
+}

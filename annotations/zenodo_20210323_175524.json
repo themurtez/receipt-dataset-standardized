@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Shopping Loule",
+    "address": "AV ANTONIO MARIA ANDRADE DE SOUSA LJ N-5, 8100-724 Loule",
+    "phone": "",
+    "tax_id": "509713955",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-10",
+    "time": "09:42:26",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 9.02,
+    "tax": 2.08,
+    "tip": 0.0,
+    "total": 11.1,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Cortina",
+      "quantity": 3,
+      "unit_price": 3.7,
+      "total_price": 11.1,
+      "category": "Home Goods",
+      "accounting_category": "Home Goods",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_175524.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SHOPPING LOULE\nLEIA CREIA LDA\nAV ANTONIO MARIA ANDRADE DE SOUSA LJ N-5\n8100-724 LOULE\nCONT.509713955\nORIGINAL\nFatura No.: 2019001424\nData:10-05-2019 09:42:26\nQUA. PRE. IVAX-DESCRICAO SOMA\n3x 3,70 23%-CORTINA 11,10\nIncidenci IVAX IVA\n9,02 23% 2,08\n3 ITEMS TOTAL: 11,10 Euro\nIVA INCLUIDO A TAXA INDICADA\nProcessado por computador\nObrigado pela sua visita\nBin/ Processado por programa\ncertificado No. 1350/AT/SMERPS GESTIONES\nPLUS\nNome: FLIKE HOME ALGARVE LDA\nCont:514407395\nMorada: LODLE\nPARA TROCA 15 DIAS,\nNAU DEVOLUCAO DEINHEIROS."
+  }
+}

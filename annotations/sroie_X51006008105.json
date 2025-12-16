@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Aeon Daiso",
+    "address": "3rd Flr, Aeon Taman Maluri SC, Jln Jejaka, Taman Maluri, Cheras, 55100 Kuala Lumpur",
+    "phone": "1-300-80-AEON (2366)",
+    "tax_id": "002017394688",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-21",
+    "time": "14:49:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 65.1,
+    "tax": 3.64,
+    "tip": 0.0,
+    "total": 70.1,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Decorative Wood",
+      "quantity": 1,
+      "unit_price": 5.9,
+      "total_price": 5.9,
+      "category": "Household",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Apron-93",
+      "quantity": 10,
+      "unit_price": 5.9,
+      "total_price": 59.0,
+      "category": "Apparel",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Plastics Bag",
+      "quantity": 1,
+      "unit_price": 0.2,
+      "total_price": 0.2,
+      "category": "Miscellaneous",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 12,
+    "rounding": 0.0,
+    "change_due": 5.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006008105.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AEON CO. (M) BHD (126926-H)\n3RD FLR, AEON TAMAN MALURI SC\nJLN JEJAKA, TAMAN MALURI\nCHERAS, 55100 KUALA LUMPUR\nGST ID : 002017394688\nSHOPPING HOURS\nSUN-THU:1000 HRS - 2200 HRS\nFRI-SAT:1000 HRS - 2300 HRS\n\n1x 000006937423 5.90SR\nDECORATIVE WOOD\n10x 000006146818 59.00SR\nAPRON-93 @5.90\n1x 000001888854 0.20SR\nPLASTICS BAG\n\nSub-total 65.10\nTotal Sales Incl GST 65.10\nTotal After Adj Incl GST 65.10\nCASH 70.10\nItem Count 12 Change Amt 5.00\nInvoice No: 2018032151300023113\nGST Summary Amount Tax\nSR @ 6% 61.46 3.64\nTotal 61.46 3.64\n\n21/03/2018 14:49 5130 002 0023113\n0302932 RAFIK BIN ABDUL HARI\n\nAEON DAISO SHAH ALAM\nTEL 1-300-80-AEON (2366)\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN\n"
+  }
+}

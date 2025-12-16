@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "KT WONG TRADING",
+    "address": "22, Jalan Perindustrian Hijau 5, Taman Perindustrian Hijau",
+    "phone": "+603-6093 9078",
+    "tax_id": "0006132940860",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-09",
+    "time": "12:17:20",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 489.3,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 489.3,
+    "accounting_category": "Retail",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "BERAS ASAS 10KG",
+      "quantity": 15,
+      "unit_price": 24.9,
+      "total_price": 373.5,
+      "category": "Groceries",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "SUN SOS TIRAM 6KG",
+      "quantity": 4,
+      "unit_price": 15.95,
+      "total_price": 63.8,
+      "category": "Groceries",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "COKE 24 X 325ML",
+      "quantity": 2,
+      "unit_price": 26.0,
+      "total_price": 52.0,
+      "category": "Beverages",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008145505.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Cash Sale\nKT WONG TRADING (001904043-H)\n22, Jalan Perindustrian Hijau 5,\nTaman Perindustrian Hijau,\nPhone: +603-6093 9078\nGST Registration No.: 0006132940860\nDocument No.: KTW031475\nDate: 09/06/2018 12:17:20 PM\nDESC PRICE Disc AMOUNT TAX CODE\nBERAS ASAS 10KG***\n15*BAG * 24.90 373.50 SR\nSUN SOS TIRAM 6KG\n4BOTOL * 15.95 63.80 SR\nCOKE 24 X 325ML\n2PETI * 26.00 52.00 SR\nSub Total Inclusive GST : 489.30\nRounding Adj.: 0.00\nRounded Total (RM): 489.30\nGST Summary Amount Tax\nSR @ 0% 489.30 0.00\nPayment Detail\n09/06/2018 Cash 489.30"
+  }
+}

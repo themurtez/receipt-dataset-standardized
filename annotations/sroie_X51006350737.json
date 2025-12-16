@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "C W KHOO HARDWARE SDN BHD",
+    "address": "NO.50, JALAN PBS 14/11, KAWASAN PERINDUSTRIAN BUKIT SERDANG",
+    "phone": "03-89410243",
+    "tax_id": "000549584896",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-31",
+    "time": "10:35:17",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 13.8,
+    "tax": 0.83,
+    "tip": 0.0,
+    "total": 14.65,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "2.0MM 'EVACUT' HSS DRILL BIT @ PC",
+      "quantity": 3,
+      "unit_price": 4.6,
+      "total_price": 13.8,
+      "category": "Hardware",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.02,
+    "change_due": 0.35
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006350737.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "(481500-M)\nC W KHOO HARDWARE SDN BHD\nNO.50 , JALAN PBS 14/11 ,\nKAWASAN PERINDUSTRIAN BUKIT SERDANG\nTel : 03-89410243 Fax : 03-89410243\nGST Reg No. : 000549584896\nTax Invoice\nInvoice No. : CR 1803/1905\nDate : 31/03/2018 10:35:17 AM\nCashier No. : khoo\nCounter No. : c1\nPrinted Date : 31/03/2018 10:34:21 AM\nItem Name Qty Unit Price Amount\n2.0MM 'EVACUT' HSS DRILL BIT @ PC\n3 4.60 13.80 SR\n------------------------------------------------------\n3 Item(s) Total (MYR) : 13.80\nGST @ 6% : 0.83\nNet Total (MYR) : 14.63\nRounding Adj. : 0.02\nNet Total Rounded (MYR) : 14.65\nCash : 15.00\nChange : 0.35\n------------------------------------------------------\nGST Summary Item Amount (MYR) GST (MYR)\nSR @ 6% 1 13.80 0.83\nThank You. Please Come Again !\n"
+  }
+}

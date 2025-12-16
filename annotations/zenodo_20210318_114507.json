@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "EDIMEL-MATERIAIS EDIFICACAO LDA",
+    "address": "LISBOA",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-01-09",
+    "time": "10:45:37",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 7.5,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 7.5,
+    "accounting_category": "Materials",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Item",
+      "quantity": 1,
+      "unit_price": 7.5,
+      "total_price": 7.5,
+      "category": "Materials",
+      "accounting_category": "Materials",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_114507.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "EDIMEL-MATERIAIS\nEDIFICACAO LDA\nLISBOA\nIdent. TPA: 00484560\n2019/01/09 10:45:37\nPer:004 Tr:019 ME:1754\nMILLENNIUM BCP\nALMEIDA/JORGE\nCARTAO: ****1299/53\n501649FF20\nMULTIBANCO\nCOMPRA 7,50 €\nAUT:187807 MB\nBanco BPI\nPagamento automático\nPROCESSADO POR SIBS"
+  }
+}

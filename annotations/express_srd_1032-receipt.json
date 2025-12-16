@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Wings & Things",
+    "address": "1717 Dutch Brdy, Elmont, NY 11003",
+    "phone": "516-341-7075",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-03-19",
+    "time": "20:14:00",
+    "currency": "USD",
+    "payment_method": "Cash",
+    "subtotal": 8.75,
+    "tax": 0.75,
+    "tip": 0.0,
+    "total": 9.5,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Mac & Cheese - Small",
+      "quantity": 1,
+      "unit_price": 1.19,
+      "total_price": 1.19,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Collard Greens - Small",
+      "quantity": 1,
+      "unit_price": 1.19,
+      "total_price": 1.19,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Corn Bread",
+      "quantity": 1,
+      "unit_price": 0.62,
+      "total_price": 0.62,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Wings",
+      "quantity": 5,
+      "unit_price": 1.15,
+      "total_price": 5.75,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1032-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "WINGS & THINGS\n1717 DUTCH BRDY ELMONT, NY 11003\nTHANKS CALL AGAIN 516-341-7075\n\n#168\n1 MAC&CHZ - SMALL 1.19\n1 COLL GRN - SMALL 1.19\n1 CORN BREAD .62\n1 5 WINGS 5.75\nSPCY FRY\n\nTXTL .75\nTOTL 9.50\nCASH 9.50\nCHNG .00\n\nTHANK YOU COME AGAIN\n\nPM #1\n0168 20:14 #04 MAR.19'17 REG0001"
+  }
+}

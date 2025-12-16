@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Pop Tates Korum Mall",
+    "address": "Korum Mall, 4th Floor, Mangal Pandey Rd, Off Eastern Express, Thane (W) 400606",
+    "phone": "022 64737998",
+    "tax_id": "27840289613V",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2012-09-12",
+    "time": "18:19:00",
+    "currency": "INR",
+    "payment_method": "",
+    "subtotal": 498.0,
+    "tax": 24.6,
+    "tip": 0.0,
+    "total": 523.0,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "French Fries",
+      "quantity": 2,
+      "unit_price": 95.0,
+      "total_price": 190.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Open Food",
+      "quantity": 1,
+      "unit_price": 60.0,
+      "total_price": 60.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Manesh Saus",
+      "quantity": 1,
+      "unit_price": 60.0,
+      "total_price": 60.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Paneer Tikka",
+      "quantity": 1,
+      "unit_price": 248.0,
+      "total_price": 248.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1171-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "POP TATES KORUM MALL\nANDHERI WEST\nKORUM HALL, 4TH FLOOR\nMANGAL PANDEY RD, OFF EASTERN EXPRESS\nTHANE (W) 400606\nTEL: 022 64737998\nORDER NO = K00024585\n\nBILL NO DATE AND TIME PAX TABLE\nB00002626 09/12/2012 6:19 PM 6 52\nCASHIER: CASHIER\nWAITER : WAITER\n\nQty Menu Item Amount\n2 FRENCH FRIES 190.00\n1 OPEN FOOD 60.00\n1.00 MANESH SAUS 60.00\n1 PANEER TIKKA 248.00\n\nTotal 498.00\nSERVICE TAX @ 4.94% 24.60\n\nGrand Total 523.00\n\nVAT NO: 27840289613V\n**THANK YOU & VISIT AGAIN **"
+  }
+}

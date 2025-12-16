@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "F&P PHARMACY",
+    "address": "NO.20, GROUND FLOOR, JALAN BS 10/6 TAMAN BUKIT SERDANG, SEKSYEN 10, 43300 SERI KEMBANGAN, SELANGOR DARUL EHSAN",
+    "phone": "03-89599823",
+    "tax_id": "001880666112",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-02",
+    "time": "16:46:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 30.68,
+    "tax": 1.22,
+    "tip": 0.0,
+    "total": 31.9,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "955789210635",
+      "quantity": 1,
+      "unit_price": 5.66,
+      "total_price": 6.0,
+      "category": "Product",
+      "accounting_category": "Retail",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "HOMECARE GASCOAL 50MG 1486",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Product",
+      "accounting_category": "Healthcare",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "P.P NAPROXEN NA 275 MG 955783740003",
+      "quantity": 1,
+      "unit_price": 4.3,
+      "total_price": 4.3,
+      "category": "Product",
+      "accounting_category": "Healthcare",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "YELLOW LOTION 30 ML 1014",
+      "quantity": 1,
+      "unit_price": 3.58,
+      "total_price": 3.8,
+      "category": "Product",
+      "accounting_category": "Personal Care",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "PANADOL SOLUBLE TABLET 1155",
+      "quantity": 1,
+      "unit_price": 6.13,
+      "total_price": 6.5,
+      "category": "Product",
+      "accounting_category": "Healthcare",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "PMS GAUZE BANDAGE 5CM X 4M 95506104",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.3,
+      "category": "Product",
+      "accounting_category": "Healthcare",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 18.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005365187.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "3-1707067\nF&P PHARMACY (002309592-P)\nNO.20, GROUND FLOOR,\nJALAN BS 10/6 TAMAN BUKIT SERDANG,\nSEKSYEN 10, 43300 SERI KEMBANGAN,\nSELANGOR DARUL EHSAN\nTEL 03-89599823\nGST Reg NO 001880666112\nTAX INVOICE\nDoc. No CS00110240 Date 02/03/2018\nCashier F&P Time 16.46.00\nSalesperson  Ref \n--------------------------------------------------\nItem (GST) (GST)\nQty S/Price S/Price Amount Tax\n955789210635 1 5.66 5.66 6.00 SR\nHOMECARE GASCOAL 50MG\n1486 1 6.00 6.00 6.00 ZRL\nP.P NAPROXEN NA 275 MG\n955783740003 1 4.30 4.30 4.30 ZRL\nYELLOW LOTION 30 ML\n1014 1 3.58 3.80 3.80 SR\nPANADOL SOLUBLE TABLET\n1155 1 6.13 6.50 6.50 SR\nPMS GAUZE BANDAGE 5CM X 4M\n95506104 1 5.00 5.30 5.30 SR\nTotal Qty 6 31.90\nTotal Sales (Excluding GST) 30.68\nDiscount 0.00\nTotal GST 1.22\nRounding 0.00\nTotal Sales (Inclusive of GST) : 31.90\nCASH : 50.00\nChange : 18.10\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR 6 20.38 1.22\nZRL 0 10.30 0.00\nTotal : 30.68 1.22\nGOODS SOLD ARE NOT RETURNABLE & EXCHANGABLE,\nTHANK YOU."
+  }
+}

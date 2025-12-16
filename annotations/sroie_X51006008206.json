@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Burger King",
+    "address": "Lot SATMZ 23, Mezzanine Level, Satellite Building, Kuala Lumpur International Airport",
+    "phone": "603-87766625",
+    "tax_id": "000806879232",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-27",
+    "time": "23:30:45",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 60.28,
+    "tax": 3.62,
+    "tip": 0.0,
+    "total": 63.9,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Whopper JR.",
+      "quantity": 4,
+      "unit_price": 10.15,
+      "total_price": 40.6,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Ice Lemon Tea (L)",
+      "quantity": 2,
+      "unit_price": 6.4,
+      "total_price": 12.8,
+      "category": "Beverages",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Coke (L)",
+      "quantity": 1,
+      "unit_price": 5.3,
+      "total_price": 5.3,
+      "category": "Beverages",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Americano (L)",
+      "quantity": 1,
+      "unit_price": 5.2,
+      "total_price": 5.2,
+      "category": "Beverages",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 6.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006008206.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Burger King\nLot SATMZ 23, Mezzanine Level\nSatellite Building\nKuala Lumpur International Airport\nDewina Host Sdn Bhd (434286-P)\nGST ID 000806879232\nTel: 603-87766625\n\nTax Invoice: 001-731709 Dine In\nDate: 2018/03/27 23:30:45\n\nWhopper JR. 4 RM40.60\nIce Lemon Tea(L) 2 RM12.80\nCoke (L) 1 RM5.30\nAmericano(L) 1 RM5.20\n\nTotal After Rounding RM63.90\n\n(Bill Inclusive of 6% GST : RM3.62)\n\nCASH RM70.00\nChange RM6.10\n\nThank You,Please Come Again.\nFree Open Wifi @Burger King\nNo Password Needed\n\n001-2018/03/27 23:39:28 AZLINDA 001-731709 [1]"
+  }
+}

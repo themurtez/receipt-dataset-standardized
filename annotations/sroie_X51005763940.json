@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Harvey Norman M'sia Paradigm Mall",
+    "address": "Lot 1F-01&02, 1st Flr, Paradigm Mall, No. 1 Jalan SS 7/26A, Kelana Jaya, 47301 Petaling Jaya",
+    "phone": "1300-88-5200",
+    "tax_id": "000551006208",
+    "website": "www.harveynorman.com.my"
+  },
+  "transaction": {
+    "date": "2018-02-11",
+    "time": "14:08:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 56.6,
+    "tax": 3.4,
+    "tip": 0.0,
+    "total": 60.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.85
+  },
+  "items": [
+    {
+      "name": "CANON CART PG-47BK",
+      "quantity": 2,
+      "unit_price": 30.0,
+      "total_price": 60.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005763940.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Harvey Norman M'sia Paradigm Mall\nElitetrax Marketing Sdn Bhd (616227-D)\nLot 1F-01&02, 1st Flr, Paradigm Mall,\nNo. 1 Jalan SS 7/26A,\nKelana Jaya,\n47301 Petaling Jaya\nTEL: 1300-88-5200 (HN Customer Service)\nGST REG. NO : 000551006208\n** Original **\nYou were served by Salesman: CHI CHERN\n---------------------------------------------------\n6005283\nCANON CART PG-47BK\n2 * 30.00 60.00 S6\n---------------------\nTotal Incl.Of GST 60.00\n\nUOB Terminal RM 60.00\nCard No : ************9014\nAuth Code : R13299\n\nGST Inclusive: Amount(RM) Tax(RM)\nS6 = 6.00 % of 60.00 3.40\n\nDate Time Branch POS Transac\n11.02.18 14:08 2007 2 24408\nSalesmanID CashierID CashierName\n803216 801817 NORSHAFIKA\n\n| Use This Code : WELCOME20 To Enjoy |\n| RM 20 Discount Online Now ! |\n---------------------------------------------------\nShop With Confidence at Harvey Norman.\nKeep Receipt as proof of Purchase.\nVisit www.harveynorman.com.my for\nmore promotions and offers.\n\n66002007000020024409120180211140759\n"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Nasi Campur Putra Bungsu",
+    "address": "Jalan Blora No. 27, Menteng, 23242 - Jakarta",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2023-10-10",
+    "time": "13:54:00",
+    "currency": "IDR",
+    "payment_method": "CASH",
+    "subtotal": 49090.0,
+    "tax": 4909.0,
+    "tip": 0.0,
+    "total": 53999.0,
+    "accounting_category": "Meals",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "HAI CMP SPC",
+      "quantity": 1,
+      "unit_price": 49090.0,
+      "total_price": 49090.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 1.0,
+    "change_due": 1.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000509.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "NAST CAMPUR PUTRA BUNGSI JALAN BLORA NO. 27 MENTENG JAKARTA 1 HAI CMP SPC 49.090 TX1 4.909 TL 53.999 CASH 54.000"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "The Merchant",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "VISA",
+    "subtotal": 126948.0,
+    "tax": 13330.0,
+    "tip": 0.0,
+    "total": 146625.0,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Combo 4",
+      "quantity": 1,
+      "unit_price": 51948.0,
+      "total_price": 51948.0,
+      "category": "Meal",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Crispy Mushroom",
+      "quantity": 1,
+      "unit_price": 45000.0,
+      "total_price": 45000.0,
+      "category": "Appetizer",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Equil Natural",
+      "quantity": 1,
+      "unit_price": 30000.0,
+      "total_price": 30000.0,
+      "category": "Beverage",
+      "accounting_category": "Drink",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000539.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Combo 4 51.948\n1 Crispy Mushroom 45.000\n1 Equil Natural 30.000\nSUB-TOTAL 126.948\nService Charge 6.347\nGov. Tax 13.330\nTOTAL 145.625\nVISA 146.625\nCHANGED 0"
+  }
+}

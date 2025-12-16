@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "voucher",
+    "subtotal": 31000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 31000.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "STBERRY MT (L) TOPPING",
+      "quantity": 1,
+      "unit_price": 27000.0,
+      "total_price": 27000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PUDDING (L)",
+      "quantity": 1,
+      "unit_price": 4000.0,
+      "total_price": 4000.0,
+      "category": "Dessert",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 4000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000710.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 x STBERRY MT (L) TOPPING 27,000\nPUDDING (L) 4,000\nICE LESS 0\nSUGAR LESS 0\n\nSUB TOTAL 31,000\n\nTOTAL SALES 31,000\nTOTAL ITEMS 1\nVOUCHER 450J0000259075\nCASH 20,000\nCHANGE 4,000"
+  }
+}

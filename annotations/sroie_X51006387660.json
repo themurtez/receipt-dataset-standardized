@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Tan.TongHing BookCentre (PT) SDN BHD",
+    "address": "Lot F15, Giant Bandar Puteri, Jalan Puteri 1/1, Bdr Puteri, 47100 Puchong, Selangor",
+    "phone": "03-8060 4233",
+    "tax_id": "002147033088",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-04-02",
+    "time": "21:29:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 4.3,
+    "tax": 0.24,
+    "tip": 0.0,
+    "total": 4.3,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Ink Chinese Kin's Astar",
+      "quantity": 1,
+      "unit_price": 2.3,
+      "total_price": 2.3,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Dolphin Pure Goat Chinese",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.7
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006387660.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TATIONGHAS BOOKCENTRE (PT) SDN BHD\nCO. NO. 374665-A\nLOT F15, GIANT BANDAR PUTERI\nJALAN PUTERI 1/1, BDR PUTERI\n47100 PUCHONG, SELANGOR\n03-8060 4233\n( NO. ID GST: 002147033088 )\nTAX INVOICE\nPOSTED\nCASH1 #18-02 BILL: 29631\n02/04/2017 21:29\n----------------------------------------\nB.CODE & DESC. OTY U/PRICE AMT\n9555973969277 1 2.30 2.30\nINK CHINESE KIN'S ASTAR\n9556973930165 1 2.00 2.00\nDOLPHIN PURE GOAT CHINESE\n----------------------------------------\nSUB-TOTAL 4.30\nTotal GST(I) 0.24\nTOTAL ITEM(S): 2\nTOTAL QUANTITY(S): 2\nTOTAL INCL GST RM 4.30\nPAY CASH\n5.00\nCHANGE RM\n0.70\nTHANK YOU. PLEASE COME AGAIN.\nGOODS SOLD ARE NOT RETURNABLE.\nGST Taxable Amt GST Amt\n===========================\n-SR(I) - 6% 4.86 0.24\n4.30\n"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "IDEAL MENU GROUP SDN BHD",
+    "address": "31,31A, JALAN HANG TUAH 9, TAMAN SKUDAI BARU, 81300 SKUDAI, JOHOR",
+    "phone": "",
+    "tax_id": "001707421696",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-10",
+    "time": "16:23:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 12.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 12.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "A1 LO BAK RICE - SET",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BUBBLE GREEN TEA",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 8.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007846410.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "IDEAL MENU GROUP SDN BHD\n(1143655-H)\n31,31A, JALAN HANG TUAH 9,\nTAMAN SKUDAI BARU,\n81300 SKUDAI,\nJOHOR\nGST ID : 001707421696\n\nTAX INVOICE\nReceipt #: CS10031697     Table: 10\nStaff:                   Date: 10/06/2018\nCashier: SM CASHIER      Time: 16:23:00\n\nDescription         Qty    Price    Amt   Tax\nA1 LO BAK RICE - SET  1     12.00  12.00  SR\nBUBBLE GREEN TEA      1      0.00   0.00  SR\nTotal:                       2     12.00\n\nTotal Sales (Excluding GST)  12.00\nDiscount                     0.00\nService Charge               0.00\nTotal GST                    0.00\nRounding                     0.00\n\nTotal Sales (Inclusive of GST) 12.00\nCASH                           20.00\nCHANGE                          8.00\n\nGST SUMMARY\nTax Code  %       Amt (RM)   Tax (RM)\nSR0       0       12.00      0.00\nTotal:            12.00      0.00\n\n# indicated this tax code belong to service charges.\n\nTHANK YOU. PLEASE COME AGAIN !!"
+  }
+}

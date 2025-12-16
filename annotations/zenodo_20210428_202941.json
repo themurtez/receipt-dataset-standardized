@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "JMTD-FERRAGENS DO COMBRO LDA",
+    "address": "CALÇADA DO COMBRO N°3, 1200-110 LISBOA",
+    "phone": "21 347 67 62",
+    "tax_id": "513 350 535",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-07",
+    "time": "11:15:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 10.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 10.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Broca Diamante",
+      "quantity": 1,
+      "unit_price": 10.0,
+      "total_price": 10.0,
+      "category": "Tools",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_202941.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "JMTD-FERRAGENS DO COMBRO LDA\nFERRAGENS FERRAMENTAS CHAVES FECHADURAS\nMAT. ELECTRICO - MAT. CANALIZACAO\nCALCADA DO COMBRO N°3, 1200-110 LISBOA\nNIF: 513 350 535\nEmail: jose.m.a.duarte@sapo.pt\nTelf: 21 347 67 62\n\nFATURA SIMPLIFICADA\nORIGINAL\nDATA 07/05/2019 - 11:15 No A/30993\nCliente: FLKEHOME Lda\nMorada: \nCont.No: 510776914\n\nArtigo   Qtd   Preco E   Valor E\n---------------------------------\nBroca Diamante\n23%   1 Un x 10,00 = 10,00\n#001\nTOTAL........................... 10,00\n\nNumerario...................... 10,00\nTroco........................... 0,00\n\nIVA Incluido a taxa indicada\nTaxa%   Sujeito   IVA   Total\n23,00    8,13      1,87   10,00\n\nData de carga.: 07/05/2019\nHora de carga.: 11:25\nLocal carga.: N/Instalacoes\nMatricula...\nData descarga.\nHora descarga.\nLocal descarga.: V/Instalacoes\n\nKmM - Processado por programa certificado\nNo 88/AT - 1 A/30993\n\nOpr: Administrador\n\nOBRIGADO - VOLTE SEMPRE"
+  }
+}

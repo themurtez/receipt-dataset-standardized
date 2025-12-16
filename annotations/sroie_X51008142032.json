@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "ONE ONE THREE SEAFOOD RESTAURANT SDN BHD",
+    "address": "NO.1, TAMAN SRI DENGKIL, JALAN AIR HITAM, 43800 DENGKIL, SELANGOR",
+    "phone": "",
+    "tax_id": "000670224384",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-28",
+    "time": "23:28:57",
+    "currency": "RM",
+    "payment_method": "CASH",
+    "subtotal": 106.0,
+    "tax": 6.36,
+    "tip": 0.0,
+    "total": 112.35,
+    "accounting_category": "Meals and Entertainment",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Grouper",
+      "quantity": 1,
+      "unit_price": 70.0,
+      "total_price": 70.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Vege Item",
+      "quantity": 1,
+      "unit_price": 15.0,
+      "total_price": 15.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Omelette Item",
+      "quantity": 1,
+      "unit_price": 8.0,
+      "total_price": 8.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "White Rice",
+      "quantity": 1,
+      "unit_price": 8.0,
+      "total_price": 8.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Beverage",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Drinks",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": -0.01,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008142032.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ONE ONE THREE SEAFOOD RESTAURANT SDN BHD\n(1120908-M)\nNO.1, TAMAN SRI DENGKIL, JALAN AIR HITAM\n43800 DENGKIL, SELANGOR.\n(GST Reg. No : 000670224384)\n\nTax Invoice\nTable 03\nBill:V001-539233 Order#: 139336\nDate : 28-05-2018 23:28:57\nCashier: 113 CASHIER Pax(s): 0\n\nQty Description Total TAX\n1 Grouper D 70.00 SR\n1 Vege Item D 15.00 SR\n1 Omellete Item D 8.00 SR\n1 White Rice D 8.00 SR\n1 Beverage D 5.00 SR\n\nTotal (Excluding GST): 106.00\nGST Payable: 6.36\nTotal (Inclusive of GST): 112.36\nRounding Adj: -0.01\nTOTAL: 112.35\n\nClosed: 1 28-05-2018 23:50:00\nServer: 113 CASHIER\nCASH : 112.35\n\nGST Summary Amount(RM) Tax(RM)\nSR (@ 6%) 106.00 6.36\n\n**** Thank You ****\nPlease Come Again"
+  }
+}

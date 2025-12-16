@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Restoran De Coffee O",
+    "address": "No 33, J5, G F. Jalan Temenggung 3/9, Bandar Mahkota Cheras, 43200 Cheras, Selangor",
+    "phone": "",
+    "tax_id": "002062008320",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-03",
+    "time": "12:32:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 10.94,
+    "tax": 0.66,
+    "tip": 0.0,
+    "total": 11.6,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Coffee O (T.Away)",
+      "quantity": 1,
+      "unit_price": 2.3,
+      "total_price": 2.3,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Tea (T.Away)",
+      "quantity": 1,
+      "unit_price": 2.4,
+      "total_price": 2.4,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Coffee (T.Away)",
+      "quantity": 2,
+      "unit_price": 2.4,
+      "total_price": 4.8,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Soya Bean (T.Away)",
+      "quantity": 1,
+      "unit_price": 2.1,
+      "total_price": 2.1,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008030560.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "RESTORAN DE COFFEE O\nNO 33, J5, G F.JALAN TEMENGGUNG 3/9,\nBANDAR MAHKOTA CHERAS,\n43200 CHERAS, SELANGOR\nGST NO.: 002062008320\nTAX INVOICE\nReceipt #: CS00119810 Date: 03/04/2018\nTime: 12:32:00\nItem Qty (GST) (GST)\nPrice AMOUNT\nSR: COFFEE O (T.AWAY) 1 2.30 2.30\nSR: TEA (T.AWAY) 1 2.40 2.40\nSR: COFFEE (T.AWAY) 2 2.40 4.80\nSR: SOYA BEAN (T.AWAY) 1 2.10 2.10\nTOTAL 5\n(Excluded GST) Sub Total 10.94\nTotal GST 0.66\nTOTAL 11.60\nGST SUMMARY\nTax Code % Amount GST\nSR 6 10.94 0.66\nTotal: 10.94 0.66\nGOODS SOLD ARE NOT RETURNABLE.\nTHANK YOU."
+  }
+}

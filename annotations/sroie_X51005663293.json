@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "SWEET FOREST CAFE",
+    "address": "NO 21, JLN BUNGA KANTAN, TAMAN P. RAMLEE SETAPAK, 53000 KUALA LUMPUR",
+    "phone": "",
+    "tax_id": "000465890408",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-02-14",
+    "time": "13:02:42",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 28.58,
+    "tax": 1.72,
+    "tip": 0.0,
+    "total": 30.3,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Smoked Duck Spaghetti",
+      "quantity": 1,
+      "unit_price": 12.5,
+      "total_price": 12.5,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Hot Green Tea",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Beverage",
+      "accounting_category": "Drink",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Coffee(H)",
+      "quantity": 1,
+      "unit_price": 4.9,
+      "total_price": 4.9,
+      "category": "Beverage",
+      "accounting_category": "Drink",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Rendang Chicken Rice",
+      "quantity": 1,
+      "unit_price": 9.9,
+      "total_price": 9.9,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 19.7
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005663293.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SWEET FOREST CAFE\nNO 21, JLN BUNGA KANTAN\nTAMAN P. RAMLEE SETAPAK\n53000 KUALA LUMPUR.\n(GST Reg. No : 000465890408)\n\nTax Invoice\n\nTable 15\n--------------------------------------------------\nINV No.: 593101 Pax(s): 2\nDate : 14-02-2018 13:02:42\nCashier: SIM JIAN WAI\n--------------------------------------------------\nDescription Qty U.price Total TAX\n\nSmoked Duck Spaghetti\n1 x 12.50 12.50 SR\nHot Green Tea\n1 x 3.00 3.00 SR\nCoffee(H)\n1 x 4.90 4.90 SR\nRendang Chicken Rice\n1 x 9.90 9.90 SR\n\n--------------------------------------------------\nTotal QTY: 4\nTotal (Excluding GST): 28.58\nGST payable (6%): 1.72\nTotal (Inclusive of GST): 30.30\n--------------------------------------------------\nClosed: 001 14-02-2018 13:50:58\nServer: SIM JIAN WAI\n\nCASH : 14/2/18 50.00\nCHANGE : 30.30 19.70\n--------------------------------------------------\nGST Summary Amount(RM)\nSR (@ 6%) 28.58 1.72/\n--------------------------------------------------\n"
+  }
+}

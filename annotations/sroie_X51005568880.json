@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "MR.D.I.Y (M) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000306020352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-09-19",
+    "time": "15:39:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 15.0,
+    "tax": 0.9,
+    "tip": 0.0,
+    "total": 15.9,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TOILET BRUSH 47-2311",
+      "quantity": 1,
+      "unit_price": 2.7,
+      "total_price": 2.7,
+      "category": "Household",
+      "accounting_category": "Cleaning Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CEMENT KN BLK-2",
+      "quantity": 1,
+      "unit_price": 1.6,
+      "total_price": 1.6,
+      "category": "Construction",
+      "accounting_category": "Building Materials",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "HSS TWIST DRILL 5.5*",
+      "quantity": 1,
+      "unit_price": 3.3,
+      "total_price": 3.3,
+      "category": "Tools",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "HSS TWIST DRILL 6*1",
+      "quantity": 1,
+      "unit_price": 3.3,
+      "total_price": 3.3,
+      "category": "Tools",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CURTAIN STRAPS",
+      "quantity": 2,
+      "unit_price": 2.5,
+      "total_price": 5.0,
+      "category": "Household",
+      "accounting_category": "Home Decor",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 34.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005568880.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR.D.I.Y(M)SDN BHD\nCo-REG:860671-D\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000306020352)\n(ENDAH PARADE)\n-TAX INVOICE-\n-----------------------------------------------------\nTOILET BRUSH 47-2311                  *S\nHD03-04-06 - 5/40/160\n9067860                   1  X   2.70      2.70\nCEMENT KN BLK-2                               *S\nKF12 - 12/240\n9071872                   1  X   1.60      1.60\nHSS TWIST DRILL 5.5*                       *S\nKH22 -  10/500\n6909906163102          1  X   3.30      3.30\nHSS TWIST DRILL  6*1                       *S\nKH12 - 10/500\n6909906163103          1  X   3.30      3.30\nCURTAIN STRAPS                               *S\nCK11-22-31 - 10/400\n8720019                   2  X   2.50      5.00\nItem(s) : 5                         Qty(s) : 6\n-----------------------------------------------------\nTOTAL INCL.GST@6%      RM  15.90\nCASH                              RM  50.00\nCHANGE                         RM  34.10\n\nGST Summary           Amt(RM)        Tax(RM)\nGST S@6%                 15.00              0.90\n*\n-------------------------------------------------------*\n19-09-17  15:39  SH01  ZJ03       T3  R000100808\nOPERATOR  TSGC  -  KARKI DAMMAR BAHADUR\n\nEXCHANGE ARE ALLOWED WITHIN\n7 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

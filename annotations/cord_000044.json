@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 256363.0,
+    "tax": 25637.0,
+    "tip": 0.0,
+    "total": 282000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Choco Puff",
+      "quantity": 1,
+      "unit_price": 29091.0,
+      "total_price": 29091.0,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Creamy Beef CLS PTC",
+      "quantity": 1,
+      "unit_price": 42727.0,
+      "total_price": 42727.0,
+      "category": "Entree",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "New Oriental CHK Rice",
+      "quantity": 1,
+      "unit_price": 34545.0,
+      "total_price": 34545.0,
+      "category": "Entree",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Lipton Pitcher",
+      "quantity": 1,
+      "unit_price": 54645.0,
+      "total_price": 54645.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "S/P Super Supreme",
+      "quantity": 1,
+      "unit_price": 47273.0,
+      "total_price": 47273.0,
+      "category": "Entree",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "CB/P Black Pepp Beef",
+      "quantity": 1,
+      "unit_price": 48182.0,
+      "total_price": 48182.0,
+      "category": "Entree",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000044.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Choco Puff 29,091\n1 Creamy Beef CLS PTC 42,727\n1 New Oriental CHK Rice 34,545\n1 Lipton Pitcher 54,645\n1 S/P Super Supreme 47,273\n1 CB/P Black Pepp Beef 48,182\n\nSubtotal 256,363\nTax 25,637\nTotal 282,000"
+  }
+}

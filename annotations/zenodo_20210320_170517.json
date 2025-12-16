@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Casa Caravela",
+    "address": "Marina Plaza, Lojas 76 e 77, Vilamoura",
+    "phone": "289 322 022",
+    "tax_id": "501.056.807",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-30",
+    "time": "10:29:00",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 4.88,
+    "tax": 1.12,
+    "tip": 0.0,
+    "total": 6.0,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Melancia Fatia",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Laranja",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pera",
+      "quantity": 2,
+      "unit_price": 1.0,
+      "total_price": 2.0,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210320_170517.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CASA CARAVELA\nV.R.S.A. Artigos Regionais, Lda.\nMarina Plaza, Lojas 76 e 77 - Vilamoura\nCont: 501.056.807 - Tel: 289 322 022\nReg.C. 131/660819 Cons.VRSA Cs:60.000Eur\nCert: 514407395\n\nFatura Simplificada\nNatureza:Fatura Simplificada NIDIA\n2019-03-30 10:29 Original Ter:13\nFS J1/204780\n\nQuant. Pr. Unit. IVA Desc. %Total\nMELANCIA - FATIA 1,00 23% 1,00\nLARANJA 1 1,00 23% 1,00\nPERA 1 1,00 23% 1,00\nPERA 2 1,00 23% 2,00\n\nItens: 6 6,00 EUR\nTotal 6,00\nForma Pag: MULTIBANCO 5,00\n\nIva Incluido a Taxa Indicada\nTaxa Valor Iva Base Imp. Valor Total\n23% 1,12 4,88 6,00\n\nTrocas só com a apresentação do talão de\ncompra, no prazo máximo de 15 dias.\n\njfa4-Processado por programa certificado\nnº 2/AT - Sage\nEste documento não constitui documento d\ntransporte, nos termos do Decreto-Lei\nn.º 147/2003"
+  }
+}

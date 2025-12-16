@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Gudang Hasil Restaurant Sdn Bhd",
+    "address": "No. 33, Lrg Hang Jebat, Melaka",
+    "phone": "",
+    "tax_id": "001706905600",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-12-02",
+    "time": "12:33:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 15.8,
+    "tax": 0.89,
+    "tip": 0.0,
+    "total": 15.8,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PEANUT C. CRC 200G",
+      "quantity": 1,
+      "unit_price": 7.9,
+      "total_price": 7.9,
+      "category": "Snack",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TARO C. CRAC 200G",
+      "quantity": 1,
+      "unit_price": 7.9,
+      "total_price": 7.9,
+      "category": "Snack",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 4.2
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619509.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GUDANG HASIL RESTAURANT SDN BHD\n(1157059-U)\nNO. 33, LRG HANG JEBAT, MELAKA\n(GST ID:001706905600)\nREG   KER YUN   02-12-2016  12:33 PM  000093\nMC #03\nPEANUT C. CRC200G        RM7.90 S\n#9555798500023\nTARO C. CRAC 200G        RM7.90 S\n#9555798500016\n                   2 No\nSUBTOTAL                RM15.80\nCASH                   RM20.00\nYOUR  CHANGE           RM4.20\nGST TAX AMT             RM14.91\nGST 6%                   RM0.89\n\nTHANK YOU\nPLEASE COME AGAIN"
+  }
+}

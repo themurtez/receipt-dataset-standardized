@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "MY HAPPY PHARMACY PLT",
+    "address": "NO 12 GF, JALAN MAMANDA 5, TAMAN DATO AHMAD RAZALI, JALAN AMPANG, 68000 AMPANG, SELANGOR",
+    "phone": "+60342661226",
+    "tax_id": "000241512448",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-02-01",
+    "time": "16:07:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 19.34,
+    "tax": 1.16,
+    "tip": 0.0,
+    "total": 20.5,
+    "accounting_category": "Pharmacy",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "FLANIL ANALGESIC CR 60G",
+      "quantity": 1,
+      "unit_price": 20.5,
+      "total_price": 20.5,
+      "category": "Medicine",
+      "accounting_category": "Pharmacy",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.5
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005722668.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MY HAPPY PHARMACY PLT\n(LLP0007299-LGN)\nNO 12 GF, JALAN MAMANDA 5,\nTAMAN DATO AHMAD RAZALI, JALAN AMPANG,\n68000 AMPANG, SELANGOR\nTEL +60342661226\nGST ID 000241512448\nSIMPLIFIED TAX INVOICE\nCASH\nDoc No CS00038813 Date: 01/02/2018\nCashier ASIFA Time: 16:07:00\nSalesperson S005 Ref:\nItem Qty S/Price Amount Tax\nOTC-000127 1 20.50 20.50 SR\nFLANIL ANALGESIC CR 60G\nTotal Qty 1 20.50\nTotal Sales (Excluding GST) 19.34\nDiscount 0.00\nTotal GST 1.16\nRounding 0.00\nTotal Sales (Inclusive of GST): 20.50\nCASH 21.00\nChange 0.50\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR 6 19.34 1.16\nTotal: 19.34\nGOODS SOLD ARE NOT RETURNABLE. THANK YOU."
+  }
+}

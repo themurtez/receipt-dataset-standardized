@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "RED & HOT II",
+    "address": "349 7 Ave. (Corner of 10 St) Brooklyn, NY 11215",
+    "phone": "(718) 369-2577",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-10-20",
+    "time": "12:37:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 21.55,
+    "tax": 1.91,
+    "tip": 0.0,
+    "total": 23.46,
+    "accounting_category": "Dining",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Vegetable Roll",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Appetizer",
+      "accounting_category": "Food & Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Egg Roll",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Appetizer",
+      "accounting_category": "Food & Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sesame chicken",
+      "quantity": 2,
+      "unit_price": 13.9,
+      "total_price": 27.8,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Veg Spare Ribs",
+      "quantity": 1,
+      "unit_price": 7.65,
+      "total_price": 7.65,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverages",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1120-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "RED & HOT II\n349 7 AVE. (CORNER OF 10ST)\nBROOKLYN, NY 11215\nTEL:(718)369-2577\nTEL:(718)309-8897\n\nDine In\n\nDate: 10-20-2018 Time: 12:37PM      #18\n\nServer: WAITER1\n\nTAB#: C2\nNo. of Guest: 1\n\n1   Vegetable Roll                  0.00\n        Egg Roll\n\n2   L35.Sesame chicken             13.90\n1       W/R\n1       F/R\n\n1   (L)Veg Spare Ribs .BBS          7.65\n        W/R\n\nAmount :                      21.55\nTAX(8.875%):                   1.91\nTOTAL :                       23.46\n\nThank you very much."
+  }
+}

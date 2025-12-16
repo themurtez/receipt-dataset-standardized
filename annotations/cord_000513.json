@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "BOENKA",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "GOPAY",
+    "subtotal": 33636.0,
+    "tax": 3364.0,
+    "tip": 0.0,
+    "total": 37000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "WOOSAM RICE R",
+      "quantity": 1,
+      "unit_price": 33636.0,
+      "total_price": 33636.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000513.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BOENKA\n1 WOOSAM RICE R\t33,636\nSubtotal\t33,636\nTax\t3,364\nTotal\t37,000\nGOPAY\t37,000"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Aik Huat Hardware Enterprise (Setia Alam) Sdn Bhd",
+    "address": "No. 17-G, Jalan Setia Indah (X) U13/X, Setia Alam, Seksyen U13, 40170 Shah Alam",
+    "phone": "012-6631783",
+    "tax_id": "000394528768",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-07-22",
+    "time": "15:53:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 28.0,
+    "tax": 1.58,
+    "tip": 0.0,
+    "total": 28.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Milux M268 Gas Regulator H/D",
+      "quantity": 1,
+      "unit_price": 28.0,
+      "total_price": 28.0,
+      "category": "Hardware",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 12.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007339638.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AIK HUAT HARDWARE ENTERPRISE (SETIA ALAM) SDN BHD 622737-X NO. 17-G, JALAN SETIA INDAH (X) U13/X, SETIA ALAM, SEKSYEN U13, 40170 SHAH ALAM. TEL: 012-6631783 FAX: 03-33623808 GST NO: 000394528768 SIMPLIFIED TAX INVOICE CASH RECEIPT #: GSP0407141 DATE: 22/07/2017 SALESPERSON # AH019 TIME: 15:53:00 ITEM QTY U/P AMOUNT (RM) (RM) 9555019100268 1 28.00 28.00 S MILUX M268 GAS REGULATOR H/D TOTAL QUANTITY 1 SUB-TOTAL (GST) 28.00 DISC 0.00 ROUNDING 0.00 TOTAL 28.00 CASH 40.00 CHANGE 12.00 *GST @ 6% INCLUDED IN TOTAL GST SUMMARY CODE AMOUNT % TAX/AMT SR 26.42 6 1.58 TAX TOTAL: 1.58 GOODS SOLD ARE NOT REFUNDABLE; THANK YOU FOR CHOOSING US. PLS PROVIDE ORIGINAL BILL FOR GOODS EXCHANGE WITHIN 1 WEEK FROM TRANSACTION GOODS MUST BE IN ORIGINAL STATE TO BE ENTITLED FOR EXCHANGE."
+  }
+}

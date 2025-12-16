@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Terra Nostra Garden Hotel",
+    "address": "Largo Vasco Bensaúde, 9500-103 Ponta Delgada",
+    "phone": "",
+    "tax_id": "510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-10",
+    "time": "16:29:00",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 155.0,
+    "tax": 9.5,
+    "tip": 0.0,
+    "total": 155.0,
+    "accounting_category": "Travel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Menu Classico",
+      "quantity": 2,
+      "unit_price": 96.0,
+      "total_price": 96.0,
+      "category": "Dining",
+      "accounting_category": "Travel",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Fillete de Abrotea",
+      "quantity": 1,
+      "unit_price": 18.0,
+      "total_price": 18.0,
+      "category": "Dining",
+      "accounting_category": "Travel",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Cafe Expresso",
+      "quantity": 4,
+      "unit_price": 8.0,
+      "total_price": 8.0,
+      "category": "Dining",
+      "accounting_category": "Travel",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Cozido das Furnas",
+      "quantity": 1,
+      "unit_price": 20.0,
+      "total_price": 20.0,
+      "category": "Dining",
+      "accounting_category": "Travel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_220010.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TERRA NOSTRA GARDEN HOTEL\n\nRESTAURANTE\n\nBENFTUR\n\nLargo Vasco Bensaude\n\n9500-103 Ponta Delgada\n\nNIF 510 776 914\n\nData: 10-11-2017\n\nMesa: 18 | Clientes: 4\n\n1.00 FILLETE DE ABROTEA\n\n4.00 CAFE EXPRESSO\n\n1.00 COZIDO DAS FURNAS\n\n2.00 MENU CLASSICO\n\nTotal (EUR): 155.00\n\nTaxa: 9.50\n\nPagamento: Numerário\n\nN° Contribuinte: 510776914\n\nCertificado Nr. 616/AT\n\nObrigada pela visita, volte sempre!"
+  }
+}

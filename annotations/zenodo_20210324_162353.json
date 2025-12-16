@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Norauto Portugal S.A.",
+    "address": "Avenida dos Cavaleiros, N.º 49, 2794-057 Carnaxide",
+    "phone": "210170800",
+    "tax_id": "503 629 995",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-24",
+    "time": "21:21:44",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 18.24,
+    "tax": 4.21,
+    "tip": 0.0,
+    "total": 22.45,
+    "accounting_category": "Automotive",
+    "category_confidence": 0.85
+  },
+  "items": [
+    {
+      "name": "5L NORAUTO 15W40 D",
+      "quantity": 1,
+      "unit_price": 14.95,
+      "total_price": 14.95,
+      "category": "Car Supplies",
+      "accounting_category": "Automotive",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "LAMAPDA NORAUTO H4",
+      "quantity": 1,
+      "unit_price": 6.5,
+      "total_price": 6.5,
+      "category": "Car Supplies",
+      "accounting_category": "Automotive",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "LIMPA VIDROS VELOX 50ML",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Car Supplies",
+      "accounting_category": "Automotive",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210324_162353.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Norauto Portugal S.A. Avenida dos Cavaleiros, N.º 49, 2794-057 Carnaxide NIF: 503 629 995 Tel: 210170800\nRef. fiscal: FT 065000003/332060 2066826 5L NORAUTO 15W40 D 14.95 224216 2 LAMAPDA NORAUTO H4 6.50 2055999 2 LIMPA VIDROS VELOX 50ML 1.00 TOTAL EUR 22.45\n"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 125000.0,
+    "tax": 12500.0,
+    "tip": 0.0,
+    "total": 137500.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "KUPAT TAHU",
+      "quantity": 2,
+      "unit_price": 19000.0,
+      "total_price": 38000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MIE KOCOK",
+      "quantity": 3,
+      "unit_price": 29000.0,
+      "total_price": 87000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 12500.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000177.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KUPAT TAHU\n0512100 2 19,000 38,000\nMIE KOCOK\n0515103 3 29,000 87,000\nSub Total 125,000\nPB1 12,500\nNetto 137,500\nCash 150,000\nChange 12,500"
+  }
+}

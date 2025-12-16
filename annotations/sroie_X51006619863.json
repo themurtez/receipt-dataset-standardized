@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "99 SPEED MART S/B",
+    "address": "LOT P.T. 33198, BATU 4, JALAN KAPAR, MUKIM KAPAR, 42100 KLANG, SELANGOR",
+    "phone": "",
+    "tax_id": "000181747712",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-06-08",
+    "time": "19:13:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 1.99,
+    "tax": 0.12,
+    "tip": 0.0,
+    "total": 2.11,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "WONG AH LEK KAYA (PANO)",
+      "quantity": 1,
+      "unit_price": 2.11,
+      "total_price": 2.11,
+      "category": "Food",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": -0.01,
+    "change_due": 0.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619863.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "99 SPEED MART S/B (519537-X)\nLOT P.T. 33198, BATU 4\nJALAN KAPAR, MUKIM KAPAR\n42100 KLANG, SELANGOR\n1181-TMN SRI SINAR\nGST ID. NO : 000181747712\n\nINVOICE NO : 17692/102/T0515\n\n07:13PM 561169 08-06-16\n----------------------------------\n6145 WONG AH LEK KAYA (PANO RM2.11 S\n\n----------------------------------\nTotal Sales (Inclusive GST) RM 2.11\nRounding Adjustment RM -.01\nRounding RM 2.10\nCASH RM 2.20\nCHANGE RM .10\n----------------------------------\nGST Summary Amount(RM) Tax(RM)\ns = 6% 1.99 .12"
+  }
+}

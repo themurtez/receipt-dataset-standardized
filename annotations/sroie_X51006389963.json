@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "ELKEN SERVICE SDN BHD",
+    "address": "No 2-1 Jalan 3/137B Batu 5, Jalan Kelang Lama 58000 Kuala Lumpur",
+    "phone": "603-79859377",
+    "tax_id": "000154042368",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-10-10",
+    "time": "13:55:59",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 235.85,
+    "tax": 14.15,
+    "tip": 0.0,
+    "total": 250.0,
+    "accounting_category": "Services",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "VALUE PACK A - BP SER SR",
+      "quantity": 1,
+      "unit_price": 235.85,
+      "total_price": 235.85,
+      "category": "Filter",
+      "accounting_category": "Product",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006389963.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ELKEN SERVICE\nELKEN SERVICE SDN BHD (310184-X)\nNo 2-1 Jalan 3/137B Batu 5\nJalan Kelang Lama 58000 Kuala Lumpur\nTel: 603-79859377 Fax no: 03-79807585\nEmail : elkenservice@elken.com.my\nGST Reg No : 000154042368\nTAX INVOICE\nDATE : 10 OCT 2017 TUE\nS/O NO : SS3511032318\nINVOICE NO : ESS447-004439\nJOB TYPE: MAINTENANCE\nBILL TO : WONG PEI HAR\nADDRESS : 2920/1, JALAN JINJANG INDAH 1,\nJINJANG UTARA,\n52000 KEPONG, KUALA LUMPUR.\nTEL : 0122536936\nTYPE OF UNIT\nDESCRIPTION SUPPLY PRICE QTY TOTAL\nRM RM\nVALUE PACK A - BP SER SR 235.85 1 235.85\n- CARBON FILTER - BP SERIES 1\n- SEDIMENI FILTER - BP SERIES 1\nSUBTOTAL 235.85\nDISCOUNT\nSUBTOTAL (EXCLUDING GST) 235.85\nGST (6%) 14.15\nTOTAL AMOUNT DUE 250.00\nPAYMENT MODE: CASH 250.00\nGST SUMMARY :\nAMOUNT GST AMOUNT\nEXCLUSIVE RM RM INCLUSIVE\n0% ZRL : Zero rate 0.00 0.00 0.00\n6% SR : Standard rate 235.85 14.15 250.00\n0% RS : Relief Supply 0.00 0.00 0.00\nTOTAL AMOUNT 235.85 14.15 250.00\nCHECKLIST\n- Feedwater pressure(psi) 20\n- Feed water TDS 006\n- Before service RO TDS 000\n- After service RO TDS 000\nREMARK\nBP37613 chg I 2\nCustomer Acceptance of Attended By\nProduct & Service FONG MUN LOONG\nin good order Tech ID: ESS447\n01:55:59 PM\nCustomer Signature\nThank You"
+  }
+}

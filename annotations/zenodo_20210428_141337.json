@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Jumbo",
+    "address": "Av. Eng. D. C. C. Almeiras",
+    "phone": "",
+    "tax_id": "",
+    "website": "www.jumbo.pt"
+  },
+  "transaction": {
+    "date": "2019-02-08",
+    "time": "19:03:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 19.5,
+    "tax": 3.72,
+    "tip": 0.0,
+    "total": 19.5,
+    "accounting_category": "Grocery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "1 Volume",
+      "quantity": 1,
+      "unit_price": 19.5,
+      "total_price": 19.5,
+      "category": "Grocery",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.1
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_141337.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Jumbo\nwww.jumbo.pt\n... (other OCR text) ..."
+  }
+}

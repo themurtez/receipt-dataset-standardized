@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Lim Seng Tho Hardware Trading",
+    "address": "No 7, Simpang Off Batu Village, Jalan Ipoh Batu 5, 51200 Kuala Lumpur, Malaysia",
+    "phone": "03-6258 7191",
+    "tax_id": "001269075968",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-29",
+    "time": "11:41:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 6.0,
+    "tax": 0.34,
+    "tip": 0.0,
+    "total": 6.0,
+    "accounting_category": "Hardware",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SIMENT",
+      "quantity": 3,
+      "unit_price": 2.0,
+      "total_price": 6.0,
+      "category": "Building Materials",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005663317.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "31812012\nLIMIT SENG THO HARDWARE TRADING\nNo 7. Simpang Off Batu Village.\nJalan Ipoh Batu 5, 51200 Kuala Lumpur\nMALAYSIA\nTel & Fax No 03-6258 7191\n03-6258 7191\nCompany Reg No. (002231061-T)\nGST Reg No: 001269075968\nTAX INVOICE\nInvoice No: CS 23304\nDate 29/12/2017 11:41\nCashier #: LST\nRM Code\nSIMEN(S)\n3.00 x 2.00 6.00 SR\nSubtotal 6.00\nTotal In, of GST 6.00\nPayment: 6.00\nChange Due 0.00\nTotal Item(s):3\nGST Summary Amount(RM) Tax(RM)\nSR @6% 5.66 0.34\n0.34\n****-Thank YOU *****\n**'** PLEASE COME AGAIN **'***\n*GOODS SOLD ARE NOT RETURNABLE*\n"
+  }
+}

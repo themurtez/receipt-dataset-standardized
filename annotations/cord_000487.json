@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 76000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 76000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "R. Pisang Coklat",
+      "quantity": 2,
+      "unit_price": 11000.0,
+      "total_price": 22000.0,
+      "category": "Snack",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "D. Ring Coklat",
+      "quantity": 2,
+      "unit_price": 9000.0,
+      "total_price": 18000.0,
+      "category": "Snack",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "R. Bana Chip",
+      "quantity": 1,
+      "unit_price": 9000.0,
+      "total_price": 9000.0,
+      "category": "Snack",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "R. Tamar Isi 2",
+      "quantity": 1,
+      "unit_price": 4500.0,
+      "total_price": 4500.0,
+      "category": "Snack",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "NU Greentea Orge",
+      "quantity": 1,
+      "unit_price": 4500.0,
+      "total_price": 4500.0,
+      "category": "Drink",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Yakult Isi 5 Pcs",
+      "quantity": 2,
+      "unit_price": 9000.0,
+      "total_price": 18000.0,
+      "category": "Drink",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 9,
+    "rounding": 0.0,
+    "change_due": 4000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000487.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "2 R. PISANG COKLAT 22,000\n2 D. RING COKLAT 18,000\n1 R. BANA CHIP 9,000\n1 R. TAMAR ISI 2 4,500\n1 NU GREENTEA ORGE 4,500\n2 YAKULT ISI 5 PCS 18,000\nTOTAL 76,000\nCASH 80,000\nCHANGE 4,000"
+  }
+}

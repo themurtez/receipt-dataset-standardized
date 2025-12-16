@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Solaria",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Debit BCA",
+    "subtotal": 87275.0,
+    "tax": 8728.0,
+    "tip": 0.0,
+    "total": 96000.0,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Nasi + Ayam Katsu Ter...",
+      "quantity": 1,
+      "unit_price": 31819.0,
+      "total_price": 31819.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Teh Panas",
+      "quantity": 1,
+      "unit_price": 5455.0,
+      "total_price": 5455.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Es Teh Manis",
+      "quantity": 1,
+      "unit_price": 7273.0,
+      "total_price": 7273.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ch Cordon Bleu Nasi",
+      "quantity": 1,
+      "unit_price": 42728.0,
+      "total_price": 42728.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": -3.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000012.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SOLARIA\n\n1 Nasi + Ayam Katsu Ter... 31,819\n1 Teh Panas 5,455\n1 Es Teh Manis 7,273\n1 Ch Cordon Bleu Nasi 42,728\n\nItems: 4\nVAT 10% 8,728\nRounding -3\nTotal 96,000\nDEBIT BCA :"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "UNIHakka International Sdn Bhd",
+    "address": "12, Jalan Tampoi 7/4, Kawasan Perindustrian Tampoi, 81200 Johor Bahru, Johor",
+    "phone": "",
+    "tax_id": "867388-U",
+    "website": "Facebook.com/BarWangRice"
+  },
+  "transaction": {
+    "date": "2018-05-07",
+    "time": "18:21:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 8.21,
+    "tax": 0.49,
+    "tip": 0.0,
+    "total": 8.7,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "1 Meat + 3 Vege",
+      "quantity": 1,
+      "unit_price": 7.1,
+      "total_price": 7.1,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Imported Veggies",
+      "quantity": 1,
+      "unit_price": 1.6,
+      "total_price": 1.6,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006913028.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "UNIHakka INTERNATIONAL SDN BHD\n07 May 2018 18:21\n(867388-U)\n12, Jalan Tampoi 7/4,Kawasan Perindustrian\nTampoi,81200 Johor Bahru,Johor\nTAX INVOICE\nInvoice # : OR18050702170462\n\nItem               Qty                 Total\nSR 100100000035- 1 Meat + 3 Vege\n$7.10                  1                    $7.10\nSR 100100000170- Imported Veggies\n$1.60                   1                    $1.60\n\nTotal Amount: $8.70\nGST @6%: $0.49\nNett Total: $8.70\n\nPayment Mode                 Amount\nCASH                                           $8.70\nChange                                       $0.00\n\nGST Summary                     Amount($)     Tax($)\nSR = GST @6%                              8.21            0.49\n\nGST REG #000656195584\nBAR WANG RICE@PERMAS JAYA\n(Price Inclusive Of GST)\nThank You & Come Again!\nLike and Follow Us on Facebook!\nFacebook.com/BarWangRice"
+  }
+}

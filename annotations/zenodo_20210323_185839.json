@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "FlikeHomeAlgarve,Lda",
+    "address": "Avenida da Liberdade nº 36 1º B Andar 1250-145 Lisboa",
+    "phone": "",
+    "tax_id": "514407395",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-26",
+    "time": "11:00:51",
+    "currency": "EUR",
+    "payment_method": "cartão de débito",
+    "subtotal": 21.13,
+    "tax": 1.27,
+    "tip": 0.0,
+    "total": 22.4,
+    "accounting_category": "Transportation",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Loulé to Lisboa Oriente Ticket",
+      "quantity": 1,
+      "unit_price": 22.4,
+      "total_price": 22.4,
+      "category": "Transportation",
+      "accounting_category": "Transportation",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_185839.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Bilhete n: 2545-306230\nFactura n FT 2545/0666\nData: 2019-02-26 11:00:51\nLocal: Loulé\nEquipamento: QUI Loulé (XZ7498)\nTurno N: 2545-4708\nOperador: Ruben Coelho\nNome: FlikeHomeAlgarve,Lda\nMorada: Avenida da Liberdade nº 36 1º B Andar 1250-145 Lisboa\nNº Contribuinte: 514407395\nLoulé --> Lisboa Oriente\nData: 2019-02-26\nLoulé --> Lisboa Oriente\nComb: 186 Hora: 16:11 ALFA Tur\nCart: 4 Lug: 5  \nTotal: € 22,40\nValor Pago: € 22,40\nValor Líquido: € 21,13\nValor Iva (IVA a 6%): € 1,27\nForma pagamento: cartão de débito\nEm caso de devolução ou troca é obrigatória a apresentação do cartão bancário utilizado na compra\nGFi - Processado por programa certificado n. 2332/AT\nApoio ao Cliente 707 210 220\n(0,10 €/min - rede fixa 0,25 €/min - rede móvel) + IVA\nwww.cp.pt\nDescarregue gratuitamente a App CP e compre viagens em Alfa Pendular, Intercidades e complemento de viagem em Regionais/InterRegionais.\n4.9.2.0"
+  }
+}

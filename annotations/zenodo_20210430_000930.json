@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "SILÉTRICA - Soc Electr Portuguesa Lda",
+    "address": "Rua da Madalena, 176 1100-324 Lisboa",
+    "phone": "218 866 012",
+    "tax_id": "500557721",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-11-21",
+    "time": "14:55:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 8.0,
+    "tax": 1.84,
+    "tip": 0.0,
+    "total": 9.84,
+    "accounting_category": "Utilities",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "LÂMPADA HALOSTAR 20W 12V G4 003924",
+      "quantity": 1,
+      "unit_price": 8.0,
+      "total_price": 9.84,
+      "category": "Lighting",
+      "accounting_category": "Utilities",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210430_000930.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SILÉTRICA - Soc Electr Portuguesa Lda\nArmazém de material eléctrico\nRua da Madalena, 176 1100-324 Lisboa\nTelef 218 866 012 - 218 864 877\nFax 218 869 682 Tim: 960 283 163\nEmail: siletrica@sapo.pt Nif 500557721\nCRC Lisboa Nº 23932 C.S 24.933.00€\nFatura Simplificada Nº FS A9/134706\nData: 2019-11-21 Hora: 14.55.06\nContribuinte 510776914\nDESIGNAÇÃO DESC. IVA VALOR\nLÂMPADA HALOSTAR 20W 12V G4 003924\n5 2.46 20% 23% 9.84 €\nTotal 9.84 €\nMercadoria IVA Valor IVA\n0.00 € 0% 0.00 €\n8.00 € 23% 1.84 €\nIBAN BCP PT50 0033 0000\n45433594388 05\nObrigado: Volte Sempre\npy89- Processado por programa\ncertificado n° 1318/AT"
+  }
+}

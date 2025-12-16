@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "GALP",
+    "address": "GASUNOS - DISTR. COM. GAS. LDA, 2601-956 ALCABIDECHE, APEADO 2",
+    "phone": "217279447",
+    "tax_id": "PT5012878355",
+    "website": "clientes@galp.com"
+  },
+  "transaction": {
+    "date": "2019-10-01",
+    "time": "08:04:55",
+    "currency": "EUR",
+    "payment_method": "CARTAO DEBITO",
+    "subtotal": 24.1,
+    "tax": 4.51,
+    "tip": 0.0,
+    "total": 24.1,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Gasolina Evologic 95",
+      "quantity": 15.07,
+      "unit_price": 1.599,
+      "total_price": 24.1,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_191705.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "DOCUMENTO DE VENDA\nGASUNOS - DISTR. COM. GAS, LDA - 11346\nGASUNOS, DIST. E. COM. GAS, LDA\nOTRA Adresse: APARADO 2\n2601-956 ALCABIDECHE | Tel: 217279447\nNIF: PT5012878355\nFatura/Recibo\nQuantidade Preço\nPreço Unitario Preço\n15.07  Bomba 04\nGASOLINA EVOLOGIC 95 EUR 24.10\n1.599 EUR/L EUR 24.10\nTotal\n23.00 % IVA / EUR 4.51\nOperador: Shainelson Pereira\nCliente: 15805\nNome: FLY&HOME\n23/08 IVA: B\nCódigo Postal: 510776914\nMorada: Rua I\nTotal  EUR 24.10\nCARTAO DEBITO  EUR 24.10\nTerminal Pagamento Automatico: 00174447\nData: 2019-10-01\nHora: 08:04:55\nCAIXA MULTIBANCO\nJerónimo Pedro João\nVisa Cliente:\nContente o Código:\n50106479\n0017447 106\nAUT. 19955\n9100001000000004/24.10.0"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 13000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 13000.0,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.8
+  },
+  "items": [
+    {
+      "name": "Honey Mandarin",
+      "quantity": 1,
+      "unit_price": 13000.0,
+      "total_price": 13000.0,
+      "category": "Fruits",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 87000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000368.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Honey Mandarin 13,000\n1 No\nTOTAL 13,000\nCASH 100,000\nCHANGE 87,000\n"
+  }
+}

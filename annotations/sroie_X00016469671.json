@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "OJC MARKETING SDN BHD",
+    "address": "NO 2 & 4, JALAN BAYU 4, BANDAR SERI ALAM, 81750 MASAI, JOHOR",
+    "phone": "07-388 2218",
+    "tax_id": "538358-H",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-01",
+    "time": "14:47:14",
+    "currency": "MYR",
+    "payment_method": "VISA CARD",
+    "subtotal": 170.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 170.0,
+    "accounting_category": "Office supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "KINGS SAFETY SHOES KWD 805",
+      "quantity": 1,
+      "unit_price": 170.0,
+      "total_price": 170.0,
+      "category": "Safety equipment",
+      "accounting_category": "Office supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X00016469671.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "tan chay yee\nOJC MARKETING SDN BHD\nROC NO: 538358-H\nNO 2 & 4, JALAN BAYU 4,\nBANDAR SERI ALAM,\n81750 MASAI, JOHOR\nTel: 07-388 2218 Fax:07-388 8218\nEmail: ng@ojcgroup.com\n\nCash Bill\nInvoice No : PEGIV-1030531\nDate : 02/01/2019 2:47:14 PM\nCashier : RHYS TAN\nSales Person: FATIN\n\nDescription Qty Price Amount\n000000111 1 170.00 170.00\nKINGS SAFETY\nSHOES KWD 805\n\nQty: 1 Total Item Discount: 0.00\nTotal Amount: 170.00\nRound Amt: 0.00\n\nTOTAL: 170.00\nVISA CARD 170.00\nxxxxxxxxxxxx4318\nApproval Code:123\n\nGoods Sold Are Not Returnable & Refundable\n****Thank You. Please Come Again.****\n"
+  }
+}

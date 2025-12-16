@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "PERNIAGAAN ZHENG HUI",
+    "address": "NO.59 JALAN PERMAS 9/6, BANDAR BARU PERMAS JAYA, 81750 JOHOR BAHRU",
+    "phone": "07-386 7524",
+    "tax_id": "0008058924",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-15",
+    "time": "17:34:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 7.55,
+    "tax": 0.45,
+    "tip": 0.0,
+    "total": 8.0,
+    "accounting_category": "Parking Fees",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CAR PARKING COUPON",
+      "quantity": 1,
+      "unit_price": 7.55,
+      "total_price": 7.55,
+      "category": "Parking",
+      "accounting_category": "Parking Fees",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005442346.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PERNIAGAAN ZHENG HUI\nJM0325955-V\nNO.59 JALAN PERMAS 9/6\nBANDAR BARU PERMAS JAYA\n81750 JOHOR BAHRU\nTEL: 07-386 7524 FAX: 07-386 3793\nGST NO: 0008058924\nSIMPLIFIED TAX INVOICE\nCASH\nReceipt #: C600085298\nSalesperson:\nCashier: USER\nDate: 15/03/2018\nTime: 17:34:00\n\nItem\n3934\n\nSR: CAR PARKING COUPON\n\nTOT QTY: 1\n\nQty\n1\n\n(RM)\n7.55\n\nAmount\n7.55\n\n(Excluded GST) Sub Total (RM): 7.55\nDiscount (RM) : 0.00\nTotal GST (RM) : 0.45\nRounding (RM) : 0.00\nTotal (RM) : 8.00\nCASH : 8.00\nChange (RM) : 0.00\n\nGST SUMMARY\nTax Code\nSR\n\n%\n6\n\nAmount\n7.55\n0.45\n\nGoods\nGst\n\nTotal :\n7.55\n0.45\n\nGOODS SOLD ARE NOT RETURNABLE.\nTHANK YOU.\n"
+  }
+}

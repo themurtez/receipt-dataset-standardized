@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 38000.0,
+    "tax": 5990.0,
+    "tip": 0.0,
+    "total": 43990.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PAKET CHICKEN 4",
+      "quantity": 1,
+      "unit_price": 29000.0,
+      "total_price": 29000.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "KOREAN COLD TEA",
+      "quantity": 1,
+      "unit_price": 9000.0,
+      "total_price": 9000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 6110.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000160.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PAKET CHICKEN 4 1 29,000 29,000\nKOREAN COLD TEA 1 9,000 9,000\n\nSubtotal 38,000\nServices 1,700\n\nTax 5,990\nTotal 43,990\nTunai 50,000\nKembali 6,110"
+  }
+}

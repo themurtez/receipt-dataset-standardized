@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Dia Portugal",
+    "address": "QTA FONTE EDF ALVARES CABRAL, 2770-190 PAÇO ARCOS",
+    "phone": "",
+    "tax_id": "PT503003308",
+    "website": "www.minipreco.pt"
+  },
+  "transaction": {
+    "date": "2019-08-08",
+    "time": "10:15:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 1.87,
+    "tax": 0.11,
+    "tip": 0.0,
+    "total": 1.98,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "IOG.NATURAL DIA P-6",
+      "quantity": 2,
+      "unit_price": 0.99,
+      "total_price": 1.98,
+      "category": "Dairy",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_211116.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Dia Portugal Sup. Soc. Unip, Lda\nQTA FONTE EDF ALVARES CABRAL\n02770-190 PACO ARCOS\nC.R.C.NUM. Contrib.: PT503003308\nCAPITAL SOCIAL EMPRESA: 51.802.855,12\n\nNOME CLIENTE: \nFLIKEHOME\nDIRECAO CLIENTE:\nNUM. CONTRIBUTNE.: 5107/76914\nLOCALIDADE:\nCOD. POST:\n\nDoc. FISCAL: FATURA/RECIBO\nFT 021140220190102/0000/0768\nCAIXA: 2 DATA: 2019-08-08 HORA: 10:15\nCODIGO DE OPERARIO: 54189\n\nCODIGO DESCRICAO TOTAL\nIVA PVP/UNIT QUANTIDADE DESCONTOS\n127143 IOG.NATURAL DIA P-6 1,98\n6,00% 0,99 2 0,00\n\nTOTAL A PAGAR EUROS 1,98\nRECEBIDO 1,98\nTROCO 0,00\n\nTIPO IVA BASE IVA TOTAL\n01 6,00% 1,87 0,11 1,98\n\nTOTAL 1,87 0,11 1,98\n\nLOCAL CARGA:\nLG DO CALHARIZ 10\n1200-086 LISBOA\nDATA: 2019-08-08 HORA: 10:15\nLOCAL DESCARGA: MORADA DO CLIENTE\n\nquVY-Processado por prog. cert. n11752/AT\n\n WWW.MINIPRECO.PT\n SIRPEEE PT000245\n\n COPIA PARA O CLIENTE\n"
+  }
+}

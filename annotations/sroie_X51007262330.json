@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "SWC ENTERPRISE SDN BHD",
+    "address": "5-7, JALAN MAHAGONI 7/1\nSEKSYEN 4, BANDAR UTAMA, 44300\nBATANG KALI, SELANGOR",
+    "phone": "03-60571377",
+    "tax_id": "002017808384",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-23",
+    "time": "19:08:32",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 38.86,
+    "tax": 2.34,
+    "tip": 0.0,
+    "total": 41.2,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "0025679 U",
+      "quantity": 2,
+      "unit_price": 11.8,
+      "total_price": 23.6,
+      "category": "General Merchandise",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "0025679 U",
+      "quantity": 2,
+      "unit_price": 8.8,
+      "total_price": 17.6,
+      "category": "General Merchandise",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 470.8
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007262330.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SWC ENTERPRISE SDN BHD\n(1125830-V)\n5-7, JALAN MAHAGONI 7/1\nSEKSYEN 4, BANDAR UTAMA, 44300\nBATANG KALI, SELANGOR\n03-60571377\nGST ID : 002017808384\nTax Invoice No : 0051808219001118\n\n005001(BATANGKALI-1)\n001 23/03/2018 19:08:32 118\n\nOPEN CODE-SR ITEM\n0025679 U 2x11.80 23.60 S\n0025679 U 2x8.80 17.60 S\n\nItem 2 SubTotal Incl GST 41.20\nQty 4 Spec.Disc 0.00\nSaving 0.00\nRounding 0.00\nTotal 41.20\nCash 512.00\nChange 470.80\n\nGST Summary Amount(RM) Tax(RM)\nS(6%) 38.86 2.34\n\n23/03/2018 19:08:32\n\nGOODS SOLD ONLY EXCHANGEABLE WITHIN 3 DAYS\nGOODS SOLD ARE NOT REFUNDABLE\nTHANK YOU FOR YOUR KIND SUPPORT\nPLEASE COME AGAIN"
+  }
+}

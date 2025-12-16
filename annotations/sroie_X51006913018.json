@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "AEON CO. (M) BHD",
+    "address": "3RD FLR, AEON TAMAN MALURI SC, JLN JEJAKA, TAMAN MALURI, CHERAS, 55100 KUALA LUMPUR",
+    "phone": "1-300-80-AEON (2366)",
+    "tax_id": "002017394688",
+    "website": "www.surveymonkey.com/r/AEONCSIS"
+  },
+  "transaction": {
+    "date": "2018-05-17",
+    "time": "17:20:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 458.55,
+    "tax": 25.95,
+    "tip": 0.0,
+    "total": 458.55,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PHILIPS I/COOKE",
+      "quantity": 1,
+      "unit_price": 369.0,
+      "total_price": 279.0,
+      "category": "Home Appliances",
+      "accounting_category": "Household",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "TEFAL",
+      "quantity": 1,
+      "unit_price": 189.0,
+      "total_price": 179.55,
+      "category": "Cookware",
+      "accounting_category": "Kitchen",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 11.45
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006913018.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AEON CO. (M) BHD (126926-H)\n3RD FLR, AEON TAMAN MALURI SC\nJLN JEJAKA, TAMAN MALURI\nCHERAS, 55100 KUALA LUMPUR\nGST ID: 002017394688\nSHOPPING HOURS\nSUN-THU:1000 HRS - 2200 HRS\nFRI-SAT:1000 HRS - 2300 HRS\nVALUED CUSTOMER: 1250016708\n\n1x 000007016592  369.00SR\nPHILIPS I/COOKE\nItem promo @279.00   -90.00\nTax 000000057822    280.90SR\n001796 - TEFAL\nMember disc             -80.00\n@189.00\nAeon card OISC          -9.45\n@179.55\n\nSub-total             458.55\nTotal Sales Incl GST  458.55\nTotal After Adj Incl GST 458.55\nCASH                   470.00\nItem Count 2 Change Amt  11.45\nInvoice No: 2018051110133130178\n\nGST Summary           Amount   Tax\nSR @ 6%               432.60  25.95\nTotal                 432.60  25.95\n\n17/05/2018 17:20    1013 313 3130178\n0304023 CST NURNABILA EMISHA BINTI\nIBRAHIM\n\nREGULAR STAMP(S) : 14\nBONUS STAMP(S) : 0\nTOTAL STAMP(S) : 14\n\nAEON Stamps Loyalty Program \"Product\n(s)\"\nsold are neither exchangeable nor\nrefundable\n\nAEON TEBRAU CITY\nTEL 1-300-80-AEON (2366)\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN\n\nEXCLUSIVE FOR AEON MEMBERS:\nWe Love To Hear Your Feedback Visit\nwww.surveymonkey.com/r/AEONCSIS (store)\n/ www.surveymonkey.com/r/AEONCSIM (mall)\n\nShare Your Experience\n*Get RM5 Aeon Gift Voucher*\n"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "LAGOA",
+    "phone": "282380110",
+    "tax_id": "PTO01730",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-06-18",
+    "time": "14:01:00",
+    "currency": "EUR",
+    "payment_method": "Visa Electron",
+    "subtotal": 16.23,
+    "tax": 3.73,
+    "tip": 0.0,
+    "total": 19.96,
+    "accounting_category": "Personal Care",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "HIG P Doce 32 UN",
+      "quantity": 4,
+      "unit_price": 4.99,
+      "total_price": 19.96,
+      "category": "Personal Care",
+      "accounting_category": "Toiletries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_162534.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PINGO DOCE\nLAGOA\nTel. 282380110\nPingo Doce Distribuição Alimentar S.A\nSede: R Actor Antonio Silva, N7,1649-033 Lisboa\nRegisto C.R.C. Lisboa Matricula/NIPC 500892993\nANEREE: P1001730 C. Social: 33.806 11.5 EUR\n---\nArtigos\nPRODUTOS PESSOAIS\nE 23% P Hig P Doce 32 UN\n4 x 4,99 19,96\nResumo\nTOTAL A PAGAR 19,96\nPagamentos\nTOTAL PAGO 19,96\nMultibanco\nResumo IVA\nTaxa Valor s/IVA Valor IVA Valor c/IVA\nE 23% 16,23 3,73 19,96\nAtendido por: ANDREIA GONÇALVES\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n016820 2019-06-18 14:01 004023676\nkhLA-Processado por programa certificado 369/AT\nFatura/Recibo FT 07601030911061/000027\nVia Original Data de emissão:18-06-2019\nF Contabil: 514407395\nNome: FLKEYHOME ALGARVE\nLocalidade..... LAGOA\nLocal carga:... LAGOA\nLocal descarga: Morada do cliente\nData: 2019-06-18 Hora: 14:01\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\nPingo Doce, SA.\nLAGOA\n8400 - LAGOA\nTerminal Pagamento Automático: 00426376\n2019-06-13 13:58:02 Per088 Tro10 Msg070\nMILLENIUM BCP\nAMARAL/SALVADOR\nCARTÃO: ***1008/20\nA0000000032010 VISA ELECTRON\nCOMPRA 19,96E VELO PP N\nID ESTAB:0001158501 AUT:647574\nREDUNCRE\nINOVACAO E CONFIANÇA\nCOPIA CLIENTE\nPROCESSADO POR SIBS\n---------------------\n\nFactura necessária para troca em 15 dias\n(Artigos Têxtil e Calçado prazo 30 dias)\nNão se trocam medicamentos e artigos assinados\nApoio ao Cliente\n808 20 45 45 / 210 11 41 14 (24 horas)"
+  }
+}

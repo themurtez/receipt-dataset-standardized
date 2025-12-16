@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "STAPLES",
+    "address": "STAPLES PORTUGAL SA, EQUIP. ESCRITORIO, 2795-684 CARNAXIDE",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-01-23",
+    "time": "09:56:13",
+    "currency": "EUR",
+    "payment_method": "VISA ELECTRON",
+    "subtotal": 21.67,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 21.67,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Purchase",
+      "quantity": 1,
+      "unit_price": 21.67,
+      "total_price": 21.67,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_205159.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "STAPLES\nSTAPLES PORTUGAL SA\nEQUIP. ESCRITORIO\n2795-684 CARNAXIDE\nIdent. TPA: 00102212\n2019-01-23 09:56:13\nPer: 088 Tr: 010 M: 016\nMILLENNIUM BCP\nMARIA SOBRAL/JOSE\nCARTAO: *****7398/49\nA0000000032010\nVISA ELECTRON\nCOMPRA 21,67€\nId Estab: 0001903558\nAUT: 810248 VELC PP N\nREDUNICRE\nINOVACAO E CONFIANCA\n- CÓPIA CLIENTE\nPROCESSADO POR SIBS"
+  }
+}

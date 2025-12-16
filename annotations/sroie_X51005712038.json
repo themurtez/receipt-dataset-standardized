@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "SWC Enterprise SDN BHD",
+    "address": "5-7, Jalan Mahagoni 7/1, Seksyen 4, Bandar Utama, 44300, Batang Kali, Selangor",
+    "phone": "03-60571377",
+    "tax_id": "002017808384",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-28",
+    "time": "10:36:13",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 28.3,
+    "tax": 1.7,
+    "tip": 0.0,
+    "total": 30.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "0025679 U",
+      "quantity": 3,
+      "unit_price": 8.0,
+      "total_price": 24.0,
+      "category": "General Merchandise",
+      "accounting_category": "Retail",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "0025679 U",
+      "quantity": 1,
+      "unit_price": 7.0,
+      "total_price": 7.0,
+      "category": "General Merchandise",
+      "accounting_category": "Retail",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Discount",
+      "quantity": 1,
+      "unit_price": -3.8,
+      "total_price": -3.8,
+      "category": "Discount",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "STAR 12X13 (1x180)",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "General Merchandise",
+      "accounting_category": "Retail",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "STAR 15X16 AA (1X120)",
+      "quantity": 1,
+      "unit_price": 1.8,
+      "total_price": 1.8,
+      "category": "General Merchandise",
+      "accounting_category": "Retail",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 20.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005712038.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SWC ENTERPRISE SDN BHD\n(1125830-U)\n5-7, JALAN MAHAGONI 7/1\nSEKSYEN 4, BANDAR UTAMA, 44300\nBATANG KALI, SELANGOR\n03-60571377\nGST : 002017808384\nTax Invoice No : 00518087100028\n005002(BATANGKALI-2)\n002 28/03/2018 10:36:13\nOPEN CODE-SR ITEM\n0025679 U 3x8.00 24.00 S\n0025679 U 1x7.00 7.00 S\nPD 3.20 -3.80\nAuthorize : BATANGKALI-S\nSTAR 12X13 (1X180)\n0020323 PKT 1x1.00 1.00 S\nSTAR 15X16 AA (1X120)\n0020324 PKT 1x1.80 1.80 S\nItem 4 SubTotal Incl .GST 30.00\nQty 6 Spec. Disc. 0.00\nSaving 3.80 Rounding 0.00\nTotal Cash 30.00\nChange 20.00\nGST Summary Amount(RM) Tax(RM)\nS(6%) 28.30 1.70\n28/03/2018 10:36:13\nGOODS SOLD ONLY EXCHANGEABLE WITHIN 3 DAYS\nGOODS SOLD ARE NOT REFUNDABLE\nTHANK YOU FOR YOUR KIND SUPPORT\nPLEASE COME AGAIN"
+  }
+}

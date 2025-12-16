@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "New Asia Buffet",
+    "address": "14727.5 Rinaldi St, San Fernando, CA 91340",
+    "phone": "(818)898-0880",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2023-10-15",
+    "time": "17:17:00",
+    "currency": "USD",
+    "payment_method": "American Express",
+    "subtotal": 31.12,
+    "tax": 2.8,
+    "tip": 0.0,
+    "total": 33.92,
+    "accounting_category": "Meals and Entertainment",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Weekend Dinner",
+      "quantity": 2,
+      "unit_price": 13.98,
+      "total_price": 27.96,
+      "category": "Dinner",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Coke",
+      "quantity": 2,
+      "unit_price": 1.58,
+      "total_price": 3.16,
+      "category": "Beverage",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1024-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "New Asia Buffet\n14727.5 Rinaldi St.\nSan Fernando, CA 91340\nTel: (818)898-0880\n\nWeekEnd Dinner\nDate: ov-15-06-N Time: 5:17PM # 84\n\nServer : 2\nTb#: D4\nNo. of Guest : 1\n\n2 WeeKen Dinner 27.96\n2 Coke 3.16\n\nAMOUNT : 31.12\nTAX(9%) : 2.80\nTOTAL : 33.92\n\nSuggested Tip (10%) : 3.39\n                 (15%) : 5.09\n                 (20%) : 6.78\n\nTHANK YOU VERY MUCH."
+  }
+}

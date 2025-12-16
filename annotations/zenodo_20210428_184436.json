@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Intermarche Supermercados LDA",
+    "address": "Estrada Nacional 116, Km 1, Edificio Intermarche",
+    "phone": "",
+    "tax_id": "514613652",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-05",
+    "time": "15:40:29",
+    "currency": "EUR",
+    "payment_method": "Dinheiro",
+    "subtotal": 20.0,
+    "tax": 3.74,
+    "tip": 0.0,
+    "total": 20.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Gasoleo",
+      "quantity": 1,
+      "unit_price": 1.31,
+      "total_price": 20.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_184436.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "INTERMARCHE Supermercados LDA\nEstrada Nacional 116, Km 1\nEdificio Intermarche\nContribuinte: 514613652\n...\nData Hora Op:\n05-03-2019 15:40:29 300\n...\nSubtotal\n...\nBomba: 4 Mangueira: 4\n15.16 lt 1.31 EUR/lt\n...\nGasoleo 20.00 EUR\nNIF: 51076914\nNome Cliente: Desconhecido\nMorada: Desconhecido\n\nDinheiro 20.00\nIva 23.00%: 3.74 EUR\n\nTotal: 20.00 EUR"
+  }
+}

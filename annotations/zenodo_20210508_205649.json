@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "POSTO GESTAO E ADMINISTRACAO DE POSTOS",
+    "address": "ABAIXAMENTO UNIPESSOAL LDA, JOSE MALHOA N 16-1099-091 LISBOA",
+    "phone": "210 728 999",
+    "tax_id": "503 769 959",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-24",
+    "time": "12:28:18",
+    "currency": "EUR",
+    "payment_method": "VISA ELECTRON",
+    "subtotal": 29.83,
+    "tax": 6.86,
+    "tip": 0.0,
+    "total": 36.69,
+    "accounting_category": "Fuel Purchase",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Combustível (Gasoleo Simples)",
+      "quantity": 3,
+      "unit_price": 1.344,
+      "total_price": 33.39,
+      "category": "Fuel",
+      "accounting_category": "Fuel Purchase",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "M&M Amendoim 45 GR",
+      "quantity": 1,
+      "unit_price": 1.3,
+      "total_price": 1.3,
+      "category": "Snack",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Cash Account",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Other",
+      "accounting_category": "Misc",
+      "category_confidence": 0.75
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_205649.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "POSTO GESTAO E ADMINISTRACAO DE POSTOS\nABAIXAMENTO UNIPESSOAL LDA\nJOSE MALHOA N 16-1099-091 LISBOA\nNIF: 503 769 959\nAS. REPSOL MONTE REDONDO A\nR. DAS PALMAS S/N\nTEL. 244605126\n\nFACTURA SIMPLIFICADA\nDATA/HORA: 2018-03-24 12:28:18\nN DE OPERACAO: 4366/186411 CAIXA N 1\n\nVENDEDOR: SUSANA\n\nVenda de Combustível\nN. de Bomba: 3 GASOLEO SIMP\nE 26.3300 litros à 1.344 €/Ltr 33.39 €\n1 M&M AMENDOIM 45 GR 1.30 €\n1 Cash Account 0.00 €\nTotal: 36.69 €\nBANCARIO: 36.69 €\nTROCO: 0.00 €\n\nTipo Base  Total\nE 23.0 % 29.83 € 6.86 € 36.69 €\nIncluído a taxa em vigor\n\nDoc NR: FS 4366TPV1/180010116\nNOME: FLH\nNIF: 510776914"
+  }
+}

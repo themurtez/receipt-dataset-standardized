@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 167000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 167000.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Nasi Campur Bali",
+      "quantity": 2,
+      "unit_price": 52000.0,
+      "total_price": 104000.0,
+      "category": "Main Course",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sambal Besar",
+      "quantity": 1,
+      "unit_price": 32000.0,
+      "total_price": 32000.0,
+      "category": "Condiment",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sambal Kecil",
+      "quantity": 1,
+      "unit_price": 7000.0,
+      "total_price": 7000.0,
+      "category": "Condiment",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Es Teh Manis",
+      "quantity": 2,
+      "unit_price": 7000.0,
+      "total_price": 14000.0,
+      "category": "Beverage",
+      "accounting_category": "Drink",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "KrpBangka/Bawang",
+      "quantity": 1,
+      "unit_price": 10000.0,
+      "total_price": 10000.0,
+      "category": "Snack",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000468.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "2 52.000 104.000\nNasi Campur Bali\n1 32.000 32.000\nSambal Besar\n1 7.000 7.000\nSambal Kecil\n2 7.000 14.000\nEs Teh Manis\n1 10.000 10.000\nKrpBangka/Bawang\nCASH 167.000"
+  }
+}

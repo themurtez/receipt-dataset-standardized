@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "SOLRED E.S. PORTIMAO VG",
+    "address": "GRUDISUL, S.A. AVENIDA VG, 8500-510 PORTIMAO",
+    "phone": "282412463",
+    "tax_id": "502928794",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-01",
+    "time": "11:31:00",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 16.26,
+    "tax": 3.74,
+    "tip": 0.0,
+    "total": 20.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GASOLINA95",
+      "quantity": 5,
+      "unit_price": 1.464,
+      "total_price": 20.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_213457.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SOLRED\nE.S. PORTIMAO VG\nGRUDISUL, S.A.\nAVENIDA VG\n8500-510 PORTIMAO\nCAP. SOCIAL: 1.500.000\nNIF: 502928794\nTEL/FAX: 282412463\n\nDATA/HORA: 01-11-17 11:31 Factura: 58043\nOperador: FILOMENA MARTINS POS: 001\n\nARTIGO B. QT. IVA/EX. F.Un. VALOR\nGASOLINA95 5 13,663 1,464 20.00\n\nT.IVA Sem IVA IVA(%) IVA TOTAL\n3 16.26 23.00 3.74 20.00\n\nTOTAL EUROS\nNUMERARIO 20.00\n\nMzFQ Processado por Programa\nCertificado N.: 1237/AT\n**** OBRIGADO E BOA VIAGEM ***\nN.I.F.: 510776914\nNome:\nMorada:\nLocalidade:\nMatricula:\n\nIVA incluido a taxa em vigor"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "IKEA Alfragide",
+    "address": "EN250, n. 28 Setembro, 2660-001 Frielas",
+    "phone": "",
+    "tax_id": "PT506154664",
+    "website": "www.ikea.pt"
+  },
+  "transaction": {
+    "date": "2019-04-12",
+    "time": "16:11:00",
+    "currency": "EUR",
+    "payment_method": "Cartão Devolução",
+    "subtotal": 60.97,
+    "tax": 13.02,
+    "tip": 0.0,
+    "total": 74.99,
+    "accounting_category": "Home & Garden",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TJARNRIS flor 75x27 exterior/a",
+      "quantity": 2,
+      "unit_price": 9.0,
+      "total_price": 18.0,
+      "category": "Home & Garden",
+      "accounting_category": "Outdoor",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "OLEA EUROPAEA plant 20 oliveira",
+      "quantity": 1,
+      "unit_price": 19.99,
+      "total_price": 19.99,
+      "category": "Home & Garden",
+      "accounting_category": "Plants",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "HYDRANGEA plant 15 hortensia",
+      "quantity": 1,
+      "unit_price": 14.0,
+      "total_price": 14.0,
+      "category": "Home & Garden",
+      "accounting_category": "Plants",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "KALANCHOE plant 12 kalanchoe",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Home & Garden",
+      "accounting_category": "Plants",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "INGEFÄRA v.spart 12 exterior/te",
+      "quantity": 3,
+      "unit_price": 7.0,
+      "total_price": 21.0,
+      "category": "Home & Garden",
+      "accounting_category": "Outdoor",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 11.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_200910.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "....(full OCR text from image)...."
+  }
+}

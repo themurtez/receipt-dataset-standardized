@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Casa Travanca Capucho",
+    "address": "Rua da Atalaia No113, 1200-039 Lisboa",
+    "phone": "213421481",
+    "tax_id": "108085813",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-09-27",
+    "time": "11:23:20",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 1.3,
+    "tax": 0.3,
+    "tip": 0.0,
+    "total": 1.6,
+    "accounting_category": "Sales",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CX APLIQUE",
+      "quantity": 2,
+      "unit_price": 0.8,
+      "total_price": 1.6,
+      "category": "Hardware",
+      "accounting_category": "Sales",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_194338.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CASA TRAVANCA CAPUCHO\nDE: JOAQUIM ANTAO TRAVANCA CAPUCHO\nRUA DA ATALAIA NO113 1200-039 LISBOA\nNIF: 108085813 TEL. 213421481\nFERRAGENS - FERRAMENTAS - MAT. ELECTRICO\nIva Incluido as Taxas Legais em Vigor\n-------------------------------------------------\na720 -Processado por programa certificado n°:3/AT\nFactura: 19FT 001/4194 ORIGINAL\nData:2019-09-27 11:23:20\n\nDoc Orig:\nNºCliente: 10002059\nNome: F Likehome\nContribuinte: 510776914\nMorada: Lx\nCod Postal:\n-------------------------------------------------\nDescrição Pvu. Qtd. Desc.% Valor\nCX APLIQUE\n(D) 23 % 0,80 2 1,60\n\nItens: 1\n\nIliquido Tax% V.Tax\n(D) 1,30 23 0,30\n\nTotal a Pagar: 1,60 €\n1,60 €\nNUMERARIO/CAIXA\nOBRIGADO, VOLTE SEMPRE\n"
+  }
+}

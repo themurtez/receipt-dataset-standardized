@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "99 Speed Mart S/B",
+    "address": "Lot P.T. 2811, Jalan Angsa, Taman Berkeley, 41150 Klang, Selangor",
+    "phone": "",
+    "tax_id": "000181747712",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-26",
+    "time": "10:25",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 10.0,
+    "tax": 0.6,
+    "tip": 0.0,
+    "total": 10.6,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TLC Glass Cleaner",
+      "quantity": 2,
+      "unit_price": 5.3,
+      "total_price": 10.6,
+      "category": "Cleaning Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 9.4
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005715455.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "3-1708032\n99 SPEED MART S/B (619537-X)\nLOT P.T. 2811, JALAN ANGSA,\nTAMAN BERKELEY\n41150 KLANG, SELANGOR\n1330 JLN KENANGA\nGST ID. NO: 000181747712\n\nINVOICE NO : 18349/102/70058\n\n10:25AM 567234 26-03-18\n\n2145 TLC GLASS CLEANER (PIN RM10.60 s\n02 X FM 5.30\n\nTotal Sales (Inclusive GST) RM 10.60\nCASH RM 20.00\nCHANGE RM 9.40\n\nGST Summary Amount(RM) Tax(RM)\n6% 10.00 .60\n\n\nThank You. Please come again\nKeep the invoice for applicable returns"
+  }
+}

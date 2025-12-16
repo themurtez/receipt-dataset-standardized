@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "YONGFATT ENTERPRISE",
+    "address": "No. 122, 124 Jalan Dedap 13, 81100 Johor Bahru",
+    "phone": "07-3523888",
+    "tax_id": "000849813504",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-12-25",
+    "time": "12:31:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 80.91,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 80.9,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ELEGANT SCH TR BAG 15",
+      "quantity": 1,
+      "unit_price": 80.91,
+      "total_price": 80.91,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": -0.01,
+    "change_due": 19.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X00016469622.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "tan woon yann\nYONGFATT ENTERPRISE\n(JM0517726)\nNO. 122, 124, JALAN DEDAP 13,\n81100 JOHOR BAHRU\nTEL: 07-3523888\nGST ID: 000849813504\nSIMPLIFIED TAX INVOICE\nCASH\nDoc No : CS00031663 Date 25/12/2018\nCashier : USER Time 12:31:00\nSalesperson : Ref.\nItem Qty S/Price Amount Tax\nE8318 1 80.91 80.91 SR\nELEGANT SCH TR BAG 15\nTotal Qty 1 80.91\nTotal Sales (Excluding GST) : 80.91\nDiscount : 0.00\nTotal GST : 0.00\nRounding -0.01\nTotal Sales (Inclusive of GST) : 80.90\nCASH 100.00\nChange 19.10\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR 0 80.91 0.00\nTotal 80.91 0.00\nGOODS SOLD ARE NOT REFUNDABLE . ONLY\nEXCHANGEABLE IN 7 DAYS."
+  }
+}

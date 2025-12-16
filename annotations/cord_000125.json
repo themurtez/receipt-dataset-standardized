@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Auntie Anne's",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 17000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 18000.0,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Tripple Cheese",
+      "quantity": 1,
+      "unit_price": 17000.0,
+      "total_price": 17000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 1000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000125.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Auntie Anne's\n\nTRIPPLE CHEESE\n1 17.000 17.000\nSUB TOTAL 17.000\nGRAND TOTAL 17,000\nCASH\nCHANGE DUE 1,000"
+  }
+}

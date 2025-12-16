@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Syarikat Perniagaan Gin Kee",
+    "address": "No 290, Jalan Air Panas, Setapak, 53200, Kuala Lumpur",
+    "phone": "03-40210276",
+    "tax_id": "000750673920",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-02-03",
+    "time": "11:49:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 57.5,
+    "tax": 3.45,
+    "tip": 0.0,
+    "total": 60.95,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "12M Wire Rope Clip",
+      "quantity": 2,
+      "unit_price": 4.77,
+      "total_price": 9.54,
+      "category": "Tools",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "4\" x Kinki Brd 2 Way Screwdriver",
+      "quantity": 1,
+      "unit_price": 4.77,
+      "total_price": 4.77,
+      "category": "Tools",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Hoes Set",
+      "quantity": 2,
+      "unit_price": 23.32,
+      "total_price": 46.64,
+      "category": "Gardening Tools",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005677331.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SYARIKAT PERNIAGAAN GIN KEE (81109-A) NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR. TEL: 03-40210276 GST ID: 000750673920 SIMPLIFIED TAX INVOICE CASH Doc No. : CS00013118 Date: 03/02/2018 Cashier : USER Time: 11:49:00 Salesperson : Ref. : Item Qty S/Price Amount Tax 2786 2 4.77 9.54 SR 12M WIRE ROPE CLIP 1471 1 4.77 4.77 SR 4\" X KINKI BRD 2 WAY SCREWDRIVER 1943 2 23.32 46.64 SR HOES SET Total Qty: 5 60.95 Total Sales (Excluding GST) : 57.50 Discount : 0.00 Total GST : 3.45 Rounding : 0.00 Total Sales (Inclusive of GST) : 60.95 CASH : 60.95 Change : 0.00 GST SUMMARY Tax Code % Amt (RM) Tax (RM) SR 6 57.50 3.45 Total : 57.50 3.45 GOODS SOLD ARE NOT RETURNABLE, THANK YOU."
+  }
+}

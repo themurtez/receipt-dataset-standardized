@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Continente",
+    "address": "Urbanizacao Quinta da Baleia Lote 2, 2655-378 Ericeira",
+    "phone": "",
+    "tax_id": "501264378",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-07-31",
+    "time": "16:24:14",
+    "currency": "EUR",
+    "payment_method": "VISA ELECTRON",
+    "subtotal": 19.76,
+    "tax": 4.55,
+    "tip": 0.0,
+    "total": 24.31,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "AMB.ELE.CONTINENTE ALFAZEMA",
+      "quantity": 3,
+      "unit_price": 3.59,
+      "total_price": 10.77,
+      "category": "Household",
+      "accounting_category": "Household Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "REF.AMB.ELE CONTINENTE ALFAZEMA",
+      "quantity": 6,
+      "unit_price": 2.24,
+      "total_price": 13.44,
+      "category": "Household",
+      "accounting_category": "Household Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "SACO PLASTICO CONTINENTE",
+      "quantity": 1,
+      "unit_price": 0.1,
+      "total_price": 0.1,
+      "category": "Household",
+      "accounting_category": "Household Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 10,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_153914.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CONTINENTE\nCNT 80 Ericeira\nModelo Continente Hipermercados SA\nTravessa de Conde da Rua Lot 2 2655-378 Ericeira\nRegistado em Mafra sob 501201475\n\n• L.F.\n\nFax: 96 360 0000, 30 2017 11 EMA SIMPLE P:7000521\nFatura Simplificado Original\nHor: FSI0800/1132 31/07/2018 16:24\nNIF: FIS/0704914\nIVA\n\nDESC.RICA\n\nVALOR\nLimpeza e Roupa:\n\nAMB.ELE.CONTINENTE ALFAZEMA\n3 X\nAM B.ELE CONTINENTE ALFAZEMA\n6 X 2.24\nCasa-Cozinha/Lavand.\nSACO PLASTICO CONTINENTE\n\n4 Total PX 2.10\nIVA\n\nCartao Credito\n\nTROCO\n\n23,003\n(23%)\n\nValor Total 1.43\nIVA\n\nIVA INCLUIDO\n\n\nAPF/Processado por programa certificado \n\nH. 4356/\n4321 0007 20629 064877 1010128056937\n\nCONTINENTE BOM DIA\nERICEIRA\nTerminal Pagamento Automático: 00953270\n2018-07-31 16:24:14 TP009 Tr065 Msg366\nMILLENIUM BCP\nERICEIRA/FLH\n\nCARAPO:\nVISA ELECTRON\nCOMPRA\n\n24.31 UTLHO D A 0\nID ESTAB:0000128911 AUT:748050\n\nNetol/SIA\nNa Caixa com Certeza\nPROCESSADO POR SIBS\n\nIVA INCLUIDO\n\nTurn luspenvavel para troca\nPrazo de devolução: 15 días\n*** OBRIGADO ***\n"
+  }
+}

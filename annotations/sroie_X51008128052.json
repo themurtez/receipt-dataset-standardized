@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "Pandah Indah Pulau Ketam Restaurant",
+    "address": "M4-A-8, Jalan Pandah Indah 4/1A, Pandah Indah, 55100 Kuala Lumpur",
+    "phone": "012-2673122 / 010-2022293",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-30",
+    "time": "19:50:14",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 93.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 93.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "KUO POH (C) (2 PAX)",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TEA EXTRA PERSON (1 PAX)",
+      "quantity": 2,
+      "unit_price": 2.0,
+      "total_price": 4.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TONG HOU",
+      "quantity": 1,
+      "unit_price": 10.0,
+      "total_price": 10.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MUTTAN SLICE",
+      "quantity": 1,
+      "unit_price": 15.0,
+      "total_price": 15.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SOUP",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Complimentary",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TOM YUM",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Complimentary",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "NO. OF HEAD (2 SET ABOVE)",
+      "quantity": 3,
+      "unit_price": 20.0,
+      "total_price": 60.0,
+      "category": "Service",
+      "accounting_category": "Dining fee",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008128052.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PANDAH INDAH PULAU KETAM RESTAURANT\nM4-A-8, JALAN PANDAH INDAH 4/1A,\nPANDAH INDAH, 55100 KUALA LUMPUR.\nTEL:012-2673122 / 010-2022293\n* GUEST CHECK *\nTable 6\nCheck #: 113355 Pax(s): 0\nDate : 30-04-2018 19:50:14\nServer : CASHIER\n---------------------------------------------------\n1 KUO POH (C) (2 PAX) 6.00\n2 TEA EXTRA PERSON (1 PAX) 2.00\n1 TONG HOU 10.00\n1 MUTTAN SLICE 15.00\n1 SOUP 0.00\n1 TOM YUM 0.00\n3 NO. OF HEAD (2 SET ABOVE) 60.00\n---------------------------------------------------\nSubtotal : 93.00\nTOTAL: 93.00"
+  }
+}

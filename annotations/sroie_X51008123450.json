@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Sanjung Realiti Sdn. Bhd.",
+    "address": "Car Park Office, Basement 1, Lebuhraya SPRINT, PJU6A, 47400 Petaling Jaya, Selangor",
+    "phone": "+603 7726 2929",
+    "tax_id": "001751072768",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-27",
+    "time": "10:08:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 1.5,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 1.5,
+    "accounting_category": "Parking",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Pay parking ticket",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Parking",
+      "accounting_category": "Parking",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.5
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008123450.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Sanjung Realiti Sdn. Bhd. (779763-K)\nGST Registration No.: 001751072768\nCar Park Office, Basement 1,\nLebuhraya SPRINT, PJU6A,\n47400 Petaling Jaya, Selangor\nTel.: +603 7726 2929 Fax: +603 7726 1326\n>>> TAX INVOICE <<<\nTax Invoice No.: 0714/0601/00601\n27/06/18 10:08\n010100 Pay parking ticket    1.50 RM\n27/06/18 09:49 - 27/06/18 10:08\nLength of stay: 0 Dy. 0 Hr. 19 Min.\n02472951053011038178353570??\nTotal amount    1.50 RM\nAccepted total  2.00 RM\nChange          0.50 RM\nGST 0%          0.00 RM\n***************************************\n**             Thank you             **\n***************************************"
+  }
+}

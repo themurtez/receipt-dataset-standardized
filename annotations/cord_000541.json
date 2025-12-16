@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 30000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 30000.0,
+    "accounting_category": "Personal Care",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Sabun Beras",
+      "quantity": 1,
+      "unit_price": 30000.0,
+      "total_price": 30000.0,
+      "category": "Personal Care",
+      "accounting_category": "Personal Care",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000541.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Sabun Beras 1\n30000\n\nSub Total\n30000\n\nTunai\n30000\n\nKembalian\n0"
+  }
+}

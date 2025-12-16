@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Restauracao, Lda.",
+    "address": "Machado dos Santos, 1, 9500-010 Ponta Delgada",
+    "phone": "966773226",
+    "tax_id": "513631496",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-11",
+    "time": "15:20:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 10.28,
+    "tax": 0.92,
+    "tip": 0.0,
+    "total": 11.2,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Cafe",
+      "quantity": 4,
+      "unit_price": 0.75,
+      "total_price": 3.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cheio",
+      "quantity": 3,
+      "unit_price": 2.0,
+      "total_price": 6.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Cone 2 Bolas",
+      "quantity": 2,
+      "unit_price": 3.2,
+      "total_price": 6.4,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Copo 1 Bola",
+      "quantity": 1,
+      "unit_price": 1.8,
+      "total_price": 1.8,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 10,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_215847.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Restauracao, Lda.\nMachado dos Santos, 1\n9500-010 Ponta Delgada\nTelefone: 966773226\nNo. Contribuinte: 513631496\nRegisto CRC: Ponta Delgada n.513631496\nCliente: FLH\nNIF: 510776914\nMorada:\nFatura-Recibo FT 101/13\nData: 2017-11-11 Hora: 15:20\nEmp.: Hugo Sa\nQt Artigo IV Total\n4 Cafe 9 e 3.00\n3 **Cheio 9 e 6.00\n2 Cone 2 Bolas 9 e 6.40\n1 Copo 1 Bola 9 e 1.80\nTotal: e 11.20\nPago: e 11.20\nTroco: e 0.00\nNumerario e 11.20\nTaxa Base IVA Total\n9.00 e 10.28 e 0.92 e 11.20\nincluido as taxas em vigor\nInformarizado por 361.pt\nConsultas: Obrigado e volte sempre\nIZ6M-Processado por programa\ncertificado n. 0071/AT\nCopyright GrupoPIE, SA"
+  }
+}

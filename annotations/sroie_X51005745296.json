@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Sushi Mentai - Pandan Indah",
+    "address": "No. 9-G, Jalan Perubatan 2, Pandan Indah, 55100 Kuala Lumpur",
+    "phone": "+603 2856 0385",
+    "tax_id": "000897208320",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-09",
+    "time": "19:22:25",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 26.6,
+    "tax": 1.76,
+    "tip": 0.0,
+    "total": 31.0,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Tori Teriyaki Don",
+      "quantity": 1,
+      "unit_price": 12.8,
+      "total_price": 12.8,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Tako Ball",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sushi",
+      "quantity": 4,
+      "unit_price": 1.8,
+      "total_price": 7.2,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sushi",
+      "quantity": 2,
+      "unit_price": 2.8,
+      "total_price": 5.6,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Green Tea",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": -0.02,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005745296.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SUSHI MENTAI - PANDAN INDAH\nKMF FOODICIOUS SDN BHD (1132106-H)\nNO. 9-G, JALAN PERUBATAN 2,\nPANDAN INDAH, 55100 KUALA LUMPUR.\nTel : +603 2856 0385\nGST Reg. No : 000897208320\n\nTax Invoice\n\nTable T13\nOrder#: 275705 Bill#: V015- 673381 Pax(s): 0\nDate : 09-04-2018 19:22:25\nCashier: Cashier\n\nDescription Qty U.price Total TAX\n\nTori Teriyaki Don\n1 x 12.80 12.80 SR\nTako Ball\n1 x 0.00 0.00\nSushi 1.80\n4 x 1.80 7.20 SR\nSushi 2.80\n2 x 2.80 5.60 SR\nGreen Tea\n1 x 1.00 1.00 SR\n\nTotal (Excluding GST): 26.60\nServ. Charge (10%): 2.66\nGST Payable: 1.76\nTotal (Inclusive of GST): 31.02\nRounding Adj: -0.02\n\nTOTAL: 31.00\n\nClosed: 0 09-04-2018 20:01:23\nServer: Cashier\n\nCASH : 31.00\n\nGST Summary Amount(RM) Tax(RM)\nSR (@ 6%) 29.26 1.76\n\nThank You!!!\nPlease Come Again!!!"
+  }
+}

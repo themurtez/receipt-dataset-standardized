@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "TF Value-Mart Sdn Bhd",
+    "address": "Jalan Tras Batu 1, 28700 Bentong, Pahang Darul Makmur",
+    "phone": "09-2201388",
+    "tax_id": "000184401920",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-19",
+    "time": "21:17:14",
+    "currency": "MYR",
+    "payment_method": "Visa",
+    "subtotal": 49.8,
+    "tax": 3.0,
+    "tip": 0.0,
+    "total": 52.8,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "KCA TOILET ROLL 3PLY 10R",
+      "quantity": 2,
+      "unit_price": 12.5,
+      "total_price": 25.0,
+      "category": "Household Supplies",
+      "accounting_category": "Goods",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SUPER CRWC 36G*15 HAZELNUT",
+      "quantity": 1,
+      "unit_price": 13.9,
+      "total_price": 13.9,
+      "category": "Snacks",
+      "accounting_category": "Goods",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SUPER CRWC 40G*15 CLASSIC",
+      "quantity": 1,
+      "unit_price": 13.9,
+      "total_price": 13.9,
+      "category": "Snacks",
+      "accounting_category": "Goods",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006441474.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Toilet Roll & Coffee\nTF Value-Mart Sdn Bhd (482123-U)\nBentong=2\nGST Reg No 000184401920\nJalan Tras Batu 1\n28700 Bentong\nPahang Darul Makmur.\nTel: 09-2201388\nTax Invoice : BTB09201805190274 19/05/18\nCashier : bt2_nina Rojina 21:17:14\nKCA TOILET ROLL 3PLY 10R 9555227800168 12.50*2 25.00 S\nSUPER CRWC 36G*15 HAZELNUT 9555037203555 13.90*1 13.90 S\nSUPER CRWC 40G*15 CLASSIC 8888240000897 13.90*1 13.90 S\nITEM: 3 Total with GST @ 6% 52.80\nQTY: 4 ROUNDING 0.00\nTOTAL 52.80\nTENDER\nVisa 6258 App: 518361 52.80\nCHANGE 0.00\nGST Analysis Goods Tax Amount\nS = 6% 49.80 3.00\nZ = 0% 0.00 0.00\nThank You . See You Again !!\nPlease Retain Receipt In Case Of Goods Exchange\nWithin 7 Days Of Purchase Except PERISHABLE,\nFROZEN & CHILLED ITEMS. No Refund Is Allowed."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "LAKE DAY CAFE",
+    "address": "Jl. Lorem Ipsum Dolor",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 256000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 256000.0,
+    "accounting_category": "sales",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TALKING ACTIVITY BK",
+      "quantity": 1,
+      "unit_price": 254500.0,
+      "total_price": 254500.0,
+      "category": "book",
+      "accounting_category": "sales",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "KERTAS KADO",
+      "quantity": 1,
+      "unit_price": 1500.0,
+      "total_price": 1500.0,
+      "category": "stationery",
+      "accounting_category": "office_supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000437.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "4808539\n1 TALKING ACTIVITY BK 254,500 254,500\n1500 KERTAS KADO 1500 1,500\n\nItem 2 Qty 2\nSUBTOTAL 256,000\nTOTAL 256,000\nCASH 256,000\nKEMBALI 0"
+  }
+}

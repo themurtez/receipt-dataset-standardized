@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "ONE ONE THREE SEAFOOD RESTAURANT SDN BHD",
+    "address": "NO.1, TAMAN SRI DENGKIL, JALAN AIR HITAM 43800 DENGKIL, SELANGOR.",
+    "phone": "",
+    "tax_id": "000670224384",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-05",
+    "time": "20:23:14",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 52.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 52.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Omellete Item",
+      "quantity": 1,
+      "unit_price": 15.0,
+      "total_price": 15.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Vege Item (S)",
+      "quantity": 1,
+      "unit_price": 10.0,
+      "total_price": 10.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Rice w Seafood /Meat Item Single",
+      "quantity": 1,
+      "unit_price": 22.0,
+      "total_price": 22.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Beverage",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Drink",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008142030.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ONE ONE THREE SEAFOOD RESTAURANT SDN BHD\n(1120908-M)\nNO.1, TAMAN SRI DENGKIL, JALAN AIR HITAM\n43800 DENGKIL, SELANGOR.\n(GST Reg. No : 000670224384)\nTax Invoice\nTable 37\nBill#: V001-539829 Order#: 139931\nDate : 05-06-2018 20:23:14\nCashier: 113 CASHIER Pax(s): 0\nQty Description Total TAX\n1 D 15.00 SR\nOmellete Item\n1 D 10.00 SR\nVege Item (S)\n1 D 22.00 SR\nRice w Seafood /Meat Item Single\n1 D 5.00 SR\nBeverage\nTotal (Excluding GST): 52.00\nTotal (Inclusive of GST): 52.00\nTOTAL : 52.00\nClosed: 1 05-06-2018 20:56:06\nServer: 113 CASHIER\nCASH : 52.00\nGST Summary Amount(RM) Tax(RM)\nSR (@ 0%) 52.00 0.00\n**** Thank You ****\nPlease Come Again"
+  }
+}

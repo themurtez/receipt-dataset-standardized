@@ -1,0 +1,118 @@
+{
+  "merchant": {
+    "name": "Del Frisco's #8620",
+    "address": "1221 Avenue of the Americas, New York, New York 10020",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-04-07",
+    "time": "19:53:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 404.0,
+    "tax": 35.86,
+    "tip": 0.0,
+    "total": 439.86,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Strip 16oz",
+      "quantity": 4,
+      "unit_price": 53.0,
+      "total_price": 212.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Ribeye Bone In",
+      "quantity": 1,
+      "unit_price": 69.5,
+      "total_price": 69.5,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Cauliflower",
+      "quantity": 1,
+      "unit_price": 16.5,
+      "total_price": 16.5,
+      "category": "Side",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Baked Potato",
+      "quantity": 1,
+      "unit_price": 15.5,
+      "total_price": 15.5,
+      "category": "Side",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Asparagus",
+      "quantity": 1,
+      "unit_price": 15.5,
+      "total_price": 15.5,
+      "category": "Side",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Onion Rings",
+      "quantity": 1,
+      "unit_price": 14.5,
+      "total_price": 14.5,
+      "category": "Side",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sauteed Spinach",
+      "quantity": 1,
+      "unit_price": 25.5,
+      "total_price": 25.5,
+      "category": "Side",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "VOSS Sparkling",
+      "quantity": 3,
+      "unit_price": 8.5,
+      "total_price": 25.5,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Coke Btl",
+      "quantity": 6,
+      "unit_price": 4.0,
+      "total_price": 24.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 19,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1181-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "DEL FRISCO'S #8620\n1221 Avenue of the Americas\nNew York, New York 10020\n1075 Rebekkah\nTbl 240/1 Chk 1061 Gst 5\nApr07'16 07:53PM\nDine In\n4 Strip 16oz 212.00\n1 Ribeye Bone In 69.50\n1 Cauliflower 16.50\n1 Baked Potato 15.50\n1 Asparagus 15.50\n1 Onion Rings 14.50\n1 Sauteed Spinach 25.50\n3 VOSS Sparkling 25.50\n6 Coke Btl 24.00\nSUBTOTAL 404.00\nTAX 35.86\n9:14PM TOTAL DUE 439.86\nTHANK YOU FOR VISITING"
+  }
+}

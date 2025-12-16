@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "IKEA Food",
+    "address": "IKEA Milton Keynes 185",
+    "phone": "",
+    "tax_id": "GB 527773320",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-04-03",
+    "time": "11:21:00",
+    "currency": "GBP",
+    "payment_method": "Visa Credit",
+    "subtotal": 12.37,
+    "tax": 2.48,
+    "tip": 0.0,
+    "total": 14.85,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Meatballs 10",
+      "quantity": 1,
+      "unit_price": 3.8,
+      "total_price": 3.8,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Fish & Chips Adult",
+      "quantity": 1,
+      "unit_price": 4.95,
+      "total_price": 4.95,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Petit Pain - White",
+      "quantity": 1,
+      "unit_price": 0.5,
+      "total_price": 0.5,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Wine rose",
+      "quantity": 1,
+      "unit_price": 2.8,
+      "total_price": 2.8,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Wine red",
+      "quantity": 1,
+      "unit_price": 2.8,
+      "total_price": 2.8,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1156-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "IKEA FOOD\nIKEA MILTON KEYNES 185\nVAT: GB 527773320\nAddress4\n\nQty  Name               Price  Total £\n1   Meatballs 10        3.80   3.80\n1   Fish & Chips Adult  4.95   4.95\n1   Petit Pain - White  0.50   0.50\n1   Wine rose           2.80   2.80\n1   Wine red            2.80   2.80\n\nNet SubTotal:           12.37\nTax: 20%VAT             2.48\nTotal to Pay:           14.85\nReceived: VISA          14.85\n\nVISA Credit\n**** **** **** 9529\nStar\n03/04/2016 11:21  Cashier: 1890\n"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 209999.0,
+    "tax": 21000.0,
+    "tip": 0.0,
+    "total": 230999.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Pecel Pincuk",
+      "quantity": 10,
+      "unit_price": 12727.0,
+      "total_price": 127270.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Tahu Bacem",
+      "quantity": 5,
+      "unit_price": 3182.0,
+      "total_price": 15910.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Tempe Bacem",
+      "quantity": 5,
+      "unit_price": 3182.0,
+      "total_price": 15910.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Empal",
+      "quantity": 2,
+      "unit_price": 12727.0,
+      "total_price": 25454.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Peyek Parcel",
+      "quantity": 1,
+      "unit_price": 25455.0,
+      "total_price": 25455.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 23,
+    "rounding": 0.0,
+    "change_due": 19001.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000478.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "10 12.727 Rp. 127.270\nPecel Pincuk\n5 3.182 Rp. 15.910\nTahu Bacem\n5 3.182 Rp. 15.910\nTempe Bacem\n2 12.727 Rp. 25.454\nEmpal\n1 25.455 Rp. 25.455\nPeyek Parcel\nSubTotal Rp. 209.999\nTotal Rp. 209.999\nPpd 10% Rp. 21.000\nTOTAL Rp. 230.999\nCASH Rp. 250.000\nCHANGE Rp. 19.001"
+  }
+}

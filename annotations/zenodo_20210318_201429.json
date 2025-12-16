@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Super Frutas do Calhariz",
+    "address": "Largo Calhariz, 1, 1200-086 Lisboa",
+    "phone": "213 431 907",
+    "tax_id": "509 684 122",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-01-02",
+    "time": "16:57:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 9.28,
+    "tax": 0.56,
+    "tip": 0.0,
+    "total": 9.84,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Laranja Sumo",
+      "quantity": 3.11,
+      "unit_price": 0.98,
+      "total_price": 3.06,
+      "category": "Fruit",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Laranja Sumo",
+      "quantity": 2.66,
+      "unit_price": 0.98,
+      "total_price": 2.61,
+      "category": "Fruit",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Laranja Sumo",
+      "quantity": 1.39,
+      "unit_price": 0.98,
+      "total_price": 1.36,
+      "category": "Fruit",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_201429.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SUPER FRUTAS DO CALHARIZ\nPAULA & RICARDO PEREIRA FRUTARIA, LDA\nCAP SOCIAL 5000€\nCONTRIB.509 684 122 TEL. 213 431 907\nLARGO CALHARIZ, 1 1200-086 LISBOA\nCONS.REG.COMERCIAL MAFRA N-509684122\nNIB:5200.5203.0030.3555.001.30\n\nFATURA SIMPLIFICADA\nORIGINAL PST:3\nDATA 2019/01/02 16:57 Nº A/574017\n\nCliente: FLIKEHOME\nMorada:\nCont N: 510776011\nArtigo Qtd Preço € Valor €\n\nLARANJA SUMO 6/ 3.110 Kg x 0.98 = 3,06\nLARANJA SUMO 6/ 2.660 Kg x 0.98 = 2,61\nLARANJA SUMO 6/ 1.390 Kg x 0.98 = 1,36\n#004\n\nTOTAL 9,84\nNumerário 9,84\nTroco 0,00\n\nIVA Incluído à taxa indicada\nTaxa/ Sujeito IVA Total\n6,00 9,28 0,56 9,84\n\ngEXQ-Processado por programa certificado\nN. 88/AT 1 A/574017\n\nOpr: OPERADOR 3"
+  }
+}

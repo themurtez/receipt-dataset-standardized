@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Guardian Health And Beauty Sdn Bhd",
+    "address": "Jalan Loke Yew Bentong\n90 Ground Floor\nJalan Bentong",
+    "phone": "09-222 6498",
+    "tax_id": "H0010899874016",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-19",
+    "time": "16:58:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 38.37,
+    "tax": 2.17,
+    "tip": 0.0,
+    "total": 38.37,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BX TISSU 4X150",
+      "quantity": 2,
+      "unit_price": 6.88,
+      "total_price": 13.76,
+      "category": "Household Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "HK RX TISS P04",
+      "quantity": 1,
+      "unit_price": 13.76,
+      "total_price": 13.76,
+      "category": "Household Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "GDN CMINT H/WASHP3",
+      "quantity": 1,
+      "unit_price": 12.9,
+      "total_price": 12.9,
+      "category": "Personal Care",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "GDN KTCH LILY500ML",
+      "quantity": 1,
+      "unit_price": 2.9,
+      "total_price": 2.9,
+      "category": "Personal Care",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.02,
+    "change_due": 2.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006441473.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Tissue & Hand Wash\nGuardian Health And Beauty Sdn Bhd\nJalan Loke Yew Bentong\n90 Ground Floor\nJalan Bentong\nTel:09-222 6498\nCompany Reg #1101083-T\nGST Reg H0010899874016\n\n121093507 G BX TISSU 4X150 6.88\n2X 6.88  \n121087265 HK RX TISS P04 13.76\n121095623 GDN CMINT H/WASHP3 12.90\n121096567 GDN KTCH LILY500ML 2.90\nPWP121096057 2.07\n\nSUBTOTAL  38.37\nTOTAL (GST INCL) 38.37\nCASH 40.35\nROUNDING ADJUSTMENTS 0.02\nCHANGE DUE 2.00\n\nYOUR SAVINGS FOR TODAY 7.53\n\nGST - Rate - GST Excl - GST Amt\n6% 36.20 2.17\n\nThank You For Shopping\nAt Guardian\nAll Amounts Are in RM\nGoods sold are non-refundable.\nDispensed medicines sold are\nnot returnable.\nAll exchanges and returns including\nGuardian brand products must be made\nwithin 7days with original receipts and\nproduct in original condition.\n\nSt:8303 Ctr:2 ID:3000 TaxInv:14072\n16:58 19/05/18"
+  }
+}

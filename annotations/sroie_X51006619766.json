@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (M) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000306020352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-01-10",
+    "time": "14:01:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 58.2,
+    "tax": 3.35,
+    "tip": 0.0,
+    "total": 58.2,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PLACEMAT 30*45CM",
+      "quantity": 4,
+      "unit_price": 3.5,
+      "total_price": 14.0,
+      "category": "Home Goods",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "COLANDER",
+      "quantity": 2,
+      "unit_price": 5.9,
+      "total_price": 11.8,
+      "category": "Kitchenware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PLACEMAT 145M",
+      "quantity": 3,
+      "unit_price": 1.9,
+      "total_price": 5.7,
+      "category": "Home Goods",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MOUSE PAD",
+      "quantity": 1,
+      "unit_price": 3.3,
+      "total_price": 3.3,
+      "category": "Office Supplies",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ANTI SLIP MAT 820# 30*50CM",
+      "quantity": 3,
+      "unit_price": 2.7,
+      "total_price": 8.1,
+      "category": "Home Goods",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ANTI SLIP MAT 820# 45*100CM",
+      "quantity": 1,
+      "unit_price": 7.5,
+      "total_price": 7.5,
+      "category": "Home Goods",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SHOWER CAP SET",
+      "quantity": 1,
+      "unit_price": 6.5,
+      "total_price": 6.5,
+      "category": "Personal Care",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PLACEMAT 30*45CM",
+      "quantity": 1,
+      "unit_price": 2.3,
+      "total_price": 2.3,
+      "category": "Home Goods",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 16,
+    "rounding": 0.0,
+    "change_due": 1.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619766.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. D.I.Y. (M) SDN BHD\nCo-REG:860671-D\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000306020352)\n(MUTIARA KOMPLEKS)\n-TAX INVOICE-\nPLACEMAT 30*45CM *S\nMB41/2 - 12/144\n9067425 4 X 3.50 14.00\nCOLANDER 12610#VS *S\nIA00 - 6/96\n6934091490607 2 X 5.90 11.80\nPLACEMAT 145M *S\nIF31 - 20/300\n9062301 3 X 1.90 5.70\nMOUSE PAD T1#VS *S\nRH21 - 12/480\n9084980 1 X 3.30 3.30\nANTI SLIP MAT 820# 30*50CM*VS *S\nMH2273 - 6/120\n9067301 3 X 2.70 8.10\nANTI SLIP MAT 820# 45*100CM *S\nMF22/3-42 - 6/72\n9067303 1 X 7.50 7.50\nSHOWER CAP SET*VS *S\nPB42 - 24/360\n9053374 1 X 6.50 6.50\nPLACEMAT 30*45CM *VS *S\nMC21 - 12/300\n9067423 1 X 2.30 2.30\nItem(s) : 8 Qty(s) : 16\nTOTAL INCL . GST@6% RM 58.20\nCASH RM 60.20\nCHANGE RM 1.00\nGST @6% included in total RM 3.35\n10-01-16 14:01 SHO1 ZJ19 T1 R000193288\nOPERATOR MTRC - KARKI HARI BAHADUR\nEXCHANGE ARE ALLOWED WITHIN\n3 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

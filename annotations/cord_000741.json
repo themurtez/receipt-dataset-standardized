@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 53.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 53.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Kyoto Choco Mochi",
+      "quantity": 1,
+      "unit_price": 14.0,
+      "total_price": 14.0,
+      "category": "Snack",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Honey Pistachio",
+      "quantity": 1,
+      "unit_price": 39.0,
+      "total_price": 39.0,
+      "category": "Snack",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Plastic Bag Small",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Miscellaneous",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 2.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000741.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "3002-Kyoto Choco Mochi\n14.000 x1 14.000\n1009-Honey Pistachio\n39.000 x1 39.000\n6001-Plastic Bag Small\n0 x1 0\nTotal Item: 3\nTotal. 53.000\nCash Tendered: 55.000\nChange: 2.000"
+  }
+}

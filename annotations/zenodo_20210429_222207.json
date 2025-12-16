@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "R. Actor António Silva, N7, 1649-033 Lisboa",
+    "phone": "213931450",
+    "tax_id": "500822993",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-11-26",
+    "time": "11:52:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 4.06,
+    "tax": 0.93,
+    "tip": 0.0,
+    "total": 4.99,
+    "accounting_category": "Cleaning Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Deterg. E Prod. Limpeza E 23% Rec Airwick Matic W",
+      "quantity": 1,
+      "unit_price": 4.99,
+      "total_price": 4.99,
+      "category": "Cleaning Supplies",
+      "accounting_category": "Cleaning Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_222207.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "pingo doce\ntome bem para todos\nFERREIRA BORGES\nTel 213 931 450\nArtigos\nPaga\nPingo Doce - Distribuição Alimentar, S.A.\nSede: R. Actor António Silva, N7, 1649-033 Lisboa\nRegisto C.R.C. Lisboa Matrícula/NIPC: 500 822 993\nANREEE: PT001730 C. Social: 33,808,115 EUR\nDETERG. E PROD. LIMPEZA\nE 23% REC AIRWICK FMATIC W 4.99\nTOTAL A PAGAR 4.99\nResumo IVA\nTaxa Valor s/IVA Valor IVA Valor c/IVA\nTOTAL PAGO Pagamentos 4.06 0.93 4.99\nEURO\n4.99\n4.99\nAtendido por: André Silva\n403541 2019-11-26 11:52 0012 0005 0828\nxlUs-Processado por programa certificado 369/AT\nFactura/Recibo FT 0828005190110618/004806\n1a Via Duplicado Data de emissão: 26-11-2019\nN. Contribuinte: 5107776914\nNome: FLIKEHOME LDA\nMorada:. A/ V DA LIBERDADE 30 1B 1250/145\nLocalidade.: Lisboa\nLocal carga. : FERREIRA BORGES\nLocal descarga.: Morada do cliente\nData: 2019-11-26 Hora: 11:52\nFactura necessária para troca em 15 dias\n(Artigos Téxtil e Calçado prazo 30 dias)\nNão se trocam medicamentos e artigos assinalados\nApoio ao Cliente\n808 20 45 45 / 210 11 44 11 (24 horas)\n"
+  }
+}

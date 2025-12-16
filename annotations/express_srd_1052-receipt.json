@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "Nancy's",
+    "address": "255-41 Jericho Turnpike\nFloral Park, NY 11001",
+    "phone": "718-343-4616",
+    "tax_id": "",
+    "website": "www.nancysrestaurant.net"
+  },
+  "transaction": {
+    "date": "2016-09-24",
+    "time": "20:22:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 86.5,
+    "tax": 7.68,
+    "tip": 0.0,
+    "total": 94.18,
+    "accounting_category": "dining",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "gl Imp White",
+      "quantity": 1,
+      "unit_price": 7.75,
+      "total_price": 7.75,
+      "category": "beverage",
+      "accounting_category": "dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Blue Moon Tap",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "beverage",
+      "accounting_category": "dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Mozzarella & Tomato",
+      "quantity": 1,
+      "unit_price": 9.95,
+      "total_price": 9.95,
+      "category": "food",
+      "accounting_category": "dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Pork Quesadilla",
+      "quantity": 1,
+      "unit_price": 9.95,
+      "total_price": 9.95,
+      "category": "food",
+      "accounting_category": "dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Fren Onion Soup",
+      "quantity": 1,
+      "unit_price": 6.95,
+      "total_price": 6.95,
+      "category": "food",
+      "accounting_category": "dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Pork Chop",
+      "quantity": 1,
+      "unit_price": 21.95,
+      "total_price": 21.95,
+      "category": "food",
+      "accounting_category": "dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Hanger Sizzle",
+      "quantity": 1,
+      "unit_price": 24.95,
+      "total_price": 24.95,
+      "category": "food",
+      "accounting_category": "dining",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1052-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Nancy's\n255-41 Jericho Turnpike\nFloral Park, NY 11001\nTel: 718.343.4616\nwww.nancysrestaurant.net\n106 Tom\nCheck: 1075        Guests: 2\nTable: 34-1\n09/24/2016 08:22PM\nDINE IN\n1     gl Imp White           7.75\n1     Blue Moon Tap          6.00\n1     Mozzarella&Tomato     9.95\n1     Pork Quesadilla       9.95\n1     Fren Onion Soup       6.95\n1     Pork Chop            21.95\n1     Hanger Sizzle        24.95\nSUBTOTAL                   86.50\nTax                         7.68\nTOTAL DUE                 $94.18"
+  }
+}

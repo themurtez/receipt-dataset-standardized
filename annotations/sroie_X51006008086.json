@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Popular Book Co. (M) Sdn Bhd",
+    "address": "No 8, Jalan 7/118B, Desa Tun Razak, 56000 Kuala Lumpur, Malaysia",
+    "phone": "03-55235214",
+    "tax_id": "113825-W",
+    "website": "www.popular.com.my"
+  },
+  "transaction": {
+    "date": "2018-01-24",
+    "time": "16:14:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 28.39,
+    "tax": 1.71,
+    "tip": 0.0,
+    "total": 30.1,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PB SHT/P 11H A4 50'S",
+      "quantity": 1,
+      "unit_price": 16.9,
+      "total_price": 16.9,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "No Plastic Bag Campai",
+      "quantity": 1,
+      "unit_price": 0.2,
+      "total_price": 0.2,
+      "category": "Other",
+      "accounting_category": "Miscellaneous",
+      "category_confidence": 0.5
+    },
+    {
+      "name": "PB 2D R/FILE A4 40MM",
+      "quantity": 2,
+      "unit_price": 7.99,
+      "total_price": 15.88,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Stat-Buy Discount",
+      "quantity": 1,
+      "unit_price": -2.98,
+      "total_price": -2.98,
+      "category": "Discount",
+      "accounting_category": "Promotions/Discounts",
+      "category_confidence": 0.7
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 10.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006008086.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "POPULAR BOOK CO. (M) SDN BHD (Co. No. 113825-W) (GST Reg No. 0014939292000) No 8, Jalan 7/118B, Desa Tun Razak 56000 Kuala Lumpur, Malaysia AEON SHAH ALAM Tel : 03-55235214 24/01/18 16:14 Slip No.: 8020178503 Tasha Trans: 192915 Description Amount PB SHT/P 11H A4 50'S 16.90 T No Plastic Bag Campai 0.20 T Issue Spring Ingot RM PB 2D R/FILE A4 40MM 2pc @ 7.99 15.88 T Stat-Buy 2@RM 13 -2.98 Total RM Incl. of GST 30.10 Cash -40.10 CHANGE 10.00 Item Count 5 GST Summary Amount (RM) Tax (RM) T @ 6% 28.39 1.71 Z @ 0% 0.00 0.00 Total Savings -2.98 BE A POPULAR CARD MEMBER AND ENJOY SPECIAL DISCOUNTS THANK YOU. PLEASE COME AGAIN. www.popular.com.my Buy Chinese books online www.popularonline.com.my"
+  }
+}

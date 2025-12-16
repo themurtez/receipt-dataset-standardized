@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 131000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 152746.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SAUSAGE AND SALAMI",
+      "quantity": 1,
+      "unit_price": 62000.0,
+      "total_price": 62000.0,
+      "category": "Main Course",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "GREEN MONSIEUR",
+      "quantity": 1,
+      "unit_price": 57000.0,
+      "total_price": 57000.0,
+      "category": "Main Course",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ADD 1 W. ORIGINAL",
+      "quantity": 1,
+      "unit_price": 12000.0,
+      "total_price": 12000.0,
+      "category": "Side Dish",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000181.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SAUSAGE AND SALAMI 62,000\nGREEN MONSIEUR 57,000\nADD 1 W. ORIGINAL 12,000\nSUBTTL 131,000\nSVC CHG 6% 7,860\nPB1 10% 13,886\nTOTAL 152,746"
+  }
+}

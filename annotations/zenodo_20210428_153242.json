@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "bota minuto",
+    "address": "C Com Amoreiras, S. 5041 1070 LISBOA",
+    "phone": "21094257",
+    "tax_id": "506175502",
+    "website": "www.botaminuto.com"
+  },
+  "transaction": {
+    "date": "2019-03-02",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 28.13,
+    "tax": 6.47,
+    "tip": 0.0,
+    "total": 34.6,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CHAVE PALHETA CSL GT-46",
+      "quantity": 2,
+      "unit_price": 11.7,
+      "total_price": 23.4,
+      "category": "Key",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHAVE LANA ULC50 V-5D",
+      "quantity": 2,
+      "unit_price": 2.35,
+      "total_price": 4.7,
+      "category": "Key",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 15.4
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_153242.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "bota minuto\nAMOREIRAS\nContribuinte 506175502\nConserto Rapido das Amoreiras.\nAmerica, e Calcapes e Copias Chaves Lda\nEdificio RibeirH Inel 1785-56\nC Com Amoreiras.s.5041 1070 LISBOA\nojz\nCap Soc 5.000EII CRC Cessiro N 9955/2007\nlo\nEncom FLX/ENBOME\nLISBOA\nNIF:510176914 N Cln 95161776914\n+1\nc9821304.199\nFTR 6/3899 Data 2019-03-02 Original\nFachura\nVendaor: FILIPE AGUIAR\nArt. Descricao Qde Pr. Unit. Valor TVA\nCHAVE PALHETA CSL GT-46 CU Ch 24\n559_1 2.0 11.70 29.40 23\nCHAVE i LANA ULC50 V-5D 4\n+72 2.0 2425 4.70 23\nni\nTotal de piecas: 4\nVALOR LIQUIDO IVA % IVA IVA\n0,00 0 % 0,00\nVentai ea:\noe28.13 23 1,47\nDESCONTO\nVoob] DOCUMENTO EURO 3460\nNumerario 50.00\nTroco 15.40\n *GES1-Processado por programa\ncertificado N. 1627/AT\nno Bem colocada a disposicao do aquisi-\nnator onesta data, do acordo coma\nalines fi do n. 5 do artio 3 do CIVA\nnv»\nTROCAS E DEVOLUUES ACEITES COM COMPRO-\nVATIVO DE COMPRA E ATE 30 DIAS DA DATA\nPE COMPRA.\nA DEVOLUCAO DE QUALQUER QUANTIA INERENTE\nA TROCA OU DEVOLUCAO DE ARTIGO A E PEITA\nPOR VALE DE REEMBOLSO COM VALIDADE DE 30\nAT\nDIAS\nsaca\nOTbngdo Pela Visita • Volte Sempre!\nTALAO INDISPENSAVEL P/ ENTREGA-RECLAMA-\nTROCAS PRAZO 1 MES\n)\nTel.: 21094257 WWW.botaninuto.cin\n"
+  }
+}

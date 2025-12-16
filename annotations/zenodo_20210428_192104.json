@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Dia Portugal",
+    "address": "Av. Alvares Cabral, 2770-190 Paco Arcos",
+    "phone": "",
+    "tax_id": "PT500300368",
+    "website": "www.miniprecodisney.com"
+  },
+  "transaction": {
+    "date": "2019-02-25",
+    "time": "12:42:00",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 7.32,
+    "tax": 0.44,
+    "tip": 0.0,
+    "total": 7.76,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "FAT. O.J. TERRA NOSTRA",
+      "quantity": 2,
+      "unit_price": 3.88,
+      "total_price": 7.76,
+      "category": "Dairy",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_192104.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Dia Portugal Sup Soc. Unip., Lda\nAv. Alvares Cabral, 2770-190 Paco Arcos\nC.R.C. / Num. Contrib.: PT500300368\nCapital Social Empresa: 51,002,855.12\nNome Cliente: Flixhome\nDirecao Cliente: Lisboa\nNum. Contribuinte: 510776914\nLocalidade: Chiado\nCod. Post:\nFatura / Recibo\nFT 02114402190102/00001894\nCaixa: 4 Data: 2019-02-25 Hora: 12:42\nCodigo de Operario: 53413\nCodigo Descricao\nIVA PVP/Unit Quantidade Descontos\n141473 FAT. O.J. TERRA NOSTRA 7.76\n6.00% 3.88 2 0.00\nTotal a Pagar Euros 7.76\nMultibanco 7.76\nTroco 0.00\nTipo IVA Base IVA Total\n01 6.00% 7.32 0.44 7.76\nTotal 7.32 0.44 7.76\nLocal Carga:\nLG do Calhariz 10\n1200-086 Lisboa\nData: 2019-02-25 Hora: 12:42\nLocal Descarga: Morada do Cliente\nCert. n°1752/AT\nwww.miniprecodisney.com\nSIRPEEE PT0000245\n-Copia para o Cliente-"
+  }
+}

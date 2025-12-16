@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Chili's Grill & Bar",
+    "address": "Puente Hills #25, 17588 Castleton St, City of Industry, CA 91748",
+    "phone": "",
+    "tax_id": "",
+    "website": "Chilis.com"
+  },
+  "transaction": {
+    "date": "2018-09-15",
+    "time": "13:25:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 24.08,
+    "tax": 2.29,
+    "tip": 0.0,
+    "total": 26.37,
+    "accounting_category": "Dining",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "TRIPLE DIPPER",
+      "quantity": 1,
+      "unit_price": 12.19,
+      "total_price": 12.19,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "CHICKEN WAFFLES4",
+      "quantity": 1,
+      "unit_price": 11.89,
+      "total_price": 11.89,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1061-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Chili's Grill & Bar\nPuente Hills #25\n17588 Castleton St\nCity of Industry, CA 91748\nServer: Jose S 09/15/2018\n1:25 PM\n33/1\nGuests: 2 2060012\nOrder Type: Dine In\nTRIPLE DIPPER 12.19\nCHICKEN WAFFLES4 11.89\nSubtotal 24.08\nTotal Tax 2.29\nTotal 26.37\nBalance Due 26.37\n* Gratuity Guide\n15% = $3.96\n18% = $4.75\n20% = $5.27\n22% = $5.80\nWant free Chips and Salsa or a drink, every visit?\nChilis.com/Rewards\nGift Card activation is delayed by 4 hours.\n************************************\nTELL US HOW WE'RE DOIN'!"
+  }
+}

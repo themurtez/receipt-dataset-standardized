@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Subway#42210-0",
+    "address": "URBAN IDEA SDN BHD (417940-M), A-G-06, DATARAN GLOMAC, JALAN SS6/5A, PUSAT BANDAR KELANA JAYA, 47301 PETALING JAYA, SELANGOR, Malaysia",
+    "phone": "03-78070693",
+    "tax_id": "000220499968",
+    "website": "www.tellsubway.my"
+  },
+  "transaction": {
+    "date": "2018-02-27",
+    "time": "15:32:47",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 22.65,
+    "tax": 1.36,
+    "tip": 0.0,
+    "total": 24.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Bag Fee",
+      "quantity": 1,
+      "unit_price": 0.2,
+      "total_price": 0.2,
+      "category": "Miscellaneous",
+      "accounting_category": "Miscellaneous",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "EDV Meal (Meatball Sub)",
+      "quantity": 1,
+      "unit_price": 11.9,
+      "total_price": 11.9,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "EDV Meal (BBQ Chicken Strips Sub)",
+      "quantity": 1,
+      "unit_price": 11.9,
+      "total_price": 11.9,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": -0.01,
+    "change_due": 6.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005745249.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Subway#42210-0 Phone 03-78070693\nURBAN IDEA SDN BHD (417940-M),\nA-G-06, DATARAN GLOMAC,\nJALAN SS6/5A, PUSAT BANDAR KELANA JAYA,\n47301 PETALING JAYA, SELANGOR, Malaysia\nServed by: rojan 27/02/2018 15:32:47\nTax Invoice# 1/A-42210-140220\nGST ID: 000220499968\n\nQty Size Item Price\n--- ---- ----\n1 Bag Fee RM0.20\n1 (MY) EDV Meal RM11.90\n6\" -Meatball Sub\n-16oz Fountain Drink\n-1 Cookies\n1 (MY) EDV Meal RM11.90\n6\" -BBQ Chicken Strips Sub\n-16oz Fountain Drink\n-1 Cookies\nCash Rounding -RM0.01\nTotal (Eat In) RM24.00\nCash RM30.00\nChange RM6.00\n\nTax Info:\nGST 6% (6%) RM1.36\nTotal-Excl-GST RM22.65\n\nTake our 1 Minute Survey at\nwww.tellsubway.my and get a FREE COOKIE\nwith next purchase. Redemption of 1\ncookie per transaction"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "Lisboa, Lisboa, 1000",
+    "phone": "",
+    "tax_id": "PT510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-18",
+    "time": "15:29:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 3.25,
+    "tax": 0.75,
+    "tip": 0.0,
+    "total": 4.0,
+    "accounting_category": "Utilities",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CHUVEIRO",
+      "quantity": 1,
+      "unit_price": 4.0,
+      "total_price": 4.0,
+      "category": "Utilities",
+      "accounting_category": "Utilities",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_191110.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Lisboa\nLisboa\n1000\nNIF: PT510776914\nFatura: E1 1700/000370\nData Emissao: 2017-11-18 15:29\nData Vencimento: 2017-11-18\nReferencia\nQuantidade Descircao IVA Subtotal\n1 CHUVEIRO 23% 4,00 EUR\nTotal Iliq. 3,25 EUR\nTotal Desc. 0,00 EUR\nTotal IVA 0,75 EUR\nTotal Docum. 4,00 EUR\n"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "001092886528",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-10-18",
+    "time": "15:16:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 5.57,
+    "tax": 0.33,
+    "tip": 0.0,
+    "total": 5.9,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CLOTH PEG E-140",
+      "quantity": 1,
+      "unit_price": 5.9,
+      "total_price": 5.9,
+      "category": "Household",
+      "accounting_category": "Household Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005568899.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. D.I.Y. SDN BHD\n(CO.REG :704427-T )\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :001092886528)\n(CHERAS LEISURE MALL)\n-TAX INVOICE-\n----------------------------------------\nCLOTH PEG E-140 *S\nWA36 - 6/60\n9555112901406 1 X 5.90 5.90\nItem(s) : 1 Qty(s) : 1\n----------------------------------------\nTotal Incl. GST@6%\nRM 5.90\nCASH\nRM 5.90\n\nGST Summary Amt(RM) Tax(RM)\nGST S@6% 5.57 0.33\n\n* ----------------------------------------------- *\n18-10-17 15:16 SH01 ZT09 T3 R000000163\nOPERATOR GCHT - NOR MASLIZA\n\nEXCHANGE ARE ALLOWED WITHIN\n7 DAYS WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

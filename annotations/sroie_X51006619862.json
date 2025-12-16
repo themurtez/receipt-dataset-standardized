@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (KUCHAI) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000473792512",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-06-07",
+    "time": "15:26:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 12.55,
+    "tax": 0.75,
+    "tip": 0.0,
+    "total": 13.3,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "HANDPHONE STICKER WNY-037",
+      "quantity": 4,
+      "unit_price": 2.8,
+      "total_price": 11.2,
+      "category": "Accessories",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "DECO STICKER 128",
+      "quantity": 1,
+      "unit_price": 2.1,
+      "total_price": 2.1,
+      "category": "Accessories",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619862.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. D.I.Y. (KUCHAI) SDN BHD\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR .\n(GST ID No : 000473792512)\n(SG WANG)\n----------------------------------------\nHANDPHONE STICKER WNY-037 *S\nRC21 - 25/1000\n9086926 4 X 2.80 11.20\nDECO STICKER 128 *S\nQF12 - 20/1000\n9011434 1 X 2.10 2.10\nItem(s) : 2 Qty(s) : 5\n----------------------------------------\nTotal Incl. GST@6% RM 13.30\nCASH RM 13.30\nGST @6% included in total RM 0.75\n----------------------------------------\n07-06-16 15:26 SHO8 B019 T3 R000041542\nOPERATOR SGWT - SITI AMINAH\nEXCHANGE ARE ALLOWED WITHIN\n3 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

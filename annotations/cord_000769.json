@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "ShareTea",
+    "address": "Sample Address, City, Country",
+    "phone": "+1234567890",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "CASH",
+    "subtotal": 27273.0,
+    "tax": 2727.0,
+    "tip": 0.0,
+    "total": 30000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Avocado with Rock Salt and Cocoa Cream [L]",
+      "quantity": 1,
+      "unit_price": 27273.0,
+      "total_price": 27273.0,
+      "category": "Beverages",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 20000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000769.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ShareTea\nSample Tag Line\nSample Address\nCity, Country\nPhone: +1234567890\n\nDrive In\nAvocado with Rock Salt and Cocoa Cream [L] 1 27,273\nTotal 27,273\nPB1 2,727\nGrand Total 30,000\nCASH 50,000\nChange 20,000\n"
+  }
+}

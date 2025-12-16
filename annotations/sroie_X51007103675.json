@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (M) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000306020352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-25",
+    "time": "16:46:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 48.1,
+    "tax": 2.72,
+    "tip": 0.0,
+    "total": 48.1,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "RUBBER BOOTS P/968BK-SIZE8 (BLACK)",
+      "quantity": 1,
+      "unit_price": 9.9,
+      "total_price": 9.9,
+      "category": "Footwear",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SEKOPLAS H/D GARBAGE 89cm*117cm 10s",
+      "quantity": 4,
+      "unit_price": 9.5,
+      "total_price": 38.0,
+      "category": "Household Supplies",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PLASTIC BAGS",
+      "quantity": 1,
+      "unit_price": 0.2,
+      "total_price": 0.2,
+      "category": "Household Supplies",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 2.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007103675.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "31804048\nMR. D.I.Y (M) SDN BHD\n(CO.REG : 860671-D)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No : 000306020352)\n(IOI PUCHONG)\n-TAX INVOICE-\nRUBBER BOOTS P/968BK-SIZE8 (BLACK) *S\nWA60 - 6/48\n9555590501204 1 X 9.90 9.90\nSEKOPLAS H/D GARBAGE 89cm*117cm 10s *S\nWA57 - 16\n9557002081113 4 X 9.50 38.00\nPLASTIC BAGS *S\n99999 1 X 0.20 0.20\nItem(s) : 3 Qty(s) : 6\nTotal) Incl. GST@6% RM 48.10\nCASH RM 50.20\nCHANGE RM 2.10\nGST @6% included in total RM 2.72\n*\n25-04-18 16:46 SH01 ZJ86 T1 R000119242\nOPERATOR TRAINEE CASHIER\nEXCHANGE ARE ALLOWED WITHIN\n7 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

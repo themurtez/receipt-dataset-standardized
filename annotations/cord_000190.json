@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "KRW",
+    "payment_method": "Card",
+    "subtotal": 300000.0,
+    "tax": 30000.0,
+    "tip": 0.0,
+    "total": 351000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SOONDUBU CHIGE",
+      "quantity": 1,
+      "unit_price": 75000.0,
+      "total_price": 75000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "JAP CHAE",
+      "quantity": 1,
+      "unit_price": 105000.0,
+      "total_price": 105000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "GOCHUJANG SAMGYEOPSAL",
+      "quantity": 1,
+      "unit_price": 120000.0,
+      "total_price": 120000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000190.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SOONDUBU CHIGE 1 75,000\nJAP CHAE 1 105,000\nGOCHUJANG SAMGYEOPSAL 1 120,000\nSub Total 300,000\nService 21,000\nTax 30,000\nDiscount 0\nTOTAL 351,000\nCard 351,000\nCHANGE 0"
+  }
+}

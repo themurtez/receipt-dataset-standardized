@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "EXPrint",
+    "address": "Unit G-6B, Ground Floor, Wisma UOA II, No 21, Jalan Pinang, 50450 Kuala Lumpur, Malaysia",
+    "phone": "03-2169 2788",
+    "tax_id": "00212732096",
+    "website": "www.exprintshop.com"
+  },
+  "transaction": {
+    "date": "2019-03-21",
+    "time": "09:13:31",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 7.0,
+    "tax": 0.42,
+    "tip": 0.0,
+    "total": 7.42,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "A4 BW Simili 80gsm",
+      "quantity": 1,
+      "unit_price": 7.0,
+      "total_price": 7.42,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": -0.01,
+    "change_due": 2.6
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006311778.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "EXPrint\nAnzel Advertising (M) Sdn bhd (769705-H)\nUnit G-6B, Ground Floor; Wisma UOA II,\nNo 21, Jalan Pinang\n50450 Kuala Lumpur, Malaysia\nTel: 03-2169 2788 / 03-2168 6769\nGST No: 00212732096\nTax Cash Sales\nNo.: UOA-0618-01976\nQty RM Tax\nA4 BW Simili 80gsm @ 1.00 7.00 7.42 SF\nTotal Amt. Incl. GST @ 6%: 7.42\nRounding Adjustment: (0.01)\nTotal Amt Payable : 7.40\nPaid Amount: 10.00\nChange : 2.60\nTotal Qty Tender : 7\nTHANK YOU\nFor any enquiry, please e-mail us:\nwww.exprintshop.com\nE: exprintuoaikl@gmail.com\n09:13 am, 21 March, 2019"
+  }
+}

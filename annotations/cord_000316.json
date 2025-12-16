@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 437600.0,
+    "tax": 67828.0,
+    "tip": 0.0,
+    "total": 505428.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Peach Tea",
+      "quantity": 3,
+      "unit_price": 14800.0,
+      "total_price": 44400.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lemon Tea",
+      "quantity": 4,
+      "unit_price": 14800.0,
+      "total_price": 59200.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chicken Kazan Curry",
+      "quantity": 1,
+      "unit_price": 69800.0,
+      "total_price": 69800.0,
+      "category": "Main Course",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chicken Karamiso Special",
+      "quantity": 1,
+      "unit_price": 54800.0,
+      "total_price": 54800.0,
+      "category": "Main Course",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chicken Shio Special",
+      "quantity": 2,
+      "unit_price": 54800.0,
+      "total_price": 109600.0,
+      "category": "Main Course",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Beef Set A",
+      "quantity": 1,
+      "unit_price": 99800.0,
+      "total_price": 99800.0,
+      "category": "Main Course",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 12,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000316.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "3 Peach Tea 44,400\n4 Lemon Tea 59,200\n1 Chicken Kazan Curry 69,800\n** = NUKE =\n1 Chicken Karamiso Special 54,800\n2 Chicken Shio Special 109,600\n1 Beef Set A 99,800\n* Beef Sukiyaki Ramen Sh ---\n* Chicken Gyoza ---\nSUBTTL 437,600\nSVC 5% 21,880\nPB1 10% 45,948\nTOTAL 505,428"
+  }
+}

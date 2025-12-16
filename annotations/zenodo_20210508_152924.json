@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Lelimel-Materiais de Construção, LDA",
+    "address": "Casal Cordeiro, 2655-000 Ericeira, Ericeira",
+    "phone": "261862767",
+    "tax_id": "501376849",
+    "website": "geral@lelimel.com"
+  },
+  "transaction": {
+    "date": "2018-07-30",
+    "time": "12:52",
+    "currency": "EUR",
+    "payment_method": "unknown",
+    "subtotal": 9.75,
+    "tax": 1.82,
+    "tip": 0.0,
+    "total": 9.75,
+    "accounting_category": "materials",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BICHA M ACO F/F 3/8'' X 3/8'' - 30 CM",
+      "quantity": 1,
+      "unit_price": 7.93,
+      "total_price": 7.93,
+      "category": "hardware",
+      "accounting_category": "materials",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "ESPONJA P/AUTOCLISMO",
+      "quantity": 1,
+      "unit_price": 0.6,
+      "total_price": 0.6,
+      "category": "hardware",
+      "accounting_category": "materials",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "TORN.CORTE CR 3/8''",
+      "quantity": 1,
+      "unit_price": 2.45,
+      "total_price": 2.45,
+      "category": "hardware",
+      "accounting_category": "materials",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_152924.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "LELIMEL - MATERIAIS DE CONSTRUÇÃO, LDA\nCasal Cordeiro\n2655-000 Ericeira\nEriceira\nTEL: 261862767\nEmail: geral@lelimel.com\nNIF: 501376849\nFatura-recibo\nNo FR 14/6730\nDados do Cliente\nFEELS LIKE HOME\n1350-310 LISBOA    ERICEIRA\nNº Contribuinte: 510776914\nData de emissão : 2018-07-30 12:52\nData de entrega : 30.07.2018\nRef Design QTD Desc P.Unit IVA P.Total\nASSEC0003 BICHA M ACO F/F 3/8'' X 3/8'' - 30 CM\n1,00 7,93 0,70 7,93\nASSEC0224 ESPONJA P/AUTOCLISMO\n1,00 0,60 6,00 0,60\nTORN0001 TORN.CORTE CR 3/8''\n1,000 2,45 23,00 2,45\nTaxa Base de incidência Valor do I.V.A.\n6,00% 1,82\n13,00% 7,93\n23,00%\nTotal líquido : 7,93\nDesconto Comercial :\nDesconto Financeiro :\nBase de Incidência de I.V.A : 7,93\nTotal de I.V.A : 1,82\nTOTAL DO DOCUMENTO EUR 9,75\nTROCO EUR\nLocal carga Nossas Instalações\nLocal de descarga Morada do Cliente\nData/Hora carga 30.07.2018 12:52\nDocumento Processado por Computador\nObrigad - Volte Sempre"
+  }
+}

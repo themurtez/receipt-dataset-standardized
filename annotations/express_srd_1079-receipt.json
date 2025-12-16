@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "Falmouth Raw Bar",
+    "address": "56 Scranton Ave., Falmouth, MA 02540",
+    "phone": "(508) 548-7729",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-07-02",
+    "time": "18:28:00",
+    "currency": "USD",
+    "payment_method": "American Express",
+    "subtotal": 219.81,
+    "tax": 15.38,
+    "tip": 0.0,
+    "total": 235.19,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "6 Oysters",
+      "quantity": 1,
+      "unit_price": 19.0,
+      "total_price": 19.0,
+      "category": "Seafood",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Fish and Chips",
+      "quantity": 1,
+      "unit_price": 22.0,
+      "total_price": 22.0,
+      "category": "Entree",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "MONSTAH roll",
+      "quantity": 3,
+      "unit_price": 114.0,
+      "total_price": 114.0,
+      "category": "Sushi",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Chicken Wings",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Appetizer",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Patron",
+      "quantity": 1,
+      "unit_price": 28.5,
+      "total_price": 28.5,
+      "category": "Alcohol",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Sparkling Wine",
+      "quantity": 2,
+      "unit_price": 22.0,
+      "total_price": 22.0,
+      "category": "Alcohol",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Open Liquor",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Alcohol",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1079-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Falmouth RAW BAR\nFALMOUTH RAW BAR\n56 Scranton Ave.\nFalmouth, MA 02540\n(508) 548-7729\nCheck 5738/1 07/02/18-A 6:28pm\nGuests 5 Abby Table 33\n1..6 Oysters 19.00\n1..Fish and Chips 22.00\n3..MONSTAH roll 114.00\n1..Chicken Wings 12.00\n1..*Patron 28.50\n2..*Sparkling Wine 22.00\n1..*Open Liquor 6.00\n| patron double\n(*Item shown with tax included)\nItems 219.81\ntown/MA tax 15.38\nTOTAL 235.19\n"
+  }
+}

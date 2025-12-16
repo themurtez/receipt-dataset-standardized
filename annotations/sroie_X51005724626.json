@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "KEDAI PAPAN YEW CHUAN",
+    "address": "LOT 276 JALAN BANTING, 43800 DENGKIL, SELANGOR.",
+    "phone": "03-87686092",
+    "tax_id": "000781500416",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-02",
+    "time": "08:42:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 255.0,
+    "tax": 15.3,
+    "tip": 0.0,
+    "total": 270.3,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PYE 921 PLASTER",
+      "quantity": 13,
+      "unit_price": 18.0,
+      "total_price": 248.04,
+      "category": "Building Materials",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "KAPUR AIR (A1)",
+      "quantity": 5,
+      "unit_price": 3.0,
+      "total_price": 15.9,
+      "category": "Building Materials",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SPAN HANDLE",
+      "quantity": 3,
+      "unit_price": 2.0,
+      "total_price": 6.36,
+      "category": "Building Materials",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 21,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005724626.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KEDAI PAPAN YEW CHUAN (0005583085-K) LOT 276 JALAN BANTING 43800 DENGKIL, SELANGOR. TEL: 03-87686092 FAX: 03-87686092 GST ID: 000781500416 TAX INVOICE Bill To : SUCI ALAM JAYA TRANSPORT NO 1 JALAN AMAN 2 TAMAN DESA 43800 DENGKIL SELANGOR 017-6057770 Doc No.: CS00011384 Date: 02/04/2018 Cashier : USER Time: 08:42:00 Salesperson : Ref.: Item Qty S/Price (GST) Amount Tax S/Price (GST) (GST) 101785 13 18.00 19.08 248.04 SR PYE 921 PLASTER 100160 5 3.00 3.18 15.90 SR KAPUR AIR (A1) 101275 3 2.00 2.12 6.36 SR SPAN HANDLE Total Qty: 21 270.30 Total Sales (Excluding GST) : 255.00 Discount : 0.00 Total GST : 15.30 Rounding : 0.00 Total Sales (Inclusive of GST) : 270.30 CASH : 270.30 Change : 0.00 GST SUMMARY Tax Code % Amt (RM) Tax (RM) SR 6 255.00 15.30 Total : 255.00 15.30 GOODS SOLD ARE NOT RETURNABLE, THANK YOU."
+  }
+}

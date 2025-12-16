@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Kalooki's",
+    "address": "Bay Road, Blue Hills 01469 Providenciales",
+    "phone": "6493323388",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2015-03-14",
+    "time": "20:12:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 57.0,
+    "tax": 5.7,
+    "tip": 0.0,
+    "total": 62.7,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Chicken Fingers",
+      "quantity": 1,
+      "unit_price": 8.0,
+      "total_price": 8.0,
+      "category": "Food and Beverage",
+      "accounting_category": "Meal",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Spicy Shrimp",
+      "quantity": 1,
+      "unit_price": 20.0,
+      "total_price": 20.0,
+      "category": "Food and Beverage",
+      "accounting_category": "Meal",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Steamed Fish Lg",
+      "quantity": 1,
+      "unit_price": 25.0,
+      "total_price": 25.0,
+      "category": "Food and Beverage",
+      "accounting_category": "Meal",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Bottled Water",
+      "quantity": 2,
+      "unit_price": 2.0,
+      "total_price": 4.0,
+      "category": "Beverage",
+      "accounting_category": "Drink",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1152-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KALOOKI'S\nb-2 03/14/2015 8:12 PM\n0 cts 5300\nDine In Denice\n# Item Unit Price\n1 Chicken Fingers 8.00 8.00\n1 Spicy Shrimp 20.00 20.00\n1 Steamed Fish Lg 25.00 25.00\n2 Bottled Water 2.00 4.00\nSubtotal 57.00\nService Charge 10% 5.70\nTotal $ 62.70\nThank You\nKalooki's\nBay Road, Blue Hills\n01469 Providenciales\n6493323388"
+  }
+}

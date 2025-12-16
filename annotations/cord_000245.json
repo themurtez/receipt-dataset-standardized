@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 208000.0,
+    "tax": 22048.0,
+    "tip": 0.0,
+    "total": 242528.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BLACK PRAWN PASTA",
+      "quantity": 1,
+      "unit_price": 80500.0,
+      "total_price": 80500.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CARBONARA",
+      "quantity": 1,
+      "unit_price": 70500.0,
+      "total_price": 70500.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "EARL GREY MILK TEA",
+      "quantity": 1,
+      "unit_price": 57000.0,
+      "total_price": 57000.0,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000245.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 BLACK PRAWN PASTA 80,500\n1 CARBONARA 70,500\n1 EARL GREY MILK TEA 57,000\nSUBTTL 208,000\nSVC CHG 6% 12,480\nPB1 10% 22,048\nTOTAL 242,528"
+  }
+}

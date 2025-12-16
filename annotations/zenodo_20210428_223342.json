@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Iluminadora de S. Mamede",
+    "address": "Rua Nova de São Mamede nº 58\n1250-173 Lisboa",
+    "phone": "",
+    "tax_id": "500482454",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-15",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "Dinheiro",
+    "subtotal": 2.85,
+    "tax": 0.66,
+    "tip": 0.0,
+    "total": 3.51,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.85
+  },
+  "items": [
+    {
+      "name": "EXTENSAO COAXIA",
+      "quantity": 1,
+      "unit_price": 2.85,
+      "total_price": 2.85,
+      "category": "Cables",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_223342.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "*** ILUMINADORA DE S. MAMEDE ***\nMario Bento dos Santos Lda\nRua Nova de São Mamede nº 58\n1250-173 Lisboa\nNIF: 500482454\n\nFatura Simplificada\nDocumento No:06/1047 Data:2019-05-15\nIUD:T09 LO6/1047 Original\n\nCliente: FEELSLIKEHOLME LDA\nNIF: 510776914\n\nDESIGNACAO QTD P.U. IVA VALOR\n\nEXTENSAO COAXIA 1,0 2,85 23 2,85\n\nTotal Iliquido ..........: 2,85\nTotal Descontos .........: 0,00\nTotal IVA ...............: 0,66\nTOTAL A PAGAR ...........: 3,51\n\nPagamentos Efectuados Total\n\nDinheiro ...............: EUR 3,51\nTotal Recebido .........: EUR 3,51\nTroco ..................: EUR 0,00\n\nTaxa de IVA Incidencia Valor do IVA\n\n23,00 2,85 0,66\n\nArt.36 do CIVA - Bens colocados a\ndisposição do adquirente nesta data.\n\neriK-Processado por Programa Certificado\nNº 0145/AT\n\n----------- CX:001 OP:DIOG ------------\n* OBRIGADO PELA VISITA * VOLTE SEMPRE *\n\nGestware POS - Solucoes de Gestao"
+  }
+}

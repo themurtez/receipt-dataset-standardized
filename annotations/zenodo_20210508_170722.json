@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Worten",
+    "address": "Edificio Amoreiras Plaza, Rua Maria Ulrich, 1, 1070-169 Lisboa",
+    "phone": "",
+    "tax_id": "PT503630330",
+    "website": "www.worten.pt"
+  },
+  "transaction": {
+    "date": "2018-11-20",
+    "time": "17:02:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 32.51,
+    "tax": 7.48,
+    "tip": 0.0,
+    "total": 39.99,
+    "accounting_category": "Electronics",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "5601982852299 IRRAD.0EU",
+      "quantity": 1,
+      "unit_price": 33.99,
+      "total_price": 33.99,
+      "category": "Domestic Appliances",
+      "accounting_category": "Electronics",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_170722.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Worten\nVRT Amoreiras\nWORTEN Equipamentos para o Lar SA\nEdificio Amoreiras Plaza, Rua Maria Ulrich, 1 1070-169\nLisboa\nRegistada CRC Porto sob no 503630330\nNIPC: 503630330\nC.S: 4.600.000,00 EUR SIRMAPEE: PT001257\nNota de Devolucao Original\nNro: NC HRX006/003311 20/11/2018 17:02\nReferente a Fatura Nro: FS HRX003/002625\nNIF: P1510776914\nDESCRICAO VALOR\nPequenos Domestic.\n(C) 5601982852299 IRRAD.0EU\nKUNF12000W KOR-\n39,99\nTOTAL 39,99\nNumerario 39,99\nTROCO 0,00\nOperador\nPermanencia\nCliente\n23,00% 32,51 7,48 39,99\nFMAA-Processado por programa certificado\nN. 1356/\n5198 0906 23177 179517 - 100120287505732\nIVA INCLUÍDO\nTalao Indispensavel para troca\nPrazo de devolucao: 15 dias\n** OBRIGADO **\nNão estão abrangidos pela politica de\nsatisfacao/devolucao os artigos com\nativação em caixa\nPara mais informaçães consultar\nwww.worten.pt"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "AEON CO. (M) BHD",
+    "address": "3RD FLR, AEON TAMAN MALURI SC, JLN JEJAKA, TAMAN MALURI, CHERAS, 55100 KUALA LUMPUR",
+    "phone": "1-300-80-AEON (2366)",
+    "tax_id": "002017394688",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-20",
+    "time": "20:48:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 46.54,
+    "tax": 2.64,
+    "tip": 0.0,
+    "total": 46.55,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CISSY CRACKER",
+      "quantity": 1,
+      "unit_price": 7.74,
+      "total_price": 7.74,
+      "category": "Groceries",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "NIVEA SUN LOTI",
+      "quantity": 1,
+      "unit_price": 38.8,
+      "total_price": 38.8,
+      "category": "Personal Care",
+      "accounting_category": "Personal Care",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.01,
+    "change_due": 53.45
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006414718.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AEON CO. (M) BHD (126926-H)\n3RD FLR, AEON TAMAN MALURI SC\nJLN JEJAKA, TAMAN MALURI\nCHERAS, 55100 KUALA LUMPUR\nGST ID : 002017394688\nSHOPPING HOURS\nSUN-THU:1000 HRS - 2200 HRS\nFRI-SAT:1000 HRS - 2300 HRS\n1x 000001010646\nCISSY CRACKER 7.74SR\n1x 000002336695\nNIVEA SUN LOTI 38.80SR\nSub-total 46.54\nTotal Sales Incl GST 46.54\nRounding Adj 0.01\nTotal After Adj Incl GST 46.55\nCASH 100.00\nItem Count 2 Change Amt 53.45\nInvoice No: 2018042010090010411\nGST Summary Amount Ta.\nSR @ 6% 43.90 2.64\nTotal 43.90 2.64\n20/04/2018 20:48 1009 001 0010411\n0276649 ZUIKARNAIN\nAEON TAMAN UNIVERSITI\nTEL 1-300-80-AEON (2366)\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN"
+  }
+}

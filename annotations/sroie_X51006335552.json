@@ -1,0 +1,154 @@
+{
+  "merchant": {
+    "name": "YONG SOON FATT S/B",
+    "address": "LOT 1504, BATU 8 1/2, JALAN KLANG LAMA, 46000 PETALING JAYA, SELANGOR.",
+    "phone": "016-2010209",
+    "tax_id": "000788256624",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-06-02",
+    "time": "12:42:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 758.7,
+    "tax": 26.12,
+    "tip": 0.0,
+    "total": 758.7,
+    "accounting_category": "Goods",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "KCL SOH HOON 5KG",
+      "quantity": 1,
+      "unit_price": 31.5,
+      "total_price": 31.5,
+      "category": "Grocery",
+      "accounting_category": "Goods",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "RAMANG PUTIH",
+      "quantity": 1,
+      "unit_price": 37.5,
+      "total_price": 37.5,
+      "category": "Grocery",
+      "accounting_category": "Goods",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "AI BIHUN ISTIMEWA 3KG",
+      "quantity": 5,
+      "unit_price": 10.0,
+      "total_price": 50.0,
+      "category": "Grocery",
+      "accounting_category": "Goods",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ABC TEPUNG UBI KAYU 1KG",
+      "quantity": 1,
+      "unit_price": 27.0,
+      "total_price": 27.0,
+      "category": "Grocery",
+      "accounting_category": "Goods",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "LIMA GAJAH TEPUNG BERAS 500",
+      "quantity": 1,
+      "unit_price": 26.8,
+      "total_price": 26.8,
+      "category": "Grocery",
+      "accounting_category": "Goods",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ALISHAN YOUNG CORN 425GM",
+      "quantity": 1,
+      "unit_price": 52.0,
+      "total_price": 52.0,
+      "category": "Grocery",
+      "accounting_category": "Goods",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "NEW SUN BUTTON MUSHROOM 425",
+      "quantity": 1,
+      "unit_price": 58.0,
+      "total_price": 58.0,
+      "category": "Grocery",
+      "accounting_category": "Goods",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "RAMBUTAN DEDIC GST 5% 10KG",
+      "quantity": 4,
+      "unit_price": 36.0,
+      "total_price": 154.0,
+      "category": "Grocery",
+      "accounting_category": "Goods",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "DAIRY CHAMP EVAF 390GM",
+      "quantity": 1,
+      "unit_price": 113.9,
+      "total_price": 113.9,
+      "category": "Grocery",
+      "accounting_category": "Goods",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "LIFE SOS CILI 340GM",
+      "quantity": 1,
+      "unit_price": 63.6,
+      "total_price": 63.6,
+      "category": "Grocery",
+      "accounting_category": "Goods",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MAGGI SOS TOMATO 325GM",
+      "quantity": 1,
+      "unit_price": 42.2,
+      "total_price": 62.2,
+      "category": "Grocery",
+      "accounting_category": "Goods",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "LIFE SOS CILI 500GM",
+      "quantity": 1,
+      "unit_price": 41.2,
+      "total_price": 41.2,
+      "category": "Grocery",
+      "accounting_category": "Goods",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MAGGI SOS TOMATO 475GM",
+      "quantity": 1,
+      "unit_price": 39.0,
+      "total_price": 39.0,
+      "category": "Grocery",
+      "accounting_category": "Goods",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 13,
+    "rounding": 0.0,
+    "change_due": 1.3
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006335552.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "YONG SOON FATT S/B (81497-P)\nLOT 1504, BATU 8 1/2, JALAN KLANG LAMA,\n46000 PETALING JAYA, SELANGOR.\nTEL : 016-2010209\nGST REG NO : 000788256624\nTAX INVOICE\nDESC QTY PRICE AMOUNT TAXCODE\n(RM) (RM)\n011100029 KCL SOH HOON 5KG\n1 CTN 31.50 31.50 SR\n070100004 RAMANG PUTIH\n1 KG 37.50 37.50 ZRL\n51190030 AI B1HUN ISTIMEWA 3KG\n5 PKT 10.00 50.00 ZRL\n01000052 ABC TEPUNG UBI KAYU 1KG\n1 CTN 27.00 27.00 ZRL\n50100010 L1MA GAJAH TEPUNG BERAS 500\n1 CTN 26.80 26.80 ZRL\n012700007 ALISHAN YOUNG CORN 425GM\n1 CTN 52.00 52.00 SR\n012700100 NEW SUN BUTTON MUSHROOM 425G\n1 CTN 58.00 58.00 SR\nP3010 RAMBUTAN DEDIC GST 5% 10KG\n4 PKT 36.00 154.00 ZRL\n50440020 DAIRY CHAMP EVAF 390GM\n1 CTN 113.90 113.90 SR\n010700098 LIFE SOS CILI 340GM\n1 CTN 63.60 63.60 SR\n010700060 MAGGI SOS TOMATO 325GM\n1 CTN 62.20 42.20 SR\n010700031 LIFE SOS CILI 500GM\n1 CTN 41.20 41.20 SR\n010700057 MAGGI SOS TOMATO 475GM\n1 CTN 39.00 39.00 SR\nTotal Inc. GST 6% : 758.70\nRounding Adjustment : 0.00\nFinal Total :  758.70\nCash : 760.00\nChange : 1.30\nGST Summary Amount(RM) Tax(RM)\nSR 6 % 435.29 26.12\nZRL 0 % 297.30 0.00\nC01099879 6/2/2017 12:42 PM\nT02 2002\n758.70"
+  }
+}

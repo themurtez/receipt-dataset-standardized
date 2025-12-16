@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "YHM Aeon Tebrau City",
+    "address": "S117, Second Floor, Aeon Tebrau City, 1, Jalan Desa Tebrau, Taman Desa Tebrau, 81100 Johor Bahru, Johor",
+    "phone": "",
+    "tax_id": "002105827328",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-17",
+    "time": "19:13:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 77.18,
+    "tax": 4.62,
+    "tip": 0.0,
+    "total": 81.8,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Green Tea",
+      "quantity": 2,
+      "unit_price": 1.5,
+      "total_price": 3.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chikuwa Tempura",
+      "quantity": 1,
+      "unit_price": 3.8,
+      "total_price": 3.8,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Karaage",
+      "quantity": 1,
+      "unit_price": 3.8,
+      "total_price": 3.8,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Otm Spicy Yakiniku Bowl R",
+      "quantity": 1,
+      "unit_price": 16.8,
+      "total_price": 16.8,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Otm Spicy Teri Chicken Bowl R",
+      "quantity": 1,
+      "unit_price": 16.8,
+      "total_price": 16.8,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Otm Tori Katsu Set",
+      "quantity": 1,
+      "unit_price": 18.8,
+      "total_price": 18.8,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Otm Tori Katsu Set",
+      "quantity": 1,
+      "unit_price": 18.8,
+      "total_price": 18.8,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 3.2
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006414713.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "YHM Aeon Tebrau City\nS117, Second Floor,\nAeon Tebrau City,\n1, Jalan Desa Tebrau,\nTaman Desa Tebrau,\n81100 Johor Bahru, Johor.\n002105827328\n* TAX INVOICE *\nOrder No. 1000070 17/04/2018 07:13 PM\nReceipt No.:003-1227834 Pax: 1\nCashier :Cashier\nEat In\n-----------------------------------------------\nItem Qty U.Price Amount Tax\nFG-A00019 2 1.50 3.00 SR\nGreen Tea\nFG-H00027 1 3.80 3.80 SR\nChikuwa Tempura\nFG-H00030 1 3.80 3.80 SR\nKaraage\nFG-Y00133 1 16.80 16.80 SR\nOtm Spicy Yakiniku Bowl R\nFG-Y00226 1 16.80 16.80 SR\nOtm Spicy Teri Chicken Bowl R\nFG-Y00229 1 18.80 18.80 SR\nOtm Tori Katsu Set\nFG-Y00268 1 0.00 0.00 SR\nKatsu Sauce\nFG-Y00264 1 0.00 0.00 SR\nMiso Soup\nFG-Y00229 1 18.80 18.80 SR\nOtm Tori Katsu Set\nFG-Y00267 1 0.00 0.00 SR\nTaru Taru Sauce\nFG-Y00265 1 0.00 0.00 SR\nWakame Soup\n------------------------------------------------\nSubTotal : 81.80\nTotal : 81.80\nTOTAL:MYR 81.80\nTotal Excluded Tax : 77.18\n 4.62\nPayment Details\nCash 85.00\nCash Change 3.20\nTax Summary\nTax Code % Amount(MYR) Tax(MYR)\nSR 6 77.18 4.62\n*** Thank You ****\nPlease Come Again."
+  }
+}

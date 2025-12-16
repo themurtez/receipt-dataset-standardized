@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Pappadeaux Seafood Kitchen",
+    "address": "1304 Copeland Rd, Arlington, TX 76011",
+    "phone": "(817) 543-0544",
+    "tax_id": "",
+    "website": "www.pappadeaux.com"
+  },
+  "transaction": {
+    "date": "2017-11-18",
+    "time": "12:45:00",
+    "currency": "USD",
+    "payment_method": "e-Gift Card",
+    "subtotal": 48.85,
+    "tax": 3.91,
+    "tip": 0.0,
+    "total": 52.76,
+    "accounting_category": "Meals & Entertainment",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Lump Crab & Spinach Dip",
+      "quantity": 1,
+      "unit_price": 15.95,
+      "total_price": 15.95,
+      "category": "Appetizer",
+      "accounting_category": "Meals & Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cajun Combo",
+      "quantity": 1,
+      "unit_price": 18.95,
+      "total_price": 18.95,
+      "category": "Entree",
+      "accounting_category": "Meals & Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lunch Shrimp & Andouille",
+      "quantity": 1,
+      "unit_price": 13.95,
+      "total_price": 13.95,
+      "category": "Entree",
+      "accounting_category": "Meals & Entertainment",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1036-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PAPPADEAUX SEAFOOD KITCHEN\nPappadeaux Seafood Kitchen (030)\n1304 Copeland Rd, Arlington, TX 76011\n(817) 543-0544\nwww.pappadeaux.com\n0035 Table 72 #Party 3\nSARAH H\nSvrcK: 2 12:11 11/18/17\nDINE IN\n1 Lump Crab & Spinach Dip 15.95\n1 Cajun Combo 18.95\n1 Lunch Shrimp & Andouille 13.95\nSub Total: 48.85\nTax: 3.91\nSub Total: 52.76\n11/18 12:45 TOTAL: 52.76\nThank you for dining at Pappadeaux.\nTip Not Included\n15% 7.91\n18% 9.50\n20% 10.55\ne-Gift Card Payment (19 Digits)\nPresent e-Gift Card for validation.\n"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 49541.0,
+    "tax": 4954.1,
+    "tip": 0.0,
+    "total": 54500.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Cheese Tart Original Premium",
+      "quantity": 1,
+      "unit_price": 16360.0,
+      "total_price": 16360.0,
+      "category": "Dessert",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "FL Mille Crepes - Damier SLC",
+      "quantity": 1,
+      "unit_price": 33181.0,
+      "total_price": 33181.0,
+      "category": "Dessert",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 4.9,
+    "change_due": 1000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000778.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Cheese Tart Original Premium 16,360\n1 FL Mille Crepes - Damier SLC 33,181\nTotal Menu 2\nSUBTOTAL 49,541\nDISKON 0\nBIAYA TAMBAHAN 0\nPAJAK PPN 10% 4,954.1\nPAJAK 0% 0\nBIAYA CC 0\nPEMBULATAN 4.9\nTOTAL 54,500\nTUNAI 55,500\nNON TUNAI 0\nKEMBALI 1,000"
+  }
+}

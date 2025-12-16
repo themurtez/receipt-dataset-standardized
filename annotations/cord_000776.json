@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "BAKS",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "CASH",
+    "subtotal": 60909.0,
+    "tax": 6091.0,
+    "tip": 0.0,
+    "total": 67000.0,
+    "accounting_category": "Meals and Entertainment",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Nasgor Jawa",
+      "quantity": 1,
+      "unit_price": 32727.0,
+      "total_price": 32727.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Jeruk Panas",
+      "quantity": 1,
+      "unit_price": 19091.0,
+      "total_price": 19091.0,
+      "category": "Beverage",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Air Mineral",
+      "quantity": 1,
+      "unit_price": 9091.0,
+      "total_price": 9091.0,
+      "category": "Beverage",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000776.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Nasgor Jawa         32.727\n1 Jeruk Panas         19.091\n1 Air Mineral           9.091\nNet Total               60.909\nP. Resto 10%            6.091\nTotal                  67.000\nCASH\n67.000"
+  }
+}

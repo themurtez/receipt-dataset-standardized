@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "YIN MA (M) SDN.BHD.",
+    "address": "No.2, Jalan Udang Siar 2, Taman Sri Segambut, 52000 Kuala Lumpur.",
+    "phone": "",
+    "tax_id": "000119906304",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-07-19",
+    "time": "13:25:00",
+    "currency": "RM",
+    "payment_method": "Cash",
+    "subtotal": 13.7,
+    "tax": 0.8,
+    "tip": 0.0,
+    "total": 14.5,
+    "accounting_category": "Retail",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "HOOK-3015",
+      "quantity": 4,
+      "unit_price": 2.9,
+      "total_price": 11.6,
+      "category": "General Merchandise",
+      "accounting_category": "Retail",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "TOILET BRUSH-1",
+      "quantity": 1,
+      "unit_price": 2.9,
+      "total_price": 2.9,
+      "category": "Household",
+      "accounting_category": "Retail",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 1.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619790.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "YIN MA (M) SDN.BHD.(974306-T)\nNO.2, JALAN UDANG SIAR 2,\nTAMAN SRI SEGAMBUT,\n52000 KUALA LUMPUR.\nGST REG NO.:000119906304\n\nInvoice No : 48333\nDate : 19 Jul 2016 01:25pm\nCounter : 401\n\n6928835430158 HOOK-3015 2.90 S\n6928835430158 HOOK-3015 2.90 S\n9555221301524 TOILET BRUSH-1 2.90 S\n6928835430158 HOOK-3015 2.90 S\n6928835430158 HOOK-3015 2.90 S\n\nNo of items: 5\nTotal Incl. GST:RM 14.50\nCash:RM 15.50\nChange:RM 1.00\n\nServed by YINMA SEGAMBUT\n\n************** GST Summary **************\nGST Code Amount(RM) Tax(RM)\nS @6.0% 13.70 0.80\n************** GST Summary **************\nRef No:00500056044048333\nEXCHANGE ARE ALLOWED WITHIN 3 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND.\nTHANK YOU.\nWELCOME AGAIN."
+  }
+}

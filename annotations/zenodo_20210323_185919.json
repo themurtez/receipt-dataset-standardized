@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "DROGARIA SEMINO",
+    "address": "SEMINO 8125-303 QUARTEIRA",
+    "phone": "289 380 171",
+    "tax_id": "502673700",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-25",
+    "time": "15:37:00",
+    "currency": "EUR",
+    "payment_method": "VISA",
+    "subtotal": 24.02,
+    "tax": 5.53,
+    "tip": 0.0,
+    "total": 29.55,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SILCA - CHAVE YA",
+      "quantity": 2,
+      "unit_price": 1.25,
+      "total_price": 2.5,
+      "category": "Hardware",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SILCA - CHAVE TE",
+      "quantity": 2,
+      "unit_price": 1.75,
+      "total_price": 3.5,
+      "category": "Hardware",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SILCA - CHAVE PONTOS",
+      "quantity": 2,
+      "unit_price": 7.6,
+      "total_price": 15.2,
+      "category": "Hardware",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SILCA - CHAVE PONTOS",
+      "quantity": 1,
+      "unit_price": 7.6,
+      "total_price": 7.6,
+      "category": "Hardware",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_185919.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "DROGARIA SEMINO\nSOC.FERRAMENTAS FERRAGENS SEMINO LDA\nMATERIAIS DE CONSTRUCAO - FERRAMENTAS\nSEMINO 8125-303 QUARTEIRA TEL: 289 380 171\nNIF: 502673700 CA. S0. 5000EU CRC 2545 LOULE\nFAX 289388200 EMAIL srfsseminosapo.pt\nCliente\nContri: 514407395\nFatura Simplificada\nNatureza: Fatura Simplificada\n2019-02-25 15:37 JOAQUIM BATISTA\nFS 2/36035 Original Ter:3\nQuant. Fr. Unit. IVA Desc. Total\n903.0090 SILCA - CHAVE YA 31 2\n1,25 23% 2,50\n903.0091 SILCA - CHAVE TE - 8XFA\n2 1,75 23% 3,50\n903.1059 SILCA - CHAVE PONTOS UC - 5R\n2 7,60 23% 15,20\n903.1054 SILCA - CHAVE PONTOS IE -26\n1 7,60 23% 7,60\nItens: 5\nTotal 29,55 EUR\nForma Pag. VISA 29,55\nIva Incluido a Taxa Indicada\nTaxa Valor Iva Base Imp. Valor Total\n23% 5,53 24,02 29,55\nZnK processado por programa certificado\nn? 2/AT - Sage\nEste documento nao constitui documento d\ne transporte, nos termos do Decreto-Lei\nn.o 147/2003"
+  }
+}

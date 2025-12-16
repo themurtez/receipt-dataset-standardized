@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "The Golden Pear Cafe",
+    "address": "East Hampton, NY",
+    "phone": "(631) 329-1600",
+    "tax_id": "",
+    "website": "www.goldenpearcafe.com"
+  },
+  "transaction": {
+    "date": "2015-08-06",
+    "time": "11:01:00",
+    "currency": "USD",
+    "payment_method": "Visa",
+    "subtotal": 22.7,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 22.7,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Unknown",
+      "quantity": 1,
+      "unit_price": 22.7,
+      "total_price": 22.7,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1164-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "the\ngolden\nSpear\nCafe\nEast Hampton , NY\n(631) 329-1600\nFax (631) 329-1648\nwww.goldenpearcafe.com\nDate: Aug06'15 11:01AM\nCard Type: Visa\nAcct #: XXXXXXXXXXXX1779\nExp Date: XX/XX\nAuth Code: 08116C\nCheck #: 9391\nCheck ID: CHINO\nServer: 5 Karina\nSubtotal: 22.70\nTip: ________________\nTotal ______________\nSignature ______________\nI agree to pay above total\naccording to my card issuer\nagreement.\nCustomer Copy"
+  }
+}

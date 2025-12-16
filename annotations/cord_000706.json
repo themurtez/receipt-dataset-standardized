@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "BINTANG JUICE",
+    "address": "TAMAN BUMI AYU BLOK S 3",
+    "phone": "0812 389609",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-08-01",
+    "time": "19:13:00",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 20000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 20000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SIRSAK",
+      "quantity": 1,
+      "unit_price": 10000.0,
+      "total_price": 10000.0,
+      "category": "Juice",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SUNKIST",
+      "quantity": 1,
+      "unit_price": 10000.0,
+      "total_price": 10000.0,
+      "category": "Juice",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000706.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BINTANG JUICE\nTAMAN BUMI AYU BLOK S 3\nTELP: 0812 389609\n\nREC 01-08-2019 19:13 000048\n\n1 SIRSAK 10,000\n1 SUNKIST 10,000\n\nTOTAL 2 QT 20,000\nCASH 20,000\nTERIMA KASIH"
+  }
+}

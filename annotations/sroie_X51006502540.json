@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Gerbang Alaf Restaurants Sdn Bhd",
+    "address": "Level 6, Bangunan TH, Damansara Uptown3 No.3, Jalan SS21/39, 47400 Petaling Jaya, Selangor",
+    "phone": "03-2021-5235",
+    "tax_id": "000504664064",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-27",
+    "time": "15:20:22",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 109.05,
+    "tax": 6.17,
+    "tip": 0.0,
+    "total": 109.05,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "M Nasi Lemak Burger",
+      "quantity": 4,
+      "unit_price": 18.95,
+      "total_price": 75.8,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "M Fries",
+      "quantity": 6,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "M 100Plus",
+      "quantity": 4,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "M McC Deluxe",
+      "quantity": 2,
+      "unit_price": 14.5,
+      "total_price": 29.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "M Coke",
+      "quantity": 2,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MDS Charge",
+      "quantity": 1,
+      "unit_price": 4.25,
+      "total_price": 4.25,
+      "category": "Service Charge",
+      "accounting_category": "Service",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 16,
+    "rounding": 0.0,
+    "change_due": 40.95
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006502540.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "***** DUPLICATE *****\nGerbang Alaf Restaurants Sdn Bhd\n(65351-M)\nLicensee of McDonald's\nLevel 6, Bangunan TH, Damansara Uptown3\nNo.3, Jalan SS21/39, 47400 Petaling Jaya Selangor\n(GST ID No: 000504664064)\nMcDonald's Silang(#005)\nTel No. 03-2021-5235\nTAX INVOICE\nMFY Side 1\nINV# 000051300003910\nORD #17 -REG #13- 27/04/2018 15:20:22\nQTY ITEM TOTAL\n4 M Nasi Lemak Burger 75.80\n4 M Fries\n4 M 100Plus\n2 M McC Deluxe 29.00\n2 M Coke\n2 M Fries\n1 MDS Charge 4.25\nOther Total (incl GST) 109.05\nTotal Rounded 109.05\nCash Tendered 150.00\nChange 40.95\nTOTAL INCLUDES 6% GST 6.17\nThank You and Please Come Again.\nGuest Relations Center : 1300-13-1300"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Pasaraya Cinwa Sdn Bhd",
+    "address": "No.6, 8, 10 & 12 Jalan Permas 4/3, Bandar Baru Permas Jaya, 81750 Johor Bahru, Johor.",
+    "phone": "07-3881722",
+    "tax_id": "000931172352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-15",
+    "time": "09:40:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 14.2,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 14.2,
+    "accounting_category": "Retail",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Yellow Rock Sugar 250G",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Grocery",
+      "accounting_category": "Retail",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Green Bean 280G",
+      "quantity": 1,
+      "unit_price": 2.8,
+      "total_price": 2.8,
+      "category": "Grocery",
+      "accounting_category": "Retail",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Royal Umbrella Beras Wangi 1KG",
+      "quantity": 1,
+      "unit_price": 8.9,
+      "total_price": 8.9,
+      "category": "Grocery",
+      "accounting_category": "Retail",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 6.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007846350.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PASARAYA CINWA SDN BHD\n(1113440A)\nNO.6, 8, 10 & 12 JALAN PERMAS 4/3\nBANDAR BARU PERMAS JAYA,\n81750 JOHOR BAHRU,JOHOR.\nTEL : 07-3881722 FAX : 07-3873971\nGST ID : 000931172352\nTAX INVOICE\nDoc No. : CS01076695 Date: 15/06/2018\nCashier : JULIANA Time: 09:40:00\nSalesperson : JULIANA Ref.:\nItem Qty S/Price (GST) S/Price Amt (GST) Amt Tax\n9557821042500 1 2.50 2.50 2.50 SR0\nYELLOW ROCK SUGAR 250G\n2200056 1 2.80 2.80 2.80 SR0\nGREEN BEAN 280G\n9556894200000E 1 8.90 8.90 8.90 SR0\nROYAL UMBRELLA BERAS WANGI 1KG\nTotal Qty: 14.20\nTotal Sales (Excluding GST): 14.20\nDiscount : 0.00\nTotal GST : 0.00\nRounding : 0.00\nTotal Sales (Inclusive of GST) : 14.20\nCASH : 20.20\nChange : 6.00\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR0 0 14.20 0.00\nTotal: 14.20 0.00\nGOODS SOLD ARE NOT RETURNABLE. THANK YOU\n** RE-PRINT **"
+  }
+}

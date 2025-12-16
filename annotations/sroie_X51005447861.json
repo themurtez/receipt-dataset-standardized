@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Popular Book Co. (M) Sdn Bhd",
+    "address": "No 8, Jalan 7/118B, Desa Tun Razak, 56000 Kuala Lumpur, Malaysia",
+    "phone": "03-9201 6281/6920",
+    "tax_id": "001492992000",
+    "website": "www.popular.com.my"
+  },
+  "transaction": {
+    "date": "2018-03-01",
+    "time": "19:14:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 47.21,
+    "tax": 2.18,
+    "tip": 0.0,
+    "total": 49.39,
+    "accounting_category": "Books & Stationery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TOMBOW C/Tape CX5N",
+      "quantity": 2,
+      "unit_price": 9.89,
+      "total_price": 19.78,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "L11 X-VENTURE UNEXPLA[BK]",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Books",
+      "accounting_category": "Books & Magazines",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PU EXPANDING FILE-TS",
+      "quantity": 1,
+      "unit_price": 20.9,
+      "total_price": 20.9,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.01,
+    "change_due": 0.6
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005447861.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "POPULAR BOOK CO. (M) SDN BHD\n(Co. No. 113825-W)\n(GST Reg No. 001492992000)\nNo 8, Jalan 7/118B, Desa Tun Razak\n56000 Kuala Lumpur, Malaysia\nSUNWAY VELOCITY\nTel : 03-9201 6281/6920\n\n01/03/18 19:14 Slip No.: 0010104733\nWONG PEI YI Trans: 114793\n\nMember Card No: 2008011381468\nCard Expiry: 30/09/18\n\nDescription Amount\n\nTOMBOW C/Tape CX5N\n2pc @ 9.89 19.78 T\nSpring Issue 20% Reba\n\nL11 X-VENTURE UNEXPLA[BK] 12.00 Z\nMember Discount -1.20\nPU EXPANDING FILE-TS 20.90 T\nMember Discount -2.09\n\nTotal RM Incl. of GST 49.39\nRounding Adj 0.01\nTotal RM 49.40\nCash -50.00\nCHANGE 0.60\n\nItem Count 5\nGST Summary Amount (RM) Tax (RM)\nT @ 6% 36.41 2.18\nZ @ 0% 10.80 0.00\n\nTotal Savings -3.29\n\nBE A POPULAR CARD MEMBER AND ENJOY SPECIAL DISCOUNTS\nTHANK YOU. PLEASE COME AGAIN.\nwww.popular.com.my\nBuy Chinese books online\nwww.popularonline.com.my"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Autovidreira, LDA",
+    "address": "Rua Prior dos Negros\n1200-365 Lisboa",
+    "phone": "213304039",
+    "tax_id": "500487090",
+    "website": "www.autovidreira.com"
+  },
+  "transaction": {
+    "date": "2019-03-18",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 15.45,
+    "tax": 3.55,
+    "tip": 0.0,
+    "total": 19.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Espelho 3mm",
+      "quantity": 1,
+      "unit_price": 19.0,
+      "total_price": 19.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_150345.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Autovidreira, LDA\n500487090\nRua Prior dos Negros\n1200-365 Lisboa\nTel: 213304039\nFax:\nCli.: 510776914\nFlikehome\n510776914\nFatura simplificada\nFS N.121  Data: 2019-03-18\nMoeda: EUR  Cambio: 1\nRec. por Multibanco: 19,00\n\nCod. do Artigo - Descricao\nQuant.  X Preco IVA Total\n0003E   Espelho 3mm\n1,00 X  19,00 23,0 19,00\n\nCred. Devolucoes    : 0,00\nTotal Ilquido       : 15,45\nTotal Descontos     : 0,00\nTotal de IVA        : 3,55\nTotal Liquido       : 19,00\nTotal Alternativo   : 19,00 EUR\n\nIVA\n\nTaxa Incidencia  Valor Motivo\n23,0  15,45 3,55\n\nMUITO OBRIGADO\n\nVisite-nos em\nwww.autovidreira.com\nautovidreira.com"
+  }
+}

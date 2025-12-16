@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Famous Artisan Bakery",
+    "address": "Mall Kelapa Gading 3",
+    "phone": "021",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 47.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 47.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Choco Bun",
+      "quantity": 1,
+      "unit_price": 22.0,
+      "total_price": 22.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Maple Glazed",
+      "quantity": 1,
+      "unit_price": 25.0,
+      "total_price": 25.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Plastic Bag Medium",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Miscellaneous",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.7
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 3.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000342.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "FAMOUS ARTISAN BAKERY\nMall Kelapa Gading 3\nReceipt\n1001-Choco Bun\n22.000 x1 22.000\n4005-Maple glazed\n25.000 x1 25.000\n6002-Plastic Bag Medium\n0 x1 0\nTotal Item: 3\nTotal: 47.000\nCash Tendered: 50.000\nChange: 3.000"
+  }
+}

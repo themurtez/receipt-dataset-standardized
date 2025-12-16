@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "UNIPHARM PHARMACY",
+    "address": "B12, Jalan SS 15/4D, 47500 Subang Jaya",
+    "phone": "03-5635 1892 / 03-5611 6279",
+    "tax_id": "001123352576",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-05",
+    "time": "12:49:11",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 23.49,
+    "tax": 1.41,
+    "tip": 0.0,
+    "total": 24.9,
+    "accounting_category": "Medical Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "DRESSING SETS 3 FORCEP",
+      "quantity": 2,
+      "unit_price": 2.36,
+      "total_price": 4.72,
+      "category": "Medical Supplies",
+      "accounting_category": "Medical Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BURNSHIELD HYDROGEL 25ML",
+      "quantity": 1,
+      "unit_price": 18.77,
+      "total_price": 18.77,
+      "category": "Medical Supplies",
+      "accounting_category": "Medical Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007225406.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "UNIPHARM PHARMACY\nB12, Jalan SS 15/4D,\n47500 Subang Jaya.\n03-5635 1892 / 03-5611 6279\nGST Reg: 001123352576\nTAX INVOICE\nCB# : 212039 05/Apr/2018 12:49:11 pm\nCashier : manager\nQty Code&Desc @Price Total\n2 347959 2.36 4.72 SR\nDRESSING SETS 3 FORCEP\n1 2266 18.77 18.77 SR\nBURNSHIELD HYDROGEL 25ML\n3 Type: 2 Subtotal 23.49\nGST 6% 1.41\nRounding Adj 0.00\nTotal Inclusive GST 24.90\nCASH 00\nChange : 10\nGST Summary\nCode Amount (MYR) GST (MYR)\nSR 6% 23.49 1.41\nTotal 23.49 1.41\nbuy F aidThank you.\nPlease come again.\nGoods sold non returnable"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Auchan",
+    "address": "Alameda dos Oceanos, Lt. 1.06.1.01, 1990-223 Lisboa, Portugal",
+    "phone": "707 20 7060",
+    "tax_id": "PT500 208 537",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2015-10-18",
+    "time": "19:15:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 6.39,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 6.39,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Vendas de Sacos",
+      "quantity": 1,
+      "unit_price": 0.1,
+      "total_price": 0.1,
+      "category": "Bags",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "12 Filete Pescada 750G",
+      "quantity": 2,
+      "unit_price": 2.6,
+      "total_price": 5.2,
+      "category": "Frozen Food",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_162551.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AUCHAN AMOREIRA\nALD. T.4/GAST.\nTax: 71303570 - Fax: 213854709\nALDEIA DAS OCEANOS, LT. 1.06.1.01,\nLISBOA.\nTel. 707 20 7060\nC.P. 0000381\nIBEROG.\nN.V. 4569\nData Emissao: 2015-10-18 19:15\n\nVendas de Sacos\n0.10\n12 Filete Pescada 750G\n2.60\n\nIVA:\nTaxa 0% Incid 6.39\n\nAT\nMUN: 181018\nLoja: 8\nOperador: 123456\n\nImpressao por programa\nFALTI. 1108/AT\n\nPara melhorar o nosso servico\n\nDe-nos a sua opinini através do\nQRcode"
+  }
+}

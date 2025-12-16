@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "AEON CO. (M) BHD",
+    "address": "3RD FLR, AEON TAMAN MALURI SC, JLN JEJAKA, TAMAN MALURI, CHERAS, 55100 KUALA LUMPUR",
+    "phone": "1-300-80-AEON (2366)",
+    "tax_id": "002017394688",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-07-09",
+    "time": "17:01:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 23.8,
+    "tax": 1.33,
+    "tip": 0.0,
+    "total": 23.8,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "COLD WATER BOTT",
+      "quantity": 4,
+      "unit_price": 5.9,
+      "total_price": 23.6,
+      "category": "Beverage",
+      "accounting_category": "Retail",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "PLASTICS BAG",
+      "quantity": 1,
+      "unit_price": 0.2,
+      "total_price": 0.2,
+      "category": "Miscellaneous",
+      "accounting_category": "Retail",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 27.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006857132.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AEON CO. (M) BHD (126926-H)\n3RD FLR, AEON TAMAN MALURI SC\nJLN JEJAKA, TAMAN MALURI\nCHERAS, 55100 KUALA LUMPUR\nGST ID : 002017394688\nSHOPPING HOURS\nSUN-THU:1000 HRS - 2200 HRS\nFRI-SAT:1000 HRS - 2300 HRS\n4x 000006225926 23.60SR\nCOLD WATER BOTT @5.90\n1x 000001888854 0.20SR\nPLASTICS BAG\nSub-total 23.80\nTotal Sales Incl GST 23.80\nTotal After Adj Incl GST 23.80\nCASH 50.80\nItem Count 5 Change Amt 27.00\nInvoice No: 2017070951370013311\nGST Summary Amount Tax\nSR @ 6% 22.47 1.33\nTotal 22.47 1.33\n09/07/2017 17:01 5137 001 0013311\n0296232 JULIANA BINIT SAAD\nDAISO STARLING MALL\nTEL 1-300-80-AEON (2366)\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN"
+  }
+}

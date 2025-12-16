@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "A Fung",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 43636.0,
+    "tax": 4364.0,
+    "tip": 0.0,
+    "total": 48000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Bihun Campur",
+      "quantity": 1,
+      "unit_price": 43636.0,
+      "total_price": 43636.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 2000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000795.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BIHUN CAMPUR 1 43,636 43,636\nTOTAL 43,636\nTAX 10.00% 4,364\nGRAND TOTAL 48,000\nTUNAI 50,000\nKEMBALI 2,000"
+  }
+}

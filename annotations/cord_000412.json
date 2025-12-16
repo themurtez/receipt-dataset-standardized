@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Tous Les Jours",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "VND",
+    "payment_method": "Cash",
+    "subtotal": 13000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 13000.0,
+    "accounting_category": "Food",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Choco Croissant",
+      "quantity": 1,
+      "unit_price": 13000.0,
+      "total_price": 13000.0,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 37000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000412.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Tous Les Jours\n\n1 CHOCO CROSSIANT 13,000\n\nTOTAL 13,000\nCASH 50,000\nCHANGE 37,000"
+  }
+}

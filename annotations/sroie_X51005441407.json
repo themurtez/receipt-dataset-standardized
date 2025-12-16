@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Geoventure Taste Of The World Sdn Bhd",
+    "address": "Lot 38, 39 IOI Boulevard, Jalan Kenari 5, Bandar Puchong Jaya, 47170 Puchong, Selangor",
+    "phone": "03-8079 0255",
+    "tax_id": "000136577024",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-05",
+    "time": "22:52:33",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 58.3,
+    "tax": 5.83,
+    "tip": 0.0,
+    "total": 64.15,
+    "accounting_category": "Hospitality",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Tiger Bucket",
+      "quantity": 1,
+      "unit_price": 55.0,
+      "total_price": 58.3,
+      "category": "Beverages",
+      "accounting_category": "Hospitality",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.02,
+    "change_due": 35.85
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005441407.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Geoventure\nTaste Of The World Sdn Bhd\n965857-A\nLot 38, 39 IOI Boulevard,\nJalan Kenari 5, Bandar Puchong Jaya,\n47170 Puchong, Selangor.\nTEL: 03-8079 0255\nGST REG NO: 000136577024\nRESERVATION NO: 010 - 7745055\nSIMPLIFIED TAX INVOICE\nInvoice : 581355 Cashier NINI\nPOS No: 1 Pax : 0\nDate: 5/3/2018 22:52:33\nTable No : C38\nITEM QTY U/P(RM) DISC(%) Amt+GST(RM)\nS Tiger Bucket\nGTG02 1 55.00 0+0 58.30\nS Service Chrg(Incl GST 6%) RM 5.83\nTotal Sales(Incl GST 6%) RM 64.13\nRounding Adjustment : RM 0.02\nTOTAL RM 64.15\nCASH RM 100.00\nCHANGE RM 35.85\nMain Item Count\nTotal Discount RM 0.00\nGST Summary Amount(RM) Tax(RM)\nS 6% 60.50 3.63\nZ 0% 0.00 0.00"
+  }
+}

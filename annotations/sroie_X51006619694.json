@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Guardian Health And Beauty Sdn Bhd",
+    "address": "First World Theme Park, Lot F/L2A.4, Level 2A, First World Plaza, First World",
+    "phone": "03-61012425",
+    "tax_id": "01101083-T",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-02-11",
+    "time": "15:55:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 2.56,
+    "tax": 0.14,
+    "tip": 0.0,
+    "total": 2.56,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.8
+  },
+  "items": [
+    {
+      "name": "GDN Water 500ml",
+      "quantity": 2,
+      "unit_price": 2.2,
+      "total_price": 4.4,
+      "category": "Beverages",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": -0.01,
+    "change_due": 48.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619694.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Guardian Health And Beauty Sdn Bhd\nFirst World Theme Park\nLot F/L2A.4, Level 2A\nFirst World Plaza, First World\nTel:03-61012425\nCompany Reg #01101083-T\nGST Reg #000899874816\n\n2X 2.20 RM\n0092000 GDN WATER 500ML 4.40 S\nPRICE OVERIDE\nGDN WATER 500ML 1.84\nReason Code:3\nSUBTOTAL 2.56\nTOTAL (GST INCL) 2.56\nCASH 50.55\nROUNDING ADJUSTMENTS 0.01-\nCHANGE DUE 48.00\nYOUR SAVINGS FOR TODAY 1.84\nGST - Rate --GST Excl -- GST Amt\nS 6% 2.42 0.14\n\nThank You For Shopping\nAt Guardian\nAll Amounts Are in RM\nGoods sold are non-refundable.\nAll exchanges and returns including\nGuardian brand products must be made\nwithin 7days with original receipts and\nproduct in original condition.\nST:512 Ctr2 ID:3001 TaxInv:94542\n15:55 11/02/16"
+  }
+}

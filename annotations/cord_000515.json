@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 105800.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 105800.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Zuppa Soup",
+      "quantity": 3,
+      "unit_price": 28600.0,
+      "total_price": 85800.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Mineral Water",
+      "quantity": 3,
+      "unit_price": 6600.0,
+      "total_price": 19800.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 44400.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000515.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ZUPPA SOUP\n0510000 3.000x 28600 85,800\nMINERAL WATER\n1810000 3.000x 6600 19,800\nTotal 105,600\nCASH 150,000\nCHANGE 44,400"
+  }
+}

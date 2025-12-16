@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "PASARAYA BORONG PINTAR SDN BHD",
+    "address": "NO 19-G&19-1&19-2 JALAN TASIK UTAMA 4, MEDAN NIAGA TASIK DAMAI",
+    "phone": "016-5498845",
+    "tax_id": "124525-H",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-14",
+    "time": "17:57:07",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 8.2,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 8.2,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "WALL'S TOPTEN CHOCOLATE 73ML",
+      "quantity": 1,
+      "unit_price": 1.6,
+      "total_price": 1.6,
+      "category": "Ice Cream",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "WALL'S TOPTEN CHOCOLATE 73ML",
+      "quantity": 1,
+      "unit_price": 1.6,
+      "total_price": 1.6,
+      "category": "Ice Cream",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MAGNUM ALMOND 90ML",
+      "quantity": 1,
+      "unit_price": 4.5,
+      "total_price": 4.5,
+      "category": "Ice Cream",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cloud 9 plus 22g",
+      "quantity": 1,
+      "unit_price": 0.5,
+      "total_price": 0.5,
+      "category": "Candy",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 12.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005447840.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PASARAYA BORONG PINTAR SDN BHD BR No.: (124525-H) NO 19-G&19-1&19-2 JALAN TASIK UTAMA 4, MEDAN NIAGA TASIK DAMAI 016-5498845, GST No.: 14/03/2018 5:57:07PM TAX INVOICE TRN: CR0008964 COUNTER 3 CASHIER: 1 QTY UOM UNITAmt Exc. Amt Inc. GST Price Tax Tax Code WALL'S TOPTEN CHOCOLATE 73ML 1 WALK 1.60 1.60 1.60 ZRL WALL'S TOPTEN CHOCOLATE 73ML 1 WALK 1.60 1.60 1.60 ZRL MAGNUM ALMOND 90ML 1 WALK 4.50 4.50 4.50 ZRL Cloud 9 plus 22g 1 WALK 0.50 0.50 0.50 ZRL *Total Qty: 4.00 8.20 Total Includes GST 0% 8.20 Customer's Payment Cash 20.20 Change 12.00 GST Summary Amount (RM) Tax (RM) ZRL = 0 % 8.20 0.00 *Goods sold are not returnable Thank you for shopping at PASARAYA BORONG PINTAR SDN BHD"
+  }
+}

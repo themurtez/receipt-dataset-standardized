@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "Fairview, NJ 07022",
+    "phone": "(201) 840-8428",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-11",
+    "time": "19:46:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 69.9,
+    "tax": 3.44,
+    "tip": 0.0,
+    "total": 55.39,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Guaca Chicharron",
+      "quantity": 1,
+      "unit_price": 13.95,
+      "total_price": 13.95,
+      "category": "Food",
+      "accounting_category": "Appetizer",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Empanada",
+      "quantity": 2,
+      "unit_price": 3.0,
+      "total_price": 6.0,
+      "category": "Food",
+      "accounting_category": "Appetizer",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pargo Frito",
+      "quantity": 1,
+      "unit_price": 19.95,
+      "total_price": 19.95,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Mar y Chicken",
+      "quantity": 1,
+      "unit_price": 17.0,
+      "total_price": 17.0,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Salmon a la Plancha",
+      "quantity": 1,
+      "unit_price": 16.0,
+      "total_price": 16.0,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1042-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "FAIRVIEW, NJ 07022\nPhone: (201) 840-8428\nCheck:832869 Guests: 1\nDate:02/11/19 Time:07:46pm\nTable:23 Server:DANIELA\n1 Guaca Chicharron $13.95\n2 EMPANADA $3.00\n1 PARGO FRITO $19.95\nEnsalada\nAguacate\nNo Cebolla\nNo Cebolla Roja\n1 MAR Y CHICKEN $17.00\nTostones\nTostones\n<< ToGo 2 >>\n1 SALMON A LA PLANCHA $16.00\nEnsalada\nEnsalada\nSubtotal: $69.90\nVoid: -$17.95\nTax: $3.44\nSbtl w/Tax: $73.34\nAmt Due: $55.39"
+  }
+}

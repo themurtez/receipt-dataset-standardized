@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "CTT - Correios de Portugal, SA - Soc. Aberta",
+    "address": "AV. D. Joao II, n.f 13, 1999-001 LISBOA",
+    "phone": "",
+    "tax_id": "NIF: 510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-10-18",
+    "time": "10:28:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 2.03,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 2.03,
+    "accounting_category": "services",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Correio Normal",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "postal service",
+      "accounting_category": "services",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Correio Normal",
+      "quantity": 1,
+      "unit_price": 0.53,
+      "total_price": 0.53,
+      "category": "postal service",
+      "accounting_category": "services",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_152416.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CTT - Correios de Portugal, SA - Soc. Aberta\nAV. D. Joao II, n.f 13\n1999-001 LISBOA\nN.U.P.C.M. 500077568\nCap.Social 75.000.000,00 EUR\nLoja CTT AMOREIRAS (LXA) 8810765\nFatura/Recibo N.\nFR CTT2016FR881076502/10843\nData de Emissao\n2016-10-18 10:28\nNome: FLH\nMorada: LISBOA\nCod Postal:\nNIF: 510776914\nQTD DESIGNACAO IVA QUANTIA\n1 Correio Normal 1) 1,50\n1 Correio Normal 0,53\nTotal s/IVA: 2,03 Eur\nTotal Desconto s/IVA: 0,00 Eur\nTotal IVA: 0,00 Eur\nTotal:\nDois Euros e Tres Centimos\n2.03 Eur\nTaxa Val. Valor s/IVA Valor IVA Valor Total\n0% 2,03 0,00 2,03\n1) Isento - Art. 9 No. 23/24 do CIVA\nValor liquidado na data de emissao\nBens ou servicos disponibilizados ao\nadquirente na data de emissao deste\ndocumento\narpX-Processado por programa certificado\nn.o 1830/AT"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 70.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 70.0,
+    "accounting_category": "Food",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Kyoto Choco Mochi",
+      "quantity": 4,
+      "unit_price": 14.0,
+      "total_price": 56.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sakura Mochi",
+      "quantity": 1,
+      "unit_price": 14.0,
+      "total_price": 14.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Plastic Bag Small",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Supplies",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 30.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000374.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "3002-Kyoto Choco Mochi\n14.000 x4 56.000\n3001-Sakura Mochi\n14.000 x1 14.000\n6001-Plastic Bag Small\n0 x1 0\nTotal Item: 6\nTotal. 70.000\nCash\nTendered: 100.000\nChange: 30.000"
+  }
+}

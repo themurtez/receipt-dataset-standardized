@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "SAINT HEART PASTRY",
+    "address": "29, JLN SJ 17, TMN SELAYANG JAYA, 68100 BATU CAVES, SELANGOR",
+    "phone": "03-61372830",
+    "tax_id": "001661329408",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-25",
+    "time": "10:56:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 7.74,
+    "tax": 0.46,
+    "tip": 0.0,
+    "total": 8.2,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "JUMBO SAUSAGE CHEESE",
+      "quantity": 1,
+      "unit_price": 3.1,
+      "total_price": 3.1,
+      "category": "Food & Beverage",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "JUMBO SAUSAGE CHEESE",
+      "quantity": 1,
+      "unit_price": 3.1,
+      "total_price": 3.1,
+      "category": "Food & Beverage",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "GARLIC CHEESE",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005719905.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SAINT HEART PASTRY\n(001980264-H)\n29,JLN SJ 17,\nTMN SELAYANG JAYA,\n68100 BATU CAVES,\nSELANGOR\nTEL: 03-61372830\nGST ID: 001661329408\n\nSIMPLIFIED TAX INVOICE\nCASH\n\nReceipt #: CS00254837 Table: 45\nStaff: AISHAH Date: 25/03/2018\nCashier: AISHAH Time: 10:56:00\n\nDescription Qty Price Amt Tax\n\nJUMBO SAUSAGE CHEESE 1 3.10 3.10 SR\nJUMBO SAUSAGE CHEESE 1 3.10 3.10 SR\nGARLIC CHEESE 1 2.00 2.00 SR\n\nTotal: 3 8.20\nTotal Sales (Excluding GST) : 7.74\nDiscount : 0.00\nService Charge : 0.00\nTotal GST : 0.46\nRounding : 0.00\n\nTotal Sales (Inclusive of GST) 8.20\nCASH 8.20\nCHANGE 0.00\n\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR 6 7.74 0.46\nTotal : 7.74 0.46\n\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU.\nRE-PRINT"
+  }
+}

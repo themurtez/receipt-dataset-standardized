@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "AKI Mafra",
+    "address": "Sanização Quinta das Pevides, 2640-408 Mafra",
+    "phone": "261 091 200",
+    "tax_id": "502261669",
+    "website": "www.aki.pt"
+  },
+  "transaction": {
+    "date": "2018-04-25",
+    "time": "11:00:00",
+    "currency": "EUR",
+    "payment_method": "Dinheiro",
+    "subtotal": 18.98,
+    "tax": 3.55,
+    "tip": 0.0,
+    "total": 20.0,
+    "accounting_category": "Home Improvement",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TINTA INT IMPACT MATE BR",
+      "quantity": 1,
+      "unit_price": 6.99,
+      "total_price": 6.99,
+      "category": "Paint",
+      "accounting_category": "Home Improvement",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BET PAS REGULARIZAR AXTON",
+      "quantity": 1,
+      "unit_price": 11.99,
+      "total_price": 11.99,
+      "category": "Regularizer",
+      "accounting_category": "Home Improvement",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.02,
+    "change_due": 1.02
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_211412.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AKI Mafra\nComendador José Noronha Gorjão\nSanização Quinta das Pevides\n2640-408 Mafra\nTel.: 261 091 200\nwww.aki.pt\n\nLeroy Merlin\nMorada: RUA SARAVIA DE CARVALHO N244 3DTO\nFatura\nNúmero: FT 0554011/0182735\nData: 25/04/2018 11:00\n\nCliente: FEELS LIKEHOME LDA\nNIF: 510776914\nIVA\nCÓDIGO DESCRIÇÃO VALOR\nVENDA\n23.0% 3650161 TINTA INT IMPACT MATE BR 4 6,99€\n23.0% 3249612 BET PAS REGULARIZAR AXTON 11,99€\nDinheiro\nTotal: 18,98€\nTroco 1,02€\nRECAPITULATIVO IVA\nTAXA L.IQ. IVA\n23.0% 15,43€ 3,55€\nNo cartão AKI : 93010123005258763\nPontos ganhos: 18\nPontos acumulados: 220\nJá ganhou com o seu cartão AKI: 155,00€\n0554 1 9100276 578908\nCertificado n°22B8/AT\n\nFATURA INDISPENSÁVEL PARA\nTROCA E DEVOLUÇÃO ATE 15 DIAS\nOBRIGADO POR COMPRAR NA NOSSA LOJA"
+  }
+}

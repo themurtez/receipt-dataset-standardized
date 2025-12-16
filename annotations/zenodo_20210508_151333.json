@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "R. Actor António Silva, Nº7, 1649-033 Lisboa",
+    "phone": "213 247 330",
+    "tax_id": "500282993",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-10-25",
+    "time": "13:24:00",
+    "currency": "EUR",
+    "payment_method": "VISA Electron",
+    "subtotal": 13.92,
+    "tax": 0.84,
+    "tip": 0.0,
+    "total": 14.76,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PAO SEM GLUTEN RUSTI",
+      "quantity": 2,
+      "unit_price": 3.79,
+      "total_price": 7.58,
+      "category": "Bakery",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MUFFIN CHOCOLATE SEM",
+      "quantity": 1,
+      "unit_price": 3.59,
+      "total_price": 3.59,
+      "category": "Bakery",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BOLO ARROZ S GLUTEN",
+      "quantity": 1,
+      "unit_price": 3.59,
+      "total_price": 3.59,
+      "category": "Bakery",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_151333.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Pingo Doce\nDistribuição Alimentar, S.A.\nR. Actor António Silva, Nº7, 1649-033 Lisboa\nTelefone: 213 247 330\nContribuinte: 500282993\nArtigos\nPADARIA/PASTELARIA\nC 6% PAO SEM GLUTEN RUSTI 2 x 3.79 7.58\nC 6% MUFFIN CHOCOLATE SEM 1 x 3.59 3.59\nC 6% BOLO ARROZ S GLUTEN 1 x 3.59 3.59\nTOTAL A PAGAR 14.76\nTOTAL PAGO 14.76\nIVA\nTaxa Valor S/IVA Valor IVA Valor c/IVA\nC 6% 13.92 0.84 14.76\nTerminal: 00584598\nData: 2018-10-25 Hora: 13:24\nPagamento: VISA Electron\n"
+  }
+}

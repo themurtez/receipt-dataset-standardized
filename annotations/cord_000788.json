@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-10",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 117998.0,
+    "tax": 10727.0,
+    "tip": 0.0,
+    "total": 117998.0,
+    "accounting_category": "dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "MIE MERAH PG",
+      "quantity": 1,
+      "unit_price": 38181.0,
+      "total_price": 38181.0,
+      "category": "food",
+      "accounting_category": "dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MIE CINCANG",
+      "quantity": 1,
+      "unit_price": 19090.0,
+      "total_price": 19090.0,
+      "category": "food",
+      "accounting_category": "dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "HAI CMP SPC",
+      "quantity": 1,
+      "unit_price": 50000.0,
+      "total_price": 50000.0,
+      "category": "food",
+      "accounting_category": "dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 82000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000788.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 MIE MERAH PG Rp38,181\n1 MIE CINCANG 19,090\n1 HAI CMP SPC Rp50,000\nTX1 10,727\nTL Rp117,998\nCASH 200,000\nCG 82,000"
+  }
+}

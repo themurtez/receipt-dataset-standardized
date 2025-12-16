@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Pasar Mini Jin Seng",
+    "address": "379, Jalan Permas Satu, Bandar Baru Permas Jaya 81750 Plentong, Johor",
+    "phone": "07-3874904",
+    "tax_id": "001-1541798",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-03",
+    "time": "10:18:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 33.8,
+    "tax": 0.77,
+    "tip": 0.0,
+    "total": 33.8,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Vegetables",
+      "quantity": 1,
+      "unit_price": 16.0,
+      "total_price": 16.0,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Telur / Telur Masin",
+      "quantity": 1,
+      "unit_price": 2.2,
+      "total_price": 2.2,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Vegetables",
+      "quantity": 1,
+      "unit_price": 1.8,
+      "total_price": 1.8,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "GL Stewed Pork 258G",
+      "quantity": 1,
+      "unit_price": 6.8,
+      "total_price": 6.8,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Botan Ikan Sardin 425G",
+      "quantity": 1,
+      "unit_price": 6.8,
+      "total_price": 6.8,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 16.2
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005433548.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "- PASAR MINI JIN SENG -\n379, JALAN PERMAS SATU,\nBANDAR BARU PERMAS JAYA\n81750 PLENTONG, JOHOR.\nTEL: 07-3874904\n(CO. NO. JM0195366-D)\n(GST NO. 001015051616)\n\nTAX INV:001-1541798  03/03/18\nCashier: CASHIER\n\n1  VEGETABLES        16.00 ZRL\n1  TELUR / TELUR MASIN  2.20 ZRL\n1  VEGETABLES         1.80 ZRL\n1  GL STEWED PORK 258G 6.80 SR\n1  BOTAN IKAN SARDIN 425G 6.80 SR\n\nItem Count:        5\nSUBTOTAL:         33.80\n\nTL.RM                 33.80\n6% GST                 0.77\n\n------ Payment Details ------\nCASH                 50.00\nCASH CHANGE          16.20\n\n03/03/18 10:18 #001-1541798#\nCASHIER\n\nGST Summary  Amount(RM)  Tax(RM)\nSR   @6%    13.60    0.77\nZRL  @0%    20.20    0.00\n\nThank you\nPlease come again\nGOODS SOLD ARE NOT REFUNDABLE"
+  }
+}

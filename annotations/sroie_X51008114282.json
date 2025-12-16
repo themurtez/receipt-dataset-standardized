@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "99 Speed Mart S/B",
+    "address": "Lot P.T. 2811, Jalan Angsa, Taman Berkeley, 41150 Klang, Selangor",
+    "phone": "",
+    "tax_id": "000181747712",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-04",
+    "time": "17:38:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 20.9,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 20.9,
+    "accounting_category": "Retail",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Carnation Susu Krimer S",
+      "quantity": 2,
+      "unit_price": 2.5,
+      "total_price": 5.0,
+      "category": "Grocery",
+      "accounting_category": "Dairy",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "KND Knorr Chicken Stock 1K",
+      "quantity": 1,
+      "unit_price": 15.9,
+      "total_price": 15.9,
+      "category": "Grocery",
+      "accounting_category": "Seasoning",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008114282.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "99 SPEED MART S/B (519537-X)\nLOT P.T. 2811, JALAN ANGSA,\nTAMAN BERKELEY\n41150 KLANG, SELANGOR\n1237-TMN INDAH PERDANA\nGST ID. NO : 000181747712\nINVOICE NO : 18418/102/TQ262\n\n05:38PM 568268 04-06-18\n\n620 CARNATION SUSU KRIMER S\n@2 X RM 2.50 RM5.00 z\n0715 KNORR CHICKEN STOCK 1K RM15.90 z\n\nTotal Sales RM 20.90\nCASH RM 21.00\nCHANGE RM .10\n\n-------------------------------------\nGST Summary Amount(RM) Tax(RM)\nz = 0% 20.90 .00\n\nThank You, Please come again\nKeep the invoice for applicable returns"
+  }
+}

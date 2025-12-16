@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "The Coffee Bean & Tea Leaf (M) Sdn. Bhd.",
+    "address": "Unit G047, Ground Floor, Mid Valley Megamall, Mid Valley City, Lingkaran Syed Putra, 59200 Kuala Lumpur",
+    "phone": "",
+    "tax_id": "000364106496",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-15",
+    "time": "18:01:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 34.06,
+    "tax": 2.25,
+    "tip": 0.0,
+    "total": 39.7,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Iced Cafe Latte",
+      "quantity": 1,
+      "unit_price": 12.08,
+      "total_price": 12.08,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Iced Double Choc",
+      "quantity": 1,
+      "unit_price": 11.14,
+      "total_price": 11.14,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Blackforest Chz",
+      "quantity": 1,
+      "unit_price": 10.84,
+      "total_price": 10.84,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": -0.02,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006828201.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "THE COFFEE BEAN & TEA LEAF (M) SDN. BHD.\nCompany No.:441970-H\nUnit G047, Ground Floor\nMid Valley Megamall\nMid Valley City, Lingkaran Syed Put\n59200 Kuala Lumpur\nGST No.:000364106496\nTax invoice\n15/12/2017 18:01 A546756\nQty Descriptions Amount\n1 ICED CAFE LATTE -R 12.08 T\n1 ICED DOUBLE CHOC-S 11.14 T\n1 BLACKFOREST CHZ 10.84 T\nSTTL 34.06\n10% SVC CHG 3.41\n6% GST 2.25\nTTL 39.72\nRounding Adj. -0.02\n3 TOTAL 39.70\nCASH 39.70\nCHANGE 0.00\nGST Summary Amount Tax\nT:6% GST 37.47 2.25\nZ:Zero Rated 0.00 0.00\nSimply The Best!\nBean Points earned from\nJan-Dec will expire by\n31st March the following year\nScan and provide us your feedback!\nTBL10\nCsh:F0106 OL-BICKY RANA 600\nPOS:T002 Shf:201712151"
+  }
+}

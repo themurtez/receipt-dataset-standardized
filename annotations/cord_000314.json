@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "PKR",
+    "payment_method": "Debit Card",
+    "subtotal": 54544.0,
+    "tax": 5454.0,
+    "tip": 0.0,
+    "total": 59998.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Nutella Cheese",
+      "quantity": 2,
+      "unit_price": 27272.0,
+      "total_price": 54544.0,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000314.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "2 Nutella Cheese 54,544\nSubTotal: 54,544\nPB1: 5,454\nTotal: 59,998\nDebit Card: 59,998"
+  }
+}

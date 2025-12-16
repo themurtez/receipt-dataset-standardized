@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Jumbo Amoreiras",
+    "address": "Av. Eng. P., C.C. Amoreiras",
+    "phone": "214036700",
+    "tax_id": "502507592",
+    "website": "www.jumbo.pt"
+  },
+  "transaction": {
+    "date": "2019-02-05",
+    "time": "14:41:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 3.49,
+    "tax": 0.51,
+    "tip": 0.0,
+    "total": 4.0,
+    "accounting_category": "Household Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Ambientador Airwick",
+      "quantity": 1,
+      "unit_price": 3.49,
+      "total_price": 3.49,
+      "category": "Air Freshener",
+      "accounting_category": "Household Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 6.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_141142.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "jumbo www.jumbo.pt\nJUMBO AMOREIRAS\nTEL. 214036700 FAX. 217103495\nAUMARY RETAIL PORTUGAL. S.A.\nC.P. 501532148 C.P.\n100-155 Lisboa\nMat. C.R.C Lisboa a na Seccao\nCap. Social 81.025,000 Euros\nSIPEEE: P000019\nFATURA Simplificate No: 0520075920\n02/02/2019/0022592 S0:176791\nNome: FLIKE HOME LDA\nCliente\nORIGINAL\nMORADA:\nNÃO COMUNICADO\nC.P. 00921 0\nNo. Cont. 510767314\nIVA ATRIB/Q/TL PRECO VALOR\nDROP/R&T\n2 AMBIENTADOR AIRWICK\n1.00 UNE 3,49\nTOTAL PAGO 10,00\nNUMERARIO 16,00\nTROCO 6,00\nRESUMO IVA\nTAXA BASE VALOR\n12,00 (23,08) 2,065\n23.00 0,065 0,005\nLOCOL de Carga:\nAv. Eng. P., C.C. Amoreiras\nLocal de Descarga\nHORA/OU CLIENTE\nData Emissao: 2019-02-05 14:41\n1x4=Processado por programa\ncertificado n. 1140/1\nTROCAS E DEVOLUCOES apenas com fatura\neste do 10 dias. Consulte as excecoes.\nIVA ou isenta Conf nr.27 art 9 CVA\nou regime bens em 2 nao\nOs dados pessoais apresentados\ndestinam-se ao processamento\nda transacca\nA sua satisfacao e importante para nos!\nDe-not a sua opiniao através do ORCode\n\n0.7020304 0.7020804 0.7021806 0.7022006\n"
+  }
+}

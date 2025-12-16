@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 26000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 26000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Apple Creamcheese Pastry",
+      "quantity": 2,
+      "unit_price": 13000.0,
+      "total_price": 26000.0,
+      "category": "Pastry",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 74000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000074.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "2 APPLE CREAMCHEESE PASTRY 26,000\nTOTAL 26,000\nCASH 100,000\nCHANGE 74,000"
+  }
+}

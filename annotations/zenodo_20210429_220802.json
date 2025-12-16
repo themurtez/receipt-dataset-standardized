@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Botaminuto",
+    "address": "Centro Comercial Amoreiras, Loja 1.50, 1070 Lisboa, Portugal",
+    "phone": "219994257",
+    "tax_id": "506175052",
+    "website": "www.botaminuto.pt"
+  },
+  "transaction": {
+    "date": "2019-11-05",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 35.8,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 35.8,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CHAVE PONTOS S/CH1",
+      "quantity": 1,
+      "unit_price": 17.9,
+      "total_price": 17.9,
+      "category": "Hardware",
+      "accounting_category": "Key Copy",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "CHAVE PONTOS MARC",
+      "quantity": 1,
+      "unit_price": 17.9,
+      "total_price": 17.9,
+      "category": "Hardware",
+      "accounting_category": "Key Copy",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 4.2
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_220802.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Botaminuto\nAMOREIRAS\nContribuinte: 506175052\nConsetto Rapidos das Amoreiras,\nComercio de Calçado e Copias Chaves, Lda\nR. Alfredo Silva, Lt 18 An 1285-586 Rd R\nC. Com. Amoreiras, LJS041 1070 Lisboa\nSede Col 5, 060EUR CRC Cascais N 9955/2007\nExmos. Senhor(es):\nFLEX+HOME\nLISBOA\nNF: 510776914 N. CLI: PTS10776914\nC B/05148668\nCIE 6/173968 Data 2019-11-05 Original\nFactura: EDYJONES CARVALHO\nDescricao: Qde. Pre. Unit. Valor IVA\nCHAVE PONTOS S/CH1 / SEC-1 / LJA/SEM6\n654 1.00 17.90 23\nCHAVE PONTOS MARC\n10904 1.00 17.90 23\nTotal de pecas: 2\nValor Liquido IVA\n0.00\nDesconto\n0.00\nTOTAL DOCUMENTO EURO\nNumerario\nTroco\nTotal\n0.00\n35.80\n40.00\n 4.20\nTroco\n\nCOO- Processado por programa\nCertificado N. 1627/AT\n\ncolocados à disposição do adqui-\nrente nesta data, de acordo com a\nalínea F) do n. 5 de artigo 36 do CIVA\nTROCAS E DEVOLUÇÕES ACEITES COM COMPRO-\nVATIVO DE COMPRA E ATE 30 DIAS DA DATA\nDE COMPRA.\n\nObrigado Pela Visita - Volte Sempre\nTALAO INDISPENSAVEL / ENTREGA-RECLAMACAO\nTROCAS PRAZO 1 MES\nTel.: 219994257 www.botaminuto.pt\n\nConte-nos a sua\nExperiência!"
+  }
+}

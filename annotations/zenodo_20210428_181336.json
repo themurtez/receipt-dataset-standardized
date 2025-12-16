@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Estacionamento S.A.",
+    "address": "Av. Conde Valbom, 30 - Piso 5, Lisboa",
+    "phone": "",
+    "tax_id": "503311685",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-28",
+    "time": "15:33:00",
+    "currency": "EUR",
+    "payment_method": "Credit Card",
+    "subtotal": 2.8,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 2.8,
+    "accounting_category": "Parking",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Parking",
+      "quantity": 1,
+      "unit_price": 2.8,
+      "total_price": 2.8,
+      "category": "Parking",
+      "accounting_category": "Parking",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_181336.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Estacionamento S.A.\nAv. Conde Valbom, 30 - Piso 5\nIMPOSTO: Lisboa\nCont.: 503311685 / CRC L-5536\nPARQUE CAMÕES\n\nDoc n: 482457\nTerminal: 222\nBilhete N. 41037704\nRetido: EUR 0.00\nEntrada: 2019-03-28 14:41\nValor: EUR 2.80\nData: 2019-03-28 Hora: 15:33\n\nPQ ESTACIONASTIONAMENTO\nCAMÕES\nPC LUÍS CAMÕES\nLISBOA\n\nN.F.C.: 503311685 - TP: N/A\nData: 2019/03/28 Hora: 15:33:20\nP. 879 Trz: 017 Men: 618\n\nCOMPRA-CHIP MW/MW\nALMEIDA JORGE\n"
+  }
+}

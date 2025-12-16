@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "Argonaut Diner",
+    "address": "1084 Yonkers Avenue, Yonkers, NY 10704",
+    "phone": "(914) 237-5055",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-08-13",
+    "time": "11:01:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 24.25,
+    "tax": 2.13,
+    "tip": 0.0,
+    "total": 26.38,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Coffee",
+      "quantity": 1,
+      "unit_price": 1.45,
+      "total_price": 1.45,
+      "category": "Beverages",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Tea",
+      "quantity": 1,
+      "unit_price": 1.45,
+      "total_price": 1.45,
+      "category": "Beverages",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Waffle",
+      "quantity": 1,
+      "unit_price": 5.5,
+      "total_price": 5.5,
+      "category": "Breakfast",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Old Fashion French Toast",
+      "quantity": 1,
+      "unit_price": 4.5,
+      "total_price": 4.5,
+      "category": "Breakfast",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Side Home Fries",
+      "quantity": 1,
+      "unit_price": 2.95,
+      "total_price": 2.95,
+      "category": "Sides",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Banana",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Fruit",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Whipped Cream",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Dessert",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "W/ 2 EGGS",
+      "quantity": 1,
+      "unit_price": 2.95,
+      "total_price": 2.95,
+      "category": "Breakfast",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1035-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Argonaut Diner2000 We Deliver\nPlease Pay at Cashier\n1084 Yonkers Avenue Yonkers, NY 10704\n(914) 237-5055\nCopy of Receipt\n\n1 Coffee $1.45\n1 Tea $1.45\n1 Waffle $5.50\n1 Old Fashion French Toast $4.50\n1 Side Home Fries $2.95\n1 Banana $2.50\n1 Whipped Cream $2.50\n1 W/ 2 EGGS $2.95\n\nSubtotal: $24.25\nTax: $2.13\nTotal: $26.38\n\nServer Name: MIKE.\nTable Number: 9\nNumber of Guests: 1\nOrder Started: 11:01 AM"
+  }
+}

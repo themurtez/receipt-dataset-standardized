@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "IKEA",
+    "address": "EN5Q, R2 Seteais, 2560-001 Frielas, Portugal",
+    "phone": "",
+    "tax_id": "PT 501764191",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-01-30",
+    "time": "12:18:06",
+    "currency": "EUR",
+    "payment_method": "VISA Electron",
+    "subtotal": 69.99,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 69.99,
+    "accounting_category": "Furniture",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BJORKSTA tela 140x100 Rio Douro",
+      "quantity": 1,
+      "unit_price": 29.99,
+      "total_price": 29.99,
+      "category": "Home Decor",
+      "accounting_category": "Furniture",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BJORKSTA mold 140x100 cor de aliim",
+      "quantity": 1,
+      "unit_price": 40.0,
+      "total_price": 40.0,
+      "category": "Home Decor",
+      "accounting_category": "Furniture",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_204623.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "IKEA\nObrigado por visitar a IKEA Alfragide!\nIKEA Portugal - Moveis e Decoracao Lda\nProduct Nre: PD0106127\nEN5Q, R2 Seteais, 2560-001 Frielas\nCapital Social: 50.000.000€ NPC:\n50416654\nFax: +351 707 303 086\nBUSINESS Card 6527968xxxxxx8384\nNTF 510776491\nNome Filxehome Medicao Imobiliña\nMorada Avenida da Liberdade 36,\nBP 1B\nPais PT\nCP 1250-145\nLisboa Lisboa\nCarga em Nossas intalecoes\nData: 2019-01-30 12:18:00\nLocal de descarga:\nMorada Avenida da Liberdade 36,\n1B\nPais PT\nCP 1250-145\nLisboa\nCodifo Postal: 1250\nArt./EAN 404206411 22677\nB.JORKSTA tela 140x100 Rio Douro\n29,99\nArt./EAN 50326105 12699\nB.JORKSTA mold 140x100 cor de Aliim\n40,00\nTotal € 69,99\nTalal do artigos 2\nOutras Cartões 69,99 EUR\nLoja IKEA ALFRAGIDE\nZONA INDUSTRIAL\nAMADORA\nNumero Fiscal do Contribuinte: 504416654\nTerminal Pagamento Automatico: 00537175\nData: 2019/01/30 Hora: 12:18:06\nPeriodo: 004 Transaccao: 025 Mensagem: 403\n__________\n\nxxxx\nNumero Comerciante: 0001876218\nC X C COMPR-CHIP\nMARIA SOBRALJOSE\nCartao: 0000xxxxxxx7398/65 Op.:000545\nVISA ELECTRON\nConta/Autorizacao: AUT.:240132\nMILLENNIUM BCP 69.99 EUR\nVISA ELEC PP N\n\nREDUNCRE\nINOVACAO E CONFIANCIA\nPROCESSADO POR SIBS T\n"
+  }
+}

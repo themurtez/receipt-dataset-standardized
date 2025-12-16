@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Gardenia Bakeries (KL) Sdn Bhd",
+    "address": "Lot 3, Jalan Pelabur 23/1, 40300 Shah Alam, Selangor.",
+    "phone": "03-55423228",
+    "tax_id": "000381399040",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-10-22",
+    "time": "11:44:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 32.61,
+    "tax": 1.6,
+    "tip": 0.0,
+    "total": 34.21,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "O.C. White",
+      "quantity": 3,
+      "unit_price": 2.13,
+      "total_price": 6.39,
+      "category": "Food & Drink",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Wholemeal",
+      "quantity": 2,
+      "unit_price": 2.78,
+      "total_price": 5.56,
+      "category": "Food & Drink",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "O.C. Jumbo",
+      "quantity": -2,
+      "unit_price": 2.97,
+      "total_price": -5.94,
+      "category": "Food & Drink",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Twig-Choc",
+      "quantity": 20,
+      "unit_price": 1.33,
+      "total_price": 26.6,
+      "category": "Food & Drink",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 23,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006557179.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GARDENIA BAKERIES (KL) SDN BHD (139386 X)\nLot 3, Jalan Pelabur 23/1,\n40300 Shah Alam, Selangor.\nTel: 03-55423228 Fax:03-55423213\nGST ID: 000381399040\nTAX INVOICE / ADJUSTMENT NOTE\nCash Inv No.: 7022F710\nMAKASSAR FRESH MARKET SDN BHD\nGROUND FLOOR, NO. 4 & 6,\nJALAN SS 15/4B,\n47500 SUBANG JAYA, SELANGOR\nDate: 22/10/2017\nTime: 11:44\nDescription U.P Iss Exc D Sale Amt(RM)\nO.C. WHITE 2.13 3 0 0 3 6.39\nWHOLEMEAL 2.78 3 0 0 2 5.56\nO.C. JUMBO 2.97 3 5 0 -2 -5.94\nTotal 0% supplies: 6.01\nTWIG-CHOC 1.33 20 0 0 0 20 26.60\nTotal 6% supplies (excl. GST): 26.60\nGST: 1.60\nTotal 6% supplies (Inc. GST): 28.20\nTotal 0% supplies: 6.01\nTotal Payable: 34.21\nE. & O.E.\nReceived above goods in good order condition.\nThe recipient of Gardenia's products is\nrequired to make necessary adjustments to its\ninput tax claims, on the basis of the\nadjustments shown in this Tax Invoice /\nAdjustment Note\nCUSTOMER'S COPY"
+  }
+}

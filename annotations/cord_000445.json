@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "VND",
+    "payment_method": "cash",
+    "subtotal": 42500.0,
+    "tax": 3864.0,
+    "tip": 0.0,
+    "total": 42500.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Almond Sugar Milk Bread",
+      "quantity": 1,
+      "unit_price": 22500.0,
+      "total_price": 22500.0,
+      "category": "Bakery",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Potato Sausage Bread",
+      "quantity": 1,
+      "unit_price": 20000.0,
+      "total_price": 20000.0,
+      "category": "Bakery",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 57500.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000445.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 ALMOND SUGAR MILK BREAD    22,500\n1 POTATO SAUSAGE BREAD      20,000\nTOTAL                       42,500\nCASH                       100,000\nCHANGE                      57,500\nIncl. Pb1 10%                3,864"
+  }
+}

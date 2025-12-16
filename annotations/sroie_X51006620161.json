@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Sin Thye & Company",
+    "address": "No.54, Batu 5, Jalan Ipoh, Kg. Batu, 51200 Kuala Lumpur",
+    "phone": "03-6258 0869",
+    "tax_id": "001329332224",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-02-28",
+    "time": "11:05:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 103.77,
+    "tax": 6.23,
+    "tip": 0.0,
+    "total": 110.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "KR600 King's Safety Shoes",
+      "quantity": 1,
+      "unit_price": 103.77,
+      "total_price": 103.77,
+      "category": "Footwear",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006620161.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SIMPLIFIED TAX INVOICE\nSIN THYE & COMPANY\nREG. NO:00168397-H\nGST NO: 001329332224\nNO.54, BATU 5,JALAN IPOH,\nKG. BATU\n51200 KUALA LUMPUR\nTEL: 03-6258 0869 FAX: 03-6251 7978\nMON-SAT 7.30am-6.00pm\nSUN 7.30am-2.00pm\nCASH\nRECEIPT #: CS00052997 DATE: 28/02/2016\nSALESPERSON : 6 TIME: 11:05:00\nCASHIER : USER\nITEM QTY U/P AMOUNT\n813086000911 1 103.77 103.77*\nKR600 KING'S SAFETY SHOES\nTOTAL QUANTITY 1\nSUB-TOTAL 103.77\nDISC 0.00\nTAX 0.00\nROUNDING 0.00\nTOTAL 110.00\nCASH 110.00\nCHANGE 0.00\nGST SUMMARY\nCODE AMOUNT % TAX/AMT\nSR 103.77 6 6.23\nTAX TOTAL: 6.23\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU."
+  }
+}

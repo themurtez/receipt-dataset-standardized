@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (M) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAMASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000306020352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-04-06",
+    "time": "11:53:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 8.6,
+    "tax": 0.49,
+    "tip": 0.0,
+    "total": 8.6,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "MULTI PURPOSE TRAY/HANDLE E-1311",
+      "quantity": 1,
+      "unit_price": 5.9,
+      "total_price": 5.9,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TRANSPARENT PROTECTOR PY11",
+      "quantity": 1,
+      "unit_price": 2.7,
+      "total_price": 2.7,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 11.4
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619341.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. D.I.Y. (M) SDN BHD\nCo-REG:860671-D\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAMASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No:000306020352)\n(SELAYANG MALL)\n-TAX INVOICE-\nMULTI PURPOSE TRAY/HANDLE E-1311(EC *S\nTU21 - 6/72\n9555112911610 1 X 5.90 5.90\nTRANSPARENT PROTECTOR PY11 *S\nMC22 - 24/144\n9066245 1 X 2.70 2.70\nItem(s) = 2 Qty(s) : 2\nTOTAL INCL. GST@6% RM 8.60\nCASH RM 20.00\nCHANGE RM 11.40\nGST @6% included in total RM 0.49\n06-04-16 11:53 SH01 ZJ08 T2 R000593260\nOPERATOR SLC - EALIL ARASI\nEXCHANGE ARE ALLOWED WITHIN\n3 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

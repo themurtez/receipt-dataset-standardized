@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (M) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000306020352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-07-15",
+    "time": "10:35:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 7.16,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 7.15,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SPRAYER SX-260# 550ML",
+      "quantity": 4,
+      "unit_price": 1.79,
+      "total_price": 7.16,
+      "category": "Household Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": -0.01,
+    "change_due": 13.05
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008164524.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. D.I.Y. (M) SDN BHD\n(CO.REG: 860671-D)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No: 000306020352)\n(PUSAT PERNIAGAAN BUNGA RAYA, MANTIN)\n-TAX INVOICE-\nSPRAYER SX-260# 550ML *S\nHA06HOI-3-70\n9065940 4 X 1.79 7.16\nItem(s): 1 Qty(s): 4\nTotal Incl. GST RM 7.16\nROUNDING ADJUSTMENT -RM 0.01\nTOTAL ROUNDED RM 7.15\nCASH RM 20.20\nCHANGE RM 13.05\nGST Summary Amt(RM)   Tax(RM)\nGST SR@0%   7.16   0.00\n*\n15-07-18 10:35 SH01 ZI33 T2 R000010082\nOPERATOR TRAINEE CASHIER\nEXCHANGE ARE ALLOWED WITHIN\n7 DAYS WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

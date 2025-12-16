@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 45455.0,
+    "tax": 4546.0,
+    "tip": 0.0,
+    "total": 50000.0,
+    "accounting_category": "restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Paket KP1",
+      "quantity": 1,
+      "unit_price": 45455.0,
+      "total_price": 45455.0,
+      "category": "meal",
+      "accounting_category": "restaurant",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": -1,
+    "change_due": 50000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000781.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Paket KP1 1 45.455\nFree Tea Pucuk (0)\nSubtotal 45.455\nPB1 (10%) 4.546\nPembulatan (1)\nTotal 50.000\nTunai 100.000\nKembali 50.000"
+  }
+}

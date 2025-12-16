@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Jumbo",
+    "address": "Lisboa, Portugal",
+    "phone": "",
+    "tax_id": "503240000",
+    "website": "www.jumbo.pt"
+  },
+  "transaction": {
+    "date": "2019-04-18",
+    "time": "18:29:00",
+    "currency": "EUR",
+    "payment_method": "Cartão",
+    "subtotal": 19.64,
+    "tax": 3.67,
+    "tip": 0.0,
+    "total": 20.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 1.0
+  },
+  "items": [
+    {
+      "name": "Gasoleo",
+      "quantity": 1,
+      "unit_price": 19.64,
+      "total_price": 19.64,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.36
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_174622.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AUCHAN RETAIL PORTUGAL, S.A.\nCAIXA INTERNA: JUMBO PORTIMÃO\nTel: 217105210 /Fax: 217273420\nTrav. Teixeira Junior, 1\n1300 - 553 Lisboa\nsede: C.R.C. de Lisboa n 4a secção\nCap. Soc. 84.025.000 EUR\n\nCONTRIBUINTE N° 502 607 920\nFactura: 514407395\n\nCC: S0301-11\n\nDATA EMISSÃO: 2019/04/18 18:29\nGásoleo FISHZONE ALGARVE LDA\n01 - Lisboa\n1.39 x 15.00 Lt 19,64\nIVA: 6%\nLocre Liv: 341\n\nTOTAL: 19,64\nNUM. ENIERO:FILHCRONE ALGARVE LDA\nObe. Trecco: 0,36\nCartão. Ass: Certidão n. 1140 A1\nATENDIDO POR: Joao Caridade\nObrigado pela sua visita"
+  }
+}

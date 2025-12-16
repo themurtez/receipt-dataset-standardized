@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "MyMydin Subang Bestari",
+    "address": "No 13, 15, 17 & 19 Jalan Nova Q U5/Q, Seksyen U5, Subang Bestari 40150 Shah Alam, Selangor Darul Ehsan",
+    "phone": "03-78322935",
+    "tax_id": "001400971264",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-15",
+    "time": "10:59:13",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 5.19,
+    "tax": 0.31,
+    "tip": 0.0,
+    "total": 5.5,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "EVERREADY BAT S/HD AA2",
+      "quantity": 1,
+      "unit_price": 5.5,
+      "total_price": 5.5,
+      "category": "Office Supplies",
+      "accounting_category": "Batteries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 94.5
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005741929.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MyMydin Subang Bestari 2300\nMY MYDIN SDN BHD (257229-K)\nNo 13, 15, 17 & 19 Jalan Nova Q U5/Q,\nSeksyen U5, Subang Bestari 40150 Shah Ala\nSelangor Darul Ehsan\nTel: 03-78322935\nGST ID : 001400971264\n\nRECEIPT\n\nTERMINAL : 1670\nINVOICE NO. : 1670327566\nDATE : 15/01/2018 10:59:13\nCASHIER : Azhar - 928374\n\nEVERREADY BAT S/HD AA2 AAMEA S 9555630090368 1 * 5.50 5.50\n\nItem Count 1\nTotal 5.50\nRounding Adjustment 0.00\nTotal After Rounding 5.50\n\nCASH 100.00\nChange CASH 94.50\n\nGST Rate Amt Excl GST(RM) Tax(RM)\nS = 6% 5.19 0.31\n\nPoints earned in this trans. : 0\nReceipt No: 1670327566\nPrint Date: 15/01/2018 10:59:23\n\nThank You\nPlease Come Again"
+  }
+}

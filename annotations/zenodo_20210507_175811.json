@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "BAZARSHOPPING",
+    "address": "ALAMEDA SANTO ANTONIO DOS CAPUCHOS 2A, 1150-220 QUINTA DE SAO PEDRO LISBOA",
+    "phone": "",
+    "tax_id": "259645575",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-09-16",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 5.24,
+    "tax": 1.21,
+    "tip": 0.0,
+    "total": 6.45,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Produto Electrico",
+      "quantity": 1,
+      "unit_price": 3.95,
+      "total_price": 3.95,
+      "category": "Electrical",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Produto Electrico",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Electrical",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_175811.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BAZARSHOPPING\nXU JIA \nContribuinte Nr.: 259645575\nALAMEDA SANTO ANTONIO DOS CAPUCHOS 2A\n1150-220 QUINTA DE SAO PEDRO LISBOA\nTel:\n2019-09-16\n\nNome: FLIKEHOME\nContrl. Nr: 510776914\nMorada: \n\nORIGINAL\nFatura Nr: FAC 101/00031351\n\nIVA Descricao Total\n23% Produtos Electricos 3.95\n1 x 3.95\n23% Produtos Electricos 2.50\n1 x 2.50\n\nTotal A Pagar Euros: 6.45\nNumero De Artigos 2\n\nRecebido (Euros) 6.45\nTroco (Euros) 0.00\n\nIVA% Base IVA Total\n23% 5.24 1.21 6.45\n\nTotal: 6.45Euros\n\nTalao indispensavel para troca em 15 dias. Nao s\ne troca bijutarias meias, lingerie, cos meticos\nArticos de cerimonia. VOLTAR SEMPRE\nniOC - Processado por Programa\nCertificado Nr: 1174/AT\n\nOBRIGADO E VOLTE SEMPRE\n"
+  }
+}

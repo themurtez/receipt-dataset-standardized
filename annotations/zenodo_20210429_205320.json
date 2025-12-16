@@ -1,0 +1,68 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "Estr. de Paço D'arcos nº 29 A, 1699-033 Lisboa",
+    "phone": "213826800",
+    "tax_id": "500792650",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-11-09",
+    "time": "14:20:00",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 12.47,
+    "tax": 2.98,
+    "tip": 0.0,
+    "total": 12.17,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Lacasitos tube",
+      "quantity": 2,
+      "unit_price": 0.59,
+      "total_price": 1.18,
+      "category": "Snacks",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Bolsa Sab Lencos",
+      "quantity": 1,
+      "unit_price": 1.7,
+      "total_price": 1.7,
+      "category": "Personal Care",
+      "accounting_category": "Personal Care",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Caps 12",
+      "quantity": 1,
+      "unit_price": 2.99,
+      "total_price": 2.99,
+      "category": "Household",
+      "accounting_category": "Detergents",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_205320.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "pingo doce \n \n \n \nFRANCISCO METRASS \nTel.: 213826800 \nPingo Doce – Distribuição Alimentar, S.A. \nSede: Estr de Actor António Silva, n7, 1699-033 Lisboa \nRegisto C.R.C. Lisboa \nMatricula / NIPC: 500792650 \nAIF: 50079265000 C. Social: 33.808,118 EUR\ne.2332 LACASITOS TUBe\nMERCEARIA \nPET FOOD\n2X \n \n1,18 \n0,60 \n1.85 \n1.19 \n1.18 \n1.10 \n0.89 \n1.16 \n1.29\n1,20 \n1.82 \n1.69\n1.68\n \nn\nPOUPANçA Imediata\nE. 232 BOL SAC POUM 250g\nE.232 TAR SCHOBETTEN FISCH\nE. 2373 TAR SCHOBETTEN AVEL\n \nPADEIRIA /PASTELERIA\nE 342 AGO VOLE 10 PAK Kg\nC 342 PAD VOLE 2.51x 2.27\nDETEG. E PROD. LIMEZA\nE 3802 Det. FLORES\nC 3028 Cap.Usai Perclipo Pe_ \nPRODIVOS PESSOAIS\nE 2775 ECR FS5 2\nE 3278 KEN MARITA INVISI\nLegado Proporcional\nTOTAL Pa Pagar\nTOTAL A PAGAR\n12.30 \n12,17\n \nTotal Pago VISA Visa Electron \n \n \nNESTA CUMPRA POUPOLI\n0 3.42 .,, Value 06.30 e\n33\nAtendido pel Adeeria Figueiredo \n \nNao se troca medicamentos c",
+    "date": "2019-11-09",
+    "address": "Estr de Actor António Silva, n7, Lisboa",
+    "payment_method": "Multibanco",
+    "total": "12.17"
+  }
+}

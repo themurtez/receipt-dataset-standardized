@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "HON HWA HARDWARE TRADING",
+    "address": "NO 37, JALAN MANIS 7, TAMAN SEGAR, 56100 CHERAS, KUALA LUMPUR",
+    "phone": "+603-9130 2672",
+    "tax_id": "001052194X",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-09-21",
+    "time": "10:20:37",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 9.81,
+    "tax": 0.59,
+    "tip": 0.0,
+    "total": 10.4,
+    "accounting_category": "Hardware",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "3/4\" ALUMINIUM ROD",
+      "quantity": 0.9,
+      "unit_price": 6.0,
+      "total_price": 5.4,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PVC WALLPLUG (50PCS)",
+      "quantity": 5,
+      "unit_price": 1.0,
+      "total_price": 5.0,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005568881.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "HON HWA HARDWARE TRADING\nCompany Reg. No. : 001055194X\nNO 37, JALAN MANIS 7, TAMAN SEGAR,\n56100 CHERAS, KUALA LUMPUR.\n+603-9130 2672\nGST Reg : 001125220352\n\nTAX INVOICE\n\nCB#: 87870 21/09/2017 10:20:37 AM\nM# : C2 - 0\nCashier cash1 -\n\nQty Description Price Total(RM)\n0.9 3/4\" ALUMINIUM ROD 6.00 5.40 SR\n5 PVC WALLPLUG 1.00 5.00 SR\n(50PCS)\n\n5.9 Type: 2 Total 10.40\n\nDiscount: 0.00\nRounding Adj 0.00\nTotal Inclusive GST: 10.40\nCASH 10.40\n\nGST Summary\nCode % Net Amt GST Total(RM)\nSR SR 9.81 0.59 10.40\nTotal 9.81 0.59 10.40\n\nThank you ! & Please come again !!\nGoods sold are not returnable for refund or exchange !!"
+  }
+}

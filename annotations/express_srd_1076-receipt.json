@@ -1,0 +1,36 @@
+{
+  "merchant": {
+    "name": "Paradise Restaurant",
+    "address": "889 W. 190th Street, Los Angeles, CA 90248",
+    "phone": "310-324-4800",
+    "tax_id": "",
+    "website": "www.paradisedine.com"
+  },
+  "transaction": {
+    "date": "2018-07-21",
+    "time": "22:03:14",
+    "currency": "USD",
+    "payment_method": "Credit Purchase",
+    "subtotal": 20.0,
+    "tax": 2.18,
+    "tip": 3.6,
+    "total": 25.78,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [],
+  "summary": {
+    "total_items": 0,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1076-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Paradise Restaurant\n889 W. 190th Street\nLos Angeles, CA 90248\nph 310-324-4800\n\nOur Family Thanks You\nTravel Safely\nwww.paradisedine.com\n\nTABLE: Kae, #31 - 1 Guest\nYour Server was Kael\n7/21/2018 10:03:14 PM - ID #: 0375509\nSubtotal $20.00\nTotal Taxes $2.18\nAutomatic Gratuity $3.60\n\nGrand Total $25.78\nCredit Purchase"
+  }
+}

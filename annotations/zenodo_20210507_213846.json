@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Alfredo Pires Forra, Lda",
+    "address": "Rua do Borratém, n932, 1100-408 LISBOA",
+    "phone": "218 882 734",
+    "tax_id": "500099960",
+    "website": "www.casaforra.com"
+  },
+  "transaction": {
+    "date": "2017-10-30",
+    "time": "10:35:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 1.6,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 1.6,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.85
+  },
+  "items": [
+    {
+      "name": "PARAF PASS C/X POZIDRIV 4x16",
+      "quantity": 0.5,
+      "unit_price": 1.1,
+      "total_price": 0.55,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "PARAF PASS C/X POZIDRIV 3x25",
+      "quantity": 0.5,
+      "unit_price": 1.0,
+      "total_price": 0.5,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "PARAF PASS C/X POZIDRIV 4x20",
+      "quantity": 0.5,
+      "unit_price": 1.1,
+      "total_price": 0.55,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_213846.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Estabelecimentos Alfredo Pires Forra,Lda\nRua do Borratém, n932 1100-408 LISBOA\nInscripta na Conservatoria do Reg.Com. de Lisboa\nN de-fiscal: 500099960 C.Soc: 29.927,87 Euro\nTelefone: 218 882 734\n \nLj. Campo de Ourique Tel. 213 965 364\ncwKU - Processado por Programa\nCertificado n.o152/AT\n\n-------------------------------------------------------------------\nFATURA (VC) 41396 Data - 2017/10/30\nOriginal Hora - 10.35\n\nCliente: X4 Contrib.: 510776914\nF LIKE HOME\n\n-------------------------------------------------------------------\n \nProduto P.Unit. Quant. V.Total IV\n-------------------------------------------------------------------\nPARAF PASS C/X POZIDRIV 4x16\n1,10 x 0,50 0,55 23\nPARAF PASS C/X POZIDRIV 3x25\n1,00 x 0,50 0,50 23\nPARAF PASS C/X POZIDRIV 4x20\n1,10 x 0,50 0,55 23\n-------------------------------------------------------------------\nTotal a Pagar Euro = 1,60\nIVA Incluido\n\nPronto Pagamento Valido como Recibo\n\nwww.casaforra.com geral@casaforra.com"
+  }
+}

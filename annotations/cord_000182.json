@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "T-Cash",
+    "subtotal": 25000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 22500.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Roasted MT (R)",
+      "quantity": 1,
+      "unit_price": 21000.0,
+      "total_price": 21000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Grass Jelly (R)",
+      "quantity": 1,
+      "unit_price": 4000.0,
+      "total_price": 4000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000182.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 ROASTED MT (R) 21,000\nGRASS JELLY (R) 4,000\nICE NO 0\nSUGAR HALF 0\n\nSUB TOTAL 25,000\nDisc product -2,500\n\nTOTAL SALES 22,500\nTOTAL ITEMS 1\nT-CASH DISC 4,500\nT-CASH 18,000"
+  }
+}

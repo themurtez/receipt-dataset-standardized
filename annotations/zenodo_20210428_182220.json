@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "ROGERIO PAIS, LDA",
+    "address": "AVENIDA ALMIRANTE REIS, 9-E, 1150-007 LISBOA",
+    "phone": "218853901",
+    "tax_id": "500540000",
+    "website": "www.ticagest.pt"
+  },
+  "transaction": {
+    "date": "2019-04-04",
+    "time": "16:03:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 12.76,
+    "tax": 2.94,
+    "tip": 0.0,
+    "total": 15.7,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Aldrabagate latao niq.",
+      "quantity": 1,
+      "unit_price": 3.2,
+      "total_price": 3.2,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lampada MATEL econ.",
+      "quantity": 2,
+      "unit_price": 3.0,
+      "total_price": 6.0,
+      "category": "Electricals",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Suporte chuveiro c/vent.",
+      "quantity": 1,
+      "unit_price": 6.5,
+      "total_price": 6.5,
+      "category": "Bathroom",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_182220.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROGERIO PAIS, LDA\nFERRAGENS + FERRAMENTAS + MAQUINAS + UTILIDADES\nAVENIDA ALMIRANTE REIS, 9-E 1150-007 LISBOA\nTel/Fax: 218853901 Tel: 966060896\n* Sociedade por quotes * Capital Social\n5.012.92 EUR REG.CRC. 34852\nNIB: 0033 0000 01280266463 52\n\n2019-04-04 FATURA SIMPLIFICADA N:\nOriginal FS 1A1901/2750\n16:03 BALCAO 1\n\nContribuinte: 510776914\n\nDESCRICAO IVA VALOR\n1 Aldrabagate latao niq. 23% 3,20\n2 Lampada MATEL econ. 2 p 23% 6,00\nPreco: 3,00/UNIDADE\n1 Suporte chuveiro c/vent 23% 6,50\n\nTAXA IVA INCLU.\n23% 2,94 12,76\nTOTAL INCIDENCIAS: 2,94 12,76\nTOTAL: Eur 15,70\n\nPago em Numerario\nValor entregue: 15,70\nTroco: 0,00\n\nImplementado por www.ticagest.pt\n\nOGCG-Processado por programa\ncertificado n. 217/AT\n\nOs servicos e/ou bens foram realizados e/ou colo\ncados a disposicao do adquirente nesta data (Art\n.36 do CIVA, No5 alinea F)\n\nLicenca: ROGERIO PAIS, LDA\nContribuinte: 500540000"
+  }
+}

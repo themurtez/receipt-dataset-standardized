@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "KHIAM AIK CHAN SDN BHD",
+    "address": "No. 76, Jalan SS15/4B, 47500 Subang Jaya, Selangor D.E.",
+    "phone": "",
+    "tax_id": "000558819008",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-09-25",
+    "time": "13:48:57",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 26.79,
+    "tax": 1.61,
+    "tip": 0.0,
+    "total": 28.4,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Max 10-1M staples",
+      "quantity": 2,
+      "unit_price": 14.2,
+      "total_price": 28.4,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 21.6
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006555125.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TAX INVOICE\nKHIAM AIK CHAN SDN BHD (88842-H)\nNo. 76, Jalan SS15/4B,\n47500 Subang Jaya, Selangor D.E.\nGST Reg.: 000558819008\n\nCash Sale No.: C5-19204\nDate: 25/09/2017 01:48:57 PM\n\n1. Max 10-1M staples\n2 X 14.20\nTotal Sales Inclusive GST @6%\n28.40\n\nCASH 50.00\nCHANGE 21.60\n\nGST Summary Amount(RM) Tax(RM)\nSR @ 6% 26.79 1.61\n\nGoods sold are not returnable.\nThank you! Please come again!"
+  }
+}

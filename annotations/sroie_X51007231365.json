@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "OLD TOWN WHITE COFFE",
+    "address": "No.35, Jalan Kebudayaan 8, Taman University, 81300 Skudai, Johor",
+    "phone": "07-5550139",
+    "tax_id": "000801587200",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-05",
+    "time": "18:06:40",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 24.43,
+    "tax": 1.61,
+    "tip": 0.0,
+    "total": 28.5,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "DN3 Dry Curry EN",
+      "quantity": 1,
+      "unit_price": 10.28,
+      "total_price": 10.28,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "TF16 (H) Soya Milk",
+      "quantity": 1,
+      "unit_price": 5.19,
+      "total_price": 5.19,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "LB2 Spring Roll Bkt",
+      "quantity": 1,
+      "unit_price": 8.96,
+      "total_price": 8.96,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "FS2 Org Yog Smot",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.01,
+    "change_due": 21.5
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007231365.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "OLD TOWN WHITE COFFE\nOld Town Kopitiam Sdn Bhd\n(716269-X)\nNo.35, Jalan Kebudayaan 8,\nTaman University, 81300 Skudai, Johor\nTel: 07-5550139\nOUTLET: J18 TAMAN UNIVERSITY\nGST ID: 000801587200\n\n2 COUNTER1 2003 RAJAN\nCheck: 24382 Cover: 2\n05 May 18 18:06:40\nTable: 20 / 1\n\n-- Dine In ---\n\n1 ST15 10.28 S\n1 DN3 Dry Curry EN\n1 TF16 (H) Soya Milk\n1 LB2 Spring Roll Bkt 5 19 S\n1 FS2 Org Yog Smot 8.96 S\n\nSub Total 24.43\n10% Srv Chg: 2.45\nGST @6% 1.61\nTotal: 28.49\nRounding: 0.01\nTotal: 28.50\nPaid: 50.00\nCASH 50.00\nChange Due: 21.50\nINCLUSIVE 0.00\n\n-4004 CLOSED 05 May 18 20:16:19-\n\nTHANK YOU\nPLEASE COME AGAIN\nGST @6% included in total\n\nGSTSummary Amount(RM) GST(RM)\nS=GST @6%: 26.88 1.61\nZ=GST @0%: 0.00 0.00"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Solaria",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 145458.0,
+    "tax": 14546.0,
+    "tip": 0.0,
+    "total": 160000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "MIE + AYAM KATSU TERI",
+      "quantity": 1,
+      "unit_price": 31819.0,
+      "total_price": 31819.0,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MIE SIRAM AYAM",
+      "quantity": 1,
+      "unit_price": 30910.0,
+      "total_price": 30910.0,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "NASI GORENG SPC",
+      "quantity": 1,
+      "unit_price": 30001.0,
+      "total_price": 30001.0,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ES JERUK",
+      "quantity": 2,
+      "unit_price": 17273.0,
+      "total_price": 34546.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "FRENCH FRIES",
+      "quantity": 1,
+      "unit_price": 18182.0,
+      "total_price": 18182.0,
+      "category": "Side",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": -4.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000751.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 MIE + AYAM KATSU TERI... 31,819\n1 MIE SIRAM AYAM 30,910\n1 NASI GORENG SPC 30,001\n2 ES JERUK 34,546\n1 FRENCH FRIES 18,182\nITEMS :6 145,458\nVAT 10% 14,546\nRounding -4\nTotal 160,000\nPay Cash 160,000\nChange 0"
+  }
+}

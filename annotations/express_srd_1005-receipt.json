@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "Saska's",
+    "address": "3768 Mission Blvd, San Diego, CA 92109",
+    "phone": "(858) 488-7311",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-08-15",
+    "time": "17:51:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 167.0,
+    "tax": 12.94,
+    "tip": 0.0,
+    "total": 179.94,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Draft Blackhouse",
+      "quantity": 1,
+      "unit_price": 7.0,
+      "total_price": 7.0,
+      "category": "Beverage",
+      "accounting_category": "Drink",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "\"Cowboy\" 16oz Ribeye",
+      "quantity": 1,
+      "unit_price": 45.0,
+      "total_price": 45.0,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Add Lobster",
+      "quantity": 1,
+      "unit_price": 21.0,
+      "total_price": 21.0,
+      "category": "Food",
+      "accounting_category": "Add-on",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CK Manhattan",
+      "quantity": 2,
+      "unit_price": 5.0,
+      "total_price": 10.0,
+      "category": "Beverage",
+      "accounting_category": "Drink",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Whistle Pig Rye 10yr",
+      "quantity": 2,
+      "unit_price": 20.0,
+      "total_price": 40.0,
+      "category": "Beverage",
+      "accounting_category": "Drink",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "\"Duke\" 16oz Top Sirloin",
+      "quantity": 1,
+      "unit_price": 34.0,
+      "total_price": 34.0,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Make It Blue",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Food",
+      "accounting_category": "Add-on",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1005-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SASKA'S\n3768 Mission Blvd\nSan Diego CA 92109\n(858) 488-7311\n\nServer: Sue 08/15/2017\nTable 103/1 5:51 PM\nGuests: 2 10005\nReprint #: 2\n\nDraft Blackhouse 7.00\n\"Cowboy\" 16oz Ribeye 45.00\n Make It Blue\n Add Lobster 21.00\nCK Manhattan (2 @5.00) 10.00\nWhistle Pig Rye 10yr (2 @20.00) 40.00\n (2)BMOD Up\n\"Duke\" 16oz Top Sirloin 34.00\n Make It Blue 5.00\n\nSubtotal 167.00\nTax 12.94\n\nTotal 179.94\n\nBalance Due 179.94\n\nSUGGESTED TIP\nBEFORE DISCOUNTS\n18% =$30.06\n20% =$33.40\n22% =$36.74"
+  }
+}

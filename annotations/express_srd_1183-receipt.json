@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Jalisco",
+    "address": "244 Highway 290 W, Elgin TX 78621",
+    "phone": "512-285-3940 or 512-285-3950",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-19",
+    "time": "11:38:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 8.99,
+    "tax": 0.74,
+    "tip": 0.0,
+    "total": 10.0,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Caldo de Camaron",
+      "quantity": 1,
+      "unit_price": 8.99,
+      "total_price": 8.99,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Water",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1183-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "JALISCO\n244 Highway 290 W.\nElgin TX 78621\n512-285-3940 or 512-285-3950\nCheck 94  Table 6\nNOEMI 5/19/2019\nGuests 1  11:38 AM\n\nWater  0.00\nCaldo de Camaron  8.99\n\nSubtotal  8.99\nSales Tax  0.74\nProcessing Fee  0.27\n\nTOTAL  10.00\n\nBALANCE DUE  10.00\n\nProcessing fee will be removed\nif the check is paid in cash.\n*THANK YOU FOR CHOOSING US*"
+  }
+}

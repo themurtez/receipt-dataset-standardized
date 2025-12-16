@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "DROGARIA SEMINO",
+    "address": "SOC. FERRAMENTAS E FERRAGENS SEMINO LDA, MATERIAIS DE CONSTRUCAO, FERRAMENTAS SEMINO 8125-303 QUARTEIRA",
+    "phone": "TEL: 289 380 171",
+    "tax_id": "NIF: 502607300",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-03",
+    "time": "17:49:00",
+    "currency": "EUR",
+    "payment_method": "DINHEIRO",
+    "subtotal": 18.62,
+    "tax": 4.28,
+    "tip": 0.0,
+    "total": 22.9,
+    "accounting_category": "Purchase",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CISA - CILINDRO SCH PONTOS LA",
+      "quantity": 1,
+      "unit_price": 22.9,
+      "total_price": 22.9,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_174237.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "DROGARIA SEMINO\nSOC.FERRAMENTAS E FERRAGENS SEMINO LDA\nMATERIAIS DE CONSTRUCAO - FERRAMENTAS\nSEMINO 8125-303 QUARTEIRA TEL: 289 380 171\nNIF: 502607300 CA.50.50LOUEL CRC 2545 LOUL\nFAX: 289383200 • EMAIL: sffsemino@sapo.pt\n\nCliente:\nContr: 51407395\n\nFatura Simplificada\nNatureza: Fatura Simplificada\n2019-05-03 17:49 Original TER: 3\nFS 3/2196\n\nQuant. Pr. Unit. IVA Desc. Total\n% -% %\n506.0181 CISA - CILINDRO SCH PONTOS LA\n1 22,90 23% 22,90\nItens: 1\nTotal 22,90 EUR\nForma Pag: DINHEIRO 22,90\n\nIva Incluido a Taxa Indiacada\nTaxa Valor Iva Base Imp. Valor Total\n23% 4,28 18,62 22,90\nend3-Processado por programa certificado\nno 2648/AT Sage\nEste documento nao constitui documento de transporte, nos termos do Decreto-Lei\nno 147/2003"
+  }
+}

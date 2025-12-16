@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Buy Sell Trade Sdn. Bhd.",
+    "address": "7 & 2A, Jalan Kasuarina 1/KS 7, Bandar Botanik, 41200 Klang, SELANGOR",
+    "phone": "",
+    "tax_id": "001869250560",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-02-04",
+    "time": "19:14:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 25.38,
+    "tax": 1.52,
+    "tip": 0.0,
+    "total": 26.9,
+    "accounting_category": "Goods",
+    "category_confidence": 0.8
+  },
+  "items": [
+    {
+      "name": "TN149/Y070F/COOKING POT",
+      "quantity": 1,
+      "unit_price": 26.9,
+      "total_price": 26.9,
+      "category": "Kitchenware",
+      "accounting_category": "Goods",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006401845.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Buy Sell Trade Sdn. Bhd.\n604412-X\nTax Invoice\nGST ID: 001869250560\n7 & 2A, Jalan Kasuarina 1/KS 7,\nBandar Botanik,\n41200 Klang, SELANGOR\nCS No.: 0007/0112423 04/02/2017 07:14PM\nSold To: CASH\nDescription Amount(RM)\nTN149/Y070F/COOKING POT\nSR 1 X 26.90 26.90\nDiscount 0.00 %: 26.90\nTotal Qty: 1\nTotal Sales Inclusive GST 26.90\nCash 27.00\nVoucher 0.00\nCheque 0.00\nChange 0.10\nGST Summary Amount(RM) Tax(RM)\nSR @ 6.00% 25.38 1.52\nCashier: 435007\nThank You. Please Come Again."
+  }
+}

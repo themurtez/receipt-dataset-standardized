@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Sonic America's Drive-In",
+    "address": "518 Robertson Boulevard, Walterboro, SC 29488",
+    "phone": "843-782-4565",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-22",
+    "time": "19:59:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 11.88,
+    "tax": 1.19,
+    "tip": 0.0,
+    "total": 13.07,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Combo",
+      "quantity": 1,
+      "unit_price": 6.79,
+      "total_price": 6.79,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Prem Dog Combo",
+      "quantity": 1,
+      "unit_price": 5.09,
+      "total_price": 5.09,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1148-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Sonic America's Drive-In\n518 Robertson Boulevard\nWalterboro, SC 29488\n843-782-4565\nStall #15\n\n96 JORDEN\n\nStl 15/1 Chk 699\nJun22'18 07:59PM\nTray: 8\n\nStall\n\n**** Ind 1 ****\n\n1 Combo 6.79\n  Chz Burger\n  Add Mayo\n  Add Must.\n  Add Ket\n  Med Fries\n  Med Dr Pepper\n1 Prem Dog Combo 5.09\n  NY Dog\n  Med Tots\n  Med Coffee\n\nTax 1.19 Total Due: 13.07\n\n            Subtotal: 11.88\n            08:00PM Total Due: 13.07\n\nYou Saved... 1.86"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "P. A. da Graça",
+    "address": "Av. Duque De Avila, N.º 79 100 Rua da Graça, n.º2D",
+    "phone": "213500700",
+    "tax_id": "509152635",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-09-30",
+    "time": "12:51:27",
+    "currency": "EUR",
+    "payment_method": "Dinheiro",
+    "subtotal": 8.95,
+    "tax": 2.06,
+    "tip": 0.0,
+    "total": 11.01,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Gasolina 95 s/c",
+      "quantity": 6.97,
+      "unit_price": 1.579,
+      "total_price": 11.01,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_175142.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "P. A. da Graça\nOZ Energia Fuels Unip. Lda\nAv. Duque De Avila, N.º 79 100\nNIPC: 509152635 Tlf:213500700\nCapital Social:5.000.000€\nRua da Graça, n.º2D\n\nFatura-Rec:POST 50031/49313\n2019-09-30 12:51:27\n\nCLIENTE: FLIKEHOME,LDA\nN. CONT: 510776914\nVIATURA: 31-UL-55\n\nGasolina 95 s/c 6,97 LTS\nIVA 23.00% PVP 1.579 €/L\nTOTAL 11.01  €\n\nDinheiro 11.01  €\n\nTaxa Incidência T.IVA\n23.00% 8.95  2.06\n\nj7Pi-Processado por\nprograma certificado\nn°311/AT, WARESOFT\n\nOBRIGADO E BOA VIAGEM"
+  }
+}

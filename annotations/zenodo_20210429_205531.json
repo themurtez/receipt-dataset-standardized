@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "H3 Tivoli Forum",
+    "address": "Av. Fontes Pereira de Melo Torre 3 Piso 3",
+    "phone": "213841030",
+    "tax_id": "506786436",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-10-17",
+    "time": "13:40:57",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 7.5,
+    "tax": 0.95,
+    "tip": 0.0,
+    "total": 7.5,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "H3 Grilled Dish",
+      "quantity": 1,
+      "unit_price": 6.5,
+      "total_price": 6.5,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_205531.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "new hamburgology\nH3 Tivoli Forum\nH3 Portugal, S.A\nAv. Fontes Pereira de Melo Torre 3 Piso 30\n1070-274 Lisboa\nTelefone: 213841030\nNo. Contribuinte: 506786436\n\nData: 2019-10-17 Hora: 13:40:57\nQT Artigo IVA Total\n1 H3 Grilled Dish 13% EUR 6.50\n\nTotal EUR 6.50\n\nIVA incluído à taxa legal em vigor\nIDTrans: 000005703239 IDItem: 9002327\n\nCopyright GrupoPIE, SA"
+  }
+}

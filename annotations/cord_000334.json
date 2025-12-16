@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Nagoya",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 80909.0,
+    "tax": 8091.0,
+    "tip": 0.0,
+    "total": 89000.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Kwetiaw Ayam Jamur",
+      "quantity": 2,
+      "unit_price": 28182.0,
+      "total_price": 56364.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "1/2 Otak-Otak",
+      "quantity": 1,
+      "unit_price": 10000.0,
+      "total_price": 10000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Es Cincau",
+      "quantity": 1,
+      "unit_price": 14545.0,
+      "total_price": 14545.0,
+      "category": "Beverage",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000334.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Nagoya\n\n2 Kwetiaw Ayam Jamur 56.364\n1 1/2 Otak-Otak 10.000\n1 Es Cincau 14.545\n\nSubtotal 80.909\nPB 1 8.091\nTotal 89.000\n"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "CASA DAS CHAVES O ALEMAO",
+    "address": "R. Bartolomeu Dias, Lote 16, Lj 3, 8200-096 Albufeira",
+    "phone": "289 512810",
+    "tax_id": "175067120",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-07-08",
+    "time": "18:41:02",
+    "currency": "EUR",
+    "payment_method": "Numerario/Caixa",
+    "subtotal": 26.02,
+    "tax": 5.98,
+    "tip": 0.0,
+    "total": 32.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CHAVE DE CRUZ",
+      "quantity": 1,
+      "unit_price": 8.0,
+      "total_price": 8.0,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHAVE DE CRUZ",
+      "quantity": 1,
+      "unit_price": 8.0,
+      "total_price": 8.0,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHAVE DE CRUZ",
+      "quantity": 1,
+      "unit_price": 8.0,
+      "total_price": 8.0,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHAVE DE CRUZ",
+      "quantity": 1,
+      "unit_price": 8.0,
+      "total_price": 8.0,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_171828.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CASA DAS CHAVES O ALEMAO\nJosé Agusto Saraiva\nNIF: 175 067 120\nR.Bartolomeu Dias, Lote 16, L.J3\n8200-096 Albufeira\nTelefone: 289 512810\nFactura: 19FT 001/791\nData:2019-07-08 18:41:02\nNome: FLIKEHOME ALGARVE\nContribuinte: 514407395\nDescrição Pvu. Qtd. Desc. Valor\nCHAVE DE CRUZ 8,00 1 8,00\nItens: 4 32,00\nIliquido 26,02\nTotal a Pagar: 32,00 €\nNUMERARIO/CAIXA 32,00 €\nVERIFIÇADO THANK YOU MERCI\n"
+  }
+}

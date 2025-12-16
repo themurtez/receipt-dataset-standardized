@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Villa d'Este Restaurant",
+    "address": "186 Jericho Tpke, Floral Park, NY 11001",
+    "phone": "(516) 354-1355",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-08",
+    "time": "16:44:05",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 87.25,
+    "tax": 7.53,
+    "tip": 0.0,
+    "total": 94.78,
+    "accounting_category": "Dining",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Coffee",
+      "quantity": 1,
+      "unit_price": 3.5,
+      "total_price": 3.5,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Glass House Wine",
+      "quantity": 1,
+      "unit_price": 9.95,
+      "total_price": 9.95,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Jumbo Cocktail Shrimp",
+      "quantity": 1,
+      "unit_price": 12.95,
+      "total_price": 12.95,
+      "category": "Appetizer",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Escargot Bourgignonne",
+      "quantity": 1,
+      "unit_price": 10.95,
+      "total_price": 10.95,
+      "category": "Appetizer",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Veal Zingara",
+      "quantity": 1,
+      "unit_price": 25.95,
+      "total_price": 25.95,
+      "category": "Main Course",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Duckling ala Arancio",
+      "quantity": 1,
+      "unit_price": 23.95,
+      "total_price": 23.95,
+      "category": "Main Course",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1030-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "VILLA D’ESTE RESTAURANT\n186 Jericho Tpke\nFloral Park. NY 11001\n(516) 354-1355\nServer: Jerry Station: 6\nTable: 3 Dine In Guests: 2\n1 Coffee 3.50\n1 Glass House Wine 9.95\n1 Jumbo Coctail Shrimp 12.95\n1 Escargot Bourgignonne 10.95\n1 Veal Zingara 25.95\n1 Duckling ala Arancio 23.95\nSUB TOTAL: 87.25\nTax 1: 7.53\nTOTAL: $94.78\n>> Ticket#: 7 <<\n12/8/2017 4:44:05 PM\nThank you for dining at Villa D’Este\nPlease come again soon."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Tomas Ribeiro",
+    "address": "R. Atores António Silva, N7, 1649-033 Lisboa",
+    "phone": "213136180",
+    "tax_id": "5107776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-07-08",
+    "time": "21:21:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 6.38,
+    "tax": 0.38,
+    "tip": 0.0,
+    "total": 6.76,
+    "accounting_category": "Beverages",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Compal Sumol Laranja",
+      "quantity": 4,
+      "unit_price": 1.69,
+      "total_price": 6.76,
+      "category": "Beverage",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 3.24
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_201241.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TOMAS RIBEIRO\nTel. 213136180\nPingo Doce, Distribuição Alimentar, S.A.\nSede: R Atores: Antonio Silva, N7, 1649-033 Lisboa\nRegisto C.R.C. Lisboa-Matricula/NIPC: 500829993\nANREEE: PT01730 V. Social: 33,808,115 EUR\n\nArtigos\nBEBIDAS\nC 6% COMPAL SUMOL LARANJA\n4 X 1,69 6,76\n\nTOTAL A PAGAR 6,76\n\nPagamentos\nTOTAL PAGO 10,00\nTROCO 3,24\nEURO 10,00\n\nResumo IVA\nTaxa % Valor s/IVA Valor IVA Valor c/IVA\n6 6,38 0,38 6,76\n\nAtend. por: Joana Santos\n\n03493 2019-07-08 21:21 0005 0002 0440\n\nN. Contribuinte: 5107776914\nNome...: Feels Like Home\nMorada..: AV DA LIBERDADE 36 1B 1250/145\nLocalidade..: Lisboa\n\nLocal carga...: TOMAS RIBEIRO\nLocal descarga...: Morada do cliente\nData...: 2019-07-08 Hora: 21:21\n\nFatura necessária para troca em 15 dias\n(Artigos têxtil e Calçado prazo 30 dias)\nNão se trocam medicamentos e artigos assimilados\n\nApoio ao Cliente\n808 20 45 45 2101 144 11 (24 horas)"
+  }
+}

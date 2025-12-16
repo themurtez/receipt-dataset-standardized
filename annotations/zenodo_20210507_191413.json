@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "FEELSLIKEHOME. LDA",
+    "address": "LISBOA, LISBOA, LISBOA",
+    "phone": "218876556",
+    "tax_id": "510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2023-10-05",
+    "time": "15:30:00",
+    "currency": "EUR",
+    "payment_method": "Dinheiro",
+    "subtotal": 12.3,
+    "tax": 2.3,
+    "tip": 0.0,
+    "total": 12.3,
+    "accounting_category": "Services",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SERVIÇOS PRESTADOS",
+      "quantity": 2,
+      "unit_price": 6.15,
+      "total_price": 12.3,
+      "category": "Services",
+      "accounting_category": "Services",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_191413.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BancoBIC\nFATURA SIMPLIFICADA\nFEELSLIKEHOME, LDA\nLISBOA\nTEL: 218876556\nNIF: 164579869\nCliente: 91 NIF: 510776914\nORIGINAL\nA / 3171\n23 223\n2.000 X 6,15 12.30\nSUB-TOTAL 12.30\nDinheiro 12.30\nTOTAL 12.30\nTaxa Incidências\ne IS - 23.00% 10.00 2.30\nOBRIGADO PELA VISITA\nOperadora: Sonia\nProc.: 9'prog. certificado 08/06/ AT JNqz"
+  }
+}

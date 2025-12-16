@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Ice Beach Cafe",
+    "address": "Rua das Pescadores, Lote 1, 8600-162 Luz",
+    "phone": "",
+    "tax_id": "NIF: 513213171",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-25",
+    "time": "15:07:00",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 12.98,
+    "tax": 1.87,
+    "tip": 0.0,
+    "total": 13.8,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Ice Cream 1 Scoop",
+      "quantity": 1,
+      "unit_price": 1.8,
+      "total_price": 1.8,
+      "category": "Dessert",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Toastes",
+      "quantity": 2,
+      "unit_price": 4.5,
+      "total_price": 9.0,
+      "category": "Main Course",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ice Tea Peach",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Bica",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210320_170127.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Ice Beach Cafe\nArquivo sao Sebastian - Unipesoal, Lda\nRua das Pescadores, Lote 1\n8600-162 Luz\nNIF: 513213171 SOC. CRC: Lagos\nFatura\n\nSusana\nData: 2019-03-25\nHora: 15:07\n\nQuant Artigo\n1 Ice Cream 1 Scoop\n2 Toastes\n1 Ice Tea Peach\n1 Bica\n\nIVA Incidencia Imposto Total\n\nValor\n23,00\n23,00\n\n1,80\n9,00\n2,00\n1,00\n\n23,00 1,80\n13,00 9,00\n23,00 2,00\n13,00 1,00\n\nTotal EUR 13,80\n\nMedio Liquidacao: Multibanco\nRTYZ Processado por Programa\nCertificado n. 5256/AT\nIVA incluido\nSede na:\nRua do Poco\n8600-162 Luz\n\nObrigado pela Visita"
+  }
+}

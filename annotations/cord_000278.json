@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "KOI",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 40909,
+    "tax": 0,
+    "tip": 0,
+    "total": 45000,
+    "accounting_category": "Beverages",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "S-Fresh Lemon Lime",
+      "quantity": 1,
+      "unit_price": 14000,
+      "total_price": 14000,
+      "category": "Beverages",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "S-Fresh Lemon Lime",
+      "quantity": 1,
+      "unit_price": 14000,
+      "total_price": 14000,
+      "category": "Beverages",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "S-Fresh Lemon Lime with Bubbles",
+      "quantity": 1,
+      "unit_price": 17000,
+      "total_price": 17000,
+      "category": "Beverages",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0,
+    "change_due": 0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000278.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1X S-Fresh Lemon Lime @14,000 14,000\n100%\n1X S-Fresh Lemon Lime @14,000 14,000\n0%\n1X S-Fresh Lemon Lime @14,000 17,000\nBubbles 3,000\n100%\nLess Ice\nPB1: 4,090\nSubtotal: 40,909\nTotal: 45,000\nCash: 45,000\nCHANGE: 0"
+  }
+}

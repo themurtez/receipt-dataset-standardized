@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (M) SDN BHD",
+    "address": "LOT 1851-A & 1851-R, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000306020352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-01-25",
+    "time": "11:59:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 19.81,
+    "tax": 1.19,
+    "tip": 0.0,
+    "total": 21.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BASKET W/HOOK 9314#",
+      "quantity": 1,
+      "unit_price": 3.5,
+      "total_price": 3.5,
+      "category": "Household Items",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TOILET PAPER HOLDER BWJ-2503#",
+      "quantity": 1,
+      "unit_price": 17.5,
+      "total_price": 17.5,
+      "category": "Household Items",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619698.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. D.I.Y. (M) SDN BHD\nCo-REG: 806671-D\nLOT 1851-A & 1851-R, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No : 000306020352)\n(SELAYANG MALL)\n-TAX INVOICE-\n-----------------------------------------\nBASKET W/HOOK 9314#\nUF31/3-41/ - 12/144\n6934091453268 1 X 3.50 3.50\nTOILET PAPER HOLDER BWJ-2503#\nW-18 - 24\n6946208425037 1 X 17.50 17.50\n\nItem(s) : 2 Qty(s) : 2\n-----------------------------------------\nTOTAL INCL. GST@6% RM 21.00\nCASH RM 21.00\nGST @6% included in total RM 1.19\n-----------------------------------------\n25-01-16 11:59 SH01 ZJ08 T3 R000276342\nOPERATOR SLC - NOR RUZITA\n\nEXCHANGE ARE ALLOWED WITHIN\n3 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

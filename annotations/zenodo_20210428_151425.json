@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Parque Chão do Loureiro",
+    "address": "Avenida de Berna n11, 1050 Lisboa",
+    "phone": "",
+    "tax_id": "503311332",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-21",
+    "time": "17:02:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 1.18,
+    "tax": 0.27,
+    "tip": 0.0,
+    "total": 1.45,
+    "accounting_category": "Parking",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Estadia",
+      "quantity": 1,
+      "unit_price": 1.45,
+      "total_price": 1.45,
+      "category": "Parking",
+      "accounting_category": "Parking",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_151425.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Parque Chão do Loureiro\nEMEL - Parq. M Estacionamento Lish\nAvenida de Berna n11\n1050 Lisboa\nNIF: 503311332\n\n21/02/2019 17:02 T19/703/0008\nCaixa: 703\nN. Recibo: 19/703/000777\n\nCliente: Consumidor Final\nN.I.F.: \n\n*** Cloureiro-Rot. ** Estadia\nNúmero bilhete: 02010078433\nTarifa: Parque\nEntrada: 21/02/2019 16:02\nPagamento: 21/02/2019 17:02\nDur. Estadia: 00:01:00\nValor: 1.45€\n\nBase incid.: 1.18€\nI.V.A.(23%): 0.27€\n\nT O T A L: 1.45€\n\n*** ORIGINAL ***\n\nRIZ-Processado por Programa\nCertificado n. 1250/AT\n\nObrigado pela sua visita.\nData emissão: 21/02/2019 17:03"
+  }
+}

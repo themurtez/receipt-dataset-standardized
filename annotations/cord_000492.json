@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 73000.0,
+    "tax": 7300.0,
+    "tip": 0.0,
+    "total": 80300.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Nasi Putih",
+      "quantity": 1,
+      "unit_price": 13000.0,
+      "total_price": 13000.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Ayam Gr Bumbu",
+      "quantity": 2,
+      "unit_price": 22000.0,
+      "total_price": 44000.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Nestle 330 ML",
+      "quantity": 2,
+      "unit_price": 8000.0,
+      "total_price": 16000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 20200.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000492.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "NASI PUTIH 13,000\n2X\nAYAM GR BUMBU 44,000\n2X\nNESTLE 330 ML 16,000\n5.00 ITEMS\nSUBTOTAL 73,000\nTAX 10% 7,300\nTOTAL 80,300\nCASH 100,500\nCHANGE 20,200"
+  }
+}

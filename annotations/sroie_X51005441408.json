@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "32 PUB & BISTRO",
+    "address": "78G, JALAN SS21/62, DAMANSARA UTAMA, 47400 PETALING JAYA.",
+    "phone": "",
+    "tax_id": "000416321536",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-10",
+    "time": "23:03:06",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 179.25,
+    "tax": 10.75,
+    "tip": 0.0,
+    "total": 190.0,
+    "accounting_category": "Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "HEINEKEN (5 BTL)",
+      "quantity": 2,
+      "unit_price": 95.0,
+      "total_price": 190.0,
+      "category": "Alcohol",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 10.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005441408.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "32 PUB & BISTRO own by CNU TRADING \n78G, JALAN SS21/62,\nDAMANSARA UTAMA,\n47400 PETALING JAYA.\n(GST Reg. No : 000416321536)\nTax Invoice\nTable 5\nINV No. 504233 Pax(s): 0\nDate : 10-03-2018 23:03:06\nCashier: CHEN\nDescription Qty U.price Total TAX\nHEINEKEN (5 BTL)\n2 x 95.00 190.00 SR\nTotal (Excluding GST): 179.25\nGST Payable: 10.75\nTotal (Inclusive of GST): 190.00\nTOTAL: 190.00\nClosed: 32 11-03-2018 00:32:02\nServer: CHEN\nCASH : 200.00\nCHANGE : 10.00\nGST Summary Amount (RM) Tax (RM)\nSR (@ 6%) 179.25 10.75\n**** Thank You ****\nPlease Come Again\n"
+  }
+}

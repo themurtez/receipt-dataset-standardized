@@ -1,0 +1,118 @@
+{
+  "merchant": {
+    "name": "Restaurante Pinoquio",
+    "address": "Praça dos Restauradores, n.79/80, 1250-188 Lisboa",
+    "phone": "213465106",
+    "tax_id": "510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-10-03",
+    "time": "23:28:00",
+    "currency": "EUR",
+    "payment_method": "Cartao de Debito",
+    "subtotal": 107.72,
+    "tax": 17.08,
+    "tip": 0.0,
+    "total": 124.8,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Amêijoas a Bulhão",
+      "quantity": 1,
+      "unit_price": 23.0,
+      "total_price": 23.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Gambas AJ",
+      "quantity": 0.59,
+      "unit_price": 50.0,
+      "total_price": 29.5,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Tulipa",
+      "quantity": 9,
+      "unit_price": 1.5,
+      "total_price": 13.5,
+      "category": "Drink",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Refrigerante",
+      "quantity": 1,
+      "unit_price": 2.3,
+      "total_price": 2.3,
+      "category": "Drink",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Cerveja",
+      "quantity": 2,
+      "unit_price": 3.0,
+      "total_price": 6.0,
+      "category": "Drink",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Ameixa Amarg",
+      "quantity": 1,
+      "unit_price": 13.5,
+      "total_price": 13.5,
+      "category": "Drink",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Porto",
+      "quantity": 1,
+      "unit_price": 4.5,
+      "total_price": 4.5,
+      "category": "Drink",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Cafe",
+      "quantity": 1,
+      "unit_price": 1.2,
+      "total_price": 1.2,
+      "category": "Drink",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Descafeinado",
+      "quantity": 1,
+      "unit_price": 1.2,
+      "total_price": 1.2,
+      "category": "Drink",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 9,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_204348.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Restaurante Pinoquio\nPraça dos Restauradores, n.79/80,1250-188 Lisboa\nTel.:213465106RCRC Lisboa - Cap. Soc.: 30.000\n2019-10-03 FATURA-RECIBO N.:\nOriginal FT 1A1901/20464\n23:28 MESA N.: 150\nFLIKHOME, LDA\n0000 000\nContribuinte: 510776914\nQTD UNI DESCRICAO IVA VALOR\n1 Uni Ameijoas a Bu 13% 23,00\nPreco: 23,00/Unidade\n0,59 Kg Gambas AL AJI 13% 29,50\nPreco: 59,90/Kg\n9 Uni Tulipa 23% 13,50\nPreco: 1,50/Unidade\n1 Uni Refrigerante 23% 2,30\nPreco: 2,30/Unidade\n2 Uni Cerveja 23% 6,00\nPreco: 3,00/Unidade\n1 Uni Ameixa Amarg 23% 13,50\nPreco: 13,50/Unidade\n1 Uni Porto corrento 23% 4,50\nPreco: 4,50/Unidade\n1 Uni Cafe 13% 1,20\nPreco: 1,20/Unidade\n1 Uni Descafeinado 13% 1,20\nPreco: 1,20/Unidade\nTAXA IVA INCID.\n10% 76,90\n13% 30,81\n23% 107,72\nTOTAL: Eur 124,80\nVendido por: Barbosa\nPago por Cartao de Debito\nMuito obrigado pela sua visita\nOs servicos e/ou bens foram realizados e/ou colocado à disposicao do adquirente nesta data (Art 3° do CIVA, No5 alinea F)"
+  }
+}

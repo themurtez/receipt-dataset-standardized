@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "IKEA Alfragide",
+    "address": "Estrada Nacional 117, 2610-086 Amadora",
+    "phone": "",
+    "tax_id": "502510156",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-10-23",
+    "time": "16:13:00",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 5.0,
+    "tax": 0.93,
+    "tip": 0.0,
+    "total": 5.0,
+    "accounting_category": "Furniture",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "JALL tab engom/mes 73x32",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Furniture",
+      "accounting_category": "Furniture",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_214123.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Obrigado por Visitar a IKEA Alfragide!\nIKEA Portugal - Móveis e Decoração Lda\nFactura RE Nº P0101627\nEst. N 286 Seteuta, 2600-001 Freitas\nCapital Social: 50.000.000. Ourope: 5095101564\nFac:\nDoc.Nº: FAC/Asia/20190505/260\n\nNome\nMorada\nFlkhome Mediação Imobílliária\nAvenida da Liberdade 36,\n1ºB\nPais PT\nCódig Postal 1250-145\nCidade\nLisboa\nCarga em Nossas Instalações\nData 2019-10-23 16:13:00\n\nJALL\nArt./EAN 20242890 21692\nJALL tab engom/mes 73x32 5,00 E\n\nTotal de artigos\nOutros Cartões\nIKEA ALFRAGIDE\nAMADORA\nTerminal Pagamento Automático: 00563687\n2019-10-23 16:12:48 Per046 Tr084 Msg6171\n\nC\n\nMB\nCOMPRA\n5,00 EUR\nCOPlA CLIENTE\n\nInclui IVA: Taxa Líquido TVA\n23,00 % 4,07 0,93\nPS Trans\n2019.10.23 16:13 Emp Trams\n23.19.10.23\nT: -----2500/G\nIf you must keep this tax receipt, you will have health benefits.\n"
+  }
+}

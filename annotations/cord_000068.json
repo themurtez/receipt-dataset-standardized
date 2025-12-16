@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Super Foods Bar",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "PHP",
+    "payment_method": "",
+    "subtotal": 113000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 113000.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Berry Many-Low (P)",
+      "quantity": 1,
+      "unit_price": 37500.0,
+      "total_price": 37500.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "500 days of summer (P)",
+      "quantity": 1,
+      "unit_price": 37500.0,
+      "total_price": 37500.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "sun kissed (P)",
+      "quantity": 1,
+      "unit_price": 37500.0,
+      "total_price": 37500.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "PLASTIC BAG",
+      "quantity": 1,
+      "unit_price": 500.0,
+      "total_price": 500.0,
+      "category": "Grocery",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000068.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Berry Many-Low (P) 37,500.00\n1 500 days of summer (P) 37,500.00\n1 sun kissed (P) 37,500.00\n1 PLASTIC BAG 500.00\nSubTotal 113,000.00\nDiscount 0.00\nTotal 113,000.00\nPayment 113,000.00\nChange 0.00\n4 item(s) closed"
+  }
+}

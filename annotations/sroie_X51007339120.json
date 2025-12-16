@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "SANYU STATIONERY SHOP",
+    "address": "NO. 31G&33G, JALAN SETIA INDAH X, U13/X, 40170 SETIA ALAM",
+    "phone": "+603-3362 4137",
+    "tax_id": "001531760640",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-18",
+    "time": "",
+    "currency": "MYR",
+    "payment_method": "cash",
+    "subtotal": 8.77,
+    "tax": 0.53,
+    "tip": 0.0,
+    "total": 9.3,
+    "accounting_category": "stationery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SB-5882 CAMIS NCR BILL BOOK 5\"x8\" (BB-5882)",
+      "quantity": 1,
+      "unit_price": 3.5,
+      "total_price": 3.5,
+      "category": "office supplies",
+      "accounting_category": "office supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "RESTAURANT ORDER CHIT NCR 3.5\"x6\"",
+      "quantity": 2,
+      "unit_price": 2.9,
+      "total_price": 5.8,
+      "category": "office supplies",
+      "accounting_category": "office supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 40.7
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007339120.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SANYU STATIONERY SHOP\nNO. 31G&33G, JALAN SETIA INDAH X, U13/X\n40170 SETIA ALAM\nMobile /Whatapps : +6012-918 7937\nTel: +603-3362 4137\nGST ID No: 001531760640\nTAX INVOICE\nOwned By :\nSANYU SUPPLY SDN BHD (1135772-K)\nCASH SALES COUNTER\n-----------------------------------------------------\n1. 2012-0021  SB-5882 CAMIS NCR BILL BOOK 5\"x8\" (BB-5882)\n1 X 3.5000  -  3.50  SR\n2. 2012-0029  RESTAURANT ORDER CHIT NCR 3.5\"x6\"\n2 X 2.9000  -  5.80  SR\n-----------------------------------------------------\nTotal Sales Inclusive GST @6%  9.30\nDiscount  0.00\n  ---------------\nTotal  9.30\nRound Adj  0.00\nFinal Total  9.30\n  ==============\nCASH  50.00\nCHANGE  40.70\n-----------------------------------------------------\nGST Summary  Amount(RM)  Tax(RM)\nSR @ 6%  8.77  0.53\n-----------------------------------------------------\nINV NO:  CS-SA-0125293  Date : 18/11/2017\n-----------------------------------------------------\nGoods sold are not Returnable & Refundable\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN.\nTERIMA KASIH  SILA DATANG LAGI\n** PLEASE KEEP THIS RECEIPT FOR PROVE OF\nPURCHASE DATE FOR I.T PRODUCT WARRANTY\nPURPOSE **\nFollow us in Facebook: Sanyu.Stationery"
+  }
+}

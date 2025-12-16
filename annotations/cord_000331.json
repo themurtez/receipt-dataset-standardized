@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 49091.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 54000.0,
+    "accounting_category": "restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "KWT GR MGMSP",
+      "quantity": 1,
+      "unit_price": 43182.0,
+      "total_price": 43182.0,
+      "category": "food",
+      "accounting_category": "food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TEH HANGAT",
+      "quantity": 1,
+      "unit_price": 5909.0,
+      "total_price": 5909.0,
+      "category": "beverage",
+      "accounting_category": "beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000331.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KWT GR MGMSP 43,182\nTEH HANGAT 5,909\n2 No\nSUB TOTAL 49,091\nPJR 4,909\nTOTAL 54,000\nCASH 54,000"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "HAI-O RAYA BHD",
+    "address": "LOT 11995, BATU 2, JALAN KAPAR, 41400 KLANG, SELANGOR",
+    "phone": "03-62636977",
+    "tax_id": "001600892928",
+    "website": "http://www.hai-o.com.my"
+  },
+  "transaction": {
+    "date": "2016-12-15",
+    "time": "10:24:42",
+    "currency": "MYR",
+    "payment_method": "VISA",
+    "subtotal": 47.7,
+    "tax": 2.7,
+    "tip": 0.0,
+    "total": 47.7,
+    "accounting_category": "Sale",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "HERBY PIPA GAO CONCENTRATE-TCM",
+      "quantity": 2,
+      "unit_price": 26.5,
+      "total_price": 47.7,
+      "category": "Health Product",
+      "accounting_category": "Merchandise",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619550.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "HAI-O RAYA BHD (169199-V)\nKEPONG OUTLET\nTEL / FAX : 03-62636977\nGST ID NO: 001600892928\nHQ ADD: LOT 11995, BATU 2, JALAN KAPAR\n41400 KLANG, SELANGOR\nDATE: 15/12/2016 10:24:42\nINVOICE NO: 11508705\nHERBY PIPA GAO CONCENTRATE-TCM 47.70\nSR 005820091 2x 26.5000\nVIP Disc. 10.00% -5.30\nSUBTOTAL INCL. GST 6.00% RM 47.70\nROUNDING ADJ RM 0.00\nTOTAL INCL. GST 6.00% RM 47.70\nTERMINAL: PBB\nVISA 47.70\nCHANGE RM 0.00\nGST Summary Amount(RM)\nSR @ 6.00% 45.00\n45.00 2.70\nQTY: 2 01 107 MAH THIAM HUAT 5\nBRANCH: M003\nPRINT DATE: 15/12/2016 10:24:42\nVIP: LEE MEI YEIN\nTOTAL SAVING: RM 5.30\nTHANK YOU, PLEASE COME AGAIN.\nGOODS SOLD ARE NOT REFUNDABLE BUT\nEXCHANGEABLE AT STORE OF PURCHASE WITHIN\n7 DAYS WITH ORIGINAL RECEIPT\nAND PRODUCT IN ORIGINAL CONDITION.\nBUSINESS HOURS:\nMON-SUN 08:30 - 21:30\nVISIT US AT HTTP://WWW.HAI-O.COM.MY"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Selasih Ekslusif Sdn Bhd",
+    "address": "Duty Free Zone (JB), 88 Jalan Ibrahim Sultan, Stulang Laut, 80300 Johor Bahru",
+    "phone": "07-2212888",
+    "tax_id": "000765311720",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-04",
+    "time": "19:34:00",
+    "currency": "RM",
+    "payment_method": "Cash",
+    "subtotal": 256.72,
+    "tax": 15.28,
+    "tip": 0.0,
+    "total": 270.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Winston Round",
+      "quantity": 3,
+      "unit_price": 90.0,
+      "total_price": 270.0,
+      "category": "Cigarettes",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 30.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006414636.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SELASIH EKSLUSIF SDN BHD (524101-D)\nDuty Free Zone (JB)\n88 Jalan Ibrahim Sultan\nStulang Laut\n80300 Johor Bahru\nTel: 07-2212888 Fax: 07-2216888\nGST ID: 000765311720\n\nTAX INVOICE\n\nInv#: I000084182-0000000170000027385\nStaff: S110243 Trans: 89282\nDate: 6/4/2018 19:34\n\nDescription Amount\nX200001720 L01\nWINSTON ROUND\n3 x 90.00 270.00 SR\n\nTotal RM 270.00\n\nCash -300.00\nChange in RM 30.00\n\nNo. of Qty: 3\n\nGST% Net.Amount GST Amount\nSR 6 256.72 15.28 270.00\n\nEligible PWP Amount is : 270\nGOODS SOLD ARE NOT REFUNDABLE\nTHANK YOU"
+  }
+}

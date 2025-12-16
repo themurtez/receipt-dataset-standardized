@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Dia Portugal - Sup Soc. Unip. Lda",
+    "address": "R. de S. Paulo 80\n1200-429 Lisboa",
+    "phone": "",
+    "tax_id": "PT503803508",
+    "website": "www.minipreco.pt"
+  },
+  "transaction": {
+    "date": "2019-09-28",
+    "time": "18:57:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 1.88,
+    "tax": 0.11,
+    "tip": 0.0,
+    "total": 1.99,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Ovos Classe",
+      "quantity": 1,
+      "unit_price": 1.99,
+      "total_price": 1.99,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_191312.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Dia Portugal - Sup Soc. Unip. Lda\nR. de S. Paulo 80\n1200-429 Lisboa\nC.R.C. Num Contrib: PT503803508\nCapital Social Empresa: 51,802,855.12\nNome Cliente: \nFatura/Recibo\nFT 0208330320190102/00010650\nCaixa 3 Data 2019-09-28 Hora 18:57\nCod Operador: 49554\n51743 Ovos Classe Dia 1.99 1 1.99\nTotal a pagar Euros 1.99\nRecebido 1.99\nTroco 0.00\nTipo IVA Base IVA Total\n01 6.00% 1.88 0.11 1.99\nTotal 1.88 0.11 1.99\nLocal Descarga: Morada do Cliente\nwww.minipreco.pt\nSirpeee P1000245\n-Copia para o Cliente"
+  }
+}

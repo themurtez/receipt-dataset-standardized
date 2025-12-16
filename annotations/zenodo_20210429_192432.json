@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Casa Travanca Capucho",
+    "address": "Rua da Atalaia Nº113, 1200-039 Lisboa",
+    "phone": "213424181",
+    "tax_id": "108085813",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-10-01",
+    "time": "16:58:30",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 7.52,
+    "tax": 1.73,
+    "tip": 0.0,
+    "total": 9.25,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "COLA SUPER",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Adhesives",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SILICONE",
+      "quantity": 1,
+      "unit_price": 3.25,
+      "total_price": 3.25,
+      "category": "Sealants",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_192432.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CASA TRAVANCA CAPUCHO\nDE: JOAQUIM ANTÃO TRAVANCA CAPUCHO\nRUA DA ATALAIA NQ113 1200-039 LISBOA\nNIF: 108085813 TEL. 213424181\nFERRAGENS - FERRAMENTAS - MAT.ELECTRICO\nIva Incluido as Taxas Legais em Vigor\n----------------------------------------\nv3bf -Processado por programa certificado n:3/AT\nFactura: 19FT 001/4252 ORIGINAL\nData: 2019-10-01 16:58:30\nA\nDoc Orig:\nNOCliente: 10002059\nNome: F Likehome\nContribuinte: 510776914\nMorada: Lx\nCod Postal:\n----------------------------------------\nParam\nDescricao Iva. Qtd. Desc.% Valor\nCOLA SUPER\n(D) 23 % 6,00 1 6,00\nSILICONE\n(D) 23 % 3,25 1 3,25\nItens: 2 9,25\n----------------------------------------\nIliquido Tax% V.Tax\n(D) 7,52 23 1,73\n\nTotal a Pagar: 9,25 €\nMULTIBANCO\n 9,25 € \n \nOBRIGADO, VOLTE SEMPRE"
+  }
+}

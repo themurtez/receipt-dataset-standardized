@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "C W KHOO HARDWARE SDN BHD",
+    "address": "NO.50, JALAN PBS 14/11, KAWASAN PERINDUSTRIAN BUKIT SERDANG",
+    "phone": "03-89410243",
+    "tax_id": "000549584896",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-01",
+    "time": "17:23:26",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 20.0,
+    "tax": 1.2,
+    "tip": 0.0,
+    "total": 21.2,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "AIR ADAPTOR",
+      "quantity": 5,
+      "unit_price": 4.0,
+      "total_price": 20.0,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005365179.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "3-1707067\n(481500-M)\nC W KHOO HARDWARE SDN BHD\nNO.50, JALAN PBS 14/11,\nKAWASAN PERINDUSTRIAN BUKIT SERDANG,\nTel : 03-89410243 Fax : 03-89410243\nGST Reg No.: 000549584896\nTax Invoice\nInvoice No. : CR 1803/0064\nDate : 01-03-18 5:23:26 PM\nCashier No. : khoo\nCounter No. : c1\nPrinted Date : 01-03-18 5:23:30 PM\nItem Name Qty Unit Price Amount\nAIR ADAPTOR @ 1\n5 4.00 20.00 SR\n-----------------------------------------------------------------\n5 Item(s) Total (MYR) : 20.00\nGST @ 6% : 1.20\nNet Total (MYR) : 21.20\nRounding Adj.: 0.00\n-------------------------\nNet Total Rounded (MYR): 21.20\nCash : 21.20\n-------------------------\nChange : 0.00\n-----------------------------------------------------------------\nGST Summary Item Amount (MYR) GST (MYR)\nSR @ 6% 1 20.00 1.20\n\nThank You. Please Come Again !"
+  }
+}

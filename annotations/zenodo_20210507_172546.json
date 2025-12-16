@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "IKEA",
+    "address": "Avenida da Liberdade 36, 1B, 1250-145 Lisboa, PT",
+    "phone": "",
+    "tax_id": "510776914",
+    "website": "www.ikea.pt"
+  },
+  "transaction": {
+    "date": "2019-10-21",
+    "time": "13:55:35",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 1.63,
+    "tax": 0.37,
+    "tip": 0.0,
+    "total": 2.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "FÖRNUTFT garfo aço inoxidável",
+      "quantity": 4,
+      "unit_price": 0.5,
+      "total_price": 2.0,
+      "category": "Cutlery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 18.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_172546.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "IKEA Portugal - Avenida da Liberdade 36, 1B, 1250-145 Lisboa, PT\nNIF: 510776914\n\nData: 2019-10-21 13:55:35\nArt/EAN: 40428482 22458\nFÖRNUTFT garfo aço inoxidável 4uds 2.00 \nTotal: 2.00\nNumerario: 20.00 EUR\nTroco: 18.00\nInclui IVA: 23% 0.37\nProcessed by: Programa Certificado nº 1999/AT\n"
+  }
+}

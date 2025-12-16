@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "99 SPEED MART S/B",
+    "address": "LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY, 41150 KLANG, SELANGOR",
+    "phone": "",
+    "tax_id": "000181747712",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-02-05",
+    "time": "13:34:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 141.5,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 141.5,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "YONGCHUN LOKAM MNDRN S",
+      "quantity": 5,
+      "unit_price": 12.5,
+      "total_price": 62.5,
+      "category": "Grocery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "YONGCHUN LOKAM MNDRN M",
+      "quantity": 5,
+      "unit_price": 15.8,
+      "total_price": 79.0,
+      "category": "Grocery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 10,
+    "rounding": 0.0,
+    "change_due": 8.5
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005447853.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "99 SPEED MART S/B (519537-X)\nLOT P.T. 2811, JALAN ANGSA,\nTAMAN BERKELEY\n41150 KLANG, SELANGOR\n1317 TRILLIUM SG BESI\nGST ID. NO : 000181747712\n\nINVOICE NO : 18299/102/T0230\n\n01:34PM 568917 05-02-18\n\n2506 YONGCHUN LOKAM MNDRN S\n@5 X RM 12.50\n\n2508 YONGCHUN LOKAM MNDRN M\n@5 X RM 15.80\n\nTotal Sales (Inclusive GST) RM 141.50\nCASH AM RM 150.00\nCHANGE RM 8.50\n\nGST Summary Amount(RM) Tax(RM)\nZ = 0% 141.50 .00\n\nThank You. Please come again\nKeep the invoice for applicable returns"
+  }
+}

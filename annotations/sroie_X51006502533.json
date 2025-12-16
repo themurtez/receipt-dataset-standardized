@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "City Milk",
+    "address": "LOT-18A-2, Berjaya Times Square, Kuala Lumpur",
+    "phone": "",
+    "tax_id": "001557721088",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-19",
+    "time": "13:43:54",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 8.96,
+    "tax": 0.54,
+    "tip": 0.0,
+    "total": 9.5,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Banana Milkshake",
+      "quantity": 1,
+      "unit_price": 9.5,
+      "total_price": 9.5,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 1.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006502533.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CITY MILK\nR&C VENTURE SDN BHD (1191015-W)\nLOT-18A-2, BERJAYA TIMES SQUARE,\nKUALA LUMPUR.\n(GST NO: 001557721088)\n\nTax Invoice\n\nOrder #:139358\n\nINV No.: 539319\nDate : 19-04-2018 13:43:54\nCashier: City Milk Cashier\n\nDescription      Qty      U.price   Total  TAX\nBanana Milkshake(R)\n                   1 x     9.50        9.50  SR\n\nTotal QTY: 1\nTotal (Excluding GST):     8.96\nGST payable (6%):          0.54\nTotal (Inclusive of GST):  9.50\n\nTOTAL:                     9.50\n\nCASH :                     10.50\nCHANGE :                   1.00\n\n------\nGST Summary\nSR        (@ 6%)       Amount(RM)    Tax(RM)\n                     8.96                 0.54\n\n**** Thank You ****\nPlease Come Again"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Popular Book Co. (M) Sdn Bhd",
+    "address": "No 8, Jalan 7/118B, Desa Tun Razak, 56000 Kuala Lumpur, Malaysia",
+    "phone": "03-80709188 / 80757830",
+    "tax_id": "001492992000",
+    "website": "www.popular.com.my"
+  },
+  "transaction": {
+    "date": "2018-03-01",
+    "time": "12:36:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 3.77,
+    "tax": 0.23,
+    "tip": 0.0,
+    "total": 4.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.85
+  },
+  "items": [
+    {
+      "name": "W/ENV4.5*9.5",
+      "quantity": 1,
+      "unit_price": 1.9,
+      "total_price": 1.9,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Uni P&S Env 4.5X9.75",
+      "quantity": 1,
+      "unit_price": 2.1,
+      "total_price": 2.1,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 6.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005757199.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "31803002\nPOPULAR BOOK\nCO. (M) SDN BHD\n(Co. No.: 113825-W)\n(GST Reg No. 001492992000)\nNo 8, Jalan 7/118B, Desa Tun Razak\n56000 Kuala Lumpur, Malaysia\nIOI MALL\nTel : 03-80709188 / 80757830\n01/03/18 12:36 Slip No.: 9070058756\nSITI Trans: 21396\nDescription Amount\nW/ENV4.5*9.5 1.90 T\nUni P&S Env 4.5X9.75 2.10 T\nTotal RM Incl. of GST 4.00\nCash -10.00\nCHANGE 6.00\nItem Count 2\nGST Summary Amount (RM) Tax (RM)\nT @ 6% 3.77 0.23\nTotal Savings 0.00\nBE A POPULAR CARD MEMBER\nAND ENJOY SPECIAL DISCOUNTS\nTHANK YOU. PLEASE COME AGAIN.\nwww.popular.com.my\nBuy Chinese books online\nwww.popularonline.com.my"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Segi Cash & Carry Sdn.Bhd",
+    "address": "PT17920, SEKSYEN U9, 40150 SHAH ALAM, SELANGOR DARUL EHSAN.",
+    "phone": "011-3194 0284",
+    "tax_id": "001951645696",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-01-04",
+    "time": "01:15:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 19.06,
+    "tax": 0.99,
+    "tip": 0.0,
+    "total": 20.05,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "UNICA PAIL 6GL 600",
+      "quantity": 1,
+      "unit_price": 17.41,
+      "total_price": 17.41,
+      "category": "Home Supplies",
+      "accounting_category": "Retail",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "MASSIMO FINE WHOLEMEAL 420G",
+      "quantity": 1,
+      "unit_price": 2.64,
+      "total_price": 2.64,
+      "category": "Groceries",
+      "accounting_category": "Retail",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 29.95
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006334741.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Thank You. Please come again.\nGoods Sold Are Not Returnable.\nFor feedback or complaint, please call:\n011-3194 0284\n*REDEEM VOUCHER BEFORE POINTS EXPIRY!*\n----------------------------------------\nSegi Cash & Carry Sdn.Bhd\n(317041-W)\nPT17920, SEKSYEN U9,\n40150 SHAH ALAM,\nSELANGOR DARUL EHSAN.\nGST Reg. No. : 001951645696\nInvoice No : 47735\nDate : 04 Jan 2017 01:15pm\nCounter : 03\n\nUNICA PAIL 6GL 600 17.41 S\n1 x 17.41\nMASSIMO FINE WHOLEMEAL 420G\n1 x 2.64 2.64 Z\n-----------------------------------------\nNo of items: 2\nTotal Incl. GST:RM 20.05\nCash:RM 50.00\nChange:RM 29.95\nMissed Point Today: 19\nServed by SITI SUHAIDA BT OTHMAN\n\n************** GST Summary **************\nGST Code Amount(RM) Tax(RM)\nS @6.0% 16.42 0.99\nZ @0.0% 2.64 0.00\n******************************************\nRef No: 00600676213047735\nThank You. Please come again.\nGoods Sold Are Not Returnable.\nFor feedback or complaint, please call:\n"
+  }
+}

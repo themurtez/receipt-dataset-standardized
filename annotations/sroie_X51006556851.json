@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "Gardenia Bakeries (KL) Sdn Bhd",
+    "address": "Lot 3, Jalan Pelabur 23/1, 40300 Shah Alam, Selangor",
+    "phone": "03-55423228",
+    "tax_id": "000381999040",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-09-12",
+    "time": "11:58:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 81.57,
+    "tax": 3.21,
+    "tip": 0.0,
+    "total": 84.78,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "O.C. WHITT",
+      "quantity": 5,
+      "unit_price": 2.13,
+      "total_price": 10.65,
+      "category": "Bakery",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "WHOLEMEAL",
+      "quantity": 2,
+      "unit_price": 2.78,
+      "total_price": 5.56,
+      "category": "Bakery",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "O.C. JUMBO",
+      "quantity": 4,
+      "unit_price": 2.97,
+      "total_price": 11.88,
+      "category": "Bakery",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "DELICIA-R/BERRY",
+      "quantity": 2,
+      "unit_price": 3.72,
+      "total_price": 7.44,
+      "category": "Confectionery",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CR-CORN",
+      "quantity": 20,
+      "unit_price": 0.72,
+      "total_price": 14.4,
+      "category": "Confectionery",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "WF-EGG.V",
+      "quantity": 8,
+      "unit_price": 1.03,
+      "total_price": 8.24,
+      "category": "Confectionery",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "KAYA-PANDN",
+      "quantity": 2,
+      "unit_price": 1.03,
+      "total_price": 2.06,
+      "category": "Confectionery",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "HAZEL CHOC",
+      "quantity": 2,
+      "unit_price": 6.9,
+      "total_price": 13.8,
+      "category": "Confectionery",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 45,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006556851.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GARDENIA BAKERIES (KL) SDN BHD (139386 X)\nLot 3, Jalan Pelabur 23/1,\n40300 Shah Alam, Selangor.\nTel.: 03-55423228 Fax:03-55423213\nGST ID: 000381999040\n\nTAX INVOICE / ADJUSTMENT NOTE\nCash Inv No.: 7912F710\n\nDate: 12/09/2017\nV.E0514\nMAKASSAR FRESH MARKET SDN BHD\nGROUND FLOOR. NO. 4 & 6,\nJALAN SS 15/4B,\n47500 SUBANG JAYA, SELANGOR\nVEO5: Ridzuan (11900)\n\nDD: 12/09/2017 11:58\nDescription U.P Iss Exc D Sale Amt(RM)\nO.C. WHITLE 2.13 8 1 0 5 10.65\nWHOLEMEAL 2.78 3 1 0 2 5.56\nO.C JUMBO 2.97 4 0 0 4 11.88\nTotal 0% supplies: 28.09\n\nDELICIA-R/BERRY 3.72 2 0 0 2 7.44\nCR-CORN 0.72 20 0 0 20 14.40\nWF-EGG.V 1.03 8 0 0 8 8.24\nKAYA-PANDN 1.03 2 0 0 2 2.06\nHAZEL CHOC 6.90 2 0 0 2 13.80\nTotal 6% supplies (excl. GST): 53.48\nGST: 3.21\nTotal 6% supplies (Inc. GST): 56.69\nTotal 0% supplies: 28.09\nTotal Payable: 84.78\n\nE.&O.E.\nReceived above goods in good order condition.\nThe recipient of Gardenia’s products is\nrequired to make necessary adjustments to its\ninput tax claims, on the basis of the\nadjustments shown in this Tax Invoice /\nAdjustment Note\nCUSTOMER'S COPY"
+  }
+}

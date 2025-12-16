@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "KFC",
+    "address": "3880 Hempstead Turnpike, Levittown",
+    "phone": "(516)735-3508",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-07-08",
+    "time": "21:16:00",
+    "currency": "USD",
+    "payment_method": "ETender Credit",
+    "subtotal": 20.0,
+    "tax": 1.73,
+    "tip": 0.0,
+    "total": 21.73,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Family Fill Up",
+      "quantity": 1,
+      "unit_price": 20.0,
+      "total_price": 20.0,
+      "category": "Meal",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1134-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KFC\nRestaurant #C160014\n3880 Hempstead Turnpike\nLevittown\n(516)735-3508\nTicket #2884\n2016-07-08 9:16 PM\nC160014 2 117 2884\nCashier: TIANA\nFamily Fill Up 20.00\nLrg Coleslaw\nLrg Mash/ Gvy\nLrg Mash Only\n4 Biscuit\nTax 1.73\nDRIVE THRU $21.73\nETender Credit $21.73\nChange $0.00\nCHARGE DETAIL:SALE"
+  }
+}

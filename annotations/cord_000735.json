@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 75906.0,
+    "tax": 7590.0,
+    "tip": 0.0,
+    "total": 83497.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TEH TAWAR",
+      "quantity": 1,
+      "unit_price": 5454.0,
+      "total_price": 5454.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "AIR MINERAL",
+      "quantity": 2,
+      "unit_price": 7727.0,
+      "total_price": 15454.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "TRIPL CHZ",
+      "quantity": 1,
+      "unit_price": 18636.0,
+      "total_price": 18636.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "SPECIAL SBL MATAH",
+      "quantity": 1,
+      "unit_price": 18181.0,
+      "total_price": 18181.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "ROA GORENG SPC",
+      "quantity": 1,
+      "unit_price": 18181.0,
+      "total_price": 18181.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 16503.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000735.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 TEH TAWAR 5,454\n2 AIR MINERAL 15,454\n1 I TRIPL CHZ 18,636\n1 I SPECIAL SBL MATAH 18,181\n1 I ROA GORENG SPC 18,181\nSubtotal 75,906\nPb1 7,590\nTotal 83,497\nCASH 100,000\nCash CHANGE -16,503\nTotal Item 5\nTotal Qty 6"
+  }
+}

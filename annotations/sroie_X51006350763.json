@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "GL Handicraft & Tailoring",
+    "address": "19, Jalan Kancil, Off Jalan Pudu, 55100 Kuala Lumpur, Malaysia",
+    "phone": "",
+    "tax_id": "001946382735",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-09",
+    "time": "10:52:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 104.0,
+    "tax": 5.89,
+    "tip": 0.0,
+    "total": 104.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Nona Macrylic Yarn",
+      "quantity": 6,
+      "unit_price": 13.0,
+      "total_price": 104.0,
+      "category": "Craft Supplies",
+      "accounting_category": "Goods",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006350763.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GL HANDICRAFT & TAILORING\n19, JALAN KANCIL,\nOFF JALAN PUDU,\n55100 KUALA LUMPUR,\nMALAYSIA\nCompany Reg No. 75495-W\nGST Reg No. 001946382735\nTAX INVOICE\nInvoice No: CS 10217\nDate: 09/04/2018 10:52\nCashier #: 01\nRM Code\nNONA MACRYIC YARN\n6.00 PKTS x 13.00 104.00 SR\nSubtotal: 104.00\nTotal Excl. or GST 98.11\nTotal Incl. of GST 104.00\nTotal Amt Rounded 104.00\nPayment: 104.00\nChange Due: 0.00\nTotal item(s): 8\nGST Summary Amount(RM) Tax(RM)\nSR @ 6% 98.11 5.89\n****** THANK YOU *****\n** PLEASE COME AGAIN ***"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Oriente Perfeito",
+    "address": "Entreposto Serva Bloco 1 Fracão F, Apartado 7001 Vale Paraíso, 8200-567 Ferreiras Albufeira",
+    "phone": "",
+    "tax_id": "509183760",
+    "website": "www.techsul.pt Albufeira"
+  },
+  "transaction": {
+    "date": "2019-07-14",
+    "time": "13:57:00",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 6.0,
+    "tax": 1.12,
+    "tip": 0.0,
+    "total": 6.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TAPETE DE BAN",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_171049.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Oriente Perfeito\nEntreposto Serva Bloco 1 Fracao F\nApartado 7001 Vale Paraiso\n8200-567 Ferreiras Albufeira\nCONT: 509183760\nConser. Registo Comercial V.F.Xira\n\n2019-07-14\nOriginal \t FATURA-RECIBO N:\n13:57 BALAO 5  FT 1A1905E1/33832\n\nFlikehome Algarve, Lda\nLisboa\n\n1250 145 Lisboa\nContribuinte: 514407395\n\nQTD  UNI  DESCRICAO           IVA  VALOR\n1     1   TAPETE DE BAN 23% 6,00\nPreco: 6,00/Un\n\nTAXA                      IVA   VALOR\n23%                         1.12   4.88\nTOTAL INCIDENCIAS:           1,12  4.88\n\nTOTAL:\nEur 6,00\n\nPago em Numerario\nValor entregue: 6,00\nTroco: 0,00\n\nTROCAS NO PRAZO DE 15 DIAS\nNAO DEVOLVEMOS DINHEIRO\n\nObrigado pela sua visita\nLicenciado por www.Techsul.pt Albufeira\n\n-----------------------------------------------------------------------------\n\nmIJ-Processado por programa\ncertificado n. 196/AT\nOs servicos e/ou bens foram realizados e/o\ncolocados a disposicao do adquirente nes\n\nLicenca: Oriente Perfeito, Lda\nContribuinte: 509183760"
+  }
+}

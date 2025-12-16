@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 178133.0,
+    "tax": 17618.0,
+    "tip": 0.0,
+    "total": 196001.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Philly Cheesesteak SL",
+      "quantity": 1,
+      "unit_price": 36455.0,
+      "total_price": 36455.0,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Sausage Pastry Roll",
+      "quantity": 1,
+      "unit_price": 29531.0,
+      "total_price": 29531.0,
+      "category": "Snack",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Creamy Beef Ols FTC",
+      "quantity": 1,
+      "unit_price": 44774.0,
+      "total_price": 44774.0,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Aqua Bottle",
+      "quantity": 1,
+      "unit_price": 10909.0,
+      "total_price": 10909.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Lipton Ice Tea Regula",
+      "quantity": 2,
+      "unit_price": 32728.0,
+      "total_price": 32728.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Paket Happy Hour",
+      "quantity": 1,
+      "unit_price": 24273.0,
+      "total_price": 24273.0,
+      "category": "Combo Meal",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Garlic Cheese Bread",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Snack",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Cold Frape",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000666.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 PHILLY CHEESESTEAK SL 35,455\n1 SAUSAGE PASTRY ROLL 29,531\n1 CREAMY BEEF CLS FTC 44,774\n1 AQUA BOTTLE 10,909\n2 LIPTON ICE TEA REGULA 32,728\n1 PAKET HAPPY HOUR 24,273\n1 GARLIC CHEESE BREAD\n1 COLD FRAPE\nSUBTOTAL 178,183\nTAX 17,618\nTOTAL 196,001"
+  }
+}

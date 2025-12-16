@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "UNIHakka International Sdn Bhd",
+    "address": "12, Jalan Tampoi 7/4, Kawasan Perindustrian Tampoi, 81200 Johor Bahru, Johor",
+    "phone": "",
+    "tax_id": "867388-U",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-24",
+    "time": "18:29:00",
+    "currency": "USD",
+    "payment_method": "CASH",
+    "subtotal": 7.92,
+    "tax": 0.48,
+    "tip": 0.0,
+    "total": 8.4,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "1 Meat + 2 Vege",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Imported Veggies",
+      "quantity": 1,
+      "unit_price": 1.6,
+      "total_price": 1.6,
+      "category": "Food",
+      "accounting_category": "Side Dish",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Add Vegetable (X)",
+      "quantity": 1,
+      "unit_price": 0.8,
+      "total_price": 0.8,
+      "category": "Food",
+      "accounting_category": "Add-On",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006913070.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "UNIHAKKA INTERNATIONAL SDN BHD\n24 May 2018 18:29\n(867388-U)\n12, Jalan Tampoi 7/4,Kawasan Perindustrian Tampoi,81200 Johor Bahru,Johor\nTAX INVOICE\nInvoice # : OR18052402170329\nItem Qty Total\nSR I001000000025- 1 Meat + 2 Vege\n$6.00 1 $6.00\nSR I00100000170- Imported Veggies\n$1.60 1 $1.60\nSR I00100000149- Add Vegetable (X)\n$0.80 1 $0.80\nTotal Amount: $8.40\nGST @6%: $0.48\nNett Total: $8.40\nPayment Mode Amount\nCASH $8.40\nChange $0.00\nGST Summary Amount($) Tax($)\nSR = GST @6% 7.92 0.48\nGST REG #000656195584\nBAR WANG RICE@PERMAS JAYA\n(Price Inclusive Of GST)\nThank You & Come Again!\nLike and Follow Us on Facebook!\nFacebook.com/BarWangRice"
+  }
+}

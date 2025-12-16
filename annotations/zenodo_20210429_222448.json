@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Auchan Amoreiras",
+    "address": "Trav. Teixeira Junior, 1, 1300-553 Lisboa",
+    "phone": "210475900",
+    "tax_id": "502052790",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-11-24",
+    "time": "18:11:00",
+    "currency": "EUR",
+    "payment_method": "Card",
+    "subtotal": 29.99,
+    "tax": 5.61,
+    "tip": 0.0,
+    "total": 35.6,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Atualizacao",
+      "quantity": 1,
+      "unit_price": 29.99,
+      "total_price": 29.99,
+      "category": "Service",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.01,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_222448.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Auchan Amoreiras\nTel: 210475900 / Fax: 217103495\nAuchan Retail Portugal, S.A.\nSede: Trav. Teixeira Junior, 1\n1300-553 Lisboa\nMat.C.R.C. Lisboa N.I. Secao\nCap. Social: 64.025.000 Euros\nISREEE: PT01910\nContribuinte N. 502052790\nFATURA\nN. 124702201911002177723 SQ.733245\nName: FEELSLIKEHOME LOA\nMorada: NAO COMUNICADO\nC.P. 0000000\nNo. Cont: 510797619\nARTIGO/QT/LT PRECO VALOR\nAtualizacao\n12 AQUEC. SEL.141865 29,99\n1 Voume\nTOTAL PAGO 29.99\nNUMERARIO 30.00\nTROCO 0.01\nRESUMO Iva\nTAXA BASE VALOR\nIVA Incluida\n23,00% (23) 24,38 5,61\nTOTAL 23 24,38 5,61\nMOV:241115\nLocal de Carga:\nAv. Eng. D. P. C. L. Anjeiras\nLocal de Descarga:\nMORADA CLIENTE\nData tpessao: 2019-11-24 18:11.\nTpvd-Processado por programa\ncertificado n. 1140/AT\nAtendido por: Ana Silva\nTrocas e Devolucoes com fatura\nate 30 dias. Conheca as condicoes.\nIVA Ou isento conf Art 9. 7 CIVA\nou regize bens em 2 mes\nOs dados pessouais presentados\ndestinam-se so processamentso\nde transicao"
+  }
+}

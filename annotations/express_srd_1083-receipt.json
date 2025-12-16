@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "King Taco",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-03-17",
+    "time": "23:24:00",
+    "currency": "USD",
+    "payment_method": "VISA",
+    "subtotal": 12.67,
+    "tax": 1.11,
+    "tip": 0.0,
+    "total": 13.78,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "SOPE ASADA",
+      "quantity": 1,
+      "unit_price": 3.1,
+      "total_price": 3.1,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "TACO ASADA",
+      "quantity": 1,
+      "unit_price": 1.59,
+      "total_price": 1.59,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "TACO PASTOR",
+      "quantity": 1,
+      "unit_price": 1.59,
+      "total_price": 1.59,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "QUESADILLA ASADA",
+      "quantity": 1,
+      "unit_price": 4.89,
+      "total_price": 4.89,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "ORDEN CHIPS",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1083-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "King Taco # 30\nExquisitamente a la Mexicana!\nSOPE ASADA 3.10\nCON TODO\nCOPA S.ROJA\nTACO ASADA 1.59\nCON CEBOLLA\nCOPA S.ROJA\nTACO PASTOR 1.59\nNO CEBOLLA\nCOPA S.ROJA\nQUESADILLA ASADA 4.89\nORDEN CHIPS 1.50\nSub/Ttl 12.67\nTax 8.75% 1.11\nTO-GO 13.78\nVISA 13.78\nAcct: XXXXXXXXXXXX6381\nAuth: 042402\nTrans ID: 274999\n3/17/17 11:24pm\nCashier 12875 CYNTHIA\nTerminal 01 RECIBO # 10368\nNUMERO DE ORDEN\n154\nMuchas Gracias por su visita!"
+  }
+}

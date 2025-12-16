@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "R. Actor António Silva, N7, 1649-033 Lisboa",
+    "phone": "213136180",
+    "tax_id": "500829993",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-18",
+    "time": "16:09:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 8.36,
+    "tax": 1.02,
+    "tip": 0.0,
+    "total": 8.36,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Merceria + Pet Food",
+      "quantity": 6,
+      "unit_price": 1.19,
+      "total_price": 7.14,
+      "category": "Groceries",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Poupanca Imediata",
+      "quantity": 1,
+      "unit_price": -1.8,
+      "total_price": -1.8,
+      "category": "Discount",
+      "accounting_category": "Discount",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Padaria/Pastelaria",
+      "quantity": 5,
+      "unit_price": 0.13,
+      "total_price": 0.65,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "C Pão SEM SAL 45G",
+      "quantity": 1,
+      "unit_price": 0.05,
+      "total_price": 0.05,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "C Pão TRGO INTEG 90",
+      "quantity": 2,
+      "unit_price": 0.18,
+      "total_price": 0.36,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Deterg. E PROL Limpeza",
+      "quantity": 3,
+      "unit_price": 0.18,
+      "total_price": 0.54,
+      "category": "Cleaning Supplies",
+      "accounting_category": "Household",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "2 Sac Plást Recic PD",
+      "quantity": 1,
+      "unit_price": 0.1,
+      "total_price": 0.1,
+      "category": "Plastic Bag",
+      "accounting_category": "Miscellaneous",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_203820.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TOMAS RIBEIRO\nTel.: 213136180\nPingo Doce - Distribuição Alimentar, S.A.\nSede: R. Actor António Silva, N7, 1649-033 Lisboa\nRegisto: C.R.C. Lisboa - Matrícula/ NIPC: 500829993\nAnreei: PT 01730 C. Social: 33,806,115 EUR\n\nArtigos\nMERCERIA + PET FOOD\nE 23% BJL DIA AVEIA P425G\n6 X 1,19 7,14\n(1,80)\n\nPadaria/Pastelaria\nC 3% Pão SEM SAL 45 G\n5.000 X 0,13 0,65\nC 3% Pão SEM SAL 45 G\n4.000 X 0,05 0,05\nC 3% Pão TRGO INTEG 90\n5.000 X 0,18 0,36\nDeterg. E PROL Limpeza\n3.000 X 0,18 0,54\n2 Sac Plást Recicl PD 0,10\n\nResumo\nTotal Poupanca 10,16\nTOTAL A PAGAR 8,36\n\nPagamentos\nTotal Pago 50,00\nTroco 41,64\n\nPagamento realizado\n\nResumo IVA\nTaxa Valor s/IVA Valor IVA Valor c/IVA\nC 3% 2,75 0,17 2,92\nE 23% 4,42 1,02 5,44\n\nNa Compra poupou\n1,80 €\nAtendido por: Simóncia Santos\n\n356591 2019-03-18 16:09 0006 0002 0440\n\nServiço ao Cliente\n808 200 168 45 / 45 412 11 44 11 11 11 (24 horas)"
+  }
+}

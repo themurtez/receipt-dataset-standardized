@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Solaria",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "DEBIT BCA",
+    "subtotal": 122730,
+    "tax": 12273,
+    "tip": 0.0,
+    "total": 135000,
+    "accounting_category": "Food & Dining",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "ES TEH MANIS",
+      "quantity": 2,
+      "unit_price": 14546,
+      "total_price": 29092,
+      "category": "Beverages",
+      "accounting_category": "Food & Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "NS FILET IKN ASM MNS",
+      "quantity": 1,
+      "unit_price": 40910,
+      "total_price": 40910,
+      "category": "Main Course",
+      "accounting_category": "Food & Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "NS+AYAM GR TPG",
+      "quantity": 1,
+      "unit_price": 37273,
+      "total_price": 37273,
+      "category": "Main Course",
+      "accounting_category": "Food & Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "NASI GORENG SPC",
+      "quantity": 1,
+      "unit_price": 30001,
+      "total_price": 30001,
+      "category": "Main Course",
+      "accounting_category": "Food & Dining",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": -3,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000425.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SOLARIA\n\n2 ES TEH MANIS 14,546\n1 NS FILET IKN ASM MNS 40,910\n1 NS+AYAM GR TPG 37,273\n1 NASI GORENG SPC 30,001\n\nITEMS : 5\nVAT 10% 12,273\nBefore Rounding 135,003\nRounding -3\nTotal 135,000\nDEBIT BCA : 135,000"
+  }
+}

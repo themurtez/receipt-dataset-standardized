@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "R Actor António Silva, N7, 1649-033 Lisboa",
+    "phone": "213931450",
+    "tax_id": "PT0071730",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-07",
+    "time": "18:46:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 4.07,
+    "tax": 0.63,
+    "tip": 0.0,
+    "total": 4.07,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Tetley Luciljana 10s",
+      "quantity": 1,
+      "unit_price": 1.05,
+      "total_price": 1.05,
+      "category": "Pet Food",
+      "accounting_category": "Pet Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Biscoito Int. Canela 200g",
+      "quantity": 1,
+      "unit_price": 2.25,
+      "total_price": 2.25,
+      "category": "Grocery",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Banana Importada Cor",
+      "quantity": 0.245,
+      "unit_price": 1.05,
+      "total_price": 0.26,
+      "category": "Fruits",
+      "accounting_category": "Produce",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Maca Pinova Val 7+5",
+      "quantity": 0.445,
+      "unit_price": 0.99,
+      "total_price": 0.44,
+      "category": "Fruits",
+      "accounting_category": "Produce",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Mandarina C/Pouca S.",
+      "quantity": 0.165,
+      "unit_price": 2.29,
+      "total_price": 0.38,
+      "category": "Fruits",
+      "accounting_category": "Produce",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Agua Pingo Doce Socl",
+      "quantity": 2,
+      "unit_price": 0.14,
+      "total_price": 0.28,
+      "category": "Beverages",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Saco Plast Recicl Pd",
+      "quantity": 1,
+      "unit_price": 0.1,
+      "total_price": 0.1,
+      "category": "Cleaning Supplies",
+      "accounting_category": "Household",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_230241.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "pingo doce\nferreira borges\nTel. 21 393 14 50\nArtigos\nmercearia E pet food\nc 6% TETLEY LUCILJANA 10S 1,05\nE 23% BIS. INT. CANELA 200G 2,25\nPoupanca Imediata (0,55)\nfrutas E vegetais\nc 6% BANANA IMPORTADA COR\no 0.245 X 1.05 0,26\nPoupanca Imediata\nc 6% MACA PINOVA VAL 7+5\nD 0.445 X 0.99 0,44\nc 6% MANDARINA C/POUCA S.\nO 0.165 X 2.29 0,38\nPoupanca Imediata\nbebidas\nD 13% AGUA PINGO DOCE SOCL\n2 0.28 2 X 0.14\nDETERG. E PROD. LIMPEZA\nE 23% SACO PLAST RECICL PD 0.10\nResumo\npoupanca 0,63\nTOTAL A PAGAR\nPagamentos\nResumo IVA\n0,19\nc 6% 1.93 0.12\nD 13% 0.25 0.03 0.28\nE 23% 0.54 0.03 2.35\nTOTAL PAGO 4.07\nEURO 4.07\nNESTA COMPRA POUPOU\n0,63\nAtendido por: Susana Linhares\n..."
+  }
+}

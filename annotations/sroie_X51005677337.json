@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Syarikat Perniagaan Gin Kee",
+    "address": "No 290, Jalan Air Panas, Setapak, 53200, Kuala Lumpur.",
+    "phone": "03-40210276",
+    "tax_id": "000750673920",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-02-02",
+    "time": "16:30:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 88.8,
+    "tax": 5.33,
+    "tip": 0.0,
+    "total": 94.13,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Item 1796",
+      "quantity": 2,
+      "unit_price": 12.72,
+      "total_price": 25.44,
+      "category": "Goods",
+      "accounting_category": "Merchandise",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Item 1816",
+      "quantity": 2,
+      "unit_price": 34.34,
+      "total_price": 68.69,
+      "category": "Goods",
+      "accounting_category": "Merchandise",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005677337.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS,\nSETAPAK,\n53200, KUALA LUMPUR.\nTEL: 03-40210276\nGST ID: 000750673920\nSIMPLIFIED TAX INVOICE\nCASH\nDoc No. : CS00013104 Date: 02/02/2018\nCashier : USER Time: 16:30:00\nSalesperson : Ref. :\nItem Qty S/Price Amount Tax\n1796 2 12.72 25.44 SR\n1816 2 34.34 68.69 SR\nTotal Qty: 4 94.13\nTotal Sales (Excluding GST) : 88.80\nDiscount : 0.00\nTotal GST : 5.33\nRounding : 0.00\nTotal Sales (Inclusive of GST) : 94.13\nCASH : 94.13\nChange : 0.00\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR 6 88.80 5.33\nTotal : 88.80 5.33\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU."
+  }
+}

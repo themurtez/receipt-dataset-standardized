@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "XYZ Restaurant",
+    "address": "123 Main Street",
+    "phone": "555-1234",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2023-10-10",
+    "time": "18:00:00",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 20000.0,
+    "tax": 2000.0,
+    "tip": 0.0,
+    "total": 22000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Yellow Drink",
+      "quantity": 2,
+      "unit_price": 10000.0,
+      "total_price": 20000.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 80000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000236.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "XYZ Restaurant\n123 Main Street\nPhone: 555-1234\n\n2 YELLOW\n2 QT 20,000\nSubtotal 20,000\nTax 2,000\nTOTAL 22,000\nCASH 102,000\nChange 80,000"
+  }
+}

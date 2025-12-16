@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Infraestruturas de Portugal, SA",
+    "address": "Praça da Portagem, 2809-013 Almada",
+    "phone": "",
+    "tax_id": "503 933 813",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-12",
+    "time": "08:35:01",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 2.9,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 2.9,
+    "accounting_category": "Transportation",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Bem lido-Trânsito",
+      "quantity": 1,
+      "unit_price": 2.9,
+      "total_price": 2.9,
+      "category": "Toll",
+      "accounting_category": "Transportation",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210324_190845.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Infraestruturas de Portugal, SA\nPraça da Portagem, 2809-013 Almada\nNIF: 503 933 813\nCapital Social: 3.495.375.000 Euros\n\nFACTURA SIMPLIFICADA\n\nRecibo: FS 21011021901/0010/22 Original\nData e Hora: 2019-02-12 08:35:01\nSaida: 2101 - Ericeira\nVia: 102\n\nEntrada: 0011 - Loures\nTitulo: Bem lido-Trânsito-\nModo de Pagamento: Numerario\nClasse: 1 Taxa: 2.90 €\n\nIVA incluido à taxa normal\n\nXE7w-Processado por programa certificado n.2011/AT\n\nObrigado e Boa Viagem!"
+  }
+}

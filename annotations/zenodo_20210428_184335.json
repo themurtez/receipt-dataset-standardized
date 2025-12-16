@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "INTERGREEN - Supermercados LDA",
+    "address": "Estrada Nacional 116, Km 1, Edificio Intermarche, 2655-139 Ericeira",
+    "phone": "",
+    "tax_id": "514186623",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-28",
+    "time": "11:07:12",
+    "currency": "EUR",
+    "payment_method": "MB",
+    "subtotal": 40.53,
+    "tax": 7.58,
+    "tip": 0.0,
+    "total": 40.53,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Gasoleo",
+      "quantity": 30.73,
+      "unit_price": 1.319,
+      "total_price": 40.53,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_184335.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "intermarché\nINTERGREEN - Supermercados LDA\nEstrada Nacional 116, Km1\nEdificio Intermarche\nContrib. 514186623\n2655-139 Ericeira\nData Hora POS Operador Turno\n28-02-2019 11:07:12 1 303 3256\nFactura/Recibo\nFT6173PT0009AC9007EA965/3302\nQtd. Preco Un. IVA Produto Sub-Total\nBomba:6 Mangueira:4 GASOLEO\n30.73 l 1.319 Eur/l t\n23 %\n40.53 Eur\nNIF: 510766914\nNome Cliente\nMorada\nDesconhecido\nDesconhecido\nMB 40.53\nIva 23.00 %: 7.58 Eur\nTotal Verda : 40.53 Eur\nBens/Serviços colocados ao dispor\ndo cliente final no acto da verda\nObrigado e Boa Viagem\n01TD-Processado por prog. certificado 166/AT"
+  }
+}

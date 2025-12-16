@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Aik Huat Hardware Enterprise (Setia Alam) Sdn Bhd",
+    "address": "No. 17-G Jalan Setia Indah (X) U13/X, Setia Alam, Seksyen U13, 40170 Shah Alam",
+    "phone": "012-6467933",
+    "tax_id": "000397452976",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-09-26",
+    "time": "15:10:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 14.0,
+    "tax": 0.79,
+    "tip": 0.0,
+    "total": 14.0,
+    "accounting_category": "Hardware",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "WD 40 Anti-Rust Lubricant",
+      "quantity": 1,
+      "unit_price": 14.0,
+      "total_price": 14.0,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007339642.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AIK HUAT HARDWARE\nENTERPRISE (SETIA ALAM SDN BHD\n822737-X\nNO. 17-G JALAN SETIA INDAH\n(X) U13/X, SETIA ALAM\nSEKSYEN U13, 40170 SHAH ALAM,\nTEL: 012 - 6467933 FAX: 08 - 33623608\nGST NO: 000397452976\nSIMPLIFIED TAX INVOICE\nCASH\nRECEIPT #: CPP0408083 DATE: 26/09/2017\nSALESPERSON : AH002 TIME: 15:10:00\nITEM QTY U/P AMOUNT\n( RM ) ( RM )\n079567600084 1 14.00 14.00\n77ML WD 40 ANTI-RUST LUBRICANT\nTOTAL QUANTITY 1\nSUB-TOTAL (GST) 14.00\nDISC\nROUNDING\nTOTAL 14.00\nCASH 14.00\nCHANGE 0.00\n*GST @ 6% INCLUDED IN TOTAL\nGST SUMMARY\nCOD E AMOUNT % TAX/AMT\nSR 13.21 6 0.79\nTAX TOTAL: 0.79\nGOODS SOLD ARE NOT REFUNDABLE,\nTHANK YOU FOR CHOOSING US\nPLS PROVIDE ORIGINAL BILL FOR GOODS.\nEXCHANGE WITHIN 1 WEEK FROM TRANSACTION\nGOODS MUST BE IN ORIGINAL STATE TO BE\nENTITLED FOR EXCHANGE"
+  }
+}

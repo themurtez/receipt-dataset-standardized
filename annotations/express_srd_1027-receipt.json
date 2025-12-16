@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Longboards",
+    "address": "92-161 Waipahe Place, Kapolei, HI 96707",
+    "phone": "(808) 679-4700",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-01-11",
+    "time": "12:46:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 42.75,
+    "tax": 1.86,
+    "tip": 3.0,
+    "total": 44.31,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Green Salad",
+      "quantity": 1,
+      "unit_price": 8.0,
+      "total_price": 8.0,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Wagyu Cheeseburger",
+      "quantity": 1,
+      "unit_price": 19.0,
+      "total_price": 19.0,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Garlic Fries",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Food",
+      "accounting_category": "Side",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Drink of the Day",
+      "quantity": 1,
+      "unit_price": 9.75,
+      "total_price": 9.75,
+      "category": "Beverage",
+      "accounting_category": "Drink",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Tea",
+      "quantity": 1,
+      "unit_price": 4.0,
+      "total_price": 4.0,
+      "category": "Beverage",
+      "accounting_category": "Drink",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1027-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "OAHU, HAWAII\nLongboards\n92-161 Waipahe Place\nKapolei, HI 96707\n(808) 679-4700\n\nServer: Elijah J 01/11/2019\nCheck: 24016 12:46 PM\nTable: 44/0 Dine In\n\nItem Price\nGreen Salad 8.00\nRanch\nWagyu Cheeseburger 19.00\nMedium Well\nGarlic Fries 2.00\nADD RAW ONIONS & BACON PLZ\nDrink of the Day 9.75\nTea 4.00\nSubtotal $42.75\nOhana Discount Breakfast -3.30\nHI HNLKO 4.712% GET 1.86\nTotal $41.31\n\nGratuity 3.00\nTotal 44.31"
+  }
+}

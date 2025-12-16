@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "SYARIKAT PERNIAGAAN GIN KEE",
+    "address": "NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR",
+    "phone": "03-40210276",
+    "tax_id": "000750673920",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-02",
+    "time": "17:21:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 7.0,
+    "tax": 0.42,
+    "tip": 0.0,
+    "total": 7.42,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SPRAY PAINT",
+      "quantity": 1,
+      "unit_price": 7.0,
+      "total_price": 7.42,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005663276.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SYARIKAT PERNIAGAAN GIN KEE\n(81109-A) NO 290, JALAN AIR PANAS,\nSETAPAK.\n53200, KUALA LUMPUR.\nTEL: 03-40210276\nGST ID : 000750673920\nSIMPLIFIED TAX INVOICE\nCASH\nDoc No : CS00011955 Date: 02/12/2017\nCashier : USER Time: 17 21:00\nSalesperson : Ref.:\nItem Qty S/Price Amount Tax\nSR\n1587\n1 7.42 7.42\nSPRAY PAINT\nTotal Qty: 1\nTotal Sales (Excluding GST) : 7.00\nDiscount : 0.00\nTotal GST : 0.42\nRounding : 0.00\nTotal Sales (Inclusive of GST) : 7.42\nCASH : 7.42\nChange : 0.00\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR 6 7.00 0.42\nTotal: 7.00 0.42\nGOODS ARE NOT RETURNABLE. THANK YOU"
+  }
+}

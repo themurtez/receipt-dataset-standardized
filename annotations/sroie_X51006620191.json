@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Best Denki Malaysia",
+    "address": "Lot LG 26, Subang Parade\nNo.5, Jalan SS16/1\n47500 Subang Jaya, Selangor",
+    "phone": "603-7722 1933",
+    "tax_id": "001348681728",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-01-05",
+    "time": "14:51:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 89.0,
+    "tax": 5.04,
+    "tip": 0.0,
+    "total": 89.0,
+    "accounting_category": "Electronics",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "COMPUTER ACCESSORIES",
+      "quantity": 1,
+      "unit_price": 89.0,
+      "total_price": 89.0,
+      "category": "Electronics",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 11.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006620191.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Best Denki Malaysia (308282-A)\nLot LG 26, Subang Parade\nNo.5, Jalan SS16/1\n47500 Subang Jaya, Selangor\nGST Reg. No. 001348681728\nBest Denki 1 Utama\nTel No.: 603-7722 1933\nOpening Hrs: 10:00:00 AM to 10:00:00 PM\n----------------------------------------\nDate: 01/05/16 2:51 Slip: 0020018018\nStaff: JORDAN TAN KC Trans: 20980\nSold by: BD1187 MUHAMMAD SHAFIK\n----------------------------------------\nSIMPLIFIED INVOICE\n----------------------------------------\nModel    Price    Qty    Amount\n240201    COMPUTER ACCESSORIES\n89.00    1    89.00 S\n\nTotal RM                    89.00\nCash                       -100.00\nCash                        11.00\n----------------------------------------\nGST S    6%    89.00    5.04\n----------------------------------------\nGoods sold are not returnable\n /exchangeable.\nThank you & Please come again."
+  }
+}

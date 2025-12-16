@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 320000.0,
+    "tax": 34240.0,
+    "tip": 0.0,
+    "total": 376640.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "M02.LMK BEEF RDANG",
+      "quantity": 1,
+      "unit_price": 55800.0,
+      "total_price": 55800.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "I12.SIMANDOSONG",
+      "quantity": 1,
+      "unit_price": 52800.0,
+      "total_price": 52800.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "I01.MS BEEK KAMPUNG",
+      "quantity": 1,
+      "unit_price": 52800.0,
+      "total_price": 52800.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "A13.MIE ACP",
+      "quantity": 1,
+      "unit_price": 40800.0,
+      "total_price": 40800.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CT06.TEA O HOT R.",
+      "quantity": 2,
+      "unit_price": 27000.0,
+      "total_price": 54000.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CT06.TEA O ICE R.",
+      "quantity": 3,
+      "unit_price": 14800.0,
+      "total_price": 44400.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "N01.MR.MI TLK ASIN",
+      "quantity": 1,
+      "unit_price": 45800.0,
+      "total_price": 45800.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000545.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 M02.LMK BEEF RDANG 55,800\n1 I12.SIMANDOSONG 52,800\n1 I01.MS BEEK KAMPUNG 52,800\n1 A13.MIE ACP 40,800\n2 CT06.TEA O HOT R. 27,600\n3 CT06.TEA O ICE R. 44,400\n1 N01.MR.MI TLK ASIN 45,800\nSUBTOTAL 320,000\nSC 7% 22,400\nTAX 10% 34,240\nTOTAL 376,640\nTotal item 7\nTotal Qty 10"
+  }
+}

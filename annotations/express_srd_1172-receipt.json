@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "El Valle Mexican Restaurant",
+    "address": "305 W. John St, Matthews, NC 28105",
+    "phone": "(704) 845-1417",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-02",
+    "time": "11:48:28",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 16.39,
+    "tax": 1.36,
+    "tip": 0.0,
+    "total": 17.75,
+    "accounting_category": "Dining",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Guacamole Dip",
+      "quantity": 1,
+      "unit_price": 3.99,
+      "total_price": 3.99,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Diet Coke",
+      "quantity": 1,
+      "unit_price": 2.75,
+      "total_price": 2.75,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Lunch Fajitas",
+      "quantity": 1,
+      "unit_price": 7.25,
+      "total_price": 7.25,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Tortillas",
+      "quantity": 3,
+      "unit_price": 1.25,
+      "total_price": 1.25,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Sour Cream",
+      "quantity": 1,
+      "unit_price": 1.25,
+      "total_price": 1.25,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1172-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "El Valle\nMexican Restaurant\n305 W. John St\nMatthews, NC 28105\n(704) 845-1417\n\nServer: GEOVANNY\nStation: 10\n\nOrder #: 403593       Dine In\nTable: 9              Guests: 1\n\n1 GUACAMOLE DIP          3.99\n1 DIET COKE              2.75\n1 LUNCH FAJITAS          7.25\n1 TORTILLAS (3)          1.25\n1 SOUR CREAM             1.25\n\nSUB TOTAL:             16.39\nTax 1:                  1.36\nTOTAL:                 $17.75\n\nTicket #: 7\n12/2/2017 11:48:28 AM\nTHANK YOU!"
+  }
+}

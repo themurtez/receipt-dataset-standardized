@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 93716.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 93716.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Edaname",
+      "quantity": 1,
+      "unit_price": 11520.0,
+      "total_price": 11520.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Item",
+      "quantity": 1,
+      "unit_price": 15900.0,
+      "total_price": 15900.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "GF Buncis Org",
+      "quantity": 1,
+      "unit_price": 20600.0,
+      "total_price": 20600.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cabe Keriting Curah",
+      "quantity": 0.07,
+      "unit_price": 44900.0,
+      "total_price": 3323.0,
+      "category": "Grocery",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Tomat Curah",
+      "quantity": 0.19,
+      "unit_price": 16500.0,
+      "total_price": 3297.0,
+      "category": "Grocery",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Jeruk Nipis",
+      "quantity": 0.09,
+      "unit_price": 54900.0,
+      "total_price": 5841.0,
+      "category": "Grocery",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Bimi Bangka",
+      "quantity": 0.28,
+      "unit_price": 101900.0,
+      "total_price": 29734.0,
+      "category": "Grocery",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000219.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "0.512X 22.500\nEDANAME 11.520\n1X 15.900\n1X 20.600\nGF BUNCIS ORG\n0.074X 44.900\nCABE KERITING CURAH 3.323\n0.19X 16.500\nTOMAT CURAH 3.297\n0.09X 54.900\nJERUK NIPIS 5.841\n0.28X 101.900\nBIMI BANGKA 29.734\nDiscount 5.471-\nSUBTOTAL: 93.716\nTOTAL : 93.716"
+  }
+}

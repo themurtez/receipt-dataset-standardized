@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Rapid Rail Sdn Bhd",
+    "address": "No.1 Jalan Pju 1A/46, Off Jalan Lapangan Terbang Subang, Petaling Jaya Selangor 47301",
+    "phone": "",
+    "tax_id": "001345261568",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-18",
+    "time": "08:18:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 30.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 30.0,
+    "accounting_category": "Transportation",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TNG Reload RM 30",
+      "quantity": 1,
+      "unit_price": 29.5,
+      "total_price": 29.5,
+      "category": "Reload",
+      "accounting_category": "Transportation",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Reload Fee",
+      "quantity": 1,
+      "unit_price": 0.5,
+      "total_price": 0.5,
+      "category": "Fee",
+      "accounting_category": "Transportation",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007579726.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TAX INVOICE\nRAPID RAIL SDN BHD\nNo.1 JALAN PJU 1A/46, OFF JALAN LAPANGAN TERBANG SUBANG PETALING JAYA SELANGOR 47301\nGST Reg. No : 001345261568\nOTP Sale receipt\nTSC : 22MG00SUBS----11002\nAgent ID : 114500\nSHIFT ID : 38599\nTransaction : 89\nDate : 18/06/2018 08:18:00\nDescription  Quantity  Amount (RM)  Tax code\nMedia nb  3097352783\nBalance before  RM 1.90\nBalance after  RM 31.40\nTNG Reload RM 30  1  RM 29.50  ES\nReload Fee  1  RM 0.50  SR\nTotal  RM 30.00\nRounding  RM 0.00\nIncluding GST  RM 0.00\nGST Summary  Amount  GST\nSR=GST 0.00%  RM 0.50  RM 0.00\nES=GST 0.00%  RM 29.50  RM 0.00\nPayment mode  Amount\nCash  RM 30.00\n**** Please retain receipt for reference ****\nDate printed 18/06/2018 08:18:01"
+  }
+}

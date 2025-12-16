@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Banh Mi Cafe",
+    "address": "No. 1 Jalan Puteri 7/10, Bandar Puteri, 47100 Puchong, Selangor, Malaysia",
+    "phone": "012-3225548",
+    "tax_id": "000306700288",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-10-29",
+    "time": "18:31:45",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 21.3,
+    "tax": 1.31,
+    "tip": 0.0,
+    "total": 23.25,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SUONG NON RAM CHUA",
+      "quantity": 1,
+      "unit_price": 9.9,
+      "total_price": 9.9,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sweet & Sour Pork Ribs",
+      "quantity": 1,
+      "unit_price": 9.9,
+      "total_price": 9.9,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TRA DA (Vietnamese Iced Tea)",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Beverage",
+      "accounting_category": "Drink",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": -0.01,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005568827.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Banh Mi CafE\nDimiliki: banh mi cafe sdn bhd 1110644-W\nNo. 1 Jalan Puteri 7/10\nBandar Puteri, 47100 Puchong\nSelangor, Malaysia\n(GST Reg. No: 000306700288)\nGUEST CHECK\nTable A\nINV No.: 153887 Pax(s): 2\nDate : 29-10-2017 18:31:45\nCashier: Cashier A\nQty Description Total TAX\n1 205 SUONG NON RAM CHUA 9.90 SR\n1 205 Sweet & Sour Pork Ribs\n1 217 Tau Hu Don Thit Chi 9.90 SR\n1 217 Stuff Meat Tau Fu\n1 605 TRA DA 1.50 SR\n605 Vietnamese Iced Tea\nTotal (Excluding GST): 21.30\nServ. Charge (3%): 0.65\nGST payable (6%): 1.31\nTotal (Inclusive of GST): 23.26\nRounding Adj.: -0.01\nTOTAL: 23.25\nClosed: 29-10-2017\nServer: Cashier A\nGST Summary Amount(RM) Tax(RM)\nInquiries: 012-3225548\nLike us @ Facebook: banhmikl\nEmail : banhmicafe1@gmail.com"
+  }
+}

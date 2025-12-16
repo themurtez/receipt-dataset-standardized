@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Fuyi Mini Market",
+    "address": "No 43-45-47G, Taman Sejati, Ijok, 45600 Bestari Jaya, Kuala Selangor",
+    "phone": "03-3279 1851",
+    "tax_id": "001601310720",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-25",
+    "time": "13:22:56",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 8.49,
+    "tax": 0.51,
+    "tip": 0.0,
+    "total": 9.0,
+    "accounting_category": "Sales",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Summer Cup 48x230ml",
+      "quantity": 1,
+      "unit_price": 8.49,
+      "total_price": 8.49,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 41.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005361895.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "FUYI MINI MARKET\nBR No.: 0195932-X\nNO 43-45-47G, TAMAN SEJATI, IJOK, 45600 BESTARI JAYA,\nKUALA SELANGOR\n03-3279 1851,\nGST No.: 001601310720\n25/01/2018 1:22:56PM\nTAX INVOICE\nTRN: 1CR0576494\nCOUNTER 1   CASHIER: HOCK\nQty UOM   U.Price   Amt   Amt Inc. Tax Code\n013 SUMMER CUP 48X230ML\n1 KOTA 8.49 8.49 9.00 SR\nGST 6% + 0.51\n*Total Qty: 1.00 9.00\nTotal Includes GST 6% 9.00\nCustomer's Payment\nCash 50.00\nChange 41.00\nGST Summary Amount Tax\nSR 8.49 0.51\n*Goods sold are not returnable\nThank you for shopping at FUYI MINI MARKET"
+  }
+}

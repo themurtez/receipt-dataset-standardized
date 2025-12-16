@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Kiku Japanese Restaurant",
+    "address": "19-1, Jalan Malinja 2, Taman Bunga Raya, 53100 Setapak, Kuala Lumpur",
+    "phone": "03-4161 8936",
+    "tax_id": "1202152-P",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-17",
+    "time": "12:12:21",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 29.7,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 29.7,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chicken Katsu Bento",
+      "quantity": 1,
+      "unit_price": 12.9,
+      "total_price": 12.9,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Omu Curry Fried Rice Set",
+      "quantity": 1,
+      "unit_price": 6.9,
+      "total_price": 6.9,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Katsu Don (Fish) Set",
+      "quantity": 1,
+      "unit_price": 9.9,
+      "total_price": 9.9,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.3
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005719814.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KIKU JAPANESE RESTAURANT\nTK DIVISION KITCHEN SDN BHD\n1202152-P\n19-1, JALAN MALINJA 2,TAMAN BUNGA RAYA,\n53100 SETAPAK, KUALA LUMPUR.\nTEL: 03-4161 8936\nINVOICE\n\nInvoice : 9722 Cashier: admin\nPOS No: 1 Table : D3\nDate : 17/1/2018 12:12:21\nPax: 0\n\nITEM QTY U/P(RM) DISC(%) Amt (RM)\n\nChicken Katsu Bento\nBEN02 1 12.90 0.00 12.90\nOmu Curry Fried Rice Set\nSet10 1 6.90 0.00 6.90\nKatsu Don (Fish) Set\nTSO2 Kat 1 9.90 0.00 9.90\n\nSub Total Before Discount RM 29.70\nService Charge RM 0.00\nTotal Sales RM 29.70\nRounding Adjustment: RM 0.00\n\nTOTAL RM 29.70\nCASH RM 30.00\nCHANGE RM 0.30"
+  }
+}

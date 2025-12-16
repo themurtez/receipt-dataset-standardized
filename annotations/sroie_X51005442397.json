@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Triple Six Point Enterprise 666",
+    "address": "No 14&16 Jalan Permas 4/3 Bandar Baru Permas Jay",
+    "phone": "016-7574666",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-25",
+    "time": "09:42:19",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 7.6,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 7.6,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Hey Song - Camellia Green Tea 580ml",
+      "quantity": 2,
+      "unit_price": 4.3,
+      "total_price": 7.6,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 2.4
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005442397.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "A03138\nTriple Six Point Enterprise 666\nNo 14&16 Jalan Permas 4/3 Bandar Baru Permas Jay\nTel: 016-7574666\nReceipt no: REC-0015016\nDate: 25-03-2018 09:42:19 AM\nPayment Type: Cash\nReceipt\n(Receipt No.: REC-0015016)\nQTY ITEM                        PRICE    TOTAL\n                                          (RM)     (RM)\n2x     Hey Song              4.30       7.60\n        Camellia green\n        tea 580ml\n        (Disc: 1.0000)\nDiscount                             1.00\nTotal Amount                     7.60\nTendered                          10.00\nChange                               2.40"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "Nonna",
+    "address": "9255 West Sunset Blvd\nWest Hollywood, CA 90069",
+    "phone": "310-270-4455",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2012-05-21",
+    "time": "21:33:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 118.0,
+    "tax": 10.33,
+    "tip": 0.0,
+    "total": 128.33,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Tartare di Tonno",
+      "quantity": 1,
+      "unit_price": 17.0,
+      "total_price": 17.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Linguine Scampi",
+      "quantity": 1,
+      "unit_price": 20.0,
+      "total_price": 20.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Branzino",
+      "quantity": 1,
+      "unit_price": 28.0,
+      "total_price": 28.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pizza Americana",
+      "quantity": 1,
+      "unit_price": 14.0,
+      "total_price": 14.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Carrot Cake",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Dessert",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Gl Sangiovese",
+      "quantity": 1,
+      "unit_price": 13.0,
+      "total_price": 13.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Gl Merlot",
+      "quantity": 1,
+      "unit_price": 11.0,
+      "total_price": 11.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Misc Food",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Misc",
+      "accounting_category": "Miscellaneous",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1199-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Nonna\n9255 West Sunset Blvd\nWest Hollywood, CA 90069\nTel: 310-270-4455\n\n06/21/12 9:33 PM\nSarah\n\n12\n\n1 Tartare di Tonno 17.00\n1 Linguine Scampi 20.00\n1 Branzino 28.00\n1 Pizza Americana 14.00\n1 Carrot Cake 12.00\n1 Gl Sangiovese 13.00\n1 Gl Merlot 11.00\n1 Misc Food 3.00\n\nTaxable: 118.00\nSub-total: 118.00\nTaxes: 10.33\n\nTotal Due: 128.33"
+  }
+}

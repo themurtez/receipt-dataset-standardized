@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "GLÓRIA NUNES PEREIRA, LDA.",
+    "address": "Urbanização da Camacha, Lt 5, 2655-302 ERICEIRA",
+    "phone": "",
+    "tax_id": "504239120",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-07-30",
+    "time": "15:04:34",
+    "currency": "EUR",
+    "payment_method": "Compensação de saldos em Conta corrente",
+    "subtotal": 4.12,
+    "tax": 0.95,
+    "tip": 0.0,
+    "total": 5.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ESPELHO D.H.BRANCO",
+      "quantity": 1,
+      "unit_price": 1.09,
+      "total_price": 1.09,
+      "category": "Home Goods",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TECLA SIMPLES BRANCA",
+      "quantity": 2,
+      "unit_price": 0.5,
+      "total_price": 1.0,
+      "category": "Home Goods",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BOTAO BASCULANTE",
+      "quantity": 2,
+      "unit_price": 1.7,
+      "total_price": 3.4,
+      "category": "Home Goods",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_153058.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GLÓRIA NUNES PEREIRA, LDA.\nUrbanização da Camacha, Lt 5\n2655-302 ERICEIRA\nContribuinte Número 504239120\nMat.Cons Reg.Com Mafra N.º 02093\n\nFATURA SIMPLIFICADA\nN. 004/0004506 2018/07/30 15h04m34s\nFEELSLIKEHOME LDA.\nRUA DO CARMO N.º 51,3 DTº\nLISBOA\n13500302 LISBOA\nContribuinte N. 510776914\n\nQuant P.U. Desc IVA Parç 23%\nESPELHO D.H.BRANCO\n1 1.090 23% 82\nTECLA SIMPLES BRANCA\n2 0.500 23% 75\nBOTAO BASCULANTE\n2 1.700 23% 2.55\nSub-total 4.12\nTotal de Descontos 1.37\n% TAXA 23 % 4.12 0.95\nTOTAL 5.00\n\nModo de Pagamento:\nCompensação de saldos em Conta corrente\n\nObrigado! Volte Sempre!\n\n3508-Processado por Programa\nCertificado n.º 723/AT\n\nOperador: LUCAS"
+  }
+}

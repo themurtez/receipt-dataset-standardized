@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "1 Dezembro, 1200-358 Lisboa",
+    "phone": "213 247 030",
+    "tax_id": "500892933",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-28",
+    "time": "16:57:23",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 3.79,
+    "tax": 0.21,
+    "tip": 0.0,
+    "total": 3.79,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Pão Branco S/Gluten",
+      "quantity": 1,
+      "unit_price": 3.79,
+      "total_price": 3.79,
+      "category": "Bread",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_181020.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Pingo Doce\n\n1º Dezembro, 1200-358 Lisboa\nTel: 213 247 030\nRegisto E.R.C.: Lisboa 500892933\nArtigos\nPADARIA/PASTELARIA\nC S/% PAO BRANCO S/GLUTEN 3.79\nResumo\nTOTAL A PAGAR 3.79\nPagamentos\nTOTAL PAGO 3.79\nMultibanco\nResumo IVA\nTaxa Valor s/IVA Valor IVA Valor c/IVA\nC 3,56 0.21 3.79\nAtendido por: CLAUDIA PAIVA\nSupervisionado por: CLAUDIA PAIVA\nPingo Doce\n1 DEZEMBRO\n1200-358 LISBOA\nTerminal Pagamento Automático: 0071049\n2019-03-28 16:57:23 Per021 Trxn015 Msg179\nMILLENNIUM BCP\nPRIME SUITES/ROSSIO\nCARTAO: ****3182/87\n501649F2Q MULTIBANCO\nCOMPRA 3.79€ M8\nAut: 550845\nREDUZIR REUTILIZAR RECICLAR\nINOVACAO E CONFIANCA\nCOPIA CLIENTE"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "merchant": {
+    "name": "McDonald's",
+    "address": "16725 Stony Plain Rd, Edmonton AB T5P 4A9",
+    "phone": "780-414-8362",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-10",
+    "time": "19:39:12",
+    "currency": "CAD",
+    "payment_method": "Credit Sales - McDelivery",
+    "subtotal": 25.04,
+    "tax": 1.11,
+    "tip": 0.0,
+    "total": 26.15,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "10 McNuggets EVM",
+      "quantity": 1,
+      "unit_price": 10.29,
+      "total_price": 10.29,
+      "category": "Meal",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Barbeque Sauce",
+      "quantity": 2,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Condiment",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "L Coke",
+      "quantity": 1,
+      "unit_price": 0.4,
+      "total_price": 0.4,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "M French Fries",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Side",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "HM GrChs S-Fry Yog",
+      "quantity": 1,
+      "unit_price": 3.99,
+      "total_price": 3.99,
+      "category": "Snack",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Snoopy",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Toy",
+      "accounting_category": "Merchandise",
+      "category_confidence": 0.7
+    },
+    {
+      "name": "HM Apple Juice",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Cookies",
+      "quantity": 6,
+      "unit_price": 0.48,
+      "total_price": 2.89,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Choc Chip Cookie",
+      "quantity": 6,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Baked Apple Pie",
+      "quantity": 1,
+      "unit_price": 1.19,
+      "total_price": 1.19,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.7
+    },
+    {
+      "name": "French Fries",
+      "quantity": 1,
+      "unit_price": 3.29,
+      "total_price": 3.29,
+      "category": "Side",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Iced Tea",
+      "quantity": 1,
+      "unit_price": 2.99,
+      "total_price": 2.99,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 12,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1100-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Stony\n16725 Stony Plain Rd\nEdmonton AB T5P 4A9\nStore#: 3859 Tel#: 780-414-8362\nWelcome to all day breakfast\n@ Mc Donald's\n192\nKS# 1 03/10/2018 07:39:12 PM\nQTY ITEM TOTAL\n1 Delivery 0.00\n10 McNuggets EVM 10.29\n1 Barbeque Sauce 0.00\n1 Barbeque Sauce 0.00\n1 L Coke 0.40\n1 M French Fries 0.00\n1 HM GrChs S-Fry Yog 3.99\n1 Snoopy 0.00;\n1 HM Apple Juice 0.00\n6 Cookies 2.89\n6 Choc Chip Cookie 0.00\n1 Baked Apple Pie 1.19\n1 French Fries 3.29\n1 L Iced Tea 2.99\nSubtotal 25.04\nGST 1.11\nTake-Out Total 26.15\nCREDIT SALES - McDelivery 26.15\nChange 0.00\nGST #: 120907092\nSALE #04kdfwg532"
+  }
+}

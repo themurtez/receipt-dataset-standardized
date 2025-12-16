@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Laurel Tavern Hermosa Beach",
+    "address": "1220 Hermosa Beach, CA 90254",
+    "phone": "",
+    "tax_id": "",
+    "website": "www.laureltavern.com"
+  },
+  "transaction": {
+    "date": "2019-01-12",
+    "time": "13:23:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 40.5,
+    "tax": 3.85,
+    "tip": 0.0,
+    "total": 44.35,
+    "accounting_category": "food and beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BTL BEER",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "beverage",
+      "accounting_category": "alcohol",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BRUSSELS SPROUTS",
+      "quantity": 1,
+      "unit_price": 8.0,
+      "total_price": 8.0,
+      "category": "food",
+      "accounting_category": "food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CANTONESE TENDERS",
+      "quantity": 1,
+      "unit_price": 11.0,
+      "total_price": 11.0,
+      "category": "food",
+      "accounting_category": "food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "GRILLED CHEESE",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "food",
+      "accounting_category": "food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ADD GARLIC FRIES",
+      "quantity": 1,
+      "unit_price": 4.5,
+      "total_price": 4.5,
+      "category": "food",
+      "accounting_category": "side dish",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1031-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Laurel Tavern Hermosa Beach\n1220 Hermosa Beach, CA 90254\nTel.\n01/12/19 1:23 PM\nWaiter 80 Sophie\nTable 501 Cust 1\nOrder 1388\n\n1 BTL BEER 5.00\n1 BRUSSELS SPROUTS 8.00\n1 CANTONESE TENDERS 11.00\n1 GRILLED CHEESE 12.00\n1 $ ADD GARLIC FRIES 4.50\n\nTaxable: 40.50\nSub-total: 40.50\nTaxes: 3.85\nTotal Due: 44.35\n\nTHANK YOU!!!\nALWAYS DRIVE SAFELY\nPlease visit our website:\nwww.laureltavern.com\nINSTAGRAM: @laureltavern"
+  }
+}

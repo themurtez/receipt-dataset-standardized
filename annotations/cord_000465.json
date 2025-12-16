@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 51760.0,
+    "tax": 5160.0,
+    "tip": 0.0,
+    "total": 56760.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Nasi Rames",
+      "quantity": 1,
+      "unit_price": 15000.0,
+      "total_price": 15000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ayam Panggang",
+      "quantity": 1,
+      "unit_price": 22000.0,
+      "total_price": 22000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Es Teh/Tawar",
+      "quantity": 1,
+      "unit_price": 11000.0,
+      "total_price": 11000.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Taxable1",
+      "quantity": 1,
+      "unit_price": 48000.0,
+      "total_price": 48000.0,
+      "category": "Other",
+      "accounting_category": "Miscellaneous",
+      "category_confidence": 0.5
+    },
+    {
+      "name": "Service Ch",
+      "quantity": 1,
+      "unit_price": 3600.0,
+      "total_price": 3600.0,
+      "category": "Service",
+      "accounting_category": "Tips",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000465.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "NASI RAMES 15,000\nAYAM PANGGANG 22,000\nES TEH/TAWAR 11,000\nTAXABLE1 48,000\nSERVICE CH 3,600\nTAX 10% 5,160\nHOLD 56,760\nBFWD 56,760"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Francisco Metrass",
+    "address": "R. Actor António Silva, 7, 1649-033, Lisboa",
+    "phone": "213826800",
+    "tax_id": "500829993",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-08-11",
+    "time": "19:10:00",
+    "currency": "EUR",
+    "payment_method": "Visa Electron",
+    "subtotal": 12.12,
+    "tax": 1.78,
+    "tip": 0.0,
+    "total": 11.9,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Bol Waf Po Baun 250G",
+      "quantity": 1,
+      "unit_price": 0.85,
+      "total_price": 0.85,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Tab Schocieten Prl",
+      "quantity": 1,
+      "unit_price": 1.19,
+      "total_price": 1.19,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Broas Mel E Canel",
+      "quantity": 1,
+      "unit_price": 1.79,
+      "total_price": 1.79,
+      "category": "Bakery",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Laranja Algarve IGP",
+      "quantity": 1,
+      "unit_price": 1.69,
+      "total_price": 1.69,
+      "category": "Fruits & Vegetables",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Banana Da Madeira",
+      "quantity": 1,
+      "unit_price": 1.99,
+      "total_price": 1.99,
+      "category": "Fruits & Vegetables",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Kinder Sando 6U",
+      "quantity": 1,
+      "unit_price": 4.49,
+      "total_price": 4.49,
+      "category": "Frozen",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_181501.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "FRANCISCO METRASS\nTel.: 213826800\nPingo Doce - Distribuição Alimentar, S.A.\nSede: R Actor Antonio Silva,N7,1649-033 Lisboa\nRegisto C.R.C: Lisboa-Matricula/NIPC: 500829993\nPT0001730 C. Social: 33,808,115 EUR\nArtigos\nMERCADORIA E PET FOOD\nE 23% BOL WAF PO BAUN 250G 0,85\nPoupanga Imediata\nE 23% TAB SCHOCIETEN PRL 1,19\nPADARIA/PASTELARIA\nE 23% BROAS MEL E CANEL 1,79\nFRUTAS E VEGETAIS\n6% LARANJA ALGARVE IGP 1,69\nC 6% BANANA DA MADEIRA\n0,809 X 1,99 1,61\nCONGELADOS\nE 23% GEL KINDER SAND 6U 4,49\nResumo 12,12\nTOTAL POUPANGA (0,22)\nTOTAL A PAGAR 11,90\nPagamentos\nTOTAL PAGO 11,90\nMultibanco\nTaxa Valor IVA Valor IVA Valor c/IVA\n6 % 0,11 0,09 1,80\n23 % 3,11 1,61 9,30\nValores Os Identificam valor\n* NESTA COMPRA POUPOU\n0,22 €\nAtendido por: Conceição Farinha\n\n1/sf-Processado por programa certificado 369/AT\nFatura/Recibo FT 0442061529021/058/007082\nFatura n9 original Data e omissão-11-08-2019\nN. Contribuinte: 511076914\nNome...: FLUXHOME LDA\nMorada...: AV DA LIBERDADE 36 1B 1250/145\nLisboa\nLocal carga..: FRANCISCO METRASS\nLocal descarga..: Morada do cliente\nData:2019-08-11 Hora: 19:10\nPINGO DOCE SA\nFRANCISCO METRASS\n1350-114 LISBOA\nTerminal Pagamento Automático: 01093186\n2019-08-11 19:06:37 PeR01 Tr020 Msg386\nMILLENNIUM BCP\nRODRIGUES/CARLOS\nCARTo: ****8665/58\nVISA ELECTRON\nA0000032020 VDE VDE PL N\nID ESTAB: 000070885 AUT:725733\nREQUISER\nINOVACAO E CONFIANCA\nCOPIA CLIENTE\nPROCESSADO POR SIBS\nFactura necessaria para troca em 15 dias\n(Artigos Textil e Calçado prazo 30 dias)\nNao se aceitam devolções d artigs assinalados\nApoio ao Cliente\n707 20 45 45 210 11 41 04\n"
+  }
+}

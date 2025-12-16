@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "Thai Delicious Restaurant",
+    "address": "No.22 Jalan Puteri 2/4, Bandar Puteri, 47100 Puchong, Selangor",
+    "phone": "03-8051 9514",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-02-02",
+    "time": "19:31:08",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 92.8,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 92.8,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Braised Pork Leg Small",
+      "quantity": 1,
+      "unit_price": 20.0,
+      "total_price": 20.0,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Phranakon Salted Egg Squid",
+      "quantity": 1,
+      "unit_price": 28.0,
+      "total_price": 28.0,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Garlic Fried Kailan",
+      "quantity": 1,
+      "unit_price": 13.0,
+      "total_price": 13.0,
+      "category": "Food",
+      "accounting_category": "Side Dish",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Thai Style Kerabu Tofu",
+      "quantity": 1,
+      "unit_price": 15.0,
+      "total_price": 15.0,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Plain Rice",
+      "quantity": 4,
+      "unit_price": 1.8,
+      "total_price": 7.2,
+      "category": "Food",
+      "accounting_category": "Side Dish",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Coconut Thai",
+      "quantity": 1,
+      "unit_price": 6.5,
+      "total_price": 6.5,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Distilled Water",
+      "quantity": 1,
+      "unit_price": 0.6,
+      "total_price": 0.6,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cold Pandan Ginger Tea",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 11,
+    "rounding": 0.0,
+    "change_due": 7.2
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005568829.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "THAI DELICIOUS RESTAURANT\nNO.22 JALAN PUTERI 2/4\nBANDAR PUTERI\n47100 PUCHONG, SELANGOR\n03-8051 9514\n\nBill No : 01-36870 Table\nDate : 02/02/2017 7:31:08 PM A3\nCashier : 123\nPax : 4\n\nDescription Qty Price Amount\n1 06S BRAISED 1 20.00 20.00\nPORK LEG SMALL\n2 32 PHRANAKON 1 28.00 28.00\nSALTED EGG\nSQUID\n3 51 GARLIC FRIED 1 13.00 13.00\nKAILAN\n4 84 THAI STYLE 1 15.00 15.00\nKERABU TOFU\n5 130 PLAIN RICE 4 1.80 7.20\n6 113 COCONUT 1 6.50 6.50\nTHAI\n7 116 DISTILLED 1 0.60 0.60\nWATER\n8 106B COLD 1 2.50 2.50\nPANDAN GINGER\nTEA\n\nTotal : 92.80\nGrand Total : 92.80\nCash Received : 100.00\nChange : 7.20\n\nAVERAGE / PAX(S) : 23.20\n\nThank You. Please Come Again."
+  }
+}

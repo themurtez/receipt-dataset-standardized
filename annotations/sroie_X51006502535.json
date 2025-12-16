@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "FamilyMart",
+    "address": "16A, Jalan Astaka U8/83 Bukit Jelutong, 40150 Shah Alam, Selangor, D.E.",
+    "phone": "",
+    "tax_id": "004665946688",
+    "website": "www.familymart.com.my"
+  },
+  "transaction": {
+    "date": "2018-04-16",
+    "time": "16:36:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 2.26,
+    "tax": 0.14,
+    "tip": 0.0,
+    "total": 2.4,
+    "accounting_category": "Grocery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Three Leg CoolingWtr200",
+      "quantity": 1,
+      "unit_price": 2.4,
+      "total_price": 2.4,
+      "category": "Beverage",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006502535.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Welcome to the Family\nFamilyMart\nMaxincome Resources Sdn Bhd (383322-D)\nNo 16A, Jalan Astaka U8/83 Bukit Jelutong,\n40150 Shah Alam, Selangor, D.E.\nGST ID: 004665946688\n#0023 KLIA2 ARRIVAL\nTel No: -\nTAX INVOICE\n16/04/2018 16:36 #002348871\nPOS: 04 CSH: 00023122\nStaff: REKHA\nDesc Amt (RM)\n-----------------------------------------\nThree Leg CoolingWtr200 2.40SR\n-----------------------------------------\nSUB TOTAL (Inc GST) 2.40\nTOTAL 2.40\nCASH 2.40\nCHANGE 0.00\n# ITEMS SOLD 1\nTax Code Amt(RM) Tax(RM)\nSR (6%) 2.26 0.14\nTHANK YOU & PLEASE COME AGAIN\n***\nBE A PART OF OUR FAMILY TODAY!\nFACEBOOK : FamilyMartMY\nwww.familymart.com.my"
+  }
+}

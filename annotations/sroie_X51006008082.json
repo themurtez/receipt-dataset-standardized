@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "Print Expert SDN BHD",
+    "address": "NO 18, 20, 22, JALAN BUNGA TANJONG 2/16, 40000 SHAH ALAM, SELANGOR",
+    "phone": "03-55250588",
+    "tax_id": "000886677504",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-25",
+    "time": "15:17:00",
+    "currency": "MYR",
+    "payment_method": "VISA",
+    "subtotal": 192.64,
+    "tax": 11.56,
+    "tip": 0.0,
+    "total": 204.2,
+    "accounting_category": "Print Services",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BANNER 8X4FEET",
+      "quantity": 1,
+      "unit_price": 28.58,
+      "total_price": 28.58,
+      "category": "Printing",
+      "accounting_category": "Advertising",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "DESIGN BANNER",
+      "quantity": 1,
+      "unit_price": 31.8,
+      "total_price": 31.8,
+      "category": "Printing",
+      "accounting_category": "Advertising",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "BUSINESS SPOT UV",
+      "quantity": 1,
+      "unit_price": 159.0,
+      "total_price": 159.0,
+      "category": "Printing",
+      "accounting_category": "Advertising",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "DIE-CUT TRANSPARENT PP",
+      "quantity": 5,
+      "unit_price": 12.4,
+      "total_price": 62.01,
+      "category": "Printing",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "DESIGN STICKER",
+      "quantity": 1,
+      "unit_price": 31.8,
+      "total_price": 31.8,
+      "category": "Printing",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "T SHIRT PRINTING",
+      "quantity": 5,
+      "unit_price": 11.13,
+      "total_price": 55.65,
+      "category": "Printing",
+      "accounting_category": "Merchandise",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "DEPOSIT (CS00530344)",
+      "quantity": 1,
+      "unit_price": -200.0,
+      "total_price": -200.0,
+      "category": "Discount",
+      "accounting_category": "Adjustments",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "BANNER 8 X 4",
+      "quantity": 1,
+      "unit_price": 35.36,
+      "total_price": 35.36,
+      "category": "Printing",
+      "accounting_category": "Advertising",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 16,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006008082.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PRINT EXPERT SDN BHD\n(989625-A)\nNO 18, 20, 22, JALAN BUNGA TANJONG 2/16,\n40000 SHAH ALAM, SELANGOR\nTEL: 03-55250588\nGST ID: 000886677504\nTAX INVOICE\nReceipt #: CS00534185 Table: 92\nStaff: SYAHID Date: 25/03/2018\nCashier: USER Time: 15:17:00\nDescription Qty Price Amt Tax\nBANNER 8X4FEET 1 28.58 28.58 SR\nDESIGN BANNER 1 31.80 31.80 SR\nBUSINESS SPOT UV 1 159.00 159.00 SR\nDIE-CUT TRANSPARENT PP 5 12.40 62.01 SR\nDESIGN STICKER 1 31.80 31.80 SR\nT SHIRT PRINTING 5 11.13 55.65 SR\nDEPOSIT (CS00530344) 1 -200.00 -200.00 SR\nBANNER 8 X 4 1 35.36 35.36 SR\nTotal: 16 204.20\nTotal Sales (Excluding GST): 192.64\nDiscount: 0.00\nService Charge: 0.00\nTotal GST: 11.56\nRounding: 0.00\nTotal Sales (Inclusive of GST): 204.20\n(41005926) VISA 204.20\nCHANGE 0.00\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR 6 192.64 11.56\nTotal: 192.64 11.56\nGOODS SOLD ARE NOT RETURNABLE, ITEM NOT\nCLLECTED MORE THAN 1 MONTH WILL BE DISPOSED"
+  }
+}

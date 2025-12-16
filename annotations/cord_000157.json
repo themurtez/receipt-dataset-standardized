@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "KOI",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 94000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 94000.0,
+    "accounting_category": "Beverages",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "S-Matcha Macchiato",
+      "quantity": 2,
+      "unit_price": 25000.0,
+      "total_price": 50000.0,
+      "category": "Beverage",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "S-Ovaltine Macchiato",
+      "quantity": 2,
+      "unit_price": 22000.0,
+      "total_price": 44000.0,
+      "category": "Beverage",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 6000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000157.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "2X S-Matcha Macchiato @25,000 50,000\n100%,Less Ice\n2X S-Ovaltine Macchiato @22,000 44,000\nLess Ice\n100%\nTotal: 94,000\nCash: 100,000\nCHANGE: 6,000"
+  }
+}

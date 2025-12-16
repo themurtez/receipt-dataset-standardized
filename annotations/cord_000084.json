@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2023-10-30",
+    "time": "12:59:00",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 31000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 31000.0,
+    "accounting_category": "Food & Drink",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Large 1",
+      "quantity": 1,
+      "unit_price": 11000.0,
+      "total_price": 11000.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Drink",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Rhum",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Drink",
+      "category_confidence": 0.7
+    },
+    {
+      "name": "Pastry Keju",
+      "quantity": 1,
+      "unit_price": 20000.0,
+      "total_price": 20000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Drink",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Plastik Kcl",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Miscellaneous",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.6
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 9000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000084.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Large 1 11.000\n1 Rhum 0\n1 Pastry Keju 20.000\n1 Plastik Kcl 0\n4 Total 31.000\nBayar 40.000\nKembali 9.000\nMon, 30-10-2023 12:59\nCash Receipt\n"
+  }
+}

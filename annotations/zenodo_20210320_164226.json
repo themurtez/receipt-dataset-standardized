@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Galp",
+    "address": "RUA TOMAS DA FONSECA, TORRE C 2.0, 1600-209 LISBOA",
+    "phone": "963931779",
+    "tax_id": "PT503004735",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-07-14",
+    "time": "17:53:30",
+    "currency": "EUR",
+    "payment_method": "DEBIT CARD",
+    "subtotal": 78.7,
+    "tax": 14.72,
+    "tip": 0.0,
+    "total": 78.7,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "GASOLINA SIMPLES 95",
+      "quantity": 49.53,
+      "unit_price": 1.589,
+      "total_price": 78.7,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210320_164226.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "galp\nDOCUMENTO DE VENDA\nA.S.DUARTE PACHECO LTDA(S/ CASA) 14190\nGALP SIEGALPES S.A. RUA TOMAS DA FONSECA, TORRE C.20\n1600-209 LISBOA Tel: 963931779\nNF.: PT503004735 Fatura/Recibo\nQuantidade Preço Unitário Preço\n49.53 Bomba 11 EUR 78.70\nGASOLINA SIMPLES 95 EUR 78.70\n1.589 EUR/L\nTotal: EUR 78.70\n23.00% IVA A EUR 14.72\nCliente: 137290\nNome: FLH GO\nMorada:\nCódigo Postal:\nLocalidade:\nN° Contribuinte: 514407395\nOperador: 11587787 PEDROG\nNº DOC.: 01200004355F/AA000000149112019/00005525\n®7Fb - Processado por Programa\nCertificado n.º 1396/AT\nTotal EUR 78.70\nCARTAO DEBITO EUR 78.70\nTerminal Pagamento Automático: 00670957\nData: 2019-07-14 Hora: 17:53:30\nPeríodo:074 Transação:010 Mensagem: 715\nNOVO BANCO\nSALVADOR FERREIRA DO AMARAL\nCARTAO: **** 5685/63\nAO0000000032010 xxxxx - VISA ELECTRON\nCOMPRA 78.70€ VELOCBN\nID ESTAB.: 0000099389 AUT.: 049990\nPROCESSADO POR SIBS\nTOTAL ACUMULADO EM CARTAO\n€4.95\nDisp. a partir de: 15/07/2019\nSaldo do Cartão €57.15"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "LUNA'S",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 94546.0,
+    "tax": 9454.0,
+    "tip": 0.0,
+    "total": 104000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "NEW BEEF SPAGHETTI",
+      "quantity": 1,
+      "unit_price": 38182.0,
+      "total_price": 38182.0,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "P/F AMERICAN FAV",
+      "quantity": 1,
+      "unit_price": 29091.0,
+      "total_price": 29091.0,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PAKET HAPPY HOUR",
+      "quantity": 1,
+      "unit_price": 27273.0,
+      "total_price": 27273.0,
+      "category": "Combo Meal",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "GARLIC BREAD",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Side Dish",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "DILMAH ENGLISH TEA",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000255.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 NEW BEEF SPAGHETTI 38,182\n1 P/F AMERICAN FAV 29,091\n1 PAKET HAPPY HOUR 27,273\n1 GARLIC BREAD\n1 DILMAH ENGLISH TEA\nSUBTOTAL 94,546\nTAX 9,454\nTOTAL 104,000"
+  }
+}

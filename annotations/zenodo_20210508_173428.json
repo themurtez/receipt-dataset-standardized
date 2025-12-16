@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "CTT - Correios de Portugal, SA",
+    "address": "Av. D. Joao II, n.13, 1999-001 LISBOA",
+    "phone": "",
+    "tax_id": "500077568",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-11-08",
+    "time": "16:34:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 2.2,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 2.2,
+    "accounting_category": "Postage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Registado Nacional",
+      "quantity": 1,
+      "unit_price": 2.2,
+      "total_price": 2.2,
+      "category": "Postage",
+      "accounting_category": "Postage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_173428.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Esta pode ser a sua ultima fatura em papel!\n\nAcenda a www.recibonssonline.pt com o seguinte codigo:\nGLBOC48III3-124\n\nE veja como podera ver-se livre dos papeis na sua carteira!\n\nFR CTI2018FR881074704/935\n\n| CTI - Correios de Portugal, SA - Soc.\nAberta\nAv. D. Joao II, n.13\n1999-001 LISBOA\nN.U.P.C.M. 500077568\nCap.Social 75.000.000,00 EUR\n\nLoja CIT RESTAURADORES-L 8810747\n\nFatura/Recibo N.\nFR CTI2018FR881074704/9835\n\nData de Emissao\n2018-11-08 16:34\n\nNome: FLIKE HOME\nMorada:\nCod Posta l:\nNIF: 510776914\n\nQTD DESIGNACAO IVA QUANTIA\n1 Reg. Nac. 1) 2,20\nRH24303T765PT\n\nTotal s/IVA: 2,20 Eur\nTotal Desconto s/IVA: 0,00 Eur\nTotal IVA: 0,00 Eur\n\nTotal: 2,20 Eur\nDois Euros e Vinte Centimos\n\nTaxa Valor s/IVA Valor IVA Valor Total\n0% 2,20 0,00 2,20\n\n1) Isento - Art. 9 No. 23/24 do CIVA\n\nValor liquidado na data de emissao\nBens ou servicos disponibilizados ao adquirente na data de emissao deste\ndocumento\n\nfd5x-Processado por programa certificado n. 1830/AT"
+  }
+}

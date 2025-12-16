@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Destreza Aprumada, Lda",
+    "address": "Estrada Nacional, 116- km 1\n2655-139 Ericeira",
+    "phone": "217 592 017",
+    "tax_id": "514539542",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-17",
+    "time": "15:46:00",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 10.57,
+    "tax": 2.43,
+    "tip": 0.0,
+    "total": 13.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.8
+  },
+  "items": [
+    {
+      "name": "Chave 4 ENT. AGC Comprida (LC3)",
+      "quantity": 2,
+      "unit_price": 6.5,
+      "total_price": 13.0,
+      "category": "Hardware",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_232807.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CHAVIARTE\nDestreza Aprumada, Lda\nEstrada Nacional, 116- km 1\n2655-139 Ericeira\nNIF: 514539542 Cap.Social: 1000,00 EUR\nTlf: 217 592 017 Fax: 217 592 017\nAtendido por: Filipe Correia\nFatura Simplificada\nORIGINAL\nFTS 1971/1575 17-05-2019 15:46\nIVA Descrição Total\n23 CHAVE 4 ENT. AGC COMPRIDA (LC3)\n2 X 6,500 13,00\nTOTAL EUR 13,00\nTaxa Base incidência Valor Iva\n23% 10,57 2,43\nPago em: Multibanco 13,00\nObrigado. Volte Sempre!\nCliente: CONSUMIDOR FINAL"
+  }
+}

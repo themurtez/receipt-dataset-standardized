@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Makro Cash & Carry",
+    "address": "Alfragide",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-06",
+    "time": "13:36:55",
+    "currency": "EUR",
+    "payment_method": "Visa Electron",
+    "subtotal": 61.72,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 61.72,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.8
+  },
+  "items": [
+    {
+      "name": "Compra",
+      "quantity": 1,
+      "unit_price": 61.72,
+      "total_price": 61.72,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_120053.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MAKRO - EST. 002\nMAKRO CASH & CARRY\nALFRAGIDE\nTerminal Pagamento Automático: 00001093\n2019-02-06 13:36:55 Pp:01 Tr:056 Msg:854\nMILLENNIUM BCP\nMARIA SOBRAL JOSE\nCARTAO: ****7398/71\nA0000000032010 VISA ELECTRON\nCOMPRA 61.72€ VELOC PP N\nID ESTAB:0000010699 AUT:379302\nREUNIUNCRE\nINOVACAO E CONFIANCA\nPROCESSADO POR SIBS"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 29090.0,
+    "tax": 2909.0,
+    "tip": 0.0,
+    "total": 32000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Gado-Gado",
+      "quantity": 1,
+      "unit_price": 29090.0,
+      "total_price": 29090.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 68000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000105.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Gado-Gado 29,090\n\nSUBTOTAL 29,090\nPB1 10% 2,909\n\nTOTAL 32,000\n\nCASH 100,000\nChange 68,000"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "BP Padre Cruz",
+    "address": "Avenida Padre Cruz, 1600-101 Lisboa",
+    "phone": "",
+    "tax_id": "505228738",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-08-18",
+    "time": "16:53:53",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 28.74,
+    "tax": 6.61,
+    "tip": 0.0,
+    "total": 35.35,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Gasoleo Bomba",
+      "quantity": 25.0,
+      "unit_price": 1.144,
+      "total_price": 28.74,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_235625.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BP PADRE CRUZ\nPAAR - Combustíveis e Lojas de Conv. Lda\nAvenida Padre Cruz\n1600-101 Lisboa\nMatricula: NIPC: 505228738 Tel:217559564\nCapital Social: 5.000 EUR\nResp. por: Ruben Santos\nData de emissão: 2019-08-18 16:53:53\n********** PRE PAG * **********\nGASOLEO BOMBA NR: 10   25,35 EUR 4\n25,00 l   1,144 EUR/l\n*****************\nTOTAL 35,35 EUR\nMultibanco 35,35 EUR\nIVA\nIVA 4 23.00 6,61\nLLIQ\n28,74 35,35\nFatura Fr 27193101/000031\nZQ/M-Processado por Programa Certificado\nNIF: P 1507675914\nNome:\nFILIPE HENRIQ. - MEDIAÇÃO ■I MOBILIARIA, LDA,\nR. SARAIYA DE CARVALHO, N. 224, 3.9 DIO\n1350-302 LISBOA\nNumero cartão: *****14201\nSald.\nPontos Emitidos: 25\nPontos 0\nPromocio~: 0\nPontos Actuais: 2387\n( \"disponível Poupa 1'1ais: 0.0 EUR\nExpí STE E 1:00 EUR\nSal. mlilado\nBP PADRE CRu\n1600-001 - LISBOA\nTerminal Pagamento Automático: 00555689\n2019-08-18 16:54:46 Peró63 Trôiò Msg443\nNovo Banco\nSofia Pinto Pereira\nCarTAl○: *****7420'.'OG\nCOMP VISA ELECTRON\nCOMPKA 35,35 EUR VELOC 08 N\nID ESTAB1781246 AUTH:528079\nREDUNIDCE\nINOVACAO E CONFIANCA\nPROCESSADO POR SIBS"
+  }
+}

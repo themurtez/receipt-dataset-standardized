@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 150000.0,
+    "tax": 16200.0,
+    "tip": 0.0,
+    "total": 178200.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Captain Hook",
+      "quantity": 1,
+      "unit_price": 75000.0,
+      "total_price": 75000.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Izzy Pink Zigzag",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Drink",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Pirates Treasure",
+      "quantity": 1,
+      "unit_price": 75000.0,
+      "total_price": 75000.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Billy Brown Small",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Drink",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000070.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 CAPTAIN HOOK 75,000\nIZZ PINK ZIGZAG ---\n1 PIRATES TREASURE 75,000\nBILLY BROWN SMALL ---\n** KIDS MEAL 150,000\nSUBTL 150,000\nService Charge 12,000\nTAX 16,200\nTOTAL 178,200"
+  }
+}

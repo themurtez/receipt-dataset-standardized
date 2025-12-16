@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (KUCHAI) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000473792512",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-12",
+    "time": "14:37:00",
+    "currency": "MYR",
+    "payment_method": "CARD",
+    "subtotal": 42.45,
+    "tax": 2.55,
+    "tip": 0.0,
+    "total": 45.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PYEDRAIN CLOG FREE CLDRO2 - 1000ML",
+      "quantity": 3,
+      "unit_price": 15.0,
+      "total_price": 45.0,
+      "category": "Household",
+      "accounting_category": "Cleaning Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005757273.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "31803033\nMR. D.I.Y. (KUCHAI) SDN BHD\n(CO Reg :750441-W)\nLOT 1851-A & 1851-B,JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000473792512)\n(STRAND MALL KOTA DAMANSARA)\n- TAX INVOICE -\n-------------------------------------------\nPYEDRAIN CLOG FREE CLDRO2 - 1000ML\t    *S\nWA05 - 12\n9556268000210\t    3 X 15.00    45.00\nItem(s) : 1\tQty(s) : 3\n-------------------------------------------\nTOTAL INCL. GST@6%           RM 45.00\nCARD                         RM 45.00\n\nGST Summary    Amt(RM)      Tax(RM)\nGST S@6%        42.45          2.55\n\n-------------------------------------------\n12-03-18 14:37 SH02 B011     T1 R000183898\nOPERATOR STMT - AZMIZAN\n\nEXCHANGE ARE ALLOWED WITHIN\n7 DAYS WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "HOME'S HARMONY @ 1 UTAMA SHOPPING CENTRE",
+    "address": "Lot S319A, 2nd Floor, 1 Utama Shopping Centre - Phase 2, Persiaran Bandar Utama, 47800 Petaling Jaya, Malaysia",
+    "phone": "03-7729 9662",
+    "tax_id": "000992737928",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-12-06",
+    "time": "13:30:10",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 23.2,
+    "tax": 1.31,
+    "tip": 0.0,
+    "total": 23.2,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "HH MILTON NYLON BASKET-HMT143188",
+      "quantity": 1,
+      "unit_price": 29.0,
+      "total_price": 23.2,
+      "category": "Home Goods",
+      "accounting_category": "Household Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 27.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619869.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "HOME'S HARMONY @ 1 UTAMA SHOPPING CENTRE\nMONSIEUR ( M ) SDN. BHD. ( 121889-W )\n( GST REG. NO. 000992737928 )\nLot S319A, 2nd Floor,\n1 Utama Shopping Centre - Phase 2\nPersiaran Bandar Utama,\n47800 Petaling Jaya, Malaysia\nTel. 03-7729 9662 Fax. 03-7726 8124\n\n********** TAX INVOICE **********\n12/06/2016-13:30:10-28-NORBAIZURA BT-101-002\nReceipt No. : 138352\n\n1) 400001-HH-STORG-BLUE-STD <ADMIN>\nHH MILTON NYLON BASKET-HMT143188\n1X 29.00-( 20%= 5.80) = 23.20\n\n1 0.00 23.20\nRounding Adj 0.00\n\nTotal 23.20\nGST 6% INCLUDED 1.31\n- CASH 50.20\nCHANGE 27.00\nMEMBER PURCHASE : N15046033 - LEE MEI YEIN\nTHANK YOU\nGOODS SOLD ARE NOT REFUNDABLE."
+  }
+}

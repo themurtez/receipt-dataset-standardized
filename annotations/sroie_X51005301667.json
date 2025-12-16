@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "LIGHTROOM GALLERY SDN BHD",
+    "address": "No: 28, JALAN ASTANA 1C, BANDAR BUKIT RAJA, 41050 KLANG SELANGOR D.E, MALAYSIA",
+    "phone": "03-3362 4395",
+    "tax_id": "000584089600",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-20",
+    "time": "15:55:56",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 37.55,
+    "tax": 2.25,
+    "tip": 0.0,
+    "total": 39.8,
+    "accounting_category": "Goods",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "1059 18W SQ WW BK SUR LED LIGHT 1059 SQUARE BLACK FRAME",
+      "quantity": 2,
+      "unit_price": 18.77,
+      "total_price": 37.55,
+      "category": "Lighting",
+      "accounting_category": "Goods",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005301667.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "LIGHTROOM GALLERY SDN BHD\nNo: 28, JALAN ASTANA 1C, BANDAR BUKIT RAJA, 41050 KLANG SELANGOR D.E, MALAYSIA\nROC No: (1072825-A)\nGST No.: 000584089600\nTel:03-3362 4395 Fax:03-3362 4395\n\nCREDIT NOTE\nStation: CASHIER C/N No: LCN00211\nCashier: ANGELA Cover : 1\nBill Date : 20/11/2017\nBill Start: 20/11/2017 03:55:07 PM\nCode : 300-E0009\nName : ESWARAN 012-6369400\nAddress :\nGST No.\n\nREFER LCS03158\nYT51775\n1059 18W SQ WW BK SUR LED LIGHT\n1059 SQUARE BLACK FRAME\n2 * RM 18.77 UNI ( 2.25)=RM 37.55\nSub Total : RM 37.55\nService Charge : RM 0.00\nGST/TAX 6% : RM 2.25\nTOTAL : RM 39.80\nCASH : RM 39.80\nCHANGE : RM 0.00\n\nItem Count: 2\nQty Count : 2.0\nClosed Bill: 20/11/2017 03:55:56 PM\n\nThank You, Please come again.\nGoods Sold are not refundable, returnable\nBANK ACC MBB 5128 4851 2118\nBANK ACC MBB 5626 4732 1744\nBANK ACC AMBANK 888 100 123 3706\n\nGST Summary Amount (RM) Tax (RM)\nSR @ 6% 37.55 2.25\nZR/OS/EZ 0.00 0.00"
+  }
+}

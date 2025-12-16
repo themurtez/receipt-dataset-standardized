@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Sun Victory SDN BHD",
+    "address": "Level G2, Block D1, Solaris Dutamas, No.1, Jalan Dutamas 1, 50480 Kuala Lumpur",
+    "phone": "03-6205 5386",
+    "tax_id": "000377700352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-14",
+    "time": "13:51:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 3.77,
+    "tax": 0.23,
+    "tip": 0.0,
+    "total": 4.0,
+    "accounting_category": "Parking Fee",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Parking Fee",
+      "quantity": 1,
+      "unit_price": 4.0,
+      "total_price": 4.0,
+      "category": "Parking",
+      "accounting_category": "Parking Fee",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005675095.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SOLARIS Dutamas\nSUN VICTORY SDN BHD\n(No. 196573-M)\nLevel G2. Block D1,\nSolaris Dutamas,\nNo.1, Jalan Dutamas 1,\n50480 Kuala Lumpur.\n(GST ID No:0003777000352)\nTEL:03-6205 5386\nTax Invoice\nP/S #07 A INV-No.0207140118000488\nT/D #44 Ticket No.026165\nEntry Time 14/01/2018 (Sun) 12:06\nPaid Time 14/01/2018 (Sun) 13:51\nParking Time 1:45\nParking Fee Rate A RM4.00\nAmount 14.1.18 RM3.77\nGST 6.00 % RM0.23\nTotal RM4.00\nPaid RM4.00\nChange RM0.00\nInclusive 6% GST\nThank You"
+  }
+}

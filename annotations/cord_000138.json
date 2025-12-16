@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 366000.0,
+    "tax": 36430.0,
+    "tip": 0.0,
+    "total": 422730.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Bacon Shimeji Spaghe",
+      "quantity": 1,
+      "unit_price": 48000.0,
+      "total_price": 48000.0,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chicken Katsudon",
+      "quantity": 1,
+      "unit_price": 48000.0,
+      "total_price": 48000.0,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Well Tori Karaage Mu",
+      "quantity": 1,
+      "unit_price": 58000.0,
+      "total_price": 58000.0,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Well Chicken Katsu C",
+      "quantity": 1,
+      "unit_price": 58000.0,
+      "total_price": 58000.0,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Classic Tomato",
+      "quantity": 1,
+      "unit_price": 48000.0,
+      "total_price": 48000.0,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Kendang Omurice",
+      "quantity": 1,
+      "unit_price": 48000.0,
+      "total_price": 48000.0,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Well Cream Hamburg",
+      "quantity": 1,
+      "unit_price": 58000.0,
+      "total_price": 58000.0,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000138.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BACON SHIMEJI SPAGHE 1.00 48000 48000\nCHICKEN KATSUDON 1.00 48000 48000\nWELL TORI KARAAGE MU 1.00 58000 58000\nWELL CHICKEN KATSU C 1.00 58000 58000\nCLASSIC TOMATO 1.00 48000 48000\nKENDANG OMURICE 1.00 48000 48000\nWELL CREAM HAMBURG 0 1.00 58000 58000\n\nTotal 7 item 366.000\nServ. Charge 19.300\nPB1 10,00 % 36.430\n\nTotal Rupiah 422.730"
+  }
+}

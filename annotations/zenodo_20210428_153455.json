@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Brisa - Concessão Rodoviária, S.A.",
+    "address": "Quinta da Torre da Aguilha - Edificio Brisa\n2785-599 São Domingos de Rana",
+    "phone": "",
+    "tax_id": "502 790 024",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-11",
+    "time": "20:55:28",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 1.35,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 1.35,
+    "accounting_category": "Toll",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Toll Fee",
+      "quantity": 1,
+      "unit_price": 1.35,
+      "total_price": 1.35,
+      "category": "Toll",
+      "accounting_category": "Toll",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_153455.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Brisa - Concessão Rodoviária, S.A.\nQuinta da Torre da Aguilha - Edificio Brisa\n2785-599 São Domingos de Rana\nMCRC Cascais e NIPC 502 790 024\nCapital Social: 75 000 000 €\n\nFACTURA SIMPLIFICADA\n\nRecibo: FS 05021131901/0022947 Original\nData e Hora: 2019-02-11 20:55:28\nSaída: 0502 - Carcavelos pv\nVia: 113\n\nModo de Pagamento: Numerário\nClasse: 1 Taxa: 1,35 €\n\nIVA incluído à taxa normal\n\nKaz0-Processado por programa certificado\nn.2011/AT\n\nObrigado e Boa Viagem!"
+  }
+}

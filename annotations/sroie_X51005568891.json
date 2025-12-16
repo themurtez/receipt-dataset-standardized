@@ -1,0 +1,127 @@
+{
+  "merchant": {
+    "name": "HON HWA HARDWARE TRADING",
+    "address": "NO 37, JALAN MANIS 7, TAMAN SEGAR, 56100 CHERAS, KUALA LUMPUR.",
+    "phone": "+603-9130 2672",
+    "tax_id": "001055194X",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-08-02",
+    "time": "15:43:01",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 261.32,
+    "tax": 15.68,
+    "tip": 0.0,
+    "total": 277.0,
+    "accounting_category": "Hardware",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "1\" TOWEL ROD",
+      "quantity": 2,
+      "unit_price": 6.0,
+      "total_price": 12.0,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "3/4\" TOWEL ROD",
+      "quantity": 2,
+      "unit_price": 4.0,
+      "total_price": 8.0,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "3/4\" TOWEL ROD BRACKET (END)",
+      "quantity": 5,
+      "unit_price": 4.0,
+      "total_price": 20.0,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "3/4\" TOWEL ROD BRACKET (ROUND)",
+      "quantity": 4,
+      "unit_price": 5.5,
+      "total_price": 22.0,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "25MM X 10 WALL PLUG",
+      "quantity": 1,
+      "unit_price": 3.5,
+      "total_price": 3.5,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "SANDFLEX SAW BLADE 18T",
+      "quantity": 1,
+      "unit_price": 4.5,
+      "total_price": 4.5,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "SCREW",
+      "quantity": 1,
+      "unit_price": 7.0,
+      "total_price": 7.0,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "3/4\" V BRACKET",
+      "quantity": 5,
+      "unit_price": 1.5,
+      "total_price": 7.5,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "1\" S/STEEL ROD",
+      "quantity": 6,
+      "unit_price": 15.8,
+      "total_price": 94.8,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "3/4\" ALUMINIUM ROD",
+      "quantity": 17,
+      "unit_price": 5.8,
+      "total_price": 98.6,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 44,
+    "rounding": 0.9,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005568891.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "HON HWA HARDWARE TRADING...\n...Total 277.00"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Soup & Porridge",
+    "address": "LOT S10NB & S12NB, Restoran Jejantas Sg. Buloh, Arah Utara, PLUS Berhad",
+    "phone": "03-6151 9014",
+    "tax_id": "000613912576",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-06",
+    "time": "07:24:41",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 20.7,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 20.7,
+    "accounting_category": "Meals and Entertainment",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Mee Grg Berlauk",
+      "quantity": 1,
+      "unit_price": 7.0,
+      "total_price": 7.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Teh O Ais",
+      "quantity": 1,
+      "unit_price": 1.6,
+      "total_price": 1.6,
+      "category": "Beverage",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Teh Tarik",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Beverage",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Teh O Ais",
+      "quantity": 1,
+      "unit_price": 1.6,
+      "total_price": 1.6,
+      "category": "Beverage",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Mihun Grg Berlauk",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Mihun Goreng",
+      "quantity": 1,
+      "unit_price": 4.0,
+      "total_price": 4.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.3
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007579719.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SOUP & PORRIDGE\nLOT S10NB & S12NB, RESTORAN JEJANTAS SG. BULOH, ARAH UTARA, PLUS BERHAD.\nTEL / FAX : 03- 6151 9014\nGST NO. 000613912576\nTax Invoice\nTable -\nINV No.: 502192 Pax(s): 0\nDate : 05-06-2018 07:24:41\nCashier : JAMAL\n--------------------------------------------------\nDescription Qty U.price Total TAX\n--------------------------------------------------\nMEE GRG BERLAUK 1 x 7.00 7.00 SR\nTEH O AIS 1 x 1.60 1.60 SR\nTEH TARIK 1 x 1.50 1.50 SR\nTEH O AIS 1 x 1.60 1.60 SR\nMIHUN GRG BERLAUK 1 x 5.00 5.00 SR\nMIHUN GORENG 1 x 4.00 4.00 SR\n--------------------------------------------------\nTotal QTY: 6\nTotal (Excluding GST): 20.70\nTotal (Inclusive of GST): 20.70\nTOTAL: 20.70\nCASH: 21.00\nCHANGE: 0.30\n--------------------------------------------------\nGST Summary Amount(RM) Tax(RM)\nSR (@ 0%) 20.70 0.00\nTERIMA KASIH\nSILA DATANG LAGI"
+  }
+}

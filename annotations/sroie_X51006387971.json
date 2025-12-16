@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "99 SPEED MART S/B",
+    "address": "LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY, 41150 KLANG, SELANGOR, 1313-SUBANG BESTARI",
+    "phone": "",
+    "tax_id": "000181747712",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-05-05",
+    "time": "14:49:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 39.92,
+    "tax": 2.41,
+    "tip": 0.0,
+    "total": 42.33,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "AH HUAT WHT. COFFEE",
+      "quantity": 1,
+      "unit_price": 12.65,
+      "total_price": 12.65,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MASSIMO WHEAT GERM",
+      "quantity": 1,
+      "unit_price": 2.39,
+      "total_price": 2.39,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CADBURY CHOCOLATE",
+      "quantity": 1,
+      "unit_price": 9.65,
+      "total_price": 9.65,
+      "category": "Snacks",
+      "accounting_category": "Snacks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "NILO FUZE 3INI ORIGINAL",
+      "quantity": 1,
+      "unit_price": 13.65,
+      "total_price": 13.65,
+      "category": "Beverages",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MISTER POTATO TOMATO",
+      "quantity": 1,
+      "unit_price": 3.99,
+      "total_price": 3.99,
+      "category": "Snacks",
+      "accounting_category": "Snacks",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": -0.02,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006387971.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "99 SPEED MART S/B (1519537-X)\nLOT P.T. 2811, JALAN ANGSA,\nTAHAN BERKELEY\n41150 KLANG, SELANGOR\n1313-SUBANG BESTARI\nGST ID. NO : 000181747712\nINVOICE NO : 18023/103/T0052\n02:49PM 565287 05-05-17\n2832 AH HUAT WHT. COFFEE GO RM12.65\n9500 MASSIMO WHEAT GERM 400 RM2.39\n2022 CADBURY CHOCOLATE DAIL RM9.65\n066 NILO FUZE 3INI ORIGINAL RM13.65\n384 MISTER POTATO TOMATO 16 RM3.99\n\nTotal Sales (Inclusive GST) RM 42.33\nRounding Adjustment RM .02\nRounding RM 42.35\nCREDIT RM 42.35\nCHANGE RM .00\nGST Summary Amount (RM) Tax(RM)\n6% 39.92 2.41\nPOSTED\nThank You, please come again\nKeep the invoice for applicable returns"
+  }
+}

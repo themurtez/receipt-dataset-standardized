@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "FourthStreetMill",
+    "address": "2124 BONITA AVENUE, LA VERNE, CA 91750",
+    "phone": "(909) 596-1564",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-09-29",
+    "time": "17:38:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 49.5,
+    "tax": 4.7,
+    "tip": 0.0,
+    "total": 54.2,
+    "accounting_category": "Dine In",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Lamb Burger",
+      "quantity": 1,
+      "unit_price": 13.0,
+      "total_price": 13.0,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Kids Grilled Cheese",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Kids Fries",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Food",
+      "accounting_category": "Side",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sweet Potato Fries",
+      "quantity": 1,
+      "unit_price": 8.0,
+      "total_price": 8.0,
+      "category": "Food",
+      "accounting_category": "Side",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Kids Cheeseburger",
+      "quantity": 1,
+      "unit_price": 7.0,
+      "total_price": 7.0,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Beef Burger",
+      "quantity": 1,
+      "unit_price": 10.0,
+      "total_price": 10.0,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sides - Bacon (2) Slices",
+      "quantity": 1,
+      "unit_price": 3.5,
+      "total_price": 3.5,
+      "category": "Food",
+      "accounting_category": "Side",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1179-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "FourthStreetMill\n2124 BONITA AVENUE\nLA VERNE, CA 91750\n(909) 596-1564\nDine In\nServer: Chris D. Sep 29, 2018\nReceipt: 4J33 5:38 PM\nTable: P5\nItem(s)\nLamb Burger $13.00\n- NO Goat Cheese\n- NO Bread\n- Medium\n- Sauce On Side\nKids Grilled Cheese $5.00\nKids Fries $3.00\nSweet Potato Fries $8.00\nKids Cheeseburger $7.00\n- NO Ketchup\n- No bun\nSub sourdough\nBeef Burger $10.00\n- Medium Rare\nSides $3.50\n- Bacon (2) Slices\nSubtotal $49.50\nSales Tax (Incl. 9.5%) $4.70\nTotal $54.20"
+  }
+}

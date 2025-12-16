@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "R Actor António Silva, Nº7, 1600-053 Lisboa",
+    "phone": "21 993 15 10",
+    "tax_id": "500286993",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-07",
+    "time": "18:46:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 4.07,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 4.07,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Tetley Luciana 105",
+      "quantity": 1,
+      "unit_price": 1.05,
+      "total_price": 1.05,
+      "category": "Groceries",
+      "accounting_category": "Merchandise",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "BTS Infant Lana 200G",
+      "quantity": 1,
+      "unit_price": 1.14,
+      "total_price": 1.14,
+      "category": "Groceries",
+      "accounting_category": "Merchandise",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Banana Importada Kg",
+      "quantity": 0.26,
+      "unit_price": 0.29,
+      "total_price": 0.26,
+      "category": "Fruits",
+      "accounting_category": "Produce",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Macã Pinova 75L",
+      "quantity": 1,
+      "unit_price": 1.99,
+      "total_price": 0.3,
+      "category": "Fruits",
+      "accounting_category": "Produce",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Mandarina P/Cduxa 5G",
+      "quantity": 0.15,
+      "unit_price": 2.29,
+      "total_price": 0.34,
+      "category": "Fruits",
+      "accounting_category": "Produce",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Água Pingo Doce 50Cl",
+      "quantity": 1,
+      "unit_price": 0.14,
+      "total_price": 0.14,
+      "category": "Beverages",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "E Prod Limpeza",
+      "quantity": 1,
+      "unit_price": 0.1,
+      "total_price": 0.1,
+      "category": "Household",
+      "accounting_category": "Cleaning",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Saco Plástico Recicl PD",
+      "quantity": 1,
+      "unit_price": 0.1,
+      "total_price": 0.1,
+      "category": "Household",
+      "accounting_category": "Merchandise",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_230149.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "pingo doce\nferreira borges\nTel: 21 993 15 10\nPingo Doce Distribuição Alimentar, S.A.\nSede: R Actor António Silva, Nº7, 1600-053 Lisboa\nRegisto C.R.C. Lisboa Matrícula/NIPC: 500286993\nContribuinte: 510776914\nAnreel: PTO01730 - Capital Social: 38.608,116 EUR\n\nArtigos\nMercadoria | Produto\n6% Tetley Luciana 105 1,05\n6% BTS Infant Lana 200G 1,14\nPoupança Imediata (0,55)\nFrutas Vegetais\n6% Banana Importada Kg (0,26 1,05 0,26)\nPoupança Imediata\n6% Macã Pinova 75L 1,99 (0,30)\n6% Mandarina P/Cduxa 5G 2,29 (0,34)\nPoupança Imediata\nBebidas\n13% Água Pingo Doce 50Cl 0,14\n\n12% E Prod Limpeza 0,10\n6% 23% Saco Plástico Recicl PD 0,10\nResumo Total\nTotal Poupa (0,63)\nTotal A Pagar 4,07\nEuropa IVA\nResumo IVA\nTaxa Valor/IVA IVA Valor IVA c/IVA\n\nSubtotal 1,13 0,12 0,25\n13% 3,62 0,11 0,20 3,96\nC IVA| Valor\n1,41\n4,07\n\nnesta compra poupou\n0,63 €\n\nAtendido por: Susana Linhares\n358692 2019-05-07 18:46 0006 0005 0828\n\nPkEm-Processado por programa certificado n.º 306/AT\nFatura/Recibo FT\nFT 0520B0061/10/12/0457 00602857\n1ª Via Original Data de emissão: 07-05-2019\nContribuinte: 510776914\nNome: Feels Like Home\nMorada: Lisboa\nLocalidade: Lisboa\n\nLocal carga Ferreira Borges\nLocal descarga: Morada do cliente\nData: 2019-05-07 Hora: 18:46\nFatura necessária para troca em 15 dias\n(Artigos Têxtil e Calçado prazo 30 dias)\nNão se troca medicamentos e artigos assinalados\nApoio ao Cliente 808 20 45 25 / 211 144 114 (24 horas)\n"
+  }
+}

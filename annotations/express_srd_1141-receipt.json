@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "Yauatcha",
+    "address": "2330 Kalakaua Ave Ste 326, Honolulu, Hawaii 96815",
+    "phone": "808-739-9318",
+    "tax_id": "",
+    "website": "Reservations@YauatchaWaikiki.com"
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 84.8,
+    "tax": 3.82,
+    "tip": 0.0,
+    "total": 88.62,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Tender Branch Hibiscus",
+      "quantity": 1,
+      "unit_price": 8.0,
+      "total_price": 8.0,
+      "category": "Food",
+      "accounting_category": "Menu Item",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Seafood Puff",
+      "quantity": 1,
+      "unit_price": 10.8,
+      "total_price": 10.8,
+      "category": "Food",
+      "accounting_category": "Menu Item",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sesame Prawn Toast",
+      "quantity": 1,
+      "unit_price": 11.8,
+      "total_price": 11.8,
+      "category": "Food",
+      "accounting_category": "Menu Item",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Beancurd Prawn Cheung Fun",
+      "quantity": 1,
+      "unit_price": 10.8,
+      "total_price": 10.8,
+      "category": "Food",
+      "accounting_category": "Menu Item",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "XO Scallop Dumpling",
+      "quantity": 1,
+      "unit_price": 8.8,
+      "total_price": 8.8,
+      "category": "Food",
+      "accounting_category": "Menu Item",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Poached Beijing Dumpling",
+      "quantity": 1,
+      "unit_price": 5.8,
+      "total_price": 5.8,
+      "category": "Food",
+      "accounting_category": "Menu Item",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Spinach Dumpling",
+      "quantity": 1,
+      "unit_price": 6.8,
+      "total_price": 6.8,
+      "category": "Food",
+      "accounting_category": "Menu Item",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Tea Smoked Pork Ribs",
+      "quantity": 1,
+      "unit_price": 22.0,
+      "total_price": 22.0,
+      "category": "Food",
+      "accounting_category": "Menu Item",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1141-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "110578007 Kakin\nCHK 1867 TBL 84/1 GST 3\nRestaurant\n1 Tender Branch Hibiscus 8.00\n1 Seafood Puff 10.80\n1 Sesame Prawn Toast 11.80\n1 Beancurd Prawn Cheung Fun 10.80\n1 XO Scallop Dumpling 8.80\n1 Poached Beijing Dumpling 5.80\n1 Spinach Dumpling 6.80\n1 Tea Smoked Pork Ribs 22.00\nSubtotal $84.80\nTax $3.82\nTotal Due $88.62"
+  }
+}

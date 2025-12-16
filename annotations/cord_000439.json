@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Visa",
+    "subtotal": 1060000.0,
+    "tax": 102410.0,
+    "tip": 0.0,
+    "total": 1126510.0,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "DarkBeer 0.5L",
+      "quantity": 1,
+      "unit_price": 94000.0,
+      "total_price": 94000.0,
+      "category": "Beverage",
+      "accounting_category": "Alcohol",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Weiss 0.3L",
+      "quantity": 1,
+      "unit_price": 84000.0,
+      "total_price": 84000.0,
+      "category": "Beverage",
+      "accounting_category": "Alcohol",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Grill Sea Bass",
+      "quantity": 1,
+      "unit_price": 260000.0,
+      "total_price": 260000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "LgrBeer 0.3L",
+      "quantity": 1,
+      "unit_price": 79000.0,
+      "total_price": 79000.0,
+      "category": "Beverage",
+      "accounting_category": "Alcohol",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "FlyDark 0.3L",
+      "quantity": 1,
+      "unit_price": 79000.0,
+      "total_price": 79000.0,
+      "category": "Beverage",
+      "accounting_category": "Alcohol",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "DarkBeer 0.3L",
+      "quantity": 1,
+      "unit_price": 79000.0,
+      "total_price": 79000.0,
+      "category": "Beverage",
+      "accounting_category": "Alcohol",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "FauLaperPl",
+      "quantity": 1,
+      "unit_price": 385000.0,
+      "total_price": 385000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000439.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 DarkBeer0.5L 94000\n1 Weiss 0.3 L 84000\n2 158000\n1 Grill Sea Bass 260000\n1 LgrBeer0.3L 79000\n1 FlyDark 0.3L 79000\n1 DarkBeer0.3L 79000\n1 FauLaperPi 385000\n472647002146811\n20.0000 X\nBCA DISC 20%\n129000-\nTTL Food 645000\nTTL Beer 415000\nDiscount total 129000-\nService Charge 93100\nTax 102410\nPayment 1126510\nXXXXXXXXXXX\nVisa (M) 1126510\n"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Sage French Cafe & Wine Bar",
+    "address": "",
+    "phone": "954-565-2299",
+    "tax_id": "",
+    "website": "www.sagecafe.net"
+  },
+  "transaction": {
+    "date": "2015-06-02",
+    "time": "14:44:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 31.8,
+    "tax": 1.8,
+    "tip": 7.38,
+    "total": 39.18,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Sauv Blanc JB",
+      "quantity": 2,
+      "unit_price": 18.0,
+      "total_price": 36.0,
+      "category": "Beverage",
+      "accounting_category": "Alcohol",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Veggie Sandwich",
+      "quantity": 1,
+      "unit_price": 11.0,
+      "total_price": 11.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Quiche Loraine",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1126-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SAGE\nFRENCH CAFE & WINE BAR\n0121a Table 3 #Party 2\nCHANDA R SvrCk: 8 1:56p 06/02/15\n2 SAUV BLANC JB 18.00\n1 VEGGIE SANDWICH 11.00\n1 QUICHE LORAINE 12.00\nSub Total 41.00\nOPEN $DISCOUNT *Discount* 11.00\nTax 1.80\nSub Total: 31.80\nGRATUITY 18 7.38\n06/02 2:44p TOTAL: 39.18\n******************************\nTHANK YOU!\nPLEASE COME AGAIN!\nWINE TASTING 1ST TUESDAY\nWE TAKE RESERVATIONS\nCALL US AT 954-565-2299\nWWW.SAGECAFE.NET"
+  }
+}

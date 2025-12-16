@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "RELAIS TOTAL OULMES",
+    "address": "AUTOROUTE RABAT MEKNES, 15000 KHEMISSET",
+    "phone": "05.22.95.66.66",
+    "tax_id": "40132774",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-30",
+    "time": "12:36:00",
+    "currency": "MAD",
+    "payment_method": "Cash",
+    "subtotal": 56.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 56.0,
+    "accounting_category": "Drinks",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CAFE CREME",
+      "quantity": 2,
+      "unit_price": 12.0,
+      "total_price": 24.0,
+      "category": "Drinks",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CAFE EXPRESSO",
+      "quantity": 2,
+      "unit_price": 10.0,
+      "total_price": 20.0,
+      "category": "Drinks",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHOCOLAT CHAUD",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Drinks",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006008197.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "RELAIS TOTAL OULMES\nAUTOROUTE RABAT MEKNES\n15000 KHEMISSET\nTel. : 05.22.95.66.66\nLe 30/03/2018 a 12:36 V201855892CAISSIER 1, C\nDESIGNATION P.U. QUE TOTAL\nCAFE CREME 12.00 2 24.00\nCAFE EXPRESSO 10.00 2 20.00\nCHOCOLAT CHAUD 12.00 1 12.00\nTotal Facture : 56.00 DH\nREGLE PAR ESPECE 56.00 DH\n****Merci de votre visite****\nPAT:37993027/RC:209031/IF:40132774\nICE:000081241000051"
+  }
+}

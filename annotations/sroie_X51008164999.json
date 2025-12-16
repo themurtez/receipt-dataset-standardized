@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "ONE ONE THREE SEAFOOD RESTAURANT SDN BHD",
+    "address": "NO.1, TAMAN SRI DENGKIL, JALAN AIR HITAM 43800 DENGKIL, SELANGOR.",
+    "phone": "",
+    "tax_id": "000670224384",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-23",
+    "time": "20:52:16",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 179.5,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 179.5,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Yam Item",
+      "quantity": 1,
+      "unit_price": 30.0,
+      "total_price": 30.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "S.Soup LaLa Item (XL)",
+      "quantity": 1,
+      "unit_price": 77.0,
+      "total_price": 77.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Fish Item",
+      "quantity": 1,
+      "unit_price": 15.0,
+      "total_price": 15.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Omelette Item",
+      "quantity": 1,
+      "unit_price": 7.5,
+      "total_price": 7.5,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "White Rice",
+      "quantity": 1,
+      "unit_price": 15.0,
+      "total_price": 15.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Vege Item (M)",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Beverage",
+      "quantity": 1,
+      "unit_price": 30.0,
+      "total_price": 30.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008164999.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ONE ONE THREE SEAFOOD RESTAURANT SDN BHD\n(1120908-M)\nNO.1, TAMAN SRI DENGKIL, JALAN AIR HITAM\n43800 DENGKIL, SELANGOR.\n(GST Reg. No : 000670224384)\nTax Invoice\nTable 33\nBill# V001-541021 Order# 141126\nDate 23-06-2018 20:52:16\nCashier: 113 CASHIER Pax(s): 0\nQty Description Total TAX\n1 Yam Item D 30.00 SR\n1 S.Soup LaLa Item (XL) D 77.00 SR\n1 Fish Item D 15.00 SR\n1 Omelette Item D 7.50 SR\n1 White Rice D 15.00 SR\n1 Vege Item (M) D 5.00 SR\n1 Beverage D 30.00 SR\nTotal (Excluding GST): 179.50\nTotal (Inclusive of GST): 179.50\nTOTAL : 179.50\nClosed: 1 23-06-2018 21:29:23\nServer: 113 CASHIER\nCASH :\n179.50\nGST Summary Amount(RM) Tax(RM)\nSR (@ 0%) 179.50 0.00\n**** Thank You ****\nPlease Come Again"
+  }
+}

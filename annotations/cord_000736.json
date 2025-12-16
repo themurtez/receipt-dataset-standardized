@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Doner D",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2023-12-30",
+    "time": "20:18:00",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 21818.0,
+    "tax": 2182.0,
+    "tip": 0.0,
+    "total": 24000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SmokeBeef + NuTea",
+      "quantity": 1,
+      "unit_price": 21818.0,
+      "total_price": 21818.0,
+      "category": "Combo Meal",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 26000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000736.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Doner D\n\n1 SmokeBeef + NuTea 21,818\nSubTotal: 21,818\nPB1: 2,182\n\nTotal: 24,000\nCash: 50,000\nChange: 26,000\n"
+  }
+}

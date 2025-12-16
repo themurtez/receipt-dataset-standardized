@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "ROGERIO PAIS, LDA",
+    "address": "AVENIDA ALMIRANTE REIS, 9-E, 1º 1150-007 LISBOA",
+    "phone": "218853901",
+    "tax_id": "510776914",
+    "website": "www.ticassgest.pt"
+  },
+  "transaction": {
+    "date": "2019-05-22",
+    "time": "09:14:00",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 11.38,
+    "tax": 2.62,
+    "tip": 0.0,
+    "total": 14.0,
+    "accounting_category": "Hardware",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Puxador porta interior",
+      "quantity": 1,
+      "unit_price": 8.0,
+      "total_price": 8.0,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TEICOCIL - Fechadura 71",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_204913.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROGERIO PAIS, LDA\nFERRAGENS * FERRAMENTAS * MAQUINAS * UTILIDADES\nAVENIDA ALMIRANTE REIS, 9-E, 1º 1150-007 LISBOA\nTel/Fax 218853901 Tel. 966008695\n* Sociedade por quotas * Capital Social \n5.012,92€ REG.CRC. 34852\nNIB: 0033 0000 01280286463 52\n\n2019-05-22 FATURA SIMPLIFICADA M:\nOriginal FS 1A1901/4061\n09:14 BALCAO 1\n\nContribuinte: 510776914\n\nDESCRICAO IVA VALOR\n1 Puxador porta interior 23% 8,00\n1 TEICOCIL - Fechadura 71 23% 6,00\n\nTAXA 23% 2,62 11,38\nTOTAL INCIDENCIAS: \nTOTAL: Eur 14,00\n\nPago em Numerario \nValor entregue: 14,00\nTroco: 0,00\n\nImplementado por www.ticassgest.pt\n\nVMJg-Processado por programa certificado n. 217/AT\n\nOs servicos e/ou bens foram realizados e/ou colocados a disposico do adquirente nesta data (Art 36 do CIVA, No5 aIinea F)\n\nLicenca: ROGERIO PAIS, LDA\nContribuinte: 500544000\n"
+  }
+}

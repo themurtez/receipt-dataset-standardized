@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 332000.0,
+    "tax": 35690.0,
+    "tip": 0.0,
+    "total": 392590.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "JASMINE",
+      "quantity": 1,
+      "unit_price": 39000.0,
+      "total_price": 39000.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "P. RIBS SP (R)",
+      "quantity": 1,
+      "unit_price": 73000.0,
+      "total_price": 73000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "PORK TENDER (L)",
+      "quantity": 1,
+      "unit_price": 72000.0,
+      "total_price": 72000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "TAIL STOMACH (S)",
+      "quantity": 1,
+      "unit_price": 64000.0,
+      "total_price": 64000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "P. INTESTINE (R)",
+      "quantity": 1,
+      "unit_price": 32000.0,
+      "total_price": 32000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "CAKWE (L)",
+      "quantity": 1,
+      "unit_price": 20000.0,
+      "total_price": 20000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "WHITE RICE",
+      "quantity": 2,
+      "unit_price": 20000.0,
+      "total_price": 40000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "PLAIN CONGEE",
+      "quantity": 1,
+      "unit_price": 12000.0,
+      "total_price": 12000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 9,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000264.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 JASMINE 39,000\n** BEVERAGE\n1 P. RIBS SP (R) 73,000\n1 PORK TENDER (L) 72,000\n1 TAIL STOMACH (S) 64,000\n1 P. INTESTINE (R) 32,000\n1 CAKWE (L) 20,000\n2 WHITE RICE 20,000\n1 PLAIN CONGEE 12,000\n** FOOD 293,000\nSUBTTL 332,000\nService Charge 24,900\nPB1 35,690\nTOTAL 392,590"
+  }
+}

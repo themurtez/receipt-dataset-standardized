@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Intermarche",
+    "address": "",
+    "phone": "",
+    "tax_id": "514403795",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-06-22",
+    "time": "11:56:00",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 22.75,
+    "tax": 5.23,
+    "tip": 0.0,
+    "total": 27.98,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.85
+  },
+  "items": [
+    {
+      "name": "MALA PRIMEIROS SOCOR",
+      "quantity": 2,
+      "unit_price": 11.38,
+      "total_price": 22.76,
+      "category": "First Aid",
+      "accounting_category": "Medical Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210322_140818.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "FATURA FT OEC021235715\nreferencia 91730212385 ORIGINAL\n(Precos em Euros)\nIdentificao cliente\nNIF: PT 514403795\nNOME: FLICK HOME ALGARVE\nMORADA: PORTIMAO\nVIATURA:\nE POSTAL:\nLOCAL DE DESCARGA:\nDia: 2019-06-22 Às 11:56\nArtigo P. Unitario P. Total\nsem IVA\nMALA PRIMEIROS SOCOR\n11,38 11,38 23.00 B\nMALA PRIMEIROS SOCOR\n11,37 11,37 23.00 B\n---------------------------\nTotal sem IVA: 22,75\nTOTAL c/IVA: 27,98\nMULTIBAN: 27.98\nTotais: IVA s/IVA c/IVA\nB 23.00 5.23 22.75 27.98\n*********************************\nHa coisas na vida que valem muito,\nmas devem custar muito pouco\nIntermarche\nJuntos pelo melhor e mais barato.\nDocumento Indispensavel Para Troca\nNo Prazo de 10 Dias\nNo Proprio Dia Artigos Frescos\nNao se aceitam devolucões de medicamentos\nSLXo - Processado por programa\nCertificado no 1359/AT\nLoja:08274 CAIXA 0002 Op: 0111 TRS: 0683\nData compra: 2019-06-22 À 11:56\nBens entregues nesta data e hora\nao adquirente,\ne carregados na propria loja"
+  }
+}

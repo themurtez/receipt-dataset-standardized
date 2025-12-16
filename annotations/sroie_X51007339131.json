@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Sanyu Stationery Shop",
+    "address": "No. 31G&33G, Jalan Setia Indah X, U13/X, 40170 Setia Alam",
+    "phone": "+603-3362 4137",
+    "tax_id": "001531760640",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-09-18",
+    "time": "",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 11.7,
+    "tax": 0.7,
+    "tip": 0.0,
+    "total": 12.4,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Artline 500A W/Board Marker - Black",
+      "quantity": 1,
+      "unit_price": 3.7,
+      "total_price": 3.7,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Restaurant Order Chit NCR 3.5\"x6\"",
+      "quantity": 3,
+      "unit_price": 2.9,
+      "total_price": 8.7,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 2.6
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007339131.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SANYU STATIONERY SHOP\nNO. 31G&33G, JALAN SETIA INDAH X, U13/X\n40170 SETIA ALAM\nMobile /Whatsapps : +6012-918 7937 ;\nTel: +603-3362 4137\nGST ID No: 001531760640 TAX INVOICE\nOwned By: SANYU SUPPLY SDN BHD (1135772-K)\nCASH SALES COUNTER\n1. 2005-0263 ARTLINE 500A W/BOARD\nMARKER - BLACK\n1 X 3.7000 3.70 SR\n2. 2012-0029 RESTAURANT ORDER CHIT NCR\n3.5”x6”\n3 X 2.9000 8.70 SR\nTotal Sales Inclusive GST @6% 12.40\nDiscount 0.00\nTotal 12.40\nRound Adj 0.00\nFinal Total 12.40\nCASH 15.00\nCHANGE 2.60\nGST Summary Amount(RM) Tax(RM)\nSR @ 6% 11.70 0.70\nINV NO: CS-SA-0111837 Date: 18/09/2017\nGoods sold are not Returnable & Refundable\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN.\nTERIMA KASIH SILA DATANG LAGI\n** PLEASE KEEP THIS RECEIPT FOR PROVE OF\nPURCHASE DATE FOR I.T PRODUCT WARRANTY\nPURPOSE **\nFollow us in Facebook : Sanyu.Stationery"
+  }
+}

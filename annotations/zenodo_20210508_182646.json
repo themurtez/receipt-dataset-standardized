@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "botaminuto",
+    "address": "R Quinta Palmeira 31 D, Oeiras",
+    "phone": "213 904 257",
+    "tax_id": "506175502",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-26",
+    "time": "17:51:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 25.4,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 25.4,
+    "accounting_category": "Repair Services",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "CHAVE PALHETA 5EP3 / PR-40",
+      "quantity": 1,
+      "unit_price": 14.2,
+      "total_price": 14.2,
+      "category": "Automotive",
+      "accounting_category": "Automotive Parts",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHAVE PIANA UL50 / UL-50",
+      "quantity": 1,
+      "unit_price": 8.8,
+      "total_price": 8.8,
+      "category": "Automotive",
+      "accounting_category": "Automotive Parts",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHAVE EM BRUTO / SB-10",
+      "quantity": 1,
+      "unit_price": 2.4,
+      "total_price": 2.4,
+      "category": "Automotive",
+      "accounting_category": "Automotive Parts",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_182646.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "botaminuto\nAMOREIRAS\nConsertos Rapidos Amoreiras, Lda\nSede: R Quinta Palmeira 31 D Oeiras\nCentro Commercial Amoreiras loja 5041\n1070 Lisboa Tel 213 904 257\nCap Soc. 5,000 Euros NPC 506175502\nC.R.Cm Cascais N. 9855/2007\nExmo(s). Senhor(es)\nFLIKEHOME\nLISBOA\nNIF: 10776914 N.CLI-PT.10776914\nC B/26175298\nFT 5/2/928 Data 2018-05-26 Original\nFactura\nVendedor: Hernany Lima\nArt Descricao Qte P.Unit Valor IVA\nCHAVE PALHETA 5EP3 / PR-40\n2186 1.00 14.200 14.20 23\nCHAVE PIANA UL50 / UL-50\n172 1.00 8.800 8.80 23\nCHAVE EM BRUTO / SB-10\n552 1.00 2.490 2.40 23\nTotal de pecas 3\nVALOR LIQUIDO IVA % VALOR IVA\n0.00 0.00\n6.00 13 0.00\n20.65 23 4.75\nDESCONTO 0.00\nTOTAL DOCUMENTO EURO 25.40\nNumerario 25.40\nAj26-Processado por programa\ncertificacao N. 1627/AT\nLocal Carga : Nossa Morada Hora:17:51\nLocal Descarga: Morada Cliente Hora:23:59\nMatricula\nRef Name: FLIKEHOME\n\nObrigado Pela Visita - Volte Sempre\nTALAO INDISPENSAVEL P/ENTREGA - RECLAMACAO\nTROCAS PRAZO 1 MES"
+  }
+}

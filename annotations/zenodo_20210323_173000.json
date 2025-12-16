@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Carlos Eduardo Pres Pereira",
+    "address": "Rua da Republica nº1, Almancil, 8135-121 Almancil, Portugal",
+    "phone": "289 395 781",
+    "tax_id": "165 661 178",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-07-26",
+    "time": "11:55:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 2.07,
+    "tax": 0.48,
+    "tip": 0.0,
+    "total": 2.55,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "LAMPADA FLUORESCENTE 18W LUZ DO DIA",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Lighting",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ARRANCADOR 4-65W",
+      "quantity": 1,
+      "unit_price": 0.57,
+      "total_price": 0.57,
+      "category": "Lighting",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_173000.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Carlos Eduardo Pres Pereira\nRua da Republica nº1\nAlmancil\n8135-121 Almancil\nPortugal\nTel: 289 395 781 / Fax. 289 356 269\nNº Contribuinte: 165 661 178\nFATURA SIMPLIFICADA Nº 109 2019/3699\nData: 26/07/2019 Hora: 11:55 ORIGINAL\nVendedor: A casa\nCliente: 1934\nFLIKEHOME ALGARVE, LDA\nAV DA LIBERDADE 36 1 B\nLISBOA\n1250-145 LISBOA\nV/Contribuinte: 514407395\nDESCRIÇÃO\nQUANT. PREÇO IVA DESC % TOTAL\nLAMPADA FLUORESCENTE 18W LUZ DO DIA\n1.000 1.500 23% 1.50\nARRANCADOR 4-65W\n1.000 0.570 23% 0.57\nTotal mercadoria: 2.070\nTotal iva: 0.480\nTotal documento: 2.550\nIncidencia Tx. Valor iva\n2.070 23.0 0.480\nGarrafeira (001, ALMANCIL)\nLICENCIADO A CARLOS EDUARDO PRES PEREIRA\nmjgb-Processado por programa certificado nº1161AT\nOS ARTIGOS FATURADOS FORAM POSTOS Á DISPOSIÇÃO\nDO CLIENTE NA DATA DO DOCUMENTO\n*Obrigado pela sua preferencia*"
+  }
+}

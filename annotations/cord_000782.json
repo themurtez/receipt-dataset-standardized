@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 122726.0,
+    "tax": 12273.0,
+    "tip": 0.0,
+    "total": 135000.0,
+    "accounting_category": "dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "YIFUMI",
+      "quantity": 1,
+      "unit_price": 41818.0,
+      "total_price": 41818.0,
+      "category": "food",
+      "accounting_category": "dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Yi Fu Mies Small",
+      "quantity": 1,
+      "unit_price": 31818.0,
+      "total_price": 31818.0,
+      "category": "food",
+      "accounting_category": "dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Bakmi Ayam",
+      "quantity": 1,
+      "unit_price": 28182.0,
+      "total_price": 28182.0,
+      "category": "food",
+      "accounting_category": "dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "1/2 Baso Sapi",
+      "quantity": 1,
+      "unit_price": 15454.0,
+      "total_price": 15454.0,
+      "category": "food",
+      "accounting_category": "dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Es Teh",
+      "quantity": 1,
+      "unit_price": 5454.0,
+      "total_price": 5454.0,
+      "category": "drink",
+      "accounting_category": "dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 1.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000782.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 YIFUMI 41.818\n1 Yi Fu Mies Small 31.818\n1 Bakmi Ayam 28.182\n1 1/2 Baso Sapi 15.454\n1 Es Teh 5.454\nPembulatan + 1\nSubtotal 122.726\nPB 1 12.273\n5 Total 135.000\n"
+  }
+}

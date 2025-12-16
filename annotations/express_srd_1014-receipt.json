@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Loaded Cafe",
+    "address": "15700 Bellflower Blvd, Bellflower, CA 90706",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-23",
+    "time": "10:23:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 44.32,
+    "tax": 4.21,
+    "tip": 0.0,
+    "total": 48.53,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Enchi Omelete",
+      "quantity": 2,
+      "unit_price": 12.99,
+      "total_price": 25.98,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Open Food",
+      "quantity": 1,
+      "unit_price": 3.19,
+      "total_price": 3.19,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Hashbrowns Side",
+      "quantity": 2,
+      "unit_price": 2.99,
+      "total_price": 5.98,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Coffee Hot",
+      "quantity": 1,
+      "unit_price": 2.99,
+      "total_price": 2.99,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Diet Coke",
+      "quantity": 1,
+      "unit_price": 2.99,
+      "total_price": 2.99,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1014-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Loaded Cafe\n15700 Bellflower Blvd\nBellflower, CA 90706\n135 Nathalie\nTbl 34/1 Chk 2763 Gst 2\nFeb23'19 10:23AM\nDine In\n2 Enchi Omelete 25.98\nSHREDDED BEEF\n1 Open Food 3.19\nSHREDDED BEEF\n1 Open Food 3.19\n1 Hashbrowns Side 2.99\n1 Hashbrowns Side 2.99\n1 Coffee Hot 2.99\n1 Diet Coke 2.99\nSUBTOTAL 44.32\nTAX 4.21\n10:51AM TOTAL DUE 48.53\nTHANK YOU FOR VISITING"
+  }
+}

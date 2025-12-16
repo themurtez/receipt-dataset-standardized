@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "FlikeHome",
+    "address": "",
+    "phone": "",
+    "tax_id": "510776914",
+    "website": "www.autovidr.eu\nwww.facebook.com/autovidr.eu"
+  },
+  "transaction": {
+    "date": "2019-02-05",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 50.57,
+    "tax": 11.63,
+    "tip": 0.0,
+    "total": 62.2,
+    "accounting_category": "Goods",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Vidro",
+      "quantity": 1,
+      "unit_price": 62.2,
+      "total_price": 62.2,
+      "category": "Glass",
+      "accounting_category": "Goods",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210324_161641.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "FlikeHome\n510776914\nFactura FR N.31\nData: 2019-02-05\nMoeda: EUR Cambio: 1\nRec. por Multibanco 62.20\nCod. do Artigo - Descricao\nQuant. X Preco IVA Total\n001VITI Vidro\n1.00 X 62.20 23.0 62.20\nCred. Devolucoes : 0.00\nTotal Iliquido : 50.57\nTotal Descontos : 0.00\nTotal Liquido : 62.20\nTotal Alternativo : 62.20 EUR\nIVA\nTaxa Incidencia Valor Motivo\n23.00 50.57 11.63\nMUITO OBRIGADO\nVisite-nos em\nwww.autovidreira.com\nwww.facebook.com/autovidreira"
+  }
+}

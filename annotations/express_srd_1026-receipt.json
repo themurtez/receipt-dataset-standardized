@@ -1,0 +1,136 @@
+{
+  "merchant": {
+    "name": "CHRIS'S HAMBURGERS",
+    "address": "7701 ATLANTIC AVE, CUDAHY, CA, 90201",
+    "phone": "(323) 562-4125",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-07-22",
+    "time": "19:24:00",
+    "currency": "USD",
+    "payment_method": "Cash",
+    "subtotal": 47.45,
+    "tax": 4.37,
+    "tip": 0.0,
+    "total": 51.82,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Taxable Item",
+      "quantity": 1,
+      "unit_price": 21.4,
+      "total_price": 21.4,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Taxable Item",
+      "quantity": 1,
+      "unit_price": 0.5,
+      "total_price": 0.5,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Taxable Item",
+      "quantity": 1,
+      "unit_price": 0.5,
+      "total_price": 0.5,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Taxable Item",
+      "quantity": 1,
+      "unit_price": 0.5,
+      "total_price": 0.5,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Taxable Item",
+      "quantity": 1,
+      "unit_price": 0.5,
+      "total_price": 0.5,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Taxable Item",
+      "quantity": 1,
+      "unit_price": 7.89,
+      "total_price": 7.89,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Taxable Item",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Taxable Item",
+      "quantity": 1,
+      "unit_price": 5.49,
+      "total_price": 5.49,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Taxable Item",
+      "quantity": 1,
+      "unit_price": 5.49,
+      "total_price": 5.49,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Taxable Item",
+      "quantity": 1,
+      "unit_price": 0.99,
+      "total_price": 0.99,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Taxable Item",
+      "quantity": 1,
+      "unit_price": 0.99,
+      "total_price": 0.99,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 11,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1026-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CHRIS'S HAMBURGERS\n7701 ATLANTIC AVE.\nCUDAHY CA. 90201\nPh(323)562-4125\n\nDATE 07/22/2018 SUN\nTAXABLE T1 $21.40\nTAXABLE T1 $0.50\nTAXABLE T1 $0.50\nTAXABLE T1 $0.50\nTAXABLE T1 $0.50\nTAXABLE T1 $7.89\nTAXABLE T1 $3.00\nTAXABLE T1 $5.49\nTAXABLE T1 $5.49\nTAXABLE T1 $0.99\nTAXABLE T1 $0.99\nTAX $4.37\nTOTAL $51.82\nCASH $51.82\nCLERK 01 No.00154\nTIME 19:24 00"
+  }
+}

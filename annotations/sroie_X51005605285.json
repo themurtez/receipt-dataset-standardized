@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "AEON CO. (M) BHD.",
+    "address": "3 FLOOR, AEON TAMAN MALURI SC, JLN JEJAKA, TAMAN MALURI, CHERAS, 55100 KUALA LUMPUR",
+    "phone": "1-300-80-AEON(2366)",
+    "tax_id": "002017394688",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-22",
+    "time": "10:18:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 5.9,
+    "tax": 0.33,
+    "tip": 0.0,
+    "total": 5.9,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "WET TISSUE 150S",
+      "quantity": 1,
+      "unit_price": 5.9,
+      "total_price": 5.9,
+      "category": "Household Supplies",
+      "accounting_category": "Household",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 44.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005605285.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AEON CO. (M) BHD. (126926-H)\n3 FLOOR, AEON TAMAN MALURI SC\nJLN JEJAKA, TAMAN MALURI\nCHERAS, 55100 KUALA LUMPUR\nGST ID : 002017394688\nSHOPPING HOURS\nSUN - THU:1000 HRS - 2200 HRS\nFRI - SAT:1000 HRS - 2300 HRS\n\n1x 000004497295 5.90SR\nWET TISSUE 150S\n\nSub-total 5.90\nTotal Sales Incl GST 5.90\nTotal After Adj Incl GST 5.90\nCASH 50.00\nItem Count 1 Change Amt 44.10\nInvoice No: 201803225131041556\nGST Summary Amount Tax\nSR @ 6% 5.57 0.33\nTotal 5.57 0.33\n22/03/2018 10:18 5131 041 0415556\n0305215 DIANA BINTI JASMAN\n\nAEON DAISO FESTIVAL MALL\nTEL 1-300-80-AEON(2366)\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN"
+  }
+}

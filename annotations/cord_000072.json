@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "USD",
+    "payment_method": "Cash",
+    "subtotal": 28.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 28.0,
+    "accounting_category": "Grocery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Whole Wheat Katamari",
+      "quantity": 1,
+      "unit_price": 28.0,
+      "total_price": 28.0,
+      "category": "Grocery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Plastic Bag Small",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Other",
+      "accounting_category": "Non-Food",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 22.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000072.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "2011-Whole Wheat Katamari\n28.000 x1 28.000\n6001-Plastic Bag Small\n0 x1 0\nTotal Item: 2\nTotal. 28.000\nCash Tendered: 50.000\nChange: 22.000"
+  }
+}

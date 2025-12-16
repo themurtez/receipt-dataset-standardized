@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Galp",
+    "address": "Rua Correia Teles 20 B, 1350-099 Lisboa",
+    "phone": "213852393",
+    "tax_id": "P1500119406",
+    "website": "galp.com"
+  },
+  "transaction": {
+    "date": "2019-05-11",
+    "time": "11:47:00",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 20.0,
+    "tax": 3.74,
+    "tip": 0.0,
+    "total": 20.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "GASOLEO SIMPLES",
+      "quantity": 13.6,
+      "unit_price": 1.469,
+      "total_price": 20.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_195941.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "galp\n>>>>>>>>>>>\nDOCUMENTO DE VENDA\nGAR. RIBAMAR (Campo de Ourique) 11272\nGAR. RIBAMAR-F. CUNHA COSTA\nRua Correia Teles 20 B\n1350-099 Lisboa Tel : 213852393\nNIF: P1500119406\n\nQuantidade Bomba\n\nPreço Unitário:\n\nFatura/Recibo\n\nPreço\n\n13.60 L Bomba 03\nGASOLEO SIMPLES\n\nEUR 20.00\n1.469 EUR / L EUR\nTotal EUR 20.00\n23.00 % IVA A EUR 3.74\n\nCliente: 3561\nNome: FLIKEHOME\nMorada: LISBOA\nCódigo Postal:\n\nLocalidade:\nNo Contribuinte: 510776914\n\nDatas: 19-11\n\nMatricula:\n\nDoc No. 9.9\n091011009909110909119100090090048012209100004917/1/112019\n\nWFH3 Processado por Programa\nCertificado no. 1396/AT\n\nData Hora N°Tr POS N°Op Turno\n11-05-19 11:47 54520 01 0001 809\nRegime IVA de Caixa nos casos em que tal\nseja aplicável ao cliente\nclientes@galp.com Tel. 707 504 257\n\nDescontos até 16ct/l com cartão Universo\nPague com saldo do Cartão Continente\n\nExperimente os combustíveis EVOLOGIC\n+PERFORMANCE +PROTECAO, POUPANÇA\nE + AMBIENTE. Consulte galp.com\n\nA sua opinião é importante!\nVá a opiniao.galp.com/postos\ne receba desconto 2 eur em combustíveis\nEVOLOGIC, combustivel mais evoluído\n\nTotal EUR 20.00\nNumerário EUR 20.00\n\n90105420425985015210000202000002000020\n"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "Tomas Ribeiro, 1050-227 Lisboa",
+    "phone": "213136180",
+    "tax_id": "508299693",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-08-20",
+    "time": "08:53:55",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 12.81,
+    "tax": 2.2,
+    "tip": 0.0,
+    "total": 15.01,
+    "accounting_category": "Grocery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Trident Max Framboesa 23g",
+      "quantity": 1,
+      "unit_price": 0.95,
+      "total_price": 0.95,
+      "category": "Pet Food",
+      "accounting_category": "Miscellaneous",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Presunto Fat Damatta 150g",
+      "quantity": 2,
+      "unit_price": 3.49,
+      "total_price": 6.98,
+      "category": "Charcutaria",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Saco Plast Recicl Pp",
+      "quantity": 2,
+      "unit_price": 3.49,
+      "total_price": 6.98,
+      "category": "Cleaning Products",
+      "accounting_category": "Household",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_201903.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TOMAS RIBEIRO\nTel.: 213136180\nPingo Doce ... \nE 23% TRIDENT MAX FRAM 23G 0.95\nCHARCUTARIA \nE 23% PRES FAT DAMATTA 150 2 x 3.49 6.98\nDETERG. E PROD. LIMPEZA\nE 23% SACO PLAST RECICL PP 2 x 3.49 6.98\nTOTAL A PAGAR 15.01\n..."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "General Poor's Tavern",
+    "address": "45 Main Street\nHackensack, NJ 07601",
+    "phone": "(201) 487-5882",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-04-10",
+    "time": "12:30:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 10.0,
+    "tax": 0.7,
+    "tip": 0.0,
+    "total": 10.7,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "40 Boneless Wings Spec",
+      "quantity": 1,
+      "unit_price": 10.0,
+      "total_price": 10.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1051-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GENERAL POOR'S\nTAVERN\n45 MAIN STREET\nHACKENSACK, NJ 07601\n(201) 487-5882\n\nCheck#: 555149  Guests: 0\nDate: 04/10/16  Time: 12:30pm\nTable:      Server: VERONIQUE\n\n40 BONELESS WINGS SPEC     $10.00\n\nSubtotal:                      $10.00\nTax::                              $0.70\nSbtl w/Tax:                 $10.70\nAmt Due:                 $10.70\n\nTHANK YOU\nFOR CHOOSING\nGENERAL POOR'S!!\n\nTIM"
+  }
+}

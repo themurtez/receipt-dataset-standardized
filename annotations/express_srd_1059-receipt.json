@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Landfall Restaurant",
+    "address": "",
+    "phone": "508-548-1758",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-06-10",
+    "time": "13:39:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 6.0,
+    "tax": 0.4,
+    "tip": 1.15,
+    "total": 7.55,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Cup Chowder",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1059-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "LANDFALL RESTAURANT\nAPRIL TO DECEMBER\n\n0084 Table 31 #Party 3\nDWYER M SvrCk: 13 11:47a 06/10/17\nSeparate checks: 6-of-6\n\n1 CUP CHOWDER 6.00\n\nSub Total: 6.00\nTax 0.40\nGRAT 18 1.15\n\n06/10 1:39pTOTAL: 7.55\n\nLUNCH & DINNER\nWE TAKE RESERVATIONS\nEST 1946\n508-548-1758"
+  }
+}

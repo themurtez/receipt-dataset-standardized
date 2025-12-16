@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "21 2947920",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-26",
+    "time": "07:44:00",
+    "currency": "EUR",
+    "payment_method": "Banco BPI",
+    "subtotal": 1.85,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 1.85,
+    "accounting_category": "Toll",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Toll Fee - Ponte 25 de Abril",
+      "quantity": 1,
+      "unit_price": 1.85,
+      "total_price": 1.85,
+      "category": "Toll",
+      "accounting_category": "Toll",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_181413.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "RECEBIDO DE PORTAGEM\n26/03/19 07:44\nPonte 25 de Abril\nVia: 007 Cobrador 001256\nClasse 1\nPreço: 1,85 EUROS\nInc. 6% IVA\nTransaccao : 9222\nBANCO BPI\n************9797\nNº : 007112603190744003\nObrigado - Boa viagem"
+  }
+}

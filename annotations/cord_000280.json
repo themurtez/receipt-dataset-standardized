@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Home Made Nice",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 25000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 25000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Coklat Bar",
+      "quantity": 1,
+      "unit_price": 8000.0,
+      "total_price": 8000.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Coklat Bun",
+      "quantity": 1,
+      "unit_price": 8000.0,
+      "total_price": 8000.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Crepes Chicken",
+      "quantity": 1,
+      "unit_price": 9000.0,
+      "total_price": 9000.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 25000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000280.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "HOME MADE NICE\n1 RB. COKLAT BAR 8,000\n1 RB. COKLAT BUN 8,000\n1 RB. CREPES CHICKEN 9,000\nITEM:3 SUBTOTAL 25,000\nPCS 3 DUE 25,000\nCASH 50,000\nCHANGE 25,000"
+  }
+}

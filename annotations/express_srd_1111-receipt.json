@@ -1,0 +1,118 @@
+{
+  "merchant": {
+    "name": "Commander's Palace",
+    "address": "1427 Washington Ave., New Orleans, LA",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-12",
+    "time": "12:31:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 50.5,
+    "tax": 5.45,
+    "tip": 0.0,
+    "total": 55.95,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CP, up",
+      "quantity": 1,
+      "unit_price": 0.25,
+      "total_price": 0.25,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "COSMO, up",
+      "quantity": 1,
+      "unit_price": 0.25,
+      "total_price": 0.25,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "SOUP DJ",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Appetizer",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "TURTLE",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "CATFISH",
+      "quantity": 1,
+      "unit_price": 22.0,
+      "total_price": 22.0,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "TOSTADA",
+      "quantity": 1,
+      "unit_price": 18.0,
+      "total_price": 18.0,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "GIN, up",
+      "quantity": 1,
+      "unit_price": 0.25,
+      "total_price": 0.25,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "RAY, up",
+      "quantity": 1,
+      "unit_price": 0.25,
+      "total_price": 0.25,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "SOUFFLE/ALA",
+      "quantity": 1,
+      "unit_price": 9.5,
+      "total_price": 9.5,
+      "category": "Dessert",
+      "accounting_category": "Dessert",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 9,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1111-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "COMMANDER'S PALACE\n1427 WASHINGTON AVE., NEW ORLEANS, LA\n0009 Table 522 #Party 2\nLAURA D\nSvrCk: 1 11:23a 03/12/19\n1 25/CP, up 0.25\n1 25/COSMO, up 0.25\n1 SOUP DJ 0.00\n1 TURTLE 0.00\n1 CATFISH 22.00\n1 TOSTADA 18.00\n1 25/GIN, up 0.25\n1 25/ RAY, up 0.25\n1 SOUFFLE/ALA 9.50\nSub Total: 50.50\nTax: 5.45\n03/12 12:31 TOTAL: 55.95\nThank You\nNow streaming on NETFLIX!\nElla Brennan: Commanding the Table\nAsk your server for details."
+  }
+}

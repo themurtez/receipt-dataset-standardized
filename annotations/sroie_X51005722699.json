@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "POPULAR BOOK CO. (M) SDN BHD",
+    "address": "No 8, Jalan 7/118B, Desa Tun Razak, 56000 Kuala Lumpur, Malaysia",
+    "phone": "03-42601064/66",
+    "tax_id": "001492992000",
+    "website": "www.popular.com.my"
+  },
+  "transaction": {
+    "date": "2018-11-02",
+    "time": "19:21:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 11.13,
+    "tax": 0.67,
+    "tip": 0.0,
+    "total": 11.8,
+    "accounting_category": "Books & Stationery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PB D/S Tape 12mm",
+      "quantity": 1,
+      "unit_price": 1.9,
+      "total_price": 1.9,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "H/C A4 400'S",
+      "quantity": 1,
+      "unit_price": 9.9,
+      "total_price": 9.9,
+      "category": "Paper Products",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005722699.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "POPULAR BOOK CO. (M) SDN BHD\n(Co. No. 113825-W)\n(GST Reg No. 001492992000)\nNo 8, Jalan 7/118B, Desa Tun Razak\n56000 Kuala Lumpur, Malaysia\nAMPANG POINT CENTRE\nTel: 03-42601064/66\n11/02/18 19:21 Slip No.: 6030098553\nMohd Nor Azmi Trans: 79369\nDescription Amount\nPB D/S Tape 12mm 1.90 T\nH/C A4 400'S 9.90 T\nTotal RM Incl. of GST 11.80\nCash -11.80\nItem Count 2\nGST Summary Amount (RM) Tax (RM)\nT @ 6% 11.13 0.67\nTotal Savings 0.00\nBE A POPULAR CARD MEMBER AND ENJOY SPECIAL DISCOUNTS\nTHANK YOU. PLEASE COME AGAIN.\nwww.popular.com.my\nBuy Chinese books online\nwww.popularonline.com.my"
+  }
+}

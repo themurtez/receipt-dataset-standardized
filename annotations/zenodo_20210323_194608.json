@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Pastelaria MouraPão II",
+    "address": "Av. da Marina Loja 5-e 6, 8125-468",
+    "phone": "",
+    "tax_id": "509875645",
+    "website": "mourapao@clix.pt"
+  },
+  "transaction": {
+    "date": "2019-02-19",
+    "time": "08:32:59",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 7.99,
+    "tax": 1.31,
+    "tip": 0.0,
+    "total": 9.3,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Croissant Misto",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Pastry",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "2-brioche",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Pastry",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Nectar pessego",
+      "quantity": 1,
+      "unit_price": 1.65,
+      "total_price": 1.65,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Cafe",
+      "quantity": 2,
+      "unit_price": 0.95,
+      "total_price": 1.9,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Cereais Queijo",
+      "quantity": 1,
+      "unit_price": 1.9,
+      "total_price": 1.9,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Nectar F Verm",
+      "quantity": 1,
+      "unit_price": 1.65,
+      "total_price": 1.65,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_194608.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Pastelaria MouraPão II...\nTotal 9.30\nEmp 1\nIVA incluido\n..."
+  }
+}

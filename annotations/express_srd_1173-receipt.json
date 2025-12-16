@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Lalo's Mexican at Navy Pier",
+    "address": "600 E Grand Ave",
+    "phone": "",
+    "tax_id": "",
+    "website": "www.robinsonhillusa.com"
+  },
+  "transaction": {
+    "date": "2017-08-24",
+    "time": "17:29:00",
+    "currency": "USD",
+    "payment_method": "EMVUS",
+    "subtotal": 14.85,
+    "tax": 1.71,
+    "tip": 0.0,
+    "total": 16.56,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Bottled Water",
+      "quantity": 1,
+      "unit_price": 2.45,
+      "total_price": 2.45,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pollo Taco",
+      "quantity": 1,
+      "unit_price": 4.95,
+      "total_price": 4.95,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Carnitas Taco",
+      "quantity": 1,
+      "unit_price": 4.95,
+      "total_price": 4.95,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sour Cream",
+      "quantity": 1,
+      "unit_price": 1.25,
+      "total_price": 1.25,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chihuahua Cheese",
+      "quantity": 1,
+      "unit_price": 1.25,
+      "total_price": 1.25,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1173-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "600 E Grand Ave\nLalo's Mexican at Navy Pier\n\nTable#: QT#1 Tran#: 64142 Serv: Claudia\n8/24/2017 5:29 PM # Cust:1\n\nQuan  Descript   Cost\n1 Bottled Water $2.45\n1 Add  Pollo Taco $4.95\n1 Add  Carnitas Taco $4.95\n1 Sour Cream $1.25\n1 Chihuahua Cheese $1.25\n\nNet Total: $14.85\nIL Sales $1.52\nMPEA Tax $0.15\nRestaurant $0.04\n\nTOTAL: $16.56\nFood: $12.40\nBeverage: $2.45\n\nEMVUS $16.56\n\nA Robinson Hill Company\nIt's The ExpeRHience That Counts!\nTell us about your visit!\nwww.robinsonhillusa.com/guest-survey"
+  }
+}

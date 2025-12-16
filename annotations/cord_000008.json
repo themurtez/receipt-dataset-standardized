@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-10-20",
+    "time": "18:56:00",
+    "currency": "IDR",
+    "payment_method": "CASH",
+    "subtotal": 36000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 36000.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Kimchi P",
+      "quantity": 1,
+      "unit_price": 36000.0,
+      "total_price": 36000.0,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Fre ice grentea",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Beverage",
+      "accounting_category": "Drink",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 15000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000008.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1x 36.000 36.000\nKimchi P\n1x 0.000 Rp0.000\nFre ice grentea\n*** TOTAL *** 36.000\nCASH Rp51.000\nCHANGE 15.000"
+  }
+}

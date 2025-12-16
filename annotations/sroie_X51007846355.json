@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "AEON CO. (M) BHD",
+    "address": "3RD FLR, AEON TAMAN MALURI SC, JLN JEJAKA, TAMAN MALURI, CHERAS, 55100 KUALA LUMPUR",
+    "phone": "1-300-80-AEON (2366)",
+    "tax_id": "002017394688",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-17",
+    "time": "18:35:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 8.96,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 8.95,
+    "accounting_category": "Grocery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SAKURA WALNUT B",
+      "quantity": 1,
+      "unit_price": 2.83,
+      "total_price": 2.83,
+      "category": "Grocery",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "GRAIN & SEEDS B",
+      "quantity": 1,
+      "unit_price": 6.13,
+      "total_price": 6.13,
+      "category": "Grocery",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": -0.01,
+    "change_due": 41.05
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007846355.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AEON CO. (M) BHD (126926-H)\n3RD FLR, AEON TAMAN MALURI SC\nJLN JEJAKA, TAMAN MALURI\nCHERAS, 55100 KUALA LUMPUR\nGST ID : 002017394688\nSHOPPING HOURS\nSUN-THU:1000 HRS - 2200 HRS\nFRI-SAT:1000 HRS - 2300 HRS\n1x 00000416405 2.83SR\nSAKURA WALNUT B\n1x 00000416993 6.13SR\nGRAIN & SEEDS B\nSub-total 8.96\nTotal Sales Incl GST 8.96\nRounding Adj -0.01\nTotal After Adj Incl GST 8.95\nCASH 50.00\nItem Count 2 Change Amt 41.05\nInvoice No: 2018061710130220258\nGST Summary Amount Tax\nSR @ 0% 8.96 0.00\nTotal 8.96 0.00\n17/06/2018 18:35 1013 022 0220258\n0305103 NORSUHAILA BINTI ABD RASHID\nAEON Stamps Loyalty Program \"Product(s)\"\nsold are neither exchangeable nor\nrefundable\nAEON TEBRAU CITY\nTEL 1-300-80-AEON (2366)\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN"
+  }
+}

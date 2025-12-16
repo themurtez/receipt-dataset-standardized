@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Pingo Doce Distribuição Alimentar S.A.",
+    "address": "R Actor Antonio Silva N7, 1649-033 Lisboa",
+    "phone": "213136180",
+    "tax_id": "500829993",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-07-02",
+    "time": "16:33:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 4.57,
+    "tax": 0.36,
+    "tip": 0.0,
+    "total": 4.57,
+    "accounting_category": "Grocery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "MORANGO EMB 500G",
+      "quantity": 2,
+      "unit_price": 1.89,
+      "total_price": 3.78,
+      "category": "Fruits & Vegetables",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PALITOS P/0400",
+      "quantity": 1,
+      "unit_price": 0.79,
+      "total_price": 0.79,
+      "category": "Bazar",
+      "accounting_category": "Household",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 15.43
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_200744.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Tel. 213136180\nPingo Doce Distribuição Alimentar, S.A\nSede: R Actor Antonio Silva N7, 1649-033 Lisboa\nRegisto C.R.C. Lisboa-Matricula/NIPC: 500829993\nAMREE: PT001730 C. Social: 33,808.115 EUR\nArtigos\nFRUTAS E VEGETAIS\nC 6% MORANGO EMB 500G\n2 x 1,89 3,78\nBAZAR\nE 23% PALITOS P/0400\n0,79\nResumo\nTOTAL A PAGAR 4,57\nPagamentos 20,00\nTOTAL PAGO 20,00\nTROCO 15,43\nEURO\nTaxa Resumo IVA\nC 6% 3,67 0,21 3,78\nE 23% 0,64 0,15 0,79\nAtendido por: Joana Santos\n265309 2019-07-02 16:33 0005 0003 0440\nMcw-Processado por programa certicado 369/AT\nFatura/Recibo FT 044000031901016020/060124\n1a Via Original Data de emissão: 02-07-2019\nN. Contribuinte: 5107776914\nNome....: Feels Like Home\nMorada..: AV DA LIBERDADE 36 1B 1250/145\nLocalidade: Lisboa\nLocal carga.: TOMAS RIBEIRO\nLocal descarga.: Morada do cliente\nData: 2019-07-02 Hora: 16:33\nFacturá necessária para troca em 15 dias\n(Artigos Têxtil e Calçado Prazo 30 dias)\nNão se trocam medicamentos e artigos assinlatos\nApoio ao Cliente\n808 20 45 45 / 210 11 44 11 (24 horas)"
+  }
+}

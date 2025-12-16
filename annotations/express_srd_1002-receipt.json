@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Taco Bell 017314",
+    "address": "7230 Pendleton Pike, Lawrence, IN 46226",
+    "phone": "(317) 541-1897",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-09-01",
+    "time": "15:35:38",
+    "currency": "USD",
+    "payment_method": "Visa",
+    "subtotal": 6.98,
+    "tax": 0.63,
+    "tip": 0.0,
+    "total": 7.61,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Power Veg Bowl",
+      "quantity": 1,
+      "unit_price": 4.99,
+      "total_price": 4.99,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lg Orange Crsh Fz",
+      "quantity": 1,
+      "unit_price": 1.99,
+      "total_price": 1.99,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1002-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "For a Chance to WIN\nSee Back of Receipt\nSurvey Code: 0279-4033-2211-1303\n(Digamos en Espanol)\n\nTaco Bell 017314\n7230 Pendleton Pike\nLawrence, IN 46226\n(317) 541-1897\n\n9/1/2016 3:35:38 PM\nOrder 378752\nCashier: DJAA G \n* 1 Power Veg Bowl 4.99\nNo Sour Cream\n* 1 Lg Orange Crsh Fz 1.99\nNo Cheese\n\nSubTotal 6.98\nTax 0.63\nTotal 7.61\nVisa 7.61\nAcct:XXXXXXXXX2276\nApproval: 571883\n\nDRIVE THRU\nThank you for visiting!\n\nMOBILE ORDERING\nIS HERE\nDOWNLOAD THE APP"
+  }
+}

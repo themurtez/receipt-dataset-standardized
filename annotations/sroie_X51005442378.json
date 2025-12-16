@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "myNEWS.com",
+    "address": "PAGOH REST AND SERVICE AREA, LOT R1, KWS REHAT & RAWAT PAGOH ARAH UTARA, SIMPANG AMPAT PAGOH, LEBUH RAYA UTARA SELATAN, 84600, PAGOH, JOHOR",
+    "phone": "1800 88 1231",
+    "tax_id": "000709361664",
+    "website": "myNEWScareline@mynews.com.my"
+  },
+  "transaction": {
+    "date": "2018-03-23",
+    "time": "09:34:40",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 10.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 10.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "JALAN JALAN (Majalah)",
+      "quantity": 2,
+      "unit_price": 10.0,
+      "total_price": 10.0,
+      "category": "Books & Magazines",
+      "accounting_category": "Retail",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 10.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005442378.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TQ FOR SHOPPING WITH myNEWS.com\nPAGOH REST AND SERVICE AREA\nLOT R1, KWS REHAT & RAWAT PAGOH ARAH UTARA,\nSIMPANG AMPAT PAGOH, LEBUH RAYA UTARA SELATAN,\n84600, PAGOH, JOHOR\nmyNEWScareline: 1800 88 1231\nmyNEWScareline@mynews.com.my\nMYNEWS RETAIL SB(306215-X) FKA BISON STORES SB\nTAX REG ID CBP 000709361664\n\n----------------------------------------\n\nQTY PRICE DISC AMT\n\nJALAN JALAN (Majalah)\n02 1 10.00 0.00 10.00 ZRL\n\nSUB TOTAL 10.00\nGRAND TOTAL 10.00\nCASH 20.00 MYR\nCHANGE DUE 10.00\n\nTOTAL QTY 1\n\nZRL : 0% GOODS: 10.00 TAX: 0.00\n\n23/03/2018 9:34:40 AM\nBILL 18550 - 389-4768-2303180113\n\nPRICE IS GST INCLUSIVE\n"
+  }
+}

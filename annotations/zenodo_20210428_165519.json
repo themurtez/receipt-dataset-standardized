@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Auchan Retail Portugal, S.A.",
+    "address": "Trav. Teixeira Junior, 1 1300-553 Lisboa",
+    "phone": "210475700",
+    "tax_id": "502067029",
+    "website": "www.jumbo.pt"
+  },
+  "transaction": {
+    "date": "2019-03-02",
+    "time": "12:49:00",
+    "currency": "EUR",
+    "payment_method": "NUMERARIO",
+    "subtotal": 1.99,
+    "tax": 0.37,
+    "tip": 0.0,
+    "total": 1.99,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "12 COAX FT - F COAX.M",
+      "quantity": 1,
+      "unit_price": 1.99,
+      "total_price": 1.99,
+      "category": "Cables",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.01
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_165519.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "jumo t 6\nwww.jumbo.pt\nOX AMOREIRAS\nTEL: 210475700 FAX:217103495\nAUCHAN RETAIL PORTUGAL, S.A.\nSede: Trav. Teixeira Junior, 1\n1300-553 Lisboa\nMat.C.R.C. 15638 LIsboa 4a Seccao\nCap. Social: 84.025,000 Euros\nSIREPE : P000010779\nContribuinte NR 502067029\nFATURA N 124072201930300/111392 S2: 546125\nORIGINAL\nNome: FLHKE HOME LDA\nHorario:\nNAQ COMUNICADO\nC.P.: 0000000\nN. Costa: 510776914\nzoro\nIVA ARTIGO/IT PRECO VALGR\nAudio e Imagem\n12 2 COAX. FT - COAX.M 1.99\n1 volume\n9OTAL PAGE 1.99\nLUMERARIO\n7ROCO 0.01\nRESUMO D IVA\nTAXA BASE VALGR\nIVA liquidada\n1 23.00% 1,62 0.37\n0 Total 1 9 236354/0063/0023/0124/072\nTT: Eng. P. cc. Amoreiras\nLocal de Descarga:\nMORADA CLIENTE\nData Emissao: 2019-03-02 12:49\nPiro-Processado por programa\ncertificado n. 1140/AT\nAtendimento por: Alice Almeida\nTROCAS E DEVOLUCOES apenas cm fatura\nate 30 dias. Consulte as excecoes.\nIVA 0% isento conf n27 art 9 CIVA\nou regime bens em mao\nOs dados pessoais apresentados\nDestinam-se ao processamento\nda transaccao\n"
+  }
+}

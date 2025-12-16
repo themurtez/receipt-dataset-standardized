@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Syarikat Perniagaan Gin Kee",
+    "address": "No 290, Jalan Air Panas, Setapak, 53200, Kuala Lumpur",
+    "phone": "03-40210276",
+    "tax_id": "000750673920",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-02-01",
+    "time": "16:58:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 87.8,
+    "tax": 5.27,
+    "tip": 0.0,
+    "total": 93.07,
+    "accounting_category": "Materials",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Item 1811",
+      "quantity": 1,
+      "unit_price": 13.57,
+      "total_price": 13.57,
+      "category": "Materials",
+      "accounting_category": "Building Materials",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "8' 2 X 3 1042",
+      "quantity": 4,
+      "unit_price": 18.55,
+      "total_price": 74.2,
+      "category": "Materials",
+      "accounting_category": "Building Materials",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "7' X 35# Corrugated Roofing Sheet 1921",
+      "quantity": 1,
+      "unit_price": 5.3,
+      "total_price": 5.3,
+      "category": "Materials",
+      "accounting_category": "Building Materials",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005676536.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS,\nSETAPAK,\n53200, KUALA LUMPUR.\nTEL : 03-40210276\nGST ID : 000750673920\nSIMPLIFIED TAX INVOICE\nCASH\nDoc No : CS00012507 Date: 02/01/2018\nCashier : USER Time : 16:58:00\nSalesperson : Ref. :\nItem Qty S/Price Amount Tax\n1811 1 13.57 13.57 SR\n8' 2 X 3\n1042 4 18.55 74.20 SR\n7' X 35# CORRUGATED ROOFING SHEET\n1921 1 5.30 5.30 SR\nNAIL (PER/PACK) - RM5\nTotal Qty: 6 93.07\nTotal Sales (Excluding GST) : 87.80\nDiscount : 0.00\nTotal GST : 5.27\nRounding : 0.00\nTotal Sales (Inclusive of GST) : 93.07\nCASH : 93.07\nChange : 0.00\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR 6 87.80 5.27\nTotal : 87.80 5.27\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU."
+  }
+}

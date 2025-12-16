@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "GL HANDICRAFT & TAILORING",
+    "address": "13, JALAN KANCIL, OFF JALAN PUDU, 55100 KUALA LUMPUR, MALAYSIA",
+    "phone": "",
+    "tax_id": "001945533376",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-27",
+    "time": "16:34:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 130.0,
+    "tax": 7.36,
+    "tip": 0.0,
+    "total": 130.0,
+    "accounting_category": "Craft Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "NONA MACRYLIC YARN",
+      "quantity": 10,
+      "unit_price": 13.0,
+      "total_price": 130.0,
+      "category": "Craft Supplies",
+      "accounting_category": "Craft Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 10,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006350750.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GL HANDICRAFT & TAILORING\n13, JALAN KANCIL,\nOFF JALAN PUDU,\n55100 KUALA LUMPUR\nMALAYSIA\nCompany Reg No. 75493-W\nGST Reg No. 001945533376\nTAX INVOICE\nInvoice No.: C3 10090\nDate: 27/03/2018 16:34\nCashier #: 01\nRM Code\nNONA MACRYLIC YARN\n10.00 PKTS x 13.00 130.00\nSubtotal: 130.00\nTotal Excl. 0% GST 122.64\nTotal Incl. 0% GST 130.00\nTotal Amt Rounded 130.00\nPayment: 130.00\nChange Due: 0.00\nTotal Item(s): 10\nGST Summary Amount(RM) Tax(RM)\nSR @ 6% 122.64 7.36\n..... THANK YOU .....\n.... PLEASE COME AGAIN ...."
+  }
+}

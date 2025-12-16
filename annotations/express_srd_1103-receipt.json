@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Crisfield Seafood Restaurant",
+    "address": "8012 Georgia Ave, Silver Spring, MD 20910",
+    "phone": "(301) 589-1306",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-29",
+    "time": "20:38:16",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 38.5,
+    "tax": 2.31,
+    "tip": 0.0,
+    "total": 42.74,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Crisfield Special Platter",
+      "quantity": 1,
+      "unit_price": 27.0,
+      "total_price": 27.0,
+      "category": "Food",
+      "accounting_category": "Dinner Platters",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pint Bisque",
+      "quantity": 1,
+      "unit_price": 11.5,
+      "total_price": 11.5,
+      "category": "Food",
+      "accounting_category": "Extras",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1103-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Crisfield Seafood Restaurant\n8012 Georgia Ave.\nSilver Spring, MD 20910\n(301) 589-1306\n\nDENIS\n\nORDER# 134\nCarryout # 8\n12/29/2017 8:38:16 PM   GUESTS    1\n\nTAKE OUT\nDinner Platters\n1 Crisfield Special Platter          27.00\n  ****     COOK MEDIUM\nExtras\n1 Pint Bisque                                 11.50\nSUBTOTAL:                                        38.50\nCarry Out                                         1.93\nTAX:                                                    2.31\nRegister         T#0000144\nTOTAL :                                              $42.74\n\nLast Serviced       12/29/2017 8:41:08 PM\n\n          Thank You!\n"
+  }
+}

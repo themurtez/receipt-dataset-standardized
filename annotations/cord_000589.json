@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "KRW",
+    "payment_method": "",
+    "subtotal": 369000.0,
+    "tax": 38745.0,
+    "tip": 18450.0,
+    "total": 426195.0,
+    "accounting_category": "Meals and Entertainment",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SAMGYOPSAL",
+      "quantity": 2,
+      "unit_price": 97000.0,
+      "total_price": 194000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SUL LUNG TANG",
+      "quantity": 1,
+      "unit_price": 75000.0,
+      "total_price": 75000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MAKOLI",
+      "quantity": 1,
+      "unit_price": 100000.0,
+      "total_price": 100000.0,
+      "category": "Beverage",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000589.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SAMGYOPSAL 2 194,000\nSUL LUNG TANG 1 75,000\nMAKOLI 1 100,000\nSub Total 369,000\nService 18,450\nVAT 38,745\nDiscount 0\nTOTAL 426,195"
+  }
+}

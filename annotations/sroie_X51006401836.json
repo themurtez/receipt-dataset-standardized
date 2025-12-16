@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Five Star Cash & Carry",
+    "address": "G.23 & G.22, Plaza Seri Setia, No.1 Jalan SS 9/1, 47300 PJ, Selangor",
+    "phone": "603-7877 9712",
+    "tax_id": "000610435072",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-01-19",
+    "time": "10:48:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 18.68,
+    "tax": 1.12,
+    "tip": 0.0,
+    "total": 19.8,
+    "accounting_category": "Grocery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "KISMIS 500GM",
+      "quantity": 2,
+      "unit_price": 9.9,
+      "total_price": 19.8,
+      "category": "Grocery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 30.2
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006401836.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "WOLF Catering\nFIVE STAR CASH & CARRY\n(1365663-P)\nG.23 & G.22, Plaza Seri Setia,\nNo.1 Jalan SS 9/1, 47300 PJ, Selangor.\nTel/Fax : 603-7877 9712 (POS 3)\n(GST No.: 000610435072)\n\nTAX INVOICE\nRECEIPT NO.[00523997] 19/01/17 10:48\n15755 X 2 19.80 $\n[MAP]KISMIS 500GM @ 9.90 \nQuantity Out : 2\n\nNET TOTAL : 19.80\nCASH : 50.00\nCHANGE : 30.20\n\nGST Summary Amount(RM) Tax(RM)\nS = 6% 18.68 1.12\nZ = 0% 0.00 0.00\n...THANK YOU AND DO VISIT US AGAIN...\n\nCashier [P. NISANTHI]\n[19/01/17] [10:49]\nMachine [003]"
+  }
+}

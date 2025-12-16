@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Pizza Hut",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 69091.0,
+    "tax": 6909.0,
+    "tip": 0.0,
+    "total": 76000.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "PAKET BER2",
+      "quantity": 1,
+      "unit_price": 69091.0,
+      "total_price": 69091.0,
+      "category": "Meal",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000489.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PIZZA HUT\n\n1 PAKET BER2                        69,091\n  1 BREAD N CHEESE DEL\n  1 MAC N CHEESE DEL\n  1 PEPSI DEL\n  1 P/P THUOSAND ISL DEL\n  1 LIPTON ICE TEA DEL\n\nSUBTOTAL                            69,091\nTAX                                   6,909\n\nTOTAL                               76,000"
+  }
+}

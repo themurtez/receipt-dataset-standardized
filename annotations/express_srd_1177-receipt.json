@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "El Charro Cafe Ventana",
+    "address": "6910 E Sunrise Dr",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-24",
+    "time": "20:00:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 45.15,
+    "tax": 2.75,
+    "tip": 0.0,
+    "total": 47.9,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Coors Light",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ice Tea",
+      "quantity": 1,
+      "unit_price": 3.25,
+      "total_price": 3.25,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Shrimp Fajita",
+      "quantity": 1,
+      "unit_price": 18.95,
+      "total_price": 18.95,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Stuffed Chicken",
+      "quantity": 1,
+      "unit_price": 17.95,
+      "total_price": 17.95,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1177-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "El Charro Cafe Ventana\n6910 E SUNRISE DR\nServer: Ana          06/24/2018\nTable 24/1           8:00 PM\nGuests: 2                #30076\n\nCoors Light               5.00\nIce Tea                   3.25\nShrimp Fajita           18.95\nStuffed Chicken         17.95\n\nSubtotal                 45.15\nTax                       2.75\nTotal                    47.90\nBalance Due              47.90\n\nEAT FOR FREE!!!"
+  }
+}

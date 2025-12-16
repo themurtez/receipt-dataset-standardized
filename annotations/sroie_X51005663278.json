@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "IKEA Cheras",
+    "address": "No 2A Jalan Cochrane, Taman Maluri, 55100 Kuala Lumpur",
+    "phone": "",
+    "tax_id": "000115154944",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-23",
+    "time": "07:13:00",
+    "currency": "RM",
+    "payment_method": "Cash",
+    "subtotal": 69.15,
+    "tax": 4.15,
+    "tip": 0.0,
+    "total": 73.3,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Almond Cake",
+      "quantity": 1,
+      "unit_price": 22.5,
+      "total_price": 22.5,
+      "category": "Food",
+      "accounting_category": "Cakes",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "IKEA Retail",
+      "quantity": 1,
+      "unit_price": 36.0,
+      "total_price": 36.0,
+      "category": "Retail",
+      "accounting_category": "Furniture",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "IKEA Drink",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Dark Chocolate 70%",
+      "quantity": 2,
+      "unit_price": 6.9,
+      "total_price": 13.8,
+      "category": "Food",
+      "accounting_category": "Chocolate",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005663278.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "31812012\nIKANO HANDEL SDN BHD\n(1074617K)\nIKEA Cheras\nNo 2A Jalan Cochrane\nTaman Maluri\n55100 KUALA LUMPUR\nGST NO : 000115154944\n-------------------------\nTAX INVOICE 23/12/17\nSlip: 0000000111000395667 Date: 23/12/17\nTime: 7:13\nTrans: 41139568 Staff: 95651\nDescription Amount TX\n910347623 Almond Cak 22.50 SR\n999900245 IKEA Retai 36.00 SR\n999900701 Dark Chocolate 70% U 2 pc @ 6.90 13.80 SR\nTotal RM Including GST 6% 73.30\nRounding Adj. 0.00\nTotal Rounded 73.30\nCash -73.30\nGST SR 6% 73.30 4.15\nAmt. Excl. GST 69.15\nNo. of Items 5\n73.30\nThank you. Please come again."
+  }
+}

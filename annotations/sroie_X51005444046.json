@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "STAR GROCER SDN BHD",
+    "address": "No 4, Desa Pandan, Off Kampong Pandan, 55100 Kuala Lumpur",
+    "phone": "",
+    "tax_id": "000915943424",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-25",
+    "time": "13:43:11",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 66.17,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 66.15,
+    "accounting_category": "Grocery",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Carrot S/M 500GM CH (PKT)",
+      "quantity": 8,
+      "unit_price": 1.59,
+      "total_price": 12.72,
+      "category": "Produce",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Jambu Batu (Guava Seedless/ Mutiara)",
+      "quantity": 0.214,
+      "unit_price": 6.92,
+      "total_price": 1.48,
+      "category": "Produce",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Mango Honey (Susu)",
+      "quantity": 0.528,
+      "unit_price": 4.91,
+      "total_price": 2.59,
+      "category": "Produce",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Pineapple Local",
+      "quantity": 2,
+      "unit_price": 8.6,
+      "total_price": 17.2,
+      "category": "Produce",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Timun Jepun (Japanese Cucumber)",
+      "quantity": 0.837,
+      "unit_price": 1.29,
+      "total_price": 1.08,
+      "category": "Produce",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "US Green Apple (175)",
+      "quantity": 1,
+      "unit_price": 7.5,
+      "total_price": 7.5,
+      "category": "Produce",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Valencia SA (105)",
+      "quantity": 4,
+      "unit_price": 5.9,
+      "total_price": 23.6,
+      "category": "Produce",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": -0.02,
+    "change_due": 0.85
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005444046.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "STAR GROCER SDN BHD (1171881-W)\nNo 4, Desa Pandan, Off kampong Pandan,\n55100 Kuala Lumpur\n(GST REG NO: 000915943424)\nTax Invoices\n\n-----------------------------------------------------------\nTax Invoice : DSP05201803250022 25/03/18\nCashier : Raja Nur 13:43:11\n\nCARROT S/M 500GM CH (PKT)\n1800001501 1.59*8 12.72 Z\n\nJAMBU BATU (GUAVA SEEDLESS/ MUTIARA) KG\n200033100148002149 6.92*0.214 1.48 Z\n\nMANGO HONEY (SUSU) (KG)\n200010800259005280 4.91*0.528 2.59 Z\n\nPINEAPPLE LOCAL 1S\n1810064501 8.60*2 17.20 Z\n\nTIMUN JEPUN (JAPANESE CUCUMBER) KG\n200017100108008367 1.29*0.837 1.08 Z\n\nUS GREEN APPLE (175) 10S\n1810078202 7.50*1 7.50 Z\n\nVALENCIA SA (105) 8S\n1810061602 5.90*4 23.60 Z\n\n-----------------------------------------------------------\nItem 7 Total with GST @ 6% 66.17\nQty 18 Rounding -0.02\nTotal Saving 0.00 Total 66.15\nTender\nCash 67.00\nChange 0.85\n\nGST Analysis Goods Tax Amount\nS = 6% 0.00 0.00\nZ = 0% 66.17 0.00\n\nConsider PTS: 66"
+  }
+}

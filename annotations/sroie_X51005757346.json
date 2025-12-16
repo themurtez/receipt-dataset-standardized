@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (M) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000306020352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2023-03-18",
+    "time": "18:09:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 24.62,
+    "tax": 1.48,
+    "tip": 0.0,
+    "total": 26.1,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "DOUBLE EXT BOX 10Y 40/016 CBD4110",
+      "quantity": 1,
+      "unit_price": 25.9,
+      "total_price": 25.9,
+      "category": "Hardware",
+      "accounting_category": "Goods",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "PLASTIC BAGS",
+      "quantity": 1,
+      "unit_price": 0.2,
+      "total_price": 0.2,
+      "category": "Supplies",
+      "accounting_category": "Goods",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 23.9
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005757346.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "31803057\nMR. D.I.Y. (M) SDN BHD\n(CO.REG :860671-D)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000306020352)\n(IOI PUCHONG)\n-TAX INVOICE-\nDOUBLE EXT BOX 10Y 40/016 CBD4110 *S\nWA21 - 20\n9553114461423 1 X 25.90 25.90\nPLASTIC BAGS *S\n99999 1 X 0.20 0.20\nItem(s) : 2 Qty(s) : 2\nTotal Incl. GST@6% RM 26.10\nCASH RM 50.00\nCHANGE RM 23.90\nGST @6% included in total RM 1.48\n*\n23-03-18 18:09 SH01 ZJ86 T1 R000111754\nOPERATOR TRAINEE CASHIER\nEXCHANGE ARE ALLOWED WITHIN\n7 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

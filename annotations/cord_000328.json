@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "XXI Cafe",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 228000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 228000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Coke (L)",
+      "quantity": 1,
+      "unit_price": 25000.0,
+      "total_price": 25000.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Fanta Strwbry (L)",
+      "quantity": 1,
+      "unit_price": 25000.0,
+      "total_price": 25000.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "XXI Java Tea Spc",
+      "quantity": 1,
+      "unit_price": 25000.0,
+      "total_price": 25000.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Extra Jelly Lychee",
+      "quantity": 1,
+      "unit_price": 5000.0,
+      "total_price": 5000.0,
+      "category": "Snack",
+      "accounting_category": "Snack",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Caramel Medium",
+      "quantity": 1,
+      "unit_price": 50000.0,
+      "total_price": 50000.0,
+      "category": "Snack",
+      "accounting_category": "Snack",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Butter Milk Popcorn",
+      "quantity": 1,
+      "unit_price": 38000.0,
+      "total_price": 38000.0,
+      "category": "Snack",
+      "accounting_category": "Snack",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Tahu Ikan Oma Giok",
+      "quantity": 3,
+      "unit_price": 20000.0,
+      "total_price": 60000.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 9,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000328.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "XXI Cafe\n1 Coke (L) 25.000\n1 Fanta Strwbry (L) 25.000\n1 XXI Java Tea Spc 25.000\n1 Extra Jelly Lychee 5.000\n1 Caramel Medium 50.000\n1 Butter Milk Popcorn 38.000\n3 Tahu Ikan Oma Giok 60.000\n\nTOTAL 228.000\nCASH\n228.000\nCHANGED\n0\n"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "CARD",
+    "subtotal": 90000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 90000.0,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "DLGA (FFT+2KB)",
+      "quantity": 1,
+      "unit_price": 88000.0,
+      "total_price": 88000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "1 UP Drink",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Drink",
+      "accounting_category": "Dining",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "1 UP Orange",
+      "quantity": 1,
+      "unit_price": 2000.0,
+      "total_price": 2000.0,
+      "category": "Drink",
+      "accounting_category": "Dining",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000555.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "DLGA (FFT+2KB)   88.000   88.000\n1 UP Drink 16     0\n1 UP Orange 16    2.000\nTotal                        90.000\nCARD2\nfeedback.com/14\n"
+  }
+}

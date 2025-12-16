@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "RESTORAN IBRAHIM MAJU SB",
+    "address": "NO.2, GROUND FLOOR, JALAN REKO SENTRAL 8, TAMAN REKO SENTRAL, 43000 KAJANG, SELANGOR DE",
+    "phone": "03-87342689",
+    "tax_id": "000696532992",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-19",
+    "time": "03:43:44",
+    "currency": "RM",
+    "payment_method": "CASH",
+    "subtotal": 5.3,
+    "tax": 0.3,
+    "tip": 0.0,
+    "total": 5.3,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "MAKANAN",
+      "quantity": 1,
+      "unit_price": 2.3,
+      "total_price": 2.3,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MAKANAN",
+      "quantity": 1,
+      "unit_price": 1.4,
+      "total_price": 1.4,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MAKANAN",
+      "quantity": 1,
+      "unit_price": 1.6,
+      "total_price": 1.6,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 4.7
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005685355.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "3180301\nRESTORAN IBRAHIM MAJU SB\nNO.2, GROUND FLOOR, JALAN REKO SENTRAL 8\nTAMAN REKO SENTRAL, 43000 KAJANG\nSELANGOR DE\nTEL: 03-87342689\nGST ID NO:000696532992\nTAX INVOICE\nINVOICE # : 1-161696\nTIME : 19/03/2018 03:43:44 PM\nCASHIER : JAHABA R ALI\nSELF SERVICE : 1000\nQTY DESCRIPTION PRICE AMOUNT\n1 MAKANAN 2.30 2.30 S\n1 MAKANAN 1.40 1.40 S\n1 MAKANAN 1.60 1.60 S\nSub Total Incl. GST RM 5.30\nRound Adjustmt RM 0.00\nTotal RM 5.30\nPayment CASH RM 10.00\nChange RM 4.70\nGST 6 % Paid RM 0.30\nGST ANALYSIS AMT (RM) TAX (RM)\nS = 6 % 5.00 0.30\nZ = 0 % 0.00 0.00\n19/03/2018 03:44:03 PM\n<THANK YOU>\n<PLEASE COME AGAIN>\n"
+  }
+}

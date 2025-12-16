@@ -1,0 +1,118 @@
+{
+  "merchant": {
+    "name": "Grande Onda",
+    "address": "Av. Marginal Praia de Carcavelos, 2775-604 Carcavelos",
+    "phone": "",
+    "tax_id": "504446738",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-10-05",
+    "time": "14:10:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 23.57,
+    "tax": 3.38,
+    "tip": 0.0,
+    "total": 26.95,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Sopa",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Food",
+      "accounting_category": "Food & Drink",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Agua 0,5cl",
+      "quantity": 1,
+      "unit_price": 1.6,
+      "total_price": 1.6,
+      "category": "Drink",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ice Tea Pessego",
+      "quantity": 1,
+      "unit_price": 2.2,
+      "total_price": 2.2,
+      "category": "Drink",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Imperial",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Drink",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Hamburger Simples",
+      "quantity": 1,
+      "unit_price": 4.9,
+      "total_price": 4.9,
+      "category": "Food",
+      "accounting_category": "Food & Drink",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pao D Alho",
+      "quantity": 1,
+      "unit_price": 3.9,
+      "total_price": 3.9,
+      "category": "Food",
+      "accounting_category": "Food & Drink",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MAGNUM DB CARAMELO",
+      "quantity": 1,
+      "unit_price": 2.4,
+      "total_price": 2.4,
+      "category": "Dessert",
+      "accounting_category": "Food & Drink",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cafe",
+      "quantity": 2,
+      "unit_price": 0.95,
+      "total_price": 1.9,
+      "category": "Drink",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Epa",
+      "quantity": 1,
+      "unit_price": 3.05,
+      "total_price": 3.05,
+      "category": "Food",
+      "accounting_category": "Food & Drink",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 9,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_185146.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GRANDE ONDA\nAV. MARGINAL PRAIA DE CARCAVELOS\nGRANDE ONDA - RESTAURACAO E TURISMO, LDA\nAV. MARGINAL PRAIA DE CARCAVELOS\n2775-604 CARCAVELOS\nNIF: 504446738\n\nFACTURA SIMPLIFICADA\nData : 2019-10-05 Hora :14:10 Mesa :77\nFatura: FAC-S/1326448 Original 1a Via\nFunc: MARIA\n\nQuant. Descricao                Tx.     Total\n1       Sopa                        13%    2,50\n1       Agua 0,5cl             13%    1,60\n1       Ice Tea Pessego     23%  2,20\n1       Imperial                  23%  1,50\n1       Hamburger Simples 13%  4,90\n1       Pao D Alho              13%  3,90\n1       MAGNUM DB CARAMELO 13%  2,40\n2       Cafe                        13%    1,90\n1       Epa                         13%    3,05\n\n                                       Total 26,95 EUR\n\nTAXA     BASE      IVA                TOTAL\n13,00%  20,40   2,65       23,05\n23,00%   3,17    0,73         3,90\n\nNome:\nNIF :PT 510776911\nCbJ3-Processado em Programao Certificado n.\n449/AT                       GRANDE ONDA\n\nSistema faturacao Eldigito\nSoftware Wintouch(c)"
+  }
+}

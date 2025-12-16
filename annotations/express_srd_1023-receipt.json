@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Thai Gusto Restaurant",
+    "address": "2011 Hewitt Ave, Everett, WA 98201",
+    "phone": "425-252-3525",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-06-16",
+    "time": "12:36:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 27.48,
+    "tax": 2.67,
+    "tip": 0.0,
+    "total": 30.15,
+    "accounting_category": "Dining",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Chang",
+      "quantity": 2,
+      "unit_price": 3.5,
+      "total_price": 7.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Garlic Delight",
+      "quantity": 1,
+      "unit_price": 10.24,
+      "total_price": 10.24,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Red Curry",
+      "quantity": 1,
+      "unit_price": 10.24,
+      "total_price": 10.24,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1023-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Thai\nGUSTO\nThai Gusto Restaurant\n2011 Hewitt Ave\nEverett WA 98201\nTel. 425-252-3525 Fax. 425-252-3525\nWelcome to Thai Gusto\nTable 4\nDate: 6/16/2017 12:36 PM\nServer: PRACH\nChang (2@$3.50) $7.00\n#L14 Garlic Delight $10.24\n[Chicken][5******][Small Brown Rice]\n#L28 Red Curry $10.24\n[Chicken][5******][Small Brown Rice]\nTotal 4 item(s) $27.48\nSales Tax $2.67\nGrand Total $30.15\nTip Guide\n15%=$4.52, 18%=$5.43, 20%=$6.03\nThank you very much.\nCome back again.\n- GUEST CHECK -\nThis is not a receipt."
+  }
+}

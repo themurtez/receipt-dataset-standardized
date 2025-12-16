@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "PASARAYA BORONG PINTAR SDN BHD",
+    "address": "NO 19-G&19-1&19-2 JALAN TASIK UTAMA 4, MEDAN NIAGA TASIK DAMAI",
+    "phone": "016-5498845",
+    "tax_id": "(124525-H)",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-02-14",
+    "time": "17:37:44",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 1.45,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 1.45,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "100PLUS LIME 325ML",
+      "quantity": 1,
+      "unit_price": 1.45,
+      "total_price": 1.45,
+      "category": "Beverage",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 8.55
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005447859.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PASARAYA BORONG PINTAR SDN BHD\nBR No.: (124525-H)\nNO 19-G&19-1&19-2 JALAN TASIK UTAMA 4, MEDAN NIAGA TASIK DAMAI\n016-5498845,\nGST No.:\n14/02/2018 5:37:44PM\nTAX INVOICE\nTRN: CR0005140\nCOUNTER 4 CASHIER: 2\nQTY UOM UNIT Amt Exc. Amt Inc. GST\nPrice Tax Tax Code\n100PLUS LIME 325ML\n1 WALK 1.45 1.45 1.45 ZRL\n*Total Qty: 1.00 1.45\nTotal Includes GST 0% 1.45\nCustomer's Payment\nCash 10.00\nChange 8.55\nGST Summary Amount (RM) Tax (RM)\nZRL = 0 % 1.45 0.00\n*Goods sold are not returnable\nThank you for shopping at PASARAYA BORONG PINTAR SDN BHD"
+  }
+}

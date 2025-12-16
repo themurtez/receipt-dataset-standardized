@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Visa",
+    "subtotal": 307000.0,
+    "tax": 33156.0,
+    "tip": 0.0,
+    "total": 364716.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Sharkie Freeze",
+      "quantity": 1,
+      "unit_price": 49000.0,
+      "total_price": 49000.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Dine For 2 - Bali Fish & Chips DFT",
+      "quantity": 1,
+      "unit_price": 129000.0,
+      "total_price": 129000.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Dine For 2 - Danish Fish & Chips DF",
+      "quantity": 1,
+      "unit_price": 129000.0,
+      "total_price": 129000.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000718.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 SHARKIE FREEZE 49,000\n** BEVERAGE\n1 DINE FOR 2 129,000\n* BALI FISH & CHIPS DFT ---\n* JAPANESE FISH & CHIPS ---\n1 DINE FOR 2 129,000\n* DANISH FISH & CHIPS DF ---\n* NEW YORK FISH & CHIPS ---\n* FOOD 258,000\nSUBTL 307,000\nService Charge 24,560\nTAX 33,156\nTOTAL 364,716\nVISA 364,716"
+  }
+}

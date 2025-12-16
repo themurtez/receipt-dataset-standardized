@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Biz Link",
+    "address": "Lot TC007 & 008, 3rd Floor, SG. Wang Plaza",
+    "phone": "03-2148 6633",
+    "tax_id": "000345100288",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-07-06",
+    "time": "14:47:04",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 376.42,
+    "tax": 22.58,
+    "tip": 0.0,
+    "total": 399.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Timi EC-10 Cheque Writer",
+      "quantity": 1,
+      "unit_price": 376.42,
+      "total_price": 399.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 1.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619784.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BIZ LINK\nSECURITY & OA TRADING (00382060-M)\nLot TC007 & 008, 3rd Floor, SG. Wang Plaza\nTel/fax : 03-2148 6633\nGST NO: 000345100288\nDate : 7/6/2018 Time : 2:47:04 PM\nTax Invoice Sales Person\nNo.: R10109 LYLlAN\nDescription Qty RM Tax\nTIMI EC-10 CHEQUE 1.00 399.00 SR\nWRITER @ 399.00\nTotal Amt. Incl. GST @ 6% : 399.00\nRounding Adjustment :\nTotal Amt. Payable : 399.00\nPaid Amount: 400.00\nChange : 1.00\nTotal Qty Tender : 1\nGST Summary Amount\n(RM) Tax\nSR @ A 376.42 22.58\nTotal 376.42 22.58\nTHANK YOU\nPlease Come Again\nGoods Sold Are Not Refundable"
+  }
+}

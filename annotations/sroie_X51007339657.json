@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Aik Huat Hardware Enterprise (Setia Alam) Sdn Bhd",
+    "address": "No. 17-G, Jalan Setia Indah, U13/X, Setia Alam, Seksyen U13, 40170 Shah Alam",
+    "phone": "012-6631783",
+    "tax_id": "00039452576",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-25",
+    "time": "15:46:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 2.5,
+    "tax": 0.14,
+    "tip": 0.0,
+    "total": 2.5,
+    "accounting_category": "Hardware",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "1/2\" PVC Bib Tap",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Plumbing",
+      "accounting_category": "Plumbing Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "9001 BM Sealing Tape (Yellow)",
+      "quantity": 1,
+      "unit_price": 0.5,
+      "total_price": 0.5,
+      "category": "Tapes",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 7.5
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007339657.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AIK HUAT HARDWARE\nENTERPRISE (SETIA ALAM) SDN BHD\n622773-X\nNO. 17-G, JALAN SETIA INDAH\n(X) U13/X, SETIA ALAM,\nSEKSYEN U13, 40170 SHAH ALAM.\nTEL: 012-6631783\nFAX: 03 - 3663608\nGST NO: 00039452576\n\nSIMPLIFIED TAX INVOICE\n\nCASH\n\nRECEIPT #: CSP0423102 DATE: 25/12/2017\nSALESPERSON : AH019 TIME: 15:46:00\n\nITEM QTY U/P AMOUNT\n(RM) (RM)\n\n4536000000012 1 2.00 2.00\n1/2\" PVC BIB TAP  ???\n2000070000010 1 0.50 0.50\n9001 BM SEALING TAPE (YELLOW) ???\n\nTOTAL QUANTITY 2\n\nSUB-TOTAL (GST) 2.50\nDISC 0.00\nROUNDING 0.00\nTOTAL 2.50\nCASH 10.00\nCHANGE 7.50\n\n*GST @ 6% INCLUDED IN TOTAL*\n\nGST SUMMARY\n\nCODE AMOUNT % TAX/AMT\n\nSR 2.36 6 0.14\n\nTAX TOTAL: 0.14\n\nGOODS SOLD ARE NOT REFUNDABLE.\nTHANK YOU FOR CHOOSING US!\nPLS PROVIDE ORIGINAL BILL FOR GOODS\nEXCHANGE WITHIN 1 WEEK FROM TRANSACTION\nGOODS MUST BE IN ORIGINAL STATE TO BE\nENTITLED FOR EXCHANGE."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Montepio Geral",
+    "address": "Rua do Ouro N:219-241, 1200-094 Lisboa",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-01-23",
+    "time": "15:05:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 11.2,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 11.2,
+    "accounting_category": "Parking",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Parking Fee",
+      "quantity": 1,
+      "unit_price": 11.2,
+      "total_price": 11.2,
+      "category": "Services",
+      "accounting_category": "Parking",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_111439.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Montepio Geral\nAssoc. Mutualista\nRua do Ouro N:219-241\n1200-094 Lisboa\nCap.Inst. 2900000000 Eur\nCONT:500766681/CRC43043-Porto\nDoc. N.:017554\nBilhete:35508372\nEntrada: 2019-01-23 14:45\nPago: 2019-01-23 15:05\nPago:EUR 11.20\nSai:15:05\nTempo Total 0:19:34\nIva incluido a taxa de 23%\nNome:\nContribuinte:\nMorada:\n\nV-9-Y-C Processado por\nnumero de programa certificado\n1520/AT"
+  }
+}

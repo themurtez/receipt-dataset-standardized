@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "KEDAI PAPAN YEW CHUAN",
+    "address": "LOT 276 JALAN BANTING, 43800 DENGKIL, SELANGOR.",
+    "phone": "03-87686092",
+    "tax_id": "000781500416",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-10",
+    "time": "13:49:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 80.0,
+    "tax": 4.8,
+    "tip": 0.0,
+    "total": 84.8,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BESI R 5.5 (CQ)",
+      "quantity": 10,
+      "unit_price": 8.0,
+      "total_price": 84.8,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 10,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005724628.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KEDAI PAPAN YEW CHUAN\n(0005583085-K)\nLOT 276 JALAN BANTING\n43800 DENGKIL, SELANGOR.\nTEL : 03-87686092 FAX : 03-87686092\nGST ID : 000781500416\nTAX INVOICE\nBill To :\nSUCI ALAM JAYA TRANSPORT\nNO 1 JALAN AMAN 2\nTAMAN DESA 43800\nDENGKIL SELANGOR\n017-6057770\nDoc No. : CS00010679 Date: 10/03/2018\nCashier : USER Time: 13:49:00\nSalesperson : Ref.:\nItem Qty S/Price (GST) (GST)\nS/Price Amount Tax\n100135 10 8.00 8.48 84.80 SR\nBESI R 5.5 (CQ)\nTotal Qty: 10 84.80\nTotal Sales (Excluding GST) : 80.00\nDiscount : 0.00\nTotal GST : 4.80\nRounding : 0.00\nTotal Sales (Inclusive of GST) : 84.80\nCASH : 84.80\nChange : 0.00\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR 6 80.00 4.80\nTotal : 80.00 4.80\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU."
+  }
+}

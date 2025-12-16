@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Pappadeaux Seafood Kitchen",
+    "address": "7800 Airport Blvd (HOU), Houston, TX 77061",
+    "phone": "(713) 847-7622",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-01-07",
+    "time": "12:46:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 38.95,
+    "tax": 3.21,
+    "tip": 0.0,
+    "total": 42.16,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Side Craw Etouffee 4oz",
+      "quantity": 1,
+      "unit_price": 10.98,
+      "total_price": 10.98,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Pan Seared Tilapia",
+      "quantity": 1,
+      "unit_price": 21.99,
+      "total_price": 21.99,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Tea",
+      "quantity": 2,
+      "unit_price": 5.98,
+      "total_price": 5.98,
+      "category": "Beverage",
+      "accounting_category": "Drink",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1166-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PAPPADEAUX SEAFOOD KITCHEN\nPappadeaux Seafood Kitchen (612)\n7800 Airport Blvd (HOU)\nHouston, Tx 77061\n(713) 847-7622\n\n0089 Table 7 #Party 2\nDANIEL O SvrCk: 7 12:46 01/07/17\nDINE IN\n1 Side Craw Etouffee 4oz 10.98\n1 Pan Seared Tilapia 21.99\n2 Tea 5.98\n\nSub Total: 38.95\nTax: 3.21\nSub Total: 42.16\n\n01/07 13:29 TOTAL: 42.16\n\nThank you for dining at Pappadeaux!\nTip Not Included\n15% 6.32\n18% 7.59\n20% 8.43"
+  }
+}

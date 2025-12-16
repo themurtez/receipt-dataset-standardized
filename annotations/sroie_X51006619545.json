@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "COSWAY (M) SDN BHD (50118-A)",
+    "address": "2nd Floor, Wisma Cosway, Jalan Raja Chulan, 50200 Kuala Lumpur, Malaysia.",
+    "phone": "603-2030 1000",
+    "tax_id": "000743903232",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-12-06",
+    "time": "20:09:40",
+    "currency": "MYR",
+    "payment_method": "Credit Card",
+    "subtotal": 105.57,
+    "tax": 6.33,
+    "tip": 0.0,
+    "total": 111.9,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PM BATHROOM CLEANER",
+      "quantity": 2,
+      "unit_price": 26.7,
+      "total_price": 53.4,
+      "category": "Cleaning Supplies",
+      "accounting_category": "Household",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PM FLR CLEANER",
+      "quantity": 1,
+      "unit_price": 32.7,
+      "total_price": 32.7,
+      "category": "Cleaning Supplies",
+      "accounting_category": "Household",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BG MASK",
+      "quantity": 1,
+      "unit_price": 25.8,
+      "total_price": 25.8,
+      "category": "Personal Care",
+      "accounting_category": "Personal Care",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619545.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "COSWAY (M) SDN BHD (50118-A) 2nd Floor, Wisma Cosway, Jalan Raja Chulan, 50200 Kuala Lumpur, Malaysia. Tel : 603-2030 1000\nFax : 603-2142 5587\nEmail: info@cosway.com.my\nGST REGISTRATION NO : 000743903232\nTAX INVOICE (COSWAY) CENTER : K074 USER ID: K074\nID: S900044 (LEE MEI YEIN)\nINV NO/DATE: K074-00/005 (06/12/2016)\n\nMTD RC AT K074 : 111.90 MTD SV/GV AT K074 : 10.56/10.56 MTD QV AT K074 : 10.56\n\nPROD/LET QTY ICJ EV U.PRICE TOTAL\n(RM) (RM)\n8 695684 2 0.00 26.70 53.40SR\n(PM) BATHROOM CLEANER\n80 695684\n8\n\nPM BATHROOM CLEANER\n8 005118 1 0.00 32.70 32.70SR\n(PM) FLR CLEANER\n80 005118\n2\n\nPM CON FLOOR CLEANER-PINE\n8 741466 1 0.00 25.80 25.80SR\n(BG) MASK\nBUO: 74169A/ST7147\n\nBG HYDRATING SPA MASK\n80 741466\n0.00 0.00\n\nBG VISIBLY SOFT MLK MASK\nAMT PAID incl. GST : RM111.90\nAmt Paid excl. GST : RM 105.57\nGST AMT : RM6.33\n\nPAID BY : CC 7168 : RM111.90\nTOTAL QTY: 15\nRC EARNED: .3\nRP USED: 0\nRC USED: 0\nTotal SV: 10.56\nTotal GV: 10.56\nTotal GV: 10.56\nBIF from Inv No:\n\nMember Signature\nV2.82 06/12/2016 20:09:40\n\nGST Summary AMT (RM) TAX (RM)\n(excl GST)\nSR (6%) 105.57 6.33\nZR (0%) 0.00 0.00\nEXO/S (0%) 0.00 0.00\nTOTAL 105.57 6.33\n\nGoods purchased can be exchanged or returned at the same store within fourteen (14) days from the purchase date subject to Company’s approval. IQI item must be redeemed within Three (3) months from the date of invoice. (Terms & Conditions applied)"
+  }
+}

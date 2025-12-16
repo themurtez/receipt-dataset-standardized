@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Intermarché Armação Pera",
+    "address": "Sodiaportunhos Supermercados, LDA",
+    "phone": "282314465",
+    "tax_id": "508162394",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-06-20",
+    "time": "17:05:00",
+    "currency": "EUR",
+    "payment_method": "Multibanco Manual",
+    "subtotal": 20.32,
+    "tax": 4.67,
+    "tip": 0.0,
+    "total": 24.99,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Máquina de Café Filt",
+      "quantity": 1,
+      "unit_price": 20.32,
+      "total_price": 20.32,
+      "category": "Appliances",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210322_172436.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Intermarché\n*** ARMAÇÃO PERA ***\nSODILAPORCHINHOS SUPERMERCADOS, LDA\nCNT. 508162394\nTEL/FAX: 282314465\nSEJA BEM VINDO\nFATURA FT OEA061219/134\nreferencia: 91710612836      DUPLICADO\nPrecos em Euros\nIdentificação cliente\nNIF     PT 514407395\nNome    LIKEHOME ALGARVE\nMORADA  1\nViatura \nC. Postal\nLOCAL DE DESCARGA\nDia              2019/06/20 A 17:05\n\nArtigo       P. Unitario       P. Total\n               sem IVA          sem IVA\nQDADE       com IVA          com IVA\n1  MAQUINA DE CAFE FILT\n\n\n\n\n          20,32          20,32 B\nTOTAL s/IVA         20,32\nTOTAL c/IVA       24,99\nMULTIBANCO MANUAL 24,99\nCod. Taxa IVA\ns/IVA c/IVA\nB                      23,00        4,67             20,32           24,99\nTotais:                   4,67           20,32           24,99\n\n** **************************************************\nHá coisas na vida que valem muito,\nmas devem custar muito pouco.\nIntermarché\nJuntos pelo melhor e mais barato\n\n\n                  OBRIGADO PELA VISITA\n\n\n                                         VOLTE SEMPRE\n\n\n\n\n  m4Y3 - Processado por programa\nCertificado no 1359/AT\nCoja 05916 CAIXA: 0006 Op: 0206 IRS: 0159\nData de compra 2019-06-20 @ 17:05\nBens entregues nesta data e hora\n                               ao adquirente,\ne carregados na própria loja\n"
+  }
+}

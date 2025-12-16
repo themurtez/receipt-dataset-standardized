@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Chen Jianzhen",
+    "address": "Rua Ferreira Borges 12A, Rua Coelho Rocha 45-4 Dto, 1350-132 Lisboa",
+    "phone": "218253192",
+    "tax_id": "261956800",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-11-10",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 11.79,
+    "tax": 2.71,
+    "tip": 0.0,
+    "total": 14.5,
+    "accounting_category": "Domestic Goods",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Artigos Domesticos",
+      "quantity": 1,
+      "unit_price": 14.5,
+      "total_price": 14.5,
+      "category": "Domestic Goods",
+      "accounting_category": "Domestic Goods",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.5
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_174416.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CHEN JIANZHEN\nContribuinte Nr. 261956800\nRUA FERREIRA BORGES 12A\nRUA COELHO ROCHA 45-4 DTO\n1350-132 LISBOA\nTel: 218253192\n2018 11 10\nNome: Flikehome\nCont. Nr: 510876914\nMorada:\nDUPLICADO\nFatura Nr: FAC 101/00112543\nIVA Descricao                               Total\n23% artigos domesticos          14.50\nTotal A Pagar Euros:             14.50\nNumero De Artigos     1\nRecebido (Euros) :              15.00\nTroco (Euros) :                   0.50\n        IVA%                                      Base                    IVA                total\n        23%                                     11.79                   2.71              14.50\nTotal: 14.50Euros\nfactura indispensavel para troca em 8 dias\nVQP Processado por Programa\nCertificado Nr: 1174/AT\nOBRIGADO E VOLTE SEMPRE"
+  }
+}

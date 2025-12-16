@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Subway#44969-0",
+    "address": "625 S Fair Oaks Ave, Pasadena, CA, 91105",
+    "phone": "626-585-9999",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-17",
+    "time": "14:25:37",
+    "currency": "USD",
+    "payment_method": "Credit Card",
+    "subtotal": 11.99,
+    "tax": 1.23,
+    "tip": 0.0,
+    "total": 13.22,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Any 2 FtLong",
+      "quantity": 1,
+      "unit_price": 11.99,
+      "total_price": 11.99,
+      "category": "Food",
+      "accounting_category": "Meals & Entertainment",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1073-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Subway#44969-0 Phone 626-585-9999\n625 S Fair Oaks Ave\nPasadena, CA, 91105\nServed by: 41 5/17/2019 2:25:37 pm\nTerm ID-Trans# 1/A-297424\n\nQty Size Item Price\n1 #SMS $11.99 Any 2 FtLong 11.99\n1 12\" Steak & Chse Sub\n1 12\" B.M.T. Sub\nSub Total 11.99\nSales Tax (10.25%) 1.23\nTotal (Eat In) 13.22\nCredit Card 13.22\n\nApproval #: 061140\nInvoice #: 91221113582\nCard Type: Visa\nAccount #: ************0002\nApproval: Contact_EMV\nAPPLICATION: VISA\nAID: A0000000031010\nTVR: 0000008000\n\nServed by: 41 5/17/2019 2:25:37 PM\n\nCUSTOMER COPY"
+  }
+}

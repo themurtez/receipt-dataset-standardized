@@ -1,0 +1,235 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "BCA Master",
+    "subtotal": 505600.0,
+    "tax": 53088.0,
+    "tip": 0.0,
+    "total": 583968.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Bakpao telur asin",
+      "quantity": 1,
+      "unit_price": 22800.0,
+      "total_price": 22800.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cai Mieo",
+      "quantity": 1,
+      "unit_price": 15800.0,
+      "total_price": 15800.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Caisim special",
+      "quantity": 1,
+      "unit_price": 15800.0,
+      "total_price": 15800.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Carsiuapau Ayam",
+      "quantity": 1,
+      "unit_price": 22800.0,
+      "total_price": 22800.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Fish Glue",
+      "quantity": 1,
+      "unit_price": 27800.0,
+      "total_price": 27800.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Jamur Isi Ayam",
+      "quantity": 1,
+      "unit_price": 32800.0,
+      "total_price": 32800.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Jamur Kuping",
+      "quantity": 1,
+      "unit_price": 21800.0,
+      "total_price": 21800.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Kailan hongkong",
+      "quantity": 1,
+      "unit_price": 15800.0,
+      "total_price": 15800.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Kuah Kaldu Ayam",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Kue Macok",
+      "quantity": 1,
+      "unit_price": 22800.0,
+      "total_price": 22800.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pangsit Special",
+      "quantity": 1,
+      "unit_price": 27800.0,
+      "total_price": 27800.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sirloin Roll Enoki",
+      "quantity": 1,
+      "unit_price": 34800.0,
+      "total_price": 34800.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sutake Kombinasi",
+      "quantity": 1,
+      "unit_price": 31800.0,
+      "total_price": 31800.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Tahu Jepang",
+      "quantity": 1,
+      "unit_price": 10800.0,
+      "total_price": 10800.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Tahu Sandwidh",
+      "quantity": 1,
+      "unit_price": 26800.0,
+      "total_price": 26800.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TOM YAM",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Udon",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chines Tea Green Tea",
+      "quantity": 2,
+      "unit_price": 19800.0,
+      "total_price": 39600.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Tahu Isi Ayam",
+      "quantity": 2,
+      "unit_price": 21600.0,
+      "total_price": 43200.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Green tea Dingin",
+      "quantity": 5,
+      "unit_price": 16800.0,
+      "total_price": 84000.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Nasi Putih",
+      "quantity": 7,
+      "unit_price": 9800.0,
+      "total_price": 68600.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Bakso Ikan",
+      "quantity": 1,
+      "unit_price": 25800.0,
+      "total_price": 25800.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 23,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000750.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Bakpao telur asin 22,800\n1 Cai Mieo 15,800\n1 caisim special 15,800\n1 Carsiuapau Ayam 22,800\n1 Fish Glue 27,800\n1 Jamur Isi Ayam 32,800\n1 Jamur Kuping 21,800\n1 Kailan hongkong 15,800\n1 Kuah Kaldu Ayam\n1 Kue Macok 22,800\n1 Pangsit Special 27,800\n1 Sirloin Roll Enoki 34,800\n1 Sutake Kombinasi 31,800\n1 Tahu Jepang 10,800\n1 Tahu Sandwidh 26,800\n1 TOM YAM\n1 Udon\n2 Chines Tea Green Tea 19,800\n2 Tahu Isi Ayam 21,600\n5 Green tea Dingin 84,000\n7 Nasi Putih 68,600\n1 Bakso Ikan 25,800\nITEMS TOTAL 605,600\nPromo UOB 20% (100,000)\nSUBTOTAL 505,600\nServices 5% 25,280\nTAX 10% 53,088\nTOTAL 583,968\nBCA MASTER 583,968"
+  }
+}

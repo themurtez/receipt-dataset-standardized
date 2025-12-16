@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "Restaurante Pinoquio",
+    "address": "Praca dos Restauradores, n.79/80, 1250-188 Lisboa",
+    "phone": "213465106",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-10-31",
+    "time": "15:22:00",
+    "currency": "EUR",
+    "payment_method": "Card",
+    "subtotal": 54.74,
+    "tax": 7.66,
+    "tip": 0.0,
+    "total": 62.4,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Picapau",
+      "quantity": 2,
+      "unit_price": 22.5,
+      "total_price": 45.0,
+      "category": "Main course",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Arroz de Alho",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Side",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Refrigerante",
+      "quantity": 2,
+      "unit_price": 1.75,
+      "total_price": 3.5,
+      "category": "Drink",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Agua",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Drink",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Tulipa",
+      "quantity": 1,
+      "unit_price": 3.5,
+      "total_price": 3.5,
+      "category": "Dessert",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Couverts",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Appetizer",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Cafe",
+      "quantity": 2,
+      "unit_price": 0.85,
+      "total_price": 1.7,
+      "category": "Drink",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_215653.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Restaurante Pinoquio\nPraca dos Restauradores, n.79/80\n1250-188 Lisboa Tel.:213465106\nRCRC Lisboa- Cap. Soc.: 30.000?\n2017-10-31 FATURA-RECIBO N:\nOriginal FT 1A1701/29163\n15:22 MESA N: 260/0\nFLIKHOME, LDA\nContribuente: 510776914\n-----------------------\nDESCRICAO IVA VALOR\n2 PICAPAU 13% 45,00\nPreco: 22,50/Unidade\n1 Arroz de Alho 13% 2,50\n2 Refrigerante 23% 3,50\nPreco: 1,75/Unidade\n1 Agua 13% 1,50\n1 Tulipa 23% 3,50\n1 Couverts 13% 1,00\nPreco: 1,00/Unidade\n2 Cafe 13% 1,70\n1 1/2 Garrafa Agua C/ Gas 23%\n-----------------------\nTAXA IVA INCID.\n13% 6,41 49,29\n23% 1,25 5,45\nTOTAL INCIDENCIAS: 7,66 54,74\nTot EUR 62,40\n-----------------------\nVendido por: Barbosa\nPago por Cartao de Debito\nrz1t-Processado por programa\ncertificado n. 196/AT\nREFERENTE A:\nCM 1A17E9/31775\nLicenca: J.J. Sousa, Lda\nContribuinte: 500547572"
+  }
+}

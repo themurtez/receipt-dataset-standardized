@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "MERTANADI",
+    "address": "Jl. Example",
+    "phone": "012-3456-7890",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "BCA Debit",
+    "subtotal": 66000.0,
+    "tax": 6600.0,
+    "tip": 0.0,
+    "total": 72600.0,
+    "accounting_category": "Meals and Entertainment",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "OCHA",
+      "quantity": 1,
+      "unit_price": 8000.0,
+      "total_price": 8000.0,
+      "category": "Beverage",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHIC NAMBAN BENTO",
+      "quantity": 1,
+      "unit_price": 58000.0,
+      "total_price": 58000.0,
+      "category": "Main Course",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000111.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 OCHA 8,000\n1 CHIC NAMBAN BENTO 58,000\nSUBTIL 66,000\nPbl 10% 6,600\nTOTAL 72,600\nBCA DEBIT 72,600"
+  }
+}

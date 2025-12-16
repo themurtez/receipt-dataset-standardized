@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "PENHA DA GRACA FERRAGENS UNIP, LDA",
+    "address": "RUA PENHA FRANCA No63 A-B-C-D 1170-300 LISBOA",
+    "phone": "218286474, 914964724",
+    "tax_id": "510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-01-29",
+    "time": "14:59:00",
+    "currency": "EUR",
+    "payment_method": "Cartao de Debito",
+    "subtotal": 13.01,
+    "tax": 2.99,
+    "tip": 0.0,
+    "total": 16.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "UNI KIT HIGIENICO",
+      "quantity": 1,
+      "unit_price": 13.01,
+      "total_price": 16.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_172300.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PENHA DA GRACA FERRAGENS UNIP, LDA\nLOJA 1\nRUA PENHA FRANCA No63 A-B-C-D\n1170-300 LISBOA\nTEL. 218286474 - 914964724\nEMAIL: pgferragens@gmail.com\nIBAN MPG: PT50 0036 0012 9910 0089 8253 4\nIBAN NB: PT50 0077 0000 0005 8035 9742 3\n2019-01-29 FATURA-RECIBO N:\nOriginal FT 1A1901/608\n14:59 BALCAO 1\n0000 000\nContribuinte: 510776914\nQTD UNI DESCRICAO IVA VALOR\n1 UNI KIT HIGIENICO 23% 16,00\nTAXA IVA INCID.\n23% 2,99 13,01\nTOTAL INCIDENCIAS: 2,99 13,01\nTOTAL: Eur 16,00\nPago por Cartao de Debito\nOBRIGADO E VOLTE SEMPRE\nA2ky-Processado por programa\ncertificado n. 217/AT\nIVA incluido nos precos\nOs servicos e/ou bens foram realizados e/ou colo\ncados a disposicao do adquirente nesta data (Art\n36 do CIVA, No5 alinea F)\nLicenca: PENHA DA GRACA FERRAGENS UNIP, LDA\nContribuinte: 510010970"
+  }
+}

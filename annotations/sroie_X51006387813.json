@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Tokyo Kitchen (Citta Mall)",
+    "address": "G-26, GRD FLOOR, CITTA MALL, NO 1, JALAN PJU, 1A/4B, JLN PJU 1, ARA DAMANSARA, 47301 PETALING JAYA, SELANGOR",
+    "phone": "",
+    "tax_id": "002007515136",
+    "website": "www.mysis.com.my"
+  },
+  "transaction": {
+    "date": "2017-04-23",
+    "time": "21:04:28",
+    "currency": "MYR",
+    "payment_method": "VISA",
+    "subtotal": 97.6,
+    "tax": 6.44,
+    "tip": 0.0,
+    "total": 113.8,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Salmon Teriyaki Wazen",
+      "quantity": 1,
+      "unit_price": 25.9,
+      "total_price": 25.9,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chicken Salad & Sashimi Gozen",
+      "quantity": 1,
+      "unit_price": 25.9,
+      "total_price": 25.9,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chicken Katsu Curry Wazen",
+      "quantity": 1,
+      "unit_price": 19.9,
+      "total_price": 19.9,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Saba Teriyaki Wazen",
+      "quantity": 1,
+      "unit_price": 25.9,
+      "total_price": 25.9,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006387813.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TOKYO KITCHEN (CITTA MALL)\nTOKYO KITCHEN SDN BHD\n(945402-P)\nG-26, GRD FLOOR, CITTA MALL,\nNO 1, JALAN PJU,\n1A/4B, JLN PJU 1, ARA DAMANSARA,\n47301 PETALING JAYA.\nSELANGOR.\nGST Reg. No : 002007515136\n\nTax Invoice\n\nTable D2 POSTED\nOrder# 149306\nBill #: V007-147795 Pax(s): 4\nDate : 23-04-2017 21:04:28\nCashier: IMIE\n----------------------------------------\nDescription Qty U.price Total TAX\n----------------------------------------\nSalmon Teriyaki Wazen\n1 x 25.90 25.90 SR\nChicken Salad & Sashimi Gozen\n1 x 25.90 25.90 SR\nChicken Katsu Curry Wazen\n1 x 19.90 19.90 SR\nSaba Teriyaki Wazen\n1 x 25.90 25.90 SR\n\nTotal (Excluding GST): 97.60\nServ. Charge (10%): 9.76\nGST Payable: 6.44\nTotal (Inclusive of GST): 113.80\n\nTOTAL: 113.80\n\nClosed: 1528 23-04-2017 21:42:00\nServer: PETER\n\nVISA 113.80\n\n- ************7501\n\n- WONG TAI CHIN\n\nGST Summary Amount(RM) Tax(RM)\nSR (@ 6%) 107.36 6.44\n\n**** Thank You ****\nPlease Come Again\n\nPOWERED BY WWW.MYSIS.COM.MY"
+  }
+}

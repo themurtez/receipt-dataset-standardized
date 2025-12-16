@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "myNEWS.com",
+    "address": "Lounge 2, Ground Floor, Oasis Village, No 2, Jalan PJU 1A/7A, Oasis Square, Oasis Damansara, 47301, Petaling Jaya, Selangor",
+    "phone": "1800 88 1231",
+    "tax_id": "000709361664",
+    "website": "mynewscareline@mynews.com.my"
+  },
+  "transaction": {
+    "date": "2018-06-29",
+    "time": "08:26:57",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 7.7,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 7.7,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "HE-333-3S Unicorn Ball Pen Blue",
+      "quantity": 1,
+      "unit_price": 1.9,
+      "total_price": 1.9,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "HE-3S 70 Unicorn Marker BK",
+      "quantity": 1,
+      "unit_price": 4.5,
+      "total_price": 4.5,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Mr.Banana 140G",
+      "quantity": 1,
+      "unit_price": 1.3,
+      "total_price": 1.3,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.3
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008123586.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TQ FOR SHOPPING WITH myNEWS.com\nOASIS VILLAGE\nLOUNGE 2, GROUND FLOOR, OASIS VILLAGE,NO 2,\nJALAN PJU 1A/7A, OASIS SQUARE,OASIS DAMANSARA,,\n47301,PETALING JAYA,SELANGOR\nmyNEWScareline : 1800 88 1231\nmyNEWScareline@mynews.com.my\nMYNEWS RETAIL SB(306295-X) FKA BISON STORES SB\nTAX REG ID CBP 000709361664\n-----------------------------------------------------\nQTY PRICE DISC AMT\nHE-333-3S UNICORN BALL PEN BLUE\n1 1.90 0.00 1.90 SR\nHE-3S 70 UNICORN MARKER BK\n1 4.50 0.00 4.50 SR\nMR.BANANA 140G\n1 1.30 0.00 1.30 SR\nSUB TOTAL 7.70\nGRAND TOTAL 7.70\nCASH 8.00 MYR\n8.00\nCHANGE DUE 0.30\nTOTAL QTY 3\nSR : 0 % GOODS : 7.70 TAX : 0.00\n29/06/2018 8:26:57 AM\nBILL 4449 - 517 - 12949 - 2906180053\nPRICE IS GST INCLUSIVE"
+  }
+}

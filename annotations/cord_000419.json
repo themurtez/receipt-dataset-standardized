@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2023-10-05",
+    "time": "18:30:00",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 320000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 369600.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Pork Belly Cheese Fries",
+      "quantity": 1,
+      "unit_price": 65000.0,
+      "total_price": 65000.0,
+      "category": "Main Course",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Reflection Sparkling",
+      "quantity": 1,
+      "unit_price": 20000.0,
+      "total_price": 20000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Hot Black Cofee",
+      "quantity": 1,
+      "unit_price": 30000.0,
+      "total_price": 30000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Nasi Campur ala Bali",
+      "quantity": 2,
+      "unit_price": 75000.0,
+      "total_price": 150000.0,
+      "category": "Main Course",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Oriental \"Ketjap\" Pork Rice",
+      "quantity": 1,
+      "unit_price": 55000.0,
+      "total_price": 55000.0,
+      "category": "Main Course",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000419.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Pork Belly Cheese Fries\n65,000 1 65,000\nReflection Sparkling\n20,000 1 20,000\nHot Black Cofee\n30,000 1 30,000\nNasi Campur ala Bali\n75,000 2 150,000\nOriental \"Ketjap\" Pork Rice\n55,000 1 55,000\nSUBTOTAL 320,000\nSERVICE 16,000\nPb1 33,600\nVOUCHER 0\nGRAND TOTAL 369,600"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Ferragens G Lemos Lda",
+    "address": "Rua da Madalena 101-107, 1100-319 Lisboa",
+    "phone": "218869341",
+    "tax_id": "501378723",
+    "website": "geral@yuva.com"
+  },
+  "transaction": {
+    "date": "2019-04-02",
+    "time": "16:56:00",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 5.57,
+    "tax": 1.28,
+    "tip": 0.0,
+    "total": 6.85,
+    "accounting_category": "Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SUPOR CHUV 7 / HEY 223090 R OTATIVO",
+      "quantity": 1,
+      "unit_price": 6.85,
+      "total_price": 6.85,
+      "category": "Hardware",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_180546.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Ferragens G Lemos Lda\nRua da Madalena 101-107\n1100-319 LISBOA\nContribuinte N. 501378723\nCapital Social 34,916,00 Euros\nTel. 21 8869341/ Fax: 218869158\nMail: geral@yuva.com\n\nHotel do Porto Quando 8\nNF:FTPOS19V12/1906297 Original\nData:02-04-2019 HORA:16:56\n  \nDESIGNACAO IVAX% QTD VALOR\n--------------------------------\nSUPOR CHUV 7 /\nHEY 223090 R\nOTATIVO 23 1.0 6.85\n\nTaxa valor IVA T.Bruto:\n6.85\n  \n6% 0.00 T.Desc : 0.00\n23% 1.28 T.Liq.: 5.57\n13% 0.00 T.IVA : 1.28\n--------------------------------\nA PAGAR......: 6.85\n  \nMULTIBANCO 6.85\n\nIFH-Processado por programa cer\nCertificado 1756AT"
+  }
+}

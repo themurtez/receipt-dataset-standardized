@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "VIVOPAC MARKETING SDN BHD",
+    "address": "14 JALAN MANIS 4 TAMAN SEGAR 56100 KL",
+    "phone": "03-91334364",
+    "tax_id": "000565805056",
+    "website": "www.vivopac.com"
+  },
+  "transaction": {
+    "date": "2017-05-30",
+    "time": "10:18:02",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 17.75,
+    "tax": 1.07,
+    "tip": 0.0,
+    "total": 18.8,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "9 x 13 (10A)",
+      "quantity": 1,
+      "unit_price": 0.75,
+      "total_price": 0.75,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "26 x 33 (85HT) Red",
+      "quantity": 1,
+      "unit_price": 8.0,
+      "total_price": 8.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "24 x 28 (75HT) Red",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Price Label (PLAIN)",
+      "quantity": 2,
+      "unit_price": 1.5,
+      "total_price": 3.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": -0.02,
+    "change_due": 1.2
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005568898.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "VIVOPAC MARKETING SDN BHD (1070687-M)\n14 JALAN MANIS 4 TAMAN SEGAR 56100 KL\nTEL: 03-91334364 FAX: 03-91310522\nwww.vivopac.com\nGST REG: 000565805056\nTAX INVOICE\nDoc #: CS21539777\nDate : 30/05/2017 10:18:02 AM\nPromoter :\nTerminal : T02 Cashier : ME\n------------------------------------------------------\nDESCRIPTION PRICE Disc AMOUNTTAX\nQTY RM RM CODE\n9 x 13 (10A) \n1.00 PKT * 0.7500 0.75 SR\n26 x 33 (85HT) Red\n1.00 PKT * 8.0000 8.00 SR\n24 x 28 (75HT) Red\n1.00 PKT * 6.0000 6.00 SR\nPrice Label (PLAIN)\n2.00 ROLL * 1.5000 3.00 SR\nItem Count: 4 Item Qty: 5.00\n------------------------------------------------------\nSub Total (Exclusive GST) : 17.75\nGST 6% : 1.07\nRounding Adj. : -0.02\nRounded Total (RM): 18.80\nCash 20.00\nCash Change 1.20\nGST Summary Amount(RM) Tax(RM)\nSR @ 6 % 17.75 1.07\n------------------------------------------------------\nTerms & Conditions\nGoods sold are not refundable with cash.\nFor exchange of goods sold the following apply:\n1. The original receipt must be presented\n2. Exchange is done within 7 days from date of receipt\n3. In good condition and in it's original packing"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Casa Brasas",
+    "address": "Rua Augusta No 267/269, 1100-052 Lisboa",
+    "phone": "",
+    "tax_id": "500057443",
+    "website": "www.faclink.pt"
+  },
+  "transaction": {
+    "date": "2019-09-12",
+    "time": "15:13:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 5.21,
+    "tax": 0.89,
+    "tip": 0.0,
+    "total": 6.1,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Sumo Laranja",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Salgado",
+      "quantity": 2,
+      "unit_price": 1.5,
+      "total_price": 3.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Café",
+      "quantity": 1,
+      "unit_price": 0.6,
+      "total_price": 0.6,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_184140.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Casa Brasas\nRua Augusta No 267/269\n1100-052 Lisboa\nTel.\nNo. Contrib. 500057443\nRegisto na Cons. m.500057443\nCapital Social 25.000\nN.C. 510776914\nFatura simplificada FS 15100/244021 2019-09-12\n15:13\nOriginal\nQt Artigo IV Total\n1 Sumo Laranja 23 E 2.50\n2 Salgado 1.50 13 E 3.00\n1 Café 13 E 0.60\nTotal E 6.10\nTaxa Base IVA Total\n23.00 E 2.03 E 0.47 E 2.50\n13.00 E 3.18 E 0.42 E 3.60\nTotal E 5.21 E 0.89 E 6.10\nConsultas:\n5362 Emp Gerente\nprocessado por computador\nIVA incluido\nWinREST Everywhere <> www.faclink.pt\nEnj4-Processado por programa\ncertificado n. 0071/AT\nCopyright GrupoPIE, SA"
+  }
+}

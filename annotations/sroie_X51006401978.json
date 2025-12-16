@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "B & Best Restaurant",
+    "address": "No.12, Jalan SS4C/5, Petaling Jaya, Selangor Darul Ehsan",
+    "phone": "012-2060 778",
+    "tax_id": "001800839168",
+    "website": "https://m.facebook.com/B-Best-Restaurant"
+  },
+  "transaction": {
+    "date": "2017-04-22",
+    "time": "12:23:34",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 21.0,
+    "tax": 1.26,
+    "tip": 0.0,
+    "total": 22.25,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Fishball Noodle",
+      "quantity": 3,
+      "unit_price": 7.0,
+      "total_price": 21.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": -0.01,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006401978.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "B & BEST RESTAURANT\n(001610235-P)\nGST NO.: 001800839168\nNO.12,JALAN SS4C/5,PETALING JAYA\nSELANGOR DARUL EHSAN\nTEL: 012-2060 778\n**TAX INVOICE**\nBILL NO: 00134603 / POS01\nBIZDATE: 22/04/2017\nCASHIER: Manager\nPRINTED: 22/04/2017 12:23:34 PM\n3 FISHBALL NOODLE @7.00 21.00\nSUB TOTAL 21.00\nGST 6% 1.26\nROUNDING ADJ -0.01\nNET TOTAL 22.25\nCash 22.25\nCHANGE 0.00\nThank You...Please Come Again...\nhttps://m.facebook.com/B-Best-Restaurant\nAll Item Will Be Charges GST\nPOSTED"
+  }
+}

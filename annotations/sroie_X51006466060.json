@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Western Eastern Stationery SDN. BHD",
+    "address": "42-46, JLN Sultan Azlan Shah, 51200 Kuala Lumpur",
+    "phone": "03-4043 7678",
+    "tax_id": "000517099456",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-30",
+    "time": "15:57:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 1.38,
+    "tax": 0.08,
+    "tip": 0.0,
+    "total": 1.4,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "B/W P.S A4/A3",
+      "quantity": 1,
+      "unit_price": 1.38,
+      "total_price": 1.38,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.02,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006466060.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "3180404\n\nWestern Eastern\nStationery SDN.BHD\nCo Reg No: 210038-K\nGST ID: 000517099456\n42-46, JLN Sultan Azlan\nShah 51200 Kuala Lumpur\nTel: 03-4043 7678\nTAX INVOICE\n\nReg 30-04-2018 15:57\nC01 KL 001 038354\nB/W P.S A4/A3\nS RM1.38\n1 No\nGST TA AMT RM1.30\nGST 6% RM0.08\nTotal RM1.38\nRounding RM0.02\nCash RM1.40\n\nTax Invoice of GST\nGoods Sold Are Not\nReturnable"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "merchant": {
+    "name": "AEON CO. (M) BHD.",
+    "address": "3RD FLR, AEON TAMAN MALURI SC, JLN JEJAKA, TAMAN MALURI, CHERAS, 55100 KUALA LUMPUR",
+    "phone": "1-300-80-AEON (2366)",
+    "tax_id": "002017394688",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-02-28",
+    "time": "20:11:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 88.97,
+    "tax": 5.04,
+    "tip": 0.0,
+    "total": 88.95,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "V-CHOR FRA",
+      "quantity": 1,
+      "unit_price": 10.45,
+      "total_price": 10.45,
+      "category": "Groceries",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "CE 13312 LONG H",
+      "quantity": 1,
+      "unit_price": 16.9,
+      "total_price": 16.9,
+      "category": "Household",
+      "accounting_category": "Cleaning Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "BL HARUMI WASHI",
+      "quantity": 3,
+      "unit_price": 7.9,
+      "total_price": 23.7,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "LIDI BROOM W/P",
+      "quantity": 1,
+      "unit_price": 4.1,
+      "total_price": 4.1,
+      "category": "Household",
+      "accounting_category": "Cleaning Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "E-71/MP WATER D",
+      "quantity": 1,
+      "unit_price": 4.9,
+      "total_price": 4.9,
+      "category": "Household",
+      "accounting_category": "Kitchen Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "UNICORN Z4MMX",
+      "quantity": 1,
+      "unit_price": 8.9,
+      "total_price": 8.9,
+      "category": "Toys",
+      "accounting_category": "Recreational Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "SW CE3914B NYL",
+      "quantity": 1,
+      "unit_price": 7.3,
+      "total_price": 7.3,
+      "category": "Fashion Accessories",
+      "accounting_category": "Clothing",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "18MMX1 WHITE D",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "CABLE BOX",
+      "quantity": 1,
+      "unit_price": 18.9,
+      "total_price": 18.9,
+      "category": "Electronics",
+      "accounting_category": "Gadgets",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "PLASTICS BAG",
+      "quantity": 1,
+      "unit_price": 0.2,
+      "total_price": 0.2,
+      "category": "Miscellaneous",
+      "accounting_category": "General Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 12,
+    "rounding": -0.02,
+    "change_due": 11.05
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005757201.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "31803003\nAEON CO. (M) BHD (126926-H)\n3RD FLR, AEON TAMAN MALURI SC\nJLN JEJAKA, TAMAN MALURI\nCHERAS, 55100 KUALA LUMPUR\nGST ID : 002017394688\nSHOPPING HOURS\nSUN-THU:1000 HRS - 2200 HRS\nFRI-SAT:1000 HRS - 2300 HRS\nVALUED CUSTOMER: 1370001392\n--------------------------------------------------\n1x 000000118927 16.90SR\nV-CHOR FRA\n1x 000005270365 10.45SR\nCE 13312 LONG H\n1x 000007940774 7.90SR\nBL HARUMI WASHI\n1x 000007940781 7.90SR\nBL HARUMI WASHI\n1x 000007940781 7.90SR\nBL HARUMI WASHI\n1x 000001397636\n4.10SR LIDI BROOM W/P\n1x 000000697655 4.90SR\nE-71/MP WATER D\n1x 000002926759 8.90SR\nUNICORN Z4MMX\nDISC 10% @8.01 -0.89\n1x 000003076016 7.30SR\nSW CE3914B NYL\n1x 000005106083 2.50SR\n18MMX1 WHITE D\nDISC 10% @2.25 -0.25\n1x 000004146856 18.90SR\nCABLE BOX\nDISC 41% @11.16 -7.74\n1x 00001288854 0.20SR\nPLASTICS BAG\nSub-total 88.97\nTotal Sales Incl GST 88.97\nRounding Adj -0.02\nTotal After Adj Incl GST 88.95\nCASH 100.00\nItem Count 12 Change Amt 11.05\nInvoice No: 2018022810062100090\nGST Summary Amount Tax\nSR @ 6% 83.93 5.04\nTotal 83.93 5.04\n28/02/2018 20:11 1008 210 2100090\n0235138 SARYANI\nAEON BANDAR PUCHONG\nTEL 1-300-80-AEON (2366)\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN"
+  }
+}

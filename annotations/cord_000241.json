@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Coupon",
+    "subtotal": 44999,
+    "tax": 4500,
+    "tip": 0.0,
+    "total": 49500,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Salad Deluxe",
+      "quantity": 2,
+      "unit_price": 17272,
+      "total_price": 34544,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Perkedel",
+      "quantity": 2,
+      "unit_price": 5909,
+      "total_price": 11818,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Chicken HCC, 1Pcs",
+      "quantity": 1,
+      "unit_price": 15000,
+      "total_price": 15000,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "CHARGE TA",
+      "quantity": 1,
+      "unit_price": 909,
+      "total_price": 909,
+      "category": "Service Charge",
+      "accounting_category": "Fees",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 1,
+    "change_due": 500
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000241.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "2 Salad Deluxe 17,272\n2 Perkedel 11,818\n1 Chicken HCC, 1Pcs 15,000\n1 CHARGE TA 909\nSub Total 44,999\nPembulatan 1\nP.Rest 10 % 4,500\nTotal 49,500\nKupon 50,000\nSisa Bayar 500\n6 Items"
+  }
+}

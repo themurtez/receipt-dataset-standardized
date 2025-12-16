@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Dream Arts",
+    "address": "L 2-047, Level 2, Vivacity Megamall, Jalan Wan Alwi, 93350 Kuching",
+    "phone": "",
+    "tax_id": "000168861696",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-29",
+    "time": "07:35:38",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 14.15,
+    "tax": 0.85,
+    "tip": 0.0,
+    "total": 15.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "L123 Android USB Cable (Code15)",
+      "quantity": 1,
+      "unit_price": 15.0,
+      "total_price": 15.0,
+      "category": "Electronics",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006248253.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Dream Arts\nL 2-047, LEVEL 2, VIVACITY MEGAMALL,\nJALAN WAN ALWI, 93350 KUCHING\nGST Reg. 000168861696\n-------------------------------------\nDocument No. : T02035040\nDate : 29/03/2018 07:35:38 PM\nTerminal : T02\nCashier : CASHIER01\nDESC U. PRICE Disc AMOUNT\nQTY RM RM\n-------------------------------------\nL123 ANDROID USB CABLE (CODE15)\n1 UNIT * 15.00 0.00 15.00\n-------------------------------------\nSub Total (Exclusive GST) : 14.15\nGST 6% : 0.85\nRounding Adjustment : 0.00\n-------------------------------------\nRounded Total (RM) : 15.00\n\nCash 15.00\n\nGST Summary Amount(RM) Tax(RM)\nSR @ 6% 14.15 0.85\n-------------------------------------\nTHANK YOU AND PLEASE COME AGAIN\nGoods sold cannot be returned & payment not\nrefundable.\nHappy Shopping with us."
+  }
+}

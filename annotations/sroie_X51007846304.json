@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "UNIHACCA INTERNATIONAL SDN BHD",
+    "address": "12, Jalan Tampoi 7/4, Kawasan Perindustrian Tampoi, 81200 Johor Bahru, Johor",
+    "phone": "",
+    "tax_id": "867388-U",
+    "website": "facebook.com/BarWangRice"
+  },
+  "transaction": {
+    "date": "2018-06-05",
+    "time": "18:22:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 7.52,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 7.5,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "3 Vege",
+      "quantity": 1,
+      "unit_price": 4.15,
+      "total_price": 4.15,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Beans",
+      "quantity": 1,
+      "unit_price": 1.03,
+      "total_price": 1.03,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Add Meats",
+      "quantity": 1,
+      "unit_price": 0.84,
+      "total_price": 0.84,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Imported Veggies",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": -0.02,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007846304.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "UNIHACCA INTERNATIONAL SDN BHD\n05 Jun 2018 18:22\n(867388-U)\n12, Jalan Tampoi 7/4,Kawasan Perindustrian Tampoi,81200 Johor Bahru,Johor\nTAX INVOICE\nInvoice #: OR18060502160307\nItem Qty Total\nSR I001000000031- 3 Vege RM4.15 1 RM4.15\nSR I00100000003- Beans RM1.03 1 RM1.03\nSR I001000000065-Add Meats RM0.84 1 RM0.84\nSR I00100000170- Imported Veggies RM1.50 1 RM1.50\nTotal Amount: RM7.52\nGST @0%: RM0.00\nRounding: -RM0.02\nNett Total: RM7.50\nPayment Mode Amount\nCASH RM7.50\nChange RM0.00\nGST Summary Amount(RM) Tax(RM)\nCR = GST@0% 7.52 0.00\nGST REG #000656195584\nBAR WANG RICE@PERMAS JAYA\nThank You & Come Again!\nLike and Follow Us on Facebook!\nFacebook.com/BarWangRice"
+  }
+}

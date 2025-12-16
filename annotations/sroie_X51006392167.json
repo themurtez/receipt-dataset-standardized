@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Aneka Intertrade Marketing Sdn Bhd",
+    "address": "150B, Jalan TUDM, Kg Baru Subang, 40150 Shah Alam, Selangor Darul Ehsan, Malaysia",
+    "phone": "(+603) 7845 3068",
+    "tax_id": "001532760064",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-06-19",
+    "time": "19:52:18",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 22.45,
+    "tax": 1.35,
+    "tip": 0.0,
+    "total": 23.8,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Milo Actigen-E 3in1 18'sx33g",
+      "quantity": 2,
+      "unit_price": 11.9,
+      "total_price": 23.8,
+      "category": "Groceries",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 27.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006392167.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Aneka Intertrade Marketing Sdn Bhd (524443-X) Wellmart @ SA2 GST Reg No 001532760064 150B, Jalan TUDM, Kg Baru Subang 40150 Shah Alam, Selango: Darul Ehsan, Malaysia. Tel: (+603) 7845 3068 Fax (+603) 7843 3060 SAB01201706190120 19/06/17 07:52:15 pm Cashier: Ezza Ezm 19/06/17 07:52:18 pm * Milo Actigen-E 3in1 18'sx33g 9556001217233 11.90*2 23.80 S ITEM: 1 Total with GST @ 6% 23.80 QTY: 2 ROUNDING 0.00 TOTAL SAVING: 0.00 TOTAL 23.80 TENDER Cash 50.80 CHANGE 27.00 GST Analysis Goods Tax Amount S = 6% 22.45 1.35 Z = 0% 0.00 0.00 Consider PTS. 22 Please CHECK your BALANCE due and all goods purchased are IN ORDER. THANK YOU SEE YOU AGAIN! NO REFUND OR EXCHANGE IS ALLOWED"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Botaminuto",
+    "address": "Amoreiras, Lisboa",
+    "phone": "210942957",
+    "tax_id": "506175502",
+    "website": "www.botaminuto.com"
+  },
+  "transaction": {
+    "date": "2019-03-02",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 28.13,
+    "tax": 6.47,
+    "tip": 0.0,
+    "total": 34.6,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chave Palheta CSL/C",
+      "quantity": 2,
+      "unit_price": 14.7,
+      "total_price": 29.4,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chave Plana UL056/U-5D",
+      "quantity": 2,
+      "unit_price": 2.6,
+      "total_price": 5.2,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 15.4
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_151922.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "botaminuto\nAMOREIRAS\nContribuinte: 506175502\nConsertos Rapidos de Amoreiras,\nConserto de Calqado Copas Chqve\nAvenida Sen Estoril, Am/Cascais 1407\nLisboa, Portugal\nNIF* 510767914\nData: 2019-03-02\nFatura\nVendedor: FILIPE AGUIAR\nArt. - Descricao Qde Pr.Unit. Valor IVA\n559\nCHAVE PALHETA CSL/C-14.70\nCHAVE PLANA UL056 /U-5D\n2 2.60\nTotal de pecas: 4\nVALOR LIQUIDO IVA\nDESCONTO\nTOTAL DOCUMENTO EURO \nNumerario\nTroco\nValoes com CIVA\nTrocos A Rorração\nTrocas 1 Mes\nTel.: 210942957 www.botaminuto.com"
+  }
+}

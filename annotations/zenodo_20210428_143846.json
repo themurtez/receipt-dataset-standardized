@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "JMTD - Ferragens do Combro Lda",
+    "address": "Calçada do Combro Nº3, 1200-110 Lisboa",
+    "phone": "21 347 67 62",
+    "tax_id": "513350356",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-07",
+    "time": "10:13:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 7.32,
+    "tax": 1.68,
+    "tip": 0.0,
+    "total": 9.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Lampada Halogénio",
+      "quantity": 6,
+      "unit_price": 1.5,
+      "total_price": 9.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_143846.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "JMTD-FERRAGENS DO COMBRO LDA\nFERRAGENS FERRAMENTAS CHAVES FECHADURAS\nMAT. ELECTRICO - MAT. CANALIZACAO\nCALCADA DO COMBRO N°3 1200-110 LISBOA\nEmail: jose.m.duarte@iapo.pt\nNIF: 513 350 356\nTelf: 213476762\n\nFATURA SIMPLIFICADA\nORIGINAL\nDATA 07/02/2019 10:13 N° A/29073\nCliente: FLKEHOME Lda\nMorada: \nCont N°: 510776914\nArtigo Qtd Preço € Valor €\n\nLampada Halogénio\n23% 6 Un x 1,50 = 9,00\n#006\nTOTAL 9,00\nNumerário. \nTroco. .....0,00\nIVA Incluido á taxa indicada\nTaxa% Sujeito IVA Total\n23,00 7,32 1,68 9,00\nData de carga: 07/02/2019\nHora de carga: 10:23\nLocal carga.: N/Instalaçoes\nMatricula.: \nData descarga:\nHora descarga: V/Instalaçoes\n\nPRvu-Processado por programa certificado\nN° 88/AT 1 A/29073\n\nOpr: Administrador\n\nOBRIGADO - VOLTE SEMPRE"
+  }
+}

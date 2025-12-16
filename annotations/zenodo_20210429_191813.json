@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Posto Lavagem",
+    "address": "Av. Almirante Gago Coutinho, 1000-016 Lisboa",
+    "phone": "218421870",
+    "tax_id": "510402546",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-09-09",
+    "time": "16:13:13",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 6.0,
+    "tax": 1.12,
+    "tip": 0.0,
+    "total": 6.0,
+    "accounting_category": "Car Wash",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Lavagem Programa 1-VIP",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Car Wash",
+      "accounting_category": "Car Wash",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_191813.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "bp\n\nPOSTO LAVAGEM\n\nJoao Mateus Lopes Unipessoal, Lda\nSede: Av. Almirante Gago Coutinho 1000-016 Lisboa\nTelefone: 218421870\nMatricula / NIPC 510402546\nCapital Social: 50.000,00 Euros\n\nPOS: 1 Ref: 4 Ope: Heider Vilela\nData de emissão: 2019-09-09 16:13:13\n\nLavagem Programa 1-VIP 6.00 EUR\n\nTotal\nNumerário 6.00 EUR\nIVA 4 23.00 IVA 1.12 4.86 6.00\n\nRegime part. tabaco. DL 346/85\n\nFatura Simplificada Nr: FS 3706540103\n\nOdd/Processado por Programa Certificado no. 0177/AT\n\nNIF: PT510776914"
+  }
+}

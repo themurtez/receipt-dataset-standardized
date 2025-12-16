@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Nadeje Prestige Sdn Bhd",
+    "address": "Lot No.:G1.116A,Ground Floor, Sunway Pyramid,No.3,Jalan PJS 11/15, Bandar Sunway,47500 Petaling Jaya.",
+    "phone": "",
+    "tax_id": "000182431744",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-02-22",
+    "time": "13:34:14",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 41.21,
+    "tax": 2.21,
+    "tip": 0.0,
+    "total": 39.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Original Slice",
+      "quantity": 2,
+      "unit_price": 13.0,
+      "total_price": 26.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "DoubleChoc Slice",
+      "quantity": 1,
+      "unit_price": 13.0,
+      "total_price": 13.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 11.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005719874.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "NADEJE PRESTIGE SDN BHD\nLOT NO.:G1.116A,GROUND FLOOR,\nSUNWAY PYRAMID,NO.3,JALAN PJS 11/15,\nBANDAR SUNWAY,47500 PETALING JAYA.\n(1198447-X)\nGST ID:000182431744\nTAX INVOICE\n------------------------------------------------\nInvoice: 000-074020 Take Out\nDate: 2018/02/22 13:34:14\n------------------------------------------------\nOriginal Slice 2 RM26.00\nDoubleChoc Slice 1 RM13.00\n------------------------------------------------\nGrand Total RM39.00\n(Bill Inclusive of 6% GST : RM2.21)\nCash RM50.00\nChange RM11.00\n001-2018/02/22 13:34:27 Myn Tun(1) 000-074020 [1]"
+  }
+}

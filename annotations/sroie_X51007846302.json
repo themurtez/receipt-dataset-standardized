@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Moonlight Cake House SDN BHD",
+    "address": "No.1, Jalan Permas 10/5, Bandar Baru Permas Jaya, 81750 Johor Bahru, Johor",
+    "phone": "07-387 3322",
+    "tax_id": "001559298048",
+    "website": "www.moonlightcake.com"
+  },
+  "transaction": {
+    "date": "2018-06-09",
+    "time": "18:47:29",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 15.39,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 15.4,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Butter Sugar Bun",
+      "quantity": 1,
+      "unit_price": 2.25,
+      "total_price": 2.25,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Cookie Cream Bun",
+      "quantity": 1,
+      "unit_price": 3.2,
+      "total_price": 3.2,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Green Tea Mochi",
+      "quantity": 1,
+      "unit_price": 3.3,
+      "total_price": 3.3,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Pastry Chicken Floss",
+      "quantity": 1,
+      "unit_price": 3.2,
+      "total_price": 3.2,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Saha Bread",
+      "quantity": 1,
+      "unit_price": 4.6,
+      "total_price": 4.6,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.01,
+    "change_due": 34.6
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007846302.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MOONLIGHT CAKE HOUSE SDN BHD 807723-U\n(GST Reg No: 001559298048)\nNo.1, Jalan Permas 10/5, Bandar Baru Permas Jaya\n81750 Johor Bahru, Johor. Tel No.: 07-387 3322\nwww.moonlightcake.com\n\nTable : Counter\nInvoice No: SP-null-18/06/09-1013481\nDate : 09/06/2018 18:47:29\nPayment Type: Cash\nMember Number: 3000000100068587\n\nTAKE AWAY\n\nT-Butter Sugar Bun *# 1 RM2.25 ST\nDiscount RM-0.45\nT-Cookie Cream Bun *# 1 RM3.20 ST\nDiscount RM-0.16\nT-Green Tea Mochi *# 1 RM3.30 ST\nDiscount RM-0.16\nT-Pastry Chicken Floss *# 1 RM3.20 ST\nDiscount RM-0.16\nT-Saha Bread *# 1 RM4.60 ST\nDiscount RM-0.23\n\nTotal (Incl GST, 0%) RM15.39\nRounding RM0.01\nGrand Total RM15.40\nTotal Paid RM50.00\nChange RM34.60\n\nDiscount Summary\nDiscount RM1.16\n\nGST Summary\nGST Summary Item Amount(RM) GST(RM)\nST = 0% 5 15.39 0.00\nNS = 0% 0 0.00 0.00\n\n09/06/2018 18:47:30"
+  }
+}

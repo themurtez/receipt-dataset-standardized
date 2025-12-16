@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Super Seven Cash & Carry Sdn Bhd",
+    "address": "No. 1 Jalan Ero 1, Off Jalan Batu Tiga, Sungai Buloh, Seksyen U3, Shah Alam, 40150",
+    "phone": "03-78590861",
+    "tax_id": "000639090688",
+    "website": "http://www.super7.com.my"
+  },
+  "transaction": {
+    "date": "2018-01-27",
+    "time": "16:32:13",
+    "currency": "MYR",
+    "payment_method": "Visa Card",
+    "subtotal": 55.66,
+    "tax": 3.34,
+    "tip": 0.0,
+    "total": 59.0,
+    "accounting_category": "General Merchandise",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "KK Kacang Goreng 300G",
+      "quantity": 10,
+      "unit_price": 5.9,
+      "total_price": 59.0,
+      "category": "Food",
+      "accounting_category": "Inventory",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 10,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005763958.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SUPER SEVEN CASH & CARRY SDN BHD\n(590150-A)\nPASARAYA BORONG SUPER SEVEN\nNO. 1 Jalan Ero 1\nOff Jalan Batu Tiga\nSungai Buloh Seksyen U3 Shah Alam,40150\nhttp://www.super7.com.my\nTEL : 03-78590861\nFAX : 03-78590864\nGST ID : 000639090688\nTAX INVOICE\nCustomer : [77853745]\nMrs. ONG GUAT CHYE\nTAX INVOICE NO : 152164 COUNTER : 006\nOPERATOR : [NURUL FATEHA BT MOHD-ASST SUPERVISOR]\n27-01-2018 04:32:13 PM\n(RM)\nKK KACANG GORENG 300G @5.90\n9556624001400 *10 59.00 SR\nQUANTITY : 10 Units\nTotal Sales (Incl. GST @ 6%) RM59.00\nRounding Adjustment RM0.00\nNet Total RM59.00\nPayment Method VISA CARD\nGST Summary Sales Amt Tax Amt\n(RM) (RM)\nSR (6%) 55.66 3.34\nZR (0%) 0.00 0.00\nPLEASE VERIFY YOUR RECEIPT\nBEFORE LEAVING THE COUNTER.\nGOODS SOLD ARE NOT RETURNABLE.\nTHANK YOU"
+  }
+}

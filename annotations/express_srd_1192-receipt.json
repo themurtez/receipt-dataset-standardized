@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "STAMPER'S",
+    "address": "17380 SOUTHCENTER PARKWAY, TUKWILA, WA 98188",
+    "phone": "206-575-7454",
+    "tax_id": "",
+    "website": "www.r-u-1.com/rewards"
+  },
+  "transaction": {
+    "date": "2023-09-30",
+    "time": "19:39:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 33.9,
+    "tax": 3.39,
+    "tip": 0.0,
+    "total": 37.29,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CHIC TEND AP",
+      "quantity": 1,
+      "unit_price": 9.95,
+      "total_price": 9.95,
+      "category": "Appetizer",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "IRIS 12 1/2 SF",
+      "quantity": 1,
+      "unit_price": 18.95,
+      "total_price": 18.95,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BBQ DELUXE",
+      "quantity": 1,
+      "unit_price": 18.95,
+      "total_price": 18.95,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "1 MIMING",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Promotion",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1192-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "STAMPER'S\n17380 SOUTHCENTER PARKWAY\nTUKWILA, WA 98188\n206-575-7454\n28120 Janell M.\nTbl 127/1 Chk 3885 Oct 3\nSep30'17 07:39PM\n\n1 CHIC TEND AP 9.95\n1 IRIS 12 1/2 SF 18.95\n1 BBQ DELUXE 18.95\n1 MIMING\n\nSUBTOTAL 33.90\nTAX 3.39\nTOTAL DUE 37.29\n\nHAPPY HOUR\nMONDAY TO SATURDAY\n3 pm to 6 pm and 9 pm to close\nSUNDAY HAPPY HOUR ALL DAY\n\nJoin our EAT DRINK & EARN Club\nto earn rewards while dining\nat any Restaurants Unlimited\nrestaurant. Join online at\nwww.r-u-1.com/rewards."
+  }
+}

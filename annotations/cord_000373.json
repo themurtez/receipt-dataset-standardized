@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "KFC",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 39545.0,
+    "tax": 3955.0,
+    "tip": 0.0,
+    "total": 43500.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.98
+  },
+  "items": [
+    {
+      "name": "Bento Barbeque",
+      "quantity": 1,
+      "unit_price": 13636.0,
+      "total_price": 13636.0,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Lychee Float",
+      "quantity": 1,
+      "unit_price": 5909.0,
+      "total_price": 5909.0,
+      "category": "Beverage",
+      "accounting_category": "Drink",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "KFC Winger HC",
+      "quantity": 1,
+      "unit_price": 20000.0,
+      "total_price": 20000.0,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 7000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000373.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Bento Barbeque 13,636\n1 Lychee Float 5,909\n1 KFC Winger HC 20,000\nSub Total 39,545\nP. Rest 10 % 3,955\nTotal 43,500\nCash 50,500\nKembali 7,000"
+  }
+}

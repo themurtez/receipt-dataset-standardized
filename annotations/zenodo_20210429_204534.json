@@ -1,0 +1,163 @@
+{
+  "merchant": {
+    "name": "Solar dos Duques",
+    "address": "Rua Almeida e Sousa, 58-B, 1350-015 Lisboa",
+    "phone": "21 387 26 74",
+    "tax_id": "514 574 283",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-11-29",
+    "time": "12:02:53",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 167.72,
+    "tax": 14.38,
+    "tip": 0.0,
+    "total": 182.1,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Cesto Pao",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Food",
+      "accounting_category": "Appetizer",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Queijo Niza",
+      "quantity": 3,
+      "unit_price": 9.5,
+      "total_price": 28.5,
+      "category": "Food",
+      "accounting_category": "Cheese",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Peixinhos Horta",
+      "quantity": 1,
+      "unit_price": 4.5,
+      "total_price": 4.5,
+      "category": "Food",
+      "accounting_category": "Appetizer",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Gin Tonico",
+      "quantity": 3,
+      "unit_price": 7.5,
+      "total_price": 22.5,
+      "category": "Beverage",
+      "accounting_category": "Alcoholic Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Flute Cerveja",
+      "quantity": 6,
+      "unit_price": 1.3,
+      "total_price": 7.2,
+      "category": "Beverage",
+      "accounting_category": "Beer",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Imperial",
+      "quantity": 1,
+      "unit_price": 1.9,
+      "total_price": 1.9,
+      "category": "Beverage",
+      "accounting_category": "Beer",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Douro",
+      "quantity": 2,
+      "unit_price": 20.0,
+      "total_price": 40.0,
+      "category": "Beverage",
+      "accounting_category": "Wine",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pica Pau Lombo",
+      "quantity": 2,
+      "unit_price": 18.5,
+      "total_price": 37.0,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Orange Gelado",
+      "quantity": 2,
+      "unit_price": 1.5,
+      "total_price": 3.0,
+      "category": "Food",
+      "accounting_category": "Dessert",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Bolinha Gelado",
+      "quantity": 2,
+      "unit_price": 2.0,
+      "total_price": 4.0,
+      "category": "Food",
+      "accounting_category": "Dessert",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Chamuças Indiana",
+      "quantity": 3,
+      "unit_price": 2.0,
+      "total_price": 6.0,
+      "category": "Food",
+      "accounting_category": "Appetizer",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Gamba Fritas Alho",
+      "quantity": 1,
+      "unit_price": 14.0,
+      "total_price": 14.0,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Frango Frito Galo",
+      "quantity": 2,
+      "unit_price": 15.0,
+      "total_price": 30.0,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Agua Pedras",
+      "quantity": 2,
+      "unit_price": 2.0,
+      "total_price": 4.0,
+      "category": "Beverage",
+      "accounting_category": "Non-Alcoholic Beverage",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 14,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_204534.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SOLAR DOS DUQUES\nPETRAS - RESTAURACAO, LDA,\nRUA ALMEIDA E SOUSA, 58-B\n1350-015 LISBOA TELEF: 21 387 26 74\nNIF: 514 574 283\nRegistro na Conservatoria de Lisboa\nCAPITAL SOCIAL 5.000 Euros\n\nCliente no: MESA 13\n\nData: 2019-11-29 12:02:53\n\nNOCient: 10,002.843\n\nContribuinte: 510778914\n\nDescricao\nCesto Pao 1 x 1,50\nQueijo Niza 3 x 9,50\nPeixinhos Horta 1 x 4,50\nGin Tonico 3 x 7,50\nFlute Cerveja 6 x 1,20\nImperial 1 x 1,90\nDouro 2 x 20,00\nPica Pau Lombo 2 x 18,50\nOrange Gelado 2 x 1,50\nBolinha Gelado 2 x 2,00\nChamuças Indiana 3 x 2,00\nManteiga 2 x 0,30\nGamba Fritas Alho 1 x 14,00\nFrango Frito Galo 2 x 15,00\nAgua Pedras 2 x 2,00\n\nTotal a Pagar: 182,10 €"
+  }
+}

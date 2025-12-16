@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "DU ZONGWO",
+    "address": "RUA DO LORFTO N 38\n1200-242 LISBOA",
+    "phone": "213258187",
+    "tax_id": "237797267",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-01-15",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 1.59,
+    "tax": 0.36,
+    "tip": 0.0,
+    "total": 1.95,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Ferramentas",
+      "quantity": 1,
+      "unit_price": 1.95,
+      "total_price": 1.95,
+      "category": "Tools",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_143659.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "DU ZONGWO\nContribuinte No: 237797267\nRUA DO LORFTO N 38\n1200-242 LISBOA\nTel: 213258187\n2019-01-15\n\nNome: FLIKEHOME\nCont No: 510776914\nMorada: LISBOA\n\nORIGINAL\nFatura Nr: FAC 101/0000906\n\nIVA Decrição        Total\n23% Ferramentas    1 x 1.95\n\nTotal A Pagar Euros: 1.95\nNumero De Artigos : 1\n\nRecebido (Euros): 1.95\nTroco  (Euros)  : 0.00\n\nIVAX  Base   IVA   Total\n23%   1.59   0.36   1.95\n\nTotal: 1.95Euros\n\nFatura indispensavel para troca.\ncqvQ  Processado por Programa\nCertificado Nr: 1174/AT\nOBRIGADO E VOLTE SEMPRE"
+  }
+}

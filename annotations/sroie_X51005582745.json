@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Modern Depot SDN BHD",
+    "address": "No.19, PT18685, Jalan Jambu Melaka 2, Jinjang Selatan, Kepong.",
+    "phone": "+603-6242 8076",
+    "tax_id": "002098102272",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-12-04",
+    "time": "09:58:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 141.51,
+    "tax": 8.49,
+    "tip": 0.0,
+    "total": 150.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SR:STEL670 Heatgun 2000W 'Stanley'",
+      "quantity": 1,
+      "unit_price": 141.51,
+      "total_price": 141.51,
+      "category": "Tools",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005582745.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MODERN DEPOT SDN BHD\n950345-T\nNO.19, PT18685, JALAN JAMBU MELAKA 2,\nJINJANG SELATAN, KEPONG.\nTEL: +603-6242 8076 FAX: +603-6242 8176\nGST NO: 002098102272\n\nCASH\nRECEIPT #: CSD0090733 DATE: 04/12/2016\nSALESPERSON : TIME: 09:58:00\nCASHIER : THYE\n\nITEM QTY U/P AMOUNT\nCL:STEL670 1 141.51 141.51\nSR:STEL670 HEATGUN 2000W “STANLEY”\nS/N: 031274\n\nTOTAL QUANTITY 1\n\nSUB-TOTAL 141.51\nDISC 0.00\nTOTAL GST 8.49\nTAX 0.00\nROUNDING 0.00\n\nTOTAL 150.00\nCASH 150.00\nCHANGE 0.00\n\nGST SUMMARY\nCODE AMOUNT % TAX/AMT\nSR 141.51 6 8.49\n\nTAX TOTAL: 8.49\n\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU.\n\n# GST @ 6% INCLUDED IN TOTAL"
+  }
+}

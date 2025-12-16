@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-04",
+    "time": "15:21:00",
+    "currency": "IDR",
+    "payment_method": "CARD",
+    "subtotal": 100100.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 100100.0,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PILOW DUR PX",
+      "quantity": 1,
+      "unit_price": 40000.0,
+      "total_price": 28000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "NASI BAKAR",
+      "quantity": 1,
+      "unit_price": 31500.0,
+      "total_price": 22050.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "SIOMAY",
+      "quantity": 4,
+      "unit_price": 9500.0,
+      "total_price": 26600.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "MACARONI GR",
+      "quantity": 1,
+      "unit_price": 9000.0,
+      "total_price": 6300.0,
+      "category": "Food",
+      "accounting_category": "Snacks",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "PASTELGORENG",
+      "quantity": 1,
+      "unit_price": 9000.0,
+      "total_price": 6300.0,
+      "category": "Food",
+      "accounting_category": "Snacks",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "SEMAR MENDEM",
+      "quantity": 1,
+      "unit_price": 9000.0,
+      "total_price": 6300.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "BAKWAN JAGUNG",
+      "quantity": 1,
+      "unit_price": 6500.0,
+      "total_price": 4550.0,
+      "category": "Food",
+      "accounting_category": "Snacks",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "PLASTIK TENTENG",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Miscellaneous",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000567.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PILOW DUR PX 40,000\nDISC ITEM -30.000%\nAMOUNT -12,000\nNASI BAKAR 31,500\nDISC ITEM -30.000%\nAMOUNT -9,450\nMIKA BESAR 0\nSENDOK MAKAN 0\n4X\nSIOMAY @9500\nDISC ITEM 38,000\n-30.000%\nAMOUNT -11,400\nMIKA SEDANG 0\nGARPU MAKAN 0\nMACARONI GR 9,000\nDISC ITEM -30.000%\nAMOUNT -2,700\nPASTELGORENG 9,000\nDISC ITEM -30.000%\nAMOUNT -2,700\nSEMAR MENDEM 9,000\nDISC ITEM -30.000%\nAMOUNT -2,700\nBAKWAN JAGUNG 6,500\nDISC ITEM -30.000%\nAMOUNT -1,950\nPLASTIK TENTENG 0\nSUBTOTAL 100,100\nTOTAL 100,100\nCARD"
+  }
+}

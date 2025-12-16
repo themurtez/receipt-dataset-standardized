@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Worten",
+    "address": "Edificio Amoreiras Plaza, Rua Maria Ulrich, 1 1070-169 Lisboa",
+    "phone": "",
+    "tax_id": "PT506330330",
+    "website": "www.worten.pt"
+  },
+  "transaction": {
+    "date": "2018-11-20",
+    "time": "17:06:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 32.51,
+    "tax": 7.48,
+    "tip": 0.0,
+    "total": 39.99,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "IRRAD.OLEO",
+      "quantity": 1,
+      "unit_price": 32.51,
+      "total_price": 39.99,
+      "category": "Home Appliances",
+      "accounting_category": "Home Goods",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_170507.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "WORTEN\nVFT Amoreiras\nWORTEN Equipamentos para o Lar SA\nEdificio Amoreiras Plaza, Rua Maria Ulrich, 1 1070-169\nLisboa\nRegistrada CRC Porto sob o n” 503630330\nNIF: PT506330330\nC.S. 4.600.000,00 EUR SIREPE: PT01257\nFatura Original\nNro: FH AX006/1000 20/11/2018 17:06\nCliente: FIKEXHOME MEDIACAO IMOBILIARIA LDA\nNIF: PT510776914\nMorada: LISBOA\nLocal: LISBOA\nC.Postal: 1250.145\nIVA DESCRI€AO VALOR\nPequenos Domesticos:\n(C) 5601980258299 \nKUW12000W KDR.\nTOTAL A PAGAR 39,99\nNumeroario 39.99\nTROCO 0.00\n(C) IVA Total Liq. \n23.00% 32.51 7.48 39.99\nIVA INCLUIDO\nTalão Indispensavel por troca\nPrazo de devolucao: 15 dias\n*** OBRIGADO ***\nNao estao abrangidos pela politica de\nsatisfacao/devolucao os artigos com\nativacao em caixa\nPara mais informacoes consultar\nwww.worten.pt"
+  }
+}

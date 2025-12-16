@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Win Soon Cafe",
+    "address": "No.35 Ground Floor, Jln Metro Perdana Barat 1, Taman Usahawan Kepong 52100 KL",
+    "phone": "03-6242 7258",
+    "tax_id": "001400395536",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-08-05",
+    "time": "12:08:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 70.5,
+    "tax": 4.45,
+    "tip": 0.0,
+    "total": 78.5,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Ling Fish Head Meehoon",
+      "quantity": 1,
+      "unit_price": 16.9,
+      "total_price": 16.9,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Combo Set",
+      "quantity": 1,
+      "unit_price": 10.9,
+      "total_price": 10.9,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "T.Yam Fish Paste Meehoon",
+      "quantity": 1,
+      "unit_price": 11.9,
+      "total_price": 11.9,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "White Coffee-Cold",
+      "quantity": 1,
+      "unit_price": 4.9,
+      "total_price": 4.9,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "F.Prawn&Ling F.Head Mhoon",
+      "quantity": 1,
+      "unit_price": 25.9,
+      "total_price": 25.9,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 21.5
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006620182.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Win Soon Cafe\nPacific Asian Food Delights S/B\n( Company No: 1164418D )\n( GST NO: 001400395536 )\nNo.35 Ground Floor\nJln Metro Perdana Barat 1\nTaman Usahawan Kepong 52100 KL\nTEL: 03-6242 7258\n\n[ TAX INVOICE ]\nTABLE : 04\n\nINV NO: WINS09/00010042\nCASHIER: 66\nINV DT: 08/05/2016 12:08:00 PM RM\n\nQTY ITEM AMOUNT\n1 *021 16.90 SR\nLING FISH HEAD MEEHOON\n1 10.90 SR\nCOMBO SET\n1 502 11.90 SR\nT.YAM FISH PASTE M/HOON\n1 601C 4.90 SR\nWHITE COFFEE-COLD\n1 *029 25.90 SR\nF.PRAWN&LING F.HEAD MHOON\n\n5 SUB TOTAL 70.50\nSV CHARGE 5% 3.55\nGST S.RATE 6% 4.45\n\nNET TOTAL 78.50\nCASH 100.00\nCHANGE 21.50\n\nTax Summary Amount Tax\nSR GST S.RATE 74.05 4.45\n\nTHANK YOU, PLEASE COME AGAIN"
+  }
+}

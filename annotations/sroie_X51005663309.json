@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "KOH SENG HARDWARE",
+    "address": "No. 939, Batu Lima, Jalan Ipoh, 51200 Kuala Lumpur",
+    "phone": "03-62504769",
+    "tax_id": "001117650944",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-02-01",
+    "time": "",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 5.3,
+    "tax": 0.3,
+    "tip": 0.0,
+    "total": 5.3,
+    "accounting_category": "Hardware",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SR:Suga Bag",
+      "quantity": 10,
+      "unit_price": 0.53,
+      "total_price": 5.3,
+      "category": "Hardware",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 10,
+    "rounding": 0.0,
+    "change_due": 15.2
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005663309.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KOH SENG HARDWARE\n1502665-P\nNo. 939, Batu Lima, Jalan Ipoh,\n51200 Kuala Lumpur.\nTEL: 03-62504769 FAX: 03-62504769\nGST NO: 001117650944\n\nTAX INVOICE\nCASH\nRECEIPT #: CS00044964 DATE: 01/02/2018\nCASHIER : USER\n\nITEM QTY U/P AMOUNT\n3674 10 0.53 5.30 S\nSR:SUGA BAG\nTOTAL QUANTITY 10\n\nDISC 0.00\nGST 0.30\nROUNDING 0.00\n\nTOTAL 5.30\nCASH 20.50\nCHANGE 15.20\n\nCODE AMOUNT % TAX/AMT\nSR 5.00 6 0.30\n\nTAX TOTAL: 0.30\n\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU."
+  }
+}

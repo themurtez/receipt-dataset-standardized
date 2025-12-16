@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Gerbang Alaf Restaurants Sdn Bhd",
+    "address": "Level 6, Bangunan TH, Damansara Uptown 3, No. 3, Jalan SS21/39, 47400 Petaling Jaya, Selangor",
+    "phone": "03-6092-1968",
+    "tax_id": "000504664064",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-18",
+    "time": "23:02:16",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 13.1,
+    "tax": 0.74,
+    "tip": 0.0,
+    "total": 13.1,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "McChicken",
+      "quantity": 1,
+      "unit_price": 11.1,
+      "total_price": 11.1,
+      "category": "Main Course",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Coke",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Fries",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Side",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Small Cone",
+      "quantity": 2,
+      "unit_price": 1.0,
+      "total_price": 2.0,
+      "category": "Dessert",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 6.9
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005712017.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Gerbang Alaf Restaurants Sdn Bhd\n(65351-M)\nLicensee of McDonald's\nLevel 6, Bangunan TH, Damansara Uptown3\nNo.3, Jalan SS21/39,47400 Petaling Jaya\nSelangor\n(GST ID No: 000504664064)\nMcDonald's Rawang DT(#188)\nTel No. 03-6092-1968\nTAX INVOICE\nMFY Side 1\nINV# 001881904580783\nORD #70 -REG #19- 18/03/2018 23:02:16\nQTY ITEM\n1 L McChicken 11.10\n1 L Coke\n1 L Fries\n2 Small Cone 2.00\nTakeOut Total (incl GST) 13.10\nTotal Rounded 13.10\nCash Tendered 20.00\nChange 6.90\nTOTAL INCLUDES 6% GST 0.74\nThank You and Please Come Again.\nGuest Relations Center : 1300-13-1300"
+  }
+}

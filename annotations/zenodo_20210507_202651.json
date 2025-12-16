@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "WORTEN LOJA",
+    "address": "RUA SAMPAIO DE CARVALHO 241",
+    "phone": "",
+    "tax_id": "PT507163914",
+    "website": "www.worten.pt"
+  },
+  "transaction": {
+    "date": "2017-10-04",
+    "time": "19:51:13",
+    "currency": "EUR",
+    "payment_method": "Cartao Credito",
+    "subtotal": 24.38,
+    "tax": 5.61,
+    "tip": 0.0,
+    "total": 29.99,
+    "accounting_category": "electronics",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TP-LINK",
+      "quantity": 1,
+      "unit_price": 29.99,
+      "total_price": 29.99,
+      "category": "router",
+      "accounting_category": "electronics",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_202651.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "WORTEN LOJA\nEquipamentos para o Lar\nServico Apoio Clientes 808 100 007\nOlivaos E Santo Antonio S. Salvador\n8100-390 Loule\nRegistada CRC Porto sob o n. 506306960\nNIF: 503563906\nC.S: 1400.000,00 EUR SIBS Certificado\nFatura Duplicado\nData: 04/10/2017 19:51:13 FaCent: 133927\nLocalizado: LISBOA\nL0101 Registo LS350.191\nDescEnf: CAT783\n\"S Tempo de Atendimento (l min\"\nEquipamento Informático:\n (C ) 6935636471295 TP-LINK 29.99\n(F) RA2600\nTOTAL A PAGAR 29,99\nCartão Credito 29,99\nTROCO 0,00\n23.00% IVA Total L, qty List.\nC.Entrega: 23.00% 24.38 5.61 29.99 W 0,00\n171004501051836159561\nTbil: Processado por programa certificado\nN. º 0596 0501 158163 000596 10010020 5 55572/4\nLocal carga: Morada da loja\nLocal descarga: Morada do cliente\nData: 04/10/2017 Hora: 19:51\nWORTEN LOJA\n8100-390 LOULE\nTerminal Pagamento Automático: 00434601\n2017/10/04 19:51:13 Por 02 TPOS Msx257\nCA GERAL DEPOSITOS\nCARTÃO: XXXXXX2801/85\n5016497FO MULTIBANCO\nCOMPRA 29,99 MB\nAUT:533530\nPROCESSADO POR SIBS\nConsulte as condições da Politica de\nSatisfacâo/Devolucao, afixados na loja\nTalao indispensavel para Troca no\nprazo de 15 dias, nos temos previstos\nNão estão abrangidos pela política de\ndevolução os artigos com\nativacão em caixa\nPara mais informasjon consultar\nwww.worten.pt\n"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "SECRET RECIPE RESTAURANT",
+    "address": "Lot G16, Permas Jaya Jusco",
+    "phone": "07-3889980",
+    "tax_id": "000260571136",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-22",
+    "time": "20:10:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 41.81,
+    "tax": 2.37,
+    "tip": 0.0,
+    "total": 41.81,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "M/ROOM CHIC (RICE)",
+      "quantity": 1,
+      "unit_price": 16.98,
+      "total_price": 16.98,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SP/TI MBALL CHK",
+      "quantity": 1,
+      "unit_price": 18.87,
+      "total_price": 18.87,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": -0.01,
+    "change_due": 0.2
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006414715.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SECRET RECIPE RESTAURANT\n(Company No 559208-M)\nLot G16, Permas Jaya Jusco\nTel : 07-3889980 Fax: 07-3889981\n\nTABLE #11 BILL #1\nORDER #P3057498 COVERS #1\nTAX INVOICE #P1176502\n\n1 M/ROOM CHIC (RICE) 16.98 S\n1 SP/TI MBALL CHK 18.87 S\nRM\n\nSUBTOTAL RM41.81\nTOTAL RM41.81\n2 ITEMS\n\nCASH 42.00\nROUNDING RM-0.01\n\nCHANGE 0.20\n\nSV CHG @ 10% Sales RM35.85\nSV CHG @ 10% Amount RM3.59\nS = GST @ 6% Sales RM39.44\nS = GST @ 6% included RM2.37\n* INDICATES TAXED ITEMS\n\nP1-286815 4/22/2018 08:10PM SV-Wani\n\nGST NO. 000260571136\nThank you. Please come again!"
+  }
+}

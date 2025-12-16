@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Maria Amelia & Filho, LDA",
+    "address": "Rua Dr. Burnay, 2655-066, Ericeira",
+    "phone": "261862117",
+    "tax_id": "PT505799550",
+    "website": "galp.com"
+  },
+  "transaction": {
+    "date": "2018-07-27",
+    "time": "20:04:08",
+    "currency": "EUR",
+    "payment_method": "Card",
+    "subtotal": 20.01,
+    "tax": 3.74,
+    "tip": 0.0,
+    "total": 20.01,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Gasolina Evologic 95",
+      "quantity": 12.35,
+      "unit_price": 1.619,
+      "total_price": 20.01,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_152743.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "galp\nDOCUMENTO DE VENDA\nMARIA AMELIA & FILHO, LDA 12292\nMARIA AMELIA & FILHO, LDA\nRUA DR. BURNAY\n2655-066ERICEIRA Tel: 261862117\nNIF: PT505799550\nFatura/Recibo\nQuantidade Preço\nPreço Unitario\n12.35L Bomba 04\nGASOLINA EVOLOGIC 95\n1.619 EUR/L\nTotal\n20.01 A\nEUR\nEUR\n20.01\nEUR\n23.00 % IVA A\n3.74\nCliente: 7161\nNome: FLIKEHOME.\nCodigo Postal:\nLocalidade:\nNo. Contribuinte: 510776194\nMatricula: 54-CC-40\nOperador: Roberson Sousa\nDoc. N.\n0120010334ZFAA00000122922018/000015866\nbxPO - Processado por Programa\nCertificado n.o 1396/A:\nData: Hora: No. Fps N.op Turno\n27-16-2018 20:43 743 416 01 0003 152\nRegime IVA de Caixa nos casos em que tal\nseja aplicavel ao cliente\nclientes@galp.com / Tel: 707 504 257\nDescontos ate 16ct/l com cartão Universo\nPague com saldo do Cartao Continente\nExperimente os combustíveis EVOLOGIC\n+PERFORMANCE, +PROTECAO, +POUPANCA\nE + AMBIENTE. Consulte galp.com.\nA sua opiniao é importante!\nDê a sua opiniao. galp.com/postos\ne receba desconto 2 eur em combustivel\nevologic, o combustivel mais evoluido\nTotal\nCARTÃO DEBITO\nNUMERARIO\nEUR\nEUR\nEUR\n20.01\n20.01\n20.01\nTerminal Pagamento Automatico: 00669632\nData: 2018-07-27 Hora: 20:04:08\nPeriodo: 026 Transacao: 0059 Mensagem: 400\nBANCO BPI\nP C O MACHADO/MARIANA\nCARTAO: **** **** ****1687/68\nA000000032010 VASA ELEC UNIVER\nCOMPRA  20,00€ VISA DB N\nID EStAB.: 0001093251 ASC.: 010883\nPROCESSADO POR SIBS\n9 9017444080218000000000000020.01 0\n"
+  }
+}

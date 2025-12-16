@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "NSK Trade City-Selayang",
+    "address": "Lot 4674 & 4675 Selayang Batu 8, Jalan Ipoh 68100 Batu Caves",
+    "phone": "03-6127 7464",
+    "tax_id": "000431112192",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-10-27",
+    "time": "10:51:52",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 8.49,
+    "tax": 0.51,
+    "tip": 0.0,
+    "total": 9.0,
+    "accounting_category": "Goods",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Kiwi Knife",
+      "quantity": 2,
+      "unit_price": 4.5,
+      "total_price": 9.0,
+      "category": "Kitchenware",
+      "accounting_category": "Goods",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006554841.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "NSK TRADE CITY-SELAYANG (625479-P)\nWISMA YAP TIEH (TAG)\nLOT 4674 & 4675 SELAYANG BATU 8 JALAN IPOH 68100 BATU CAVES\nTEL: 03-6127 7464 FAX: 03-61207487\nGST ID : 000431112192\n\nTAX INVOICE\n\nTAX INVOICE NO : 300048 COUNTER :502\nOPERATOR :[CR63-AZUAN]\n27-10-2017 10:51:52 AM\n\nKIWI KNIFE 474 4' @4.50\n685113050258 *2 9.00 SR\n\nQUANTITY : 2 Units\n\nTotal Sales (Incl. GST @6%) RM9.00\nRounding Adjustment RM0.00\nNet Total RM9.00\nPayment Method CASH\nReceived Cash RM9.00\nChange RM0.00\n\nGST Summary Sales Amt Tax Amt\n(RM) (RM)\nSR (6%) 8.49 0.51\nZR (0%) 0.00 0.00\n\nSEBARANG ADUAN HANYA AKAN DILAYAN BERSAMA RESIT DALAM TEMPOH 3 HARI\nTERIMA KASIH DAN SILA DATANG LAGI\n\nTHANK YOU"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "CASH",
+    "subtotal": 60000.0,
+    "tax": 6000.0,
+    "tip": 0.0,
+    "total": 66000.0,
+    "accounting_category": "Sales",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "3 SI EKO",
+      "quantity": 1,
+      "unit_price": 60000.0,
+      "total_price": 60000.0,
+      "category": "Food",
+      "accounting_category": "Sales",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 4000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000542.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "3 SI EKO 60,000\nSubtotal 60,000\nPb1 6,000\nTotal 66,000\nCASH 70,000\nCash CHANGE -4,000\nTotal Item 1\nTotal Qty 3"
+  }
+}

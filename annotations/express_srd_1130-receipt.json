@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "BOA",
+    "address": "",
+    "phone": "(310) 278-2050",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-20",
+    "time": "14:29:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 43.0,
+    "tax": 4.09,
+    "tip": 0.0,
+    "total": 47.09,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Crab Cake",
+      "quantity": 1,
+      "unit_price": 15.0,
+      "total_price": 15.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Skirt Stk Lunch",
+      "quantity": 1,
+      "unit_price": 28.0,
+      "total_price": 28.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1130-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BOA\n(310) 278-2050\n0051a TABLE 308 #Party 1\nBAR L SvrCk: 13 13:22 12/20/17\nSeparate checks: 1-of-3\n\n1 CRAB CAKE 15.00\n1 SKIRT STK LUNCH 28.00\n\nSub Total: 43.00\nTax: 4.09\nSub Total: 47.09\n\n12/20 14:29 TOTAL: 47.09\n\nSUGGESTED GRATUITY\n18% 8.48\n20% 9.42"
+  }
+}

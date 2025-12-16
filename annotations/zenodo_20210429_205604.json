@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "H3 - Campo Ourique",
+    "address": "R. Tierno Galvan nJo Torre3-P3 301A303, 1070-274 Lisboa",
+    "phone": "213803110",
+    "tax_id": "506784363",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-11-02",
+    "time": "14:34:11",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 13.95,
+    "tax": 1.95,
+    "tip": 0.0,
+    "total": 15.9,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Peito Frango",
+      "quantity": 1,
+      "unit_price": 5.45,
+      "total_price": 5.45,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Arroz Thai",
+      "quantity": 1,
+      "unit_price": 1.95,
+      "total_price": 1.95,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Limonada H3",
+      "quantity": 1,
+      "unit_price": 1.75,
+      "total_price": 1.75,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "H3 no Prato",
+      "quantity": 1,
+      "unit_price": 2.7,
+      "total_price": 2.7,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Grelhado (Prato)",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Batatass as Rodelas",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cafe Ristretto",
+      "quantity": 1,
+      "unit_price": 0.9,
+      "total_price": 0.9,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_205604.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "H3 - Campo Ourique\nH3 Portugal, S.A\nR. Tierno Galvan nJo Torre3-P3 301A303\nCod. Postal: 1070-274 Lisboa\nTelefone: 213803110\nNo. Contribuente: 506784363\nRegisto na Cons. Lisboa n.506784363\nCapital Social: 150.000 Euros\n\nNIF: 510776914\n\nFatura simplificada FS 129/59631\nData: 2019-11-02 - Hora: 14:34:11\n\nOriginal\nQt Artigo IVA Total\n1 Peito Frango 13 e 5.45\n1 Arroz Thai 13 e 1.95\n1 Limonada H3 13 e 1.75\n1 H3 no Prato 13 e 2.70\n1 Grelhado (Prato) 13 e 1.00\n1 Arroz Thai 13 e 1.27\n1 Batatas as Rodelas 13 e 1.00\n1 Limonada H3 13 e 1.50\n1 Croquetes (1un) 23 e 0.50\n1 Croquetes (1un) 23 e 0.50\n1 Croquetes (1un) 23 e 0.50\n1 Cafe Ristretto 13 e 0.90\n\nDesconto e 15.90\n\nTotal e 15.90\nMesa 15 - Emp. Victoria Soares\n\nTaxa Base IVA Total\n13.00 e 12.57 e 1.63 e 14.20\n23.00 e 1.38 e 0.32 e 1.70\nTotal e 13.95 e 1.95 e 15.90\n\nConsulta:\n\nPag. mesa 414\nIVA incluido a taxa legal em vigor\n\nDesconto I refeicao\nVisite tuagresiste.pt para consultar\no seu saldo\n\nActualize ja a nova versao da app H3!\n\nIDTrans: 00005674589 IDTerm: 9020793\n\nIsji-Processado por programa\ncertificado n. 0071/AT\n\nCopyright GrupoPIE, SA\n"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "botaminuto",
+    "address": "Lisboa",
+    "phone": "210994257",
+    "tax_id": "561759502",
+    "website": "www.botaminuto.com"
+  },
+  "transaction": {
+    "date": "2019-03-02",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 33.33,
+    "tax": 7.67,
+    "tip": 0.0,
+    "total": 41.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CHAVE PORTAO PT4R / PT4R-ID",
+      "quantity": 2,
+      "unit_price": 17.5,
+      "total_price": 35.0,
+      "category": "Hardware",
+      "accounting_category": "Tools",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "CHAVE PLANA U10,50 / U-5D",
+      "quantity": 2,
+      "unit_price": 3.0,
+      "total_price": 6.0,
+      "category": "Hardware",
+      "accounting_category": "Tools",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_151807.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "botaminuto\nAMOREIRAS\nContribuinte: 561759502\nCentro Rápido das Ameiras,\nCentro da Calçao e Copia de Chaves,Lda\nRafael Silva,Ltd Ami 70-56 D. R.\nC.Com Ameiras,1,5}041 1070 Lisboa\n- Cap sed ¢00€ our N.cr Cascais N.6955/2097\nE LTR HOME\nLISBOA\nNIF: 51076914 N CIF: P51076914\nC 701231097\nTTR 6369/ Data 2019-03-02 Original\nFactura\nFILIPE AQUIAR\nVENDEDE:\n---\nDescritionOdr Pt| Uniló= Valor IVA\n2.00 17.50\nCHAVE PORTAO PT4R / PT4R-ID\n40:52\nCHAVE PLANA U10,50 / U-5D\n4052\n17.50\n2.00\n6\n35.00\n6.00\n172\nTotal de pecas : 4\n\nValor LieUIDO IVA\n0.00 1:3\n0.00 6\n0.00\n6.00\n33.33\n\n20\n7.767\n\nDESCONTO\nMONTOU EUROS\n41.00\n\n41.00\n\nuges Processed ppr progxama\ncertificado N. 1627/AT\nBens colocadas a dispencaa de MAD\nrenta nesta data, Fa da ATRCOO com\nalineás el), o no. 5 do arigo 36 do CIVA\n\nTrocas E DEVOLUcoes AceTES COM COMO Pro\nVATIVO DE COMRPA E ATE 3O DIAS A data da\nDE COMPRA\nA DEVOLUga Dr QUALQUER QUANTIA A IENEINFRTE\nA TOCA ou DEULUCCÁQO DE ARTIGO E FE nor\nPOR VALE De REEMBOLSO COM validpace DE 30\nOBADA PELA Visire - VoLTE SEMPRE\nTAIAO INDISPEíNsavel / ENTREGA-reclamacao\nTROCAS PRAZO 1 MES\nTEL:. 219094257 /www.bomfinuto.com\n"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "CHLOE81",
+    "address": "81 Ludlow St\nNew York, NY 10002",
+    "phone": "212 677-0067",
+    "tax_id": "",
+    "website": "chloe81.com"
+  },
+  "transaction": {
+    "date": "2018-08-03",
+    "time": "",
+    "currency": "USD",
+    "payment_method": "Visa EMV",
+    "subtotal": 36.0,
+    "tax": 3.19,
+    "tip": 7.2,
+    "total": 46.4,
+    "accounting_category": "Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "House Vodka",
+      "quantity": 2,
+      "unit_price": 12.0,
+      "total_price": 24.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "House Tequila",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1144-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CHLOE81\n81 Ludlow St\nNew York, NY 10002\nTel 212 677-0067\n\nCheck Name: HWANG,HYUN\nServer: Bar\n\nDate: 08/03/18\nTable: Guests: 1\n\n[Seat 1]\n2 HOUSE VODKA $24.00\n1 HOUSE TEQUILA $12.00\n\nSubtotal: $36.00\nTax:: $3.19\nSub w/Tax: $39.19\nGratuity: $7.20\nAmt Due: $46.40\n\nVisa EMV $46.40\n\nThank You\nchloe81.com"
+  }
+}

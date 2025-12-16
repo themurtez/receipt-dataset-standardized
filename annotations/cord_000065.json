@@ -1,0 +1,217 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 591000.0,
+    "tax": 59100.0,
+    "tip": 0.0,
+    "total": 650100.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Nasi Putih",
+      "quantity": 6,
+      "unit_price": 54000.0,
+      "total_price": 54000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sate Padang",
+      "quantity": 1,
+      "unit_price": 35000.0,
+      "total_price": 35000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Gulai Cumi",
+      "quantity": 1,
+      "unit_price": 25000.0,
+      "total_price": 25000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Dendeng Balado",
+      "quantity": 4,
+      "unit_price": 80000.0,
+      "total_price": 80000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Kerupuk Kulit",
+      "quantity": 3,
+      "unit_price": 18000.0,
+      "total_price": 18000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Rendang Daging",
+      "quantity": 1,
+      "unit_price": 20000.0,
+      "total_price": 20000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Gulai Hati",
+      "quantity": 1,
+      "unit_price": 20000.0,
+      "total_price": 20000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Mujair Bakar",
+      "quantity": 1,
+      "unit_price": 23000.0,
+      "total_price": 23000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Gulai Otak",
+      "quantity": 1,
+      "unit_price": 20000.0,
+      "total_price": 20000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ayam Bakar",
+      "quantity": 1,
+      "unit_price": 20000.0,
+      "total_price": 20000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sambal Teri Belah",
+      "quantity": 1,
+      "unit_price": 18000.0,
+      "total_price": 18000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lalap Segar",
+      "quantity": 3,
+      "unit_price": 24000.0,
+      "total_price": 24000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ayam Penyet",
+      "quantity": 1,
+      "unit_price": 21000.0,
+      "total_price": 21000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ayam Goreng",
+      "quantity": 2,
+      "unit_price": 40000.0,
+      "total_price": 40000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ayam Pop",
+      "quantity": 2,
+      "unit_price": 42000.0,
+      "total_price": 42000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Gulai Tunjang",
+      "quantity": 2,
+      "unit_price": 40000.0,
+      "total_price": 40000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Teh",
+      "quantity": 6,
+      "unit_price": 3000.0,
+      "total_price": 30000.0,
+      "category": "Beverage",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Terong Belanda",
+      "quantity": 1,
+      "unit_price": 20000.0,
+      "total_price": 20000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Teh Telur",
+      "quantity": 1,
+      "unit_price": 25000.0,
+      "total_price": 25000.0,
+      "category": "Beverage",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Puding",
+      "quantity": 2,
+      "unit_price": 16000.0,
+      "total_price": 16000.0,
+      "category": "Dessert",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 41,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000065.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "6 NASI PUTIH 54.000\n1 SATE PADANG 35.000\n1 GULAI CUMI 25.000\n4 DENDENG BALADO 80.000\n3 KERUPUK KULIT 18.000\n1 RENDANG DAGING 20.000\n1 GULAI HATI 20.000\n1 MUJAIR BAKAR 23.000\n1 GULAI OTAK 20.000\n1 AYAM BAKAR 20.000\n1 SAMBAL TTR BELAH 18.000\n3 LALAP SEGAR 24.000\n1 AYAM PENYET 21.000\n2 AYAM GORENG 40.000\n2 AYAM POP 42.000\n2 GULAI TUNJANG 40.000\n6 TEH 30.000\n1 TERONG BELANDA 20.000\n1 TEH TELUR 25.000\n2 PUDING 16.000\n\nSubtotal 591.000\nP. Resto 10% 59.100\n41 Total 650.100\nCASH 650.100"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Tunai",
+    "subtotal": 30000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 30000.0,
+    "accounting_category": "Food",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "OMA NASI KUNING CAKALANG MANI",
+      "quantity": 1,
+      "unit_price": 30000.0,
+      "total_price": 30000.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 70000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000148.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "OMA NASI KUNING CAKALANG MANI\n1 30.000 30.000\nTotal Belanja 30.000\nTunai 100.000\nKembali 70.000"
+  }
+}

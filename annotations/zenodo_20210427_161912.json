@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Casa Travanca Capucho",
+    "address": "Rua da Atalaia No113, 1200-039 Lisboa",
+    "phone": "213424181",
+    "tax_id": "108085813",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-07",
+    "time": "10:16:35",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 4.27,
+    "tax": 0.98,
+    "tip": 0.0,
+    "total": 5.25,
+    "accounting_category": "Hardware",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Broca HSS",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Tools",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Fechadura Correio",
+      "quantity": 1,
+      "unit_price": 3.25,
+      "total_price": 3.25,
+      "category": "Security",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210427_161912.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CASA TRAVANCA CAPUCHO\nDE: JOAQUIM ANTÃO TRAVANCA CAPUCHO\nRUA DA ATALAIA No113 1200-039 LISBOA\nNIF. 108085813 TEL. 213424181\nFERRAGENS - FERRAMENTAS - MAT. ELECTRICO\nIva Incluido as Taxas Legais em Vigor\n\nMOPm - Processado por programa certificado n: 3/AT\nFactura: 19FT 001/1045 ORIGINAL\nData: 2019-03-07 10:16:35\n\nDoc Orig: A\nN0Cliente: 10002059\nNome: F Likehome\nContribuinte: 510776914\nMorada: Lx\nCod Postal:\n\nDescrição Pvd. Qtd. Desc.% Valor\n\nBROCA HSS (D) 23 % 2,00 1 2,00\nFECHADURA CORREIO (D) 23 % 3,25 1 3,25\nItens: 2 5,25\nIliquido Tax% V.Tax\n(D) 4,27 23 0,98\n\nTotal a Pagar: 5,25 €\nNUMERARIO/CAIXA 5,25 €\n\nOBRIGADO, VOLTE SEMPRE"
+  }
+}

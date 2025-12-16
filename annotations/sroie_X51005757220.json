@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "AEON CO. (M) BHD",
+    "address": "3RD FLR, AEON TAMAN MALURI SC, JLN JEJAKA, TAMAN MALURI, CHERAS, 55100 KUALA LUMPUR",
+    "phone": "1-300-80-AEON (2366)",
+    "tax_id": "002017394688",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-05",
+    "time": "15:09:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 81.2,
+    "tax": 2.11,
+    "tip": 0.0,
+    "total": 81.2,
+    "accounting_category": "retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TOPVALU VIRGIN",
+      "quantity": 2,
+      "unit_price": 10.9,
+      "total_price": 21.8,
+      "category": "grocery",
+      "accounting_category": "inventory",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "ANCHOR FLOUR",
+      "quantity": 16,
+      "unit_price": 2.75,
+      "total_price": 44.0,
+      "category": "grocery",
+      "accounting_category": "inventory",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "DIAMOND FOIL",
+      "quantity": 1,
+      "unit_price": 15.4,
+      "total_price": 15.4,
+      "category": "household",
+      "accounting_category": "inventory",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 19,
+    "rounding": 0.0,
+    "change_due": 18.8
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005757220.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "31803010\nAEON CO. (M) BHD (126926-H)\n3RD FLR, AEON.TAMAN, MALURI SC\nJLN JEJAKA, TAMAN MALURI\nCHERAS, 55100 KUALA LUMPUR\nGST ID : 002017394688\nSHOPPING HOURS\nSUN-THU:1000 HRS - 2200 HRS\nFRI-SAT:1000 HRS - 2300 HRS\n1x 000006215514 10.90SR\nTOPVALU VIRGIN\n1x 000006215514 10.90SR\nTOPVALU VIRGIN\n16x 00001060836 44.00ZR\nANCHOR FLOUR 1 @2.75\n1x 000001083107 15.40SR\nDIAMOND FOIL 7\nSub-total 81.20\nTotal Sales Incl GST 81.20\nTotal After Adj Incl GST 81.20\nCASH 100.00\nItem Count 19 Change Amt 18.80\nInvoice No: 2018030510080060119\nGST Summary Amount Tax\nSR @ 6% 35.09 2.11\nZR @ 0% 44.00 0.00\nTotal 79.09 2.11\n05/03/2018 15:09 1006 008 0080119\n0305114 LEONG SIEW MUI REKHA\nAEON BANDAR PUCHONG\nTEL 1-300-80-AEON (2366)\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN"
+  }
+}

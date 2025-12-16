@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "XXI Cafe",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 30000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 30000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Lemon Tea (L)",
+      "quantity": 1,
+      "unit_price": 25000.0,
+      "total_price": 25000.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Extra Jelly Lychee",
+      "quantity": 1,
+      "unit_price": 5000.0,
+      "total_price": 5000.0,
+      "category": "Add-on",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 70000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000380.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "XXI cafe\n\n1 Lemon Tea (L) 25.000\n1 Extra Jelly Lychee 5.000\nTOTAL 30.000\nCASH 100.000\nCHANGED 70.000"
+  }
+}

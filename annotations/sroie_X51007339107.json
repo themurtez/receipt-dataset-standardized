@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "SANYU STATIONERY SHOP",
+    "address": "NO. 31G&33G, JALAN SETIA INDAH X, U13/X, 40170 SETIA ALAM",
+    "phone": "+603-3362 4137",
+    "tax_id": "001531760640",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-04-04",
+    "time": "",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 14.06,
+    "tax": 0.84,
+    "tip": 0.0,
+    "total": 14.9,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Restaurant Order Chit NCR 3.5\"x6\"",
+      "quantity": 4,
+      "unit_price": 2.9,
+      "total_price": 11.6,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Cash Book 80pgs A4 70GSM Card Cover (SCB-4012)",
+      "quantity": 1,
+      "unit_price": 3.3,
+      "total_price": 3.3,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 5.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007339107.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SANYU STATIONERY SHOP\nNO. 31G&33G, JALAN SETIA INDAH X, U13/X\n40170 SETIA ALAM\nMobile /Whatsapps : +6012-918 7937\nTel: +603-3362 4137\nGST ID No: 001531760640\nOwned By:\nSANYU SUPPLY SDN BHD (1135772-K)\nTAX INVOICE\nCASH SALES COUNTER\n1. 2012-0029    RESTAURANT ORDER CHIT NCR\n3.5”x6’’\n4 X 2.9000 - 11.60 SR\n2. 2012-0042 CASH BOOK 80PGS A4 70GSM\nCARD COVER (SCB-4012)\n1 X 3.3000 - 3.30 SR\nTotal Sales Inclusive GST @6% 14.90\nDiscount 0.00\nTotal 14.90\nRound Adj 0.00\nFinal Total 14.90\nCASH 20.00\nCHANGE 5.10\nGST Summary  Amount(RM) Tax(RM)\nSR @ 6% 14.06 0.84\nINV NO:  CS-SA-0075638 Date : 04/04/2017\nGoods sold are not Returnable & Refundable\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN.\nTERIMA KASIH  SILA DATANG LAGI\n** PLEASE KEEP THIS RECEIPT FOR PROVE OF\nPURCHASE DATE FOR I.T PRODUCT WARRANTY\nPURPOSE **\nFollow us in Facebook : Sanyu.Stationery"
+  }
+}

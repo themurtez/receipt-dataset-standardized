@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Yam Fresh",
+    "address": "No.145G, Jalan Rimbunan Raya 1, Laman Rimbunan Kepong, 52100 Kuala Lumpur",
+    "phone": "(603) 6243 5520",
+    "tax_id": "001817907200",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-07-31",
+    "time": "13:49:10",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 7.5,
+    "tax": 0.45,
+    "tip": 0.0,
+    "total": 7.95,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Oyster Mee Sua",
+      "quantity": 1,
+      "unit_price": 7.5,
+      "total_price": 7.5,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 2.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619779.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Yam Fresh\nNo.145G, Jalan Rimbunan Raya 1,\nLaman Rimbunan Kepong,\n52100 Kuala Lumpur\nTel: (603) 6243 5520\nGST ID=001817907200\n--------------------------------------------------\nInvoice: 001-9823                Dine In\nDate: 2016-07-31 13:49:10\n--------------------------------------------------\nQ02 Oyster Mee Sua\n:1                                   1             RM7.50\n\n                       Sub-Total              RM7.50\n                       6% GST                  RM0.45\n---------------------------------------------\n                       Grand Total        RM    7.95\n---------------------------------------------\n                      Cash                  RM10.05\n                      Change              RM2.10\n---------------------------------------------\nThank You.\nPlease visit us at:-\nFacebook:-Yam Fresh\n\n001-2016-07-31 13:49:29  LiJie  001-9823  [1]\n"
+  }
+}

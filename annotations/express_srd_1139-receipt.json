@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "SS PARADISE",
+    "address": "Andhra Style Family Restaurant, Vidyaranyapura, Bangalore-560097",
+    "phone": "9148436557/58",
+    "tax_id": "GST-29AADFS0740B1EG",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-07-06",
+    "time": "22:06:00",
+    "currency": "INR",
+    "payment_method": "",
+    "subtotal": 617.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 617.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "TANDOORI CHICKEN",
+      "quantity": 1,
+      "unit_price": 179.0,
+      "total_price": 179.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "MUTTON RAGON JOSH",
+      "quantity": 1,
+      "unit_price": 209.0,
+      "total_price": 209.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "FISH BIRIYANI",
+      "quantity": 1,
+      "unit_price": 229.0,
+      "total_price": 229.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1139-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SS PARADISE\nAndhra Style Family Restaurant\nVidyaranyapura, BANGALORE-560097\nContact: 9148436557/58\nB I L L\nGST-29AADFS0740B1EG\nBill No. 00027    Bill Date 06.07.2017\nBill Time 22:06   Persons 01\nTable No. P        Wtr. No. SD\n\nItem Name          Rate Qty Amount\nTANDOORI CHICKEN   179  1.00 179.00\nMUTTON RAGON JOSH  209  1.00 209.00\nFISH BIRIYANI      229  1.00 229.00\n                    ----------------\n                        617.00\nTotal                617.00\n\nGrand Total Rs. 617.00"
+  }
+}

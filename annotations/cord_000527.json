@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "Open Kitchen",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 650800,
+    "tax": 79400,
+    "tip": 0.0,
+    "total": 777840,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "AYAM GR SALT&PAPER",
+      "quantity": 1,
+      "unit_price": 102000,
+      "total_price": 102000,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TAHU LAMPION",
+      "quantity": 1,
+      "unit_price": 165000,
+      "total_price": 165000,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SUP JGG KPT",
+      "quantity": 1,
+      "unit_price": 132000,
+      "total_price": 132000,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "AYAM PANGGANG",
+      "quantity": 1,
+      "unit_price": 168000,
+      "total_price": 168000,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHINESE TEA",
+      "quantity": 2,
+      "unit_price": 14000,
+      "total_price": 28000,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "LUMPIA UDANG",
+      "quantity": 2,
+      "unit_price": 71000,
+      "total_price": 71000,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BUNCIS BWG PTH /M",
+      "quantity": 1,
+      "unit_price": 78000,
+      "total_price": 78000,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "NASI PUTIH",
+      "quantity": 5,
+      "unit_price": 10000,
+      "total_price": 50000,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 13,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000527.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AYAM GR SALT&PAPER\n1 OPEN KITCHEN 102,000\nMEDIUM\n**PESAN**\nAYAMNYA DI FILLET\n**PESAN**\n1 TAHU LAMPION 165,000\n*=MEDIUM=*\n1 FREE BAKMI ULTAH 0\nOPEN KITCHEN\nMEDIUM\n**PESAN**\n1 SUP JGG KPT 132,000\n*=MEDIUM=*\n1 AYAM PANGGANG 168,000\n2 CHINESE TE @14,000 28,000\n2 KWAN 'IM\nLUMPIA UDANG 71,000\n*=MEDIUM=*\n1 BUNCIS BWG PTH /M\nOPEN KITCHEN 78,000\n5 NASI PUTIH @10,000 50,000\n20%\nDISC ULTAH 143,200-\nFOOD 716,000\nBEVERAGES 28,000\nOTHERS 50,000\nSUBTOTAL 650,800\nTAX 79,400\nSERVICE CHARGE 47,640\nDUE 777,840"
+  }
+}

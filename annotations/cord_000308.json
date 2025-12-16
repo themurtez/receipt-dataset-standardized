@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "XXI Cafe",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 140000,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 140000,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Mineral Water (S)",
+      "quantity": 1,
+      "unit_price": 15000,
+      "total_price": 15000,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Blend GT (N)",
+      "quantity": 1,
+      "unit_price": 45000,
+      "total_price": 45000,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Extra Jelly Lychee",
+      "quantity": 1,
+      "unit_price": 7500,
+      "total_price": 7500,
+      "category": "Add-On",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Extra Ice Cream",
+      "quantity": 1,
+      "unit_price": 7500,
+      "total_price": 7500,
+      "category": "Add-On",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "French Fries + FF",
+      "quantity": 1,
+      "unit_price": 65000,
+      "total_price": 65000,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 10000
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000308.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Mineral Water (S)  15,000\n1 Blend GT (N)        45,000\n1 Extra Jelly Lychee  7,500\n1 Extra Ice Cream     7,500\n1 French Fries + FF   65,000\nTOTAL         140,000\nCASH            150,000\nCHANGED       10,000"
+  }
+}

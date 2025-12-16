@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Fabrica da Nata - Restauradores",
+    "address": "Praca dos Restauradores, n.62-68, 1250-110 Lisboa",
+    "phone": "211325435",
+    "tax_id": "504273183",
+    "website": "primefood@primefood.pt"
+  },
+  "transaction": {
+    "date": "2019-10-16",
+    "time": "19:22:42",
+    "currency": "EUR",
+    "payment_method": "Unknown",
+    "subtotal": 10.62,
+    "tax": 1.38,
+    "tip": 0.0,
+    "total": 12.0,
+    "accounting_category": "Food",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "C.x.6 Natas",
+      "quantity": 2,
+      "unit_price": 6.0,
+      "total_price": 12.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_220600.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Fabrica da Nata - Restauradores\nPrime Food, SA\nMorada: Praca dos Restauradores, n.62-68\n1250-110 Lisboa\nSede: Rua Ivone Silva n.6 19.\nNo. Contribuinte: 504273183\nRegisto na Cons.Lisboa Lisboa n.504273183\n504273183\nCapital Social:\nTelefone: 211325435\nE-mail: primefood@primefood.pt\n\nNome FLIKEHOME\nN.C. 510776914\nMorada\nFatura-Recibo FT 022/3726 2019-10\n-16\nOriginal\nData: 2019-10-16 Hora: 19:22:42\n\nQt Artigo IV Total\n2 Cx.6 Natas 13 12.00\n\nTotal: 12.00\nTroco: 0.00\n\nTaxa Base IVA Total\n13.00 10.62 1.38 12.00\n\nConsultas:\n\nAtendido por: Souto\n** Codigo WC 3366 **\nProcessado por Computador\nIVA Incluido\n\nRG8E-Processado por programa\ncertificado n. 0071/AT\n\nCopyright GrupoPIE, SA"
+  }
+}

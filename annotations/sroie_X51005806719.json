@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Satu Kampung Enterprise Sdn Bhd",
+    "address": "No.42, Pasar Borong Selangor, Jalan Putra Permai, 43300 Seri Kembangan, Selangor",
+    "phone": "03-8938 2188",
+    "tax_id": "1127686-K",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-01-13",
+    "time": "23:37:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 59.43,
+    "tax": 3.57,
+    "tip": 0.0,
+    "total": 63.0,
+    "accounting_category": "Sales",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "KIT01 Kitchenware",
+      "quantity": 3,
+      "unit_price": 21.0,
+      "total_price": 63.0,
+      "category": "Home Goods",
+      "accounting_category": "Inventory",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 7.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005806719.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SATU KAMPUNG ENTERPRISE SDN BHD\n(1127686-K)\nNO.42, PASAR BORONG SELANGOR\nJALAN PUTRA PERMAI,\n43300 SERI KEMBANGAN, SELANGOR\nTEL: 03-8938 2188\nSATUKAMPUNGESB@GMAIL.COM\nGST ID: 000816205824\nTAX INVOICE\nDoc No. CS00039037 Date: 13/01/2017\nCashier USER Time: 23:37:00\nSalesperson Ref.\nItem Qty S/Price (GST) S/Price (GST) Amount Tax\nKIT01 3 19.81 21.00 63.00 SR\nKITCHENWARE\nTotal Qty: 3 63.00\nTotal Sales (Excluding GST) 59.43\nDiscount : 0.00\nTotal GST 3.57\nRounding 0.00\nTotal Sales (Inclusive of GST) 63.00\nCASH 70.00\nChange 7.00\nSUMMARY\n% Amt (RM) Tax (RM)\n6 59.43 3.57\nTotal: 59.43 3.57\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU"
+  }
+}

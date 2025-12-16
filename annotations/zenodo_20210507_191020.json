@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "FILKESHOP",
+    "address": "",
+    "phone": "510776914",
+    "tax_id": "",
+    "website": "www.recibosonline.pt"
+  },
+  "transaction": {
+    "date": "2017-11-20",
+    "time": "17:08:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 0.65,
+    "tax": 0.15,
+    "tip": 0.0,
+    "total": 0.8,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SAQUETAS ALMOFADADAS",
+      "quantity": 1,
+      "unit_price": 0.65,
+      "total_price": 0.65,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_191020.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "QTD DESIGNACAO IVA QUANTIA\n1 SAQUETAS ALMOFADADAS S 23% 0,65\nValor s/IVA: 0,65 Eur\nTotal Desconto s/IVA: 0,00 Eur\nTotal IVA: 0,15 Eur\nTotal: 0,80 Eur\nOitenta Centimos\nTaxa Valor s/IVA Valor IVA Valor Total\n23% 0,65 0,15 0,80\nValor liquidado na data de emissao\nBens ou servicos disponibilizados ao\nadquirente na data de emissao deste\ndocumento\nInform-se sobre as condices especificas de troca, devolucao e\nassistencia tecnica em www.ctt.pt, Ajuda\nGT40-Processado por programa certificado n.f 1830/AT\nEsta pode ser a sua ultima fatura em papel!\nAceda a www.recibosonline.pt com o seguinte codigo:\nFL7D6CCOF62E-124\nE veja como podera ver-se livre dos pape is na sua carteira!\nFR CTT2017FR8801074710/7448"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 117000.0,
+    "tax": 11700.0,
+    "tip": 0.0,
+    "total": 128700.0,
+    "accounting_category": "food_and_beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Nasi Uduk Sate Buntel",
+      "quantity": 1,
+      "unit_price": 55000.0,
+      "total_price": 55000.0,
+      "category": "food",
+      "accounting_category": "meal",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Nasi Bali (Empal)",
+      "quantity": 1,
+      "unit_price": 62000.0,
+      "total_price": 62000.0,
+      "category": "food",
+      "accounting_category": "meal",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000274.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "NASI UDUK SATE BUNTEL\n1 X 55,000 55,000\nNASI BALI (EMPAL)\n1 X 62,000 62,000\nJumlah Item : 2\nSub Total : 117,000\nPajak Resto : 11,700\nGrand Total : 128,700"
+  }
+}

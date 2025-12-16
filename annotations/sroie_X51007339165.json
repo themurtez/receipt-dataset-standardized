@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "SANYU STATIONERY SHOP",
+    "address": "NO. 31G&33G, JALAN SETIA INDAH X, U13/X, 40170 SETIA ALAM",
+    "phone": "+603-3362 4137",
+    "tax_id": "001531760640",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-29",
+    "time": "16:18:55",
+    "currency": "MYR",
+    "payment_method": "cash",
+    "subtotal": 33.6,
+    "tax": 1.9,
+    "tip": 0.0,
+    "total": 33.6,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "WIRE O (3:1) DOUBLE WIRE A4 34 LOOPS - 6.4MM (WHITE)",
+      "quantity": 6,
+      "unit_price": 4.0,
+      "total_price": 24.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PVC- RIGID SHEET BINDING COVER A4",
+      "quantity": 12,
+      "unit_price": 0.8,
+      "total_price": 9.6,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 18,
+    "rounding": 0.0,
+    "change_due": 16.4
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007339165.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SANYU STATIONERY SHOP\nNO. 31G&33G, JALAN SETIA INDAH X ,U13/X\n40170 SETIA ALAM\nMobile /Whatsapps : +6012-918 7937\nTel: +603-3362 4137\nGST ID NO: 001531760640\nOwned By:\nSANYU SUPPLY SDN BHD (1135772-K)\nTAX INVOICE\nCASH SALES COUNTER\n1. 5002-0080 WIRE O (3:1) DOUBLE WIRE A4\n34 LOOPS - 6.4MM (WHITE)\n6 X 4.0000 - 24.00 SR\n2. 5002-0004 PVC- RIGID SHEET BINDING COVER\nA4\n12 X 0.8000 - 9.60 SR\nTotal Sales Inclusive GST @6% 33.60\nDiscount 0.00\nTotal 33.60\nRound Adj 0.00\nFinal Total 33.60\nCASH 50.00\nCHANGE 16.40\nGST Summary Amount(RM) Tax(RM)\nSR @ 6% 31.70 1.90\nINV NO: CS-SA-0127449\nDate : 29/11/2017\nTotal Qty: 18\nPrint Time : Wednesday, 29 November, 2017 4:18:55\nGoods sold are not Returnable & Refundable\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN.\nTERIMA KASIH SILA DATANG LAGI\n** PLEASE KEEP THIS RECEIPT FOR PROVE OF\nPURCHASE DATE FOR I.T PRODUCT WARRANTY\nPURPOSE **\nFollow us in Facebook : Sanyu.Stationery"
+  }
+}

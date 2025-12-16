@@ -1,0 +1,172 @@
+{
+  "merchant": {
+    "name": "AEON PERMAS JAYA",
+    "address": "3RD FLR, AEON TAMAN MALURI SC JLN JEJAKA, TAMAN MALURI CHERAS, 55100 KUALA LUMPUR",
+    "phone": "1-300-80-AEON (2366)",
+    "tax_id": "002017394688",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-01",
+    "time": "12:53:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 122.78,
+    "tax": 3.01,
+    "tip": 0.0,
+    "total": 122.8,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SA MIX PLUM",
+      "quantity": 1,
+      "unit_price": 7.0,
+      "total_price": 7.0,
+      "category": "Fruits",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "R. GALA APPLE",
+      "quantity": 1,
+      "unit_price": 7.5,
+      "total_price": 7.5,
+      "category": "Fruits",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "FOUR SEAS SEAW",
+      "quantity": 1,
+      "unit_price": 8.05,
+      "total_price": 8.05,
+      "category": "Seafood",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHEK HUP 2IN1",
+      "quantity": 1,
+      "unit_price": 16.5,
+      "total_price": 16.5,
+      "category": "Beverages",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TOMATO AMOROS",
+      "quantity": 1,
+      "unit_price": 7.5,
+      "total_price": 7.5,
+      "category": "Vegetables",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "FRANCE GREEN KI",
+      "quantity": 1,
+      "unit_price": 12.5,
+      "total_price": 12.5,
+      "category": "Vegetables",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "T. CHERRY HONEY",
+      "quantity": 1,
+      "unit_price": 4.8,
+      "total_price": 4.8,
+      "category": "Snacks",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SUSHI SET-PTC",
+      "quantity": 1,
+      "unit_price": 15.9,
+      "total_price": 15.9,
+      "category": "Prepared Food",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "JAMBU AIR MADU",
+      "quantity": 1,
+      "unit_price": 4.33,
+      "total_price": 4.33,
+      "category": "Fruits",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ZA M/N BEAUTY",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Personal Care",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CAVANDISH BANAN",
+      "quantity": 1,
+      "unit_price": 4.61,
+      "total_price": 4.61,
+      "category": "Fruits",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BLUEBERRY",
+      "quantity": 1,
+      "unit_price": 10.9,
+      "total_price": 10.9,
+      "category": "Fruits",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "EGG KANI MAYO S",
+      "quantity": 1,
+      "unit_price": 3.9,
+      "total_price": 3.9,
+      "category": "Prepared Food",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "COLESLAW SANDWI",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Prepared Food",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "WANFA DRIED FIS",
+      "quantity": 1,
+      "unit_price": 7.5,
+      "total_price": 7.5,
+      "category": "Seafood",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 16,
+    "rounding": 0.02,
+    "change_due": 77.2
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006414733.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AEON CO. (M) BHD (126926-H)\n3RD FLR, AEON TAMAN MALURI SC\nJLN JEJAKA, TAMAN MALURI\nCHERAS, 55100 KUALA LUMPUR\nGST ID: 002017394688\nSHOPPING HOURS\nSUN-THU: 1000 HRS - 2230 HRS\nFRI-SAT: 1000 HRS - 2300 HRS\nVALUED CUSTOMER: 1190052101\n\n1x 000000541987 7.00ZR\nSA MIX PLUM\n1x 000020209101 7.50ZR\nR.GALA APPLE\n1x 000001086827 8.05ZR\nFOUR SEAS SEAW\n1x 000001785556 16.50ZR\nCHEK HUP 2IN1\nitem promo @12.99 -3.51\n1x 000007634147 7.50ZR\nTOMATO AMOROS\n1x 000007570247 12.50ZR\nFRANCE GREEN KI\n1x 000004291008 4.80ZR\nT. CHERRY HONEY\n1x 00000135412 15.90ZR\nSUSHI SET-PTC\n1x 00000381093 4.33ZR\nJAMBU AIR MADU\n1x 000003820806 2.50ZR\nZA M/N BEAUTY\n1x 00000381000 4.61ZR\nCAVANDISH BANAN\n1x 000002003191 10.90ZR\nBLUEBERRY\n1x 000000532075 3.90SR\nEGG KANI MAYO S\n1x 000000512077 3.00SR\nCOLESLAW SANDWI\n1x 000008202802 7.50SR\nWANFA DRIED FIS\n\nSub-total 122.78\nTotal Sales Incl GST 122.78\nRounding Adj 0.02\nTotal After Adj Incl GST 122.80\nCASH 200.00\nItem Count 16 Change Amt 77.20\nInvoice No: 2018040110100050063\nGST Summary Amount Tax\nSR @ 6% 50.13 3.01\nZR @ 0% 69.64 0.00\nTotal 119.77 3.01\n01/04/2018 12:53 1010 005 0050063\n030651 PJ NUR AYU\n\nAEON PERMAS JAYA\nTEL 1-300-80-AEON (2366)\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN"
+  }
+}

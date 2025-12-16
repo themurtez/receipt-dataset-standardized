@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "R Actor António Silva, N7, 1649-033 Lisboa",
+    "phone": "213136130",
+    "tax_id": "500829993",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-07-24",
+    "time": "15:05:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 1.53,
+    "tax": 0.35,
+    "tip": 0.0,
+    "total": 1.88,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "DET. P. LIMPEZA",
+      "quantity": 1,
+      "unit_price": 0.89,
+      "total_price": 0.89,
+      "category": "Household",
+      "accounting_category": "Cleaning Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "23% FILTR CAFE HUMET N°4",
+      "quantity": 1,
+      "unit_price": 0.99,
+      "total_price": 0.99,
+      "category": "Grocery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 3.12
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_204036.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Pingo Doce\nTOMAS RIBEIRO\nTel.: 213136130\nPingo Doce Distribuição Alimentar, S. A.\nSede: R Actor António Silva, N7, 1649-033 Lisboa\nRegisto C. R. C. Lisboa-Matricula/NIPC: 500829993\nANREEE: PT001730 V C. Social: 33.806,115 EUR\nArtigos\nDETERG. E PROD. LIMPEZA 0.89\nE 23% DET LC.QA CONC CLASS\nE 23% FILTR CAFE HUMET N°4 0.99\nResumo\nTOTAL A PAGAR 1.88\nPagamentos\nTOTAL PAGO 5,00\nTROCO 3,12\nEURO 5,00\nResumo IVA\nTaxa s/IVA Valor IVA Valor c/IVA\nE 23% 1.53 0.35 1.88\nAtendido por: Simónia Santos\nk4D-Processado por programa certificado 369/AT\nFatura/Recibo FT 0440002190101617/004050\n1a Via Duplicado Data de emissão: 24-07-2019\nN. Contribuinte: 510776914\nFLIKEHOME LDA\nMorada. : AV DA LIBERDADE 36 1B 1250/145\nLocalidade. : Lisboa\nLocal carga. : TOMAS RIBEIRO\nLocal descara. : Morada do cliente\nData: 2019-07-24 Hora: 15:05\nFatura necessária para troca em 15 dias\n(Artigos exti e Calçado prazo 30 dias)\nNão se trocam medicamentos e artigos assinalados\nApoio ao Cliente\n808 20 45 45 / 210 11 44 11 (24 horas)"
+  }
+}

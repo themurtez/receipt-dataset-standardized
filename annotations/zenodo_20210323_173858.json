@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "PROPEL, Produtos de Petroleo, Lda.",
+    "address": "A 22 KM 31, SILVES",
+    "phone": "",
+    "tax_id": "500223840",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-11",
+    "time": "12:09:22",
+    "currency": "EUR",
+    "payment_method": "Tarjeta",
+    "subtotal": 32.52,
+    "tax": 7.48,
+    "tip": 0.0,
+    "total": 40.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GASOLEO",
+      "quantity": 26.77,
+      "unit_price": 1.49,
+      "total_price": 40.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_173858.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PROPEL, Produtos de Petroleo, Lda.\nCapital Social 224,459.05 Euros\nC.R.C. de Lisboa Sob 500223840\nA 22 KM 31 SILVES\nUnida. Código Artigo Preço Valor\n26.77 041386 03 GASOLEO 1.494 40.00\nTOTAL EUR 40.00\nIVA 23.0% Base: 32.52 Imposto: 7.48\nTOTAL A PAGAR EUR 40.00\nTARJETA\nCaixa: 713741\nRecibo: 0.2.0.61 11/05/2019 12:09:22\nRef...: 0905000080 TSQ....00004433\nNOME: FLIKEHOME ALGARVE LDA\nNIF: 514407395\nMATRICULA: 54-CC-40\nHORARIA:\nDATA: 11/05/2019 12:09:22\nFATURA NR:\nFT 63539100012019/00002321\nBcMd - Processado por Programa\nCertificado Nº: 1299/AT\nPPOJRAÇÃO DE DADOS PESSOAIS\nMUÍTO OBRIGADO"
+  }
+}

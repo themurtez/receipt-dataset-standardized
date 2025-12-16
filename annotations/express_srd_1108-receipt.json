@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Go Mongo BBQ",
+    "address": "6661 Stanford Ranch Rd.\nRocklin, CA 95677",
+    "phone": "916-632-8828",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-28",
+    "time": "17:48:07",
+    "currency": "USD",
+    "payment_method": "Cash",
+    "subtotal": 48.54,
+    "tax": 3.52,
+    "tip": 0.0,
+    "total": 52.06,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BBQ Dinner",
+      "quantity": 4,
+      "unit_price": 10.99,
+      "total_price": 47.96,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Beverage",
+      "quantity": 2,
+      "unit_price": 2.29,
+      "total_price": 4.58,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1108-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Go Mongo BBQ\n6661 Stanford Ranch Rd.\nRocklin, CA 95677\n916-632-8828\n\nReceipt: mongo-042411\nDate: Jan 28, 2018 5:48:07 PM\nServed by: Manager\n\nItem Price Qty Value\n-------------------------\nBBQ Dinner $10.99 x4 $47.15\nBeverage $2.29 x2 $4.91\n-------------------------\nItems count: 6\n\nSubtotal: $48.54\nCA Tax 7.25%: $3.52\n\nTotal $52.06\n\nCash\nTendered: $52.06\nChange: $0.00"
+  }
+}

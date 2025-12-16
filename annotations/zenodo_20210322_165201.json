@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Rei do Peixe Assado",
+    "address": "Sítio do Senho - Estrada Quarteira, Nr.8 Estr.de S.Bràs 8005-334 Faro",
+    "phone": "",
+    "tax_id": "514407395",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-06-26",
+    "time": "15:36:00",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 15.34,
+    "tax": 2.02,
+    "tip": 0.0,
+    "total": 15.34,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Rodízio",
+      "quantity": 1.0,
+      "unit_price": 9.99,
+      "total_price": 9.99,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Salada",
+      "quantity": 1.0,
+      "unit_price": 1.75,
+      "total_price": 1.75,
+      "category": "Side",
+      "accounting_category": "Salad",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Refrigerante",
+      "quantity": 2.0,
+      "unit_price": 1.8,
+      "total_price": 3.6,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210322_165201.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Mesa 1\nRei do Peixe Assado\nGeração Empenhada Restauração Unip. Lda\nDe: Joaquim José de Almeida\nSítio do Senho - Estrada Quarteira\nSede: R: Vale Carneiros n.º 8 Estr. de S.Bràs 8005-334 Faro\nN. Contrib. 514239850\nRegisto na Com. Faro n. 514239850\nCapital Social €5,000.00\nNIF: 514407395\nNome: Filkenhome Algarve\nMorada:\nFatura-recibo FR A191/131\n2019-06-26 15:36\nDocumentos referenciados\nTC A191/4086\nQt Descrição P.Unit. Tx Valor\n1.00 Rodízio  €9.99 13 €9.99\n1.00 Salada €1.75 13 €1.75\n2.00 REFRIGERANTE  €1.80 23 €3.60\nTotal liq. €15.34\nPagamento \nNumerário Valor\n€15.34\nTaxa Base Valor Total\n23.00 €2.93 €0.67 €3.60 NOR\n13.00 €10.39 €1.35 €11.74 INT\nIVA Incluido\nfWL-Processado por programa\ncertificado n02519/AT"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Ferragens G Lemos, Lda",
+    "address": "Rua da Madalena, 101 - 107, 1100-319 LISBOA",
+    "phone": "213869341",
+    "tax_id": "501378723",
+    "website": "geral@viuva.com"
+  },
+  "transaction": {
+    "date": "2019-03-06",
+    "time": "17:59:00",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 1.5,
+    "tax": 0.28,
+    "tip": 0.0,
+    "total": 1.5,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chave Feita e Special",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_153727.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "0\nFerragens G Lemos, Lda\nRua da Madalena, 101 - 107\n1100-319 LISBOA\nContribuinte N. 501378723\nCapital Social 34.916,00 Euros\nTel.:21 8869341/ Fax.:218869158\nMail: geral@viuva.com\n\nNIF:510776914\nNome:FLIKEHOME MEDIACAO IMOBILIA\nMorada:LISBOA\nLocalidade:LISBOA\nCod.Postal:\n\nFatura\nNif:FT POS19V12/1904362 Original\nData:06-03-2019 HORA:17:59\nDESIGNACAO IVA% QTD VALOR\nCHAVE FEITA E\nSPECIAL 23 1.0 1.50\n\nTaxa valor IVA T.Bruto: 1\n50\n6 % 0.00 T.Desc: 0.00\n23 % 0.28 T.Liq: 1.22\n13 % 0.00 T.IVA: 0.28\nA PAGAR:...........1.50\n\nNUMERARIO 1.50\n\nc€nbk-Processado por programa cer\nviabrimestre@JSA/T"
+  }
+}

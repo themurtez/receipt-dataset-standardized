@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "R. António Silva, N7, 1649-033 Lisboa",
+    "phone": "213151600",
+    "tax_id": "33.508.115 EUR",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-07-15",
+    "time": "09:20:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 11.26,
+    "tax": 0.62,
+    "tip": 0.0,
+    "total": 8.61,
+    "accounting_category": "Grocery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "6X MELA ROYAL",
+      "quantity": 1,
+      "unit_price": 1.69,
+      "total_price": 5.26,
+      "category": "Fruits & Vegetables",
+      "accounting_category": "Produce",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "6X LIMA CAJU",
+      "quantity": 1,
+      "unit_price": 1.69,
+      "total_price": 2.54,
+      "category": "Fruits & Vegetables",
+      "accounting_category": "Produce",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BANANA DA MADEIRA",
+      "quantity": 1,
+      "unit_price": 1.09,
+      "total_price": 1.53,
+      "category": "Fruits & Vegetables",
+      "accounting_category": "Produce",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "DETERG. E PROD. LIMPEZA",
+      "quantity": 1,
+      "unit_price": 1.99,
+      "total_price": 3.19,
+      "category": "Cleaning Supplies",
+      "accounting_category": "Household",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 11.39
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_200454.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "pingo doce\nTOMAS RIBEIRO\nTel.: 213151600\nPingo Doce Distribuição Alimentar, S.A.\nSede: R. Antônio Silva, N7, 1649-033 Lisboa\nRegisto e N. Resid. Matricial/MPC 500021958/CAPITL 5000/1993\nANREE: PICOIT 9 . SociaL: 33.508.115 EUR Artigos\nFRUTAS E VEGETAIS\n6X MELA ROYAL 112 X 1,69 5,26\nC 6X LIMA CAJU 204 X 1,69 2,54\nC 6X BANANA DA MADEIRA 065X 1,09 1,53\nDETERG. E PROD. LIMPEZA\nE 23% D CTIA SUP POP 3,19\n23X SACO PLÁST RECICL PD\nResumo\nTOTAL POUPANCA 11,26\nA PAGAR 8,61€\nPagamentos\nTOTAL PAGO 20,00€\nTROCO 11,39€\nEURO\nResumo IVA\nTaxa Valor s/IVA Valor IVA Valor c/IVA\nE 6% 2,67\nLocal carga : TOMAS RIBEIRO\nMorada descarga: Morada do cliente\nData : 2019-07-15 Hora: 09:20\nFeatura necessária para troca em 15 dias\n(Artigos têxtil Calçado prazo 30 dias)\n10 se trocam medicamentos e artigos assinalados\nApoio ao Cliente\n808 20 45 45/210 11 41 41 (24 horas)"
+  }
+}

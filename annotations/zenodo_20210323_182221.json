@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "FARMACIA SILVEIRA ALGARVE",
+    "address": "Mar Shopping Algarve lj.013B, 8135-014 ALMANCIL",
+    "phone": "289393123",
+    "tax_id": "507760964",
+    "website": "www.farmaciasilveira.com"
+  },
+  "transaction": {
+    "date": "2019-03-18",
+    "time": "11:47:47",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 100.05,
+    "tax": 23.01,
+    "tip": 0.0,
+    "total": 123.06,
+    "accounting_category": "Medical Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Trix Mala Kit Prim Socorros",
+      "quantity": 6,
+      "unit_price": 20.51,
+      "total_price": 123.06,
+      "category": "First Aid Kit",
+      "accounting_category": "Medical Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_182221.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "FARMACIA SILVEIRA ALGARVE\nGodinho Silveira Saude,LDA\nMar Shopping Algarve lj.013B\n8135-014 ALMANCIL\n507760964 NIF:507760964\nDr. João Silveira\nTel.: 289393123\nCapital Soc.: 1.849.000,00 Eur\nOriginal\nFATURA N.: F U203/8801\nData: 18-03-2019 11:47:47\nVenda n.: 154109 (Cátia Caetano)\nNome: FLIKE HOME ALGARVE\nMorada:\nContribuinte n.: 514407395\nProduto PVP Qt Valor Líquido IVA\nTrix Mala Kit Prim Socorros\n20,51 6 0.00 123,06 23%\nTotal(Euros): 123,06\nTotais de IVA:\nTaxa Valor IVA Líquido\n23% 100,05 23,01 123,06\nImportância Liquidada\n(04502)\npnGo-Processado por programa certificado\nnº 432/AT\nAberta todos os dias\n10h-23h\nNão se aceitam devoluções.\nalgarve@farmaciasilveira.com\nwww.farmaciasilveira.com"
+  }
+}

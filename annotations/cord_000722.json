@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Dynamic",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 157000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 157000.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CRUNCHY CHOC",
+      "quantity": 1,
+      "unit_price": 157000.0,
+      "total_price": 157000.0,
+      "category": "Food",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "DUS 15",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Packaging",
+      "accounting_category": "Retail",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "PLASTIK SEDANG BESAR",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Packaging",
+      "accounting_category": "Retail",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "PISAU TART",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Utensils",
+      "accounting_category": "Retail",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "FREE LILIN SPIRAL",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Accessories",
+      "accounting_category": "Retail",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000722.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "DYNAMIC\nCRUNCHY CHOC 157,000\nDUS 15 0\nPLASTIK SEDANG BESAR 0\nPISAU TART 0\n5X @0\nFREE LILIN SPIRAL 0\nSUBTOTAL 157,000\nTOTAL 157,000\nCHARGE 1"
+  }
+}

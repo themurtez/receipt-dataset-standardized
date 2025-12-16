@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 57726.0,
+    "tax": 5772.0,
+    "tip": 0.0,
+    "total": 63998.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CHICKEN PICATTA",
+      "quantity": 1,
+      "unit_price": 46363.0,
+      "total_price": 46363.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "JAVA TEA",
+      "quantity": 1,
+      "unit_price": 11363.0,
+      "total_price": 11363.0,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000501.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CHICKEN PICATTA\n1 46,363 46,363\nJAVA TEA\n1 11,363 11,363\nJumlah Item 2\nSub Total 57,726\nPajak Resto 5,772\nGrand Total 63,998"
+  }
+}

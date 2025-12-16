@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "1660 India Street",
+    "phone": "",
+    "tax_id": "",
+    "website": "www.wnlhosp.com/rttd"
+  },
+  "transaction": {
+    "date": "2017-12-17",
+    "time": "18:29:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 74.7,
+    "tax": 6.0,
+    "tip": 0.0,
+    "total": 83.5,
+    "accounting_category": "Dining",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "G1 Karma Cab Sauv",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Beverage",
+      "accounting_category": "Alcohol",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "G1 Douglass Green SB",
+      "quantity": 1,
+      "unit_price": 11.0,
+      "total_price": 11.0,
+      "category": "Beverage",
+      "accounting_category": "Alcohol",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "PKLI Green Curry Scallops",
+      "quantity": 1,
+      "unit_price": 27.95,
+      "total_price": 27.95,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "PKLI Piri Piri Chicken",
+      "quantity": 1,
+      "unit_price": 23.75,
+      "total_price": 23.75,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1060-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1660 India Street\nServer: Jake\nTable 24/1\nGuests: 2\n12/17/2017\n6:29 PM\n20018\nG1 Karma Cab Sauv 12.00\nG1 Douglass Green SB 11.00\nPKLI Green Curry Scallops 27.95\nPKLI Piri Piri Chicken 23.75\nSubtotal 74.70\nTax 6.00\nSurcharge 3.75% SC* 2.80\nTotal 83.50\nBalance Due 83.50\n*3.75% SC - In support\nof the increases to min wage\nTo find out why, visit\nwww.wnlhosp.com/rttd"
+  }
+}

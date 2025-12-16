@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Ferragens Estemos, Lda",
+    "address": "Rua da Madalena, 101 - 107, 1100-319 Lisboa",
+    "phone": "Tel.: 21 8869471",
+    "tax_id": "510176914",
+    "website": "geral@viva.pt"
+  },
+  "transaction": {
+    "date": "2019-10-01",
+    "time": "14:51:00",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 11.7,
+    "tax": 2.19,
+    "tip": 0.0,
+    "total": 11.7,
+    "accounting_category": "tools",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CHAVE TUBULAR AL 14X15",
+      "quantity": 1,
+      "unit_price": 3.1,
+      "total_price": 3.1,
+      "category": "tools",
+      "accounting_category": "tools",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHAVE TUBULAR AL 12X13",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "tools",
+      "accounting_category": "tools",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHAVE TUBULAR AL 10X11",
+      "quantity": 1,
+      "unit_price": 2.9,
+      "total_price": 2.9,
+      "category": "tools",
+      "accounting_category": "tools",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHAVE TUBULAR AL 8X9",
+      "quantity": 1,
+      "unit_price": 2.7,
+      "total_price": 2.7,
+      "category": "tools",
+      "accounting_category": "tools",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_194705.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Ferragens Estemos, Lda\nRua da Madalena, 101 - 107\n1100-319 Lisboa\nContribuinte N. 501376724\nCapital social 34.910,00 Euros\nTel.: 21 8869471\nMail: geral@viva.pt\nNIF: 510176914\nNome: Flivehome Mediacao Imobil\nMorada: AV da Liberdade N 36 1º An\nLocalidade: Lisboa\nCod.Postal: 1250-145 Lisboa\nFatura\nNr.: POS1912/IST/031 Origina\nData: 01-10-2019 HORA: 14:51\nDESIGNACAO IVAX QTD VALOR\nCHAVE TUBULAR AL 14X15 23 1.0 3.10\nCHAVE TUBULAR AL 12X13 23 1.0 3.00\nCHAVE TUBULAR AL 10X11 23 1.0 2.90\nCHAVE TUBULAR AL 8X9 23 1.0 2.70\nTaxa valor IVA T.Bruto: 11.70\n6% 0.00 T.Dsc: 0.00\n23% 2.19 T.Liq: 9.51\n13% 0.00 T.IVA: 2.19\nA PAGAR... 11.70\nMULTIBANCO 11.70\n1'/6-Processado por programa cer"
+  }
+}

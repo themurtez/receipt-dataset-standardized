@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Master",
+    "subtotal": 492500.0,
+    "tax": 8155.0,
+    "tip": 0.0,
+    "total": 574255.0,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Grilled Salmon Head",
+      "quantity": 1,
+      "unit_price": 24500.0,
+      "total_price": 24500.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Set Menu Family",
+      "quantity": 1,
+      "unit_price": 318000.0,
+      "total_price": 318000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Taiyro Salmon Maki",
+      "quantity": 1,
+      "unit_price": 44000.0,
+      "total_price": 44000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Tepanyaki Cawanmushi",
+      "quantity": 2,
+      "unit_price": 22000.0,
+      "total_price": 44000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Teppan Seafood Fr Rc",
+      "quantity": 1,
+      "unit_price": 36000.0,
+      "total_price": 36000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Tobiko Gunkan",
+      "quantity": 1,
+      "unit_price": 24000.0,
+      "total_price": 24000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000630.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Grilled Salmon Head 24,500\n1 Set Menu Family 318,000\n1 Taiyros Salmon Maki 44,000\n2 Tepanyaki Cawanmushi 44,000\n1 Teppan Seafood Fr Rc 36,000\n1 Tobiko Gunkan 24,000\nSUBTOTAL 492,500\nSC 6% 29,550\nPB1 10% 52,205\nTOTAL 574,255\nMaster 574,255"
+  }
+}

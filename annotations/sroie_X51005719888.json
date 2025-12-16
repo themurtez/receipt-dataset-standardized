@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "POTTERS GARDEN SDN BHD",
+    "address": "Batu 11, Sg Buloh, 47000 Selangor.",
+    "phone": "016-667 0982, 016-333 3812",
+    "tax_id": "000392024064",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-01",
+    "time": "12:29:18",
+    "currency": "RM",
+    "payment_method": "Cash",
+    "subtotal": 37.54,
+    "tax": 2.26,
+    "tip": 0.0,
+    "total": 39.8,
+    "accounting_category": "Sales",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PLASTIC PLATE",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Home Goods",
+      "accounting_category": "Inventory",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "CHINA POT",
+      "quantity": 2,
+      "unit_price": 7.9,
+      "total_price": 15.8,
+      "category": "Garden Supplies",
+      "accounting_category": "Inventory",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PLANT",
+      "quantity": 1,
+      "unit_price": 16.0,
+      "total_price": 16.0,
+      "category": "Gardening",
+      "accounting_category": "Inventory",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PLANT",
+      "quantity": 1,
+      "unit_price": 7.0,
+      "total_price": 7.0,
+      "category": "Gardening",
+      "accounting_category": "Inventory",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.2
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005719888.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "POTTERS GARDEN SDN BHD\n(1153774-D)\nBatu 11, Sg Buloh, 47000 Selangor.\nTel: 016-667 0982, 016-333 3812\nGST Reg No: 000392024064\nTAX INVOICE\nTABLE : 01\nPOS ID : G\nINV NO: G/00002268\nCASHIER: Administrator\nINV DT: 04/01/2018 12:29:18 PM\nRM\nITEM AMOUNT\nAA00007 PLASTIC PLATE 1.00 SR\nAA00022 CHINA POT\n 2 @ 7.90 15.80 SR\nAA00016 PLANT 16.00 SR\nAA00016 PLANT 7.00 SR\n5 SUB TOTAL 39.80\n-----------------------------------------\nNET TOTAL 39.80\nCash 40.00\nCHANGE 0.20\nTax Summary Amount Tax\nSR Inclusive GST 6% 37.54 2.26\n*** Thank you Please Come Again ***\nItem Sold are Not Refundable & Exchangeable"
+  }
+}

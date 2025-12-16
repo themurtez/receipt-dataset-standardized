@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Fany Baby",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-08-13",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 705000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 705000.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BUDS CALMING TUMMY RUB CREAM 30ML(TOILETRIES)",
+      "quantity": 1,
+      "unit_price": 200000.0,
+      "total_price": 200000.0,
+      "category": "Toiletries",
+      "accounting_category": "Toiletries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BUDS PRECIOUS NEWBORN CREAM 75ML(TOILETRIES)",
+      "quantity": 1,
+      "unit_price": 235000.0,
+      "total_price": 235000.0,
+      "category": "Toiletries",
+      "accounting_category": "Toiletries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BUDS PRECIOUS NEWBORN HEAD TO TOE CLEANSER 250ML(TOILETRIES)",
+      "quantity": 1,
+      "unit_price": 270000.0,
+      "total_price": 270000.0,
+      "category": "Toiletries",
+      "accounting_category": "Toiletries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000194.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Fany Baby\n\nBUDS CALMING TUMMY RUB CREAM 30ML(TOILETRIES)  BU350003  200,000\nBUDS PRECIOUS NEWBORN CREAM 75ML(TOILETRIES)  BU350012  235,000\nBUDS PRECIOUS NEWBORN HEAD TO TOE CLEANSER 250ML(TOILETRIES)  BU350009  270,000\nQty: 3 Amount: 705,000"
+  }
+}

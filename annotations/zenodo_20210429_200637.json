@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "Pingo Doce - Distribuição Alimentar, S.A.",
+    "address": "R. Actor António Silva, N°7, 1649-033 Lisboa",
+    "phone": "213136180",
+    "tax_id": "500829993",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-07-15",
+    "time": "09:20:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 11.26,
+    "tax": 0.62,
+    "tip": 0.0,
+    "total": 8.61,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Melão Branco",
+      "quantity": 3.112,
+      "unit_price": 1.69,
+      "total_price": 5.26,
+      "category": "Fruits and Vegetables",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Papaia",
+      "quantity": 1,
+      "unit_price": 2.65,
+      "total_price": 2.65,
+      "category": "Fruits and Vegetables",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Limão",
+      "quantity": 0.104,
+      "unit_price": 1.69,
+      "total_price": 0.18,
+      "category": "Fruits and Vegetables",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Banana da Madeira",
+      "quantity": 0.653,
+      "unit_price": 1.99,
+      "total_price": 1.3,
+      "category": "Fruits and Vegetables",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Banana da Madeira",
+      "quantity": 0.618,
+      "unit_price": 1.99,
+      "total_price": 1.23,
+      "category": "Fruits and Vegetables",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Detergente Sup Pop",
+      "quantity": 1,
+      "unit_price": 3.19,
+      "total_price": 3.19,
+      "category": "Cleaning Products",
+      "accounting_category": "Household Supplies",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Saco Plast Recicl PD",
+      "quantity": 1,
+      "unit_price": 0.1,
+      "total_price": 0.1,
+      "category": "Cleaning Products",
+      "accounting_category": "Household Supplies",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 20.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_200637.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TOMAS RIBEIRO\nTel.: 213136180\nPingo Doce - Distribuição Alimentar, S.A.\nSede: R. Actor António Silva, N°7, 1649-033 Lisboa\nRegisto C.R.C. Lisboa-Matricula NIPC: 500829993\nAsenee: PIC01730 c. Social: 33.800, 15 EUR\nArtigos\nFRUTAS e VEGETAIS\nC 6X MELAO BRANCO\n3.112 X 1.69 5.26\nC Papaira Imuiata\n(2,65)\nC 6X LIMA CAL 3/4\n0.104 X 1.69 0,18\nC ÓX BANANA DA MADEIRA\n0.653 X 1.99 1.30\nC OX BANANA DA MADEIRA\no 0.618 X 1.99 1,23\nDETERG. E PROC. LIMPEZA\nDet 23% LICEO SUP POP\n3,19\nE 23% SACO PLAST RECICL PD\n0,10\nResumo\nTOTAL POUPANCA 11,26\nTOTAL A PAGAR 8,61\nTOTAL PAGO 20,00\nTROCO 11,39\nEURO 20,00\nResumo IVA\nTaxa Valor s/ IVA Valor IVA Valor c/ IVA\n6% 2,90 0,18 3,cca\ne 23% 2,67 0,62 3,29\nNESTA. COMPRA POUPou\ne 2,65 €\nC Atendido por: Càtia Vaz\n\n"
+  }
+}

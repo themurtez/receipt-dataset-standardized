@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Leia Creia Unipessoal Lda",
+    "address": "Av Antonio Maria Andrade De Sousa Lj N-5, 8100-724 Loule",
+    "phone": "509713955",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-07-19",
+    "time": "12:44:32",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 39.0,
+    "tax": 7.29,
+    "tip": 0.0,
+    "total": 39.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Almofada",
+      "quantity": 6,
+      "unit_price": 6.5,
+      "total_price": 39.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_172203.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SHOPPING LOULE\nLEIA CREIA UNIPESSOAL LDA\nAV ANTONIO MARIA ANDRADE DE SOUSA LJ N-5\n8100-724 LOULÉ\nCONT: 509713955\nFatura No.: FAC A/2019002150\nData: 19-07-2019 12:44:32\nOriginal\nQUA. PRE. IVA% DESCRICAO SUMA\n6x 6,50 23% ALMOFADA 39,00\nIncidenci IVA% IVA\n31,71 23% 7,29\n6 ITEMS TOTAL: 39,00 Euro\nIVA INCLUDO A TAXA INDICADA\nProcessado por computador\nObrigado pela sua visita\nAmZo - Processado por programa\ncertificado No. 1350/AT/SMERPS GESTIONES PLUS\nNome: LIKE HOME ALGARVE LDA\nCont: 514407395\nMorada: LOULE\nPARA TROCA 15 DIAS,\nNAO DEVOLUCAO DEINHEIROS."
+  }
+}

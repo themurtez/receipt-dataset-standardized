@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Pastelaria MouraPão",
+    "address": "Av. da Marina Loja 5 e 6 8125-468",
+    "phone": "289301396",
+    "tax_id": "509875645",
+    "website": "mourapao@clix.pt"
+  },
+  "transaction": {
+    "date": "2019-03-23",
+    "time": "08:22:12",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 4.52,
+    "tax": 0.58,
+    "tip": 0.0,
+    "total": 5.1,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Café",
+      "quantity": 1,
+      "unit_price": 0.8,
+      "total_price": 0.8,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Meia de leite",
+      "quantity": 1,
+      "unit_price": 1.3,
+      "total_price": 1.3,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Guardanapos",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cereais Manteiga",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_181343.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Pastelaria MouraPão\nManuel Odilia & Paulo Barbosa, Lda\nAv. da Marina Loja 5 e 6 8125-468\nTel. 289301396\nN. Contrib. 509875645\nRegisto na Cons. Loule n.509875645\nCapital Social 6000 Euros\nmourapao@clix.pt\n\nNome flikehome algarve lda\nN.C. 514407395\n\nFatura-Recibo FT 014/6881\nOriginal\n2019-03-23 08:22:12\n\nQt Artigo IV Total\n1 Café 13 0.80\n1 Meia de leite 13 1.30\n1 Guardanapos 13 1.50\n1 Cereais Manteiga 13 1.50\n\nTotal 5.10\n\nTaxa Base IVA Total\n13.00 4.52 0.58 5.10\n\nEmp 1\nIVA incluido\n\nConsultas:\nObrigado e volte sempre\n\nav/E-Processado por programa certificado n. 0071/AT\nCopyright GrupoPIE, SA"
+  }
+}

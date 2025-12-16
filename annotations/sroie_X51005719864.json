@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "FUN N CHEER (MALURI)",
+    "address": "LOT 37636, JALAN 6/37A, TAMAN BUKIT MALURI, 52100 KUALA LUMPUR",
+    "phone": "03-62612536",
+    "tax_id": "001439154176",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-05",
+    "time": "11:44:44",
+    "currency": "MYR",
+    "payment_method": "cash",
+    "subtotal": 28.11,
+    "tax": 1.69,
+    "tip": 0.0,
+    "total": 29.8,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "KAIN BEBOLA(S) SHA BU SR",
+      "quantity": 2,
+      "unit_price": 14.9,
+      "total_price": 29.8,
+      "category": "Merchandise",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 20.2
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005719864.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "FUN N CHEER (MALURI)\nLOT 37636,JALAN 6/37A,\nTAMAN BUKIT MALURI,\n52100 KUALA LUMPUR\nTel : 03-62612536\nTAX INVOICE\n(GST ID No. : 001439154176)\n05/01/2018 Cashier: CS01\n11:44:44 S/P:MAL No:0200419363\nItem/Desc. Qty Price Amt.\nKAIN BEBOLA(S)SHA BU SR\n0412638 2 14.90 29.80\nTotal Qty 2\nTOTAL EXCL.GST 28.11\nADD: GST @ 6% On 1.69\nCASH 29.80\nCHANGE 50.00\n20.20\nGST summary Amount RM Tax RM\nSR = 6% 28.11 1.69\n0.00 0.00\nGOODS SOLD ARE NOT RETURNABLE !\nTHANK YOU ! PLEASE COME AGAIN !"
+  }
+}

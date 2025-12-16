@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "KAISON FURNISHING SDN BHD",
+    "address": "Lot No. L3-012, Level 3, MyTOWN Shopping Centre, No. 6, Jalan Cochrane, Seksyen 90, 55100 Kuala Lumpur",
+    "phone": "03-92017701",
+    "tax_id": "001813975040",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-25",
+    "time": "18:34:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 17.64,
+    "tax": 1.06,
+    "tip": 0.0,
+    "total": 18.7,
+    "accounting_category": "retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PLASTIC TRAY-GLOSS R",
+      "quantity": 1,
+      "unit_price": 8.9,
+      "total_price": 8.9,
+      "category": "home goods",
+      "accounting_category": "housewares",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "KEYCHAIN - SCARF STA",
+      "quantity": 1,
+      "unit_price": 5.9,
+      "total_price": 5.9,
+      "category": "accessories",
+      "accounting_category": "apparel",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "KEYCHAIN - KNIT SCAR",
+      "quantity": 1,
+      "unit_price": 3.9,
+      "total_price": 3.9,
+      "category": "accessories",
+      "accounting_category": "apparel",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 1.3
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005715007.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "3-1708032\nKAISON FURNISHING SDN BHD\nLot No. L3-012, Level 3,\nMyTOWN Shopping Centre,\nNo. 6, Jalan Cochrane,\nSeksyen 90\n55100 Kuala Lumpur.\nCo. Reg No. (761834-D)\nGST Reg No. 001813975040\nTel: 03 - 92017701\nSlip 0000MTW-P2000086706\nStaff: 1710 Athirah Trans: 1502102697\nDate: 25-03-18 18:34\nDescription Amount(RM)\n- Item No.: 30000545 -\nPLASTIC TRAY-GLOSS R pcs 8.90 SR\nItem No.: 30001916\nKEYCHAIN - SCARF STA pcs 5.90 SR\nItem No.: 30001918\nKEYCHAIN - KNIT SCAR pcs 3.90 SR\nTotal RM 18.70\nCASH (MYR) -20.00\nChange 1.30\nGST% Amt(RM) GST(RM) Total(RM)\nSR 6 17.64 1.06 18.70\nGOODS SOLD ARE NON-CASH REFUNDABLE.\nEXCHANGE OF GOODS WITHIN 14 DAYS\nACCOMPANIED BY ORIGINAL RECEIPT."
+  }
+}

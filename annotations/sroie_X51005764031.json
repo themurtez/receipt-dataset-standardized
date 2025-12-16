@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Super Seven Cash & Carry Sdn Bhd",
+    "address": "No. 1 Jalan Euro 1 Off Jalan Batu Tiga, Sungai Buloh Seksyen U3 Shah Alam, 40150",
+    "phone": "03-78590861",
+    "tax_id": "000639090688",
+    "website": "http://www.super7.com.my"
+  },
+  "transaction": {
+    "date": "2018-02-01",
+    "time": "09:52:50",
+    "currency": "MYR",
+    "payment_method": "VISA CARD",
+    "subtotal": 42.1,
+    "tax": 2.01,
+    "tip": 0.0,
+    "total": 42.1,
+    "accounting_category": "Purchase",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Lady Choice Tartar Sauce",
+      "quantity": 1,
+      "unit_price": 35.5,
+      "total_price": 35.5,
+      "category": "Grocery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sayur",
+      "quantity": 2,
+      "unit_price": 1.0,
+      "total_price": 2.0,
+      "category": "Grocery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sayur",
+      "quantity": 3,
+      "unit_price": 1.0,
+      "total_price": 3.0,
+      "category": "Grocery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Kobis Merah",
+      "quantity": 1,
+      "unit_price": 1.6,
+      "total_price": 1.6,
+      "category": "Grocery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005764031.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SUPER SEVEN CASH & CARRY SDN BHD\nPASARAYA BORONG SUPER SEVEN\nNO. 1 Jalan Euro 1\nOff Jalan Batu Tiga\nSungai Buloh Seksyen U3 Shah Alam, 40150\nhttp://www.super7.com.my\nTEL: 03-78590861\nFAX: 03-78590864\nGST ID : 000639090688\nTAX INVOICE\nCustomer : [77853745]\nMrs. ONG GUAT CHYE\nTAX INVOICE NO : 192636\nCOUNTER :002\nOPERATOR :[SYED AHMAD FALLAH 31-CUSTOMER SERVICE\nCLERK]\n01-02-2018\n09:52:50 AM\n(RM)\n=================================================\nLADY CHOICE 3L TARTAR SAUC @35.50\n9556024001383 *1 35.50 SR\nSAYUR RM1.00 @1.00\nFM4200000000 *2 2.00 ZR\nSAYUR RM1.00 @1.00\nFM4200000000 *3 3.00 ZR\nKOBIS MERAH @1.60\n42129 *1 1.60 ZR\n=================================================\nQUANTITY : 7 Units\nTotal Sales (Incl. GST @6%) RM42.10\nRounding Adjustment RM0.00\nNet Total RM42.10\nPayment Method\nVISA CARD\nGST Summary\nSales Amt Tax Amt\n(RM) (RM)\nSR (6%) 33.49 2.01\nZR (0%) 6.60 0.00\nPLEASE VERIFY YOUR RECEIPT\nBEFORE LEAVING THE COUNTER.\nGOODS SOLD ARE NOT RETURNABLE.\nTHANK YOU"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Nanny's Pavillon",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 174.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 201.9,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Lemon iced tea",
+      "quantity": 1,
+      "unit_price": 25.0,
+      "total_price": 25.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Banana Milkshake",
+      "quantity": 1,
+      "unit_price": 35.0,
+      "total_price": 35.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Heavy Alvin Potato",
+      "quantity": 1,
+      "unit_price": 49.0,
+      "total_price": 49.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Hubert chicken capers fettuccine",
+      "quantity": 1,
+      "unit_price": 65.0,
+      "total_price": 65.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": -0.027,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000614.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Nanny's Pavillon\n\n1 Lemon iced tea                   25.000\n1 Banana Milkshake                35.000\n1 Heavy alvin potato              49.000\n1 Hubert chicken capers\n  fettuccine                              65.000\n\nSub Total                          174.000\nDiscount                               (0)\nService                             9.570\nOthers                            18.357\nRounding Off                       -27\n\nGRAND TOTAL                     201.900\n"
+  }
+}

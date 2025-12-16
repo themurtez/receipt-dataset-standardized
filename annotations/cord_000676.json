@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Dum Dum Thai Drinks",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "THB",
+    "payment_method": "cash",
+    "subtotal": 22.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 22.0,
+    "accounting_category": "Beverages",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Drink",
+      "quantity": 1,
+      "unit_price": 22.0,
+      "total_price": 22.0,
+      "category": "Beverages",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 80.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000676.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "DUM DUM\nTHAI DRINKS\n22.000\nGT\nTOTAL\n22.000\nCASH\n102.000\nCHANGE\n80.000"
+  }
+}

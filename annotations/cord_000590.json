@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "The Joe Joint",
+    "address": "47 Park St",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "CARD",
+    "subtotal": 55000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 55000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Bread Box M",
+      "quantity": 1,
+      "unit_price": 4000.0,
+      "total_price": 4000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Peach Pastry",
+      "quantity": 3,
+      "unit_price": 17000.0,
+      "total_price": 51000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000590.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "The Joe Joint\n47 Park St\n\n1 BREAD BOX M 4,000\n3 PEACH PASTRY 51,000\nTOTAL 55,000\nCARD 55,000"
+  }
+}

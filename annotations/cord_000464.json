@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "JPY",
+    "payment_method": "cash",
+    "subtotal": 49091.0,
+    "tax": 4909.0,
+    "tip": 0.0,
+    "total": 54000.0,
+    "accounting_category": "Meals and Entertainment",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "NIKU UDON",
+      "quantity": 1,
+      "unit_price": 49091.0,
+      "total_price": 49091.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 46000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000464.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "NIKU UDON 1 49,091\nSUB. TOTAL 49,091\nRESTAURANT TAX 4,909\nGRAND TOTAL 54,000\nCASH [54,000]\nChange: 46,000"
+  }
+}

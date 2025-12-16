@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Continente",
+    "address": "Avenida Lusíada, Centro Comercial Colombo, 1500-392 Lisboa",
+    "phone": "217113600",
+    "tax_id": "501525074",
+    "website": "www.continente.pt"
+  },
+  "transaction": {
+    "date": "2019-10-20",
+    "time": "19:55:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 22.48,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 22.48,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CALC ELECTRIC IRD APPLE K155",
+      "quantity": 1,
+      "unit_price": 4.49,
+      "total_price": 4.49,
+      "category": "Household Items",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Desconto Super Preço",
+      "quantity": 1,
+      "unit_price": -4.5,
+      "total_price": -4.5,
+      "category": "Discount",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MAG CAF KRU PDKM3772 BK",
+      "quantity": 1,
+      "unit_price": 17.99,
+      "total_price": 17.99,
+      "category": "Household Items",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_173625.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CONTİNENTE\nHó Colombo\nModelo Continente Hipermercados SA\nRua Joao Mendonça, 505 4464-501 Senhora da Hora\nRecebldo QR Perto do site 5015201745\nNIF: 501525074\nCOD FARM: F1*50251\nS: 326.000.00 CALC ELECTRIC IRD APPLE K155\nFatura Original\nData & Timho 20/10/2019 19:55\nRefthmo do RC:600066\nFatura N°: 1/189326\nNUM:1515937I\nCliente: ELAINEO MENDONCIO IMOBILIARIA\nNIF: 501525074\nNota\nTotal: 158.00\nLoch Disbond\nPOSTE 1250-000\nDESÇRIÇÃO\nLimpom do Lar:\n1)\nC\nCALC ELECTRIC IRD APPLE K155 4.49\nDESCONTO SUPER PREÇO 4.50\nPeuquenos Domésticos:\nMAG. CAF KURP DKCM3772 BK 17.99\nHood...\nTOTAL À PAGAR 22.48\nRegistos da fatura...\n8):\nC) 23,08 18,28 4.20 22.48\nDescontos Teaviadto Concedidos : - 4.50\nEff: Processodo por programa certificado\nH. 135clAT\n0016 0046 162285 29421\nLocal: carga: Morada da lixo\nLocal descarga: Morada do cliente\nData: 20/10/2019 19:55\nIVA INCUIDO\nHÓ Colombo\nMorada Loja:\nLAvenida Luísada Centro Comercial Colombo\n1500-392 Lisboa\nTel: 217113600\nTALAQ İNDθISPENSAVEL PARA TROCA\nPRAZO DE DEVOLUÇÃ0: 15 DIAS\nwww.continente.pt"
+  }
+}

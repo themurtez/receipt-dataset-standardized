@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "POPULAR BOOK CO. (M) SDN BHD",
+    "address": "No 8, Jalan 7/118B, Desa Tun Razak, 56000 Kuala Lumpur, Malaysia",
+    "phone": "03-55235214",
+    "tax_id": "001492992900",
+    "website": "www.popularonline.com.my"
+  },
+  "transaction": {
+    "date": "2018-02-27",
+    "time": "21:22:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 33.95,
+    "tax": 2.04,
+    "tip": 0.0,
+    "total": 41.0,
+    "accounting_category": "Books & Stationery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "DOCUMENT HOL A4 1466A-Tra",
+      "quantity": 2,
+      "unit_price": 1.15,
+      "total_price": 2.3,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "PB PVC A4 L-FLD PBA4L25",
+      "quantity": 2,
+      "unit_price": 3.9,
+      "total_price": 7.8,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Canon Cal AS120V Grey",
+      "quantity": 1,
+      "unit_price": 29.8,
+      "total_price": 29.8,
+      "category": "Electronics",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Nasi APR16/Seashore [BK]",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Food",
+      "accounting_category": "Miscellaneous",
+      "category_confidence": 0.75
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.01,
+    "change_due": 10.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006008089.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "POPULAR BOOK CO. (M) SDN BHD\n(Co. No. 113825-W)\n(GST Reg No. 001492992900)\nNo 8, Jalan 7/118B, Desa Tun Razak\n56000 Kuala Lumpur, Malaysia\nAEON SHAH ALAM\nTel : 03-55235214\n\n27/02/18 21:22 Slip No: 8020188757\nTasha Trans: 204002\n\nMember Card No: 1001018663849\nCard Expiry: 31/05/18\n\nDescription Amount\nDOCUMENT HOL A4 1466A-Tra\n2pc @ 1.15 2.30 T\nMember Discount -0.24\nPB PVC A4 L-FLD PBA4L25\n2pc @ 3.90 7.80 T\nMember Discount -0.78\nCanon Cal AS120V Grey 29.80 T\nMember Discount -2.98\nNasi APR16/Seashore [BK] 5.00 Z\n\nTotal RM Incl. of GST 40.99\nRounding Adj 0.01\nTotal RM 41.00\nCash -51.00\nCHANGE 10.00\n\nItem Count 6\nGST Summary Amount (RM) Tax (RM)\nT @ 6% 33.95 2.04\nZ @ 0% 5.00 0.00\n\nTotal Savings -4.01\n\nBE A POPULAR CARD MEMBER\nAND ENJOY SPECIAL DISCOUNTS\nTHANK YOU. PLEASE COME AGAIN.\n\nwww.popular.com.my\nBuy Chinese books online\nwww.popularonline.com.my"
+  }
+}

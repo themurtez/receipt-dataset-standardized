@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Aeon Co. (M) Bhd",
+    "address": "3RD FLR, AEON TAMAN MALURI SC, JLN JEJAKA, TAMAN MALURI, CHERAS, 55100 KUALA LUMPUR",
+    "phone": "1-300-80-AEON (2366)",
+    "tax_id": "002017394688",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-09",
+    "time": "18:54:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 31.0,
+    "tax": 1.76,
+    "tip": 0.0,
+    "total": 31.0,
+    "accounting_category": "Retail Sales",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BIO ZIP POWDER",
+      "quantity": 2,
+      "unit_price": 15.5,
+      "total_price": 31.0,
+      "category": "Household Supplies",
+      "accounting_category": "Household Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 19.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005757235.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AEON CO. (M) BHD (126926-H)\n3RD FLR, AEON TAMAN MALURI SC\nJLN JEJAKA, TAMAN MALURI\nCHERAS, 55100 KUALA LUMPUR\nGST ID : 002017394688\nSHOPPING HOURS\nSUN-THU:1000 HRS - 2200 HRS\nFRI-SAT:1000 HRS - 2300 HRS\nVALUED CUSTOMER: 1370001392\n1x 000002781709 15.50SR\nBIO ZIP POWDER\n1x 000002781709 15.50SR\nBIO ZIP POWDER\nSub-total 31.00\nTotal Sales Incl GST 31.00\nTotal After Adj Incl GST\nCASH 31.00\n50.00\nItem Count 2 Change Amt\nInvoice No: 2018030910080010555\nGST Summary Amount\nSR @ 6% 29.24\nTotal 29.24\n09/03/2018 18:54\nAmount\n1.76\n1.76\n1008 001 0010555\n0305101 HALINA\nAEON BANDAR PUCHONG\nTEL 1-300-80-AEON (2366)\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Art & Dedal-P-Serv. Costura, Lda.",
+    "address": "S.R. Prof. Moises Amzalak, 1600-648 Lisboa",
+    "phone": "213 909 095",
+    "tax_id": "506 998 720",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-11-06",
+    "time": "14:10:00",
+    "currency": "EUR",
+    "payment_method": "DINHEIRO",
+    "subtotal": 7.5,
+    "tax": 1.4,
+    "tip": 0.0,
+    "total": 7.5,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Diversos Artigos Arranjos Diversos",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Repairs",
+      "accounting_category": "Services",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Diversos Artigos Arranjos Diversos",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Repairs",
+      "accounting_category": "Services",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_220717.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ALAMEDA ROCHA, MERCADO MUN\nENRUIQUE 1350-075 LISBOA\n911 - Tel.: 213 909 095\n\nFatura N.:\nS 10112019A/04116\n\nDIVERSOS ARTIGOS\nARRANJOS DIVERSOS 2,50 eur\n\nDIVERSOS ARTIGOS\nARRANJOS DIVERSOS 5,00 eur\nTOTAL 7,50 eur\n\nCom IVA 23,00% 1,40 eur\nPagamento: DINHEIRO\nRECEBI 7,50 eur\nTrocado 0,00 eur\n\nAtendido por : CARLA\n63238\n06/11/2019 14:10\n\nUx9K-Processado por programa\ncertificado N. 1397/DGCI\nCABIDE N: 6\n\nArt&Dedal-P-Serv.Costura,Lda.\nS.R. Prof. Moises Amzalak\n1600-648 Lisboa\nNIPC: 506 998 720\nCRC Lisboa N. º 12598\nC.S: 10.000e\n\nCLIENTE: 01175\nFLIKEHOME FLIKEHOME\nMORADA\nN.C.: 510776914\n\n0,75 eur"
+  }
+}

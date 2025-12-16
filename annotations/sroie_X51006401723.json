@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "S&Y Stationery",
+    "address": "No.36G Jalan Bulan BM U5/BM, Bandar Pinggiran Subang, Seksyen U5, 40150 Shah Alam, Selangor",
+    "phone": "0163307491 / 0378317491",
+    "tax_id": "000906854400",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-01-05",
+    "time": "03:17:50",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 67.92,
+    "tax": 4.08,
+    "tip": 0.0,
+    "total": 72.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Lion File 6'S Spring File",
+      "quantity": 50,
+      "unit_price": 1.6,
+      "total_price": 80.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 50,
+    "rounding": 0.0,
+    "change_due": 28.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006401723.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "S&Y STATIONERY\n(002050590-H)\nNO.36G JALAN BULAN BM U5/BM,\nBANDAR PINGGIRAN SUBANG,\nSEKSYEN U5,\n40150 SHAH ALAM, SELANGOR.\nTEL / FAX : 0163307491 / 0378317491\nEMAIL: snystationery@hotmail.com\nTEL: 0163307491 / 0378317491\nFAX: 0378317491\nE-Mail: snystationery@hotmail.com\n(GST Reg No : 000906854400)\nS/P : SALES Inv No : CS-0004323\n05-Jan-2017 03:17:50 PM\nINVOICE\nNo.Description UOM\nCode Qty U/Price Total(MYR)\n1 LION FILE 6'S SPRING FILE PCS\nMFF350 50 1.60 80.00 SR\nDiscount @10.00% -8.00\nItem Count : 50\nTotal Sales Incl. GST @6% : 72.00\nTotal Amount Payable : 72.00\nCash Received : 100.00\nChange : 28.00\nGST Summary Amount (MYR) Tax (MYR)\nSR = 6% 67.92 4.08\nGOODS SOLD ARE NOT RETURNABLE/REFUNDABLE"
+  }
+}

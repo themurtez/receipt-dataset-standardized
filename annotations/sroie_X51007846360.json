@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "IKEA Tebrau",
+    "address": "No. 33, Jalan Harmonium, Taman Desa Tebrau, 81100 Johor Bahru",
+    "phone": "",
+    "tax_id": "000115154944",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-09",
+    "time": "06:10:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 46.2,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 46.2,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "1/2 Spri",
+      "quantity": 1,
+      "unit_price": 14.0,
+      "total_price": 14.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Soft Bun",
+      "quantity": 2,
+      "unit_price": 0.9,
+      "total_price": 1.8,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Mushroom",
+      "quantity": 1,
+      "unit_price": 3.9,
+      "total_price": 3.9,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Add-On C",
+      "quantity": 1,
+      "unit_price": 4.2,
+      "total_price": 4.2,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chicken",
+      "quantity": 1,
+      "unit_price": 4.2,
+      "total_price": 4.2,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "15 Meatb",
+      "quantity": 1,
+      "unit_price": 14.1,
+      "total_price": 14.1,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Minidish",
+      "quantity": 1,
+      "unit_price": 0.4,
+      "total_price": 0.4,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Soft Drink",
+      "quantity": 2,
+      "unit_price": 1.8,
+      "total_price": 3.6,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 10,
+    "rounding": 0.0,
+    "change_due": 53.8
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007846360.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "IKANO HANDEL SDN BHD\n(1074617K)\nIKEA Tebrau\nNo. 33, Jalan Harmonium\nTaman Desa Tebrau\n81100 Johor Bahru\nGST No.: 000115154944\nTAX INVOICE\nSlip: 0000000102000120921\nDate: 09/06/18\nTime: 6:10\nTrans: 602120917\nStaff: 98052\nDescription\nAmount TX\n599914018 1/2 Spri\n14.00 SR-0\n598314504 Soft Bun\n2 pc @ 0.90\n1.80 SR-0\n599912000 Mushroom\n3.90 SR-0\n598314524 Add-On C\n4.20 SR-0\n599913501 Chicken\n4.20 SR-0\n999900369 15 Meatb\n14.10 SR-0\n598314505 Minidish\n0.40 SR-0\n999900372 Soft Drink\n2 glass @ 1.80\n3.60 SR-0\nTotal RM Including GST 0%\n46.20 0.00\nRounded\n46.20\nCash - SafePay\n-100.00\nChange\n53.80\nGST SR-0 0% 46.20 0.00\nAmt. Excl. GST 46.20\nNo. of Items 10\nThank you. Please come again."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "KEDAI PAPAN YEW CHUAN",
+    "address": "LOT 276 JALAN BANTING\n43800 DENGKIL, SELANGOR.",
+    "phone": "03-87686092",
+    "tax_id": "0005583085-K",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-17",
+    "time": "15:02:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 165.0,
+    "tax": 9.9,
+    "tip": 0.0,
+    "total": 174.9,
+    "accounting_category": "Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "B.R.C A10 1.7X4M",
+      "quantity": 3,
+      "unit_price": 55.0,
+      "total_price": 174.9,
+      "category": "Construction Supplies",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 25.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005724629.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KEDAI PAPAN YEW CHUAN...\n..."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "AKI Mafra",
+    "address": "Comendador José Noronha Gorjão, Urbanização Quinta das Pevides, 2640-408 Mafra",
+    "phone": "261 091 200",
+    "tax_id": "502216059",
+    "website": "www.aki.pt"
+  },
+  "transaction": {
+    "date": "2018-04-26",
+    "time": "16:50:00",
+    "currency": "EUR",
+    "payment_method": "Cartão Bancário",
+    "subtotal": 31.13,
+    "tax": 7.16,
+    "tip": 0.0,
+    "total": 38.29,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.85
+  },
+  "items": [
+    {
+      "name": "EST ROLO INSP VIOLETA 120X",
+      "quantity": 1,
+      "unit_price": 31.13,
+      "total_price": 38.29,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_211205.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AKI Mafra\nComendador José Noronha Gorjão\nUrbanização Quinta das Pevides\n2640-408 Mafra\nTel. 261 091 200\nwww.aki.pt\n\nDuplicados - Distribuição de Bricolage, SA\nR. do Paizinho 10/12, 2790-237 Carnaxide\nCRC Cascais - Cap.social 501.205 EUR\nNIPC: 502216059 - SIRPEE N° PT000651\n\nDuplicado Fatura\nNúmero: FT 0554011/01082955\nData: 26/04/2018 16:50\nNome: FEELSIKEHOME LDA\nMorada: RUA SARAVIA DE CARVALHO N244 3DTO\n\n1250-13527 LISBOA\nNIF: 510776914\n\nIVA CÓDIGO DESCRIÇÃO VALOR\nVENDA\n\n23.0X 3490835\nEST ROLO INSP VIOLETA 120X 33,29€\nTotal 38,29€\n\nCartão Bancário\nRECAPITULATIVO IVA\nTAXA LIQ. IVA\n23.0X 31,13 7,16\n\nNr Cartão AKI: 930103202105256763\nPontos ganhos: 38\nPontos acumulados: 8\n\nTalão Desc. AKI 5,00€ expira 26/05/2018\n\nJá ganhou com o seu cartão AKI: 160,00€\n\n0554 1 9100272B 579434\nLocal de Carga: morada do loja\nLocal de descarga: morada do cliente\nData e hora do transporte: data e hora da\n\nFATURA INDISPENSÁVEL PARA\nTROCA E DEVOLUÇÃO ATE 15 DIAS\nMpDC-Emitido por programa\nCertificado N° 7268/A7\n\nOBRIGADO POR COMPRAR NA NOSSA LOJA"
+  }
+}

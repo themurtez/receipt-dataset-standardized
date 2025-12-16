@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Bonjardim",
+    "address": "Travessa de Santo Antao N.11, 1150-312 Tel.",
+    "phone": "",
+    "tax_id": "500776199",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2021-04-29",
+    "time": "13:39:16",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 33.25,
+    "tax": 4.75,
+    "tip": 0.0,
+    "total": 38.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Frango Assado",
+      "quantity": 1,
+      "unit_price": 14.6,
+      "total_price": 14.6,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "1/2 Frango Assado",
+      "quantity": 1,
+      "unit_price": 7.6,
+      "total_price": 7.6,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Batata Frita",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Esparregado",
+      "quantity": 1,
+      "unit_price": 5.9,
+      "total_price": 5.9,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Coca Cola",
+      "quantity": 2,
+      "unit_price": 2.6,
+      "total_price": 5.2,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "1/2 Agua Fastio",
+      "quantity": 1,
+      "unit_price": 1.7,
+      "total_price": 1.7,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_205650.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Bonjardim\nManuel Castanheira Martinez, Lda\nTravessa de Santo Antao N.11\n1150-312 Tel.\nN. Contrib. 500776199\nRegisto na Cons. n.\nCapital Social\nN.C. 510776914\n\nFatura Simplificada FS 003/134031\n29-04-21 13:39:16\nQt Artigo IV Total\n1 Frango Assado 13 e 14.60\n1/2 Frango Assado 13 e 7.60\n1 Batata Frita 13 e 3.00\n1 Esparregado 13 e 5.90\n2 Coca Cola 23 e 5.20\n1 1/2 AGUA FASTIO 13 e 1.70\n\nTotal e 38.00\n\nTaxa Base IVA Total\n13.00 e 29.02 e 3.78 e 32.80\n23.00 e 4.23 e 0.97 e 5.20\nTotal e 33.25 e 4.75 e 38.00\nEmp 6\nIVA incluido\n\nconsultas:\nObrigado e volte sempre\nDvgZ-Processado por programa\ncertificado n. 0071/AT\nCopyright GrupoPIE, SA\n"
+  }
+}

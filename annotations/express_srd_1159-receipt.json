@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Taco Time - Kenmore",
+    "address": "6733 NE 181TH ST, KENMORE WA 98028",
+    "phone": "(425) 486-4472",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-24",
+    "time": "19:08:00",
+    "currency": "USD",
+    "payment_method": "Cash",
+    "subtotal": 5.99,
+    "tax": 0.6,
+    "tip": 0.0,
+    "total": 6.59,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SFT TACO BF",
+      "quantity": 1,
+      "unit_price": 5.99,
+      "total_price": 5.99,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 3.41
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1159-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Taco Time - Kenmore\n(425) 486-4472\n6733 NE 181TH ST\nKENMORE WA 98028\nDT>248\n\nHost:                              04/24/2018\nCashier:          7:08 PM           30126\nDT>248\n\nOrder Type: Drive Thru\n\nSFT TACO BF                       5.99\n\nSubtotal                          5.99\nTax                               0.60\n\nDrive Thru Total                  6.59\n\nCASH                             $10.00\n\nChange                          $3.41\n\nThank you.\nPlease come again!"
+  }
+}

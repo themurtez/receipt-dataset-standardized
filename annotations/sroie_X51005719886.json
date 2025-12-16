@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "SUNFISH",
+    "address": "22 LRG PERUSAHAAN 4, KIMPAL INDS. PARK B.CAVES",
+    "phone": "03-61855688",
+    "tax_id": "002008047616",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-05",
+    "time": "13:30:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 28.7,
+    "tax": 1.62,
+    "tip": 0.0,
+    "total": 28.7,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Salted F. Rice",
+      "quantity": 1,
+      "unit_price": 8.5,
+      "total_price": 8.5,
+      "category": "Main Dish",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Fried Egg",
+      "quantity": 1,
+      "unit_price": 1.8,
+      "total_price": 1.8,
+      "category": "Side Dish",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Nasi Lemak Drumstick",
+      "quantity": 1,
+      "unit_price": 9.8,
+      "total_price": 9.8,
+      "category": "Main Dish",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Soya cincau",
+      "quantity": 1,
+      "unit_price": 4.3,
+      "total_price": 4.3,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Large / Ice Tea",
+      "quantity": 1,
+      "unit_price": 4.3,
+      "total_price": 4.3,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 71.3
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005719886.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SUNFISH\n<484297-M>\n22 LRG PERUSAHAAN 4\nKIMPAL INDS.PARK B.CAVES\nTEL : 03-61855688\n\nNO 10256\nTABLE 12\n\nSALTED F.RICE 8.50\nêFRIED EGG 1.80\nNASI LEMAK DRUMSTICK 9.80\nSOYA CINCAU 4.30\nLARGE / ICE TEA 4.30\n\nSUBTOTAL 28.70\nRM CASH 100.00\nCHANGE 71.30\n\nINC 6% GST 1.62\n\nTAX INVOICE\n#001-001-0934-0001 05/01/2018 13:30-R\n\nGST : 002008047616\nTHANK YOU"
+  }
+}

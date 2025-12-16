@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Blue Bear Tavern",
+    "address": "216 S 11th Street",
+    "phone": "(215)922-3427",
+    "tax_id": "",
+    "website": "www.bluebeartavern.com"
+  },
+  "transaction": {
+    "date": "2012-01-13",
+    "time": "22:16:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 81.0,
+    "tax": 1.84,
+    "tip": 0.0,
+    "total": 83.44,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Crimini",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Salami",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Olives",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lrg Clams/mussels",
+      "quantity": 1,
+      "unit_price": 14.0,
+      "total_price": 14.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Reg Ketel One",
+      "quantity": 4,
+      "unit_price": 13.0,
+      "total_price": 52.0,
+      "category": "Beverage",
+      "accounting_category": "Alcohol",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "House Cab",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Beverage",
+      "accounting_category": "Alcohol",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 9,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1142-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Blue Bear Tavern\n216 S 11th Street\n(215)922-3427\nwww.bluebeartavern.com\nCheck #: 00225 Check # 00225\nDate: 01/13/2012 10:16 PM Server: Andrew\nStation: Pos3\nGuests: 1\n1 Crimini 3.00\n1 Salami 3.00\n1 Olives 3.00\n1 Lrg Clams/mussels 14.00\n4 Reg Ketel One 52.00\n1 House Cab 6.00\nSub Total 81.00\nPhilly Liquor Tax 0.60\nPhilly Pa Sales Tax 1.24\nTOTAL 83.44"
+  }
+}

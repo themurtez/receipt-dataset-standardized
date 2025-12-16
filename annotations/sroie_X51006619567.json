@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "KEDAI UBAT & RUNCIT HONG NING SDN. BHD.",
+    "address": "NO.8, JALAN LANG KUNING, KEPONG BARU, 52100 KUALA LUMPUR.",
+    "phone": "03-6273 2163",
+    "tax_id": "002006153456",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-02-02",
+    "time": "10:23:36",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 637.73,
+    "tax": 38.27,
+    "tip": 0.0,
+    "total": 676.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "FOMEC'S LUCKY BLESSING",
+      "quantity": 3,
+      "unit_price": 108.0,
+      "total_price": 324.0,
+      "category": "Goods",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "FOMEC'S GIFT OF HAPPINESS",
+      "quantity": 2,
+      "unit_price": 68.0,
+      "total_price": 136.0,
+      "category": "Goods",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619567.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KEDAI UBAT & RUNCIT HONG NING SDN. BHD.\n(717853-P)\n(GST ID No: 002006153456)\nNO.8, JALAN LANG KUNING,\nKEPONG BARU,\n52100 KUALA LUMPUR.\nTel: 03-6273 2163\nBill No : POS/132621\nDate : 02/02/16 10:23:36 AM\nCashier : admin\nPayment : Cash\nItem Qty Price Amount\nFOMEC'S LUCKY BLESSING @101.89\n935637967 3 108.00 324.00 SR\nFOMEC'S GIFT OF HAPPINESS @64.15\n935637967 2 68.00 136.00 SR\nNet Amt @ GST 6% 676.00\nCash Paid : 676.00\nCard Paid : 0.00\nChange : 0.00\nRound Adj. : 0.00\nGST Summary Amount Tax\nSR @ 6% 637.73 38.27\nTHANK YOU\nPLEASE COME AGAIN"
+  }
+}

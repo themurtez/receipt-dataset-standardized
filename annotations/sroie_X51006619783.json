@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "A Pie Thing",
+    "address": "No.128G JLN SS21/35, Damansara Utama Petaling Jaya, 47400 Selangor",
+    "phone": "",
+    "tax_id": "001716617216",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-07-06",
+    "time": "13:54:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 41.42,
+    "tax": 2.48,
+    "tip": 0.0,
+    "total": 43.9,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Smores Pie",
+      "quantity": 1,
+      "unit_price": 10.5,
+      "total_price": 10.5,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chocolate Mint Pie",
+      "quantity": 1,
+      "unit_price": 12.5,
+      "total_price": 12.5,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "The Mashacre + Soda",
+      "quantity": 1,
+      "unit_price": 20.9,
+      "total_price": 20.9,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 56.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619783.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "A PIE THING\nFOUR QUARTERS SDN BHD (1079369-P)\nNo.128G JLN SS21/35\nDAMANSARA UTAMA PETALING JAYA\n47400 SELANGOR\nGST NO : 001716617216\nTAX INVOICE\nOrderNo#1106368 06/07/16\nCashier : ALEX\n1 Smores Pie 10.50 SR\n1 Chocolate Mint Pie 12.50 SR\n1 The Mashacre + Soda 20.90 SR\nSET: Chicken Mushroom P SR\nSET: Lemon Lime Soda SR\nSUBTOTAL: 43.90\nTOTAL: 43.90\nTotal (Excluding GST) 41.42\n6%GST 2.48\nPayment Details\nCASH 100.00\nCASH CHANGE 56.10\n06/07/16 13:54 #001-1105624#\nALEX\nGST Summary Amount(RM) Tax(RM)\nSR @6% 41.42 2.48\nFollow us on Facebook, Instagram\n& Twitter @apiething"
+  }
+}

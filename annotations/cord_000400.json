@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Solaria",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 100003.0,
+    "tax": 10000.0,
+    "tip": 0.0,
+    "total": 110000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "(TW)MIE GORENG AYAM",
+      "quantity": 1,
+      "unit_price": 31819.0,
+      "total_price": 31819.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "(TW)NASI GORENG",
+      "quantity": 1,
+      "unit_price": 27273.0,
+      "total_price": 27273.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "NASI GORENG",
+      "quantity": 1,
+      "unit_price": 27273.0,
+      "total_price": 27273.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ES TEH TAWAR",
+      "quantity": 2,
+      "unit_price": 13638.0,
+      "total_price": 13638.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": -3.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000400.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "(TW)MIE GORENG AYAM 31,819\n(TW)NASI GORENG 27,273\nNASI GORENG 27,273\nES TEH TAWAR 13,638\nITEMS :5\nVAT 10% 10,000\nBefore Rounding 110,003\nRounding -3\nTotal 110,000\nBCA ECR: 110,000"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "TONYMOLY VIVA CITY",
+    "address": "UNIT L1-044B, VIVACITY MEGAMALL, JALAN WAN ALWI, 93350 KUCHING, SARAWAK.",
+    "phone": "",
+    "tax_id": "000349356032",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-29",
+    "time": "20:37:46",
+    "currency": "MYR",
+    "payment_method": "VISA",
+    "subtotal": 94.92,
+    "tax": 5.7,
+    "tip": 0.0,
+    "total": 100.6,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "EGG PORE BLACKHEAD STEAM BALM2EAC",
+      "quantity": 1,
+      "unit_price": 55.9,
+      "total_price": 50.31,
+      "category": "Beauty Product",
+      "accounting_category": "Beauty",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "EGG PORE TIGHTENING COOLING PA30g",
+      "quantity": 1,
+      "unit_price": 55.9,
+      "total_price": 50.31,
+      "category": "Beauty Product",
+      "accounting_category": "Beauty",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "DISCOUNT 10%",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Discount",
+      "accounting_category": "Discount",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": -0.02,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006311758.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TONYMOLY VIVA CITY\n(TONYMOLY SHOP (95874))\nUNIT L1-044B, VIVACITY MEGAMALL.\nJALAN WAN ALWI,\n93350 KUCHING, SARAWAK.\nCSI ID : 000349356032\n\nTax Invoice\nTERMINAL : 880\nSALES NO. : 7807949\nSALES DATE : 29/03/2018 20:37:46\nCASH: Then Fiona\nC. L. : CASH\nPOIN. : 0\n\nEGG PORE BLACKHEAD STEAM BALM2EAC [SR]\nSS04018600 1 * 55.90 55.90\nDisc 10.00% -5.59\n\nEGG PORE TIGHTENING COOLING PA30g [SR]\nSS04017600 1 * 55.90 55.90\nDisc 10.00% -5.59\n\nDISCOUNT 10% EAC [ZR]\nDIS10 1 * 0.00 0.00\n\nItem Count\nTotal Sales Incl. GST. 100.62\nRounding Adjustment -0.02\nTotal After Rounding 100.60\n\nVISA 100.60\nCard No 46 xxxxxxxxxx 1819\nApp. Code  a000000031010\n46 xxxxxxxxxx 1819\n\n--------------------\nGST summary Amount(RM) Tax(RM)\nSR = 6% 94.92 5.70\nZR = 0% 0.00 0.00\n\ntotal promotional saving 11.18\nPrinted on: 29-03-2018 20:38:07\n\nThank You\nPlease Come Again"
+  }
+}

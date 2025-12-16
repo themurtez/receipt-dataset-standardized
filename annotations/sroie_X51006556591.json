@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Gardenia Bakeries (KL) Sdn Bhd",
+    "address": "Lot 3, Jalan Pelabur 23/1, 40300 Shah Alam, Selangor",
+    "phone": "03-55423228",
+    "tax_id": "000381399040",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-08-25",
+    "time": "10:29:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 35.64,
+    "tax": 0.72,
+    "tip": 0.0,
+    "total": 36.36,
+    "accounting_category": "Grocery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "O.C. White",
+      "quantity": 3,
+      "unit_price": 2.13,
+      "total_price": 6.39,
+      "category": "Bakery",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Wholemeal",
+      "quantity": 3,
+      "unit_price": 2.78,
+      "total_price": 8.34,
+      "category": "Bakery",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "O.C. Jumbo",
+      "quantity": 3,
+      "unit_price": 2.97,
+      "total_price": 8.91,
+      "category": "Bakery",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Kaya-Ori",
+      "quantity": 5,
+      "unit_price": 2.4,
+      "total_price": 12.0,
+      "category": "Bakery",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 14,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006556591.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GARDENIA BAKERIES (KL) SDN BHD (139386 X)\nLot 3, Jalan Pelabur 23/1, 40300 Shah Alam, Selangor.\nTel: 03-55423228 Fax: 03-55423213\nGST ID: 000381399040\nTAX INVOICE / ADJUSTMENT NOTE\nCash Inv No.: 7825F713\nDate: 25/08/2017\nMAKASSAR FRESH MARKET SDN BHD\nGROUND FLOOR, NO. 4 & 6, JALAN SS 15/4B,\n47500 SUBANG JAYA, SELANGOR\nDescription U.P Jss Exc D Sale Amt(RM)\nO.C. WHITE 2.13 5 2 0 3 6.39\nWHOLEMEAL 2.78 3 2 0 3 8.34\nO.C JUMBO 2.97 5 2 0 3 8.91\nKAYA-ORI 2.40 5 0 0 5 12.00\nTotal 0% supplies: 23.64\nTotal 6% supplies (excl. GST): 12.00\nGST: 0.72\nTotal 6% supplies (Inc. GST): 12.72\nTotal 0% supplies: 23.64\nTotal Payable: 36.36\n"
+  }
+}

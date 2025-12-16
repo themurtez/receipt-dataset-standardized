@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "99 SPEED MART S/B",
+    "address": "LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY, 41150 KLANG, SELANGOR",
+    "phone": "",
+    "tax_id": "000181747712",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-02",
+    "time": "17:03:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 23.6,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 23.6,
+    "accounting_category": "Grocery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "MSM PRAI GULA PASIR 1K",
+      "quantity": 8,
+      "unit_price": 2.95,
+      "total_price": 23.6,
+      "category": "Grocery",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.4
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008114260.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "99 SPEED MART S/B (519537-X)\nLOT P.T. 2811, JALAN ANGSA,\nTAMAN BERKELEY\n41150 KLANG, SELANGOR\n1237-TMN INDAH PERDANA\nGST ID. NO : 000181747712\nINVOICE NO : 18385/103/T0148\n\n05:03PM  570668  02-05-18\n\n8402 MSM PRAI GULA PASIR 1K RM23.60 Z\n@8 X RM 2.95\n\nTotal Sales (Inclusive GST) RM 23.60\nCASH RM 24.00\nCHANGE RM .40\n\nGST Summary Amount(RM) Tax(RM)\nZ = 0% 23.60 .00\n\nThank You. Please come again\nKeep the invoice for applicable returns"
+  }
+}

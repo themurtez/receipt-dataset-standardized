@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Beyond Brothers Hardware",
+    "address": "Lot 1-0-2, Jln 1/50, Diamond Square, Off Jln Gombak, 53000 Kuala Lumpur",
+    "phone": "03-40211233",
+    "tax_id": "001921974376",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-02-05",
+    "time": "11:14:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 60.0,
+    "tax": 3.6,
+    "tip": 0.0,
+    "total": 63.6,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "6 Gal White Container",
+      "quantity": 2,
+      "unit_price": 30.0,
+      "total_price": 63.6,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005677339.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BEYOND BROTHERS HARDWARE\n(872981-V)\nLOT 1-0-2, JLN 1/50,\nDIAMOND SQUARE,\nOFF JLN GOMBAK\n53000 KUALA LUMPUR\nTEL: 03-40211233 FAX: 03-40223233\nIVAN_KONG12@HOTMAIL.COM\nGST ID: 001921974376\n\nTAX INVOICE\nDoc No.: C/S00065374 Date: 05/02/2018\nCashier USER Time: 11:14:00\nSalesperson : Ref.\nitem Qty S/Price (GST) (GST) Amount Tax\nS/Price\n4432 2 30.00 31.60 63.60 SR\n6 GAL WHITE CONTAINER (6/GAL)\nTotal Qty: 2 63.60\nTotal Sales (Excluding GST) 60.00\nDiscount: 0.00\nTotal GST : 3.60\nRounding : 0.00\nTotal Sales (Inclusive of GST) : 63.60\nCASH : 63.60\nChange : 0.00\n\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR 6 60.00 3.60\nTotal : 60.00 3.60\nGOODS SOLD ARE NOT RETURNABLE. THANK YOU"
+  }
+}

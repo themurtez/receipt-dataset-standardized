@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "SmokeBoxBBQ",
+    "address": "2361 Whitney Ave, Hamden, CT 06518",
+    "phone": "203 909 6545",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2014-05-22",
+    "time": "14:00:48",
+    "currency": "USD",
+    "payment_method": "Cash",
+    "subtotal": 13.5,
+    "tax": 0.86,
+    "tip": 0.0,
+    "total": 14.36,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "FXN Diet Birch",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Full Box",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 5.64
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1075-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SmokeBoxBBQ\n2361 Whitney Ave\nHamden, CT 06518\n203 909 6545\n\nORDER# 39   # 1\nCASHIER # 1   GUESTS 1\n5/22/2014 2:00:48 PM\n\n1 FXN DIET BIRCH          1.50\n1 FULL BOX               12.00\nSUBTOTAL:                13.50\nTAX:                      0.86\nSERVER T#0000074\nTOTAL:                  $14.36\n\nCash                     20.00\nChange                    5.64\n\nCLOSED\n5/22/2014 2:02:00 PM\n\nTHANK YOU!!"
+  }
+}

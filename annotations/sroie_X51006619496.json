@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "99 Speed Mart S/B",
+    "address": "Lot P.T. 2811, Jalan Angsa, Taman Berkeley, 41150 Klang, Selangor",
+    "phone": "",
+    "tax_id": "000181747712",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-12-14",
+    "time": "19:49:00",
+    "currency": "MYR",
+    "payment_method": "Credit",
+    "subtotal": 59.57,
+    "tax": 2.08,
+    "tip": 0.0,
+    "total": 61.65,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Mi Sedaap Mi Goreng AS",
+      "quantity": 1,
+      "unit_price": 3.79,
+      "total_price": 3.79,
+      "category": "Food",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Twisties Chipster Orig",
+      "quantity": 1,
+      "unit_price": 2.85,
+      "total_price": 2.85,
+      "category": "Food",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Mister Potato BBQ",
+      "quantity": 2,
+      "unit_price": 2.45,
+      "total_price": 4.9,
+      "category": "Food",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Eagle Fried Dace WT SA",
+      "quantity": 2,
+      "unit_price": 6.99,
+      "total_price": 13.98,
+      "category": "Food",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Planta Marjerin 240g",
+      "quantity": 1,
+      "unit_price": 5.2,
+      "total_price": 5.2,
+      "category": "Food",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Coke 1.5L",
+      "quantity": 2,
+      "unit_price": 2.99,
+      "total_price": 5.98,
+      "category": "Beverages",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Cap Takraw Beras Super",
+      "quantity": 1,
+      "unit_price": 24.95,
+      "total_price": 24.95,
+      "category": "Food",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 9,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619496.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "99 SPEED MART S/B (519537-X)\nLOT P.T. 2811, JALAN ANGSA,\nTAMAN BERKELEY\n41150 KLANG, SELANGOR\n1320-TMN BATU\nGST ID. NO : 000181747712\nINVOICE NO : 17881/102/TQ298\n07:49PM 563094 14-12-16\n--------------------------------------------------\n5422 MI SEDAAP MI GORENG AS RM3.79 s\n0155 TWISTIES CHIPSTER ORIG RM2.85 s\n0954 MISTER POTATO BBQ (B) RM4.90 s\n @2 X RM 2.45\n5588 EAGLE FRIED DACE WT SA RM13.98 s\n @2 X RM 6.99\n183 PLANTA MARJERIN 240G RM5.20 s\n507 COKE 1.5L RM5.98 s\n @2 X RM 2.99\n5725 CAP TAKRAW BERAS SUPER RM24.95 z\n--------------------------------------------------\nTotal Sales (Inclusive GST) RM 61.65\nCREDIT RM 61.65\nCHANGE RM .00\nGST Summary Amount(RM) Tax(RM)\ns = 6% 34.62 2.08\nz = 0% 24.95 .00\nThank You. Please come again\nKeep the invoice for applicable returns"
+  }
+}

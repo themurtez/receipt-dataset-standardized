@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "HON HWA HARDWARE TRADING",
+    "address": "NO 37, JALAN MANIS 7, TAMAN SEGAR, 56100 CHERAS, KUALA LUMPUR.",
+    "phone": "+603-9130 2672",
+    "tax_id": "001125220352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-02-11",
+    "time": "09:35:48",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 18.49,
+    "tax": 1.11,
+    "tip": 0.0,
+    "total": 19.6,
+    "accounting_category": "Hardware Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ALUMINIUM ROD",
+      "quantity": 1,
+      "unit_price": 5.8,
+      "total_price": 19.6,
+      "category": "Hardware Supplies",
+      "accounting_category": "Hardware Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005568889.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "HON HWA HARDWARE TRADING\nCompany Reg. No. : 001055194X\nNO 37, JALAN MANIS 7, TAMAN SEGAR,\n56100 CHERAS, KUALA LUMPUR.\n+603-9130 2672\nGST Reg: 001125220352\nTAX INVOICE\nCB#: 69379 11/02/2017 9:35:48 AM\nM#: C1-0\nCashier: cash3-\nQty Description\n1.38 3/4\" ALUMINIUM ROD\nPrice Total(RM)\n5.80 19.60 SR\nItem Discount 0.00\nDiscount: 0.00\nRounding Adj 0.00\nTotal Inclusive GST:\n19.60\nCASH\nGST Summary\nCode % Net Amt GST Total(RM)\nSR SR 18.49 1.11 19.60\nTotal 18.49 1.11 19.60\nThank you ! & Please come again !!\nGoods sold are not returnable for refund or exchange !!"
+  }
+}

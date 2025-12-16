@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2023-10-05",
+    "time": "13:24:00",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 54000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 54000.0,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Item1",
+      "quantity": 3,
+      "unit_price": 18000.0,
+      "total_price": 54000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 46000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000333.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TMP KpK\nTOTAL 54,000\nCASH 100,000\nCHANGE 46,000\n3 18,000"
+  }
+}

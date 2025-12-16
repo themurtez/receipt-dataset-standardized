@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "CP - Comboios de Portugal, E.P.E.",
+    "address": "Calçada do Duque 20, 1249-109 Lisboa",
+    "phone": "707 210 220",
+    "tax_id": "500498601",
+    "website": "www.cp.pt"
+  },
+  "transaction": {
+    "date": "2018-07-18",
+    "time": "07:41:02",
+    "currency": "EUR",
+    "payment_method": "Cartão de Débito",
+    "subtotal": 74.15,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 74.15,
+    "accounting_category": "Travel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Metro/CP Sintra 30 dias Sintra/Lisboa Oriente",
+      "quantity": 1,
+      "unit_price": 74.15,
+      "total_price": 74.15,
+      "category": "Train Ticket",
+      "accounting_category": "Travel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_205716.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CP - Comboios de Portugal, E.P.E.\nCalçada do Duque 20\n1249-109 Lisboa\nNIF: 500498601\nTalão Carregamento Nº: 1663-740091\nFactura Simplificada nº: FS 1663/309894\nData: 2018-07-18 07:41:02\nLocal: Mercês\nEquipamento: PVQ CPLX Mercês 1 (x25637)\nTurno Nº: 1663-3771\nOperador: Nuno Ribeiro\nNo Contribuinte: 510776914\nProduto Qt. Val.Liq.Unit. Val.Liq.Total\nMetro/CP Sintra 30 dias Sintra/Lisboa Oriente 1 € 74,15\nTotal a pagar (incl. IVA a 6%): € 74,15\nForma pagamento: Cartão de Débito\nData Inicio Validade: 2018-07-18\nData fim Validade: 2018-08-16\nContrato nº: 786815196\nSuporte nº: 2015931906 / 003000487410\njeit-Processado por programa certificado n.º2332/AT\nEste documento não substitui em nenhum caso o título de\ntransporte e só pode ser apresentado em conjunto com\neste. É obrigatória a sua apresentação em caso de avaria do\nsuporte ou no caso de reclamação por\navaria/troca/reembolso.\nApoio ao Cliente - 707 210 220\n(0,10 €/min - rede fixa 0,25 €/min - rede móvel) + IVA\nwww.cp.pt\nDescarregue gratuitamente a App CP e compre viagens em\nAlfa Pendular, Intercidades e complemento de viagem em\nRegionais/InterRegionais."
+  }
+}

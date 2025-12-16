@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 37800.0,
+    "tax": 3780.0,
+    "tip": 0.0,
+    "total": 41580.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Butter Croissant",
+      "quantity": 1,
+      "unit_price": 14000.0,
+      "total_price": 14000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Afternoon Discount (After 4pm)(30%)",
+      "quantity": 1,
+      "unit_price": -4200.0,
+      "total_price": -4200.0,
+      "category": "Discount",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Almond Croissant",
+      "quantity": 1,
+      "unit_price": 28000.0,
+      "total_price": 28000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Afternoon Discount (After 4pm)(30%)",
+      "quantity": 1,
+      "unit_price": -8400.0,
+      "total_price": -8400.0,
+      "category": "Discount",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Mini Chocolate Donut",
+      "quantity": 1,
+      "unit_price": 12000.0,
+      "total_price": 12000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Afternoon Discount (After 4pm)(30%)",
+      "quantity": 1,
+      "unit_price": -3600.0,
+      "total_price": -3600.0,
+      "category": "Discount",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000162.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Butter croissant\n1x 14.000 14.000\nAfternoon Discount (\nAfter 4pm)(30%) (4.200)\nAlmond Croissant\n1x 28.000 28.000\nAfternoon Discount (\nAfter 4pm)(30%) (8.400)\nMini Chocolate Donut\n1x 12.000 12.000\nAfternoon Discount (\nAfter 4pm)(30%) (3.600)\nSubtotal Rp 37.800\nTax (10.0%) Rp 3.780\nTotal Rp 41.580\nOther Rp 41.580\ngp"
+  }
+}

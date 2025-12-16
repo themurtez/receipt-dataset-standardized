@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "FLIKEHOME",
+    "address": "",
+    "phone": "",
+    "tax_id": "510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-20",
+    "time": "17:12:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 2.5,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 2.5,
+    "accounting_category": "Postage & Shipping",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Correio Normal Int.",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Postage & Shipping",
+      "accounting_category": "Postage & Shipping",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_190933.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Fatura/Recibo N.\nFR CTT2017FR881074710/7449\nData de Emissao\n2017-11-20 17:12\nNome: FLIKEHOME\nMorada:\nCod Postal:\nNIF: 510776914\nQTD  DESIGNACAO           IVA QUANTIA\n1     Correio Normal Int.  1)  2,50\nTotal s/IVA:              2,50 Eur\nTotal Desconto s/IVA:     0,00 Eur\nTotal IVA:                0,00 Eur\nTotal:                    2,50 Eur\nDois Euros e Cinquenta Centimos\nTaxa  Valor s/IVA Valor IVA Valor Total\n0%        2,50      0,00       2,50\n\nIsento - Art. 9 No. 23/24 do CIVA\n\nValor liquidado na data de emissao\nBens ou servicos disponibilizados ao\nadquirente na data de emissao deste\ndocumento\n\nEId-Processado por programa certificado n.º 1830/AT\n\nEsta pode ser a sua ultima fatura em papel!\nAceda a www.recibosonline.pt com o\nseguinte codigo:\nFLI9C9FFF62E-124\nE veja como podera ver-se livre dos\npapeis na sua carteira!"
+  }
+}

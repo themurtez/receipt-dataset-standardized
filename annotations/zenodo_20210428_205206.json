@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "ROGERIO PAIS, LDA",
+    "address": "AVENIDA ALMIRANTE REIS, 9-E, 1150-007 LISBOA",
+    "phone": "Tel/Fax: 218853901, Tel: 966008696",
+    "tax_id": "Contribuinte: 510776914",
+    "website": "www.ticasgest.pt"
+  },
+  "transaction": {
+    "date": "2019-05-04",
+    "time": "11:00:00",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 7.32,
+    "tax": 1.68,
+    "tip": 0.0,
+    "total": 9.0,
+    "accounting_category": "Hardware",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chave 2 entradas execut",
+      "quantity": 2,
+      "unit_price": 2.0,
+      "total_price": 4.0,
+      "category": "Tools",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chave 1 palh. ti porta",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Tools",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_205206.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROGERIO PAIS, LDA\nFERRAGENS * FERRAMENTAS * MAQUINAS * UTILIDADES\nAVENIDA ALMIRANTE REIS, 9-E * 1150-007 LISBOA\nTel/Fax 218853901 Tel. 966008696\nSociedade por quotas * Capital Social\n5.012,92€ REG.CRC. 34852\nNIB: 0033 0000 0128028563 52\n\n2019-05-04 FATURA SIMPLIFICADA N:\nOriginal FS 1A1901/3518\n11:00 BALCAO 1\n\nContribuinte: 510776914\n\nDESCRICAO IVA VALOR\n2 Chave 2 entradas execut 23% 4,00\nPreco: 2,00/UNIDADE\n1 Chave 2 palh. ti porta 23% 5,00\n\nTAXA IVA INCID. TOTAL\n23% 1,68 7,32\nTOTAL INCIDENCIAS: 1,68 7,32\nTOTAL: Eur 9,00\n\nPago em Numerario\nValor entregue: 9,00\nTroco: 0,00\n\nImplementado por www.ticasgest.pt\n\nVIVO-Processado por programa\ncertificado n. 217/AT\n\nOs servicos e/ou bens foram realizados e/ou colo cados a disposicao do adquirente nesta data (Art 36 do CIVA, No5 alinea F)\n\nLicenca: ROGERIO PAIS, LDA\nContribuinte: 500544000"
+  }
+}

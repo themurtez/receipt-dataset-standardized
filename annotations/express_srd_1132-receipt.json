@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "VIA EMILIA 9",
+    "address": "1120 15TH ST, MIAMI BEACH, FL 33139",
+    "phone": "7862167150",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-04-27",
+    "time": "18:21:59",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 56.7,
+    "tax": 5.1,
+    "tip": 0.0,
+    "total": 61.8,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Tagliatella al Ragu'",
+      "quantity": 1,
+      "unit_price": 14.9,
+      "total_price": 14.9,
+      "category": "Main Course",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Cappellacci Di Zucca",
+      "quantity": 1,
+      "unit_price": 18.9,
+      "total_price": 18.9,
+      "category": "Main Course",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Stufato Al Latte Di Ravenna",
+      "quantity": 1,
+      "unit_price": 22.9,
+      "total_price": 22.9,
+      "category": "Main Course",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1132-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "VIA EMILIA 9\n1120 15TH ST\nMIAMI BEACH, FL 33139\n7862167150\nORDER: Table 11\nCashier: V.\n27-Apr-2017 6:21:59P\n1 Tagliatella al Ragu' $14.90\n1 Cappellacci Di Zucca $18.90\n1 Stufato Al Latte Di Ravenna $22.90\nSubtotal $56.70\nTax $5.10\nTotal $61.80\nOrder QGV RTH3NM28YC\nShow us your review on TripAdvisor or Yelp\nand you'll get a free glass of wine!"
+  }
+}

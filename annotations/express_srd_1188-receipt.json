@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "New China",
+    "address": "1130 North Higley Rd, Suite #7-102, Mesa, AZ 85205",
+    "phone": "(480)218-9888/9892",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-03-12",
+    "time": "16:02:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 24.95,
+    "tax": 2.01,
+    "tip": 0.0,
+    "total": 26.96,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Beef w. Broccoli",
+      "quantity": 1,
+      "unit_price": 8.25,
+      "total_price": 8.25,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "w. Chicken Fried Rice",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Food",
+      "accounting_category": "Side Dish",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sweet / Sour Chicken",
+      "quantity": 1,
+      "unit_price": 7.95,
+      "total_price": 7.95,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chicken Chow Mein",
+      "quantity": 1,
+      "unit_price": 6.75,
+      "total_price": 6.75,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1188-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "New China\n1130 North Higley Rd, Suite#7-102\nMesa, AZ 85205\nTel:(480)218-9888/9892\n\nWalk In # 23\n\nDate: 03-12-2016 Time: 4:02PM\nServer: BOSS\n\n1 Beef w. Broccoli 8.25\nw. Chicken Fried Rice 2.00\n1 Sweet / Sour Chicken 7.95\n1 Chicken Chow Mein 6.75\n\nAmount: 24.95\nTAX(8.05%): 2.01\nTOTAL: 26.96\n\nThank you very much."
+  }
+}

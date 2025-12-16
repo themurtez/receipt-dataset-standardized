@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "BP Domingos Sequeira",
+    "address": "Rua Domingos Sequeira, n.20, 1350-122 Lisboa",
+    "phone": "213908066",
+    "tax_id": "508359333",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-09",
+    "time": "09:59:43",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 32.52,
+    "tax": 7.48,
+    "tip": 0.0,
+    "total": 40.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Sem Chumbo 95 Bomba NR",
+      "quantity": 24.33,
+      "unit_price": 1.644,
+      "total_price": 40.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 4.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_204212.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BP DOMINGOS SEQUEIRA\nPETROCONDE COMBUSTIVEIS, LDA.\nRua Domingos Sequeira, n.20 Tel:213908066\n1350-122 Lisboa\nMatricula / NIPC: 508359333\n\nPos:2  Ref:2628 Op:José Luis\nData de emissão: 2018-05-09 09:59:43\n\nSEM CHUMBO 95 BOMBA NR:  3 40,00 EUR 4\n24,33 Lit x 1,644 EUR/Lit\n\nTOTAL 40,00 EUR\n\nRÉB. OUPA+ 4,00 EUR\nNUMERÁRIO 40,00 EUR\nTROCO 4,00-EUR\n\nIVAX IVA LIQ LIQ\nIVA 4 23,00 7,48 32,52 40,00 EUR\n\nRegime part. tabaco. Dl.346/85\n\nFatura-Recibo FR 27052001/024026\nSRI/Processado por Programa Certificado\nno. 0177/AT\n\nNIF: P1510776914\nNome: LIKEHOME - MEDIAÇÃO IMOBILIARIA, LDA\nMorada\nR. SARAIVA DE CARVALHO, N.º 244, 3.º DTO\n1350-302 LISBOA\nMat/Soc\n76 GQ 59\n\nNumero Cartao : O ************201\nPontos Emitidos: 24\nPontos por Promoçao: 0\nPontos Actuais: 1486\nVale util até: 500039016892\nSaldo disponible Poupe Mais: 0 EUR\nExpiram a 30-06-2018: 0 EUR"
+  }
+}

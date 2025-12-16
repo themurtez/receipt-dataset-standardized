@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "UNIHAKKA INTERNATIONAL SDN BHD",
+    "address": "12, Jalan Tampoi 7/4, Kawasan Perindustrian Tampoi, 81200 Johor Bahru, Johor",
+    "phone": "",
+    "tax_id": "867388-U",
+    "website": "Facebook.com/BarWangRice"
+  },
+  "transaction": {
+    "date": "2018-03-14",
+    "time": "18:40:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 8.2,
+    "tax": 0.46,
+    "tip": 0.0,
+    "total": 8.2,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "4 Vege",
+      "quantity": 1,
+      "unit_price": 5.5,
+      "total_price": 5.5,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pork",
+      "quantity": 1,
+      "unit_price": 2.7,
+      "total_price": 2.7,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005433541.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "UNIHAKKA INTERNATIONAL SDN BHD\n14 Mar 2018 18:40\n(867388-U)\n12, Jalan Tampoi 7/4,Kawasan Perindustrian\nTampoi,81200 Johor Bahru,Johor\nTAX INVOICE\nInvoice # : OR18031402160311\n\nItem        Qty       Total\nSR 100100000060 - 4 Vege\n$5.50          1       $5.50\nSR 100100000006 - Pork\n$2.70          1       $2.70\n                     Total Amount: $8.20\n                     GST @6%: $0.46\n                     Net Total: $8.20\n\nPayment Mode\nCASH              $8.20\nChange           $0.00\n\nGST REG #000565195584\nBAR WANG RICE@PERMAS JAYA\n(Price Inclusive of GST)\nThank You & Come Again!\nLike and Follow Us on Facebook!\nFacebook.com/BarWangRice"
+  }
+}

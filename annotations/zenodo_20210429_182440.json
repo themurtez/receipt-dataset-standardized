@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "Restaurante Pinoquio",
+    "address": "Praca dos Restauradores, n.79/801250-188 Lisboa",
+    "phone": "213465106",
+    "tax_id": "500547572",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-08-12",
+    "time": "13:48:00",
+    "currency": "EUR",
+    "payment_method": "Dinheiro e Cartao de Debito",
+    "subtotal": 57.04,
+    "tax": 8.06,
+    "tip": 0.0,
+    "total": 65.1,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PICAPAU",
+      "quantity": 1,
+      "unit_price": 23.5,
+      "total_price": 23.5,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Gambas Al AJI",
+      "quantity": 0.3,
+      "unit_price": 59.0,
+      "total_price": 17.7,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Refrigerante",
+      "quantity": 1,
+      "unit_price": 1.2,
+      "total_price": 1.2,
+      "category": "Drink",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Tulipa",
+      "quantity": 1,
+      "unit_price": 1.7,
+      "total_price": 1.7,
+      "category": "Drink",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Couvert",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Bolo de Bolac",
+      "quantity": 1,
+      "unit_price": 4.5,
+      "total_price": 4.5,
+      "category": "Dessert",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Bola de Nata",
+      "quantity": 1,
+      "unit_price": 4.5,
+      "total_price": 4.5,
+      "category": "Dessert",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cafe",
+      "quantity": 1,
+      "unit_price": 2.4,
+      "total_price": 2.4,
+      "category": "Drink",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_182440.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Restaurante Pinoquio\nPraca dos Restauradores, n.79/801250-188 Lisboa\nTel.:213465106RCRC Lisboa - Cap. Soc.: 30.000€\n2019-08-12 FATURA-RECIBO N:\nOriginal FT 1A1901/15680\n13:48 MESA N: 120/0\n\nFLIKHOME , LDA\n0000 000\nContribuinte: 510776914\n\nQTD UNI DESCRICAO IVA VALOR\n1 Uni PICAPAU 13% 23,50\nPreco: 23,50/Unidade\n0,3 Kg Gambas Al AJI 13% 17,70\nPreco: 59,00/Kg\n1 Uni Refrigerante 23% 1,20\nPreco: 1,20/Unidade\n1 Uni Tulipa 23% 1,70\n1 Uni Couvrts 13% 1,50\n1 Uni Bolo de Bolac 13% 4,50\n1 Uni Bola de Nata 13% 4,50\n1 Cafe 13% 2,40\n\nTAXA IVA INCID.\n13% 6,57 50,53\n23% 1,50 6,50\nTOTAL INCIDENCIAS: 8,06 57,04\n\nTOTAL: Eur 65,10\nVendido por: Barbosa\n\nValores entregues:\nDinheiro 12,10\nCartão de Debito 53,00\nTroco: 0,00\n\nMuito obrigado pela sua visita\n\nvfik-Processado por programa\ncertificado n. 196/AT\nREFERENCIA :\nCM 1A19E97/1533\nOs servicos e/ou bens foram realizados e/ou colo\ncados a disposicao do adquirente nesta data (Art\n. 36 do CIVA, No5 alinea f)\n\nLicenca: J.J. Sousa, lda\nContribuinte: 500547572"
+  }
+}

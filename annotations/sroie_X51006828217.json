@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "99 SPEED MART S/D",
+    "address": "LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY, 41150 KLANG, SELANGOR",
+    "phone": "",
+    "tax_id": "000181747712",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-08-14",
+    "time": "13:11:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 13.56,
+    "tax": 0.82,
+    "tip": 0.0,
+    "total": 14.38,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "LISTERINE COOL MINT MOU",
+      "quantity": 1,
+      "unit_price": 8.99,
+      "total_price": 8.99,
+      "category": "Personal Care",
+      "accounting_category": "Health & Beauty",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SPRING FRESH MINERAL W",
+      "quantity": 1,
+      "unit_price": 1.4,
+      "total_price": 1.4,
+      "category": "Beverages",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SUMMER GOAT MILK BODY",
+      "quantity": 1,
+      "unit_price": 3.99,
+      "total_price": 3.99,
+      "category": "Personal Care",
+      "accounting_category": "Health & Beauty",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.02,
+    "change_due": 5.6
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006828217.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "99 SPEED MART S/D (519537-X)\nLOT P.T. 2811, JALAN ANGSA,\nTAMAN BERKELEY\n41150 KLANG, SELANGOR\n1243-JLN PUDU ULU\nGST ID. NO : 000181747712\n\nINVOICE NO : 18124/102/T0146\n\n01:11PM 564447 14-08-17\n\n587 LISTERINE COOL MINT MOU RM8.99 s\n2190 SPRING FRESH MINERAL W RM1.40 s\n5353 SUMMER GOAT MILK BODY RM3.99 s\n\nTotal Sales (Inclusive GST) RM 14.38\nRounding Adjustment RM ,.02\nRounding RM 14.40\nCASH RM 20.00\nCHANGE RM 5.60\n\nGST Summary Amount(RM) Tax(RM)\ns = 6% 13.56 .82\n\nThank You. Please come again\nKeep the invoice for applicable returns"
+  }
+}

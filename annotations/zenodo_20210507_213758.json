@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "ROGERIO PAIS, LDA",
+    "address": "AVENIDA ALMIRANTE REIS, 9-E, 1150-007 LISBOA",
+    "phone": "218853301",
+    "tax_id": "510776914",
+    "website": "www.ticasgest.pt"
+  },
+  "transaction": {
+    "date": "2017-10-27",
+    "time": "16:49:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 14.63,
+    "tax": 3.37,
+    "tip": 0.0,
+    "total": 18.0,
+    "accounting_category": "Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Rede mosquiteira aluminio",
+      "quantity": 3,
+      "unit_price": 6.0,
+      "total_price": 18.0,
+      "category": "Hardware",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_213758.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROGERIO PAIS, LDA\nFERRAGENS * FERRAMENTAS * MAQUINAS * UTILIDADES\nAVENIDA ALMIRANTE REIS, 9-E 1150-007 LISBOA\nTel/Fax 218853301 Tel. 966008696\nNIB: 0033 0000 0120828643 52\n2017-10-27 FATURA SIMPLIFICADA N:\nOriginal FS 1A1701/2131\n16:49 BALCAO 1\nContribuinte: 510776914\nDESCRICAO IVA VALOR\n3 Rede mosquiteira aluminio 23% 18,00\nPreco: 6,00/Metro\nTAXA IVA INCID.\n23% 3,37 14,63\nTOTAL INCIDENCIAS: 3,37 14,63\nTOTAL: Eur 18,00\nPago em Numerario\nValor entregue: 18,00\nTroco: 0,00\nImplementado por www.ticasgest.pt\ndIT+-Processado por programa\ncertificado n. 217/AT\nLicenca: ROGERIO PAIS, LDA\nContribuinte: 500544000"
+  }
+}

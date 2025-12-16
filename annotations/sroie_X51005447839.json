@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Restaurant JIaWei",
+    "address": "13, JLN TASIK UTAMA 8, MEDAN NIAGA DAMAI SG BESI, 57000 KL",
+    "phone": "",
+    "tax_id": "002693074-K",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-09-03",
+    "time": "20:54:50",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 65.2,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 65.2,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "B. Bean Bitterground Fish Head (S)",
+      "quantity": 1,
+      "unit_price": 35.0,
+      "total_price": 35.0,
+      "category": "Food",
+      "accounting_category": "Entree",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "F. Hong Kong Sauteed (S)",
+      "quantity": 1,
+      "unit_price": 16.0,
+      "total_price": 16.0,
+      "category": "Food",
+      "accounting_category": "Entree",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Steamed Egg (S)",
+      "quantity": 1,
+      "unit_price": 10.0,
+      "total_price": 10.0,
+      "category": "Food",
+      "accounting_category": "Side Dish",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chinese Tea",
+      "quantity": 2,
+      "unit_price": 0.6,
+      "total_price": 1.2,
+      "category": "Beverage",
+      "accounting_category": "Drink",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Rice (B)",
+      "quantity": 2,
+      "unit_price": 1.5,
+      "total_price": 3.0,
+      "category": "Food",
+      "accounting_category": "Side Dish",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005447839.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "RESTAURANT JIAWEI\nJIAWEI HOUSE\n002693074-K\n13, JLN TASIK UTAMA 8\nMEDAN NIAGA DAMAI SG BESI\n57000 KL\n\nINVOICE\n\nInvoice : 9820 Cashier : admin\nPOS No : 1\nDate : 9/3/2018 20:54:50\nTable : 16\n\nITEM QTY U/P (RM) DISC (%) Amt (RM)\nB. Bean Bitterground Fish Head (S) 1 35.00 0.00\nF. Hong Kong Sauteed (S) 1 16.00 0.00\nSteamed Egg (S) 1 10.00 0.00\nChinese Tea 2 0.60 0.00 1.20\nCOLD\nRice (B) 2 1.50 0.00 3.00\n\nSub Total Before Discount RM 65.20\nService Charge RM 0.00\nTotal Sales RM 65.20\nRounding Adjustment :\nTOTAL RM 65.20"
+  }
+}

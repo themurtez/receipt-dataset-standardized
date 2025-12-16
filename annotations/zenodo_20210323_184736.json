@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "Quarteira - Morgadinho",
+    "phone": "289320071",
+    "tax_id": "508299993",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-08",
+    "time": "20:29:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 2.94,
+    "tax": 0.12,
+    "tip": 0.0,
+    "total": 2.09,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Baguette Francesa",
+      "quantity": 1,
+      "unit_price": 0.39,
+      "total_price": 0.39,
+      "category": "Bakery",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pão C Chouriço 120g",
+      "quantity": 3,
+      "unit_price": 0.85,
+      "total_price": 2.55,
+      "category": "Bakery",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_184736.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Pingo Doce Quarteira - Morgadinho\nTel: 289320071\nDistribuição Alimentar, S.A.\nSede: R Actor António Silva, N7, 1649-033 Lisboa\nRegisto C.R.C. Lisboa-Matricula/NIPC: 500829993\nANREEE: PT007130 V. Social: 33,808.115 EUR\n\nArtigos\nPADARIA/PASTELARIA\nC 6% BAGUETE FRANCESA\n1,000 X 0,39 0,39\nC 6% PÃO C CHOURIÇO 120 G\n3.000 X 0,85 2,55\nPoupança Imediata (0,85)\nResumo\nTOTAL 2,94\nTOTAL A PAGAR 2,09\n\nPagamentos\nTOTAL PAGO 2,09\nEURO 2,09\n\nResumo IVA\nTaxa C 6%\nValor s/IVA 1,97\nValor IVA 0,12\nValor c/IVA 2,09\n\nNESTA COMPRA POPOU\n0,85 €\nAtendido por: Mariana Vieira\n\n0466880 2019-03-08 20:29 0041 0010 0365\n\nkl2J-Processado por programa certificado 369/AT\nFatura Simplificada FS 0365010191010623/026987\n1ª Via Original Data de emissão: 08-03-2019\nN. Contribuinte: 514407395\n\nFactura necessária para troca em 15 dias\n(Artigos Textil e Calçado prazo 30 dias)\nNão se trocam medicamentos e artigos assinalados\n\nApoio ao Cliente\n808 20 45 45 / 210 11 44 11 (24 horas)"
+  }
+}

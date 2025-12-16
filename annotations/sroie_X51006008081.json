@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "PRINT EXPERT SDN BHD",
+    "address": "NO 18, 20, 22, JALAN BUNGA TANJONG 2/16, 40000 SHAH ALAM, SELANGOR",
+    "phone": "03-55250588",
+    "tax_id": "000886677504",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-19",
+    "time": "12:52:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 213.78,
+    "tax": 12.83,
+    "tip": 0.0,
+    "total": 226.6,
+    "accounting_category": "Sales",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BANNER 8X4FEET",
+      "quantity": 1,
+      "unit_price": 28.58,
+      "total_price": 28.58,
+      "category": "Printing",
+      "accounting_category": "Advertising",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "DESIGN BANNER",
+      "quantity": 1,
+      "unit_price": 31.8,
+      "total_price": 31.8,
+      "category": "Design",
+      "accounting_category": "Advertising",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BUSINESS SPOT UV",
+      "quantity": 1,
+      "unit_price": 159.0,
+      "total_price": 159.0,
+      "category": "Printing",
+      "accounting_category": "Advertising",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "DIE-CUT TRANSPARENT PP",
+      "quantity": 10,
+      "unit_price": 11.98,
+      "total_price": 119.78,
+      "category": "Printing",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "DESIGN STICKER",
+      "quantity": 1,
+      "unit_price": 31.8,
+      "total_price": 31.8,
+      "category": "Design",
+      "accounting_category": "Advertising",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "T SHIRT PRINTING",
+      "quantity": 5,
+      "unit_price": 11.13,
+      "total_price": 55.65,
+      "category": "Printing",
+      "accounting_category": "Merchandise",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "DEPOSIT (CS00530344)",
+      "quantity": 1,
+      "unit_price": -200.0,
+      "total_price": -200.0,
+      "category": "Deposit",
+      "accounting_category": "Liabilities",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": -0.01,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006008081.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PRINT EXPERT SDN BHD\n989625-A\nNO 18, 20, 22, JALAN BUNGA TANJONG 2/16,\n40000 SHAH ALAM, SELANGOR\nTEL: 03-55250588\nFAX: 03-55107309\nGST ID: 000886677504\nDoc No: S000005251 DEPT \nCashier: USER Date : 19/03/2018\nSalesperson : SYAHIDAH Time : 12 52 00\n\nDescription\n\nQty\n\nPrice\n\nAmount\n\nBANNER 8X4FEET 1 28.58 28.58\n\nDESIGN BANNER 1 31.80 31.80\n\nBUSINESS SPOT UV 1 159.00 159.00\n\nDIE-CUT TRANSPARENT PP 10 11.98 119.78\n\nDESIGN STICKER 1 31.80 31.80\n\nT SHIRT PRINTING 5 11.13 55.65\n\nDEPOSIT (CS00530344) 1 -200.00 -200.00\n\nTotal Qty: 20\n\nTotal Sales (Excluding GST) : 213.78\nDiscount : 0.00\nTotal GST : 12.83\nRounding : -0.01\nTotal Sales (Inclusive of GST) : 226.60\nTHANK YOU, HAVE A NICE DAY !"
+  }
+}

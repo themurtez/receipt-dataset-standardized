@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "AEON CO. (M) BHD",
+    "address": "3RD FLR, AEON TAMAN MALURI SC, JLN JEJAKA, TAMAN MALURI, CHERAS, 55100 KUALA LUMPUR",
+    "phone": "1-300-80-AEON (2366)",
+    "tax_id": "002017394688",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-12",
+    "time": "16:38:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 24.11,
+    "tax": 0.52,
+    "tip": 0.0,
+    "total": 24.1,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "QL CLASSIC EGGS",
+      "quantity": 1,
+      "unit_price": 4.6,
+      "total_price": 4.6,
+      "category": "Groceries",
+      "accounting_category": "Eggs",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "WHITE GARLIC",
+      "quantity": 1,
+      "unit_price": 0.88,
+      "total_price": 0.88,
+      "category": "Groceries",
+      "accounting_category": "Vegetables",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "OLD GINGER",
+      "quantity": 1,
+      "unit_price": 0.48,
+      "total_price": 0.48,
+      "category": "Groceries",
+      "accounting_category": "Vegetables",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "CHIC DRUMSTICK",
+      "quantity": 2,
+      "unit_price": 5.5,
+      "total_price": 9.05,
+      "category": "Groceries",
+      "accounting_category": "Meat",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "DEER SESAME OIL",
+      "quantity": 1,
+      "unit_price": 9.1,
+      "total_price": 9.1,
+      "category": "Groceries",
+      "accounting_category": "Condiments",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": -0.01,
+    "change_due": 1.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006414717.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AEON CO. (M) BHD (126926-H)\n3RD FLR, AEON TAMAN MALURI SC\nJLN JEJAKA, TAMAN MALURI\nCHERAS, 55100 KUALA LUMPUR\nGST ID : 002017394688\nSHOPPING HOURS\nSUN-THU:1000 HRS - 2200 HRS\nFRI-SAT:1000 HRS - 2300 HRS\n----------------------------------------------------------\n1x 000001227192  4.60ZR\n   QL CLASSIC EGGS\n1x 000008122238  0.88ZR\n   WHITE GARLIC\n1x 00000312177   0.48ZR\n   OLD GINGER\n1x 000000601979  5.50ZR\n   CHIC DRUMSTICK\n1x 000000601979  3.55ZR\n   CHIC DRUMSTICK\n1x 000001053643  9.10SR\n   DEER SESAME OIL\n----------------------------------------------------------\nSub-total                  24.11\nTotal Sales Incl GST       24.11\nRounding Adj               -0.01\nTotal After Adj Incl GST   24.10\nCASH                         25.10\nItem Count 6  Change Amt     1.00\n                Invoice No: 2018041210090010473\nGST Summary       Amount\nSR @ 6%            8.58    0.52\nZR @ 0%            15.01   0.00\nTotal              23.59   0.52\n12/04/2018  16:38    1009 001 0010473\n0305557 NURUL IMAN\n\nAEON TAMAN UNIVERSITI\nTEL 1-300-80-AEON (2366)\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN"
+  }
+}

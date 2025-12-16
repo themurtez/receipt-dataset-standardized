@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Tous Les Jours",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 77000.0,
+    "tax": 7000.0,
+    "tip": 0.0,
+    "total": 77000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PREMIUM MILK PAN BREAD",
+      "quantity": 1,
+      "unit_price": 18000.0,
+      "total_price": 18000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CREAMCHEESE WALNUT BREAD",
+      "quantity": 1,
+      "unit_price": 34000.0,
+      "total_price": 34000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ROLL-IT PIZZA BREAD",
+      "quantity": 1,
+      "unit_price": 25000.0,
+      "total_price": 25000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 23000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000435.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Tous Les Jours\n\n1 PREMIUM MILK PAN BREAD  18,000\n1 CREAMCHEESE WALNUT BREAD  34,000\n1 ROLL-IT PIZZA BREAD  25,000\n\nTOTAL  77,000\nCASH  100,000\nCHANGE  23,000\nPb1 10%  7,000"
+  }
+}

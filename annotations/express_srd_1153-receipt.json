@@ -1,0 +1,136 @@
+{
+  "merchant": {
+    "name": "Gordon Ramsay Steak",
+    "address": "Paris Las Vegas",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2014-10-21",
+    "time": "19:41:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 290.0,
+    "tax": 23.49,
+    "tip": 0.0,
+    "total": 313.49,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Pimm's Cup",
+      "quantity": 1,
+      "unit_price": 14.0,
+      "total_price": 14.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "The Drifter",
+      "quantity": 2,
+      "unit_price": 14.0,
+      "total_price": 28.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Kobe Beef Slider",
+      "quantity": 1,
+      "unit_price": 18.0,
+      "total_price": 18.0,
+      "category": "Food",
+      "accounting_category": "Appetizers",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "New York",
+      "quantity": 1,
+      "unit_price": 63.0,
+      "total_price": 63.0,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Amer Kobe Filet",
+      "quantity": 1,
+      "unit_price": 79.0,
+      "total_price": 79.0,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lobster Tail",
+      "quantity": 1,
+      "unit_price": 43.0,
+      "total_price": 43.0,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Potato Puree",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Food",
+      "accounting_category": "Sides",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Grilled Asparagus",
+      "quantity": 1,
+      "unit_price": 13.0,
+      "total_price": 13.0,
+      "category": "Food",
+      "accounting_category": "Sides",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Peppercorn",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Food",
+      "accounting_category": "Condiments",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pepsi",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Choc Pot De Crem",
+      "quantity": 1,
+      "unit_price": 13.0,
+      "total_price": 13.0,
+      "category": "Dessert",
+      "accounting_category": "Desserts",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 11,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1153-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Gordon Ramsay Steak\nParis Las Vegas\n\n10/21/2014 19:41\n\nGordon Ramsay Steak\nCheck: 2042367 Table: T-35\nServer: Lomberto Guests: 2\nTerminal: 42\n--------------------------------------------------\nRegular\n1 Pimm's Cup 14.00\n2 The Drifter 28.00\n@ 14.00\n1 Kobe Beef Slider 18.00\n1 New York 63.00\n1 Amer Kobe Filet 79.00\n1 Lobster Tail 43.00\n1 Potato Puree 12.00\n1 Grilled Asparagus 13.00\n1 Peppercorn 6.00\n1 Pepsi 6.00\n1 Choc Pot De Crem 13.00\n\nSubtotal 290.00\nTax 23.49\nTotal 313.49"
+  }
+}

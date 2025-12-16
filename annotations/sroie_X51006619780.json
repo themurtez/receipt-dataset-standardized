@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Yam Fresh",
+    "address": "No.145G, Jalan Rimbunan Raya 1, Laman Rimbunan Kepong, 52100 Kuala Lumpur",
+    "phone": "(603) 6243 5520",
+    "tax_id": "001817907200",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-07-31",
+    "time": "13:48:37",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 7.9,
+    "tax": 0.47,
+    "tip": 0.0,
+    "total": 8.35,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Yam Fresh Signature-C",
+      "quantity": 1,
+      "unit_price": 7.9,
+      "total_price": 7.9,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": -0.02,
+    "change_due": 2.15
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619780.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Yam Fresh\nNo.145G, Jalan Rimbunan Raya 1,\nLaman Rimbunan Kepong,\n52100 Kuala Lumpur\nTel: (603) 6243 5520\nGST ID=001817907200\nInvoice: 001-9822 Dine In\nDate: 2016-07-31 13:48:37\n208 Yam Fresh Signature-C 1 RM7.90\n:Milk\nSub-Total RM7.90\n6% GST RM0.47\nRounding -RM0.02\nGrand Total RM8.35\nCash RM10.50\nChange RM2.15\nThank You.\nPlease visit us at:-\nFacebook:-Yam Fresh\n001-2016-07-31 13:48:51 Lijie 001-9822 [1]"
+  }
+}

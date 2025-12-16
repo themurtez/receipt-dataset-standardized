@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Dia Portugal - Sup. Soc. Unip., Lda.",
+    "address": "Olafonte FDF Alvares Cabral, 2770-190 Paco Arcos",
+    "phone": "",
+    "tax_id": "PT503008808",
+    "website": "www.minipreco.pt"
+  },
+  "transaction": {
+    "date": "2019-08-08",
+    "time": "10:14:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 1.77,
+    "tax": 0.11,
+    "tip": 0.0,
+    "total": 1.88,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Beb. Soja Light Vital",
+      "quantity": 2,
+      "unit_price": 0.94,
+      "total_price": 1.88,
+      "category": "Beverages",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_210844.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Dia Portugal - Sup. Soc. Unip., Lda.\nOla Fonte FDP Alvares Cabral\n2770-190 Paco Arcos\nC. R. C. Num. Contrib.: PT503008808\nCapital Social Empresa: 61.802.655,12\nNome Cliente:\nFixeHome\nDirecao Cliente:\nNum. Contribuinte: 510/6914\nLocalidade:\nCod. Post:\nFATURA/RECIBO\nFT 0211-4020190102/000007067\nCaixa: 2 Data: 2019-08-08 Hora: 10:14\nCodigo de Operario: 54189\nCodigo Descricao\nIVA   PVP/Unit  Quantidade Desconto  Total\n129956  Beb. Soja Light Vital  1,88\n6.00%  0,94  2  0.00\nTotal a Pagar Euros  1,88\nRecebido  0,00\nTroco  0,00\nTipo IVA  Base  IVA  Total\n01  6.00%  1,77  0,11  1,88\nTotal  1,77  0.11  1,88\nLocal Carga:\nLg do Calhariz 10\n1200-086 Lisboa\nData: 2019-08-08 Hora: 10:14\nLocal Descarga: Morada do Cliente\nn219-Processado por prog.cert. ni1752/AT\nwww.minipreco.pt\nSIRPEE PT000245"
+  }
+}

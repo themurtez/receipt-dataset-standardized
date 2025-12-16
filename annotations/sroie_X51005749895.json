@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (M) SDN BHD",
+    "address": "LOT 1851-A & 1351-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000306020352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-02",
+    "time": "17:23:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 67.83,
+    "tax": 4.07,
+    "tip": 0.0,
+    "total": 71.9,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PILLAR SINK TAP",
+      "quantity": 2,
+      "unit_price": 23.9,
+      "total_price": 47.8,
+      "category": "Home Improvement",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SHIELDTOX FIK 6001L MP",
+      "quantity": 1,
+      "unit_price": 8.9,
+      "total_price": 8.9,
+      "category": "Household",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SPONGE KOREA-2S",
+      "quantity": 4,
+      "unit_price": 3.0,
+      "total_price": 12.0,
+      "category": "Household",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PLASTIC BAGS",
+      "quantity": 1,
+      "unit_price": 0.2,
+      "total_price": 0.2,
+      "category": "Household",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "VANCE LIGHTER-1s",
+      "quantity": 5,
+      "unit_price": 0.6,
+      "total_price": 3.0,
+      "category": "Household",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.1,
+    "change_due": 0.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005749895.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. D.I.Y. (M) SDN BHD\nCo. Reg: 306671-D\nLOT 1851-A & 1351-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No: 000306020352)\n(TESCO EXTRA ARA DAMANSARA)\n-TAX INVOICE-\nPILLAR SINK TAP\nFZ02 - 6/54\n9072351 2 X 23.90 47.80\n*SHIELDTOX FIK 6001L MP\nWA01 - 24\n9556111988559 1 X 8.90 8.90\nSPONGE KOREA-2S\nAR62 - 12/312\n9064017 4 X 3.00 12.00\nPLASTIC BAGS\n99999 1 X 0.20 0.20\nVANCE LIGHTER -1s VT02\nWB22 - 50/100\n9555258606166 5 X 0.60 3.00\nItem(s) : 5 Qty(s) : 13\nTOTAL INCL. GST@6%\nCASH RM 71.90\nCHANGE RM 72.00\nRM 0.10\nGST Summary Amt(RM) Tax(RM)\nGST S@6% 67.83 4.07\nbuy water tap\n*02-03-18 17:23 SH01 ZJ42 T1 R000227410\nOPERATOR TADC - A.IM ABDUL\nEXCHANGE AR: ALLOWED WITHIN\n7 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

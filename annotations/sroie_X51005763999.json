@@ -1,0 +1,118 @@
+{
+  "merchant": {
+    "name": "Segi Cash & Carry Sdn. Bhd.",
+    "address": "Pt17920 Sek U9, Shah Alam",
+    "phone": "",
+    "tax_id": "001951645696",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-06",
+    "time": "05:21:00",
+    "currency": "RM",
+    "payment_method": "VISA",
+    "subtotal": 673.99,
+    "tax": 14.09,
+    "tip": 0.0,
+    "total": 674.0,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "MIGHTY MARK DISHWASH 11L",
+      "quantity": 2,
+      "unit_price": 9.9,
+      "total_price": 19.8,
+      "category": "Household",
+      "accounting_category": "Cleaning Supplies",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "CROWN'S POWER PWD DETERGENT 5KG",
+      "quantity": 1,
+      "unit_price": 11.5,
+      "total_price": 9.9,
+      "category": "Household",
+      "accounting_category": "Cleaning Supplies",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "UDANG XL",
+      "quantity": 3.18,
+      "unit_price": 39.9,
+      "total_price": 126.88,
+      "category": "Groceries",
+      "accounting_category": "Seafood",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "UDANG XL",
+      "quantity": 3.15,
+      "unit_price": 39.9,
+      "total_price": 125.69,
+      "category": "Groceries",
+      "accounting_category": "Seafood",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "WIN CENDOL (GROSS 1.5KG, NET 1KG)",
+      "quantity": 2,
+      "unit_price": 4.51,
+      "total_price": 9.02,
+      "category": "Groceries",
+      "accounting_category": "Snacks",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "IKAN BILIS C TIMBANG",
+      "quantity": 1.36,
+      "unit_price": 55.0,
+      "total_price": 74.8,
+      "category": "Groceries",
+      "accounting_category": "Seafood",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "AJINOMOTO 20X1KG",
+      "quantity": 1,
+      "unit_price": 210.0,
+      "total_price": 210.0,
+      "category": "Groceries",
+      "accounting_category": "Seasoning",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SEGI/LEMBU EMAS OIL 17KG",
+      "quantity": 1,
+      "unit_price": 69.9,
+      "total_price": 69.9,
+      "category": "Groceries",
+      "accounting_category": "Oil",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ARC TEPUNG UBI 10x1KG",
+      "quantity": 1,
+      "unit_price": 28.0,
+      "total_price": 28.0,
+      "category": "Groceries",
+      "accounting_category": "Flour",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 11,
+    "rounding": 0.01,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005763999.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Segi Cash & Carry Sdn. Bhd.(317041-W)\nPt17920 Sek U9, Shah Alam\nGST Reg No : 001951645696\n\nInvoice No : 62513\nDate : 06 Jan 2018 05:21pm\nCounter : 02\n\nMIGHTY MARK DISHWASH 11L\n2 x 9.90 19.80 S\nCROWN'S POWER PWD DETERGENT 5KG\n1 x 11.50 (Disc: 1.60) 9.90 S\nUDANG XL\n3.18 x 39.90 126.88 Z\nUDANG XL\n3.15 x 39.90 125.69 Z\nWIN CENDOL (GROSS 1.5KG, NET 1KG)\n2 x 4.51 9.02 S\nIKAN BILIS C TIMBANG\n1.36 x 55.00 74.80 Z\nAJINOMOTO 20X1KG\n1 x 210.00 210.00 S\nSEGI/LEMBU EMAS OIL 17KG+\n1 x 69.90 69.90 Z\nARC TEPUNG UBI 10x1KG\n1 x 28.00 28.00 Z\n\nNo of items: 11\nSubtotal Incl. GST:RM 673.99\nRounding:RM 0.01\nTotal Incl. GST:RM 674.00\nVISA ****************7118 674.00\nChange:RM 0.00\nSavings:RM 1.60\n\n**************** GST Summary ****************\nGST Code Amount(RM) Tax(RM)\nS @6.0% 234.63 14.09\nZ @0.0% 425.27 0.00\n*************************************\n\nRef No: 00600666580062513\nGoods Sold Are Not Returnable.\n"
+  }
+}

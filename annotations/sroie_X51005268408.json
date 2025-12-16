@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "99 SPEED MART S/B",
+    "address": "LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY, 41150 KLANG, SELANGOR, 1413-SETIA ALAM 2",
+    "phone": "",
+    "tax_id": "000301797712",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-20",
+    "time": "15:29:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 149.78,
+    "tax": 9.01,
+    "tip": 0.0,
+    "total": 160.17,
+    "accounting_category": "Retail",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "PEDIASURE COMPLETE 3KG",
+      "quantity": 1,
+      "unit_price": 117.9,
+      "total_price": 117.9,
+      "category": "Groceries",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "MILO 2KG",
+      "quantity": 1,
+      "unit_price": 34.9,
+      "total_price": 34.9,
+      "category": "Groceries",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "ZING HEING OAT & WHEAT",
+      "quantity": 1,
+      "unit_price": 4.1,
+      "total_price": 4.1,
+      "category": "Groceries",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "DISNEY 06112 WIDE NECK",
+      "quantity": 1,
+      "unit_price": 5.89,
+      "total_price": 5.89,
+      "category": "Baby Products",
+      "accounting_category": "Childcare",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "JOHNSONS FNB.5 2IN1 BO",
+      "quantity": 1,
+      "unit_price": 6.99,
+      "total_price": 6.99,
+      "category": "Personal Care",
+      "accounting_category": "Health & Wellness",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.02,
+    "change_due": 30.2
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005268408.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "99 SPEED MART S/B (519537-X)\nLOT P.T. 2811, JALAN ANGSA,\nTAMAN BERKELEY\n41150 KLANG, SELANGOR\n1413-SETIA ALAM 2\nGST ID. NO ; 000301797712\n\nINVOICE NO : 10222/102/T0341\n\n03:29PM 562936 20-11-17\n\n2973 PEDIASURE COMPLETE 3KG RM117.90\n089 MILO 2KG RM34.90\n2709 ZING HEING OAT & WHEAT RM4.10\n2693 DISNEY 06112 WIDE NECK RM5.89\n4385 JOHNSONS FNB.5 2IN1 BO RM6.99\n\nTotal Sales (Inclusive GST) RM 149.78\nRounding Adjustment RM .02\nRounding RM 160.00\nCASH RM 200.00\nCHANGE RM 30.20\n\nGST Summary Amount(RM) Tax(RM)\nS = 6% 160.17 9.01\n\nThank You. Please come again\nKeep the invoice for applicable returns"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "VITOR M. AGOSTINHO, LDA.",
+    "address": "Rua Luis de Camões, 35A, 1495-083 Algés",
+    "phone": "21 411 41 01 / 21 411 48 08",
+    "tax_id": "501 322 698",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-07-26",
+    "time": "11:47:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 16.0,
+    "tax": 2.99,
+    "tip": 0.0,
+    "total": 16.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Fechaduras",
+      "quantity": 1,
+      "unit_price": 16.0,
+      "total_price": 16.0,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_203938.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "VITOR M. AGOSTINHO, LDA.\nFerragens e Ferramentas\nRua Luis de Camões, 35A\n1495-083 Algés\nTelefone: 21 411 41 01 / 21 411 48 08\nFax: 21 411 48 39\ne-mail: geral@vitormagostinho.pt\nNIF: 501 322 698\nCapital Social 14.963,94 EUR\nReg. CRC nº 501 322 698\nFatura-Recibo Nº FR V11 1V111/55779 Duplicado\nData: 2018-07-26 // 11:47\nCliente: FEELSLIKEHOME, LDA\nLocal: LISBOA\nNIF do cliente: 510776914\nLocal de carga: N/MORADA\nQuantidade Preço Unitário Desconto Total Líquido IVA\nFechaduras 1 16,00 16,00 23%\nIVA Incidência Valor IVA Total Líquido\n6%\n13%\n23% 13,01 2,99 16,00\nTotal IVA 2,99\nTotal €: 16,00\nVitor M. Agostinho, Lda.\nRua Luis de Camões, 35\nAlgés | 1495-083 Algés\nNIF: 501322698\nSA15-Processado por programa certificado n.075/AT\nARTSOFT v8.30, lic. 08167, www.arthost.pt/amus.db.11\nNão se devolve dinheiro de compras efetuadas."
+  }
+}

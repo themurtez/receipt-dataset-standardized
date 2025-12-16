@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 339000.0,
+    "tax": 35595.0,
+    "tip": 0.0,
+    "total": 391545.0,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chicken Soy",
+      "quantity": 1,
+      "unit_price": 95000.0,
+      "total_price": 95000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sauce H",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Condiment",
+      "accounting_category": "Dining",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Butter Cheese",
+      "quantity": 1,
+      "unit_price": 45000.0,
+      "total_price": 45000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Corn",
+      "quantity": 1,
+      "unit_price": 59000.0,
+      "total_price": 59000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Bintang L",
+      "quantity": 1,
+      "unit_price": 59000.0,
+      "total_price": 59000.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chum Churum",
+      "quantity": 1,
+      "unit_price": 140000.0,
+      "total_price": 140000.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000624.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Chicken Soy 1 95,000\nSauce H\nButter Cheese 1 45,000\nCorn 1 59,000\nBintang L 1 59,000\nChum Churum 1 140,000\nSub Tot 339,000\nService 16,950\nTax 35,595\nDiscount 0\nTOTAL 391,545"
+  }
+}

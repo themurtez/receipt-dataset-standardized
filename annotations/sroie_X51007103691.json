@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "AEON CO. (M) BHD",
+    "address": "3RD FLR, AEON TAMAN MALURI SC, JLN JEJAKA, TAMAN MALURI, CHERAS, 55100 KUALA LUMPUR",
+    "phone": "1-300-80-AEON (2366)",
+    "tax_id": "002017394688",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-28",
+    "time": "15:35:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 26.11,
+    "tax": 1.48,
+    "tip": 0.0,
+    "total": 26.1,
+    "accounting_category": "Retail",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "MUNCHY'S CREAM",
+      "quantity": 1,
+      "unit_price": 7.51,
+      "total_price": 7.51,
+      "category": "Snacks",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TOPVALU BESTPRI",
+      "quantity": 3,
+      "unit_price": 6.2,
+      "total_price": 18.6,
+      "category": "Grocery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": -0.01,
+    "change_due": 23.9
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007103691.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AEON CO. (M) BHD (126926-H)\n3RD FLR, AEON TAMAN MALURI SC\nJLN JEJAKA, TAMAN MALURI\nCHERAS, 55100 KUALA LUMPUR\nGST ID : 002017394688\nSHOPPING HOURS\nSUN-THU:1000 HRS - 2200 HRS\nFRI-SAT:1000 HRS - 2300 HRS\n1x 000006142384\nMUNCHY'S CREAM\n3x 000005709410\nTOPVALU BESTPRI @6.20\nSub-total 18.60\nTotal Sales Incl GST 26.11\nRounding Adj -0.01\nTotal After Adj Incl GST 26.10\nCASH 50.00\nItem Count 4 Change Amt\nInvoice No: 2018042810080010325\nGST Summary Amount Tax\nSR @ 6% 24.63 1.48\nTotal 24.63 1.48\n28/04/2018 15:35 1008 001 0010325\n0304662 HEMADAS A/L BALOO\nAEON BANDAR PUCHONG\nTEL 1-300-80-AEON (2366)\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN"
+  }
+}

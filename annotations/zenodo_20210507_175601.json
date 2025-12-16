@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Bazarshopping",
+    "address": "ALAMEDA SANTO ANTONIO DOS CAPUCHOS 2A, 1150-220 QUINTA DE SAO PEDRO, LISBOA",
+    "phone": "",
+    "tax_id": "259645575",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-09-24",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 5.45,
+    "tax": 1.25,
+    "tip": 0.0,
+    "total": 6.7,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CORTINA DE BANHEIRA",
+      "quantity": 1,
+      "unit_price": 6.7,
+      "total_price": 6.7,
+      "category": "Home Goods",
+      "accounting_category": "Household",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 13.3
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_175601.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BAZARSHOPPING\nXU JIA\nContribuinte Nr: 259645575\nALAMEDA SANTO ANTONIO DOS CAPUCHOS 2A\n1150-220 QUINTA DE SAO PEDRO LISBOA\nTel:\n2019-09-24\nNome : FLIKEHOME\nContr. Nr: 510776914\nMorada\nORIGINAL\nFatura Nr: FAC 101/00031600\nIVA Descricao Total\n23% CORTINA DE BANHEIRA\n1 X 6.70 6.70\nTotal A Pagar Euros: 6.70\nNumero De Artigos : 1\nRecebido (Euros) 20.00\nTroco (Euros) 13.30\nIVA% Base IVA Total'\n23% 5.45 1.25 6.70\nTotal: 6.70Euros\nTalao indispensavel para troca em 15 dias. Nao s\ntroca bijutarias, meias, lingerie, cosmeticos\nArticos de cerimonia. VOLTAR SEMPRE\nOuzz - Processado por Programa\nCertificado Nr: 1174/AT\nOBRIGADO E VOLTE SEMPRE"
+  }
+}

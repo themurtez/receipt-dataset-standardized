@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Nick's Tuscan Grill",
+    "address": "149 Mineola Blvd, Mineola NY 11501",
+    "phone": "516-747-2545",
+    "tax_id": "",
+    "website": "www.nickstuscangrill.com"
+  },
+  "transaction": {
+    "date": "2018-03-18",
+    "time": "10:54:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 62.5,
+    "tax": 5.39,
+    "tip": 0.0,
+    "total": 67.89,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "FUSSILLI SP",
+      "quantity": 1,
+      "unit_price": 22.0,
+      "total_price": 22.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Open Food",
+      "quantity": 1,
+      "unit_price": 28.0,
+      "total_price": 28.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Ossobuco",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Drink",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Diet Coke",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Drink",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "G 14 Hands Cab",
+      "quantity": 1,
+      "unit_price": 10.0,
+      "total_price": 10.0,
+      "category": "Wine",
+      "accounting_category": "Alcohol",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1098-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Nick's Tuscan Grill\n149 Mineola Blvd\nMineola NY 11501\n516-747-2545\nwww.nickstuscangrill.com\nMinimum Credit/Debit Payment $20\n\n907 Victor V\nTbl 12/1 Mar18'18 10:54AM Gst 2\n\nBar\nFUSSILLI SP 22.00\n1 Open Food 28.00\n1 Ossobuco 2.50\n1 Diet Coke 2.50\n1 G 14 Hands Cab 10.00\nSubtotal 62.50\nTax 5.39\nTotal 67.89\n\nMinimum Credit/Debit Payment $20\nThank you for joining us today."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Florism De Art",
+    "address": "LOT 2.70.00, LEVEL 2, PAVILION KUALA LUMPUR, 168, JALAN BUKIT BINTANG, 55100 KUALA LUMPUR, MALAYSIA.",
+    "phone": "03-2142 3855",
+    "tax_id": "000397606912",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-14",
+    "time": "17:03:35",
+    "currency": "MYR",
+    "payment_method": "Credit Card",
+    "subtotal": 707.55,
+    "tax": 42.45,
+    "tip": 0.0,
+    "total": 750.0,
+    "accounting_category": "Goods",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "OPEN",
+      "quantity": 1,
+      "unit_price": 750.0,
+      "total_price": 750.0,
+      "category": "Goods",
+      "accounting_category": "Goods",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006008166.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Tax Invoice\nFLORISM DE ART (940075-X)\nLOT 2.70.00, LEVEL 2,\nPAVILION KUALA LUMPUR,\n168, JALAN BUKIT BINTANG,\n55100 KUALA LUMPUR, MALAYSIA.\nTel : 03-2142 3855\nGST Reg.: 000397606912\nDocument No. : T01005445\nDate : 14/01/2018 05:03:35 PM\nDebtor :\nMember :\nPromoter :\nTerminal : T01\nCashier : ADMIN\nDESC\nQTY\nOPEN\n1 NO\n*\nU. PRICE\nRM\n750.00\nDisc\nAMOUNT\nRM\n750.00\nTAX\nCODE\nSR\nSub Total (Exclusive GST):\n707.55\nGST 6% :\n42.45\nRounding Adj. :\n0.00\nRounded Total (RM):\n750.00\nCredit Card\nGST Summary Amount(RM)\nSR @ 6 %\n707.55\nTax(RM)\n42.45"
+  }
+}

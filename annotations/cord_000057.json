@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "HOME MADE IND.",
+    "address": "GRAND INDONESIA",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "CASH",
+    "subtotal": 39000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 39000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Muffin Blueberry",
+      "quantity": 1,
+      "unit_price": 14000.0,
+      "total_price": 14000.0,
+      "category": "Food",
+      "accounting_category": "Bakery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Abon Ayam",
+      "quantity": 1,
+      "unit_price": 9000.0,
+      "total_price": 9000.0,
+      "category": "Food",
+      "accounting_category": "Snacks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Coklat Coffee",
+      "quantity": 1,
+      "unit_price": 8000.0,
+      "total_price": 8000.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Red Bean",
+      "quantity": 1,
+      "unit_price": 8000.0,
+      "total_price": 8000.0,
+      "category": "Food",
+      "accounting_category": "Snacks",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000057.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "HOME MADE IND.\n...\n1 PL. MUFFIN BLUEBERRY 14,000\n1 RB. ABON AYAM 9,000\n1 RB. COKLAT COFFEE 8,000\n1 RB. RED BEAN 8,000\nITEM: 4 SUBTOTAL 39,000\nDUE 39,000\nCASH"
+  }
+}

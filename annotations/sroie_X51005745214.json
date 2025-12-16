@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "99 SPEED MART S/B",
+    "address": "LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY, 41150 KLANG, SELANGOR",
+    "phone": "",
+    "tax_id": "000181747712",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-02-07",
+    "time": "15:16:00",
+    "currency": "MYR",
+    "payment_method": "Credit",
+    "subtotal": 45.34,
+    "tax": 0.57,
+    "tip": 0.0,
+    "total": 45.35,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "888 LYCHEES IN SYRUP",
+      "quantity": 3,
+      "unit_price": 3.38,
+      "total_price": 10.14,
+      "category": "Canned Goods",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CSR GULA 12x1KG",
+      "quantity": 1,
+      "unit_price": 35.2,
+      "total_price": 35.2,
+      "category": "Sugar",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.01,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005745214.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "99 SPEED MART S/B (519537-X)\nLOT P.T. 2811, JALAN ANGSA,\nTAMAN BERKELEY\n41150 KLANG, SELANGOR\n1132-PJ SS6\nGST ID. NO : 000181747712\nINVOICE NO : 18301/102/T0305\n03:16PM 569337 07-02-18\n----------------------------------------\n2471 888 LYCHEES IN SYRUP 5 RM10.14 s\n@3 X RM 3.38\n270 CSR GULA 12X1KG^ RM35.20 z\n----------------------------------------\nTotal Sales (Inclusive GST) RM 45.34\nRounding Adjustment RM .01\nRounding RM 45.35 r\nCREDIT RM 45.35\nCHANGE RM .00\n----------------------------------------\nGST Summary\nAmount(RM) Tax(RM)\ns = 6% 9.57 .57\nz = 0% 35.20 .00\n\nThank You. Please come again\nKeep the invoice for applicable returns\n"
+  }
+}

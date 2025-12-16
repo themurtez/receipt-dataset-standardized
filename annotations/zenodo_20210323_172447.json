@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "P.D. COMBUSTIVEIS LDA",
+    "address": "E.N. 125Km 3,2 Aptado 23240-Cortesao, 8200 Ferreiras",
+    "phone": "",
+    "tax_id": "509600450",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-07-24",
+    "time": "22:51:24",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 32.91,
+    "tax": 7.57,
+    "tip": 0.0,
+    "total": 40.48,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "03 GASOLEO",
+      "quantity": 29.68,
+      "unit_price": 1.364,
+      "total_price": 40.48,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_172447.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "P.D. COMBUSTIVEIS LDA\nCapital Social 10.000,00 EUROS\nNIF: 509600450\n\n61155 P.A. FERREIRAS I (norte)\nN.CONTRIB 509600450\nE.N. 125Km 3,2 Aptado 23240-Cortesao\n8200 Ferreiras\n\nUnid. Codigo Artigo Preco Valor\n29.68 041386 03 GASOLEO 1.364 40.48\n\nTOTAL: EUR 40.48\n\nIVA 23.0% Base: 32.91 Imposto: 7.57\n\nTOTAL A PAGAR: EUR 40.48\nDINHEIRO EUR 40.48\n\nCaixa: 3\nRecibo...3.0.295 24/07/2019 22:51:24\nRef... 0979000760 TSQ... 0000827244\n\nNOME: FRICARME ALGARVE, LDA\nNIF... 514407395\nMATRICULA... 54-CC-40\nMORADA:\nData: 24/07/2019 22:51:24\nFATURA NR: 61155100032019/00019826\n\nIK7 - Processado por Programa\nCertificado NR.: 1299/AT\n\nMUITO OBRIGADO"
+  }
+}

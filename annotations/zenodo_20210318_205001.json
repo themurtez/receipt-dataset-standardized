@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "H&M",
+    "address": "Rua do Carmo, 42, 1100-062 Lisboa",
+    "phone": "800 200 034",
+    "tax_id": "PT506431134",
+    "website": "www.hm.com"
+  },
+  "transaction": {
+    "date": "2019-01-22",
+    "time": "16:48:00",
+    "currency": "EUR",
+    "payment_method": "Visa/Mastercard",
+    "subtotal": 38.99,
+    "tax": 8.97,
+    "tip": 0.0,
+    "total": 47.96,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "HD Sala de estar - Verde",
+      "quantity": 1,
+      "unit_price": 9.99,
+      "total_price": 9.99,
+      "category": "Home Decor",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "HD Cozinha - Bege",
+      "quantity": 1,
+      "unit_price": 14.99,
+      "total_price": 14.99,
+      "category": "Home Decor",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "HD Sala de estar - Bege",
+      "quantity": 1,
+      "unit_price": 12.99,
+      "total_price": 12.99,
+      "category": "Home Decor",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "HD Sala de estar - Verde",
+      "quantity": 1,
+      "unit_price": 9.99,
+      "total_price": 9.99,
+      "category": "Home Decor",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_205001.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "H&M\nwww.hm.com\nRua do Carmo, 42,\n1100-062 Lisboa\n800 200 034 ,\nPT506431134\nVendedor: 146170 Loja: PT0301 Nº: 981\nData: 22-01-2019 Caixa: 17 Hora: 16:48\nHD Sala de estar Verde 23% 9,99\n0668708 NOSIZE Tpp 23% 9,99\nHD Cozinha NOSIZE Bege Tpp 23% 14,99\n0464722 NOSIZE\nHD Sala de estar Beige Tpp 23% 12,99\n0693525\nHD Sala de estar Verde Tpp 23% 9,99\n0453588 NOSIZE\nTotal 47.96 €\nNÚMERO DE ARTIGOS 4\nIVA% IVA Líquido Total\n23,00 8,97 38,99 47,96\n8,97 38,99 47,96\nRecebido Visa/Mastercard 47,96\nReferência n.º: 000046\n\nFatura número:\nFT B030170325162000036/00005\nbaBB-Processado por programa\ncertificado n.º:2425/AT\n\nNome:\nFLIKEHOME LDA\nNIPC/NIF:\n510776914\nDirecção:\nAVENIDA DA LIBERDADE 36 1B\nX\nCP:\n1200\nCidade:\nLISBOA\nPaís:\nPT\nÚltimo dia para reembolso: 21-02-2019\nHORÁRIO DE ABERTURA\nSegunda a Sabado 10:00 - 22:00\nDomingo 10:00 - 20:00"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Infraestruturas de Portugal, SA",
+    "address": "Praça da Portagem, 2809-013 Almada",
+    "phone": "",
+    "tax_id": "503933813",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-24",
+    "time": "14:31:00",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 0.55,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 0.55,
+    "accounting_category": "Transportation",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Bem Lido-Trânsito",
+      "quantity": 1,
+      "unit_price": 0.55,
+      "total_price": 0.55,
+      "category": "Toll",
+      "accounting_category": "Transportation",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_210002.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Infraestruturas de Portugal, SA\nPraça da Portagem, 2809-013 Almada\nNIF: 503 933 813\nCapital Social: 3.495.375.000 Euros\n\nFACTURA SIMPLIFICADA\n\nRecibo: FS 21021061801/0009747 Original\nData e Hora: 2018-05-24 14:31:00\nSaída: 2102 - Mafra Oeste\nVia: 106\n\nEntrada: 2101 - Ericeira\nTítulo: Bem Lido-Trânsito-\nModo de Pagamento: Numerário\nClasse: 1  Taxa: 0,55 €\n\nIVA incluído à taxa normal\n\nMTRO-Processado por programa certificado\nn.2011/AT\n\nObrigado e Boa Viagem!"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "S&Y STATIONERY",
+    "address": "No. 36G Jalan Bulan BM U5/BM, Bandar Pinggiran Subang, Seksyen U5, 40150 Shah Alam, Selangor.",
+    "phone": "0163307491 / 0378317491",
+    "tax_id": "000906854400",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-01-09",
+    "time": "01:48:43",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 1.32,
+    "tax": 0.08,
+    "tip": 0.0,
+    "total": 1.4,
+    "accounting_category": "Stationery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "EXERCISE BOOK 80 PAGES SINGLE LIN PCS",
+      "quantity": 2,
+      "unit_price": 0.7,
+      "total_price": 1.4,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 48.6
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006334770.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "S&Y STATIONERY\n(002050590-H)\nNo. 36G Jalan Bulan BM U5/BM,\nBandar Pinggiran Subang,\nSeksyen U5,\n40150 Shah Alam, Selangor.\nTEL / FAX : 0163307491 / 0378317491\nEMAIL: snystationery@hotmail.com\nTEL: 0163307491 / 0378317491\nFAX: 0378317491\nE-Mail: snystationery@hotmail.com\n(GST Reg No : 000906854400)\n\nS/P : SALES Inv No : CS-0004350\n09-Jan-2017 01:48:43 PM\n-------------------INVOICE--------------------\n\nNo.Description           UOM\nCode         Qty U/Price Total(MYR)\n1 EXERCISE BOOK 80 PAGES SINGLE LIN PCS\nFW10010801     2    0.70     1.40 SR\n\n               Item Count :           2\n  Total Sales Incl. GST @6% :         1.40\n  Total Amount Payable :          1.40\n  Cash Received :                   50.00\n  Change :                         48.60\n\n-------------------------------\n\nGST Summary  Amount (MYR)      Tax (MYR)\nSR = 6%            1.32              0.08\n\nGOODS SOLD ARE NOT RETURNABLE/REFUNDABLE\n"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Parques de Estacionamento S.A.",
+    "address": "Av. Conde Valbom, 30 - Piso 5, 1050-068 Lisboa",
+    "phone": "513311685",
+    "tax_id": "CRCL 45336",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-08",
+    "time": "11:25:00",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 1.85,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 1.85,
+    "accounting_category": "Parking",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Parking Fee",
+      "quantity": 1,
+      "unit_price": 1.85,
+      "total_price": 1.85,
+      "category": "Parking",
+      "accounting_category": "Parking",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210324_200623.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Parques de Estacionamento S.A.\nAv. Conde Valbom, 30 - Piso 5\n1050-068 Lisboa\nCont: 513311685 / CRCL 45336\nPARQUE CAMES\n\nDoc n: 181111\nTerminal: 22\nBilhete No: 392921108\nRetido: EUR 0.00\nEntrada: 2019-03-08 19:47\nValor: EUR 1.85\nData: 2019-03-08 Hora: 11:25\nIVA a taxa legal em vigor\nProcessado por Computador\nNome: Consumidor Final\nNIF: Consumidor Final\n\nPQ ESTACIONAMENTO\nCAMES\nPC LUIS CAMES\nLISBOA\nN.F.C: 513311685 T.P.A: 498382877\nData: 2019/03/08 Hora: 11:25\nPer.: 059 Tra.: 004 Mem.: 728\n\nCOMPR/A-CHIP 10/1110\nISABEL MATIAS CRAVO\nCartao: MB OP: 111161\n*******7973/08\n\nMB\n1.85 Eur\n\nPROCESSADO POR SIBS"
+  }
+}

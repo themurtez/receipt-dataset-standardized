@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "ROGERIO PAIS, LDA",
+    "address": "AVENIDA ALMIRANTE REIS, 9-E, 1150-007 LISBOA",
+    "phone": "218853901",
+    "tax_id": "510776914",
+    "website": "www.ticagest.pt"
+  },
+  "transaction": {
+    "date": "2019-02-21",
+    "time": "11:50:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 10.57,
+    "tax": 2.43,
+    "tip": 0.0,
+    "total": 13.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.8
+  },
+  "items": [
+    {
+      "name": "Boiador autoclismo univ 23%",
+      "quantity": 1,
+      "unit_price": 10.57,
+      "total_price": 13.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_144030.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROGERIO PAIS, LDA\nFERRAGENS * FERRAMENTAS * MAQUINAS * UTILIDADES\nAVENIDA ALMIRANTE REIS, 9-E, 1150-007 LISBOA\nTel/Fax 218853901 tel. 966008696\n* Sociedade por quotas * Capital Social\n5.012,92€ REG.CRC 34852\nNIB: 0033 0000 012802626463 52\n2019-02-21 FATURA SIMPLIFICADA N:\nOriginal FS 1A1901/1568\n11:50 BALCAO 1\nContribuinte: 510776914\nDESCRICAO IVA VALOR\n1 Boiador autoclismo univ 23% 13,00\nTAXA IVA INCID.\n23% 2,43 10,57\nTOTAL INCIDENCIAS: 2,43 10,57\nTOTAL: Eur 13,00\nPago em Numerario\nValor entregue: 13,00\nTroco: 0,00\nImplementado por www.ticagest.pt\nBgmX-Processado por programa\ncertificado n. 217/AT\nOs serviços e/ou bens foram realizados e/ou colocados a disposicao do adquirente nesta data (Art . 36 do CIVA, No5 alinea F)\nLicenca: ROGERIO PAIS, LDA\nContribuinte: 500544900"
+  }
+}

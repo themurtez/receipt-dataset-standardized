@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Dia Portugal - Sup. Soc. Unip. Lda",
+    "address": "Qta Fonte Edf Alvares Cabral\n2770-190 Paco Arcos",
+    "phone": "",
+    "tax_id": "P1503003808",
+    "website": "www.minipreco.pt"
+  },
+  "transaction": {
+    "date": "2019-09-04",
+    "time": "09:06:00",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 1.98,
+    "tax": 0.12,
+    "tip": 0.0,
+    "total": 2.1,
+    "accounting_category": "Grocery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Iog. Magro Natural",
+      "quantity": 2,
+      "unit_price": 1.05,
+      "total_price": 2.1,
+      "category": "Dairy",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_190725.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Dia Portugal - Sup. Soc. Unip. Lda\nQTA FONTE EDF ALVARES CABRAL\n02770-190 PACO ARCOS\n\nC.R.C./NUM. CONTRIB.: P1503003808\nCAPITAL SOCIAL EMPRESA: 51.802.855,12\n\nNOME CLIENTE:\nFLIKEHOME\nDIRECAO CLIENTE:\n\nNUM. CONTRIBUINTE: 5107/6914\nLOCALIDADE:\nCOD. POST:\n\nFATURA/RECIBO\n\nFT 021140220190102/000007907\nCAIXA: 2 DATA: 2019-09-04 HORA: 09:06\nCODIGO DE OPERARIO: 54021\n\nCODIGO DESCRIÇAO\nIVA PVP/UNIT\nQUANTIDADE TOTAL DESCONTOS\n\n5112 IOG. MAGRO NATURAL 2 2.10\n6.00% 1.05 2 0.00\n\nTOTAL A PAGAR EUROS\nMULTIBANCO 2,10\nTROCO 0.00\n\nTIPO IVA BASE IVA TOTAL\n01 6.00% 1.98 0.12 2.10\n\nTOTAL 1.98 0.12 2.10\n\nLOCAL CARGA:\nLG DO CALHARIZ 10\n1200-086 LISBOA\nDATA: 2019-09-04 HORA: 09:06\nLOCAL DESCARGA: MORADA DO CLIENTE\n\nDGII Processado por prog.cert. 1001752/AI\n\nwww.minipreco.pt\nSIRPEPE 17000245\n\n- COPIA PARA O CLIENTE"
+  }
+}

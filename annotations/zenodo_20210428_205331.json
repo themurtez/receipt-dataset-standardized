@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Autovidreira, LDA",
+    "address": "Rua Poço dos Negros, 1200-336 L - Lisboa",
+    "phone": "213901409",
+    "tax_id": "504083310",
+    "website": "www.autovidreira.com"
+  },
+  "transaction": {
+    "date": "2019-05-31",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 70.0,
+    "tax": 16.1,
+    "tip": 0.0,
+    "total": 86.1,
+    "accounting_category": "Auto Repair",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Espelho 4mm",
+      "quantity": 1,
+      "unit_price": 70.0,
+      "total_price": 86.1,
+      "category": "Auto Part",
+      "accounting_category": "Auto Repair",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_205331.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Autovidreira, LDA\n504083310\nRua Poço dos Negros\n1200-336 L - Lisboa\nTel: 213901409\nFax:\nCli.: V0\nFlikehome\n510767914\nFactura\nFR No.129 Date: 2019-05-31\nMoeda: EUR Cambio: 1\nRec. por Multibanco 86,10\nCod. do Artigo Descricao\nQuant. X Preco IVA Total\n0004E\n1,00 X 86,10 23,0 86,10\nCred. Devolucoes : 0,00\nTotal Ilquido : 70,00\nTotal Descontos : 0,00\nTotal de IVA : 16,10\nTotal Liquido : 86,10\nTotal Alternativo : 86,10 EUR\nIVA\nTaxa Incidencia Valor Motivo\n23,00 70,00 16,10\nMUITO OBRIGADO\nVisite-nos em\nwww.autovidreira.com\nwww.facebook.com/autovidreira\nWWQK-Processado por Programa Certificado\nn..: 0030/AT / FR 2019S/129"
+  }
+}

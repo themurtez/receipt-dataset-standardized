@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "GOLDEN KEY MAKER",
+    "address": "No 5, Jalan Kenari 2, Bandar Puchong Jaya, 47100 Puchong, Selangor",
+    "phone": "03-58919941",
+    "tax_id": "000760274-K",
+    "website": "www.goldenkeymaker.com"
+  },
+  "transaction": {
+    "date": "2018-03-24",
+    "time": "15:44:22",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 21.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 21.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "NORMAL KEY",
+      "quantity": 4,
+      "unit_price": 4.0,
+      "total_price": 16.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "NORMAL KEY LONG",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 29.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005757349.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GOLDEN KEY MAKER (000760274-K) No 5, Jalan Kenari 2, Bandar Puchong Jaya, 47100 Puchong, Selangor TEL: 03-58919941 FAX: 03-58919941 E-Mail: goldenkeymaker@gmail.com Website: www.goldenkeymaker.com S/P : HOE Inv No : CS-0014134 24 Mar 2018 03:44:22 PM INVOICE No.Desc/Code Qty Price Disc% Amount 1 NORMAL KEY 33100 4 4.00 0.00 16.00 2 NORMAL KEY LONG 33101 1 5.00 0.00 5.00 ------------------------------------------------ Total Qty : 5 Sub-Total : 21.00 Discount : 0.00 Net Total : 21.00 Cash Received : 50.00 Change : 29.00 GOODS SOLD ARE NOT RETURNABLE/REFUNDABLE"
+  }
+}

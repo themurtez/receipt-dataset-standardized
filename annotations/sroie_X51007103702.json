@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Mr. D.I.Y. (M) Sdn Bhd",
+    "address": "Lot 1851-A & 1851-B, Jalan KPB 6, Kawasan Perindustrian Balakong, 43300 Seri Kembangan, Selangor",
+    "phone": "",
+    "tax_id": "000306020352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-30",
+    "time": "18:17:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 4.72,
+    "tax": 0.28,
+    "tip": 0.0,
+    "total": 5.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Lava Food Container FC202 500ml",
+      "quantity": 1,
+      "unit_price": 1.8,
+      "total_price": 1.8,
+      "category": "Kitchen",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lava Canister CST7700 530ml",
+      "quantity": 2,
+      "unit_price": 1.6,
+      "total_price": 3.2,
+      "category": "Kitchen",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 45.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007103702.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. D.I.Y. (M) SDN BHD\n(CO.REG : 860671-D)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No : 000306020352)\n(IOI PUCHONG)\n-TAX INVOICE-\n-----------------------------------------\nLAVA FOOD CONTAINER FC202 500ml       *S\nWA26 - 12/144\n9555047302026             1 X 1.80       1.80\nLAVA CANISTER CST7700 530ml            *S\nWA33 - 12/144\n9555047301890            2 X 1.60         3.20\n\nItem(s) : 2                 Qty(s) : 3\n-----------------------------------------\nTotal Incl. GST@6%                  RM 5.00\nCASH                                  RM 50.00\nCHANGE                              RM 45.00\n\nGST @6% included in total         RM 0.28\n-----------------------------------------\n30-04-18 18:17 SH01 ZJ86  T2 R000121653\nOPERATOR TRAINEE CASHIER\n\nEXCHANGE ARE ALLOWED WITHIN\n7 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

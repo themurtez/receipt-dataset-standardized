@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "GALPESTE SA",
+    "address": "R Tomas Fonseca",
+    "phone": "265680040",
+    "tax_id": "503034745",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-01",
+    "time": "12:47:00",
+    "currency": "EUR",
+    "payment_method": "Cartão Bancário",
+    "subtotal": 15.21,
+    "tax": 2.84,
+    "tip": 0.0,
+    "total": 15.21,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Gasolina Evologic 95",
+      "quantity": 1,
+      "unit_price": 1.579,
+      "total_price": 15.21,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_191552.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "galp\n\nAS Alcacer do sal 11171\nGALPESTE SA\nR Tomas Fonseca\nTel 265680040\nNIF 503034745\n\nData : 01/03/2019 12:47\nOPT Nr: 5 Turno: B4\nFatura/Recibo: FR 11171\\/7520191FBv/224\nWM Ref: 009570\n\nBomba: 5\nGASOLINA EVOLOGIC 95 1.579 EUR/L\n9.63 L EUR 15.21\n------------------------------------------\nTotal EUR 15,21\nCartão Bancário\nIVA 23.00% EUR 2.84\n\nA S ALCACER\nPOSICAO 11171\n\nKM 68 - ALCAcER SAL\nIdent. TPA: 00359071\n2019/03/01 12:46:29\n\nMARIA SOBRAL/JOSE\nCARTÂO: ****7398/05\nA0000000032010 VISA ELECTRON\nAUTORIZAÇãO E COMPRA\n\n15,21€\nVISA ELECTRON\nID.Estab.: 00011005210 AUT:339568\n\nREDUNICRE\nINNOVACAO E CONFIANCA\nPROCESSADO POR SIBS\n\nDados do cliente\n\nNIF: 510776914\nMATRICULA: 20-10-84\nPortugal\n\nOBRIGADO\n"
+  }
+}

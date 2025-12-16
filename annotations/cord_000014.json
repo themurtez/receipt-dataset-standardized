@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Donut Shop",
+    "address": "123 Sweet Lane",
+    "phone": "555-1234",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2023-10-07",
+    "time": "12:34:56",
+    "currency": "USD",
+    "payment_method": "Cash",
+    "subtotal": 25.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 25.0,
+    "accounting_category": "Food & Beverages",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Maple glazed",
+      "quantity": 1,
+      "unit_price": 25.0,
+      "total_price": 25.0,
+      "category": "Food & Beverages",
+      "accounting_category": "Food & Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Plastic Bag Small",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Supplies",
+      "accounting_category": "Packaging",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 25.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000014.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TRUSTY DONUT SHOP\n123 SWEET LANE\nDONUT TOWN, USA\nTEL: 555-1234\n\n4005-Maple glazed\n25.000 x1 25.000\n4001-Plastic Bag Small\n0 x1 0\n\nTotal Items: 2\n\nTotal. 25.000\nCash\nTendered: 50.000\nChange: 25.000"
+  }
+}

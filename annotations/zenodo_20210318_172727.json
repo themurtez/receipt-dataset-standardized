@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "BCM Bricolage S.A.",
+    "address": "Carnaxide, Alfragide",
+    "phone": "214 252 200",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-01-18",
+    "time": "13:43:36",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 119.22,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 119.22,
+    "accounting_category": "Home Improvement",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Compra",
+      "quantity": 1,
+      "unit_price": 119.22,
+      "total_price": 119.22,
+      "category": "Home Improvement",
+      "accounting_category": "Home Improvement",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_172727.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BCM - BRICOLAGE S.A.,\nLEROY MERLIN\nALFRAGIDE\nTEL: 214 252 200\n\nABERTO DE SEGUNDA A DOMINGO\nDAS 08H AS 22H\n\nBCM BRICOLAGE SA\nCARNAXIDE\nTerminal Pagamento Automático: 00513628\n2019-01-18 13:43:36 Per067 Tr019 Msg577\nMONTEPIO\nJOSE MANUEL ARROUBE\nCARTAO: ****3128/28 MULTIBANC DÁBITO\nCOMPRA 119,22U MB\nAUT:144766\n\nCÓPIA CLIENTE\nPROCESSADO POR SIBS\n\n005-000043-005 3375 18/01/2019 13:43"
+  }
+}

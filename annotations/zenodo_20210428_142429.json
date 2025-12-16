@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Worten",
+    "address": "Edifício Amoreiras Plaza, Rua Maria Ulrich, Lisboa",
+    "phone": "",
+    "tax_id": "503630330",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-12-28",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 23.99,
+    "tax": 5.63,
+    "tip": 0.0,
+    "total": 29.99,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Pequenos Domésticos",
+      "quantity": 1,
+      "unit_price": 23.99,
+      "total_price": 23.99,
+      "category": "Electronics",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_142429.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Worten \nVAT: 503630330 \nPequenos Domésticos \n560374913326 0001 PREN: V 1.1 \n29,99 \nTotal a Pagar \n29,99 \nIVA: 23.00% \n19.51 \n5.63 \n\nHjj Procesado por programa certificado \nB: 1351 \n5196 0003 74998 735032 : 10000514275203 \nIVA INCLUIDO \n\nNote: This receipt is obtained from customer satisfaction surveys."
+  }
+}

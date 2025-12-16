@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "IKEA Alfragide",
+    "address": "EN250, n 28 Setembro, 2610-001 Frielas",
+    "phone": "",
+    "tax_id": "505360164",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-09-06",
+    "time": "15:03:34",
+    "currency": "EUR",
+    "payment_method": "Cartao",
+    "subtotal": 36.59,
+    "tax": 8.41,
+    "tip": 0.0,
+    "total": 45.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.85
+  },
+  "items": [
+    {
+      "name": "SLAGSIDA Ilum LED p/banc 60 branc",
+      "quantity": 3,
+      "unit_price": 15.0,
+      "total_price": 45.0,
+      "category": "Home & Living",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_234910.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Obrigado por Visitar a IKEA Alfragide!\nIKEA Portugal, Moveis e Decoracao lda\nProduto REE NP010267\nEN250, n 28 Setembro, 2660-001 Frielas\nCapita1 Social: 50,000,000.00 EUR, NIPC\n505360164\nFatura#\nDoc.N* FAC 367051201901182/444\nNIF\n510776914\nNome Fikihome Mediacao Imobilia\nMorada Avenida da Liberdade 36,\n1'B\nCP 1250-145\nCidade Lisboa\nCarga em Nossas Instalacoes\nData 2019-09-06 15:03:00\nLoja: Descarga:\nMorada Avenida da Liberdade 36,\n1'B\nPais PT\nCP 1250-145\nCidade Lisboa\nArt/EAN 00342857 15621\nSLAGSIDA ilum LED p/banc 60 branc\n3 x 15,00 45,00\nTotal 45,00\nTotal de artigos 3 45,00 EUR\nOutros Cartoes\nIKEA ALFRAGIDE\nAMADORA\nTerminal Pagamento Automatico: 00653667\n2019-09-06 15:03:34 Per024 Tr078 M91814\nMONTEP\nJOSE MANEL ARROUBE\nCARTAO: ****3182/28\n501649FF20 MULTIBAN DATIO\nCOMPRA 45,00EUR\nAUT.005194 M5\nCOPIA CLIENTE\nPROCESSADO POR SIBS\n* x*\nInclui IVA:\nCod. Taxa Liquido IVA\n9 23,00 % 36,59 8,41\nMi&C-Processado M7\nPrograma Certificado n° 1999/AT\nData Hora Loja POS Ev Trans\n06.09.19 15:03 367 511 97\nOperador: tetradetora avrn ikea.pt\nNao serve de faturacao. 0 dispostvo\nNo5 Artigos em Rede ATAINA NAO alta emta\nentidade especialmente."
+  }
+}

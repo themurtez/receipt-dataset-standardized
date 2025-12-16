@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Drogaria Semino",
+    "address": "Semino 8125-314 Quarteira",
+    "phone": "289 380 171",
+    "tax_id": "NIF502407300",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-29",
+    "time": "10:28:00",
+    "currency": "EUR",
+    "payment_method": "VISA",
+    "subtotal": 43.5,
+    "tax": 10.0,
+    "tip": 0.0,
+    "total": 53.5,
+    "accounting_category": "Hardware Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SILCA - CHAVE PONTOS UC-4R",
+      "quantity": 2,
+      "unit_price": 7.6,
+      "total_price": 15.2,
+      "category": "Key Items",
+      "accounting_category": "Hardware Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SILCA - CHAVE LC",
+      "quantity": 4,
+      "unit_price": 0.5,
+      "total_price": 2.0,
+      "category": "Key Items",
+      "accounting_category": "Hardware Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SILCA - CHAVE UL-051AZ",
+      "quantity": 1,
+      "unit_price": 3.5,
+      "total_price": 3.5,
+      "category": "Key Items",
+      "accounting_category": "Hardware Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SILCA - COMANDO EVOLUTIVO FIX 40.2",
+      "quantity": 1,
+      "unit_price": 19.9,
+      "total_price": 19.9,
+      "category": "Remote Controls",
+      "accounting_category": "Hardware Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MOSQUETAO ALUMINIO COR",
+      "quantity": 2,
+      "unit_price": 2.2,
+      "total_price": 4.4,
+      "category": "Hardware",
+      "accounting_category": "Hardware Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 10,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210320_173326.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "DROGARIA SEMINO\nSOC. FERRAMENTAS E FERRAGENS SEMINO LDA\nMATERIAIS DE CONSTRUCAO - FERRAMENTAS\nSEMINO 8125-314, QUARTEIRA TEL 289 380 171\nNIF 502407300 CA 50.00DEV CRC 2345 LOULÉ\nFAX 289388200 * EMAIL sfrsemino@sapo.pt\n\nCliente: \nContra:   S14407395\n\nFatura Simplificada\nNatureza: Fatura Simplificada\n2019-03-29 10:28    JOAQUIM BATISTA\nFS 3/533       Original       Term:3\n\nQuant.   Pr. Unit.  IVA   Desc.  Total\n2           7,60       23%           15,20\n4           0.50       23%           2.00\n1           3,50       23%           3,50\n1          19,90      23%           19,90\n2           2,20       23%           4.40\n\nItems: 10\nTotal      53,50 EUR\nForma Pag: VISA\n\nIva Incluido a Taxa Indicada\nTaxa Valor Iva  Base Imp.  Valor Total\n23%    10,00      43,50       53,50\n\nARQd-Processado por programa certificado \nno 2648/AT - Sage\n\nEste documento nao constitui documento d \ntransporte, nos termos do Decreto-Lei\nn.º 147/2003\n"
+  }
+}

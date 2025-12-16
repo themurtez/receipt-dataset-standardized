@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "P.A. CARVOEIRO",
+    "address": "124-1 KM 10.7 CARVOEIRO-LGA, 400 CARVOEIRO",
+    "phone": "",
+    "tax_id": "509213944",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-10",
+    "time": "11:05:15",
+    "currency": "EUR",
+    "payment_method": "CREDIT",
+    "subtotal": 23.17,
+    "tax": 5.33,
+    "tip": 0.0,
+    "total": 28.5,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "GALPeRUBIS",
+      "quantity": 1,
+      "unit_price": 28.5,
+      "total_price": 28.5,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_210857.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CEPSA CARVOEIRO\nSEGUILAS, UNIPESSOAL, Lda\nCapital Social: 5.000,00 Euros\nP.A. CARVOEIRO\nCONTRIB: 509213944\n124-1 KM 10.7 CARVOEIRO-LGA\n400 CARVOEIRO\n\nUnida. Codigo Artigo Preço Valor\n1.00 188100 GALPeRUBIS 28.50 28.50\nTOTAL: EUR\n28.50\nIVA 23.0% Base: 23.17 Imposto: 5.33\nTOTAL A PAGAR: EUR 28.50\nMB/CREDITO EUR\n\nCaixa: 1\nRecibo... 0.1.0.52 10/04/2018 11:05:15\nRef.... 0509000048 TSQ...... 0000456625\n\nNOME: FIKEHOME LDA\nNIF: 510776914\nMATRICULA: U\nMORADA\nData: 10/04/2018 11:05:15\nFATURA NR:\nFT 6103/100012018/00001494\nF/K Processado por Programa\nCertificado N°: 1299/AT\nMUITO OBRIGADO\n\nA SUA OPINIÃO\nAJUDA-NOS A MELHORAR\n\nCapture este QR code\n.... http://opiniao/6l03/"
+  }
+}

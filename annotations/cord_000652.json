@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 15909.0,
+    "tax": 1571.0,
+    "tip": 0.0,
+    "total": 17500.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "WHOP JR 15K",
+      "quantity": 1,
+      "unit_price": 15000.0,
+      "total_price": 15000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TakeAway Charge",
+      "quantity": 1,
+      "unit_price": 909.0,
+      "total_price": 909.0,
+      "category": "Service Charge",
+      "accounting_category": "Service Fees",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 2500.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000652.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "WHOP JR 15K 15,000\nTakeAway Charge 909\nSubtotal 15,909\nPB1 (10%) 1,571\nTake Away Total 17,500\nCash 20,000\nChange 2,500"
+  }
+}

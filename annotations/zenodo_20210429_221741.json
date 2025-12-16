@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "ELENCOJASMIN LDA",
+    "address": "RUA COMANDANTE GERMANO DIAS, 10, 2780-247 OEIRAS",
+    "phone": "214437777",
+    "tax_id": "510793568",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-11-25",
+    "time": "18:12:01",
+    "currency": "EUR",
+    "payment_method": "MB",
+    "subtotal": 12.56,
+    "tax": 2.89,
+    "tip": 0.0,
+    "total": 15.45,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "6Copos",
+      "quantity": 1,
+      "unit_price": 7.95,
+      "total_price": 7.95,
+      "category": "Household",
+      "accounting_category": "Goods",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Copo vidro 6pcs 210cc",
+      "quantity": 1,
+      "unit_price": 7.5,
+      "total_price": 7.5,
+      "category": "Household",
+      "accounting_category": "Goods",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_221741.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ELENCOJASMIN LDA\nGRANDE BAZAR\nContribuinte Nr: 510793568\nRUA COMANDANTE GERMANO DIAS , 10\n2780-247 OEIRAS\nTel: 214437777\n2019-11-25 18:12:01\nName : Flikehome Lda\nCont Nr.: 510776914\nMorada : Lisboa\nDUPLICADO\nFatura Nr.: FAC 101/00023689\nIVA Descricao\n23% Con.6Copo 1 X 7.95 7.95\n23%Copo vidro 6pcs 210cc 1 X 7.50 7.50\nTotal A Pagar Euros: 15.45\nNumero De Artigos : 2\nRecebido (Euros) : 15.45\nTroco (Euros) : 0.00\nPagamento : MB\nIVA% Base IVA Total\n23% 12.56 2.89 15.45\nTotal: 15.45Euros\nFatura indispensavel para troca.\nngOt - Processado por Programa\nCertificado Nr: 1174/AT\nOBRIGADO E VOLTE SEMPRE"
+  }
+}

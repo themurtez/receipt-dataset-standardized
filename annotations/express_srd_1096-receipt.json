@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "223 N. Citrus Ave, Covina, CA 91723",
+    "phone": "(626) 339-9496",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-09-25",
+    "time": "20:44:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 42.9,
+    "tax": 4.08,
+    "tip": 0.0,
+    "total": 46.98,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Bohemia",
+      "quantity": 2,
+      "unit_price": 8.0,
+      "total_price": 16.0,
+      "category": "Beverages",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Albondigas",
+      "quantity": 1,
+      "unit_price": 9.95,
+      "total_price": 9.95,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Mole",
+      "quantity": 1,
+      "unit_price": 16.95,
+      "total_price": 16.95,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1096-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "223 N. Citrus Ave\nCovina, CA 91723\n(626) 339-9496\nCheck: 208774 08:44pm\nTable: BAR9\nServer: Ryan\n09/25/18\n[Seat 1]\n2 Bohemia\nTall $16.00\n1 Albondigas $9.95\n1 Mole $16.95\nSubtotal: $42.90\nTax:: $4.08\nSub w/Tax: $46.98\nTotal: $46.98\n\"Thank-You!\nWe look forward to seeing you again.\""
+  }
+}

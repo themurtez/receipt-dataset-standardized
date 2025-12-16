@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "King's Confectionery S/B",
+    "address": "No. 20-A1, Jalan SS6/3, Kelana Jaya, 47301 Petaling Jaya, Selangor D.E.",
+    "phone": "07-78900732",
+    "tax_id": "000294060032",
+    "website": "www.kings.com.my"
+  },
+  "transaction": {
+    "date": "2017-05-21",
+    "time": "13:14:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 27.5,
+    "tax": 1.55,
+    "tip": 0.0,
+    "total": 27.5,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "S/R Coffee",
+      "quantity": 1,
+      "unit_price": 5.5,
+      "total_price": 5.5,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "S/R Choco",
+      "quantity": 2,
+      "unit_price": 5.5,
+      "total_price": 11.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "S/R Panda",
+      "quantity": 1,
+      "unit_price": 5.5,
+      "total_price": 5.5,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "S/R Vanil",
+      "quantity": 1,
+      "unit_price": 5.5,
+      "total_price": 5.5,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 3.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006388081.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KING'S CONFECTIONERY S/B 273500-U (KJ1)\nNO. 20-A1, JALAN SS6/3, KELANA JAYA,\n47301 PETALING JAYA\nSELANGOR D.E.\nTEL/FAX : 07- 78900732 TEL:0122144371\n(GST ID : 000294060032)\n\nTax Invoice\nInv No :KJ130674721 Date:21/05/17 13:14\nCashier:FW1254 Ctr :001\n\nCode Desc Qty RM D% Amt\n221128 S/R Coffe 1 5.50 0 5.50 S\n221127 S/R Choco 2 5.50 0 11.00 S\n221131 S/R Panda 1 5.50 0 5.50 S\n221132 S/R Vanil 1 5.50 0 5.50 S\n\nQty 5 27.50\nPOSTED OK Extra Disct - 0.00\nRounding Adj 0.00\n--------------------------\nDue 27.50\nPay 30.50\nChange 3.00\n==========================\n(Total Included GST @ 6% : 1.55)\nGOODS SOLD NOT RETURNABLE/EXCHANGEABLE!\nTERIMA KASIH SILA DATANG LAGI!TO\nTASTY BAKING HEALTY NATION!!\n==Visit us online at www.kings.com.my=="
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "KING'S CONFECTIONERY S/B",
+    "address": "3425, Gr. Floor Jin Theater, Jinjang Utara, 52100 K.L.",
+    "phone": "03-67311233",
+    "tax_id": "000294060032",
+    "website": "www.kings.com.my"
+  },
+  "transaction": {
+    "date": "2017-10-10",
+    "time": "20:58:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 70.0,
+    "tax": 3.96,
+    "tip": 0.0,
+    "total": 70.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "ICE-CREAM",
+      "quantity": 1,
+      "unit_price": 58.0,
+      "total_price": 58.0,
+      "category": "Desserts",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Portugues",
+      "quantity": 6,
+      "unit_price": 2.0,
+      "total_price": 12.0,
+      "category": "Pastry",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 30.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006389894.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KING'S CONFECTIONERY S/B 273500-U (JJ)\n3425, Gr. Floor Jln Theater,\nJinjang Utara\n52100 K.L.\nTEL :03-67311233\n(GST ID : 000294060032)\nTax Invoice\nInv No :JJ30275852 Date:10/10/17 20:58\nCashier:FT11822 Ctr :01\nCode Desc Qty RM DX Amt\n691023 ICE-CREAM 1 58.00 0 58.00 S\n211010 Portugues 6 2.00 0 12.00 S\nQty 7 70.00\nRounding Adj - 0.00\nDue 70.00\nPay 100.00\nChange 30.00\n(Total Included GST @ 6% : 3.96)\nGOODS SOLD NOT RETURNABLE/EXCHANGEABLE!\nTHANK YOU PLEASE COME AGAIN!\nTASTY BAKING HEALTHY NATION!!\nVisit us online at www.kings.com.my"
+  }
+}

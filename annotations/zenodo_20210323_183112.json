@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Brisa - Concessão Rodoviária, S.A.",
+    "address": "Quinta da Torre da Aguilha - Edificio Brisa, 2785-599 Sao Domingos de Rana",
+    "phone": "",
+    "tax_id": "NIPC 502 790 024",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-01-01",
+    "time": "19:58:29",
+    "currency": "EUR",
+    "payment_method": "Cartão Bancário",
+    "subtotal": 15.25,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 15.25,
+    "accounting_category": "Transportation",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Bem lido-Trânsito",
+      "quantity": 1,
+      "unit_price": 15.25,
+      "total_price": 15.25,
+      "category": "Transportation",
+      "accounting_category": "Transportation",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_183112.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Brisa - Concessão Rodoviária, S.A.\nQuinta da Torre da Aguilha  Edificio Brisa\n2785-599 Sao Domingos de Rana\nMCRC Cascais È NIPC 502 790 024\nCapital Social: 75 000 000 €\nFACTURA SIMPLIFICADA\nRecibo: FS 12131101902/0000361 Original\nData e Hora: 2019-01-01 19:58:29\nSaida: 1213 - Pinhal Novo pv\nVia: 110 Portageiro: 01905\nEntrada: 0219 - Castro Verde\nTitulo: Bem lido-Trânsito-\nModo de Pagamento: Cartão Bancário\nClasse: 1  Taxa: 15,25 €\nPAGAMENTO AUTOMATICO num: 8732\nNOVO BANCO ************4209\nLocal de pagamento: A12-13\nIVA incluido à taxa normal\nEGP6-Processado por programa certificado\nn.2011/AT\nObrigado e Boa Viagem!"
+  }
+}

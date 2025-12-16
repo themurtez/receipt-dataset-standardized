@@ -1,0 +1,226 @@
+{
+  "merchant": {
+    "name": "Grandma Homes Restaurant",
+    "address": "No. 3 & 5, Jalan Permas 11, Bandar Baru Permas Jaya, 81750 Masai, Johor",
+    "phone": "",
+    "tax_id": "JM0840871-W",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-13",
+    "time": "19:47:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 473.3,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 473.3,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Item 1",
+      "quantity": 4,
+      "unit_price": 3.5,
+      "total_price": 14.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Item 2",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Item 3",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Item 4",
+      "quantity": 1,
+      "unit_price": 8.0,
+      "total_price": 8.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Item 5",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Item 6",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Item 7",
+      "quantity": 1,
+      "unit_price": 34.0,
+      "total_price": 34.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Item 8",
+      "quantity": 1,
+      "unit_price": 35.0,
+      "total_price": 35.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Item 9",
+      "quantity": 1,
+      "unit_price": 28.0,
+      "total_price": 28.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Item 10",
+      "quantity": 1,
+      "unit_price": 12.9,
+      "total_price": 12.9,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Item 11",
+      "quantity": 1,
+      "unit_price": 108.0,
+      "total_price": 108.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Item 12",
+      "quantity": 1,
+      "unit_price": 85.0,
+      "total_price": 85.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Item 13",
+      "quantity": 1,
+      "unit_price": 52.0,
+      "total_price": 52.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Item 14",
+      "quantity": 1,
+      "unit_price": 24.0,
+      "total_price": 24.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Item 15",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Item 16",
+      "quantity": 1,
+      "unit_price": 12.9,
+      "total_price": 12.9,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Item 17",
+      "quantity": 1,
+      "unit_price": 4.5,
+      "total_price": 4.5,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Item 18",
+      "quantity": 2,
+      "unit_price": 17.5,
+      "total_price": 35.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Item 19",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Item 20",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Item 21",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 24,
+    "rounding": 0.0,
+    "change_due": 26.7
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007846368.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GRANDMA HOMES RESTAURANT\n(JM0840871-W)\nNO. 3 & 5, JALAN PERMAS 11,\nBANDAR BARU PERMAS JAYA,\n81750 MASAI,\nJOHOR\nGST ID:\nTAX INVOICE\nReceipt #: CS00001615\nStaff: USER Time: 19:47:00\nDate: 13/06/2018\nDescription Qty Price Amt Tax\n4 3.50 14.00 SR-\n1 3.00 3.00 SR-\n1 3.00 3.00 SR-\n1 8.00 8.00 SR-\n1 2.50 2.50 SR-\n1 2.50 2.50 SR-\n1 34.00 34.00 SR-\n1 35.00 35.00 SR-\n1 28.00 28.00 SR-\n1 12.90 12.90 SR-\n1 108.00 108.00 SR-\n1 85.00 85.00 SR-\n1 52.00 52.00 SR-\n1 24.00 24.00 SR-\n1 2.50 2.50 SR-\n1 12.90 12.90 SR-\n1 4.50 4.50 SR-\n2 17.50 35.00 SR-\n1 3.00 3.00 SR-\n1 3.00 3.00 SR-\n1 3.00 3.00 SR-\nTotal: 24\nTotal Sales (Excluding GST) : 473.30\nDiscount : 0.00\nService Charge : 0.00\nTotal GST : 0.00\nRounding :\nTotal Sales (Inclusive of GST) 473.30\nCASH 500.00\nCHANGE 26.70\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR-0 0 473.30 0.00\nTotal : 473.30 0.00\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU."
+  }
+}

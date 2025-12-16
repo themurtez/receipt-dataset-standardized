@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "El Gran Mar de Plata",
+    "address": "10325 Hammocks Blvd, Miami, FL 33176",
+    "phone": "(305) 386-6638",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-04-20",
+    "time": "22:13:25",
+    "currency": "USD",
+    "payment_method": "cash",
+    "subtotal": 5.0,
+    "tax": 0.35,
+    "tip": 0.0,
+    "total": 5.35,
+    "accounting_category": "Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Miller Lite",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Beverage",
+      "accounting_category": "Alcohol",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1003-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "El Gran Mar de Plata\n10325 Hammocks Blvd\nMiami, FL 33176\n(305) 386-6638\n\nServer: Kayra Station: 10\nOrder #: 8262 Dine In\nBar Tab: Bar Tab\n\n>> SETTLED <<\n1 Miller Lite 5.00\nSUB TOTAL: 5.00\nSales Tax: 0.35\n\nTOTAL: $5.35\nCash Tendered: 5.35\n\nBalance: $0.00\n\n>> Ticket #: 35 <<\n\nCreated: 4/20/2017 10:13:17 PM\nSETTLED: 4/20/2017 10:13:25 PM\n\nTHANK YOU!"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Dyo",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 13636.0,
+    "tax": 1363.0,
+    "tip": 0.0,
+    "total": 14999.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Risol Rogut",
+      "quantity": 1,
+      "unit_price": 8182.0,
+      "total_price": 8182.0,
+      "category": "Snack",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Mineral Water",
+      "quantity": 1,
+      "unit_price": 5454.0,
+      "total_price": 5454.0,
+      "category": "Drink",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 5001.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000779.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Dyo\n1X RISOL ROGUT 8182\n1X MINERALWATER 5454\nSUBTOTAL 13636\nPB1 10% 1363\nTOTAL 14999\nCASH 20000\nCHANGE 5001"
+  }
+}

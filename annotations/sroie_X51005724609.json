@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "BAKALIMA SDN BHD",
+    "address": "102 Jln Banting-Dengkil, 43800 Dengkil, Selangor",
+    "phone": "03-87686245",
+    "tax_id": "001803714560",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-14",
+    "time": "10:25:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 94.34,
+    "tax": 5.66,
+    "tip": 0.0,
+    "total": 100.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "V-Power 97",
+      "quantity": 40.49,
+      "unit_price": 2.47,
+      "total_price": 100.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005724609.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BAKALIMA SDN BHD\nCompany No: 137734-T\n102 Jln Banting-Dengkil\n43800 Dengkil Selangor\nSite: 1137\nTelephone: 03-87686245\nGst No: 001803714560\n>>>>> Pre-Authorisation <<<<<\nPre auth code A01A1520994316\n40.49 litre Pump # 04\nV-Power 97 RM 100.00 A\n2.470 RM / litre\n-------------------------------------------\nTotal RM 100.00\nCash RM 100.00\n6.00% GST A RM 5.66\nTotal Gross A RM 100.00\n-------------------------------------------\nShell Loyalty Card\n6018840079256448\nPoints will be awarded for any eligible purchases.\nCashier:\nHZAKIR2\nThis is not the final fiscal receipt\nDate Time Num POS CNo Shift\n14/03/18 10:25 92202 01 3392 688\nDiesel & Petrol RON95 given relief\nunder Section 56 (3) (b) GST Act 2014\nThank You and Please Come Again"
+  }
+}

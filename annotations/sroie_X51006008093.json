@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Popular Book Co. (M) Sdn Bhd",
+    "address": "No 8, Jalan 7/118B, Desa Tun Razak, 56000 Kuala Lumpur, Malaysia",
+    "phone": "03-5235214",
+    "tax_id": "001492992000",
+    "website": "www.popular.com.my"
+  },
+  "transaction": {
+    "date": "2018-03-08",
+    "time": "18:04:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 13.5,
+    "tax": 0.69,
+    "tip": 0.0,
+    "total": 12.15,
+    "accounting_category": "Bookstore",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "IC&License Hol 3552",
+      "quantity": 30,
+      "unit_price": 0.45,
+      "total_price": 13.5,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 30,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006008093.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "POPULAR BOOK CO. (M) SDN BHD\n(Co. No. 113825-W) (GST Reg No. 001492992000)\nNo 8, Jalan 7/118B, Desa Tun Razak 56000 Kuala Lumpur, Malaysia\nAEON SHAH ALAM Tel : 03-5235214\n08/03/18 18:04 Slip No.: 8010180431 Supervisor Trans: 196798\nMember Card No: 100101668849 Card Expiry: 31/05/18\nDescription Amount IC&License Hol 3552 30pc @ 0.45 13.50 T Member Discount -1.35\nTotal RM Incl. of GST 12.15 Cash -12.15\nItem Count 30 GST Summary Amount (RM) Tax (RM) T @ 6% 11.46 0.69\nTotal Savings -1.35\nBE A POPULAR CARD MEMBER AND ENJOY SPECIAL DISCOUNTS\nTHANK YOU. PLEASE COME AGAIN.\nwww.popular.com.my Buy Chinese books online www.popularonline.com.my"
+  }
+}

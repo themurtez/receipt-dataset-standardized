@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Tiger Portugal, SA",
+    "address": "Rua Nova do Almada, 105\n1200-219 Lisboa",
+    "phone": "510148560",
+    "tax_id": "510541654",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-10-03",
+    "time": "10:47:00",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 13.82,
+    "tax": 3.18,
+    "tip": 0.0,
+    "total": 17.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BAG SHOP JAPANESE 2",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Accessories",
+      "accounting_category": "Retail",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "GLITTER DECO KIT",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Crafts",
+      "accounting_category": "Retail",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "NOTEPAD OFFICE KIT 2",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Office Supplies",
+      "accounting_category": "Retail",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "CALENDAR 2019 DESK V",
+      "quantity": 1,
+      "unit_price": 4.0,
+      "total_price": 4.0,
+      "category": "Office Supplies",
+      "accounting_category": "Retail",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "NOTEBOOK SEQUENCE DE",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Stationery",
+      "accounting_category": "Retail",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_215912.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "flying tiger copenhagen\nTIGER PORTUGAL, SA\nChiado\nRua Nova do Almada, 105\n1200-219 Lisboa\nContNr/Number No 510148560\nSede/Quinta do Bom Retiro, 7 Vasco Fetal\n2820-690 Charneca da Caparica\nNIF Nr 510541654\nFatura Simplificada\nNatureza:Fatura Simplificada\n2019-10-03 10:47 NAQUEL MENESES FALCAO R.\n19114/199403 Original Ter:71\nQuant. Pr. Unit. IVA Desc. Total\nx x\n3013426 BAG SHOP JAPANESE 2 1,00\n1,00 23%\n3016531 GLITTER DECO KIT 6,00\n6,00 23%\n3016531 NOTEPAD OFFICE KIT 2 3,00\n3,00 23%\n3011594 CALENDAR 2019 DESK V 4,00\n1,00 23%\n3015240 NOTEBOOK SEQUENCE DE 2,00\n2,00 23%\nItens: 6\nTotal 17,00 EUR\nForma Pag. MULTIBANCO 17,00\nIva Incluido da lva Indickda\nTaxa Valor Iva Base Imp. Valor Total\n23% 3,18 13,82 17,00\n``"
+  }
+}

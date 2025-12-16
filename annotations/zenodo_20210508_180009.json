@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "ROGERIO PAIS, LDA",
+    "address": "AVENIDA ALMIRANTE REIS, 9-E, 1150-007 LISBOA",
+    "phone": "218853901, 966006996",
+    "tax_id": "500544000",
+    "website": "www.ticasgest.pt"
+  },
+  "transaction": {
+    "date": "2018-06-05",
+    "time": "10:30:00",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 23.58,
+    "tax": 5.42,
+    "tip": 0.0,
+    "total": 29.0,
+    "accounting_category": "Utilities",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Silicone Preto PECOL",
+      "quantity": 4,
+      "unit_price": 3.5,
+      "total_price": 14.0,
+      "category": "Construction Material",
+      "accounting_category": "Utilities",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Lampada MATEL lede vela",
+      "quantity": 5,
+      "unit_price": 3.0,
+      "total_price": 15.0,
+      "category": "Electrical Component",
+      "accounting_category": "Utilities",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_180009.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROGERIO PAIS, LDA\nFERRAGENS * FERRAMENTAS * MAQUINAS * UTILIDADES\nAVENIDA ALMIRANTE REIS, 9-E * 1150-007 LISBOA\nTel/Fax 218853901 Tel. 966006996\n* Sociedade por Quotas * Capital Social\n5.012,92E Reg.CRC. 34852\nNIB: 0033 0000 01280286463 52\n2018-06-05 FATURA SIMPLIFICADA N:\nOriginal FS 1A1801/4812\n10:30 BALCAO 1\nContribuinte: 510776914\nDESCRICA0 IVA VALOR\n4 Silicone Preto PECOL 23% 14,00\nPreco: 3,50/UNIDADE\n5 Lampada MATEL lede vela 23% 15,00\nPreco: 3,00/UNIDADE\nTAXA IVA INCID.\n23% 5,42 23,58\nTOTAL INCIDENCIAS: 5,42 23,58\nTOTAL: Eur 29,00\nPago em Numerario\nValor entregue: 29,00\nTroco: 0,00\nImplementado por www.ticasgest.pt\nFUAN-Processado por programa\ncertificado n. 217/AT\nOs servicos e/ou bens foram realizados e/ou coli\ncados a disposicao do adquirente nesta data (Art\n. 36 do CIVA, No5 alInea F)\nLicenca: ROGERIO PAIS, LDA\nContribuinte: 500544000"
+  }
+}

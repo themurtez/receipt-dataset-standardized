@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "PARADISE DYNASTY",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "MasterCard CIMB NIAGA",
+    "subtotal": 373600.0,
+    "tax": 40162.0,
+    "tip": 0.0,
+    "total": 441782.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "LM Dmplg Chli Sc",
+      "quantity": 1,
+      "unit_price": 68000.0,
+      "total_price": 68000.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "LM Poach Marble Beef",
+      "quantity": 2,
+      "unit_price": 88000.0,
+      "total_price": 176000.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "DIMSUM 23800",
+      "quantity": 2,
+      "unit_price": 23800.0,
+      "total_price": 47600.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "XLB Org Pork 6x",
+      "quantity": 1,
+      "unit_price": 52000.0,
+      "total_price": 52000.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Oolong Jasmine Cup",
+      "quantity": 1,
+      "unit_price": 10000.0,
+      "total_price": 10000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Tea",
+      "quantity": 2,
+      "unit_price": 10000.0,
+      "total_price": 20000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 9,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000365.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PARADISE DYNASTY\n\n1 LM Dmplg Chli Sc 68,000\n2 LM Poach Marble Beef 176,000\n2 DIMSUM 23800 47,600\n1 XLB Org Pork 6x 52,000\n1 Oolong Jasmine Cup 10,000\n2 Tea 20,000\n\nITEMS :9 373,600\nService charge 28,020\nPB1 40,162\nTotal........ 441,782\nMASTER CIMB NIAGA"
+  }
+}

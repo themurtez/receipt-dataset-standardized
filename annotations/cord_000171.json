@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 100000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 100000.0,
+    "accounting_category": "Beverages",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Coffee Rocksalt [R] with PEARL",
+      "quantity": 1,
+      "unit_price": 32000.0,
+      "total_price": 32000.0,
+      "category": "Beverage",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ICED NUTELLA LATTE [R] with PEARL",
+      "quantity": 1,
+      "unit_price": 34000.0,
+      "total_price": 34000.0,
+      "category": "Beverage",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ICED MOCHA LATTE [R] with PEARL",
+      "quantity": 1,
+      "unit_price": 34000.0,
+      "total_price": 34000.0,
+      "category": "Beverage",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000171.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Coffee Rocksalt [R]\n\tPEARL\nICED NUTELLA LATTE [R]\n\tPEARL\nICED MOCHA LATTE [R]\n\tPEARL\nTotal\n100,000\nJOOX\n100,000"
+  }
+}

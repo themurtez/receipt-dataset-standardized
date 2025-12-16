@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "FLICKHOME LDA",
+    "address": "RUA SARAVIA DE CARVALHO N48 1DTO",
+    "phone": "",
+    "tax_id": "510765914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-16",
+    "time": "16:13:21",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 19.99,
+    "tax": 3.94,
+    "tip": 0.0,
+    "total": 19.99,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SECADOR BABYLISS D322E",
+      "quantity": 1,
+      "unit_price": 19.99,
+      "total_price": 19.99,
+      "category": "Electronics",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.01
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_192511.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Nr: F8 FATURA 2800A/071785\nNome: FLICKHOME LDA\nMorada: RUA SARAVIA DE CARVALHO N48 1DTO\nLocal: LISBOA\nN.I.F.: 510765914\nData: 16/11/2017 16:13:21\nDescricao Qtd. Preco Unit. Total IVA\nSECADOR BABYLISS D322E 1.0 19.99 19.99 23%\nTOTAL: 19.99€\nIliq. Marcaria: 16.25€\nIva 23%: 3.74€\nTOTAL: 19.99€\nDINHEIRO: 20.00€\nTROCO DINHEIRO: 0.01€\nLocal de Carga: Morada da Loja\nData: 16/11/2017 Hora: 16:13:21\nLocal Descarca: Morada Cliente\nIva Incluido a Taxa Indicado\nNr. Registo EEE: P1000142\nTALAU INDISPENSEL PARA GARANTIA\nOBRIGADO PELA VISITA"
+  }
+}

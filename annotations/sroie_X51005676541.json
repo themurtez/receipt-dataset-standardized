@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "SYARIKAT PERNIAGAAN GIN KEE",
+    "address": "NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR",
+    "phone": "03-40210276",
+    "tax_id": "000750673920",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-03",
+    "time": "10:37:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 89.5,
+    "tax": 5.37,
+    "tip": 0.0,
+    "total": 94.87,
+    "accounting_category": "Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "1938",
+      "quantity": 2,
+      "unit_price": 6.89,
+      "total_price": 13.78,
+      "category": "Supplies",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "4\" ROLLER SET",
+      "quantity": 1,
+      "unit_price": 40.28,
+      "total_price": 40.28,
+      "category": "Tools",
+      "accounting_category": "Tools",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "7LT TOPLUS EMULSION PAINT",
+      "quantity": 2,
+      "unit_price": 18.02,
+      "total_price": 36.04,
+      "category": "Paint",
+      "accounting_category": "Paint",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CEMENT (50KG) 2225",
+      "quantity": 1,
+      "unit_price": 4.77,
+      "total_price": 4.77,
+      "category": "Building Materials",
+      "accounting_category": "Building Materials",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005676541.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS,\nSETAPAK,\n53200, KUALA LUMPUR.\nTEL : 03-40210276\nGST ID: 000750673920\nSIMPLIFIED TAX INVOICE\n\nCASH\nDoc No : CS00012514 Date: 03/01/2018\nCashier : USER Time: 10:37:00\nSalesperson : Ref. :\n\nItem Qty S/Price Amount Tax\n1938 2 6.89 13.78 SR\n4\" ROLLER SET\n1618 1 40.28 40.28 SR\n7LT TOPLUS EMULSION PAINT\n2430 2 18.02 36.04 SR\nCEMENT (50KG)\n2225 1 4.77 4.77 SR\nPLASTIC TRAP (L)\nTotal Qty: 6 94.87\n\nTotal Sales (Excluding GST) : 89.50\nDiscount : 0.00\nTotal GST : 5.37\nRounding : 0.00\n\nTotal Sales (Inclusive of GST) : 94.87\nCASH : 94.87\nChange : 0.00\n\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR 6 89.50 5.37\nTotal : 89.50 5.37\n\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU."
+  }
+}

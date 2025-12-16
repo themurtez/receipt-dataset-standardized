@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "POPULAR BOOK CO. (M) SDN BHD",
+    "address": "No 8, Jalan 7/118B, Desa Tun Razak, 56000 Kuala Lumpur, Malaysia",
+    "phone": "03-9201 6281/6920",
+    "tax_id": "001492992000",
+    "website": "www.popular.com.my"
+  },
+  "transaction": {
+    "date": "2018-01-12",
+    "time": "16:52:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 20.98,
+    "tax": 1.19,
+    "tip": 0.0,
+    "total": 21.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "70g P. Copy 450'S",
+      "quantity": 2,
+      "unit_price": 13.69,
+      "total_price": 27.38,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.02,
+    "change_due": 29.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005605335.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "POPULAR BOOK CO. (M) SDN BHD\n(Co. No. 113825-W)\n(GST Reg. No: 001492992000)\nNo 8, Jalan 7/118B, Desa Tun Razak\n56000 Kuala Lumpur, Malaysia\nSUNWAY VELOCITY\nTel : 03-9201 6281/6920\n12/01/18 16:52 Slip No.: 0020070154\nPEI YI Trans: 77499\nDescription Amount\n70g P. Copy 450'S\n2pc @ 13.69 27.38 T\nStat-Great Saving -6.40\nTotal RM Incl. of GST 20.98\nRounding Adj 0.02\nTotal RM 21.00\nCash -50.00\nCHANGE 29.00\nItem Count 2\nGST Summary Amount (RM) Tax (RM)\nT @ 6% 19.79 1.19\nTotal Savings -6.40\nBE A POPULAR CARD MEMBER\nAND ENJOY SPECIAL DISCOUNTS\nTHANK YOU. PLEASE COME AGAIN.\nwww.popular.com.my\nBuy Chinese books online\nwww.popularonline.com.my"
+  }
+}

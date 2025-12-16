@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "KRW",
+    "payment_method": "Cash",
+    "subtotal": 110000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 110000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SAUSAGE DONUT",
+      "quantity": 1,
+      "unit_price": 13000.0,
+      "total_price": 13000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TLJ CROQUETTE",
+      "quantity": 1,
+      "unit_price": 17000.0,
+      "total_price": 17000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CORONET",
+      "quantity": 2,
+      "unit_price": 13500.0,
+      "total_price": 27000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SPOOKY SOBORO",
+      "quantity": 2,
+      "unit_price": 12000.0,
+      "total_price": 24000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SCREAMING RED BEAN",
+      "quantity": 1,
+      "unit_price": 13000.0,
+      "total_price": 13000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PIZZA TOAST",
+      "quantity": 1,
+      "unit_price": 16000.0,
+      "total_price": 16000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 90000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000418.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 SAUSAGE DONUT 13,000\n1 TLJ CROQUETTE 17,000\n2 CORONET 27,000\n2 SPOOKY SOBORO 24,000\n1 SCREAMING RED BEAN 13,000\n1 PIZZA TOAST 16,000\nTOTAL 110,000\nCASH 100,000\nCASH 100,000\nCHANGE 90,000"
+  }
+}

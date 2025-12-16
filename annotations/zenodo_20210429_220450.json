@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "AKI Telheiras",
+    "address": "Av. das Nações Unidas, 1600-528 Lisboa",
+    "phone": "217 112 410",
+    "tax_id": "506648558",
+    "website": "www.aki.pt"
+  },
+  "transaction": {
+    "date": "2019-11-07",
+    "time": "21:38:00",
+    "currency": "EUR",
+    "payment_method": "Dinheiro",
+    "subtotal": 6.99,
+    "tax": 1.31,
+    "tip": 0.0,
+    "total": 6.99,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ARMADILHAS BARATAS 5UNID K",
+      "quantity": 1,
+      "unit_price": 6.99,
+      "total_price": 6.99,
+      "category": "Home Supplies",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 3.01
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_220450.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AKI Telheiras\nC.C. Continente, Lj. 41\nAv. das Nações Unidas\n1600-528 Lisboa\nTel.: 217 112 410\nwww.aki.pt\nBCM Bricolage, SA\nR. Qta do Paizinho 10/12, 2790-237 Carnaxide\nCRC Cascais - Cap. social 3.232.052 EUR\nNIPC: 506648558 N° Reg. REEE: PT000680\nFatura\nNúmero: FT 05110211/0291297\nData: 07/11/2019 21:38\nNome: FEELSLIKEHOME LDA\nMorada: AV. DA LIBERDADE 36 19B\nNIF: 1250145 LISBOA\nNIF: 510776914\nIVA CÓDIGO DESCRIÇÃO VALOR\nVENDA\n23.0% 803278 ARMADILHAS BARATAS 5UNID K\nTotal 6,99€\nTroco 3,01€\nRECAPITULATIVO IVA\nTAXA LIQ. IVA\n23.0% 5,68 1,31\nN° cartão AKI : 930101302052587683\nPontos ganhos : 6\nPtos acumulados : 104\nJá ganhou com o seu cartão AKI: 195,00€\n0511 2 91004997 1487044\n00020210424487045\nLocal de carga: morada da loja\nLocal de descarga: morada do cliente\nData e hora do transporte: data e hora da\nfatura\nFATURA INDISPENSAVEL PARA\nTROCA E DEVOLUCAO ATE 100 DIAS\nAu7-Processado por programa\nCertificado n°2288/AT\nOBRIGADO POR COMPRAR NA NOSSA LOJA"
+  }
+}

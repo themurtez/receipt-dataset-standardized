@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Thong Recipe",
+    "address": "16G Block B, Zenith Corporate Park, Jalan SS7/26, 47301 Petaling Jaya Selangor",
+    "phone": "03-7886 4877",
+    "tax_id": "001076076544",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-27",
+    "time": "14:30:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 55.9,
+    "tax": 2.8,
+    "tip": 0.0,
+    "total": 58.7,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Set C",
+      "quantity": 1,
+      "unit_price": 49.9,
+      "total_price": 49.9,
+      "category": "Meal Set",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Herbal Tea / Barli Madu",
+      "quantity": 3,
+      "unit_price": 2.0,
+      "total_price": 6.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 41.3
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007579725.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "THONG RECIPE\n16G BLOCK B,ZENITH CORPORATE PARK\nJALAN SS7/26, 47301\nPETALING JAYA SELANGOR\nTEL 03-7886 4877\nGST NO: 001076076544\nTAX INVOICE\nOrderNo#001-1112563 27/06/18\nCashier : WINNIE\n1 SET C RM49.90 49.90 SR\n3 HERBAL TEA / BARLI MADU 6.00 SR\nItem Count 4\nSUBTOTAL: 55.90\nSRVC 5% 2.80\nTOTAL: 58.70\n------ Payment Details ------\nCASH 100.00\nCASH CHANGE 41.30\n27/06/18 14:30 #001-1112563#\nWINNIE\nGST Summary Amount(RM) Tax(RM)\nSR (@0%) 55.90 0.00\nThank you\nPlease come again\n"
+  }
+}

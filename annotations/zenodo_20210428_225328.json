@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Supermercado Rocha S.A.",
+    "address": "Rua 1 de Dezembro 45-3, 1249-057 Lisboa",
+    "phone": "",
+    "tax_id": "500403201",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-21",
+    "time": "15:03:00",
+    "currency": "EUR",
+    "payment_method": "M.Banco",
+    "subtotal": 3.76,
+    "tax": 0.23,
+    "tip": 0.0,
+    "total": 3.99,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Schar Queques S.G Muffins 260G",
+      "quantity": 1,
+      "unit_price": 3.99,
+      "total_price": 3.99,
+      "category": "Food",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_225328.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SUPERMERCADO ROCHA S.A.\nRua 1 de Dezembro 45-3\n1249-057 Lisboa\nContribuinte: 500403201\nEstabelecimento: 1 DEZEMBRO\n\nFatura 2019-05-21 15:03 FT 20192001/138\nV/N.Contribuinte: 510776914\nFLIKENHOME\n\nDescrição Taxa Quant Preco Valor\nProduto sem Gluten\nSCHAR QUEQUES S.G MUFFINS 260G\n380478 1 1 3.99 3.99\n\nTotal Euros....... 3.99\n\nTaxa B.Tributável Imposto Totais\n1 - 6.00% 3.764 0.226 3.99\n\nkpvR-Processado por programa\nCertificado Nr. 2129/AT\n\nCarga: 21-05-2019 15:03:23\n\nDevoluções ou troca só no prazo de 15\ndias por desconformidade do mesmo\nmediante a apresentação do talão e de\npreferência na loja onde o adquiriu.\nCompras pagas com o cartão refeição\nsó dão direito a troca por outros\nprodutos nas condições anteriores.\n\nM.Banco........... 3.99\nTroco............. 0.00"
+  }
+}

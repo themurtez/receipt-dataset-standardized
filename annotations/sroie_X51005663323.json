@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "KOH SENG HARDWARE",
+    "address": "No. 939, Batu Lima, Jalan Ipoh, 51200 Kuala Lumpur",
+    "phone": "03-62504769",
+    "tax_id": "001117650944",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-04",
+    "time": "",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 800.0,
+    "tax": 48.0,
+    "tip": 0.0,
+    "total": 848.0,
+    "accounting_category": "Hardware Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SR: EXTENSION LADDER 12' X 12'",
+      "quantity": 2,
+      "unit_price": 424.0,
+      "total_price": 848.0,
+      "category": "Hardware",
+      "accounting_category": "Tools and Equipment",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005663323.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "31812012\nKOH SENG HARDWARE\n1502665-P\nNO. 939, BATU LIMA,\nJALAN IPOH,\n51200 KUALA LUMPUR.\nTEL: 03-62504769 FAX: 03-62504769\nGST NO: 001117650944\nTAX INVOICE\nCASH\nRECEIPT #: CS00042153 DATE: 04/12/2017\nCASHIER : USER\nITEM QTY U/P AMOUNT\n3751 2 424.00 848.00 S\nSR:EXTENSION LADDER 12' X 12'\nTOTAL QUANTITY 2\nDISC 0.00\nGST 48.00\nROUNDING 0.00\nTOTAL 848.00\nCASH 848.00\nCHANGE 0.00\nGST SUMMARY\nCODE AMOUNT % TAX/AMT\nSR 800.00 6 48.00\nTAX TOTAL: 48.00\n48.00\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "KFC",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 26364.0,
+    "tax": 2636.0,
+    "tip": 0.0,
+    "total": 29000.0,
+    "accounting_category": "Food & Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "KFC Winger HC",
+      "quantity": 1,
+      "unit_price": 20000.0,
+      "total_price": 20000.0,
+      "category": "Food",
+      "accounting_category": "Food & Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Rice",
+      "quantity": 1,
+      "unit_price": 6364.0,
+      "total_price": 6364.0,
+      "category": "Food",
+      "accounting_category": "Food & Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 1000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000054.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 KFC Winger HC 20,000\n1 Rice 6,364\nSub Total 26,364\nF.Rest 10 % 2,636\nTotal 29,000\nCash 30,000\nKembali 1,000\n2 Items,"
+  }
+}

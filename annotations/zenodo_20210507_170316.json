@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Bota Minuto Amoreiras",
+    "address": "Lisboa, C.C. Amoreiras, Lj 3504, 1070 Lisboa",
+    "phone": "+351 27 9955 2607",
+    "tax_id": "506175502",
+    "website": "botaminuto.com"
+  },
+  "transaction": {
+    "date": "2019-11-26",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 61.5,
+    "tax": 3.5,
+    "tip": 0.0,
+    "total": 65.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CHAVE PLANA TE2 ou TE2-7",
+      "quantity": 2,
+      "unit_price": 3.0,
+      "total_price": 6.0,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHAVE PONTOS ORIGINAL",
+      "quantity": 5,
+      "unit_price": 11.5,
+      "total_price": 57.5,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_170316.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Bota Minuto Amoreiras\nContribuinte: 506175502\nCentro Commercial Amoreiras\nRua Alfredo Sousa, 2795-565 Lisbon\nC.C. Amoreiras, Lj 3504, 1070 Lisboa\nTelefone: +351 27 9955 2607\nExmo. Senhor:\nFLXISBOA\nLISBOA\nNIF: 150176914\nNER.Emp.Cl.PTS150176914\n\nData: 26/11/2019\nFTR 6489328 Lista 2019-11-26 Original\nFatura\nVendedor: Rúben\n\nArt. Description      Qtd Pr. Unit. Valor IVA\n\nCHAVE PLANA TE2 ou TE2-7 2      3.00    6.00 T *\nCHAVE PONTOS ORIGINAL TS62   5      11.50  57.50 T *\n\nTotal de peces: 6\nSub-Total: 61.50\nTotal incl. IVA: 65.00\n\n* Taxes already included\n\nOBS: Trocas e devoluções aceites com comprovativo\nCertificação N. 1627/AT\n\nTotal Document: Euro 61.50\n\nVisit us: botaminuto.com\n"
+  }
+}

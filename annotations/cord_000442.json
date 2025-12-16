@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 166000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 194469.0,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SHISAMO MENTAIKO",
+      "quantity": 1,
+      "unit_price": 33000.0,
+      "total_price": 33000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SALMON BACON",
+      "quantity": 1,
+      "unit_price": 49000.0,
+      "total_price": 49000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "DYNAMITE SCALLOP",
+      "quantity": 1,
+      "unit_price": 55000.0,
+      "total_price": 55000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TOBIKO TOFU",
+      "quantity": 1,
+      "unit_price": 29000.0,
+      "total_price": 29000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000442.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 SHISAMO MENTAIKO 33,000\n1 SALMON BACON 49,000\n1 DYNAMITE SCALLOP 55,000\n1 TOBIKO TOFU 29,000\nSUBTTL 166,000\nSVC 10,790\nPB1 17,679\nTOTAL 194,469"
+  }
+}

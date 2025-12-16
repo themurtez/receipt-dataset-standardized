@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "COPIMATICA - Informatica e Copia, Servicos e Sistemas, Lda",
+    "address": "R Ota Palmeiras, 31 D Oeiras, OEIRAS PARQUE, Loja 1017 - Paco Arcos, 2780-219 Oeiras",
+    "phone": "Tel.213190303",
+    "tax_id": "NIF 502431377",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-27",
+    "time": "21:02:00",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 23.61,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 23.61,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CARTOLINA IRIS A3 (WHITE)",
+      "quantity": 6,
+      "unit_price": 0.45,
+      "total_price": 2.7,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CARTOLINA IRIS A4 (WHITE)",
+      "quantity": 6,
+      "unit_price": 0.37,
+      "total_price": 2.19,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Fotocopias/Impressores Cores A4",
+      "quantity": 3,
+      "unit_price": 6.0,
+      "total_price": 20.54,
+      "category": "Printing Services",
+      "accounting_category": "Printing Services",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 15,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_203411.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "COPIMATICA - Informatica e Copia, Servicos e Sistemas, Lda\nAddress: R Ota Palmeiras, 31 D Oeiras\nOEIRAS PARQUE, Loja 1017 - Paco Arcos\n2780-219 Oeiras Tel.213190303\nCap.Soc. 24939.90Euros NIF 502431377\nC.R.Con.Cascais N.9610\n\nExmo(s) Senhor(es):\nFLIXEHOME LDA\n\nV/NC 510776914 N.Cli.PT510776914\nFTR 2/72069 Data 2017-11-27 21:02\nFactura Vendedor...Ana Barata\n\nArt. Descricao Qde. Pr.Unit.Val.Liq.Disc\n\n89354 6.000 0.450 2.70 0%\nCARTOLINA IRIS A3 (WHITE) - (W) 200040182\n\n89354 6.000 0.370 2.19 0%\nCARTOLINA IRIS A4 (WHITE)-(W)  200040152\n\n3 26.000 6.00 20.54 0%\nFotocopias/Impressores Cores A4\n\nTotal Liquido 23.61\n\nVALOR 0.00 IVA Z  VALOR IVA\n0.00       6     0.00\n0.00       6     0.00\n19.20     23    4.41\n\nDESCONTO 0.00%  0.00\nTOTAL DOCUMENTO EURO  23.61\n\nMultibanco        23.61\n\n... (remaining text omitted for brevity)"
+  }
+}

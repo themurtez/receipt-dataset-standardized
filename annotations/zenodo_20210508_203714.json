@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "IKEA",
+    "address": "Rua do Forte, 2790-072 Carnaxide, Lisbon, Portugal",
+    "phone": "",
+    "tax_id": "506636564",
+    "website": "www.ikea.pt"
+  },
+  "transaction": {
+    "date": "2018-07-30",
+    "time": "12:18:00",
+    "currency": "EUR",
+    "payment_method": "VISA",
+    "subtotal": 23.08,
+    "tax": 5.42,
+    "tip": 0.0,
+    "total": 29.5,
+    "accounting_category": "Furniture",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "EBY MUSSBY grate",
+      "quantity": 1,
+      "unit_price": 29.5,
+      "total_price": 29.5,
+      "category": "Home Goods",
+      "accounting_category": "Furniture",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_203714.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Obrigado por Visitara IKEA Alfragide IKEA Portugal - Moviflor, Decoracao Se imp AO forte\nCondicoes de venda degraca\n1700-000\nFatura\nalfragide | NIPC: Doc:\nNEF 1697057030900/279 2018-07-3012:18:00\nMarca: AV DA LIBERDADE, N° 36 P 6\nPT 1250-000\nZONA INDUSTRIAL AMADORA\nContribuinte: 505636564\nPagamento Automatico: 002052399\nTransacao: 0000\nMT\nCompra: 12\nAutorizacao:\nIKEA - NBC T Estado II coisa Arten\nEBY MUSSBY grate 119.28 20\n29,50\nIVA: 23,08 C0 Taxa\n5,42 IVA\nIKEA-Processado por Programa Certificado por 1999/M\n20,00\nPERIODO\nPagamento Automatico: 00 A05 Distribuicao\n"
+  }
+}

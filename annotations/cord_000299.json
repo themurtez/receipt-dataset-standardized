@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 46.363,
+    "tax": 4.636,
+    "tip": 0.0,
+    "total": 51.0,
+    "accounting_category": "dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Soto Daging",
+      "quantity": 1,
+      "unit_price": 36.364,
+      "total_price": 36.364,
+      "category": "food",
+      "accounting_category": "dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Nasi Putih",
+      "quantity": 1,
+      "unit_price": 6.363,
+      "total_price": 6.363,
+      "category": "food",
+      "accounting_category": "dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Teh Tawar Hangat",
+      "quantity": 1,
+      "unit_price": 3.636,
+      "total_price": 3.636,
+      "category": "beverage",
+      "accounting_category": "dining",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 1.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000299.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Soto Daging 1 36.364\nNasi Putih 1 6.363\nTeh Tawar Hangat 1 3.636\nSubtotal 46.363\nPbl (10%) 4.636\nPembulatan 1\nTotal 51.000"
+  }
+}

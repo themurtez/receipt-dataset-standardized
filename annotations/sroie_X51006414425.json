@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "UNHAKKA INTERNATIONAL SDN BHD",
+    "address": "12, Jalan Tampoi 7/4, Kawasan Perindustrian Tampoi, 81200 Johor Bahru, Johor",
+    "phone": "",
+    "tax_id": "867388-U",
+    "website": "facebook.com/BarWangRice"
+  },
+  "transaction": {
+    "date": "2018-04-05",
+    "time": "18:25:00",
+    "currency": "USD",
+    "payment_method": "Cash",
+    "subtotal": 6.51,
+    "tax": 0.39,
+    "tip": 0.0,
+    "total": 6.9,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "3 Vege",
+      "quantity": 1,
+      "unit_price": 4.4,
+      "total_price": 4.4,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Add Vegetable",
+      "quantity": 1,
+      "unit_price": 0.5,
+      "total_price": 0.5,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Add Meats",
+      "quantity": 1,
+      "unit_price": 0.9,
+      "total_price": 0.9,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Vegetable",
+      "quantity": 1,
+      "unit_price": 1.1,
+      "total_price": 1.1,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006414425.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "UNIHAKKA INTERNATIONAL SDN BHD\n05 Apr 2018 18:25\n(867388-U)\n12, Jalan Tampoi 7/4,Kawasan Perindustrian\nTamoi,81200 Johor Bahru,Johor\nTAX INVOICE\nInvoice # : OR18040502160302\nItem Qty Total\nSR 100100000031-3 Vege\n$4.40 1 $4.40\nSR 100100000064-Add Vegetable\n$0.50 1 $0.50\nSR 100100000065-Add Meats\n$0.90 1 $0.90\nSR 100100000015- Vegetable\n$1.10 1 $1.10\nTotal Amount: $6.90\nGST @6%: $0.39\nNett Total: $6.90\nPayment Mode\nCASH $6.90\nChange  $0.00\nGST Summary Amount($) Tax($)\nSR = GST @6% 6.51 0.39\nGST REG #000656195584\nBAR WANG RICE@PERMAS JAYA\n(Price Inclusive Of GST)\nThank You & Come Again!\nLike and Follow Us on Facebook!\nFacebook.com/BarWangRice"
+  }
+}

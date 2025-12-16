@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 57273.0,
+    "tax": 5727.0,
+    "tip": 0.0,
+    "total": 63000.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "[RICHE] BLACK SAKURA",
+      "quantity": 1,
+      "unit_price": 57273.0,
+      "total_price": 57273.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "DRAGON FRUIT",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Fruit",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "KIWI",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Fruit",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "MANGGO",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Fruit",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "ROASTED ALMOND",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Snack",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "YELLOW VELVET",
+      "quantity": 2,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000298.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 [RICHE] BLACK SAKURA 57,273\n1 DRAGON FRUIT 0\n1 KIWI 0\n1 MANGGO 0\n1 ROASTED ALMOND 0\n1 YELLOW VELVET 0\n1 YELLOW VELVET 0\nSub Total 57,273\nPB1 (10%) 5,727\nRounding 0\nTotal 63,000"
+  }
+}

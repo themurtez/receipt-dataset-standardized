@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "MINIPRECO",
+    "address": "LG DO CALHARIZ,10 1200-086 LISBOA",
+    "phone": "",
+    "tax_id": "503003808",
+    "website": "www.minipreco.pt"
+  },
+  "transaction": {
+    "date": "2019-08-26",
+    "time": "17:18:00",
+    "currency": "EUR",
+    "payment_method": "VISA ELEC PP",
+    "subtotal": 5.6,
+    "tax": 0.34,
+    "tip": 0.0,
+    "total": 5.94,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "NEC.1 T.FRUT.COMP.AL LT",
+      "quantity": 1,
+      "unit_price": 5.94,
+      "total_price": 5.94,
+      "category": "Beverages",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_211022.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CRC: N.CONTRIB: P1503003808 \nCAPITAL SOCIAL EMPRESA: 51.802.855,12\n\nNOME CLIENTE: \nFLIKEHOME \nDIRECAO CLIENTE: \n\nNUM. CONTRIBUINTE: 510776914 \nLOCALIDADE \nCOD POSTAL \nFT LOSPAI/FATURA/RECIBO \nF1 021140204019012/0004807 \nCAIXA: 4 DATA: 2019-08-26 HORA: 17:18 \nCODIGO DE OPERARIO:  52496\n\nCODIGO DESCRICAO TOTAL\nIVA PVP/UNIT QUANTIDADE DESCONTO\n21428 NEC.1 T.FRUT.COMP.AL LT 5,94 \n6,00% 9 6  \n\nTOTAL A PAGAR EUROS 5,94 \nMULTIBANCO 5,94\nTROCO 0,00 \n\nTIPO IVA BASE IVA \n01 6,00% 5,60 0,34\n\nLOCAL CARGA:\nLG DO CALHARIZ 10\n\nDATA: 2019-08-26 HORA: 17:18\nLOCAL DESCARGA: MORADA DO CLIENTE \n\nkenFinish \n\nwww.minipreco.pt \nSIPREPE P1000245\n\nMINIPRECO \nLG DO CALHARIZ,10 \n1200-086 LISBOA \nNúMero Fiscal de Contribuinte: 503003808\nTerminal Pagamento Automático: 00038122 \nData: 2019/08/26 Hora: 17:12:36\n\nCompra Chip 00/00\nPRIME SUITES/BICA \n000000000000000010 PrintSpaching\n\nVisa Electron\n5,94\n\nREUNIREC\nINOVACAO E CONFIANCA X\nPROCESSADO POR SIBS"
+  }
+}

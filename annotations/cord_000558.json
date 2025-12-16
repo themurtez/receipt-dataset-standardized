@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Credit Card",
+    "subtotal": 1071.0,
+    "tax": 107.1,
+    "tip": 0.0,
+    "total": 1178.1,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "YAKI ADULT",
+      "quantity": 3,
+      "unit_price": 178.5,
+      "total_price": 535.5,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SHABU ADULT",
+      "quantity": 1,
+      "unit_price": 535.5,
+      "total_price": 535.5,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000558.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "...\n* 178.500\nYAKI ADULT 535.500\nSHABU ADULT 535.500\nSUBTOTAL 1071.000\nTAX10% 107.100\nSUBTOTAL 1178.100\nCREDITCARD\n1178.100\nQUANTITY 6\nPERSN 6"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "ROGERIO PAIS, LDA",
+    "address": "AVENIDA ALMIRANTE REIS, 9-E, 1150-007 LISBOA",
+    "phone": "218853901",
+    "tax_id": "500544000",
+    "website": "www.ticasgest.pt"
+  },
+  "transaction": {
+    "date": "2019-04-29",
+    "time": "12:37:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 11.5,
+    "tax": 2.65,
+    "tip": 0.0,
+    "total": 14.15,
+    "accounting_category": "Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Tubo pvc 40 (ponta 1mt)",
+      "quantity": 1,
+      "unit_price": 1.8,
+      "total_price": 1.8,
+      "category": "Supplies",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Valvula banheira crient",
+      "quantity": 1,
+      "unit_price": 3.8,
+      "total_price": 3.8,
+      "category": "Supplies",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Curvas PVC 90º - 40",
+      "quantity": 1,
+      "unit_price": 0.55,
+      "total_price": 0.55,
+      "category": "Supplies",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Tubo (flexivel) pvc 40 me",
+      "quantity": 1,
+      "unit_price": 3.8,
+      "total_price": 3.8,
+      "category": "Supplies",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_203831.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROGERIO PAIS, LDA\nFERRAGENS * FERRAMENTAS * MAQUINAS * UTILIDADES\nAVENIDA ALMIRANTE REIS, 9-E, 1150-007 LISBOA\nTel/Fax 218853901 Tel. 966086966\n* Sociedade por quotas * Capital Social\n5.012,92€ REG. CRC. 34862\nNIB: 0033 0000 01280286463\n2019-04-29 FATURA SIMPLIFICADA N:\nOriginal FS 1/1901/3381\n12:37 BALCAO 1\nContribuinte: 510776914\n------------------------------------\nDESCRICAO\n1 Tubo pvc 40 (ponta 1mt) 23% 1,80\n1 Valvula banheira crient 23% 3,80\n1 Curvas PVC 90º- 40 23% 0,55\n1 Tubo (flexivel) pvc 40 me 23% 3,80\n\nTAXA IVA INCID\n23% 2,65 11,50\nTOTAL INCIDENCIAS: 2,65 11,50\nTOTAL:\nEur 14,15\nPago em Numerario\nValor entregue: 14,15\nTroco: 0,00\nImplementado por www.ticasgest.pt\nTpig-Processado por programa\ncertificado n. 217/AT\nOs servicos e/ou bens foram realizados e/ou colo\ncados á disposicao do adquirente nesta data (Art\n. 36 do CIVA, No5 alinea F)\nLicenca: ROGERIO PAIS, LDA\nContribuinte: 500544000"
+  }
+}

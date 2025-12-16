@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Dist. Alimentar Omega, S.A.",
+    "address": "Rua dos Lóios, s/n, Campo Raso, 2710-142 Sintra",
+    "phone": "219243143",
+    "tax_id": "500096955",
+    "website": "http://www.ozdigal.pt"
+  },
+  "transaction": {
+    "date": "2019-10-23",
+    "time": "11:14:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 40.65,
+    "tax": 9.35,
+    "tip": 0.0,
+    "total": 50.0,
+    "accounting_category": "Utilities",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "13 Kg Gas Butano-Recarga",
+      "quantity": 1,
+      "unit_price": 25.0,
+      "total_price": 25.0,
+      "category": "Utilities",
+      "accounting_category": "Utilities",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "13 Kg Gas Butano-G. Cheia",
+      "quantity": 1,
+      "unit_price": 25.0,
+      "total_price": 25.0,
+      "category": "Utilities",
+      "accounting_category": "Utilities",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_215554.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Dist. Alimentar Omega, S.A.\nRua dos Lóios, s/n, Campo Raso\n2710-142 Sintra\nNIF: 500096955\nWebsite: http://www.ozdigal.pt\nTel.: 219243143\nCapital: EUR 6 050 000 Euros\nCRC de Sintra\n\nFatura FT 64P2019/256\nOriginal 2019-10-23 11:14\n\nNIF: 510776914\nNome: FLIKEHOME MEDIACAO IMOBILIARIA, LDA - 1\n0.402021\nMorada: AV. DA LIBERDADE, N. 36, 1. ANDAR B\n1250-145 LISBOA\n\nReferencia Produto\nQtd. x Preco (IVA)\n\n5120000002 25,00\n13 Kg Gas Butano-Recarga\nUN 1965 BUTANO, 2,1, (B/D)\n1 x 25,00 (23%)\n\n512003010000 25,00\n13 Kg Gas Butano-G. Cheia\nUN 1965 BUTANO, 2,1, (B/D)\n1 x 25,00 (23%)\n\nTotal Eur 50,00\nDinheiro Eur 50,00\n\n%IVA Base IVA Total\n23% 40,65 9,35 50,00\n\nReferente a: EC 64P2010 P4"
+  }
+}

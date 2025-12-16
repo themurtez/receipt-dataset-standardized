@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "D'Bolwe",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 39200.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 39200.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "LAPIS SINGAPUR",
+      "quantity": 2,
+      "unit_price": 15000.0,
+      "total_price": 21000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "LEMPER",
+      "quantity": 2,
+      "unit_price": 9000.0,
+      "total_price": 12600.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "AREM - AREM",
+      "quantity": 1,
+      "unit_price": 8000.0,
+      "total_price": 5600.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "MIKA BESAR",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Supplies",
+      "accounting_category": "Non-Food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "PLASTIK SEDANG",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Supplies",
+      "accounting_category": "Non-Food",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 60800.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000407.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "D'Bolwe\n2X    @15000\nLAPIS SINGAPUR    30,000\nDISC ITEM   -30.000%\nAMOUNT  -9,000\n2X  @9000\nLEMPER  18,000\nDISC ITEM   -30.000%\nAMOUNT  -5,400\nAREM - AREM    8,000\nDISC ITEM   -30.000%\nAMOUNT  -2,400\nMIKA BESAR   0\nPLASTIK SEDANG   0\nSUBTOTAL   39,200\nTOTAL   39,200\nCASH   100,000\nCHANGE   60,800\n"
+  }
+}

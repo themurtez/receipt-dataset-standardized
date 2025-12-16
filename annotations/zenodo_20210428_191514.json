@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "GALPESET, SA",
+    "address": "Rua Tomas Fonseca",
+    "phone": "212351383",
+    "tax_id": "503043745",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-01",
+    "time": "16:29:00",
+    "currency": "EUR",
+    "payment_method": "Cartão Bancário",
+    "subtotal": 15.28,
+    "tax": 2.86,
+    "tip": 0.0,
+    "total": 15.28,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Gasolina Evologic 95",
+      "quantity": 9.68,
+      "unit_price": 1.579,
+      "total_price": 15.28,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_191514.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "galp\nA. S. PALMELA-11554\nGALPESET, SA\nRUA TOMAS FONSECA\nNIF:503043745\nTEL:212351383\nData: 01/03/2019 16:29\nOPT Ncr : 5/ Turno: 524\nFatura/Recibo R: 1155475201911Ave/314\nwww Ref: 005657\nBomba : 5\nGASOLINA EVOLOGIC 95\n1.579 EUR/L\n9.68 L\nEUR 15.28\nTotal\nCartão Bancário\nEUR 15.28\nIVA 23.00%\nEUR 2.86\nA. S. PALMELA\nPOSICAO 11554\nKM 31.2 - PALMELA\nDoc.list. TPA: 0054679\n2019/03/01 16:47:47\nPer: 093\nMILLENNIUM BCP\nVISA ELECTRON\nAUTORIZAÇÃO DE COMPRA\n00000046118\n15.28€\nVISA ELEC PP N\nID.Estab.:0000081348\nAUT:171842\nREDUNICRE\nINOVACAO E CONFIANCA\nPROCESSADO POR SIBS\nDados do cliente\nNIF:510776914\nMATRICULA:20-ID-84\nPortugal\ng+UO – Processado por Programa\nCertificado n.o 1396/AT\nOBRIGADO\nBOA VIAGEM"
+  }
+}

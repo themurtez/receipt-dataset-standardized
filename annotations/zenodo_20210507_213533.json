@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "LIDL & Cia",
+    "address": "Rua Pé de Mouro, 18, Linho, 2714-510 Sintra",
+    "phone": "",
+    "tax_id": "503 340 855",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-01",
+    "time": "18:16:00",
+    "currency": "EUR",
+    "payment_method": "DINHEIRO",
+    "subtotal": 14.81,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 14.81,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "DOVE SABONETE 2UN",
+      "quantity": 1,
+      "unit_price": 6.6,
+      "total_price": 6.6,
+      "category": "Personal Care",
+      "accounting_category": "Health & Beauty",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHAMPO PROF. CLASS.QUERATINA",
+      "quantity": 1,
+      "unit_price": 2.29,
+      "total_price": 2.29,
+      "category": "Personal Care",
+      "accounting_category": "Health & Beauty",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "FAIRY LIMAO 520ML",
+      "quantity": 1,
+      "unit_price": 1.79,
+      "total_price": 1.79,
+      "category": "Household",
+      "accounting_category": "Cleaning Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SACO LIMAO 30L C/ATILHO",
+      "quantity": 1,
+      "unit_price": 1.49,
+      "total_price": 1.49,
+      "category": "Household",
+      "accounting_category": "Cleaning Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CREME DE DUCHE",
+      "quantity": 1,
+      "unit_price": 0.89,
+      "total_price": 0.89,
+      "category": "Personal Care",
+      "accounting_category": "Health & Beauty",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ESFREGAO SALVA UNHAS",
+      "quantity": 1,
+      "unit_price": 1.49,
+      "total_price": 1.49,
+      "category": "Household",
+      "accounting_category": "Cleaning Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 5.19
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_213533.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "LIDL & Cia...\nTotal...\n14,81..."
+  }
+}

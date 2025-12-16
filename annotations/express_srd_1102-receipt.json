@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "OM Indian Food",
+    "address": "204 Spring St, New York, NY 10012",
+    "phone": "(646) 756-4000",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-04-15",
+    "time": "12:03:14",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 29.85,
+    "tax": 1.32,
+    "tip": 0.0,
+    "total": 16.24,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Vegetable Biryani",
+      "quantity": 1,
+      "unit_price": 12.95,
+      "total_price": 12.95,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Malai Kofta",
+      "quantity": 1,
+      "unit_price": 12.95,
+      "total_price": 12.95,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Onion Naan",
+      "quantity": 1,
+      "unit_price": 3.95,
+      "total_price": 3.95,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1102-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "OM INDIAN FOOD\n204 Spring St\nNew York, NY 10012\n(646) 756-4000\n(646) 657-0514 (Fax)\n\nTABLE T1\nORDER #2\n2 Guests\n\nInvoice #2143\t\t4/15/16 12:03:14 PM\nManoj\n\n1 Vegetable Biryani\t$12.95\n1 Malai Kofta\t$12.95\n1 Onion Naan\t$3.95\n\nSUBTOTAL :\t$29.85\nLUNCH DISCOUNT 50% OFF : -$14.93\nTAX :\t$1.32\nTOTAL :\t$16.24\n\nYou have saved : $14.93"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "SWC Enterprise SDN BHD",
+    "address": "28-G, Ground Floor, Jalan Dinar A U3/A, Tmn Subang Perdana, 40150 Shah Alam, Selangor",
+    "phone": "",
+    "tax_id": "002017803384",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-06",
+    "time": "20:05:56",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 4.0,
+    "tax": 0.22,
+    "tip": 0.0,
+    "total": 4.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TM621 1.5\"B/CAT NYLON",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "OLS 23 B621-1",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005749904.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SWC ENTERPRISE SDN BHD\n(1125830-V)\n28-G, Ground Floor,\nJalan Dinar A U3/A,\nTmn Subang Perdana, 40150\nShah Alam, Selangor.\nTAX INVOICE\n(GST ID No. : 002017803384)\n06/03/2018 Cashier: 123\n20:05:56 No: 0100122617\nItem/Desc.\nTM621 1.5\"B/CAT NYLON\nOLS 23 B621-1\nOPP TAPE 1.5\"\nOPP TAPE 1.5\"\nTotal Qty :\nTOTAL AMOUNT\nCASH\nGST @0% Included In Total\nThank You ! Please Come Again !\nGoods Sold Only Exchangeable\nWithin 3 Days !\nbuy tape\n"
+  }
+}

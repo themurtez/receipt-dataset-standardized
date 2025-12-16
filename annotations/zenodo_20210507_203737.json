@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Flying Tiger Copenhagen",
+    "address": "Centro Comercial Colombo 1500-392 Lisboa",
+    "phone": "",
+    "tax_id": "15071694",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-27",
+    "time": "20:57:00",
+    "currency": "EUR",
+    "payment_method": "DINHEIRO",
+    "subtotal": 4.88,
+    "tax": 1.12,
+    "tip": 0.0,
+    "total": 6.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "FRAME PHOTO PLA",
+      "quantity": 6,
+      "unit_price": 1.0,
+      "total_price": 6.0,
+      "category": "Home Decor",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 14.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_203737.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "flying tiger copenhagen\nTIGER PORTUGAL SA.\nCentro Comercial Colombo\n1500-392 Lisboa\nFatura/Recibo\n...\nTotal 6,00 EUR\nForma Pag: DINHEIRO\n...\nData Carga: 27-11-2017\nHora Carga: 20:57"
+  }
+}

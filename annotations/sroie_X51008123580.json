@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (M) SDN BHD",
+    "address": "LOT 1651-A & 1651-B, JALAN KP 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000306020352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2013-06-17",
+    "time": "12:56:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 8.11,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 8.1,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "WASH BALL-1S",
+      "quantity": 2,
+      "unit_price": 1.13,
+      "total_price": 2.26,
+      "category": "Household",
+      "accounting_category": "Cleaning Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "SPONGE KOREA-2S",
+      "quantity": 2,
+      "unit_price": 2.83,
+      "total_price": 5.66,
+      "category": "Household",
+      "accounting_category": "Cleaning Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "PLASTIC BAGS",
+      "quantity": 1,
+      "unit_price": 0.19,
+      "total_price": 0.19,
+      "category": "Household",
+      "accounting_category": "Bags & Wraps",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": -0.01,
+    "change_due": 41.9
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008123580.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. D.I.Y. (M) SDN BHD\nCO-REG: 860671-D\nLOT 1651-A & 1651-B, JALAN KP 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No.: 000306020352)\n(TESCO EXTRA ARA DAMANSARA)\n-TAX INVOICE-\n\nWASH BALL-1S *S\nGA01 - 12/480\n9064074\n2 X 1.13 2.26\n\nSPONGE KOREA-2S *S\nGB12 - 12/312\n9064017\n2 X 2.83 5.66\n\nPLASTIC BAGS *S\n99999\n1 X 0.19 0.19\n\nItem(s) : 3 Qty(s) : 5\n\nTOTAL INCL. GST RM 8.11\nROUNDING ADJUSTMENT RM -0.01\nTOTAL ROUNDED RM 8.10\nCASH RM 50.00\nCHANGE RM 41.90\n\nGST Summary Amt(RM) Tax(RM)\nGST SR 0% 8.11 0.00\n\n17-06-13 12:56 SH01 ZJ42 T1 R000243600\nOPERATOR: TADC - ALIM ABDUL\n\nEXCHANGE ARE ALLOWED WITHIN\n7 DAYS WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

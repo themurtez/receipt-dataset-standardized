@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (KUCHAI) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000473792512",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-25",
+    "time": "11:25:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 17.45,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 17.45,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CYLINDRICAL LOCK 3871SS",
+      "quantity": 1,
+      "unit_price": 17.45,
+      "total_price": 17.45,
+      "category": "Office Supplies",
+      "accounting_category": "Building Materials",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 32.55
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008114284.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. D.I.Y. (KUCHAI) SDN BHD\n(CO Reg : 750441-W)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000473792512)\n(KEPONG)\n- TAX INVOICE -\n------------------------------------\nCYLINDRICAL LOCK 3871SS *S\nGA06-07 - 6/24\n6942131718178 1 X 17.45 17.45\nItem(s) : 1 Qty(s) : 1\n------------------------------------\nTotal Incl. GST RM 17.45\nCASH RM 50.00\nCHANGE RM 32.55\n\nGST Summary Amt(RM) Tax(RM)\nGST SR@0% 17.45 0.00\n*------------------------------------------*\n25-06-18 11:25 SHO1 BOO3 T1 RO00637565\nOPERATOR KPOT - SHAHRUL NIZAM\n\nEXCHANGE ARE ALLOWED WITHIN\n7 DAYS WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

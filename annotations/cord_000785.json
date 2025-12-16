@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 85500,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 113886,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Salmon Pesto",
+      "quantity": 1,
+      "unit_price": 85500,
+      "total_price": 85500,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Discount",
+      "quantity": 1,
+      "unit_price": -85500,
+      "total_price": -85500,
+      "category": "Discount",
+      "accounting_category": "Discount",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000785.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 SALMON PESTO  85,500\n1 SALMON PESTO  85,500\nDisc -100%(ITM06) -85,500\nSUBTTL  85,500\nSVC CHG 6% 10,260\nPB1 10% 18,126\nTOTAL 113,886"
+  }
+}

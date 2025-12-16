@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Gardenia Bakeries (KL) Sdn Bhd",
+    "address": "Lot 3, Jalan Pelabur 23/1, 40300 Shah Alam, Selangor",
+    "phone": "03-55423228",
+    "tax_id": "000831399040",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-09-06",
+    "time": "11:00:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 61.16,
+    "tax": 1.66,
+    "tip": 0.0,
+    "total": 62.82,
+    "accounting_category": "sales",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "O.C. White",
+      "quantity": 5,
+      "unit_price": 2.13,
+      "total_price": 10.65,
+      "category": "grocery",
+      "accounting_category": "cost of goods sold",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Wholemeal",
+      "quantity": 5,
+      "unit_price": 2.78,
+      "total_price": 13.9,
+      "category": "grocery",
+      "accounting_category": "cost of goods sold",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "O.C. Jumbo",
+      "quantity": 3,
+      "unit_price": 2.97,
+      "total_price": 8.91,
+      "category": "grocery",
+      "accounting_category": "cost of goods sold",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "CR-ChoClt",
+      "quantity": 1,
+      "unit_price": 0.72,
+      "total_price": 0.72,
+      "category": "grocery",
+      "accounting_category": "cost of goods sold",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Twig-Choc",
+      "quantity": 1,
+      "unit_price": 1.38,
+      "total_price": 1.38,
+      "category": "grocery",
+      "accounting_category": "cost of goods sold",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 15,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006556865.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GARDENIA BAKERIES (KL) SDN BHD (139386 X)\nLot 3, Jalan Pelabur 23/1, 40300 Shah Alam, Selangor\nTel: 03-55423228 Fax:03-55423213\nGST ID: 000831399040\nTAX INVOICE / ADJUSTMENT NOTE\nCash Inv No.: 7906F716\nV = 0514 Date: 06/09/2017\nMAKASSAR FRESH MARKET SDN BHD\nGROUND FLOOR, NO. 4 & 6,\nJALAN SS 15/46,\n47500 SUBANG JAYA, SELANGOR\nVE 05: Ridzuan (11900)\nDD: 06/09/2017 11:00\nDescription U.P Iss Exc O Sale Amt(RM)\nO.C. WHITE 2.13 5 0 5 10.65\nWHOLEMEAL 2.78 5 0 5 13.90\nO.C JUMBO 2.97 3 0 3 8.91\nTotal 0% supplies: 33.46\nCR-CHOCLT 0.72 0 0 20 0.72\nTWIG-CHOC 1.38 10 0 0 1.38\nTotal 6% supplies (excl. GST): 27.70\nGST: 1.66\nTotal 6% supplies (Inc. GST): 29.36\nTotal 0% supplies: 33.46\nTotal Payable: 62.82\nCUSTOMER'S COPY"
+  }
+}

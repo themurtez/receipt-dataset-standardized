@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "VND",
+    "payment_method": "",
+    "subtotal": 76364.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 88620.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SINGLE Cone - Strawberry Cheese",
+      "quantity": 2,
+      "unit_price": 38182.0,
+      "total_price": 76364.0,
+      "category": "Dessert",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000282.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "2 SINGLE Cone 76,364\nStrawberry Cheese\nRun Raisin\nSUBTOTAL 76,364\nSVC CHG = 4,200\nPBI = 8,056\nTOTAL = 88,620"
+  }
+}

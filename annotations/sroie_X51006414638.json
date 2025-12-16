@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "PASAR MINI JIN SENG",
+    "address": "379, JALAN PERMAS SATU, BANDAR BARU PERMAS JAYA, 81750 PLENTONG, JOHOR.",
+    "phone": "07-3874904",
+    "tax_id": "000150511616",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-15",
+    "time": "08:53:00",
+    "currency": "RM",
+    "payment_method": "CASH",
+    "subtotal": 44.9,
+    "tax": 0.38,
+    "tip": 0.0,
+    "total": 44.9,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SEAFOOD",
+      "quantity": 1,
+      "unit_price": 23.4,
+      "total_price": 23.4,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "KENKO BEBOLA IKAN 200G",
+      "quantity": 1,
+      "unit_price": 2.4,
+      "total_price": 2.4,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "SILKEN TOFU 300G",
+      "quantity": 1,
+      "unit_price": 1.1,
+      "total_price": 1.1,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "VEGETABLES",
+      "quantity": 5,
+      "unit_price": 2.16,
+      "total_price": 10.8,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "MAS GOOD MELAKA NOODLES",
+      "quantity": 1,
+      "unit_price": 3.2,
+      "total_price": 3.2,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 9,
+    "rounding": 0.0,
+    "change_due": 55.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006414638.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PASAR MINI JIN SENG\n379, JALAN PERMAS SATU,\nBANDAR BARU PERMAS JAYA,\n81750 PLENTONG, JOHOR.\nTEL : 07-3874904\n(CO. NO. JM0195368-D)\n(GST NO. 000150511616)\n-----------------------------------\nTAXINV:003-1565495 15/04/18\nCashier : CASHIER3\n=============================\n1 SEAFOOD 23.40 ZRL\n1 KENKO BEBOLA IKAN 200G 2.40 SR\n1 SILKEN TOFU 300G 1.10 SR\n1 VEGETABLES 1.80 ZRL\n1 VEGETABLES 5.50 ZRL\n1 VEGETABLES 1.30 ZRL\n1 VEGETABLES 2.20 ZRL\n1 MAS GOOD MELAKA NOODLES 3.20 SR\n1 VEGETABLES 4.00 ZRL\nITEM COUNT 9\nSUBTOTAL: 44.90\nTL:RM 44.90\n6% GST 0.38\n-----------------------------------\nPayment Details\nCASH 100.00\nCASH CHANGE 55.10\n15/04/18 08:53 #003-1565495#\nCASHIER3\nGST Summary Amount(RM) Tax(RM)\nSR (@6%) 6.70 0.38\nZRL (@0%) 38.20 0.00\n-----------------------------------\nThank you\nPlease come again\n货物出门，恕不退还\nGOODS SOLD ARE NOT REFUNDABLE\n"
+  }
+}

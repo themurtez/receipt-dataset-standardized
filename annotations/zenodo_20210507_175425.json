@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Área Infinitas",
+    "address": "Amoreiras Shopping Center Loja 2159, Lisboa",
+    "phone": "213715596",
+    "tax_id": "502558097",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2023-09-29",
+    "time": "17:47:00",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 17.46,
+    "tax": 4.02,
+    "tip": 0.0,
+    "total": 21.5,
+    "accounting_category": "Retail",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "COTON ebc cru cil.30cm",
+      "quantity": 3,
+      "unit_price": 5.83,
+      "total_price": 17.46,
+      "category": "Home Goods",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": -28.5
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_175425.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Área Infinitas - Design de Interiores, S.A.\nAmoreiras Shopping Center Loja 2159\nTel: 213715596\nFax: 213715599\nNome: Filomena Dias\nMorada: Rua Saraiva de Carvalho 2 1170-001 Lisboa\nContribuinte: 130778031 Cliente: 110064890\n29-09-2023 17:47 Fatura\nN°: 011136/36435 Caixa: 2\nArtigo Quant EUR\nCOTON ebc cru cil.30cm\n3 21,50 \n13315 3\nIVA Incluído\nS. loja 23% sobre 17,46 4,02\nTotal IVA 4,02\nMontante Recebido 21,50\nNumerario\nNumerario (Troco) -28,50\nCaso pretenda alterar os dados de faturaçao,\ndevera enviar o original do documento, indicando\nos elementos a alterar, no prazo de 5 dias para:\nÁrea Infinitas\nA/C Depto Facturacao\nSintra Business Park, Edificio 7\n2710 - 089 Sintra\nCRP.SOC: 517.500 EUROS N.C: 502558097\nC.R.C LISBOA N. 502558097\nSIRPEPE: P1001354 SIRRPEA: P100274\n"
+  }
+}

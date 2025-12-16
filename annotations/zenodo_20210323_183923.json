@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "R Actor António Silva, N7, 1649-033 Lisboa",
+    "phone": "289320071",
+    "tax_id": "500822993",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-09",
+    "time": "15:42:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 3.88,
+    "tax": 0.53,
+    "tip": 0.0,
+    "total": 3.88,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Sandes de Presunto / Queijo Fatiado",
+      "quantity": 1,
+      "unit_price": 1.99,
+      "total_price": 1.99,
+      "category": "Food",
+      "accounting_category": "Take-Away",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Coxinha de Frango",
+      "quantity": 1,
+      "unit_price": 0.69,
+      "total_price": 0.69,
+      "category": "Food",
+      "accounting_category": "Take-Away",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Laranja 330 ml",
+      "quantity": 1,
+      "unit_price": 1.2,
+      "total_price": 1.2,
+      "category": "Beverage",
+      "accounting_category": "Padaria/Pastelaria",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 6.12
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_183923.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "pingo doce\nbom para si\n\nQuarteira -Morsadinho\nTel: 289320071\nPingo Doce Distribuição Alimentar, S.A.\nSede: R Actor António Silva, N7, 1649-033 Lisboa\nRegisto C.R.C. Lisboa-Matrícula/NIPC: 500822993\nANREEE: PT001730 V. Social: 33,808.115 EUR\n\nArtigos\n\nTAKE-AWAY\nD 13% SANDES DE PRES/QJ.F\n1,000 X 1,99 1,99\nD 13% COXINHA DE FRANGO\nPADARIA/PASTELARIA\nE 23% B! LARANJA 330 ML\n\nTOTAL A PAGAR 3,88\nPagamentos\n\nTOTAL PAGO 10,00\nTROCO\nEURO 6,12\n\nResumo IVA\n\nTaxa Valor s/IVA Valor IVA Valor c/IVA\nD 13% 2,37 0,31 2,68\nE 23% 0,98 0,22 1,20\n\nAtendido por: Cafe&Companhia 1\n250180 2019-03-09 15:42 0540 0055 0365\n\nProcessado por programa certificado 369/AT\nFatura Simplificada FS 0365055191010620/013614\n1ª Via Original Data de emissão: 09-03-2019\nN. Contribuinte: 514407395\n\nApócio ao Cliente\n808 20 45 45/210 11 44 11 (24 horas)\n"
+  }
+}

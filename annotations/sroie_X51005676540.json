@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "SYARIKAT PERNIAGAAN GIN KEE",
+    "address": "NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR",
+    "phone": "03-40210276",
+    "tax_id": "000750673920",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-11",
+    "time": "11:42:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 109.7,
+    "tax": 6.58,
+    "tip": 0.0,
+    "total": 116.28,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "WALL SCRAPER 3\"",
+      "quantity": 1,
+      "unit_price": 4.45,
+      "total_price": 4.45,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "4.5KG RENDEROC PLUG",
+      "quantity": 2,
+      "unit_price": 50.88,
+      "total_price": 101.76,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "5\" SCRAPER (ADAMARK)",
+      "quantity": 1,
+      "unit_price": 10.07,
+      "total_price": 10.07,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005676540.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS,\nSETAPAK,\n53200, KUALA LUMPUR.\nTEL : 03-40210276\nGST ID : 000750673920\nSIMPLIFIED TAX INVOICE\nCASH\nDoc No. : CS00012664 Date: 11/01/2018\nCashier : USER Time: 11:42:00\nSalesperson : Ref. :\nItem Qty S/Price Amount Tax\n1627 1 4.45 4.45 SR\nWALL SCRAPER 3\"\n2167 2 50.88 101.76 SR\n4.5KG RENDEROC PLUG\n1735 1 10.07 10.07 SR\n5\" SCRAPER (ADAMARK)\nTotal Qty: 4 116.28\nTotal Sales (Excluding GST) : 109.70\nDiscount : 0.00\nTotal GST : 6.58\nRounding : 0.00\nTotal Sales (Inclusive of GST) : 116.28\nCASH : 116.28\nChange : 0.00\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR 6 109.70 6.58\nTotal : 109.70 6.58\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU.\n"
+  }
+}

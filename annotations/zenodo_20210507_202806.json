@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Worten",
+    "address": "8800-318 Tavira",
+    "phone": "808 100 007",
+    "tax_id": "",
+    "website": "www.worten.pt"
+  },
+  "transaction": {
+    "date": "2017-10-05",
+    "time": "16:44:00",
+    "currency": "EUR",
+    "payment_method": "Cartao Credito",
+    "subtotal": 39.98,
+    "tax": 7.48,
+    "tip": 0.0,
+    "total": 39.98,
+    "accounting_category": "Electronics",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TRISTAR CH (8713016009562 MAQ C/MOE FILT)",
+      "quantity": 2,
+      "unit_price": 19.99,
+      "total_price": 39.98,
+      "category": "Electronics",
+      "accounting_category": "Electronics",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_202806.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "WORTEN W Shopping Plaza Util Home - Equipamentos do Lar SA \nServiço Apoio ao Cliente 808 100 007 C. Tavira - A Plaza E - Estrada dos Rios 8800-341 Tavira \n\nRemissão Cr. Prd. nº/Numb. Prodl. 86 ***** 511/ 169 694/637 \n\nP150530530 \n\nNº Cliente: 000 009 EUR SIMPLES: P00027 \n\nNPAI: 001 011/5 \n\nNº Fatura: 000 12345 05/10/2017 16:44 \n\nCliente: P150767194 \n\nMorada: LX \n\nLocal: LX \n\nC. Postal: \n\nDESCRICAO VALOR \n\nEletrodomésticos: \n( C) 8713016009562 MAQ C/MOE FILT/\nTRISTAR CH;\n2 X 19,99 39,98 \n\nTOTAL A PAGAR 39,98 \n\nCartao Credito 39,98 \n\nTROCO 0,00 \n\n(23,00% 32,50 7,48 39,98 \n( Continente: 80:ZR) \n\nEmissao Factura: 0012234567/005 \n\nLocal Carga: Morada do Loja \nLocal descarga: Morada do cliente \nData: 05/10/2017 Hora: 16:44 \n\nWORTEN \n\nTAVIRA \n8800-318 TAVIRA \n\nTerminal Pagamento Automático: 00494831 \n2017/05/16 46:46 Per005 10072 Msg350 \nMILLENIUM BCP \n\nCARTAO: **** 1367/27 \n\nMULTIBANCO \n\n5014942F20 \n\nCOMPRA 39,98 MB \n\nATS: 15547 PROCESSADO POR SIBS \n\nConsulte as condições da Política de Satisfação/ Devolução, afixada na Loja \nTalão indispensável para Troca no Prazo de 15 dias, nos termos previstos \nNão são abrangidos pela política de satisfação/devolução os artigos com \nativação em caixa \n\nPara mais informações consulte \n\nwww .worten.pt"
+  }
+}

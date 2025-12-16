@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Gardenia Bakeries (KL) Sdn Bhd",
+    "address": "Lot 3, Jalan Pelabur 23/1, 40300 Shah Alam, Selangor",
+    "phone": "03-55423228",
+    "tax_id": "000381399040",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-10-23",
+    "time": "11:52:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 38.56,
+    "tax": 1.31,
+    "tip": 0.0,
+    "total": 39.87,
+    "accounting_category": "Food",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "O.C. White",
+      "quantity": 1,
+      "unit_price": 2.13,
+      "total_price": 2.13,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Wholenel",
+      "quantity": 2,
+      "unit_price": 2.78,
+      "total_price": 5.56,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Bonz Saver",
+      "quantity": 3,
+      "unit_price": 2.97,
+      "total_price": 8.91,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CR-Choct",
+      "quantity": 20,
+      "unit_price": 0.72,
+      "total_price": 14.4,
+      "category": "Confectionery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Bun-SBILTS",
+      "quantity": 9,
+      "unit_price": 0.84,
+      "total_price": 7.56,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006557168.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GARDENIA BAKERIES (KL) SDN BHD (1.39386 X)\nLot 3, Jalan Pelabur 23/1,\n40300 Shah Alam, Selangor.\nTel: 03-55423228 Fax:03-55423213\nGST ID: 000381399040\nTAX INVOICE / ADJUSTMENT NOTE\nCash Inv No.: 7023F713\nV:0514 Date: 23/10/2017\nMAKASSAR FRESH MARKET SDN BHD\nGROUND FLOOR, NO. 4 & 6,\nJALAN SS 15/4B,\n47500 SUBANG JAYA, SELANGOR\nVE:05: Ridzuan (11900)\nDD: 23/10/2017 11:52\nDescription U.P Iss Exc D Sale Amt(RM)\nO.C. WHITE 2.13 2 1 0 1 2.13\nWHOLENAL 2.78 2 0 1 2 5.56\nBONZ SAVER 2.97 3 0 0 3 8.91\nTotal 0% supplies: 16.60\nCR-CHOCLT 0.72 20 0 0 20 14.40\nBUN-SBILTS 0.84 10 0 0 9 7.56\nTotal 6% supplies (excl. GST): 21.96\nGST: 1.31\nTotal 6% supplies (Inc. GST): 23.27\nTotal 0% supplies: 16.60\nTotal Payable: 39.87\nE.&O.E.\nReceived above goods in good order condition.\nThe recipient of Gardenia's products is\nrequired to make necessary adjustments to its\ninput tax claims, on the basic of the\nadjustments shown in this Tax Invoice /\nAdjustment Note\nCUSTOMER'S COPY"
+  }
+}

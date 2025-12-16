@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Mezcal Mexican Restaurant & Bar",
+    "address": "25 West San Fernando St. San Jose, CA 95113",
+    "phone": "(408) 283-9595",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-29",
+    "time": "13:17:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 50.05,
+    "tax": 5.46,
+    "tip": 9.01,
+    "total": 64.52,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Coffee",
+      "quantity": 1,
+      "unit_price": 3.25,
+      "total_price": 3.25,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Enmoladas with Meat",
+      "quantity": 1,
+      "unit_price": 14.95,
+      "total_price": 14.95,
+      "category": "Main Course",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chicken Tenders",
+      "quantity": 1,
+      "unit_price": 5.95,
+      "total_price": 5.95,
+      "category": "Appetizer",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Flautas Chicken",
+      "quantity": 1,
+      "unit_price": 9.95,
+      "total_price": 9.95,
+      "category": "Main Course",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Coloradito",
+      "quantity": 1,
+      "unit_price": 15.95,
+      "total_price": 15.95,
+      "category": "Main Course",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1099-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Mezcal\nMexican Restaurant & Bar\n25 West San Fernando St.\nSan Jose, CA 95113\n(408) 283-9595\n\nServer: Pablo 12/29/2017\nTable 40/1 1:17 PM\nGuests: 3 30001\nReprint #: 1\n\nCoffee 3.25\nEnmoladas with Meat 14.95\npollo\nChicken Tenders 5.95\nFlautas Chicken 9.95\nColoradito 15.95\n\nSubtotal 50.05\nTax 5.46\n\nTotal 55.51\nGratuity 18.00% 9.01\nTotal 64.52\n\nBalance Due 64.52\n\n!! Become a friend of us on FACEBOOK to receive news of\nevents & special offers !!\n!! THANK YOU FOR COMING !!"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "merchant": {
+    "name": "STK Miami Beach",
+    "address": "Collins Ave, Miami, FL 33140",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-08-25",
+    "time": "20:30:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 142.0,
+    "tax": 2.84,
+    "tip": 0.0,
+    "total": 154.78,
+    "accounting_category": "Dining",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Avion Silver RX",
+      "quantity": 1,
+      "unit_price": 16.0,
+      "total_price": 16.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "margarita rx",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Staub",
+      "quantity": 1,
+      "unit_price": 15.0,
+      "total_price": 15.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Avion Silver RX",
+      "quantity": 1,
+      "unit_price": 16.0,
+      "total_price": 16.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "margarita rx",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "DA Delmonico 14",
+      "quantity": 1,
+      "unit_price": 62.0,
+      "total_price": 62.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Truffle Fries",
+      "quantity": 1,
+      "unit_price": 13.0,
+      "total_price": 13.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Mac/Cheese",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Asparagus",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "BAKED COOKIE",
+      "quantity": 1,
+      "unit_price": 16.0,
+      "total_price": 16.0,
+      "category": "Dessert",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 10,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1198-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "STK Miami Beach\nCollins Ave\nMiami, FL 33140\n100 SERVER\n103/1 1959 GST\n2\n25AUG'17 8:03PM\nDining\n1 Avion Silver RX 16.00\nmargarita rx 0.00\n1 Staub 15.00\n1 Avion Silver RX 16.00\nmargarita rx 0.00\n1 DA Delmonico 14 62.00\n1 Truffle Fries 13.00\n1 Mac/Cheese 12.00\n1 Asparagus 12.00\n1 BAKED COOKIE 16.00\nSUBTOTAL 142.00\nAdd-On Tax Food 2.72\nAdd-On Tax Bev 0.12\nResort Tax 2.84\nTOTAL DUE $154.78\nFor your convenience\nsuggested gratuities\nare shown below\n18% gratuity $25.56\n20% gratuity $28.40\n22% gratuity $31.24"
+  }
+}

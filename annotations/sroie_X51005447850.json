@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "PASARAYA BORONG PINTAR SDN BHD",
+    "address": "NO 19-G&19-1&19-2 JALAN TASIK UTAMA 4, MEDAN NIAGA TASIK DAMAI",
+    "phone": "016-5498845",
+    "tax_id": "124525-H",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-04",
+    "time": "15:41:52",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 3.2,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 3.2,
+    "accounting_category": "Beverages",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "POKKA COFFEE VANILLA MILK COFFEE",
+      "quantity": 1,
+      "unit_price": 3.2,
+      "total_price": 3.2,
+      "category": "Beverages",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 2.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005447850.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PASARAYA BORONG PINTAR\nSDN BHD\nBR No: (124525-H)\nNO 19-G&19-1&19-2 JALAN TASIK UTAMA 4,\nMEDAN NIAGA TASIK DAMAI\n016-5498845,\nGST No:\n04/03/2018 15:41:52\nTAX INVOICE\nTRN: CR0007636\nCOUNTER 4 CASHIER: 11\nQTY UOM UNITAmt Exc. Amt Inc. GST\nPrice Tax Tax Code\nPOKKA COFFEE VANILLA MILK COFFEE\n1 WALK 3.20 3.20 3.20 ZRL\n*Total Qty: 1.00 3.20\nTotal Includes GST 0% 3.20\nCustomer's Payment\nCash 5.20\nChange 2.00\nGST Summary Amount (RM) Tax (RM)\nZRL = 0 % 3.20 0.00\n*Goods sold are not returnable\nThank you for shopping at PASARAYA\nBORONG PINTAR SDN BHD"
+  }
+}

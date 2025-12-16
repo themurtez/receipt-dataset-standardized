@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 60000.0,
+    "tax": 6000.0,
+    "tip": 0.0,
+    "total": 66000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SATE PADANG",
+      "quantity": 1,
+      "unit_price": 60000.0,
+      "total_price": 60000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 34000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000136.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SATE PADANG\n1.00xITEMS\nSUBTOTAL 60,000\nTAX 10% 6,000\nTOTAL 66,000\nCASH 100,000\nCHANGE 34,000"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "99 Speed Mart S/B",
+    "address": "Lot P.T. 2811, Jalan Angsa, Taman Berkeley, 41150 Klang, Selangor",
+    "phone": "",
+    "tax_id": "000181747712",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-08-14",
+    "time": "19:36:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 3.11,
+    "tax": 0.19,
+    "tip": 0.0,
+    "total": 3.3,
+    "accounting_category": "General Merchandise",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "B414 160PCS CW2301 F5 PVC E",
+      "quantity": 1,
+      "unit_price": 3.3,
+      "total_price": 3.3,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 46.7
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006857137.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "99 SPEED MART S/B (519537-X)\nLOT P.T. 2811, JALAN ANGSA,\nTAMAN BERKELEY\n41150 KLANG, SELANGOR\n1055-UPTOWN\nGST ID, NO : 000181747712\n\nINVOICE NO : 18124/103/10056\n07:36PM 566082 14-08-17\nB414 160PCS CW2301 F5 PVC E  RM3.30\nTotal Sales (Inclusive GST) RM 3.30\nCASH RM 50.00\nCHANGE RM 46.70\nGST Summary Amount(RM) Tax(RM)\n= 6% 3.11 .19\n\nThank You. Please come again\nKeep the invoice for applicable returns"
+  }
+}

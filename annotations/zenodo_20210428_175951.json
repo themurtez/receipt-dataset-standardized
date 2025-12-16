@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "BCM Bricolage S.A.",
+    "address": "Leroy Merlin, Alfragide",
+    "phone": "214 252 200",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-19",
+    "time": "14:31:32",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 230.77,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 230.77,
+    "accounting_category": "Home Improvement",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Compra",
+      "quantity": 1,
+      "unit_price": 230.77,
+      "total_price": 230.77,
+      "category": "Home Improvement",
+      "accounting_category": "Home Improvement",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_175951.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BCM - BRICOLAGE S.A.,\nLEROY MERLIN\nALFRAGIDE\nTEL: 214 252 200\n***************\nABERTO DE SEGUNDA A DOMINGO\nDAS 08H AS 22H\n***************\nBCM BRICOLAGE SA\nCARNAXIDE\nTerminal Pagamento Automático: 00513632\n2019-03-19 14:31:32 Per099 Tri33 Msg338\nMILLENNIUM BCP\nMANUEL ARROUE/JOSÉ\nCARTÃO: ***8902/24\nMULTIBANCO\n501649FF20\nCOMPRA 230,77U MB\nAUT:899193\nCÓPIA CLIENTE\nPROCESSADO POR SIBS"
+  }
+}

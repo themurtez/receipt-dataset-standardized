@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Paulo E. P. Soares",
+    "address": "Av. de Ceuta",
+    "phone": "289398185",
+    "tax_id": "13247318",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-10-30",
+    "time": "14:45:13",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 48.78,
+    "tax": 11.22,
+    "tip": 0.0,
+    "total": 60.0,
+    "accounting_category": "fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GASOLEO BOMA NR: 4",
+      "quantity": 1,
+      "unit_price": 44.64,
+      "total_price": 60.0,
+      "category": "fuel",
+      "accounting_category": "fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_202932.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Paulo E. P. Soares\nAv. de Ceuta\nTEL. 289398185 FAX. 289329393 NIF: 13247318\nPOS Nr. 2 Opr: 4\nDate: 2017-10-30 14:45:13 Ref. nr: 2744\nFatura-Recibo FR 2732_006/003163\n********** PRE PAGO ***********\nGASOLEO BOMA NR: 4 60,00 4\n44,64 1 1,344 €/1\nIVA: 23.00% 11,22 €\nTOTAL\nNUMERARIO 60,00 €\nIVA 23,00% 11,22 48,78 60,00\nTnvo-Processado por Programa Certificado no. 0177/AT\nNome\nFLIKEHOME\nMorada\nLISBOA\nNIF: PT510776914\nVálido como Recibo IVA de CAIXA quando aplicável"
+  }
+}

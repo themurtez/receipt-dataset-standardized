@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "KRW",
+    "payment_method": "Card",
+    "subtotal": 80500.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 80500.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Twist Donut",
+      "quantity": 2,
+      "unit_price": 9000.0,
+      "total_price": 18000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Brownie",
+      "quantity": 1,
+      "unit_price": 21000.0,
+      "total_price": 21000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Real Ganache",
+      "quantity": 1,
+      "unit_price": 16500.0,
+      "total_price": 16500.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Real Chocolate Roll",
+      "quantity": 1,
+      "unit_price": 16000.0,
+      "total_price": 16000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Redbean Bread",
+      "quantity": 1,
+      "unit_price": 9000.0,
+      "total_price": 9000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000367.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "2 TWIST DONUT 18,000\n1 BROWNIE 21,000\n1 REAL GANACHE 16,500\n1 REAL CHOCOLATE ROLL 16,000\n1 REDBEAN BREAD 9,000\nTOTAL 80,500\nCARD 80,500\n"
+  }
+}

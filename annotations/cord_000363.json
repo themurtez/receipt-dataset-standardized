@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "MARUGAME UDON",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-12-25",
+    "time": "",
+    "currency": "JPY",
+    "payment_method": "Cash",
+    "subtotal": 52727,
+    "tax": 5273,
+    "tip": 0.0,
+    "total": 58000,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BEEF CURRY UDON",
+      "quantity": 1,
+      "unit_price": 62727,
+      "total_price": 62727,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": -42000
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000363.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MARUGAME UDON\n\nBEEF CURRY UDON       1     62,727\n\nSUB. TOTAL                  52,727\nRESTAURANT TAX           5,273\n\nGRAND TOTAL               58,000\n~CASH (58,000)\n\nChange 42,000\n\n2019.12.25"
+  }
+}

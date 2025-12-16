@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Galp",
+    "address": "GAR. RIBAMAR. Caminho de Cheiros, 11272, 1350-091 Lisboa",
+    "phone": "Tel. 707 504 257",
+    "tax_id": "PT 506701942",
+    "website": "www.galp.com"
+  },
+  "transaction": {
+    "date": "2019-04-08",
+    "time": "10:08:46",
+    "currency": "EUR",
+    "payment_method": "MASTERC Debito",
+    "subtotal": 50.0,
+    "tax": 9.15,
+    "tip": 0.0,
+    "total": 50.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "GASOLEO SIMPLES",
+      "quantity": 1,
+      "unit_price": 50.0,
+      "total_price": 50.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_200050.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Recibo\nGalp\nVenda de combustíveis\nGAR RIBAMAR. Caminho de Cheiros 11272\nGAR RIBAMAR CUNHA COSTA\nTelf. 213 961500\nNIF: PT506701942\nFatura-Recibo\n\nQuantia\nPreço unitário\nPreço\n34.39 L\n1.454 EUR/L\nGASOLEO SIMPLES\nBomoa 03\nEUR 50.00\nEUR 50.00\n23.00 % IVA A\nEUR 9.15\nTotal EUR 50.00\n\nCliente: 254\nNome: FLEXHOME\nMural: L1580A\nCodigo Postal:\nLocalidade:\nN° Contribuinte: 510766914\nMatricula: 64-70-15\nOperador: Paulo Freitas\nDoc. No:\n0121001A0AA001NA10000011Z2019\nProcessado por SIBS 007\n\nData 19 Hora N/T POS No Op Turno\n08-04-19 10:07 493881 01 0002 747\n\nDescontos até 16 c/1 com Cartão Universo\nPague com saldo do Cartão Continente\n\nExperimente os combustíveis EVOLOGIC\n+ PERFORMANCE, +PROTECA, +POUPANÇA\nE + AMBIENTE. Consulte galp.com\n\nA sua opinião é importante!\nVá a opiniao.galp.com/precos/\nDesconto 2 eur em combustível\nEVOLOGIC\n\nTerminal Pagamento Automático: 006114997\nData: 2019-04-08\nHora: 10:08:46\nPedido: 0039\nTransac.: 0005\nMensagem: 721\nMILLENIUM BCP\nRODRIGUES/SOFIA.ARO\n\nCARTÃO: *****3865/18\nA000000003\n\nMASTERC Debito\nCOMPRA 50,00E MC DB N\n\nTOTAL: 50,00 EUR\nPROCESADO POR SIBS\n"
+  }
+}

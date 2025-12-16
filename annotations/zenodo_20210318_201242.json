@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "A Padaria Portuguesa",
+    "address": "Praca Luis de Camoes n9 44, 1200-243 Lisboa",
+    "phone": "218470038  218471038",
+    "tax_id": "510776914",
+    "website": "apadariaportuguesa.pt"
+  },
+  "transaction": {
+    "date": "2019-01-06",
+    "time": "09:43:22",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 10.56,
+    "tax": 2.43,
+    "tip": 0.0,
+    "total": 12.99,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Bolo Rei",
+      "quantity": 1,
+      "unit_price": 12.99,
+      "total_price": 12.99,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_201242.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "A PADARIA PORTUGUESA\nA Padaria Portuguesa Camoes\nA Padaria Portuguesa GD Actividades Hote\nleiras, Lda\nMorada: Praca Luis de Camoes n9 44\n1200-243 Lisboa\nSede: R. Barata Salgueiro, n. 30, 2, D 1260-044\nNo. Contribuinte: 509323065\nRegisto na Cons. Lisboa n. 509323065\nCapital Social: 37,500 euros\nTelefone: 218470038 218471038\nE-mail: geral@apadariaportuguesa.pt\nNo. Contribuinte: 510776914\nFatura simplificada FS 011/2395780\nOriginal\nData: 2019-01-06 Hora: 09:43:22\nUt Artigo Iv Total\n1 Bolo Rei 23 12.99\nTotal: 12.99\nTroco: 0.00\nTaxa Base IVA Total\n23.00 10.56 2.43 12.99\nConsultas:\nAtendido por: Camoes Gestao Take-Away\nMultibanco 12.99\nPago em:\nProcessado por Computador\nIVA Incluido\nSite: apadariaportuguesa.pt\nFacebook e Instagram: apadariaportuguesa\npDAV-Processado por programa\ncertificado n. 0071/AI\nCopyright GrupoPIE, SA"
+  }
+}

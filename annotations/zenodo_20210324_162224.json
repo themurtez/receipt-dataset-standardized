@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Chaves de Areeiro",
+    "address": "Praça Francisco Sá Carneiro, 1000-160 Lisboa",
+    "phone": "218 453 010",
+    "tax_id": "500615134",
+    "website": "www.chavesareeiro.pt"
+  },
+  "transaction": {
+    "date": "2019-02-26",
+    "time": "14:55:56",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 30.49,
+    "tax": 7.01,
+    "tip": 0.0,
+    "total": 37.5,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chave de Pontos",
+      "quantity": 3,
+      "unit_price": 11.0,
+      "total_price": 33.0,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210324_162224.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Chaves de Areeiro\nSoluções Sistemas de Segurança\nCHAVES DO AREEIRO - SOLUÇÕES E SISTEMAS DE\nSEGURANÇA S.A.\nSEDE: 21845 30 10 • GERAL: 707 20 30 10\nLOJA: AREERIO: 21 845 30 10\nPRAÇA FRANCISCO SÁ CARNEIRO - LISBOA\n1000 160 LISBOA\nNº Contribuente: 500615134\nCons Reg Com de Lisboa com Maticula Nº 500615134\nCapital Social: 629.508.46 Eur\nFatura recibo Nº FR/2019A141/1358\nFIREHOME MEDIAÇÃO IMOBILIARIA, LDA\nRUA SARAVIA DE CARVALHO, 244, 3º\n1350-302 LISBOA\nNº Contribuinte: 510761734\n3 CHAVE DE PONTOS 11.00 23.00% 33.00\n3 CHAVE TIPO YALE 1.50 23.00% 4.50\nPágina 1 de 1\nServiço prestado em 26.02.2019\nTaxa Valor Base Valor IVA\n23.00% 30,49 7,01\nTotal líquido: 30,49\nTotal de IVA: 7,01\nTotal de Descontos: 0,00\nTotal do Documento: 37,50€\nValor Liquidado em Dinheiro 37.50€\nOBRIGADO PELA SUA PREFERÊNCIA\nwww.chavesareeiro.pt\nImplementacao por Tcagest\nwww.tcagest.pt"
+  }
+}

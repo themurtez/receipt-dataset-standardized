@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Tous Les Jours",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "KRW",
+    "payment_method": "Cash",
+    "subtotal": 31500.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 31500.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CRISPY APPLE RAISIN PASTR",
+      "quantity": 1,
+      "unit_price": 11500.0,
+      "total_price": 11500.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PAIN AU CHOCOLATE",
+      "quantity": 1,
+      "unit_price": 11000.0,
+      "total_price": 11000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "REDBEAN BREAD",
+      "quantity": 1,
+      "unit_price": 9000.0,
+      "total_price": 9000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 20500.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000641.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Tous Les Jours\n\n1 CRISPY APPLE RAISIN PASTR  11,500\n1 PAIN AU CHOCOLATE         11,000\n1 REDBEAN BREAD             9,000\n\nTOTAL                       31,500\nCASH                        52,000\nCHANGE                      20,500"
+  }
+}

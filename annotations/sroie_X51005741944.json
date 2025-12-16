@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "BH Petrol Subang Airport",
+    "address": "Jalan Lapangan Terbang Subang\n47200 Subang\nSelangor",
+    "phone": "1-300-22-2828",
+    "tax_id": "000768122880",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-18",
+    "time": "15:44:46",
+    "currency": "MYR",
+    "payment_method": "EDC MASTER",
+    "subtotal": 39.58,
+    "tax": 2.37,
+    "tip": 0.0,
+    "total": 41.95,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "infiniti 97 E4MP3",
+      "quantity": 16.32,
+      "unit_price": 2.57,
+      "total_price": 41.95,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005741944.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TAX INVOICE\nBH Petrol Subang Airport\nJalan Lapangan Terbang Subang\n47200 Subang\nSelangor\nD'Rosh Servport\nCO. REG. NO: 000948487-V\nGST REG. NO: 000768122880\n18-01-2018 15:44:46 Cashier: 888\nInvoice No: 1-916166\nItem U\\Price Qnty Amount\ninfiniti 97 E4MP3 2.570 16.32 41.95 S\nTOTAL SALES RM 41.95\nTOTAL AMOUNT PAYABLE\nRM 41.95\nEDC MASTER RM 41.95\nGST SUMMARY Amount RM Tax RM\nS: Standard 6% 39.58 2.37\nECARD\nWONG TAI CHIN\nCard Number 7897139011685960\nMerchant Number 00000120138429\nReference Number 199258579655\nAWARD Balance 412\nEarned 41\nNew Balance 453\nEPOINTS Expiry\n24 31/10/2020\n136 30/11/2020\nThank You For Shopping At BH Petromart\nCustomer Service 1-300-22-2828"
+  }
+}

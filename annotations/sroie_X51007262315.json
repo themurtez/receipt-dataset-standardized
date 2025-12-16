@@ -1,0 +1,136 @@
+{
+  "merchant": {
+    "name": "Gerbang Alaf Restaurants Sdn Bhd",
+    "address": "Level 6, Bangunan TH, Damansara Uptown 3, No.3, Jalan SS21/39, 47400 Petaling Jaya, Selangor",
+    "phone": "03-4162-2318",
+    "tax_id": "000504664064",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-21",
+    "time": "11:59:48",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 66.32,
+    "tax": 3.98,
+    "tip": 0.0,
+    "total": 70.3,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Nasi McD AGSpi & Telur Set",
+      "quantity": 1,
+      "unit_price": 14.95,
+      "total_price": 14.95,
+      "category": "Meal",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "XTRA Sambal",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Sauce",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "M Ice Lemon Tea",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Drink",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Nasi Lemak Burger",
+      "quantity": 1,
+      "unit_price": 18.55,
+      "total_price": 18.55,
+      "category": "Meal",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Fries",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Side",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "100Plus",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Drink",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Nasi McD AGSpi Set",
+      "quantity": 2,
+      "unit_price": 25.9,
+      "total_price": 25.9,
+      "category": "Meal",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "M Ice Lemon Tea",
+      "quantity": 2,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Drink",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ayam Grg Spicy (TA)",
+      "quantity": 1,
+      "unit_price": 9.9,
+      "total_price": 9.9,
+      "category": "Meal",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Nuggets",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Side",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "French Cheese Sauce",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Sauce",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 11,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007262315.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "**** PROMO ****\n1994\nGerbang Alaf Restaurants Sdn Bhd\n(65351-M)\nLicensee of McDonald's\nLevel 6, Bangunan TH, Damansara Uptown3\nNo.3, Jalan SS21/39,47400 Petaling Jaya\nSelangor\n(GST ID No: 000504664064)\nMcDonald's BHP Taman Melawati(#328)\nTel No. 03-4162-2318\nTAX INVOICE\nMFY Side 1\nINV#003281900047036\nORD #94 -REG #19-21/05/2018 11:59:48\nQTY ITEM TOTAL\n1 Nasi McD AGSpi &Telur Set 14.95\n1 Nasi McD AGSpi &Telur\nXTRA Sambal 1.00\n1 M IceLemonTea\n1 L Nasi Lemak Burger 18.55\n1 L Fries\n1 L 100Plus\n2 Nasi McD AGSpi Set 25.90\n2 M IceLemonTea\n1 AyamGrgSpicy(TA) 9.90\n1 Nuggets 1P 0.00\n1 French Cheese Sauce\nTakeOut Total (incl GST) 70.30\nCashTendered 70.30\nChange 0.00\nTOTAL INCLUDES 6% GST 3.98\nThank You and Please Come Again.\nGuest Relations Center : 1300-13-1300"
+  }
+}

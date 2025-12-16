@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2013-10-18",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 975000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 975000.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "WACOM BAMBOO PEN",
+      "quantity": 1,
+      "unit_price": 975000.0,
+      "total_price": 975000.0,
+      "category": "Electronics",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000152.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "043026001\nWACOM BAMBOO PEN\n1 975,000.00 975,000.00\nTotal Qty 1 Total 975,000.00"
+  }
+}

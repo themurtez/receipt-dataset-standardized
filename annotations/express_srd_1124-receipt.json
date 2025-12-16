@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "Firefly American Bistro",
+    "address": "5525 New Albany Road West, New Albany, OH 43054",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-12-28",
+    "time": "19:54:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 77.8,
+    "tax": 5.84,
+    "tip": 0.0,
+    "total": 83.64,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Malbec Trivento",
+      "quantity": 1,
+      "unit_price": 8.0,
+      "total_price": 8.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Blood Orange Marg",
+      "quantity": 1,
+      "unit_price": 9.0,
+      "total_price": 9.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cup Italian Wedding Soup",
+      "quantity": 1,
+      "unit_price": 2.95,
+      "total_price": 2.95,
+      "category": "Appetizer",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Spaghetti Marinara",
+      "quantity": 1,
+      "unit_price": 17.95,
+      "total_price": 17.95,
+      "category": "Entree",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Fettuccine Alfredo",
+      "quantity": 1,
+      "unit_price": 23.95,
+      "total_price": 23.95,
+      "category": "Entree",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Small Wedge Salad (Dinner)",
+      "quantity": 1,
+      "unit_price": 4.95,
+      "total_price": 4.95,
+      "category": "Appetizer",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Creme Brulee",
+      "quantity": 1,
+      "unit_price": 4.0,
+      "total_price": 4.0,
+      "category": "Dessert",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Baileys",
+      "quantity": 1,
+      "unit_price": 7.0,
+      "total_price": 7.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1124-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "FIREFLY\nFirefly American Bistro\n5525 New Albany Road West\nNew Albany, OH 43054\nServer: Harry M 12/28/18 7:54 PM\nCheck #140 Table 24\nMalbec Trivento $8.00\nBlood Orange Marg $9.00\nCup Italian Wedding Soup $2.95\nSpaghetti Marinara $17.95\nAdd One Meatball\nAdd Two Meatball\nFettuccine Alfredo $23.95\nAdd Steak\nSmall Wedge Salad (Dinner) $4.95\nCreme Brulee $4.00\nBaileys $7.00\nSubtotal $77.80\nTax $5.84\nTotal $83.64\nCome See Us Again!"
+  }
+}

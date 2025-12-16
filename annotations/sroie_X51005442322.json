@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Tony Roma's AEON Tebrau City",
+    "address": "Lot G112, AEON Mall Tebrau City, No 1 Jalan Desa Tebrau, 81100 Johor Bahru",
+    "phone": "07-3510749",
+    "tax_id": "000436693136",
+    "website": "www.tonyromas.com.my"
+  },
+  "transaction": {
+    "date": "2019-03-03",
+    "time": "17:16:55",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 231.06,
+    "tax": 15.25,
+    "tip": 0.0,
+    "total": 269.4,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "NY Strip Medium Well",
+      "quantity": 1,
+      "unit_price": 67.67,
+      "total_price": 67.67,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "NY Strip Medium",
+      "quantity": 1,
+      "unit_price": 67.67,
+      "total_price": 67.67,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "NY Strip Medium Well",
+      "quantity": 1,
+      "unit_price": 67.67,
+      "total_price": 67.67,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ice Latte",
+      "quantity": 1,
+      "unit_price": 9.35,
+      "total_price": 9.35,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "7UP",
+      "quantity": 1,
+      "unit_price": 9.35,
+      "total_price": 9.35,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pepsi",
+      "quantity": 1,
+      "unit_price": 9.35,
+      "total_price": 9.35,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005442322.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "RESTAURANT\nTONY ROMA'S AEON TEBRAU CITY\nGRAND COMPANIONS SDN BHD (285560-H)\nLOT G112, AEON MALL TEBRAU CITY\nNO 1 JALAN DESA TEBRAU\n81100 JOHOR BAHRU\nTel: 07-3510749\nWebsite: www.tonyromas.com.my\nFacebook: www.facebook.com/TRMALAYSIA\nGST ID: 000436693136\n\n-----------------------------------------\n03 Mar 19 05:16:55 PM\n\nTBL43 / 1\n1 NY STRIP 67.67 S\nMedium Well\nRANCH BEANS\nSLAW\n\n1 NY STRIP 67.67 S\nMedium\nFR ROASTED VEGE\nBAKED POTATO\nLoaded\n\n1 NY STRIP 67.67 S\nMedium Well\nFR ROASTED VEGE\nFF\n\n1 ICE LATTE 9.35 S\n1 7UP 9.35 S\n1 PEPSI 9.35 S\n\nSubtotal 231.06\n10% Svr Chg 23.10\nGST 06% 15.25\n\nTotal 269.40\n-----------------------------------------\n\nRM 10 OFF FOR A MINIMUM OF RM 50 SPENT\nON YOUR NEXT VISIT TO TONY ROMA'S!!\nGO TO :WWW.TONYCARES.COM\nPLEASE TELL US HOW WE ARE DOING\nStore # 0217\n\nSURVEY VALIDATION CODE\nThis Receipt With Validation Code Is\nValid 3 Months From Date of Receipt\nOne redemption per group, per visit.\n-----------------------------------------\n\nS-GST 06% included in total"
+  }
+}

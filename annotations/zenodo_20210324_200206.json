@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "JMD-FERRAGENS DO COMBRO LDA",
+    "address": "CALÇADA DO COMBRO N°3, 1200-110 LISBOA",
+    "phone": "21 347 67 62",
+    "tax_id": "513 350 535",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-07",
+    "time": "15:53:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 10.5,
+    "tax": 1.96,
+    "tip": 0.0,
+    "total": 10.5,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chave Pontos",
+      "quantity": 1,
+      "unit_price": 9.0,
+      "total_price": 9.0,
+      "category": "Tools",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chave Universal Especial",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Tools",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210324_200206.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "JMD-FERRAGENS DO COMBRO LDA\nFERRAGENS FERRAMENTAS CHAVES FECHADURAS\nMAT ELECTRICO - MAT CANALIZACAO\nCALCADA DO COMBRO N°3 1200-110 LISBOA\nNIF: 513 350 535\nEmail: jose.m.a.duarte@sapo.pt\nTel: 21 347 67 62\n\nFATURA SIMPLIFICADA\nORIGINAL\n\nDATA 07/03/2019 15:53 No A/29649\n\nCliente: FLKEHOME Lda\nMorada: \nContribuinte: 510776914\n\nArtigo Qtd Preço € Valor €\n\nChave Pontos 1 Un x 9,00 = 9,00\nChave Universal Especial\n23% 1 Un x 1,50 = 1,50\n#002\n\nTOTAL ..................... 10,50\n\nNumerário ...................... 10,50\nTroco ............................ 0,00\n\nIVA Incluído à taxa indicada\nTaxa% Sujeito IVA Total\n23,00 8,54 1,96 10,50\n\nData de carga: 07/03/2019\nHora de carga: 16:03\nLocal carga: N\\Instalacoes\nMatricula:\nData descarga:\nHora descarga:\nLocal descarga: V\\Instalacoes\n\nZ09U-Processado por programa certificado\nNo 88 AT 1 A/29649\n\nOpr: Administrador\n\nOBRIGADO - VOLTE SEMPRE"
+  }
+}

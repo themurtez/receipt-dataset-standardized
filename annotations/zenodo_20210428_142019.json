@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "R Actor António Silva, N7, 1649-033 Lisboa",
+    "phone": "213 247 330",
+    "tax_id": "500829993",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-16",
+    "time": "11:30:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 15.15,
+    "tax": 1.87,
+    "tip": 0.0,
+    "total": 12.63,
+    "accounting_category": "Grocery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CÁPS. CAFÉ SELECTO N",
+      "quantity": 1,
+      "unit_price": 2.89,
+      "total_price": 2.89,
+      "category": "Grocery",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TOSTAS PD E. FINA",
+      "quantity": 1,
+      "unit_price": 0.78,
+      "total_price": 0.78,
+      "category": "Grocery",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "QUEIJOS CINCO PONTES",
+      "quantity": 1,
+      "unit_price": 3.99,
+      "total_price": 3.99,
+      "category": "Grocery",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "VINHO PAPA FIGOS T75C",
+      "quantity": 1,
+      "unit_price": 7.49,
+      "total_price": 7.49,
+      "category": "Beverages",
+      "accounting_category": "Beverages",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_142019.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Pingo Doce\nTel.: 213 247 330\nPingo Doce: Distribuição Alimentar, S.A.\nSede: R Actor António Silva, N7, 1649-033 Lisboa\nRegisto C.R.C Lisboa-Matricula/NIPC: 500829993\nANREE: P1001730 C. Social: 33.608,15 EUR\nArtigos\nMERCEARIA & PET FOOD\nE 23% CÁPS. CAFÉ SELECTO N 2.89\nPoupança Imediata (1.02)\nC 6% TOSTAS PD E. FINA 100 0.78\nQUEIJOS\nC 6% QJ. CINCO PONTES UNI 3.99\nBEBIDAS\nD 13% V. D. PAPA FIGOS T75C 7.49\nPoupança Imediata (1.50)\nResumo\nTOTAL 15.15\nTOTAL POUPANCA -2.52\nTOTAL A PAGAR 12.63\nPagamentos\nTOTAL PAGO 20.00\nTROCO 7.37\nResumo IVA\nC 6% 4.50 0.27 4.77\nD 13% 5.30 0.69 5.99\nE 23% 1.52 1.52 1.87\nNESTA COMPRA POUPOU\n2.52 €\nAtendido por: MARIA ANTUNES\n535858 2019-02-16 11:30 0049 0003 0451\nzzDq-Processado por programa certificado 369/AT\nFatura/Recibo FT 04510031901020617/000621\n1a Via Duplicado Data de emissão: 16-02-2019\nN. Contribuinte: 510776914\nNome: Feels Like Home\nMorada, , Lisboa\nLocalidade, , Lisboa\nocal carga.... 19 Dezembro\nLocal descarga: Morada do cliente\nData: 2019-02-16 Hora: 11:30\nFactura necessária para troca em 15 dias\n(Artigos Textil e Calçado prazo 30 dias)\nNão se trocam medicamentos e artigos assinados\nApoio ao Cliente\n808 20 45 45 / 210 11 44 11 (24 horas)"
+  }
+}

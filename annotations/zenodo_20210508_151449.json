@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Padaria do Bairro",
+    "address": "Rua da Palma No17, 1100-390 Lisboa",
+    "phone": "",
+    "tax_id": "510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-10-16",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 12.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 12.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "40 Bolas Agua",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_151449.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Padaria do Bairro\nPadaria Do Bairro\nRua da Palma No17\n1100-390 Lisboa\n\n2018-10-16 FATURA SIMPLIFICADA Nº\nOriginal FS 8A1801/123887\nBALCAO 1\n\nContribuinte: 510776914\n\nDESCRICAO IVA VALOR\n40 Bolas Agua 6% 12.00\nIVA incluído a taxa indicada\n\nTOTAL: Eur 12,00\n\nCodigo de acesso ao WC: 2112\n\nM3E1-Processado por programa\ncertificado n. 196/AT\n\nLicenca: ROTUNDA DOS SABORES, LDA\nContribuinte: 513902392"
+  }
+}

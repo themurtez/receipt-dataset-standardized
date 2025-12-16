@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "Jl. Pantai Blimbingsari No. Rogojampi-Ban",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 33273.0,
+    "tax": 3027.0,
+    "tip": 0.0,
+    "total": 33500.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Lay's Nori Seawd 55g",
+      "quantity": 1,
+      "unit_price": 8800.0,
+      "total_price": 8800.0,
+      "category": "Snacks",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Qtela Krp/Tmpe Or155",
+      "quantity": 1,
+      "unit_price": 6900.0,
+      "total_price": 6900.0,
+      "category": "Snacks",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Sosro Teh Botol 350",
+      "quantity": 2,
+      "unit_price": 3500.0,
+      "total_price": 7000.0,
+      "category": "Beverages",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Pucuk/H Teh L/Sgr350",
+      "quantity": 1,
+      "unit_price": 3600.0,
+      "total_price": 3600.0,
+      "category": "Beverages",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Aqua Air Mineral 600",
+      "quantity": 2,
+      "unit_price": 3500.0,
+      "total_price": 7000.0,
+      "category": "Beverages",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Peduli Disabilitas",
+      "quantity": 1,
+      "unit_price": 200.0,
+      "total_price": 200.0,
+      "category": "Donation",
+      "accounting_category": "Non-operating",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 16500.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000191.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "LAY'S NORI SEAWD 55G 1 8800 8,800\nQTELA KRP/TMPE OR155 1 6900 6,900\nSOSRO TEH BOTOL 350 2 3500 7,000\nPUCUK/H TEH L/SGR350 1 3600 3,600\nAQUA AIR MINERAL 600 2 3500 7,000\nPEDULI DISABILITAS 1 200 200\nHARGA JUAL 33,500\nTOTAL 33,500\nTUNAI 50,000\nKEMBALI 16,500\nDPP= 30,273 PPN= 3,027\nDPP= 200"
+  }
+}

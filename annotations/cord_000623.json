@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 363750,
+    "tax": 48500,
+    "tip": 0.0,
+    "total": 441350,
+    "accounting_category": "dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "IKAN GURAME REG",
+      "quantity": 1,
+      "unit_price": 118000,
+      "total_price": 118000,
+      "category": "food",
+      "accounting_category": "dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "POCAI 3 TELUR",
+      "quantity": 1,
+      "unit_price": 72000,
+      "total_price": 72000,
+      "category": "food",
+      "accounting_category": "dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "UDG GR MAYONAISE",
+      "quantity": 1,
+      "unit_price": 147000,
+      "total_price": 147000,
+      "category": "food",
+      "accounting_category": "dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TAHU JPG S TRM",
+      "quantity": 1,
+      "unit_price": 78000,
+      "total_price": 78000,
+      "category": "food",
+      "accounting_category": "dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "NASI PUTIH",
+      "quantity": 2,
+      "unit_price": 10000,
+      "total_price": 20000,
+      "category": "food",
+      "accounting_category": "dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ES TEH TAW",
+      "quantity": 2,
+      "unit_price": 12000,
+      "total_price": 24000,
+      "category": "beverage",
+      "accounting_category": "dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "GUILINGGAO",
+      "quantity": 1,
+      "unit_price": 26500,
+      "total_price": 26500,
+      "category": "food",
+      "accounting_category": "dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "OPEN DESSERT",
+      "quantity": 1,
+      "unit_price": 26000,
+      "total_price": 26000,
+      "category": "food",
+      "accounting_category": "dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 10,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000623.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "IKAN GURAME REG 118,000\nPocai 3 Telur 72,000\nUDG GR Mayonaise 147,000\nTAHU JPG S TRM 78,000\nNasi Putih @10,000 20,000\nEs Teh Taw @12,000 24,000\nGUILINGGAO 26,500\nOpen Dessert 26,000\nMandiri DISC 25% 121,250-\nFood 415,000\nBeverages 50,000\nOthers 20,000\nSUBTOTAL 363,750\nTAX 48,500\nSERVICE CHARGE 29,100\nDUE 441,350"
+  }
+}

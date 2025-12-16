@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 109090.0,
+    "tax": 10909.0,
+    "tip": 0.0,
+    "total": 120000.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "YIFUMI",
+      "quantity": 1,
+      "unit_price": 41818.0,
+      "total_price": 41818.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Bihun Goreng",
+      "quantity": 1,
+      "unit_price": 35454.0,
+      "total_price": 35454.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Nasi Goreng",
+      "quantity": 1,
+      "unit_price": 31818.0,
+      "total_price": 31818.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Pembulatan",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Adjustment",
+      "accounting_category": "Miscellaneous",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000499.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 YIFUMI            41.81B\n1 Bihun Goreng      35.454\n1 Nasi Goreng       31.81B\nPembulatan +          1\n\nSubtotal         109.090\nPB 1              10.909\n\n3 Total          120.000"
+  }
+}

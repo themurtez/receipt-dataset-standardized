@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Posto de Lourinhã",
+    "address": "R. Comendador Vicente, Zona Ind. Arelas, 2560-677 Torres Vedras",
+    "phone": "932 996 039",
+    "tax_id": "NIF: 502295803",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-10-18",
+    "time": "10:14:00",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 40.65,
+    "tax": 9.35,
+    "tip": 0.0,
+    "total": 50.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Gasoleo Simples - Bomba 2",
+      "quantity": 42.41,
+      "unit_price": 1.179,
+      "total_price": 50.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_215258.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Posto de Lourinhã\nComercio, Aluguer de Veiculos, Lda.\nNIF: 502295803 | Cap. Social 125 000€\nR. Comendador Vicente, Zona Ind. Arelas\n2560-677 Torres Vedras\nTel: 932 996 039\n\nFactura Recibo: POST A1/61894\nData 2017-10-18  Hora 10:14\n\nCliente: F LIKE HOME\nContribuinte: 510776914\nMatricula: 55-CC-40\n\nProd/Qt P. Unit Iva Total\nGasoleo Simples - Bomba 2\n42.41L 1.179€/L 23.00% 50.00€\n\nEURO\nTotal 50.00€\nPago em Multibanco 50.00€\n\nTaxa Incidencia IVA | Total\n23.00% 40.65 9.35 50.00\n\nOOv Processado por programa\ncertificado n°311/AI. WARESOFT\n\n\nOBRIGADO BOA VIAGEM"
+  }
+}

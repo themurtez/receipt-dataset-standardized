@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 55934.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 55934.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "IKAN GABUS FRESH",
+      "quantity": 0.264,
+      "unit_price": 98500.0,
+      "total_price": 26004.0,
+      "category": "Seafood",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "IKAN BUMBU KUNING",
+      "quantity": 0.303,
+      "unit_price": 72500.0,
+      "total_price": 22330.0,
+      "category": "Seafood",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "OCTOPUS SATAY",
+      "quantity": 1,
+      "unit_price": 7500.0,
+      "total_price": 7500.0,
+      "category": "Seafood",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 34.0,
+    "change_due": 4200.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000135.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "0.264X 98.500\nIKAN GABUS FRESH 26.004\n0.303X 72.500\nIKAN BUMBU KUNING 22.330\n1X 7.500\nOCTOPUS SATAY 7.500\nSUBTOTAL: 55.834\nTOTAL: 55.834\nSimple Rounding\nBALANCE DUE: 55.800\nTunai: 60.000\nUang Kembali: 4.200\nQUANTITY PURCHASED: 1.572"
+  }
+}

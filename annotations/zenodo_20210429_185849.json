@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Super Frutas do Calhariz, Lda.",
+    "address": "Largo Calhariz, 1, 1200-086 Lisboa",
+    "phone": "213 421 997",
+    "tax_id": "509 684 122",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-09-05",
+    "time": "09:45:00",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 3.27,
+    "tax": 0.2,
+    "tip": 0.0,
+    "total": 3.47,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Morangos",
+      "quantity": 0.775,
+      "unit_price": 4.48,
+      "total_price": 3.47,
+      "category": "Produce",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_185849.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SUPER FRUTAS DO CALHARIZ\nTIAGO & RICARDO PEREIRA FRUTARIA, LDA.\nCAP SOCIAL 5000€\nCONTRIB 509 684 122 TEL. 213 421 997\nLARGO CALHARIZ, 1, 1200-086 LISBOA\nCONS REG COMERCIAL MAFRA N. 509684122\nNIB: 5200.5203.0030.3555.00130\n\nFATURA SIMPLIFICADA\nORIGINAL PST: 2\nDATA 2019/09/05 - 9:45 N. C/20255\nCliente: FLIKEHOME\nMorada:\nCont. Nº 510776914\nArtigo Qtd Preço € Valor €\nMORANGOS\n#001 0,775 Kg x 4,48 = 3,47\n\nTOTAL\n3,47\nNumerário. 3,47\nTroco. 0,00\n\nIVA Incluído à taxa indicada\nTaxa% Sujeito IVA Total\n6,00 3,27 0,20 3,47\nopkl-Processado por programa certificado\nN° 88/AT - 6 C/26255\n\nOpr. OPERADOR 2"
+  }
+}

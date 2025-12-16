@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "SWC Enterprise Sdn Bhd",
+    "address": "8 & 10, Jalan Ijok Permai 1, Pusat Niaga Ijok Permai, 48000 Ijok, Selangor.",
+    "phone": "",
+    "tax_id": "002017B08384",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-02",
+    "time": "10:46:55",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 4.2,
+    "tax": 0.24,
+    "tip": 0.0,
+    "total": 4.2,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "5X8 500G",
+      "quantity": 1,
+      "unit_price": 4.2,
+      "total_price": 4.2,
+      "category": "Groceries",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 46.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005361923.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SWC ENTERPRISE SDN BHD\n(1125930-V)\n8 & 10, Jalan Ijok Permai 1,\nPusat Niaga Ijok Permai,\n48000 Ijok, Selangor.\nTAX INVOICE\n(GST ID No.: 002017B08384)\n02/01/2018 Cashier: 123\n10:46:55 No:0100032622\nItem/Desc. Qty Price Amt.\n5X8 500G (1X60)\n5X8 500G 1 4.20 4.20\nTotal Qty: 1\nTOTAL AMOUNT 4.20\nCASH 50.20\nCHANGE 46.00\nGST @6% Included In Total\n0.24\nThank You! Please Come Again!\nGoods Sold Only Exchangeable\nWithin 3 Days!"
+  }
+}

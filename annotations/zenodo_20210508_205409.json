@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Restaurante Rubro Avenida",
+    "address": "Rua Rodrigues dos Santos, 35 1150-278 Lisboa",
+    "phone": "",
+    "tax_id": "509165559",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-28",
+    "time": "14:18:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 44.41,
+    "tax": 6.09,
+    "tip": 0.0,
+    "total": 50.5,
+    "accounting_category": "Meals and Entertainment",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chuleta de Buey",
+      "quantity": 1,
+      "unit_price": 37.5,
+      "total_price": 37.5,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Legumes Salteados",
+      "quantity": 1,
+      "unit_price": 4.5,
+      "total_price": 4.5,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Azeite",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Coca-Cola",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Beverage",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Coca-Cola Zero",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Beverage",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Café",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Beverage",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_205409.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Restaurante Rubro Avenida\nAposta ao Rubro S.A.\nRua Rodrigues dos Santos, 35\n1150-278 Lisboa\nTelefone:\nNo Contribuinte: 509165559\n\nCliente: FLIKEHOME\nNIF: 510776914\nMorada:\nFatura-Recibo FT 102/7610\nData: 2018-06-28 Hora: 14:18\nSa F 43 - Emp.: Extra\n\nQtd\tDescricao\tIVA\tTotal\n1\tChuleta de Buey\t13\t37,50 €\n1\tLegumes Salteados\t13\t4,50 €\n1\tAzeite\t13\t1,00 €\n1\tCoca-Cola\t23\t2,00 €\n1\tCoca-Cola Zero\t23\t2,00 €\n1\tCafé\t13\t2,00 €\nTotal:\t\t\t50,50 €\nPago:\t\t50,50 €\nTroco:\t\t0,00 €\n\nNumerario\nTaxa\tBase\tIVA\tTotal\n13,0\t41,15 €\t5,35 €\t46,50 €\n23,0\t3,26 €\t0,74 €\t4,00 €\nTotal\t44,41 €\t6,09 €\t50,50 €\n\nIVA incluido ás taxas em vigor\nInformotizado por 3Jul.pt\nConsulista: DC 102/94003\nObrigado e volte sempre\n\nTc77-Processado por programa\ncertificado n. 0071/AT\n\nCopyright GrupoPIE, SA"
+  }
+}

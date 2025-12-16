@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (KUCHAI) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000473792512",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-01-11",
+    "time": "14:00:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 7.0,
+    "tax": 0.4,
+    "tip": 0.0,
+    "total": 7.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PLACEMAT 30X45CM",
+      "quantity": 2,
+      "unit_price": 3.5,
+      "total_price": 7.0,
+      "category": "Home Goods",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 3.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619703.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. D.I.Y. (KUCHAI) SDN BHD\nCo-REG:750441-W\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000473792512)\n(KEPONG)\n-TAX INVOICE-\n-------------------------------------------------\nPLACEMAT 30X45CM *S\nMB41/2 - 12/144\n9067425 2 X 3.50 7.00\n\nItem(s) : 1 Qty(s) : 2\n-------------------------------------------------\nTOTAL INCL. GST@6% RM 7.00\nCASH RM 10.00\nCHANGE RM 3.00\n\nGST @6% included in total RM 0.40\n-------------------------------------------------\n11-01-16 14:00 SH01 R003 T1 R000375723\nOPERATOR TRAINEE\nEXCHANGE ARE ALLOWED WITHIN\n3 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

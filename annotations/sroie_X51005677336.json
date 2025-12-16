@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Syarikat Perniagaan Gin Kee",
+    "address": "No 290, Jalan Air Panas, Setapak, 53200, Kuala Lumpur",
+    "phone": "03-40210276",
+    "tax_id": "000750673920",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-27",
+    "time": "16:04:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 21.0,
+    "tax": 1.26,
+    "tip": 0.0,
+    "total": 22.26,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Guni Bag",
+      "quantity": 30,
+      "unit_price": 0.74,
+      "total_price": 22.26,
+      "category": "Bag",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 30,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005677336.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS,\nSETAPAK,\n53200, KUALA LUMPUR.\nTEL : 03-40210276\nGST ID : 000750673920\nSIMPLIFIED TAX INVOICE\nCASH\nDoc No. : CS00013007 Date: 27/01/2018\nCashier : USER Time: 16:04:00\nSalesperson : Ref. :\nItem Qty S/Price Amount Tax\n1947 30 0.74 22.26 SR\nGUNl BAG\nTotal Qty: 30 22.26\nTotal Sales (Excluding GST) : 21.00\nDiscount : 0.00\nTotal GST 1.26\nRounding : 0.00\nTotal Sales (Inclusive of GST) : 22.26\nCASH 22.26\nChange : 0.00\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR 6 21.00 1.26\n Total : 21.00 1.26\nGOODS SOLD ARE NOT RETURNABLE. THANK YOU."
+  }
+}

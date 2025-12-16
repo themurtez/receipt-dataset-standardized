@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "IKEA",
+    "address": "Avenida da Liberdade 36, 1ºB, 1250-145 Lisboa, Portugal",
+    "phone": "",
+    "tax_id": "5107767914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-09-02",
+    "time": "15:01:00",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO Débito",
+    "subtotal": 155.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 155.0,
+    "accounting_category": "Furniture",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BRILLSKEN puxad",
+      "quantity": 2,
+      "unit_price": 20.0,
+      "total_price": 40.0,
+      "category": "Home Improvement",
+      "accounting_category": "Furniture",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "LYSEKIL s pl dupla fac",
+      "quantity": 1,
+      "unit_price": 25.0,
+      "total_price": 25.0,
+      "category": "Kitchen",
+      "accounting_category": "Furniture",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "LYSEKIL ch pnl aluminio",
+      "quantity": 1,
+      "unit_price": 90.0,
+      "total_price": 90.0,
+      "category": "Kitchen",
+      "accounting_category": "Furniture",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_235141.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "IKEA\nVENDAS\nFactura\nDuplicado\nNIF 5107767914\nNome Filkohome Mediacao Imobilaria\nMorada Avenida da Liberdade 36, 1B\nPT\nCP 1250-145\nCidade Lisboa\nCarga em Nossas instalações\nLocal / Descarga:\nMorada Avenida da Liberdade 36, 1B\nPT\nCP 1250-145\nCidade Lisboa\nNumero de conceito 1049939751\nArt/EAN 70323600 \nBRILLSKEN puxad 120 mnr de aco\n20,00 40,00\nAnt/EAN 20330510\nLYSEKIL s pll 119.6x65 dupla fac\n25,00 25,00\nAnt/EAN 80335171\nLYSEKIL ch pnl de 120 aluminio\n90,00 90,00\nTotal\nTotal de artículos 10 155,00\nOutros Cartoes 155,00 EUR\nIKEA ALFRAGIDE\nAMADORA\nTerminal Pagamento Automatico: 0065371\n2019-09-02 15:01:37 Per067 1707 Mg1976\nMONTEPIO\nJOSE MANUEL ARROUBE\nCartão: ****3128/23\nCOMPRA 155,00EUR MULTIBANC Débito\nAUT:001859 M3\nCOPIA CLIENTE\nPROCESSADO POR SIBS"
+  }
+}

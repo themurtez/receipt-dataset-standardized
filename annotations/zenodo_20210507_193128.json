@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "JMTO-Ferragens do Combro LDA",
+    "address": "Calçada do Combro Nº3, 1200-110 Lisboa",
+    "phone": "21 347 67 62",
+    "tax_id": "513 350 556",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-20",
+    "time": "14:49:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 2.6,
+    "tax": 0.49,
+    "tip": 0.0,
+    "total": 2.6,
+    "accounting_category": "Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Broca Diamante",
+      "quantity": 1,
+      "unit_price": 2.6,
+      "total_price": 2.6,
+      "category": "Tools",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_193128.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "JMTO-FERRAGENS DO COMBRO, LDA\nFERRAGENS FERRAMENTAS CHAVES FECHADURAS\nMAT. ELEC TRICO MAT. CANALIZACAO\nCALCADA DO COMBRO Nº3, 1200-110 LISBOA\nNIF: 513 350 556\nEmail: jose.m.duarte@xxxx.pt\nTel: 21 347 67 62\nFATURA SIMPLIFICAD A\nORIGINAL\nDATA: 20/11/2017 14:49 Nº A/20683\nCliente: FLKEHOME, Lda\nMorada:___________________________\nCont. Nº: 510775914\nArtigo Qtd Preço valor\nBroca Diamante\n23% 1 Un x 2,60= 2,60\n#001\nTOTAL 2,60\nNumerário 2,60\nTro co...................0,00\nIVA Incluído á taxa indicada\nTaxa% Sujeito IVA Total\n23,00 2,11 0,49 2,60\nData de carga: 20/11/2017\nHora de carga: 14:59\nLocal carga: N/Instalações\nMatrícula: ______________________\nData descarga: ___________________\nHora descarga: __________________\nLocal descarga: V/Instalações\nqDNIProcessado por programa certificado\nN 88 / A T1 A/20683\nOpr: Administrador\nOBRIGADO VOLTE SEMPRE\n"
+  }
+}

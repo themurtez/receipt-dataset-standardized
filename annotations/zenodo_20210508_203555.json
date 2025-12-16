@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "ROGERIO PAIS, LDA",
+    "address": "AVENIDA ALMIRANTE REIS, 9-E, 1150-007 LISBOA",
+    "phone": "218853901",
+    "tax_id": "500544000",
+    "website": "www.ticasgest.pt"
+  },
+  "transaction": {
+    "date": "2018-07-23",
+    "time": "10:30:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 10.16,
+    "tax": 2.34,
+    "tip": 0.0,
+    "total": 12.5,
+    "accounting_category": "Supplies",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Fechadura 13x9 drt/esq",
+      "quantity": 1,
+      "unit_price": 12.5,
+      "total_price": 12.5,
+      "category": "Hardware",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_203555.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROGERIO PAIS, LDA\nFERRAGENS * FERRAMENTAS * MAQUINAS * UTILIDADES\nAVENIDA ALMIRANTE REIS, 9-E * 1150-007 LISBOA\nTel/Fax 218853901 Tel. 966008696\n* Sociedade por quotas * Capital Social\n5.012,92€ REG.CRC. 34852\nNIB: 0033 0000 01280286463 52\n2018-07-23 FATURA SIMPLIFICADA N:\nOriginal FS 1A1801/6371\n10:30 BALCAO 1\nContribuinte: 776914\n--------------------------------------------------\nDESCRICAO IVA VALOR\n1 Fechadura 13x9 drt/esq 23% 12,50\n--------------------------------------------------\nTAXA IVA INCID.\n23% 2,34 10,16\nTOTAL INCIDENCIAS: 2,34 10,16\nTOTAL: Eur 12,50\nPago em Numerario\nValor entregue: 12,50\nTroco: 0.00\n--------------------------------------------------\nImplementado por www.ticasgest.pt\nMubv-Processado por programa\ncertificado n. 217/AT\n--------------------------------------------------\nOs servicos e/ou bens foram realizados e/ou coloco\ndos a disporicao do adquirente nesta data (Art .36 do CIVA\nLicenca: ROGERIO PAIS, LDA\nContribuinte: 500544000\n"
+  }
+}

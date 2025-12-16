@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "SINNATHAMBY HOLDINGS SDN. BHD.",
+    "address": "NO.17, 18 & 41, JALAN BESAR, 39100 BRINCHANG, CAMERON HIGHLANDS, PAHANG",
+    "phone": "",
+    "tax_id": "002120876032",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-02",
+    "time": "07:09:46",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 103.49,
+    "tax": 6.21,
+    "tip": 0.0,
+    "total": 109.7,
+    "accounting_category": "Retail",
+    "category_confidence": 0.85
+  },
+  "items": [
+    {
+      "name": "POLY CHOPPING BOARD",
+      "quantity": 3,
+      "unit_price": 4.8,
+      "total_price": 14.4,
+      "category": "Household Goods",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PLASTIC BOWL",
+      "quantity": 8,
+      "unit_price": 2.8,
+      "total_price": 22.4,
+      "category": "Household Goods",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PLASTIC CONTAINER W COVER",
+      "quantity": 6,
+      "unit_price": 1.5,
+      "total_price": 9.0,
+      "category": "Household Goods",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BENXON PP HYGIENIC CUP 22 OZ-50PCS",
+      "quantity": 1,
+      "unit_price": 10.0,
+      "total_price": 10.0,
+      "category": "Household Goods",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "STAEDTLER LUNA COLOUR PENCIL",
+      "quantity": 11,
+      "unit_price": 4.9,
+      "total_price": 53.9,
+      "category": "Stationery",
+      "accounting_category": "Retail",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 29,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005806703.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Cash Sale\nSINNATHAMBY HOLDINGS SDN. BHD. (219336-T)\nNO.17, 18 & 41, JALAN BESAR,\n39100 BRINCHANG,\nCAMERON HIGHLANDS,\nPAHANG\nGST Reg.: 002120876032\nDocument No.: T04-18/084227\nDate: 06/02/2018 07:09:46 PM\nDESC        PRICE  Disc AMOUNT  TAX\nQTY           RM        RM      CODE\nPOLY CHOPPING BOARD - 013\n3 UNIT *    4.80  0.00    14.40  SR\nPLASTIC BOWL - 2.80\n8 UNIT *    2.80  0.00    22.40  SR\nPLASTIC CONTAINER W COVER MS-SQ-1\n6 UNIT *    1.50  0.00     9.00  SR\nBENXON PP HYGIENIC CUP AO-700 22 OZ-50PCS\n1 UNIT *   10.00  0.00    10.00  SR\nSTAEDTLER LUNA COLOUR PENCIL\n11 UNIT *   4.90  0.00   53.90  SR\nTotal Qty: 29\nTotal Inclusive GST 6%:  109.70\nRounding Adjustment:   0.00\nRounded Total (RM):   109.70\nCash                109.70\nGST Summary  Amount(RM)  Tax(RM)\nSR @ 6 %       103.49       6.21\n~~~ Thanks You ~~~"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Nam San Seoul Korean BBQ",
+    "address": "No 4, Jalan Permas 10/5, Bandar Baru Permas Jaya, 81750 Johor Bahru, Johor",
+    "phone": "07-380 8402",
+    "tax_id": "000517836800",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-19",
+    "time": "18:56:10",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 139.0,
+    "tax": 13.9,
+    "tip": 0.0,
+    "total": 152.9,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Budae Jjigae",
+      "quantity": 1,
+      "unit_price": 70.0,
+      "total_price": 70.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Kimbab",
+      "quantity": 1,
+      "unit_price": 16.0,
+      "total_price": 16.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Seafood Pancake",
+      "quantity": 1,
+      "unit_price": 25.0,
+      "total_price": 25.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pork Cutlet",
+      "quantity": 1,
+      "unit_price": 20.0,
+      "total_price": 20.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Steamed Rice",
+      "quantity": 2,
+      "unit_price": 4.0,
+      "total_price": 8.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007846400.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "NAM SAN SEOUL KOREAN BBQ\nKOREAN DINE SDN BHD(1077469-V)\nNo 4, Jalan Permas 10/5,\nBandar Baru Permas Jaya,\n81750 Johor Bahru, Johor.\nTel : 07-380 8402\nGST ID No. : 000517836800\nINVOICE\nRef No. 00032375\nTable 09\nCashier 1\nQty Description Price Amount\n1 (Budae Jjigae) 70.00 70.00\n1 (Kimbab) 16.00 16.00\n1 (Seafood Pancake) 25.00 25.00\n1 (PorkCutlet) 20.00 20.00\n2 (SteamedRice) 4.00 8.00\nSub-Total : RM 139.00\nService Charges 10% 13.90\nTotal : RM 152.90\nPaid by CASH\nTotal Qty : 6\nChange 0.00\n****** Thank You ***********\n******** Please come again **********\n19/06/2018 06:56:10 PM"
+  }
+}

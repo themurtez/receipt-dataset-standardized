@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Pingo Doce",
+    "address": "R. Actor António Silva, N.7, 1649-033 Lisboa",
+    "phone": "213136180",
+    "tax_id": "500628993",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-07-29",
+    "time": "13:17:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 4.21,
+    "tax": 0.06,
+    "tip": 0.0,
+    "total": 4.27,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ACUCAR SIDUL 125 SAO",
+      "quantity": 1,
+      "unit_price": 1.59,
+      "total_price": 1.59,
+      "category": "Groceries",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "IOG GREG NAT P500G",
+      "quantity": 2,
+      "unit_price": 1.34,
+      "total_price": 2.68,
+      "category": "Dairy",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 5.73
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_204223.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TOMAS RIBEIRO\nTel.: 213136180\nPingo Doce - Distribuição Alimentar S.A.\nSede: R Actor António Silva, N.7, 1649-033 Lisboa\nRegisto: C.R.C. Lisboa-Matricula/NIPC: 500628993\nN. C. Social: 33.898.115 EUR\nMERCERARIA + PET FOOD\nE 23% ACUCAR SIDUL 125 SAO 1,59\nPRODUTOS LACTEOS\nC 6% IOG GREG NAT P500G\n2 X 1,34 2,68\nTotal A Pagar 4,27\nTOTAL PAGO\nTROCO\nEURO 10,00\n5,73\nResumo IVA\nTaxa Valor s/IVA Valor IVA Valor c/IVA\nC 6% 2,53 0,15 2,68\nE 23% 1,29 0,30 1,59\nAtendido por: Margarida Silva\n393797 2019-07-29 13:17 0087 0004 0440\n\npDOS-Processado por programa certificado 369/AT\nFatura Simplificada FS 0440041901010621/072375\n\n1a Via Original Data de emissão: 29-07-2019\nN. Contribuinte: 510776914\n\nFactura necessária para troca em 15 dias\n(Artigos Têxtil e Calçado prazo 30 dias)\nNão se trocam medicamentos e artigos assinalados\n24 horas\n"
+  }
+}

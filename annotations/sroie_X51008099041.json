@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "RESTORAN WAN SHENG",
+    "address": "No.2, Jalan Temenggung 19/9, Seksyen 9, Bandar Mahkota Cheras, 43200 Cheras, Selangor",
+    "phone": "",
+    "tax_id": "001335787520",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-30",
+    "time": "22:16:06",
+    "currency": "RM",
+    "payment_method": "Cash",
+    "subtotal": 4.2,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 4.2,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Coke",
+      "quantity": 1,
+      "unit_price": 2.1,
+      "total_price": 2.1,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Soya Bean",
+      "quantity": 1,
+      "unit_price": 2.1,
+      "total_price": 2.1,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008099041.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "RESTORAN WAN SHENG\n002043319-W\nNo.2, Jalan Temenggung 19/9,\nSeksyen 9, Bandar Mahkota Cheras,\n43200 Cheras, Selangor\nGST REG NO: 001335787520\nTax Invoice\nINV No.: 1219461 Cashier: Thandar\nDate : 30-06-2018 22:16:06\n-----------------------------------\nDescription QTY U.price Total TAX\n-----------------------------------\nCoke 1 x 2.10 2.10 ZRL\nSoya Bean 1 x 2.10 2.10 ZRL\n\nTotal QTY: 2\nTotal (Excluding GST): 4.20\nTotal (Inclusive of GST):\nTOTAL: 4.20\nCASH : 4.20\n\nGST Summary Amount(RM) Tax(RM)\nZRL (@ 0%) 4.20 0.00"
+  }
+}

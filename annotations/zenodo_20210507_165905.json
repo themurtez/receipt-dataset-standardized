@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "GESPOT GESTAO E ADMINISTRACAO DE POSTOS DE ABASTECIMENTO UNIPESSOAL LDA",
+    "address": "AV CEUTA N 61 1300-125 LISBOA",
+    "phone": "213362415",
+    "tax_id": "503 769 959",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-11-15",
+    "time": "13:47:20",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 9.98,
+    "tax": 1.87,
+    "tip": 0.0,
+    "total": 10.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "EFT 95 PREM",
+      "quantity": 6.11,
+      "unit_price": 1.634,
+      "total_price": 9.98,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": -0.02,
+    "change_due": 0.02
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_165905.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GESPOT GESTAO E ADMINISTRACAO DE POSTOS\nDE ABASTECIMENTO UNIPESSOAL LDA\nAV JOSE MALHOA N16-1099-091 LISBOA\nCAP SOC 2,029.928,11 EUR\nC.R.C L/NIF 503 769 959\nE.S REPSOL AVE DE CEUTA\nAV CEUTA N 61 1300-125 LISBOA\nTEL.213362415\nFACTURA/RECIBO\nDATA/HORA 2019-11-15 13:47:20\nNº DE OPERACAO: 4000/3345544 CAIXA N 2\nVENDEDOR: LENINE SILVA\nVenda de Combustivel\nN. de Bomba 6 EFT 95 PREM\nE 6.110 Litros a 1,634 €/Ltr\n1 Cash Account 9,98 €\nTotal: 10,00 €\nTROCO 0,02 €\nTipo Base 1,87 € 9,98 €\nE 23.0 %  8,11 €\nIncluido à taxa em vigor\nDoc NR: FR 4000TPV2/290029433\nNOME: FLIKEHOME - MEDIACAO\nIMOBILIARIA, LDA\nNIF: 510/76914\nMATRICULA: 03TR50\nMORADA: AV DA LIBERDADE N 36 1 ANDAR B\nLOCALIDADE: LISBOA\n3X/h-Processado por Programa Certificado\nN. 1072/AT\n*** OBRIGADO E BOA VIAGEM ***"
+  }
+}

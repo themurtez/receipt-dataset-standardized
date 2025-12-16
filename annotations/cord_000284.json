@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "VISA",
+    "subtotal": 114300.0,
+    "tax": 13653.0,
+    "tip": 0.0,
+    "total": 137478.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "DOUBLE CHICK BREAST",
+      "quantity": 1,
+      "unit_price": 89000.0,
+      "total_price": 89000.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "ICED MANDARIN",
+      "quantity": 1,
+      "unit_price": 38000.0,
+      "total_price": 38000.0,
+      "category": "Drink",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000284.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 DOUBLE CHICK BREAST 89,000\n1 ICED MANDARIN 38,000\nITEMS TOTAL 127,000\nSILVER CARD 10% ( 12,700)\nSUBTOTAL 114,300\nService Charge 9,525\nTax 13,653\nTOTAL 137,478\nTotal items :2 Total Qty :2\nMANDIRI VISA 137,478"
+  }
+}

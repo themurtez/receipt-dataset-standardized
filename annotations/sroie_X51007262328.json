@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "FARMASI LIGAMAS",
+    "address": "NO. 47, JALAN MERANTI 1A, BANDAR BARU UTAMA, 44300 BATANG KALI, SELANGOR.",
+    "phone": "03-6057 3391",
+    "tax_id": "001805213696",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-20",
+    "time": "12:40:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 23.58,
+    "tax": 1.42,
+    "tip": 0.0,
+    "total": 25.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "NON WOVEN 3 PLY FACE MASK EAR LOOP 50'S",
+      "quantity": 1,
+      "unit_price": 25.0,
+      "total_price": 25.0,
+      "category": "Health & Personal Care",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 25.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007262328.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "FARMASI LIGAMAS\n(001307026-W)\nNO. 47. JALAN MERANTI 1A.\nBANDAR BARU UTAMA.\n44300 BATANG KALI, SELANGOR.\nTEL: 03-6057 3391\nGST ID : 001805213696\nSIMPLIFIED TAX INVOICE\n.\nCASH\nDoc No.\nCS00172418\nDate: 20/05/2018\nCashier\nUSER\nTime: 12:40:00\nSalesperson\nRef:\nItem\n1264\nNON WOVEN 3 PLY FACE MASK EAR LOOP 50'S\nQty\n1\nS/Price\n25.00\nAmount\n25.00\nTax\nSR\nTotal Qty: 1\nTotal Sales (Excluding GST):\n23.58\nDiscount\n0.00\nTotal GST\n1.42\nRounding\n0.00\nTotal Sales (Inclusive of GST):\n25.00\nCASH\n50.00\nChange\n25.00\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR\n6\n23.58 1.42\nTotal :\n23.58 1.42\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU."
+  }
+}

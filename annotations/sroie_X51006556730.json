@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Makassar Fresh Market S/B",
+    "address": "Ground Floor, No.4 & 6, Jalan SS15/4B, 47500 Subang Jaya, Selangor",
+    "phone": "03-56131328",
+    "tax_id": "1208604-T",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-08-05",
+    "time": "02:11:23",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 40.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 40.0,
+    "accounting_category": "Grocery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Fruits",
+      "quantity": 1,
+      "unit_price": 24.0,
+      "total_price": 24.0,
+      "category": "Produce",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Fruits",
+      "quantity": 1,
+      "unit_price": 16.0,
+      "total_price": 16.0,
+      "category": "Produce",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 10.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006556730.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Jogaya\nMAKASSAR FRESH MARKET S/B.\n(CO.NO. 1208604-T)\nGROUND FLOOR, NO.4 & 6,\nJALAN SS15/4B,\n47500 SUBANG JAYA, SELANGOR.\nTEL:03-56131328\nOutlet : PLU\nReceipt NO : 16741\n[TERMINAL :002]               [CASHIER :SV2]\n05-Aug-2017                             02:11:23 PM\nFRUITS @24.00\n40158                               *1                      24.00\nFRUITS @16.00\n40158                               *1                      16.00\nVOLUME : 2 Items\n----------------------------------------\nSub Total                                      RM40.00\nRounding Adj.                              RM0.00\nTotal                                             RM40.00\nPayment Type                                    CASH\nReceived Cash                               RM50.00\nChange                                          RM10.00\nThank You ! Pls Come Again.\nGoods Sold Are Not Returnable !\nPLS VERIFY YOUR BILL BEFORE LEAVING THE\n"
+  }
+}

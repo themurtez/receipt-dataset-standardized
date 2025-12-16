@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Botaminuto",
+    "address": "Amoreiras",
+    "phone": "210942257",
+    "tax_id": "506175502",
+    "website": "www.botaminuto.pt"
+  },
+  "transaction": {
+    "date": "2019-02-05",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 7.8,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 10.0,
+    "accounting_category": "Repair Services",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chave Plana UL050",
+      "quantity": 3,
+      "unit_price": 2.6,
+      "total_price": 7.8,
+      "category": "Hardware",
+      "accounting_category": "Repair Services",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 2.2
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_140310.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "botaminuto\nAMOREIRAS\n\nCONTRIBUINTE: 506175502\n“Cofres Rapidos das Amoreiras\nTax builders: J Bams da cahaus S.Lde\nNE 5/2208 R. Alianca Bissau 209 - 5B D.R\nCa. Cheque 50 OU CRC/causa no 9985/2007\n\nENVIAR SENHORES)\nFILIANOME: LISBOA\nNIF: 510767814 N CLESF153079894\nC 03/548698\nFatura: 2019-02-05 Original\nFactura:\nVendedor\nArt. Descrição Que Dr.\nCHAVE PLANA UE050/0-5S\n172 3 2.600 7 80\nTotal de peces</\n\nVALOR LIQUIDO IVA\nIVA 0.00\nVALOR IVA\n3\n7\n\n\n\n23\n23 00\n\n\nBot/mac:'ANswn-o7per—progama certificada 1627/47\n\nSEnti\n’nItesta\n\nou\n\niorma ASa com\n‘ou\n\n\na\n<\n\n\nP\n\n      \n\n\n“ SEIDI\nano- Royances 7\nOtter Disp oee\nDavi:\nTROCA devio visita refeitado 0 ARTICEI_JEIORETORATONS 1&5\n\nS va DER O ACARTIO VTACIOdledAJUAITERES|\n\nVERES\n        EtcE 23 EAACAGENTAS\n. Tehe rapida poruekande MAT\nreRtos behold: para BR IESESIT\nLeuu 3mese\nFat xabereset\n; www.bparkacomum”\nTel: 220942257 www.botaminute.pt"
+  }
+}

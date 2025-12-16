@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "IN-SPARKLE TRADING SDN BHD",
+    "address": "No.Lot 24, Batu 11 Kampung Dato, Ujang Balakong, 43200 Cheras, Sel.",
+    "phone": "03-9076 8160",
+    "tax_id": "001429012480",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-10-21",
+    "time": "13:31:54",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 235.85,
+    "tax": 14.15,
+    "tip": 0.0,
+    "total": 250.0,
+    "accounting_category": "Electronics",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ALARM G.COB(333)L-A66/L-A71, (LC)",
+      "quantity": 1,
+      "unit_price": 250.0,
+      "total_price": 250.0,
+      "category": "Electronics",
+      "accounting_category": "Electronics",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 50.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006389893.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "IN-SPARKLE TRADING SDN BHD\n(Co.no.639240 H)\nNo.Lot 24, Batu 11 Kampung Dato,\nUjang Balakong, 43200 Cheras, Sel.\nTel: 03-9076 8160\nGST ID : 001429012480\nDate: Sat 21/10/2017 01:31:54 PM\n\nTax Invoice No: 10100023492\n\n531600309035 1 250.00 250.00 S\nALARM G.COB(333)L-A66/L-A71, (LC) 1\nPromoter : SK05 CHAN ZHI BEW\n\nTotal Sales Incl. GST @ 6% RM 250.00\n\nTotal Sales RM 250.00\n\nCash RM 300.00\nChanges RM 50.00\n\nGST Summary Amount(RM) Tax(RM)\nS = 6% 235.85 14.15\nZ = 0% 0.00 0.00\n\nCashier: 0005 CASHIER 1,000 Qty\nCounter: 101 Outlet: SK2\n\nHave a nice day\nThank you\n*****************(POS 6.63)*****************\n\nCustomer Name :_________________________\nCustomer Signature :_______________________"
+  }
+}

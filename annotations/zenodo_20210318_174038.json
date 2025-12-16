@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "CARLOS A SANTOS, LDA",
+    "address": "LISBOA 2",
+    "phone": "",
+    "tax_id": "00544/4/",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-01-28",
+    "time": "12:24:25",
+    "currency": "EUR",
+    "payment_method": "Visa Electron",
+    "subtotal": 9.25,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 9.25,
+    "accounting_category": "General Expenses",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "COMPRA",
+      "quantity": 1,
+      "unit_price": 9.25,
+      "total_price": 9.25,
+      "category": "General Merchandise",
+      "accounting_category": "General Expenses",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_174038.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CARLOS A SANTOS, LDA\nCARLOS A SANTOS-LDA\nLISBOA 2\nIdent. IPA: 00544/4/\n2019-01-28  12:24:25\nPer:080 Tr:010 Mg698\nMILLENNIUM BCP\nMANUEL AROUBE/JOSE\nCARIAO: ****8929/93\nA00000000032010\nVISA ELECTRON\nCOMPRA 9,25€\nID.Estab.:000839346\nAUT:572252 VELC PP N\nREDUNICRE\nINOVACAO E CONFIANCA\nCOPIA CLIENTE\nPROCESSADO POR SIBS\n"
+  }
+}

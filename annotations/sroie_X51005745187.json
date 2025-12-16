@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "SLF Cash & Carry",
+    "address": "No. 15 Jln TSJ 2, Tmn Subang Jasa, Off Jln BT 3 Subang, 40000 Shah Alam, Sel",
+    "phone": "03-77343662",
+    "tax_id": "001169362944",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-02-03",
+    "time": "08:37:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 20.0,
+    "tax": 1.2,
+    "tip": 0.0,
+    "total": 21.2,
+    "accounting_category": "Retail Goods",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Crispo Minyak Sapi 800G",
+      "quantity": 1,
+      "unit_price": 21.2,
+      "total_price": 21.2,
+      "category": "Grocery",
+      "accounting_category": "Household",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 78.8
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005745187.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GOODS SOLD ARE NOT RETURNABLE. THANK YOU\nSLF CASH & CARRY\n(002107765-V)\nNO. 15 JLN TSJ 2, TMN SUBANG JASA,\nOFF JLN BT 3 SUBANG, 40000 SHAH ALAM, SEL.\nTEL: 03-77343662 FAX: TAX INVOICE\nGST ID: 001169362944\nSIMPLIFIED TAX INVOICE\nCASH\nDoc No CS00241999 Date 03/02/2018\nCashier WOON Time 08:37:00\nSalesperson Ref\nItem Qty S/Price Amount Tax\n9557366100208 1 21 20 21 20 SR\nCRISPO MINYAK SAPI 800G\nTotal Qty 1 21.20\nTotal Sales (Excluding GST) 20 00\nDiscount 0 00\nTotal GST 1 20\nRounding 0 00\nTotal Sales : 21.20\n(Inclusive of GST)\nCASH : 100.00\nChange : 78.80\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR 6 20.00 1.20\nTotal : 20.00 1.20\n"
+  }
+}

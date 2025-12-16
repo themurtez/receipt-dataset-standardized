@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Continente Ericeira",
+    "address": "Urbanizacao Quinta da Baleia Lote 2, 2655-378 Ericeira",
+    "phone": "261260670",
+    "tax_id": "502011475",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-07-14",
+    "time": "12:16:05",
+    "currency": "EUR",
+    "payment_method": "Credit Card",
+    "subtotal": 35.08,
+    "tax": 8.07,
+    "tip": 0.0,
+    "total": 43.15,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Limpeza do Lar AMB ELE.CONTINENTE ALFAZEMA",
+      "quantity": 1,
+      "unit_price": 25.13,
+      "total_price": 25.13,
+      "category": "Home Cleaning",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Rec.AMB ELE CONTINENTE ALFAZEMA",
+      "quantity": 2,
+      "unit_price": 8.96,
+      "total_price": 17.92,
+      "category": "Home Cleaning",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Saco Plastico Continente",
+      "quantity": 1,
+      "unit_price": 0.1,
+      "total_price": 0.1,
+      "category": "Bag",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_152641.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Continente Ericeira\nUrbanizacao Quinta da Baleia Lote 2 2655-378 Ericeira\nTel: 261260670\nNIF: 502011475\nPT: 1051076974\n\nLimpeza do Lar\nAMB ELE.CONTINENTE ALFAZEMA - 25.13\nRec.AMB ELE.CONTINENTE ALFAZEMA X 2 @ 8.24 - 17.92\nSaco Plastico Continente - 0.10\n\nTOTA A PAGAR 43.15\nCartao Credito 43.15\nTroco 0.00\n\nIVA 23% 35.08 8.07 43.15"
+  }
+}

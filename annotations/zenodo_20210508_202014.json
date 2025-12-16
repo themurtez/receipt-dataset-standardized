@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Abastecimento Auto LIS",
+    "address": "Av. da Palma, 273, 1100-391 Lisboa",
+    "phone": "Tel: 21 886 1363",
+    "tax_id": "501776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-08-13",
+    "time": "15:00:50",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 8.14,
+    "tax": 1.87,
+    "tip": 0.0,
+    "total": 10.01,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Gasolina SP 95",
+      "quantity": 6.09,
+      "unit_price": 1.337,
+      "total_price": 10.01,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_202014.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AB ASTAGEM AUTO LIS\nEscolha Automoveis da Lis, Lda.\nAv. da Palma, 273 1100-391 Lisboa\nTel: 21 886 1363 Fax: 21 888 1627\nCap. Social 9.975,96 Contr: 501 470 492\nDat 13/08/2018 FATURA Nº: 0001/1806719\nCliente No: 2583 Desc:\nContribuinte N°: 510776914\nFLIXEHOMEM\nLISBOA\nArtigo/Quant. V.Unit. Iva Valor\n0.50\n0.00\nGASOLINA SP 95\n6.09 1.337 23.0 10.01\nINCIDENCIA DE IVA Desc.\n23.0 8.14Liq. 8.14\nIVA 1.87\nTOTAL 10.01\n\"Os Produtos/serviços constantes deste\ndoc foram colocados a disposição do\nadquirente na data do mesmo\"\nPRODUTO XENERGIA EMISSOES CO2\nPRIMARIA\nGasolina 100% Energia 2,3 kgCO2e/1\n(auto) Fossil\nGasoleo 95% Energia 2,5 kgCO2e/1\nRodoviario Fossil e\n5% Energia de\nOrigem Renov.\nGPL Butano 100% Energia 3,0 kgCO2e/kg\ne Propano Fossil\n—\nn09/ - Processado por programa certifica\ndo no 621/AT\nPagamento: NUMERARIO\nHora: 15:00:50\nESTE DOCUMENTO ENCONTRA-SE PAGO"
+  }
+}

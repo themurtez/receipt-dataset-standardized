@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 18182.0,
+    "tax": 1818.0,
+    "tip": 0.0,
+    "total": 20000.0,
+    "accounting_category": "restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TARU",
+      "quantity": 1,
+      "unit_price": 18182.0,
+      "total_price": 18182.0,
+      "category": "food",
+      "accounting_category": "restaurant",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 30000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000198.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 TARU 18.182\nSubtotal 18.182\nPAJAK 10% 1.818\nTotal 20.000\nTendered 50.000\nKembali 30.000\n"
+  }
+}

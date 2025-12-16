@@ -1,0 +1,145 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "KRW",
+    "payment_method": "Card",
+    "subtotal": 1347000.0,
+    "tax": 137900.0,
+    "tip": 0.0,
+    "total": 1579190.0,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "YANG YUM GUI",
+      "quantity": 2,
+      "unit_price": 194000.0,
+      "total_price": 388000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MOKDENGSIM",
+      "quantity": 1,
+      "unit_price": 97000.0,
+      "total_price": 97000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SAMGYOPSAL",
+      "quantity": 2,
+      "unit_price": 194000.0,
+      "total_price": 388000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SOONDUBU CHIGE",
+      "quantity": 1,
+      "unit_price": 75000.0,
+      "total_price": 75000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "GALBI TANG",
+      "quantity": 1,
+      "unit_price": 92000.0,
+      "total_price": 92000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "JINSENG SAMGYETANG",
+      "quantity": 1,
+      "unit_price": 135000.0,
+      "total_price": 135000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "JAP CHAE",
+      "quantity": 2,
+      "unit_price": 210000.0,
+      "total_price": 420000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PAJON",
+      "quantity": 1,
+      "unit_price": 105000.0,
+      "total_price": 105000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BIR BINTANG BOTOL (620ml)",
+      "quantity": 2,
+      "unit_price": 110000.0,
+      "total_price": 220000.0,
+      "category": "Drink",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "AQUA",
+      "quantity": 2,
+      "unit_price": 20000.0,
+      "total_price": 40000.0,
+      "category": "Drink",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BULGOGI BIBIMBAB",
+      "quantity": 1,
+      "unit_price": 85000.0,
+      "total_price": 85000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "NASI(GONGGI BAB)",
+      "quantity": 2,
+      "unit_price": 30000.0,
+      "total_price": 60000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 15,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000709.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "YANG YUM GUI 2 194,000\nMOKDENGSIM 1 97,000\nSAMGYOPSAL 2 194,000\nSOONDUBU CHIGE 1 75,000\nGALBI TANG 1 92,000\nJINSENG SAMGYETANG 1 135,000\nJAP CHAE 2 210,000\nPAJON 1 105,000\nBIR BINTANG BOTOL (620ml) 2 110,000\nAQUA 2 20,000\nBULGOGI BIBIMBAB 1 85,000\nNASI(GONGGI BAB) 2 30,000\nSub Total 1,347,000\nService 94,290\nTax 137,900\nDiscount 0\nTOTAL 1,579,190\nCard 1,579,190\nCHANGE 0"
+  }
+}

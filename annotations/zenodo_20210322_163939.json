@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Comboios de Portugal, E.P.E.",
+    "address": "Calcada do Duque 20, 1249-109 Lisboa",
+    "phone": "707 210 220",
+    "tax_id": "500949601",
+    "website": "www.cp.pt"
+  },
+  "transaction": {
+    "date": "2019-05-15",
+    "time": "15:57:27",
+    "currency": "EUR",
+    "payment_method": "Cartão de Débito",
+    "subtotal": 21.13,
+    "tax": 1.27,
+    "tip": 0.0,
+    "total": 22.4,
+    "accounting_category": "Travel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Bilhete Loulé -> Lisboa Oriente",
+      "quantity": 1,
+      "unit_price": 21.13,
+      "total_price": 21.13,
+      "category": "Train Ticket",
+      "accounting_category": "Travel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210322_163939.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Comboios de Portugal, E.P.E.\nCalcada do Duque 20\n1249-109 Lisboa\nNIF: 500949601\n\nBilhete n.º: 2545-314659\nFactura n.º: F2547/6523\nData: 2019-05-15 15:57:27\n\nLocal: Loulé\nEquipamento: Paul Loulé (XZ7496)\nNº Tom: 2545-4852\nOperador: Bruno Santos\n\nNome: FlkeHomeAlgarve,Lda\nMorada: Avenida da Liberdade nº 36 19 B Andar11210º145 L\nLisboa\nNº Contribuinte: 514407395\n\nLoulé -> Lisboa Oriente\n\nData: 2019-05-15\n\nComb: 186 Hora: 16:11 ALFA Tur\nCarr: 5 Lug: 54\n\nTotal: € 22.40\nValor Pago: € 22.40\nValor Líquido: € 21.13\nValor Iva (IVA a 6%): € 1.27\n\nForma pagamento: Cartão de Débito\n\nApoio ao Cliente: 707 210 220\n\nwww.cp.pt\n\n4.10.0.2"
+  }
+}

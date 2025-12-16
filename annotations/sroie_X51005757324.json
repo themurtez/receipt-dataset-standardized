@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (M) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000306020352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-25",
+    "time": "18:47:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 50.8,
+    "tax": 2.88,
+    "tip": 0.0,
+    "total": 50.8,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TRAC DRY IRON TR-231IR -1200W(SR)",
+      "quantity": 1,
+      "unit_price": 26.9,
+      "total_price": 26.9,
+      "category": "Household Goods",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SINGLE BED SHEET SET 90*188+20CM",
+      "quantity": 1,
+      "unit_price": 23.9,
+      "total_price": 23.9,
+      "category": "Home Textiles",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.2
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005757324.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "31803057\nMR. D.I.Y. (M) SDN BHD (CO.REG: 860671-D)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No: 000306020352)\n(IOI PUCHONG)\n-TAX INVOICE-\nTRAC DRY IRON TR-231IR -1200W(SR) N *S\nWA10-12\n9555493002853 1 26.90 26.90\nSINGLE BED SHEET SET 90*188+20CM *S\nJD52-63-20\n9034713 1 X 23.90 23.90\nItem(s): 2 Qty(s) : 2\nTotal Incl. GST@6% RM 50.80\nCASH RM 51.00\nCHANGE RM 0.20\nGST @6% included in total RM 2.88\n25-03-18 18:47 SH01 ZJ86 T1 R000112415\nOPERATOR TRAINEE CASHIER\nEXCHANGE ARE ALLOWED WITHIN\n7 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

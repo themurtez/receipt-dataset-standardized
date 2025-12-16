@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Worten",
+    "address": "Edificio Alveres, Prac. Rua Maria Ulrich 3, 1970-165 Lisboa",
+    "phone": "",
+    "tax_id": "PT505307300",
+    "website": "www.worten.pt"
+  },
+  "transaction": {
+    "date": "2016-12-11",
+    "time": "21:26:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 29.99,
+    "tax": 5.61,
+    "tip": 0.0,
+    "total": 29.99,
+    "accounting_category": "Electronics",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Pequenos Domesticos",
+      "quantity": 1,
+      "unit_price": 29.99,
+      "total_price": 29.99,
+      "category": "Electronics",
+      "accounting_category": "Electronics",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_142417.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Worten\nNIF: PT505307300\nEdificio Alveres, Prac. Rua Maria Ulrich 3, 1970-165 Lisboa\nNIF: PT501763914\nIVA.DESCRICAO VALOR\nPequenos Domesticos 29.99\nTOTAL A PAGAR 29.99\nIVA INCLUIDO\nPara mais informacoes consulte: www.worten.pt"
+  }
+}

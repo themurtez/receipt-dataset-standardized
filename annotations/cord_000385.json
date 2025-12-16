@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 244500.0,
+    "tax": 24450.0,
+    "tip": 0.0,
+    "total": 268950.0,
+    "accounting_category": "Food",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CHOCO CHIP",
+      "quantity": 1,
+      "unit_price": 27500.0,
+      "total_price": 27500.0,
+      "category": "Dessert",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "NOUGAT ICE CREAM",
+      "quantity": 2,
+      "unit_price": 24000.0,
+      "total_price": 48000.0,
+      "category": "Dessert",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "AMANDEL BROOD",
+      "quantity": 1,
+      "unit_price": 20000.0,
+      "total_price": 20000.0,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BOKKEPOOTJES",
+      "quantity": 1,
+      "unit_price": 104000.0,
+      "total_price": 104000.0,
+      "category": "Dessert",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHOCOLATE ICE CREAM",
+      "quantity": 2,
+      "unit_price": 15000.0,
+      "total_price": 30000.0,
+      "category": "Dessert",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MOCCA ICE CREAM",
+      "quantity": 1,
+      "unit_price": 15000.0,
+      "total_price": 15000.0,
+      "category": "Dessert",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000385.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1.0 CHOCO CHIP 27,500\n2.0 NOUGAT ICE CREAM 48,000\n1.0 AMANDEL BROOD 20,000\n1.0 BOKKEPOOTJES 104,000\n2.0 CHOCOLATE ICE CREAM 30,000\n1.0 MOCCA ICE CREAM 15,000\nSub Total 244,500\nTax 24,450\nTotal 268,950\nMenu 6 Item(s)"
+  }
+}

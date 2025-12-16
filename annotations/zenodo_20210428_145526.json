@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "COMPOREST, LDA",
+    "address": "PRACA DA FIGUEIRA 1100 241 LISBOA",
+    "phone": "",
+    "tax_id": "501562492",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-01",
+    "time": "16:05:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 2.7,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 2.7,
+    "accounting_category": "Parking",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Parking Fee",
+      "quantity": 1,
+      "unit_price": 2.7,
+      "total_price": 2.7,
+      "category": "Parking",
+      "accounting_category": "Parking",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_145526.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "COMPOREST, LDA\nPRACA DA FIGUEIRA\n1100 241 LISBOA\nNr.Contr.501562492\nPq.Estacionamento\nPRACA DA FIGUEIRA\nLISBOA\n\nRECIBO K1190027649\n\nCaixa C1\nData: 01.03.19\nHORA DE ENTRADA:\n01.03.19  15:13\nHORA DE SAIDA:\n01.03.19  16:05\nTEMPO PARQ.HOR:MIN\n0:00:52\n\nQUANTIA: \nEUR 2.70\n\nTIPO DE PAGAMENTO\nA DINHEIRO\n\nEUR 2.70\nTIPO DE BILHETE:\nVALIDO ENTRE:\nQUANTIA:\nEUR 2.70\n\n01.03.19    16:05\nIVA Incluido\nA Taxa Normal\nDocumento conforme\nArt.40 n.5a) CIVA\n\nDocum. ao portador\nNome:_________\nN.Contr:________\nMatricula___/__/__"
+  }
+}

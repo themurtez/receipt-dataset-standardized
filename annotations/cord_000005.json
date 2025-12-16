@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "BCA Card",
+    "subtotal": 221000.0,
+    "tax": 23978.0,
+    "tip": 0.0,
+    "total": 261333.0,
+    "accounting_category": "dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Lasagna",
+      "quantity": 1,
+      "unit_price": 45000.0,
+      "total_price": 45000.0,
+      "category": "food",
+      "accounting_category": "dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Spaghetti ChickPesto",
+      "quantity": 1,
+      "unit_price": 55000.0,
+      "total_price": 55000.0,
+      "category": "food",
+      "accounting_category": "dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BangBang Chick Wings",
+      "quantity": 1,
+      "unit_price": 47000.0,
+      "total_price": 47000.0,
+      "category": "food",
+      "accounting_category": "dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Iced Cappuccino",
+      "quantity": 1,
+      "unit_price": 33000.0,
+      "total_price": 33000.0,
+      "category": "beverage",
+      "accounting_category": "dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Gypsy Gelato Ice Tea",
+      "quantity": 1,
+      "unit_price": 39000.0,
+      "total_price": 39000.0,
+      "category": "beverage",
+      "accounting_category": "dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000005.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Lasagna 45,000\n1 Spaghetti ChickPesto 55,000\n1 BangBang Chick Wings 47,000\n1 Iced Cappuccino 33,000\n1 Gypsy Gelato Ice Tea 39,000\nSUBTOTAL 221,000\nService 16,575\nPBI 23,178\nTOTAL 261,333\nCoupon 100,000\nBCA Card 161,333"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "MR D.I.Y. (M) SDN BHD",
+    "address": "LOT 1251-A & 1251-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR (TESCO PUTRA NILAI)",
+    "phone": "",
+    "tax_id": "860107-D",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-11-18",
+    "time": "13:58:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 30.91,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 30.9,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "KILAT AUTO ECO WASH & SHINE ES1000 1L",
+      "quantity": 1,
+      "unit_price": 3.11,
+      "total_price": 3.11,
+      "category": "Auto",
+      "accounting_category": "Auto Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "KILAT ECO AUTO WASH & WAX EW-1000-1L",
+      "quantity": 1,
+      "unit_price": 4.62,
+      "total_price": 4.62,
+      "category": "Auto",
+      "accounting_category": "Auto Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "KLEENSO AJAIB 99 SERAI WANYI 900G",
+      "quantity": 1,
+      "unit_price": 11.23,
+      "total_price": 11.23,
+      "category": "Cleaning",
+      "accounting_category": "Household Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "HANDKERCHIEF 71386 2PCS",
+      "quantity": 1,
+      "unit_price": 7.45,
+      "total_price": 7.45,
+      "category": "Personal",
+      "accounting_category": "Personal Care",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Unknown Product",
+      "quantity": 1,
+      "unit_price": 4.5,
+      "total_price": 4.5,
+      "category": "Misc",
+      "accounting_category": "Miscellaneous",
+      "category_confidence": 0.5
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": -0.01,
+    "change_due": 20.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X00016469623.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR D.I.Y. (M) SDN BHD\n(CO.REG.: 860107-D)\nLOT 1251-A & 1251-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(TESCO PUTRA NILAI1)\n-INVOICE-\nKILAT AUTO ECO WASH & SHINE ES1000 1L\nW44/2A 12\n9556916500130 1 X 3.11 3.11\nKILAT ECO AUTO WASH & WAX EW-1000-1L\nW44-A 12\n9556916500126 1 X 4.62 4.62\nWD40 277ml MOQ 2572\nW443 A 24\n079567600084 1 X 11.23 11.23\nKLEENSO AJAIB 99 SERAI WANYI 900G\nWD00 15\n9555651400386 1 X 7.45 7.45\nHANDKERCHIEF 71386 2PCS\nP12PJ11-4 6/300\n0909822 1 X 4.50 4.50\nItem(s): 5 Qty(s): 5\nTotal RM 30.91\nROUNDING ADJUSTMENT RM-0.01\nTOTAL ROUNDED RM 30.90\nCASH RM 51.00\nCHANGE RM 20.10\n16-11-18 13:58 SHO1 Z1S3 T2 R000020902\nOPERATOR TRAINEE CASHIER\nEXCHANGE ARE ALLOWED WITHIN\n7 DAYS WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

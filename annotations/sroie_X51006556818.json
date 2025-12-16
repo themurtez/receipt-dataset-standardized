@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Gardenia Bakeries (KL) Sdn Bhd",
+    "address": "Lot 3, Jalan Pelabur 23/1, 40300 Shah Alam, Selangor",
+    "phone": "03-55423228",
+    "tax_id": "000481990040",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-09-03",
+    "time": "11:27:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 29.59,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 29.59,
+    "accounting_category": "Bakery Purchase",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "O.C. White",
+      "quantity": 1,
+      "unit_price": 2.13,
+      "total_price": 2.13,
+      "category": "Bakery",
+      "accounting_category": "Bakery Products",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Wholemeal",
+      "quantity": 5,
+      "unit_price": 2.78,
+      "total_price": 13.9,
+      "category": "Bakery",
+      "accounting_category": "Bakery Products",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "O.C. Jumbo",
+      "quantity": 3,
+      "unit_price": 2.97,
+      "total_price": 8.91,
+      "category": "Bakery",
+      "accounting_category": "Bakery Products",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Bonz Saver",
+      "quantity": 3,
+      "unit_price": 2.97,
+      "total_price": 8.91,
+      "category": "Bakery",
+      "accounting_category": "Bakery Products",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006556818.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GARDENIA BAKERIES (KL) SDN BHD (193486 X)..."
+  }
+}

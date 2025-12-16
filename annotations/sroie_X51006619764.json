@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (KUCHAI) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000473792512",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-01-05",
+    "time": "14:41:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 32.45,
+    "tax": 1.95,
+    "tip": 0.0,
+    "total": 34.4,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.8
+  },
+  "items": [
+    {
+      "name": "MOSQUITO RACKET 108#",
+      "quantity": 1,
+      "unit_price": 13.5,
+      "total_price": 13.5,
+      "category": "Housewares",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "MIRROR STICKER 60CM X 2M",
+      "quantity": 1,
+      "unit_price": 10.9,
+      "total_price": 10.9,
+      "category": "Decor",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "TABLE MAT 50P-42*VS",
+      "quantity": 1,
+      "unit_price": 6.5,
+      "total_price": 6.5,
+      "category": "Housewares",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "MOP HOOK 703#",
+      "quantity": 1,
+      "unit_price": 3.5,
+      "total_price": 3.5,
+      "category": "Housewares",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 16.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619764.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. D.I.Y. (KUCHAI) SDN BHD\nCo-REG: 750441-W\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000473792512)\n(KEPONG)\n-TAX INVOICE-\n--------------------------------------------------\nMOSQUITO RACKET 108# *S\nNA41/2-51 - 25/50\n9021485 1 X 13.50 13.50\nMIRROR STICKER 60CM*2M *S\nUD21-31/2 - 30\n9066554 1 X 10.90 10.90\nTABLE MAT 50P-42*VS\nME31 - 6/144 *S\n9068193 1 X 6.50 6.50\nMOP HOOK 703#\nUF32 - 24/360 *S\n9068465 1 X 3.50 3.50\nItem(s) : 4 Qty(s) : 4\n--------------------------------------------------\nTOTAL INCL. GST@6% RM 34.40\nCASH RM 50.40\nCHANGE RM 16.00\nGST @6% included in total RM 1.95\n--------------------------------------------------\n05-01-16 14:41 SH01 B003 T2 R000308995\nOPERATOR TRAINEE\nEXCHANGE ARE ALLOWED WITHIN\n3 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Moonlight Cake House Sdn Bhd",
+    "address": "No.1, Jalan Permas 10/5, Bandar Baru Permas Jaya, 81750 Johor Bahru, Johor",
+    "phone": "07-387 3322",
+    "tax_id": "001559298048",
+    "website": "www.moonlightcake.com"
+  },
+  "transaction": {
+    "date": "2018-06-02",
+    "time": "18:46:51",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 16.21,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 16.2,
+    "accounting_category": "food and beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Saha Bread",
+      "quantity": 1,
+      "unit_price": 4.6,
+      "total_price": 4.14,
+      "category": "food",
+      "accounting_category": "food and beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Toast (B) - Cheese",
+      "quantity": 1,
+      "unit_price": 9.45,
+      "total_price": 8.51,
+      "category": "food",
+      "accounting_category": "food and beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Walnut Multigrain",
+      "quantity": 1,
+      "unit_price": 3.95,
+      "total_price": 3.56,
+      "category": "food",
+      "accounting_category": "food and beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": -0.01,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007846282.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MOONLIGHT CAKE HOUSE SDN BHD 88TZ75-U\n(GST Reg No: 001559298048)\nNo.1, Jalan Permas 10/5, Bandar Baru Permas Jaya\n81750 Johor Bahru, Johor. Tel. No.: 07-387 3322\nwww.moonlightcake.com\n\nTable : Counter\nInvoice No: SP-null-18/06/02-1016303\nDate : 02/06/2018  18:46:51\nPayment Type: Cash\nMember Number: 3000000100068587\n\n                  TAKE AWAY\n\nSaha Bread *#                            1      RM4.60 ST\nDiscount                                        RM-0.46\nToast (B) - Cheese *#                 1      RM9.45 ST\nDiscount                                        RM-0.94\nWalnut Multigrain *#                  1      RM3.95 ST\nDiscount                                        RM-0.39\n\n         Total (Incl GST)                RM16.21\n                   Rounding                 RM-0.01\n         Grand Total                    RM16.20\n\n         Total Paid                      RM16.20\n\nDiscount Summary\nBirthday Discount                       RM1.79\n\nGST Summary\nGST Summary  Item  Amount(RM)  GST(RM)\nST = 0%              3           16.21             0.00\nNS = 0%             0            0.00             0.00\n\n02/06/2018 18:46:51"
+  }
+}

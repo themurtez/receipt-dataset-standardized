@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Minipreço Disney",
+    "address": "LG do Calhariz 10, 1200-086 Lisboa",
+    "phone": "",
+    "tax_id": "PT503003808",
+    "website": "www.miniprecodisney.com"
+  },
+  "transaction": {
+    "date": "2019-01-05",
+    "time": "12:36:00",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 5.28,
+    "tax": 0.97,
+    "tip": 0.0,
+    "total": 6.25,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Compal Fresh Laranja",
+      "quantity": 1,
+      "unit_price": 1.49,
+      "total_price": 1.49,
+      "category": "Beverages",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ref. S. Gas Laranja",
+      "quantity": 4,
+      "unit_price": 1.19,
+      "total_price": 4.76,
+      "category": "Beverages",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_201611.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "C.R.C./NUM. CONTRIB.: P503003808\nCAPITAL SOCIAL EMPRESA: 51,802,855,12\n\nNOME CLIENTE: FLIKEHOME\nDIRECAO CLIENTE: LISBOA\nNUM. CONTRIBUINTE: 510776914\nLOCALIDADE: CHIADO\nCOD. POST:\n\nFATURA/RECIBO\nFT 021140420190102/00000150\nCAIXA: 4 DATA: 2019-01-05 HORA: 12:36\nCODIGO DE OPERARIO: 50372\n\nCODIGO DESCRICAO IVA PVP/UNIT QUANTIDADE TOTAL DESCONTOS\n\n59944 COMPAL FRESH LARANJA 01 6.00% 1,49 1 1,49\nREF. S/GAS LARANJA 02 1 1,19 4 4,76\n\nTOTAL A PAGAR EUROS 6,25\nMULTIBANCO 6,25\nTROCO 0,00\n\nTIPO IVA BASE IVA TOTAL\n01 6,00% 1,41 0,08 1,49\n02 23,00% 3,87 0,89 4,76\n\nTOTAL 5,28 0,97 6,25\n\nLOCAL CARGA: LG DO CALHARIZ 10\n1200-086 LISBOA\nDATA: 2019-01-05 HORA: 12:36\nLOCAL DESCARGA: MORADA DO CLIENTE\n\nSOY1-Processado por prog.cert. n°1752/AT\n\nwww.miniprecodisney.com\nSIRFPEE P1000245\n\n-- COPIA PARA O CLIENTE --"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "Segi Cash & Carry Sdn. Bhd.",
+    "address": "Pt 17920 Sek U9, Shah Alam",
+    "phone": "",
+    "tax_id": "001951645696",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-05-25",
+    "time": "09:41:00",
+    "currency": "MYR",
+    "payment_method": "Master",
+    "subtotal": 113.68,
+    "tax": 4.67,
+    "tip": 0.0,
+    "total": 118.35,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "MFM ROSES ALL PURPOSE FLOUR 12X850G",
+      "quantity": 1,
+      "unit_price": 18.6,
+      "total_price": 18.6,
+      "category": "Baking",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TLC SOTONG SAUCE 725G",
+      "quantity": 1,
+      "unit_price": 2.69,
+      "total_price": 2.69,
+      "category": "Condiments",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TLC FISH SAUCE 725G",
+      "quantity": 1,
+      "unit_price": 2.7,
+      "total_price": 2.7,
+      "category": "Condiments",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ROYAL BAKING POWDER 450G",
+      "quantity": 2,
+      "unit_price": 11.69,
+      "total_price": 23.38,
+      "category": "Baking",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "KUAT HARIMAU BLEACH LEMON TP 2X900ML",
+      "quantity": 2,
+      "unit_price": 3.97,
+      "total_price": 7.94,
+      "category": "Cleaning Supplies",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "INDOCAFE COFFEEMIX 3IN1 - 100X20G",
+      "quantity": 1,
+      "unit_price": 33.9,
+      "total_price": 33.9,
+      "category": "Beverages",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "UDANG XL",
+      "quantity": 0.434,
+      "unit_price": 39.9,
+      "total_price": 17.32,
+      "category": "Seafood",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BURUNG PUYUH PC",
+      "quantity": 4,
+      "unit_price": 2.95,
+      "total_price": 11.8,
+      "category": "Poultry",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 10,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006388069.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Segi Cash & Carry Sdn. Bhd.\nPt 17920 Sek U9, Shah Alam\nGST Reg No : 001951645696\n\nPOSTED OK\nInvoice No : 34987\nDate : 25 May 2017 09:41am\nCounter : 09\n\nMFM ROSES ALL PURPOSE FLOUR 12X850G\n1 x 18.60 18.60 Z\nTLC SOTONG SAUCE 725G\n1 x 2.69 2.69 S\nTLC FISH SAUCE 725G\n1 x 2.70 2.70 S\nROYAL BAKING POWDER 450G\n2 x 11.69 23.38 S\nKUAT HARIMAU BLEACH LEMON TP 2X900ML\n2 x 5.51 (Disc: 1.53) 7.94 S\nINDOCAFE COFFEEMIX 3IN1 - 100X20G\n1 x 33.90 33.90 S\nUDANG XL\n0.434 x 39.90 17.32 Z\nBURUNG PUYUH PC\n4 x 2.95 11.80 S\n\nNo of items: 10\nTotal Incl. GST:RM 118.35\nMaster xxxxxxxxxxxx0000: 118.35\nChange: RM 0.00\nSavings: RM 3.06\nMissed Point Today: 113\nServed by ASHOK KUMAR\n****************** GST Summary *******************\nGST Code Amount(RM) Tax(RM)\nZ @0.0% 35.92 0.00\nS @6.0% 77.76 4.67\n******************************************************\nRef No: 00400736354034867\nGoods Sold Are Not Returnable. TQ"
+  }
+}

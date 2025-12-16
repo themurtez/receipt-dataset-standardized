@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Trinity Restaurant",
+    "address": "190 Jericho Tpke, Floral Park, NY 11001",
+    "phone": "(516) 358-5584",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-02-18",
+    "time": "22:20:00",
+    "currency": "USD",
+    "payment_method": "American Express",
+    "subtotal": 69.5,
+    "tax": 6.0,
+    "tip": 0.0,
+    "total": 75.5,
+    "accounting_category": "Restaurant Meals",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Quesadilla",
+      "quantity": 1,
+      "unit_price": 11.0,
+      "total_price": 11.0,
+      "category": "Food",
+      "accounting_category": "Restaurant Meals",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Pot Roast",
+      "quantity": 1,
+      "unit_price": 18.0,
+      "total_price": 18.0,
+      "category": "Food",
+      "accounting_category": "Restaurant Meals",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Fish An Chips",
+      "quantity": 1,
+      "unit_price": 16.0,
+      "total_price": 16.0,
+      "category": "Food",
+      "accounting_category": "Restaurant Meals",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Side Salad",
+      "quantity": 1,
+      "unit_price": 4.0,
+      "total_price": 4.0,
+      "category": "Food",
+      "accounting_category": "Restaurant Meals",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Dft Shock Top",
+      "quantity": 1,
+      "unit_price": 5.5,
+      "total_price": 5.5,
+      "category": "Beverage",
+      "accounting_category": "Restaurant Beverages",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Dft Guiness",
+      "quantity": 2,
+      "unit_price": 7.5,
+      "total_price": 15.0,
+      "category": "Beverage",
+      "accounting_category": "Restaurant Beverages",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1071-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Trinity Restaurant\n190 Jericho Tpke\nFloral Park NY 11001\nTel. (516) 358-5584\nOrder 217510\n02/18/17 10:20 PM Check 101244\nTable 15 Cust. 2 Server 21 Kelly Bowe\n1 Quesadilla 11.00\n1 Pot Roast 18.00\n1 Fish An Chips 16.00\n1 Side Salad 4.00\n1 Dft Shock top 5.50\n2 Dft Guiness 15.00\nTaxable: 69.50\nSub-total: 69.50\nTax: 6.00\nTotal Due: 75.50"
+  }
+}

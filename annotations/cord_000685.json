@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "T-CASH",
+    "subtotal": 35909.0,
+    "tax": 3591.0,
+    "tip": 0.0,
+    "total": 39500.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SB 1 HC",
+      "quantity": 1,
+      "unit_price": 27727.0,
+      "total_price": 27727.0,
+      "category": "Main Course",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cream Soup",
+      "quantity": 1,
+      "unit_price": 8182.0,
+      "total_price": 8182.0,
+      "category": "Appetizer",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000685.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 SB 1 HC 27,727\n1 Cream Soup 8,182\nSub Total 35,909\nP. Rest 10% 3,591\nTotal 39,500\nKupon 10,000\nT-CASH 29,500\n2 Items"
+  }
+}

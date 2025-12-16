@@ -1,0 +1,127 @@
+{
+  "merchant": {
+    "name": "Altis Grand Hotel",
+    "address": "Rua Castilho, 11, 1269-072 Lisboa",
+    "phone": "",
+    "tax_id": "NIF: 510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-10-03",
+    "time": "15:01:00",
+    "currency": "EUR",
+    "payment_method": "Visa, Cash",
+    "subtotal": 120.0,
+    "tax": 13.32,
+    "tip": 4.25,
+    "total": 120.0,
+    "accounting_category": "Hospitality",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Menu Rendez Vous",
+      "quantity": 6,
+      "unit_price": 17.0,
+      "total_price": 102.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Sopa Dia C Shop",
+      "quantity": 3,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Bistro",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Dining",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Carne Dia C Shop",
+      "quantity": 5,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Peixe Dia C Shop",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Sobremesa do Dia",
+      "quantity": 2,
+      "unit_price": 3.75,
+      "total_price": 7.5,
+      "category": "Dessert",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Luso T1",
+      "quantity": 4,
+      "unit_price": 1.75,
+      "total_price": 7.0,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Suite Bistro",
+      "quantity": 1,
+      "unit_price": 6.25,
+      "total_price": 6.25,
+      "category": "Lodging",
+      "accounting_category": "Accommodation",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Cafe",
+      "quantity": 5,
+      "unit_price": 0.85,
+      "total_price": 4.25,
+      "category": "Beverage",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Tip",
+      "quantity": 1,
+      "unit_price": 4.25,
+      "total_price": 4.25,
+      "category": "Gratuity",
+      "accounting_category": "Tips",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 9,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_182610.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Altis Grand Hotel *****\nAltis Soc. Empr. Turit. Hot., SA\nRua Castilho, 11\n1269-072 Lisboa\nNIF: 510776914\n\nDate: 2019-10-03 15:01 2a Via\nMesa: 301 Raul Fernandes\nFactura: FBIS 1020060/179\nBistro PAX:6\n\nQuant. Descricao              IVA  Total\n6      Menu Rendez Vous       13   102.00\n3      Sopa Dia C Shop        13   0.00\n       Bistro                 23   0.00\n5      Carne Dia C Shop       13   0.00\n1      Peixe Dia C Shop       13   0.00\n2      Sobremesa do Dia       23   7.50\n4      Luso T1                     7.00\n1      Suite Bistro                6.25\n5      Cafe                        4.25\n       *Tip                       4.25\n\nSub-Total                     120.00\nDesc.(0.00%)                   0.00\nTotal                         120.00\n\nPagamento em:\nVisa                           20.00\nCash                           100.00\n\n% IVA Incid.      IVA     Total\n0    4.25         0.00     4.25\n13   102.43       13.32   115.75\n23   0.00         0.00     0.00\n\nNIF: 510776914\n\nConsulta: CONBIS 102006 / 7287\nvnsa Processado por programa certificado\nnrl 0757AT / FBIS 1020060/179"
+  }
+}

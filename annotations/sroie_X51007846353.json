@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "THE TOAST F&B SDN BHD",
+    "address": "LOT 2110&2111 JALAN PERMAS UTARA, BANDAR BARU PERMAS, 81750 JOHOR BAHRU JOHOR",
+    "phone": "07-3886880",
+    "tax_id": "002069884928",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-16",
+    "time": "18:18:40",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 28.15,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 28.15,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "MONGOLIA CHICKEN",
+      "quantity": 1,
+      "unit_price": 9.4,
+      "total_price": 9.4,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "BUTTER KAYA",
+      "quantity": 1,
+      "unit_price": 2.35,
+      "total_price": 2.35,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "MEE HUN KUEY",
+      "quantity": 1,
+      "unit_price": 8.0,
+      "total_price": 8.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "NESLO (ICE)",
+      "quantity": 1,
+      "unit_price": 4.25,
+      "total_price": 4.25,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "HONEY RED TEA (ICE)",
+      "quantity": 1,
+      "unit_price": 4.15,
+      "total_price": 4.15,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 21.85
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007846353.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "THE TOAST F&B SDN BHD (965752-T)\nLOT 2110&2111 JALAN PERMAS UTARA\nBANDAR BARU PERMAS\n81750, JOHOR BAHRU JOHOR\nTel: 07-3886880\nGST ID No. 002069884928\nTAX INVOICE\nPS3418065765 16/06/2018\nS/P: POS1 Loc: PMS\nWalk In\nTable: 24\nItem Qty U.Price Disc Amount RM\n230 MONGOLIA CHICKEN\n1 9.40 0.00 9.40 S\n101 BUTTER KAYA\n1 2.35 0.00 2.35 S\n205 MEE HUN KUEY\n1 8.00 0.00 8.00 S\n412 NESLO (ICE)\n1 4.25 0.00 4.25 S\n432 HONEY RED TEA (ICE)\n1 4.15 0.00 4.15 S\nTotal Items: 5\nSub Total RM 28.15\nLess Discount: 0.00\nRound: 0.00\nTotal Due (GST Inc): 28.15\nPaid: Cash 50.00\nChange: 21.85\nS:GST(0%): 28.15 0.00\nPlease Come Again!\n16/06/2018 06:18:40 pm"
+  }
+}

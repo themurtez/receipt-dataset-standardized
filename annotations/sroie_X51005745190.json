@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Super Seven Cash & Carry Sdn Bhd",
+    "address": "No. 1 Jalan Euro 1, Off Jalan Batu Tiga, Sungai Buloh Seksyen U3, Shah Alam, 40150",
+    "phone": "03-78590861",
+    "tax_id": "00639090688",
+    "website": "http://www.super7.com.my"
+  },
+  "transaction": {
+    "date": "2018-02-12",
+    "time": "11:34:45",
+    "currency": "MYR",
+    "payment_method": "Visa Card",
+    "subtotal": 359.2,
+    "tax": 7.45,
+    "tip": 0.0,
+    "total": 367.1,
+    "accounting_category": "Grocery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Dory Fillet 300UP(3)6KG",
+      "quantity": 1,
+      "unit_price": 63.0,
+      "total_price": 252.0,
+      "category": "Seafood",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Beras Biri-Biri 10KG",
+      "quantity": 1,
+      "unit_price": 53.5,
+      "total_price": 53.5,
+      "category": "Rice",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Bawang Besar",
+      "quantity": 2,
+      "unit_price": 8.5,
+      "total_price": 17.0,
+      "category": "Vegetables",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cili 1KG",
+      "quantity": 1,
+      "unit_price": 19.5,
+      "total_price": 19.5,
+      "category": "Spices",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Radas Kari Daging 1KG",
+      "quantity": 1,
+      "unit_price": 17.2,
+      "total_price": 17.2,
+      "category": "Spices",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cili Boh 3KG",
+      "quantity": 1,
+      "unit_price": 7.9,
+      "total_price": 7.9,
+      "category": "Spices",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 10,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005745190.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SUPER SEVEN CASH & CARRY SDN BHD (590130-A) ... GST ID : 00639090688 TAX INVOICE ..."
+  }
+}

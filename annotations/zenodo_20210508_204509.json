@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "INTERMARCHE BUDENS",
+    "address": "Budens, Vila do Bispo",
+    "phone": "282 695 601",
+    "tax_id": "504537512",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-07-15",
+    "time": "14:44:55",
+    "currency": "EUR",
+    "payment_method": "VISA/MASTER",
+    "subtotal": 85.0,
+    "tax": 15.89,
+    "tip": 0.0,
+    "total": 85.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GASOLEO SIMPLES",
+      "quantity": 64.49,
+      "unit_price": 1.318,
+      "total_price": 85.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_204509.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "INTERMARCHE BUDENS\nSuper Budens Supermercados, Lda\nBudens, Vila do Bispo\nNIPC: 504537512\nTelef.: 282 695 601 Fax: 282 695 510\nData Hora\n15-07-2018 14:44:55\nPOS Operador Turno\n1 102 5363\nFactura\n7P1100A88C008A5EFA/4142\nProduto\nQtd. Preco Un. IVA Sub-Total\nBomba:2 Mangueira:4\n64.49 l 1.318 EUR/l 23 % GASOLEO SIMPLES 85.00 Eur\nNIF: 510767914\nNome Cliente\nFLIKEHUME\nMorada\nLISBOA\nMatricula\n69-UE-53\nVISA/MASTER\nIva 23.00 %:\nTotal Venda\n85.00\n15.89 Eur\n85.00 Eur\nBens/Serviços colocados ao dispor\ndo cliente final no acto da vende\nObrigado e Boa Viagem\nFhg7−Processado por prog. certiticado 166/AT"
+  }
+}

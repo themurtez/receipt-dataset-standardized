@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "LIDL & Cia - BOLIQUEIME",
+    "address": "Av Prof Dr Anibal Cavaco Silva - Loulé",
+    "phone": "",
+    "tax_id": "503 340 855",
+    "website": "lidl.pt/opiniao"
+  },
+  "transaction": {
+    "date": "2019-06-29",
+    "time": "18:55:00",
+    "currency": "EUR",
+    "payment_method": "DINHEIRO",
+    "subtotal": 0.48,
+    "tax": 0.11,
+    "tip": 0.0,
+    "total": 0.59,
+    "accounting_category": "General",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "KM MATCHES FOSFOROS",
+      "quantity": 1,
+      "unit_price": 0.48,
+      "total_price": 0.59,
+      "category": "Non-Food Item",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_170725.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Mais para si.\nLIDL & Cia - BOLIQUEIME\nAv Prof Dr Anibal Cavaco Silva - Loulé\nContribuinte Nr. 503 340 855\nProdutor de REEE Nr. PT000048\nLIDL & Cia - Lojas Alimentares\nRua Pé de Mouro, 18\nLinhol - 2714-510 Sintra\nCap social: 498.800 EUR\nM.C.R.Com.Sintra No 10628\nFATURA\nData de Venda: 29.06.19\nNo VD 049200319/001218\nContribuinte: 514407395\nNome : flikehome algarve\nMorada :\nKM MATCHES FOSFOROS\nEUR\n0,59 A\nTotal 0,59\nDINHEIRO 0,59\nTaxa Base Imp. Val.Total Val.IVA\nA 23% 0,48 0,59 0,11\n0492 055219/03 29.06.19 18:55\nTmp4-Processado por Programma\ncertificado n.o 1050/AT\n* * * * * * * * * * * *\n****** OBRIGADO ******\nDevolução de Artigos não alimentares\naté 30 dias com este talão.\nDocumento válido como recibo.\n5 minutos podem valer 50 Euros!\nDê-nos a sua opinião em\nlidl.pt/opiniao"
+  }
+}

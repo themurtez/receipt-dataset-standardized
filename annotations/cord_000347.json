@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "CIMB VISA",
+    "subtotal": 294000.0,
+    "tax": 31605.0,
+    "tip": 0.0,
+    "total": 347655.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Lumpia Klt Tahu",
+      "quantity": 1,
+      "unit_price": 43000.0,
+      "total_price": 43000.0,
+      "category": "Appetizer",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SM Udang & Ayam",
+      "quantity": 1,
+      "unit_price": 50000.0,
+      "total_price": 50000.0,
+      "category": "Main Course",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "XLB Ktg&Ayam",
+      "quantity": 1,
+      "unit_price": 56000.0,
+      "total_price": 56000.0,
+      "category": "Main Course",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Brokol Bwg Putih",
+      "quantity": 1,
+      "unit_price": 60000.0,
+      "total_price": 60000.0,
+      "category": "Side Dish",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Mie Sup WT (U & A)",
+      "quantity": 1,
+      "unit_price": 53000.0,
+      "total_price": 53000.0,
+      "category": "Main Course",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "The Roselle",
+      "quantity": 1,
+      "unit_price": 32000.0,
+      "total_price": 32000.0,
+      "category": "Beverage",
+      "accounting_category": "Drink",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000347.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Lumpia Klt Tahu (3)        43,000\n1 SM Udang & Ayam (4)        50,000\n1 XLB Ktg&Ayam (4)           56,000\n1 Brokoli Bwg Putih          60,000\n1 Mie Sup WT (U & A)         53,000\n1 The Roselle                32,000\nSUBTOTAL                   294,000\nService Charge 7,5%          22,050\nPB1 10%                      31,605\n\nTOTAL                      347,655\nCIMB VISA                  347,655"
+  }
+}

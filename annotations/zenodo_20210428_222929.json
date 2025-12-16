@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "ROGERIO PAIS, LDA",
+    "address": "AVENIDA ALMIRANTE REIS, 9-E, 1150-007 LISBOA",
+    "phone": "Tel/Fax 218853901 Tel: 960060856",
+    "tax_id": "Contribuinte: 510776914",
+    "website": "www.ticasgest.pt"
+  },
+  "transaction": {
+    "date": "2019-05-24",
+    "time": "12:12:00",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 32.11,
+    "tax": 7.39,
+    "tip": 0.0,
+    "total": 39.5,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Castelo ROCA 1/2 volta",
+      "quantity": 1,
+      "unit_price": 32.11,
+      "total_price": 39.5,
+      "category": "Tools",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_222929.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROGERIO PAIS, LDA\nFERRAGENS * FERRAMENTAS * MAQUINAS * UTILIDADES\nAVENIDA ALMIRANTE REIS, 9-E * 1150-007 LISBOA\nTel/Fax 218853901 Tel: 960060856\n* Sociedade por quotas * Capital Social\n5.012.29€ REG.CRC. 34852\nNIB: 0033 0000 0128028643 52\n\n2019-05-24 FATURA SIMPLIFICADA N:\nOriginal FS 1A1901/4154\n12:12 BALCAO 1\n\nContribuinte: 510776914\n\nDESCRICAO IVA VALOR\n1 Castelo ROCA 1/2 volta 23% 39,50\n\nTAXA IVA INCID.\n23% 7,39 32,11\nTOTAL INCIDENCIAS: 7,39 32,11\n\nTOTAL: Eur 39,50\nPago em Numerario\nValor entregue: 39,50\nTroco: 0,00\n\nImplementado por www.ticasgest.pt\n\nx2tT-Processado por programa\ncertificado n. 217/AT\n\nOs servicos e/ou bens foram realizados e/ou colo\ncados á disposicao do adquirente nesta data (Art\n36 do CIVA, No5 allnea F)\n\nLicenca: ROGERIO PAIS, LDA\nContribuinte: 500544000"
+  }
+}

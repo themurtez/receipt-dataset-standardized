@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Auntie Anne's",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 26000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 26000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Lemonade 22oz",
+      "quantity": 1,
+      "unit_price": 26000.0,
+      "total_price": 26000.0,
+      "category": "Beverages",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 24000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000384.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Auntie Anne's\n\nLEMONADE 22OZ\n1 x 26,000 26,000\nSUB TOTAL 26,000\nGRAND TOTAL 26,000\nCASH IDR 50,000\nCHANGE DUE 24,000"
+  }
+}

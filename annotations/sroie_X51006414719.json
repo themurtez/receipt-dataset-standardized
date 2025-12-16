@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "AEON CO. (M) BHD",
+    "address": "3RD FLR, AEON TAMAN MALURI SC, JLN JEJAKA, TAMAN MALURI, CHERAS, 55100 KUALA LUMPUR",
+    "phone": "1-300-80-AEON (2366)",
+    "tax_id": "002017394688",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-12",
+    "time": "18:18:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 4.4,
+    "tax": 0.25,
+    "tip": 0.0,
+    "total": 4.4,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ASSORTED PREMIU",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Grocery",
+      "accounting_category": "Retail",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "INDIVIDUAL SUS",
+      "quantity": 1,
+      "unit_price": 2.4,
+      "total_price": 2.4,
+      "category": "Grocery",
+      "accounting_category": "Retail",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 46.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006414719.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AEON CO. (M) BHD (126926-H)\n3RD FLR, AEON TAMAN MALURI SC\nJLN JEJAKA, TAMAN MALURI\nCHERAS, 55100 KUALA LUMPUR\nGST ID : 002017394688\nSHOPPING HOURS\nSUN-THU:1000 HRS - 2200 HRS\nFRI-SAT:1000 HRS - 2300 HRS\n-------------------------------------------------\n1x 000000517515 2.00SR\nASSORTED PREMIU\n1x 000000810692 2.40SR\nINDIVIDUAL SUS\n\nSub-total 4.40\nTotal Sales Incl GST 4.40\nTotal After Adj Incl GST 4.40\nCASH 50.50\nItem Count 2 Change Amt 46.10\nInvoice No: 2018041210090260073\nGST Summary Amount Tax\nSR @ 6% 4.15 0.25\nTotal 4.15 0.25\n12/04/2018 18:18 1009 026 0260073\n0900724 AZIZAH\n\nAEON TAMAN UNIVERSITI\nTEL 1-300-80-AEON (2366)\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN"
+  }
+}

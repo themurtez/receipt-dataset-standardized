@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "CHA FOR TEA",
+    "address": "1-1, Central Park, Jalan PJU5/13, Dataran Sunway, 47810 Kota Damansara, Selangor",
+    "phone": "",
+    "tax_id": "001698433168",
+    "website": "www.dinesoft.com.my"
+  },
+  "transaction": {
+    "date": "2018-04-19",
+    "time": "14:19:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 43.63,
+    "tax": 2.62,
+    "tip": 0.0,
+    "total": 46.25,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "MUSHROOM BR",
+      "quantity": 1,
+      "unit_price": 12.9,
+      "total_price": 12.9,
+      "category": "Food",
+      "accounting_category": "Meals & Entertainment",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "SIZZLING PO",
+      "quantity": 1,
+      "unit_price": 13.9,
+      "total_price": 13.9,
+      "category": "Food",
+      "accounting_category": "Meals & Entertainment",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "BLACK SUGAR",
+      "quantity": 1,
+      "unit_price": 11.9,
+      "total_price": 11.9,
+      "category": "Drink",
+      "accounting_category": "Meals & Entertainment",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "BROWN SUGAR",
+      "quantity": 1,
+      "unit_price": 4.95,
+      "total_price": 4.95,
+      "category": "Drink",
+      "accounting_category": "Meals & Entertainment",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 53.75
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006349083.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CHA FOR TEA\n1-1, CENTRAL PARK, JALAN PJU5/13,\nDATARAN SUNWAY, 47810 KOTA DAMANSARA,\nSELANGOR\nGST ID NO:001698433168\nTax Invoice No: 1541\nDate : 19/04/2018 14:19\nCashier : JESS\nTABLE: 27\n*** RESTAURANT ***\nDESCRIPTION                 QTY  PRICE\nB01 - MUSHROOM BR             1  RM12.90 SR\nD01 - SIZZLING PO             1  RM13.90 SR\nO03 - BLACK SUGAR             1  RM11.90 SR\nP05 - BROWN SUGAR             1  RM4.95 SR\n*1            **#ITEM DISCOUNT\nSubTotal :                  RM 43.63\nRound+                      -0.02\nRound-                      2.62\nGST 6%                      RM46.25\nTotal:\nCash                         RM46.25\nPaid :                      100.00\nChange :                     53.75\nCST SUMMARY       TAX(RM) AMOUNT(RM)\nSR=6%                2.62     43.63\nTHANK YOU, PLEASE COME AGAIN\n*Powered by Dinesoft*\nwww.dinesoft.com.my"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Broadview Marketing Sdn Bhd",
+    "address": "No. 9-G, Jalan Dinar D U3/D, Taman Subang Perdana, Sek. U3, 40150 Shah Alam, Selangor D.E.",
+    "phone": "03-78459183",
+    "tax_id": "000203587584",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-05-15",
+    "time": "10:49:40",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 4.43,
+    "tax": 0.27,
+    "tip": 0.0,
+    "total": 4.7,
+    "accounting_category": "Retail Purchase",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "5R+FM 80G 10x16 (500gm)",
+      "quantity": 1,
+      "unit_price": 4.7,
+      "total_price": 4.7,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006388082.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "C.P\nBroadview Marketing Sdn Bhd (728384-M)\nNo. 9-G, Jalan Dinar D U3/D Taman Subang Perdana, Sek.U3,\n40150 Shah Alam,Selangor D.E.\n03-78459183\nGST Reg No: 000203587584\nTax Invoice POSTED\nBill No : BM-159572\nDate : 15/05/2017 10:49:40 AM\nCashier : Merlin\nDescription Qty Price Amount\n1 5R+FM 80G 10x 1 4.70 4.70\n16 (500gm)\nTotal: 4.70\nTotal Item Discount: 0.00\nTotal Sales Inclusive GST: 4.70\nCash Received: 4.70\nGST Summary\nTax Code % Taxable Amount GST\nSR 6.00 4.43 0.27\nGST : 0.27\n+ GST Include Item\nThank You. Please Come Again."
+  }
+}

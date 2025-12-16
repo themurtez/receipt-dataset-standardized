@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "DI HUAN YA RESTAURANT",
+    "address": "5, Jalan Permas 10/5, Bandar Baru Permas Jaya, 81750 Johor Bahru, Johor",
+    "phone": "07-3886322",
+    "tax_id": "001914093568",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-07-04",
+    "time": "18:10:59",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 33.0,
+    "tax": 1.98,
+    "tip": 0.0,
+    "total": 35.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "ROASTED DUCK WITH CHINESE HERB (HALF)",
+      "quantity": 1,
+      "unit_price": 33.0,
+      "total_price": 33.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.02,
+    "change_due": 20.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006414392.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "A046053\n\nDI HUAN YA RESTAURANT\nCompany Reg.No: JM0681589-W\n5,JALAN PERMAS 10/5,\nBANDAR BARU PERMAS JAYA,\n81750 JOHOR BAHRU,JOHOR\nTEL/FAX:07-3886322\n[ GST ID : 001914093568 ]\n\nTAX INVOICE\nInv No : 199977\nCashier : c001-\nDate : 07/04/2018 - 18.10:59\n\nTable\nTA3\n\nQty Description\nTotal (RM) Tax\n1 106 33.00 SR\n#TAKE AWAY#\nROASTED DUCK WITH CHINESE\nHERB (HALF)\n\nTotal Sales Amount\nGST 6%\nRounding Adjustment\nTOTAL\nCASH\nChange Returned\n\n33.00\n1.98\n0.02\n35.00\n55.00\n20.00-\n\nItem Count : 1\nGST Summary Amount (RM) Tax (RM)\nSR = 6% 33.00 1.98\n\nThank You!\nPlease Come Again\nGoods Sold Are Not Returnable!\nClosed by - c001- 07/04/2018-18:11:05\n--- [ POSWAY - MYTH POS SOLUTION ] ---"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Bakery Name",
+    "address": "123 Bakery St, City",
+    "phone": "123-456-7890",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2023-10-05",
+    "time": "14:30:00",
+    "currency": "VND",
+    "payment_method": "Cash",
+    "subtotal": 72500.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 72500.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Choco Custard Pastry",
+      "quantity": 2,
+      "unit_price": 12000.0,
+      "total_price": 24000.0,
+      "category": "Pastry",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Apple Creamcheese Pastry",
+      "quantity": 1,
+      "unit_price": 13000.0,
+      "total_price": 13000.0,
+      "category": "Pastry",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Real Ganache",
+      "quantity": 1,
+      "unit_price": 16500.0,
+      "total_price": 16500.0,
+      "category": "Dessert",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Potato Sausage Bread",
+      "quantity": 1,
+      "unit_price": 19000.0,
+      "total_price": 19000.0,
+      "category": "Bread",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000725.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "2 CHOCO CUSTARD PASTRY 24,000\n1 APPLE CREAMCHEESE PASTRY 13,000\n1 REAL GANACHE 16,500\n1 POTATO SAUSAGE BREAD 19,000\nTOTAL 72,500\nCASH 72,500\nCHANGE 0"
+  }
+}

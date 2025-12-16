@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "99 SPEED MART S/B",
+    "address": "LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY, 41150 KLANG, SELANGOR, 1245-DESA SRI HARTAMAS",
+    "phone": "",
+    "tax_id": "000181747712",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-19",
+    "time": "09:06:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 10.75,
+    "tax": 0.65,
+    "tip": 0.0,
+    "total": 11.4,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SUNQUICK OREN 840ML",
+      "quantity": 1,
+      "unit_price": 11.4,
+      "total_price": 11.4,
+      "category": "Beverage",
+      "accounting_category": "Goods",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005444045.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "99 SPEED MART S/B (519537-X)\nLOT P.T. 2811, JALAN ANGSA,\nTAMAN BERKELEY\n41150 KLANG, SELANGOR\n1245-DESA SRI HARTAMAS\nGST ID. NO: 000181747712\nINVOICE NO: 18341/103/70138\n\n09:06PM 569547 19-03-18\n\n103 SUNQUICK OREN 840ML RM11.40\n\nTotal Sales (Inclusive GST) RM 11.40\nCASH RM 11.40\nCHANGE RM .00\n\nGST Summary Amount(RM) Tax(RM)\ns = 6% 10.75 .65\n\nThank You. Please come again\nKeep the invoice for applicable returns"
+  }
+}

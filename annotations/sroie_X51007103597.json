@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "GOLDEN KEY MAKER",
+    "address": "No 5, Jalan Kenari 2,\nBandar Puchong Jaya,\n47100 Puchong, Selangor",
+    "phone": "03-58919941",
+    "tax_id": "000760274-K",
+    "website": "www.goldenkeymaker.com"
+  },
+  "transaction": {
+    "date": "2018-04-11",
+    "time": "03:12:06",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 10.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 10.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "NORMAL KEY LONG",
+      "quantity": 2,
+      "unit_price": 5.0,
+      "total_price": 10.0,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007103597.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GOLDEN KEY MAKER\n(000760274-K)\nNo 5, Jalan Kenari 2,\nBandar Puchong Jaya,\n47100 Puchong, Selangor\nTEL: 03-58919941\nFAX: 03-58919941\nE-Mail: goldenkeymaker@gmail.com\nWebsite: www.goldenkeymaker.com\nS/P : onn Inv No : CS-0014464\n11-Apr-2018 03:12:06 PM\n---INVOICE---\nNo.Desc/Code Qty Price Disc% Amount\n1 NORMAL KEY LONG\n33101 2 5.00 0.00 10.00\nTotal Qty : 2 Sub-Total: 10.00\nDiscount : 0.00\nNet Total : 10.00\nCash Received : 10.00\nChange : 0.00\nGOODS SOLD ARE NOT RETURNABLE/REFUNDABLE"
+  }
+}

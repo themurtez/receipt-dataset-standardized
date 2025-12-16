@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "KRW",
+    "payment_method": "Card",
+    "subtotal": 325000.0,
+    "tax": 34600.0,
+    "tip": 0.0,
+    "total": 382350.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BULGOGI",
+      "quantity": 1,
+      "unit_price": 150000.0,
+      "total_price": 150000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "JEONGSIK",
+      "quantity": 1,
+      "unit_price": 130000.0,
+      "total_price": 130000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "HWANGTAE",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.5
+    },
+    {
+      "name": "SUNDBU(TUKBEGI)",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.5
+    },
+    {
+      "name": "GYERAN CIM",
+      "quantity": 1,
+      "unit_price": 45000.0,
+      "total_price": 45000.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000243.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BULGOGI 1 150,000\nJEONGSIK 1 130,000\nHWANGTAE\nSUNDBU(TUKBEGI)\nGYERAN CIM 45,000\nSub Total 325,000\nService 22,750\nTax 34,600\nDiscount 0\nTOTAL 382,350\nCard 382,350\nCHANGE 0"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "Nando's",
+    "address": "Nando's 1 Mont Kiara, Unit G-13, Ground Floor, No.1, Jln Kiara, Mont Kiara, 50480 Kuala Lumpur",
+    "phone": "1300-88-6555",
+    "tax_id": "000097492992",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-28",
+    "time": "18:32:36",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 129.3,
+    "tax": 7.3,
+    "tip": 0.0,
+    "total": 129.3,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Delivery Charge",
+      "quantity": 1,
+      "unit_price": 4.0,
+      "total_price": 4.0,
+      "category": "Service",
+      "accounting_category": "Delivery",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "1/4 Chic + Isd-T",
+      "quantity": 4,
+      "unit_price": 17.9,
+      "total_price": 71.6,
+      "category": "Food",
+      "accounting_category": "Entree",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "1/4-H",
+      "quantity": 4,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Entree",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Char Grill Veg(R)-TC",
+      "quantity": 4,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Side Dish",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "1/4 Chic + Isd-T",
+      "quantity": 3,
+      "unit_price": 17.9,
+      "total_price": 53.7,
+      "category": "Food",
+      "accounting_category": "Entree",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "1/4-M",
+      "quantity": 3,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Entree",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Coleslaw(R)-TC",
+      "quantity": 3,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Food",
+      "accounting_category": "Side Dish",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 18,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005444037.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Nando's Chickenland Malaysia Sdn Bhd... [truncated for brevity]"
+  }
+}

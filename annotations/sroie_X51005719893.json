@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Mr. Dakgalbi Solaris",
+    "address": "No.J-G-02, Soho KI, Solaris Mont Kiera, 50 480 KL",
+    "phone": "03 6206 5567",
+    "tax_id": "000417619968",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-05",
+    "time": "22:55:25",
+    "currency": "RM",
+    "payment_method": "Cash",
+    "subtotal": 66.98,
+    "tax": 4.02,
+    "tip": 0.0,
+    "total": 71.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Fried Rice 3 Pax",
+      "quantity": 1,
+      "unit_price": 71.0,
+      "total_price": 71.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 30.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005719893.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Mr. Dakgalbi Solaris\nBRN GST No. 000417619968 President: Kang\nNo.J-G-02, Soho KI, Solaris Mont Kiera, 50\n480 KL\nGST No. TEL)03 6206 5567\n[Sales]2018-01-05 22:55:25 PosNo: 86\nDescription qty Price\nFried Rice 3 Pax 1 71.00(S)\n1 Item (Inclusive of GST) 71.00\nRound Amt 0.00\nTOTAL 71.00\nCash 71.00\nCash Received 101.00\nChange 30.00\nGST @6% 4.02\nGSTSummary Amount(RM)\nS=GST @ 6%: 66.98\nZ=GST @ 0%: 0.00\nReceipt No: 18010500047\nPerson : S-Admin\nTable No: [Hall]-9"
+  }
+}

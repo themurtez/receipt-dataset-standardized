@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "EFT",
+    "subtotal": 45110.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 43110.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "NB MINI STICK",
+      "quantity": 2,
+      "unit_price": 1200.0,
+      "total_price": 2400.0,
+      "category": "Snack",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "GERRY SM CHEESE110",
+      "quantity": 1,
+      "unit_price": 8000.0,
+      "total_price": 8000.0,
+      "category": "Snack",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "DECOLGEN TABLET 4S",
+      "quantity": 3,
+      "unit_price": 2100.0,
+      "total_price": 6300.0,
+      "category": "Medicine",
+      "accounting_category": "Health",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "FIXALL HK 26521",
+      "quantity": 2,
+      "unit_price": 19900.0,
+      "total_price": 39800.0,
+      "category": "Home Supplies",
+      "accounting_category": "Household",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000235.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "2X 1,200 \nNB MINI STICK 2,400\nMEGA Discount 240-\n1X 8,000 \nGERRY SM CHEESE110 8,000\nMEGA Discount 800-\n3X 2,100 \nDECOLGEN TABLET 4S 6,300\nMEGA Discount 630-\n2X 19,900 \nFIXALL HK 26521 39,800\nDiscount\nMEGA Discount 8,600-\n3,120-\nSUBTOTAL: 45,110\nTOTAL: 43,110\nMEGA OFFLINE EFT: 43,110\n"
+  }
+}

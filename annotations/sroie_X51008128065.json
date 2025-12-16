@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "99 SPEED MART S/B",
+    "address": "LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY, 41150 KLANG, SELANGOR, 1249-TMN PANDAN CAHAYA",
+    "phone": "",
+    "tax_id": "000181747712",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-03",
+    "time": "21:41:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 18.77,
+    "tax": 1.13,
+    "tip": 0.0,
+    "total": 19.9,
+    "accounting_category": "Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CARLSBERG SMOOTH DRAUGHT",
+      "quantity": 1,
+      "unit_price": 14.3,
+      "total_price": 14.3,
+      "category": "Alcohol",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CARLSBERG CAN 320ML",
+      "quantity": 1,
+      "unit_price": 5.6,
+      "total_price": 5.6,
+      "category": "Alcohol",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008128065.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "99 SPEED MART S/B (519537-X)\nLOT P.T. 2811, JALAN ANGSA,\nTAMAN BERKELEY\n41150 KLANG, SELANGOR\n1249-TMN PANDAN CAHAYA\nGST ID. NO : 000181747712\nINVOICE NO : 18386/103/T0314\n\n09:41PM 568008 03-05-18\n\n2249 CARLSBERG SMOOTH DRAUG RM14.30 s\n483 CARLSBERG CAN 320ML (IC RM5.60 s\n\nTotal Sales (Inclusive GST) RM 19.90\nCASH RM 19.90\nCHANGE RM .00\n\nGST Summary Amount(RM) Tax(RM)\ns = 6% 18.77 1.13\n\nThank You. Please come again\nKeep the invoice for applicable returns"
+  }
+}

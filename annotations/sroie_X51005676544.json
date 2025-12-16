@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Syarikat Perniagaan Gin Kee",
+    "address": "No 290, Jalan Air Panas, Setapak, 53200, Kuala Lumpur",
+    "phone": "03-40210276",
+    "tax_id": "000750673920",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-02",
+    "time": "09:29:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 2.0,
+    "tax": 0.12,
+    "tip": 0.0,
+    "total": 2.12,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Glove 1200 (Per Pair)",
+      "quantity": 1,
+      "unit_price": 2.12,
+      "total_price": 2.12,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005676544.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SYARIKAT PERNIAGAAN GIN KEE (81109-A) NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR. TEL: 03-40210276 GST ID: 000750673920 SIMPLIFIED TAX INVOICE CASH Doc No. : CS00012494 Date: 02/01/2018 Cashier : USER Time: 09:29:00 Salesperson : Ref.: Item Qty S/Price Amount Tax 1432 1 2.12 2.12 SR GLOVE 1200 (PER PAIR) Total Qty: 1 2.12 Total Sales (Excluding GST) : 2.00 Discount : 0.00 Total GST : 0.12 Rounding : Total Sales (Inclusive of GST) : 2.12 CASH : 2.12 Change : 0.00 GST SUMMARY Tax Code % Amt (RM) Tax (RM) SR 6 2.00 0.12 Total : 2.00 0.12 GOODS SOLD ARE NOT RETURNABLE, THANK YOU."
+  }
+}

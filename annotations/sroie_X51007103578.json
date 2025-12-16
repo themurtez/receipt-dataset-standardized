@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (M) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000306020352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-06",
+    "time": "16:46:00",
+    "currency": "MYR",
+    "payment_method": "VISA",
+    "subtotal": 30.0,
+    "tax": 1.77,
+    "tip": 0.0,
+    "total": 31.2,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ACRYLIC TAPE 18MM*1.5M",
+      "quantity": 4,
+      "unit_price": 2.9,
+      "total_price": 11.6,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "DBL SIDE CLEAR ACRYLIC TAPE",
+      "quantity": 1,
+      "unit_price": 11.9,
+      "total_price": 11.9,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TEST PEN 886A",
+      "quantity": 1,
+      "unit_price": 1.9,
+      "total_price": 1.9,
+      "category": "Tools",
+      "accounting_category": "Tools",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "S/DRIVER 860 4#",
+      "quantity": 1,
+      "unit_price": 3.3,
+      "total_price": 3.3,
+      "category": "Tools",
+      "accounting_category": "Tools",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "COL.SCREWDRIVER 4'",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Tools",
+      "accounting_category": "Tools",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007103578.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. D.I.Y. (M) SDN BHD\n(CO.REG :860671-D)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000306020352)\n(IOI PUCHONG)\n-TAX INVOICE-\n\nACRYLIC TAPE 18MM*1.5M *S\nUA12 - 12/144\n9086391 4 X 2.90 11.60\nDBL SIDE CLEAR ACRYLIC TAPE VST106C *S\nWA10 - 8/64\n9554100363103 1 X 11.90 11.90\nTEST PEN 886A *S\nXG02XA21 - 24/600\n9020529 1 X 1.90 1.90\nS/DRIVER 860 4# (+) *6730003*TR *S\nLF31/2 - 12/240\n9071681 1 X 3.30 3.30\nCOL.SCREWDRIVER 4’ ++TR *S\nLB31 - 12/240\n9072218 1 X 2.50 2.50\n\nItem(s) : 5 Qty(s) : 8\n\nTotal Incl. GST@6% RM 31.20\nEDC RM 31.20\n************4116 (VISA)\n\nGST @6% included in total RM 1.77\n\n06-04-18 16:46 SHO1 ZJ86 T1 R000115147\nOPERATOR TRAINEE CASHIER\n\nEXCHANGE ARE ALLOWED WITHIN\n7 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

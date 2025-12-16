@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Guardian Health And Beauty Sdn Bhd",
+    "address": "SOLARIS MOUNT KIARA NO.8 & 10, GF SOLARIS MOUNT KUARA JLN SOLARIS 5",
+    "phone": "03-62037941",
+    "tax_id": "#1101083-T",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-01",
+    "time": "12:23:00",
+    "currency": "MYR",
+    "payment_method": "Visa Card",
+    "subtotal": 22.44,
+    "tax": 1.27,
+    "tip": 0.0,
+    "total": 22.45,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "FREEMAN BK/CH 6OZ",
+      "quantity": 1,
+      "unit_price": 22.44,
+      "total_price": 22.44,
+      "category": "Beauty & Health",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.01,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006311714.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Guardian Health And Beauty Sdn Bhd\nSOLARIS MOUNT KIARA\nNO.8 & 10, GF SOLARIS MOUNT KUARA\nJLN SOLARIS 5\nTel:03-62037941\nCompany Reg #1101083-T\nGST Reg #000899874816\n\n121092943 FREEMAN BK/CH 6OZ        RM 22.44\nSUBTOTAL                                            22.44\n\nROUNDING ADJUSTMENTS                     0.01\nTOTAL (GST INCL)                              22.45\nVisa Card                                            22.45\nTrace No. 016036\nCARD NO. 461772******2105\nOwner Name\n\nYOUR SAVINGS FOR TODAY                     3.9%\n\nGST -   Rate     GST Excl   GST Amt\nS          6%      21.17         1.27\n^ Promo price items\n\nThank You For Shopping\nAt Guardian\nAll Amounts Are in RM\nGoods sold are non-refundable.\nDispensed medicines sold are\nnot returnable.\n\nAll exchanges and returns including\nGuardian brand products must be made\nwithin 7days with original receipts and\nproduct in original condition.\nSt:8300 Ctr2 ID:2005 TaxInv:53488\n12:23        01/01/18"
+  }
+}

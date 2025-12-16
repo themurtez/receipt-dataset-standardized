@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (M) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000306020352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-28",
+    "time": "15:40:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 50.19,
+    "tax": 3.01,
+    "tip": 0.0,
+    "total": 53.2,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ALUMINIUM FOIL 25SQ 30CM*7.62M",
+      "quantity": 1,
+      "unit_price": 5.5,
+      "total_price": 5.5,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SEKOPLAS H/D GARBAGE 89CM*117CM 10S",
+      "quantity": 5,
+      "unit_price": 9.5,
+      "total_price": 47.5,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PLASTIC BAGS",
+      "quantity": 1,
+      "unit_price": 0.2,
+      "total_price": 0.2,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 47.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007103692.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "31804058\nMR. D.I.Y. (M) SDN BHD\n(CO.REG :860671-D)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000306020352)\n(IOI PUCHONG)\n-TAX INVOICE-\n----------------------------------\nALUMINIUM FOIL 25SQ# 30CM*7.62M *S\nBJ41/2-52 - 24\n9069295 1 X 5.50 5.50\nSEKOPLAS H/D GARBAGE 89cm*117cm 10s *S\nWA58 - 16\n9557002081113 5 X 9.50 47.50\nPLASTIC BAGS *S\n999999 1 X 0.20 0.20\n----------------------------------\nItem(s) : 3 Qty(s) : 7\n----------------------------------\nTotal Incl. GST@6% RM 53.20\nCASH RM 100.20\nCHANGE RM 47.00\n\nGST @6% included in total RM 3.01\n----------------------------------\n28-04-18 15:40 SHO1 ZJ86 T3 R000064333\nOPERATOR TRAINEE CASHIER\n\nEXCHANGE ARE ALLOWED WITHIN\n7 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND.\n"
+  }
+}

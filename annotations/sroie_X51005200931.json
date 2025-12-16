@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Perniagaan Zheng Hui",
+    "address": "No.59 Jalan Permas 9/5, Bandar Baru Permas Jaya, 81750 Johor Bahru",
+    "phone": "07-386 7524",
+    "tax_id": "200806089824",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-09-03",
+    "time": "08:32:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 411.5,
+    "tax": 24.69,
+    "tip": 0.0,
+    "total": 436.2,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SR Ceramic Cap",
+      "quantity": 5,
+      "unit_price": 3.5,
+      "total_price": 17.5,
+      "category": "Office Supplies",
+      "accounting_category": "Materials",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "SR: Steel 1/2\" Street Elbow",
+      "quantity": 30,
+      "unit_price": 3.8,
+      "total_price": 114.0,
+      "category": "Office Supplies",
+      "accounting_category": "Materials",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "SR: 2.4mm Starweld Red Head Tungsten Rod",
+      "quantity": 1,
+      "unit_price": 55.0,
+      "total_price": 55.0,
+      "category": "Office Supplies",
+      "accounting_category": "Tools",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "SR: Eiscut 4\" Cutting Disc (1box)-50pcs",
+      "quantity": 3,
+      "unit_price": 33.0,
+      "total_price": 99.0,
+      "category": "Office Supplies",
+      "accounting_category": "Tools",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "SR: Weldpro Pickling Gel 1kg",
+      "quantity": 2,
+      "unit_price": 43.0,
+      "total_price": 86.0,
+      "category": "Office Supplies",
+      "accounting_category": "Chemicals",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "SR: 13.5\" Welding Glove - Green (GS)",
+      "quantity": 4,
+      "unit_price": 10.0,
+      "total_price": 40.0,
+      "category": "Office Supplies",
+      "accounting_category": "Safety Equipment",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 45,
+    "rounding": 0.01,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005200931.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PERNIAGAAN ZHENG HUI\nJM0235955-V\nNO.59 JALAN PERMAS 9/5\nBANDAR BARU PERMAS JAYA\n81750 JOHOR BAHRU\nTEL : 07-386 7524 FAX : 07-386 3793\nGST NO : 200806089824\nSIMPLIFIED TAX INVOICE\nGCGIANT ENGINEERING (M) SDN BHD\nReceipt #: C500002256\nSalesperson: Date: 09/03/2018\nCashier: USER Time: 08:32:00\n(RM)\nItem Qty RSP Amount\n6783 /809 5 3.50 17.50\nSR CERAMIC CAP\n2954 /809 30 3.80 114.00\nSR: STEEL 1/2\" STREET ELBOW\n1760 4 [! 1 55.00 55.00\nSR: 2.4MM STARWELD RED HEAD TUNGSTEN ROD\n3496 4 [! 3 33.00 99.00\nSR: EISCUT 4\" CUTTING DISC (1BOX)-50PCS\n2480 49] 2 43.00 86.00\nSR: WELDPRO PICKLING GEL 1KG\n9428 49 4 10.00 40.00\nSR: 13.5\" WELDING GLOVE - GREEN (GS)\nTOT QTY: 45 ----------- 411.50\n(Excluded GST) Sub Total (RM) : 411.50\nDiscount (RM) : 0.00\nTotal GST (RM) : 24.69\nRounding (RM) : 0.01\nTotal (RM) : 436.20\nCASH : 436.20\nChange (RM) : 0.00\nGST SUMMARY\nTax Code % Amount GST\nSR 6 411.50 24.69\nTotal : 411.50 24.69\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU."
+  }
+}

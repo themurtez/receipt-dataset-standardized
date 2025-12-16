@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "Intermarche Lagoa Po Partido Carvoeiro",
+    "address": "8400-557 Carvoeiro Lga",
+    "phone": "",
+    "tax_id": "PT259318329",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-07-05",
+    "time": "19:01:36",
+    "currency": "EUR",
+    "payment_method": "Dinheiro",
+    "subtotal": 280.25,
+    "tax": 41.92,
+    "tip": 0.0,
+    "total": 224.2,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chave Pontos",
+      "quantity": 7,
+      "unit_price": 14.9,
+      "total_price": 83.44,
+      "category": "Hardware",
+      "accounting_category": "Tools",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chave Cruciform",
+      "quantity": 8,
+      "unit_price": 9.5,
+      "total_price": 60.8,
+      "category": "Hardware",
+      "accounting_category": "Tools",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chave Gorja",
+      "quantity": 1,
+      "unit_price": 4.95,
+      "total_price": 3.96,
+      "category": "Hardware",
+      "accounting_category": "Tools",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chave Palhet",
+      "quantity": 2,
+      "unit_price": 12.2,
+      "total_price": 19.52,
+      "category": "Hardware",
+      "accounting_category": "Tools",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chave Colorida",
+      "quantity": 1,
+      "unit_price": 3.25,
+      "total_price": 7.8,
+      "category": "Hardware",
+      "accounting_category": "Tools",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Re-3D",
+      "quantity": 1,
+      "unit_price": 5.5,
+      "total_price": 4.4,
+      "category": "Hardware",
+      "accounting_category": "Tools",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sdf32",
+      "quantity": 1,
+      "unit_price": 6.5,
+      "total_price": 3.28,
+      "category": "Hardware",
+      "accounting_category": "Tools",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chave Simples",
+      "quantity": 25,
+      "unit_price": 1.95,
+      "total_price": 39.0,
+      "category": "Hardware",
+      "accounting_category": "Tools",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 46,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210322_161246.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BRUNO FILIPE CARVALHO MORGADO\nINTERMARCHE LAGOA PO PARTIDO CARVOEIRO\n8400-557 CARVOEIRO LGA\nNIF: PT259318329\n\nData: 2019-07-05, 19:01:36\nFactura n: FT F/0000021\n\nCliente: Flakehome Algarve\nNIF: 514407395\n\nQt Desc. IVA p.unit total\n7 CHAVE PONTOS 23% €14,90 €83,44\n8 CHAVE CRUCIFORM 23% €9,50 €60,80\n1 CHAVE GORJA 23% €4,95 €3,96\n2 CHAVE PALHET 23% €12,20 €19,52\n1 CHAVE COLORIDA 23% €3,25 €7,80\n1 RE-3D 23% €5,50 €4,40\n1 SDF/2 23% €6,50 €3,28\n25 CHAVE SIMPLES 23% €1,95 €39,00\nS/ Desconto: €280,25\nDesconto: €56,05\nMetodos de Pagamento:\nDinheiro €224,20\n\nTaxa Incid. Valor Total\n23% €182,28 €41,92 €224,20\nTotal: €182,28 €41,92 €224,20\n\nEmpregado: ME\ns4e1=Processado por programa certificado\nN.2235/AT Sage\n\n* Obrigado - Volte Sempre *"
+  }
+}

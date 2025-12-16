@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Aik Huat Hardware Enterprise (Setia Alam) Sdn Bhd",
+    "address": "No. 17-G, Jalan Setia Indah (X) U13/X, Setia Alam, Seksyen U13, 40170 Shah Alam",
+    "phone": "012-6651703",
+    "tax_id": "000394528768",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-03-30",
+    "time": "16:44:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 6.0,
+    "tax": 0.34,
+    "tip": 0.0,
+    "total": 6.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "8\" X 3.6MM (100pcs) Black Cable Ties",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 14.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007339643.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AIK HUAT HARDWARE\nENTERPRISE (SETIA\nALAM) SDN BHD\n922737-X\nNO. 17-G, JALAN SETIA INDAH\n(X) U13/X, SETIA ALAM,\nSEKSYEN U13, 40170 SHAH ALAM,\nTEL: 012 - 6651703 FAX: 03 - 3362 3608\nGST NO: 000394528768\nSIMPLIFIED TAX INVOICE\nCASH\nRECEIPT #: CSP033790 DATE: 30/03/2017\nSALESPERSON: AH002 TIME: 16:44:00\nITEM QTY U/P AMOUNT\n(RM) (RM)\n4521000000008 1 6.00 6.00 S\n8\"X 3.6MM(100PCS)BLACK CABLE TIES\nTOTAL QUANTITY 1\nSUB-TOTAL (GST) 6.00\nDISC 0.00\nROUNDING 0.00\nTOTAL 6.00\nCASH 20.00\nCHANGE 14.00\n*GST @ 6% INCLUDED IN TOTAL\nGST SUMMARY\nCODE AMOUNT % TAX/AMT\nSR 5.66 6 0.34\nTAX TOTAL: 0.34\nGOODS SOLD ARE NOT REFUNDABLE.\nTHANK YOU FOR CHOOSING US.\nPLS PROVIDE ORIGINAL BILL FOR GOODS\nEXCHANGE WITHIN 1 WEEK FROM TRANSACTION.\nGOODS MUST BE IN ORIGINAL STATE TO BE\nENTITLED FOR EXCHANGE."
+  }
+}

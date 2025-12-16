@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Bota Minuto",
+    "address": "Centro Comercial Amoreiras, 2º 5041, 1070 Lisboa",
+    "phone": "213092457",
+    "tax_id": "510767591",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-11-02",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 51.71,
+    "tax": 11.89,
+    "tip": 0.0,
+    "total": 63.6,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chave Pliheta CSL CI-14G",
+      "quantity": 1,
+      "unit_price": 14.2,
+      "total_price": 14.2,
+      "category": "Hardware",
+      "accounting_category": "Tools",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Chave Telescopica",
+      "quantity": 1,
+      "unit_price": 19.4,
+      "total_price": 19.4,
+      "category": "Hardware",
+      "accounting_category": "Tools",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Chave Plant U.50",
+      "quantity": 1,
+      "unit_price": 4.8,
+      "total_price": 4.8,
+      "category": "Hardware",
+      "accounting_category": "Tools",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Argola Metal",
+      "quantity": 2,
+      "unit_price": 2.0,
+      "total_price": 4.0,
+      "category": "Hardware",
+      "accounting_category": "Accessories",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Chave Art Telcom",
+      "quantity": 2,
+      "unit_price": 12.2,
+      "total_price": 24.4,
+      "category": "Hardware",
+      "accounting_category": "Tools",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_172952.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Bota Minuto\nAMOREIRAS\nConsorcio Papelão Amoreiras, Lda\nCentro Comercial Amoreiras, Loja 2º 5041\n1070 Lisboa Tel 213092457\nNIF 510767591\n...\n13.00 ... CI-14G\n1.00 14.20\nChave Telescopica\n...\nTotal Euro 63.60\n... \n"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "JIMART@SP3",
+    "address": "No.29M, Jalan Dinar G U3/G, Seksyen U3, Subang Perdana, 40150 Shah Alam",
+    "phone": "013-336 3999",
+    "tax_id": "002077622272",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-17",
+    "time": "19:36:12",
+    "currency": "MYR",
+    "payment_method": "cash",
+    "subtotal": 28.31,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 28.3,
+    "accounting_category": "sales",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Kitchen Lighter 2015",
+      "quantity": 5,
+      "unit_price": 3.68,
+      "total_price": 18.4,
+      "category": "household",
+      "accounting_category": "inventory",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Cotton White Mop 450 W.HDL",
+      "quantity": 1,
+      "unit_price": 9.91,
+      "total_price": 9.91,
+      "category": "cleaning",
+      "accounting_category": "inventory",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": -0.01,
+    "change_due": 21.7
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008123599.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "JIMART@SP3\nOGN GROUP SDN BHD\nRoc: 1026984-X\nNo.29M, Jalan Dinar G U3/G, Seksyen U3,\nSubang Perdana, 40150 Shah Alam\n013-336 3999\nGST Reg No: 002077622272\n\nTAX INVOICE\nInvoice No : SP3-01-147902\nDate : 17/06/2018 7:36:12 PM\nCashier : Jimart\n\nDescription Qty Price Amount\n1 SR 6001188379050 5 3.68 18.40\nKitchen Lighter 2015\n2 SR 9555586101265 1 9.91 9.91\nCotton White Mop 450 W.HDL\nTotal Item Discount 0.00\nTotal Sales Inclusive GST@ 0.00% 28.31\nRounding Adjustment: -0.01\nTOTAL: 28.30\nCASH 50.00\nChange : 21.70\n\nGST Summary % Amount(RM) Tax(RM)\nSR 0.00 28.31 * 0.00\n\ni love jimart\nGOODS SOLD ARE NOT RETURNABLE\nThank You.Please Come Again."
+  }
+}

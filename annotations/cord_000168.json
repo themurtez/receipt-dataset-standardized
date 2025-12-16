@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "JPY",
+    "payment_method": "cash",
+    "subtotal": 13636,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 12750,
+    "accounting_category": "Grocery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Choco Cheese",
+      "quantity": 1,
+      "unit_price": 13636,
+      "total_price": 13636,
+      "category": "Food",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000168.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Choco Cheese 13,636\nExclusive Member Car -2,045\nSubTotal: 13,636\nDiscount: -2,045\nPR1: 1,159\nTotal: 12,750\ncash: 12,750\n"
+  }
+}

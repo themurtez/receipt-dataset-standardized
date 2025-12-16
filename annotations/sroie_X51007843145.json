@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "BHPetrol Permas Jaya 2",
+    "address": "LOT PTD 101051 Jalan Permas 10/10 81750 Masai, Johor",
+    "phone": "1-300-22-2828",
+    "tax_id": "GST REG. NO: 000153358336",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-30",
+    "time": "09:09:49",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 50.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 50.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Inf RON95",
+      "quantity": 22.73,
+      "unit_price": 2.2,
+      "total_price": 50.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel Expense",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007843145.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TAX INVOICE\nBHPetrol Permas Jaya 2\nLOT PTD 101051\nJalan Permas 10/10\n81750 Masai, Johor\nEsjay Fuel Enterprise\nCO. REG. NO: 001011128-T\nGST REG. NO: 000153358336\n30-06-2018 09:09:49 Cashier: 465\nInvoice No: 1-642195\nPrepay Chit Number: 12091\nItem U\\Price Qnty Amount\nInf RON95 P3 2.200 22.73 50.00 RM\nTOTAL SALES RM 50.00\nROUNDING ADJ RM 0.00\nTOTAL AMOUNT PAYABLE\nRM 50.00\nCASH\nPrepay Deposit RM 50.00\nPrepay Refund RM 0.00\nGST SUMMARY Amount RM Tax RM\nR: Relief* 50.00 0.00\n*Relief under Section 56(3)(b)GST Act 2014\nThank You For Shopping At BHPetromart\nCustomer Service 1-300-22-2828"
+  }
+}

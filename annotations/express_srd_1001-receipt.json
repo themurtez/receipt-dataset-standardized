@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Grand Lux Cafe",
+    "address": "Roosevelt Field",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2015-04-25",
+    "time": "16:43:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 63.75,
+    "tax": 5.5,
+    "tip": 0.0,
+    "total": 69.25,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Coffee",
+      "quantity": 1,
+      "unit_price": 2.95,
+      "total_price": 2.95,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chicken Parmesan",
+      "quantity": 1,
+      "unit_price": 17.95,
+      "total_price": 17.95,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Prime Top Sirloin",
+      "quantity": 1,
+      "unit_price": 25.95,
+      "total_price": 25.95,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "The Bacon-Cheese Burger",
+      "quantity": 1,
+      "unit_price": 13.95,
+      "total_price": 13.95,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Coffee",
+      "quantity": 1,
+      "unit_price": 2.95,
+      "total_price": 2.95,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1001-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GRAND LUX CAFE\nRoosevelt Field\n0480 TABLE 101 #Party 3\nSTEPHEN R SvrCk: 4 16:43 04/25/15\nCoffee 2.95\nChicken Parmesan 17.95\nPrime Top Sirloin 25.95\nThe Bacon-Cheese Burger 13.95\nCoffee 2.95\nSub Total: 63.75\nTax: 5.50\n04/25 17:42 TOTAL: 69.25\nGratuity Not Included\nSuggested Gratuity:\n20% 13.85\n18% 12.47\n15% 10.39\nIt's been a pleasure to serve you.\nThank you for dining with us"
+  }
+}

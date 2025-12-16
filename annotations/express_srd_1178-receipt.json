@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Gourdough's Public House",
+    "address": "2700 South Lamar Blvd, Austin, TX 78704",
+    "phone": "(512) 912-9070",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-01-21",
+    "time": "20:56:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 11.0,
+    "tax": 0.91,
+    "tip": 0.0,
+    "total": 11.91,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Freebird",
+      "quantity": 1,
+      "unit_price": 5.5,
+      "total_price": 5.5,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Ice Cream",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Dessert",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Lonestar",
+      "quantity": 1,
+      "unit_price": 3.5,
+      "total_price": 3.5,
+      "category": "Beverage",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1178-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Gourdough's Public House\n2700 South Lamar Blvd\nAustin, TX 78704\nPhone: (512) 912-9070\n\n300B BAR PM B\nChk 7862 Jan21'17 08:56P Gst 1\n\n1 FREEBIRD 5.50\n1 ICE CREAM 2.00\n1 LONESTAR 3.50\n\nORIGINAL TTL 11.00\nTAX 0.91\n09:38PM TOTAL 11.91\n\nFollow us @gourdoughspub on\nFacebook or Twitter for the\nlatest and greatest specials!"
+  }
+}

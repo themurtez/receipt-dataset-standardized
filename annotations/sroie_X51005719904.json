@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Yam Fresh",
+    "address": "No.145G, Jalan Rimbunan Raya 1, Laman Rimbunan Kepong, 52100 Kuala Lumpur",
+    "phone": "(603) 6243 5520",
+    "tax_id": "001817907200",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-18",
+    "time": "13:18:48",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 29.3,
+    "tax": 1.66,
+    "tip": 0.0,
+    "total": 29.3,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Oyster Mee",
+      "quantity": 1,
+      "unit_price": 9.9,
+      "total_price": 9.9,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "BlackSugar Ice",
+      "quantity": 1,
+      "unit_price": 7.5,
+      "total_price": 7.5,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Pudding Soybean",
+      "quantity": 1,
+      "unit_price": 8.9,
+      "total_price": 8.9,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Pearl Herb",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Add-on",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 1.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005719904.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Yam Fresh\nNo.145G, Jalan Rimbunan Raya 1,\nLaman Rimbunan Kepong,\n52100 Kuala Lumpur\nTel: (603) 6243 5520\nGST ID=001817907200\n\n(Bill No.: 001-3246 Dine In\nDate: 2018-03-18 13:18:48\n\nRO5 Oyster Mee 1 RM9.90\n:Take Away\nA07 BlackSugar Ice 1 RM7.50\n:Fresh Milk\n:Pearl\n:Herb.J\n:Take Away RM3.00\n\nSO2 Pudding Soybean 1 RM8.90\n:Take Away\n\nGrand Total RM29.30\n(Bill Inclusive of 6% GST : RM1.66)\n\nCash RM30.30\nChange RM1.00\n\nThank You.\nPlease visit us at:\nFacebook:-Yam Fresh\nWifi SSID: yamfresh\nWifi Pasword: buyadrinkfirst\n\n001-2018-03-18 13:21:02 Rainny 001-3246 [1]"
+  }
+}

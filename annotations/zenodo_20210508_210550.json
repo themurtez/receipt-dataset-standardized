@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Vital Costa Braz",
+    "address": "CC. Continente, Piso -1 LJ E11",
+    "phone": "282498366",
+    "tax_id": "510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-02",
+    "time": "16:34:48",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 10.75,
+    "tax": 2.01,
+    "tip": 0.0,
+    "total": 10.75,
+    "accounting_category": "Retail",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Chaves Pontos Normal",
+      "quantity": 1,
+      "unit_price": 9.0,
+      "total_price": 9.0,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Chaves Yale",
+      "quantity": 1,
+      "unit_price": 1.75,
+      "total_price": 1.75,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_210550.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "VITAL COSTA BRAZ\nCC. CONTINENTE, PISO -1 LJ E11\nTLF./FAX.: 282498366\n\n2018-04-02 FATURA SIMPLIFICADA N:\nOriginal FS 1A1801/2820\n16:34:48 BALCAO 1\nContribuinte: 510776914\n\nDESCRICAO IVA VALOR\n1 CHAVES PONTOS NORMAL 23% 9,00\n1 CHAVES YALE 23% 1,75\n\nTAXA IVA INCID.\n23% 2,01 8,74\nTOTAL: Eur 10,75\n\nPago em Numerario\nOBRIGADO/THANK YOU\n\ng6/g-Processado por programa\ncertificado n. 217/AT\n\nOs serviços e/ou bens foram realizados e\n/ou colocados à disposicao do adquirente\nnesta data (Art. 36 do CIVA, No5 alinea F)\n\nLicenca: Vital Costa Bras\nContribuinte: 152535403"
+  }
+}

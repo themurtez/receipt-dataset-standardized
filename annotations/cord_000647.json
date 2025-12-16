@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Debit Card",
+    "subtotal": 118000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 118000.0,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Plastic Ball Small",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Toy",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chocolate Cookies",
+      "quantity": 1,
+      "unit_price": 62000.0,
+      "total_price": 62000.0,
+      "category": "Food",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Corn Flakes Cookies",
+      "quantity": 1,
+      "unit_price": 56000.0,
+      "total_price": 56000.0,
+      "category": "Food",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000647.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "6001-Plastic Ball Small\n0,00 x1 0,00\n5003-Chokolate Cookies\n62.000,00 x1 62.000,00\n5001-Corn Flakes Cookies\n56.000,00 x1 56.000,00\nTotal Items: 3\nTotal: 118.000,00\nDebit Card 118.000,00"
+  }
+}

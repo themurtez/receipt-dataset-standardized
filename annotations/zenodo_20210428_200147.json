@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Galp",
+    "address": "Gar. Ribamaf, Campo da Costa, Rua Correia Teles 29B, 1500-099 Lisboa",
+    "phone": "",
+    "tax_id": "510716934",
+    "website": "galp.com"
+  },
+  "transaction": {
+    "date": "2019-04-30",
+    "time": "14:16:54",
+    "currency": "EUR",
+    "payment_method": "Cartão Debito",
+    "subtotal": 32.52,
+    "tax": 7.48,
+    "tip": 0.0,
+    "total": 40.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Gasóleo Simples",
+      "quantity": 27.141,
+      "unit_price": 1.474,
+      "total_price": 40.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_200147.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "galp\n\nDOCUMENTO DE VENDA\n----\nGAR. RIBAMAF CAMPO DA COSTA 19\nGAR. RIBAMAF - CAMPO DA COSTA\nRua Correia Teles 29 B\n1500-099 LISBOA\nNIF: 510716934\nFatura Simplificada\nFatura/Recibo\n\nQuantidade Designação Preço\nPreço Unitário\n\n27.141 L Bomb0a 03\nGASOLEO SIMPLES EUR 40.09\n1.474 EUR / L\n\nTotal EUR 40.0\n\n23.00 % IVA A EUR 7.48\n\nCliente: 3561\nNome: FILKEHOME\nMorada: LISBOA\nCodigo Postal:\nLocalidade:\nNo Contribuinte: 510716934\nMatrícula: 64-TO-15\nOperador: Paulo Freitas\nDoc. Nº\n0120100041101AAAA000000012719/201904300700\n\naqex - Processado por Programa\nCertificado n.º 1396/AT\n\nData Hora Nº POS Nº Turno\n30-04-19 14:16 52605 0002 750\nRegime IVA de Caixa nos casos em que tal\nseja aplicável (código do IVA 51/15)\ncliente@galp.com tel. 707 504 257\n\nDescontos até 16ct/l com cartão Universo\nPague com saldo do Cartão Continente\n\nExperimente os combustíveis EVOLGIC\n+PERFORMANCE, +PROTEXCAO, +POUPANCA\nE +AMBIENTE. Consulte galp.com.\n\nA sua opinião é importante!\nVa a opiniao.galp.com/postos\nE receba desconto 2 eur combustivel!\nEvologic, o combustível mais evoluído\n\nTotal\nCARTAO DEBITO EUR 40.0\n\nTerminal Pagamento Automático: 00611497\nData: 2019-04-30\nPeríodo: 023 Transação: 0002 Mensagem:942\nBANCO BPI\nBATALHA DE ALMEIDA/M.DRA\nCARTAO: ****2485/31\nA0000000032010 ACQ : VISTA ELEC BPI CL\nCOMPRA 40,00E VELC DB N\nID ESTAB.:00010109491 ALT:736319\nPROCESSADO POR SIBS\n\n9 90152605200130400300068520000.0"
+  }
+}

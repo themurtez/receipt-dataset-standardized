@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Gardenia Bakeries (KL) Sdn Bhd",
+    "address": "Lot 3, Jalan Pelabur 23/1, 40300 Shah Alam, Selangor",
+    "phone": "03-55423228",
+    "tax_id": "000381399040",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-10-16",
+    "time": "12:14:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 42.25,
+    "tax": 0.93,
+    "tip": 0.0,
+    "total": 42.25,
+    "accounting_category": "retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "O.C. WHITE",
+      "quantity": 4,
+      "unit_price": 2.13,
+      "total_price": 8.52,
+      "category": "bread",
+      "accounting_category": "food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "WHOLEMEAL",
+      "quantity": 2,
+      "unit_price": 2.78,
+      "total_price": 5.56,
+      "category": "bread",
+      "accounting_category": "food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "O.C JUMBO",
+      "quantity": 4,
+      "unit_price": 2.97,
+      "total_price": 11.88,
+      "category": "bread",
+      "accounting_category": "food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "DELICIA-B/SCOTCH",
+      "quantity": 2,
+      "unit_price": 3.72,
+      "total_price": 7.44,
+      "category": "bread",
+      "accounting_category": "food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CR-B'SCOTCH",
+      "quantity": 18,
+      "unit_price": 0.72,
+      "total_price": 12.96,
+      "category": "bread",
+      "accounting_category": "food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BUN-SBILTS",
+      "quantity": -6,
+      "unit_price": 0.84,
+      "total_price": -5.04,
+      "category": "bread",
+      "accounting_category": "food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 24,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006557187.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GARDENIA BAKERIES (KL) SDN BHD (139386 X)\nLot 3, Jalan Pelabur 23/1, 40300 Shah Alam, Selangor.\nTel: 03-55423228 Fax: 03-55423213\nGST ID: 000381399040\n\nTAX INVOICE / ADJUSTMENT NOTE\n\nCash Inv No.: 7016F714\n\nVE\nMAKASSAR FRESH MARKET SDN BHD\nGROUND FLOOR, NO. 4 & 6,\nJALAN SS 15/4B,\n47500 SUBANG JAYA, SELANGOR\nVE05: Ridzwan (11900)\n\nDD: 16/10/2017 12:14\n\nDescription          U.P Iss  Exc  D Sale  Amt(RM)\nO.C. WHITE           2.13  4  0  4  8.52\nWHOLEMEAL            2.78  4  0  2  5.56\nO.C JUMBO            2.97  4  0  4  11.88\nTotal 0% supplies:         25.96\n\nDELICIA-B/SCOTCH     3.72  2  0  2  7.44\nCR-B'SCOTCH          0.72 20  0 18 12.96\nBUN-SBILTS           0.84 0  6 -6 -5.04\n\nTotal 6% supplies (excl. GST):\n\nGST:                        15.36\n\n0.93\nTotal 6% supplies (Inc. GST): 16.29\nTotal 0% supplies: 25.96\n\nTotal Payable: 42.25\n\nE.& O.E.\nReceived above goods in good order condition.\nThe recipient of Gardenia's products is\nrequired to make necessary adjustments to its\ninput tax claims, on the basic of the\nadjustments shown in this Tax Invoice /\nAdjustment Note\n\nCUSTOMER'S COPY"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "FY Eagle Enterprise",
+    "address": "No. 42, Jalan PBS 14/11, Taman Perindustrian Bukit Serdang, 43300 Seri Kembangan, Selangor",
+    "phone": "03-89433143",
+    "tax_id": "001663156224",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-24",
+    "time": "09:21:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 49.06,
+    "tax": 2.94,
+    "tip": 0.0,
+    "total": 52.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "8pcs AA Energizer Batteries",
+      "quantity": 1,
+      "unit_price": 22.0,
+      "total_price": 22.0,
+      "category": "Batteries",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "8pcs AAA Energizer Batteries",
+      "quantity": 1,
+      "unit_price": 22.0,
+      "total_price": 22.0,
+      "category": "Batteries",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Eveready AA Batteries",
+      "quantity": 1,
+      "unit_price": 8.0,
+      "total_price": 8.0,
+      "category": "Batteries",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007391372.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "FY EAGLE ENTERPRISE\n002065464-X\nNO. 42, JALAN PBS 14/11,\nTAMAN PERINDUSTRIAN BUKIT SERDANG,\n43300 SERI KEMBANGAN,\nSELANGOR\nTEL: 03-89433143 FAX: 03-89433143\nGST NO: 001663156224\n\nTAX INVOICE\n\nRECEIPT #: C500040529 DATE: 24/06/2018\nSALESPERSON: TIME: 09:21:00\nCASHIER: USER\n\nITEM QTY U/P AMOUNT\n(RM) (RM)\n15894 1 22.00 22.00\nSR: 8PCS AA ENERGIZER(BP ME)WF\n15895 1 22.00 22.00\nSR: 8PCS AAA ENERGIZER(BP GC)WF\n12137 1 8.00 8.00\nSR: EVERREADY SHD AA 4PC 1215BP4(YO.M)-WF\nTOTAL QUANTITY 3\n\nSUB-TOTAL 49.06\nDISC 0.00\nGST 2.94\nROUNDING 0.00\nTOTAL 52.00\nCASH 52.00\nCHANGE 0.00\n\nGST SUMMARY\nCODE AMOUNT % TAX/AMT\nSR 49.06 6 2.94\n\nTAX TOTAL: 2.94\n\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU."
+  }
+}

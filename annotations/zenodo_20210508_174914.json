@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Bota Minuto",
+    "address": "Centro Comercial Amoreiras, Loja 5041, 1070 Lisboa",
+    "phone": "10994257",
+    "tax_id": "NIPC 506175502",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-11-16",
+    "time": "18:19:00",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 28.13,
+    "tax": 6.47,
+    "tip": 0.0,
+    "total": 34.6,
+    "accounting_category": "Retail",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "CHAVE PONTOS MARC",
+      "quantity": 2,
+      "unit_price": 17.3,
+      "total_price": 34.6,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_174914.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "botaminuto\nAMOREIRAS\n\nConsertos Rapidos Amoreiras, Lda\nSede: R. Quinta Palmeiras, 31 D, Oeiras\nCentro Comercial Amoreiras, Loja 5041\n1070 Lisboa Tel: 10994257\nCap. Soc. 5,000 Euros NIPC 506175502\nC.R.Cascais N.9655/2007\n\nExmo(s.) Senhor(es)\nELIKEHOME\nLISBOA\n\nNIF 510776914 N.CLI:FT510776J14\nC 6/1618926\nTTR 6/179276 Data 2018-11-16 Original\nFactura\n\nVendedor: Jhemaly Lima\n\nArt. Descricao Qde. Pr.Unit. Valor IVA\n\nCHAVE PONTOS MARC\n10994 2.00 17.300 34.60\n\nTotal de pecas ~: 2\n\nVALOR LIQUIDO IVA % VALOR IVA\n0.00 0 0.00\n0.00 6 0.00\n0.00 13 0.00\n28.13 23 6.47\n\nDESCONTO : 0.00\nTOTAL DOCUMENTO EURO 34.60\n\nMultibanco 34.60\n\nDwpb - Processado por programa\ncertificado N. 1627/AT\n\nLocal Carga : Nossa Morada Hora:18:19\nLocal Descarga: Morada Cliente Hora:23:59\nMatricula\nRef: Nome:ELIKEHOME\n\nObrigado Pela Visita -- Volte Sempre\nTALAO INDISPENSAVEL P/ENTREGA-RECLAMACAO\nTROCAS PRAZO 1 MES"
+  }
+}

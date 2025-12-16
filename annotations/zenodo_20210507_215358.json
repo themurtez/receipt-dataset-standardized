@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "AGRI POWER",
+    "address": "Zona Ind. Arnes, 287 Torre de Vedras",
+    "phone": "932 996 039",
+    "tax_id": "503261801",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2020-10-26",
+    "time": "11:40:00",
+    "currency": "EUR",
+    "payment_method": "Dinheiro",
+    "subtotal": 40.65,
+    "tax": 9.35,
+    "tip": 0.0,
+    "total": 50.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Gasoleo Simples",
+      "quantity": 42.05,
+      "unit_price": 1.189,
+      "total_price": 50.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_215358.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AGRI POWER\nPosto de combustivel\nTransidade, Aluguer de Veiculos, Lda\nNIF: 503261801 | Cap. Social 125,000€\nRua Fernando Vicente, Zona Ind. Arnes\n287 Torre de Vedras\n932 996 039\n\nFatura Recibo: POST A1/62629 \nData 2020-10-26 Hora 11:40\n\nCliente\nContribuinte\nMatricula\n\nGasoleo Simples - Bomba 2\n42.05L 1.189€/L 23.00%\n\nTotal 50.00€\nPago em Dinheiro 50.00€\n\nTaxa Incidencia IVA Total\n23.00% 40.65 9.35 50.00\n\nPtdA - Processado por programa\ncertificado n°311/AT, WARESOFT\n\nOBRIGADO BOA VIAGEM"
+  }
+}

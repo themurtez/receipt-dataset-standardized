@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "CHOP YEW LIAN",
+    "address": "LOT PT 5121, Per. Klang, Sek. 27, 40000 Shah Alam, Selangor",
+    "phone": "03-51911239",
+    "tax_id": "000840966144",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-03-23",
+    "time": "14:08:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 28.3,
+    "tax": 1.7,
+    "tip": 0.0,
+    "total": 30.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "V-Power 97",
+      "quantity": 11.54,
+      "unit_price": 2.6,
+      "total_price": 30.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005587261.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CHOP YEW LIAN\nCompany No : 000200101-A\nLOT PT 5121, Per. Klang, Sek. 27\n40000 Shah Alam, Selangor\nSite : 1164\nTelephone : 03-51911239\nGST No : 000840966144\n\n>>>>> Pre-Authorisation <<<<<\n\nPre auth code A01A1490249339\n\n11.54 litre Pump # 01\nV-Power 97 RM 30.00 A\n2.600 RM / litre\n\n------------------------------------------------\nTotal RM 30.00\nCash RM 30.00\n\n6.00% GST A RM 1.70\nTotal Gross A RM 30.00\n\n------------------------------------------------\nShell Loyalty Card\n6018840117325593\n\nPoints will be awarded for any eligible purchases.\n\nPay your fuel with points!\n\n------------------------------------------------\n\nCashier:\nJamaluddin\n\nThis is not the final fiscal receipt\n\nDate Time Num POS CNo Shift\n23/03/17 14:08 17542 01 8994 160\n\nDiesel & Petrol RON95 given relief under Section 56(3)(b) GST Act 2014\n\nThank You and Please Come Again"
+  }
+}

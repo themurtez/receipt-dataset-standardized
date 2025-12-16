@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "NOTE Restauradores",
+    "address": "Praca dos Restauradores, n. 58 1250-590 Lisboa",
+    "phone": "210 113 377",
+    "tax_id": "502011475",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-29",
+    "time": "08:44:00",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 2.59,
+    "tax": 0.6,
+    "tip": 0.0,
+    "total": 3.19,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PILHA ALCALINA ESPECIAL MN21 EM",
+      "quantity": 1,
+      "unit_price": 3.19,
+      "total_price": 3.19,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 6.81
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_175147.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "note!\nLivraria, Papelaria, Presentes\nNOTE Restauradores\nModelo Continente Hipermercados S.A.\nTelef: 210 113 377\nPraca dos Restauradores, n. 58 1250-590 Lisboa\nRegistada CRC Porto sob n° 502011475\nNIF: PT502011475\nC.S. 69,360.000,00 EUR SIRPEE::\nFatura Simplificada Original\nNo. FS 04NH002/227673 29/06/2018 08:44\nNIF: PT510776914\nIVA DESCRICAO VALOR\nDIY:\n (C) PILHA ALCALINA ESPECIAL MN21 EM\n3,19\nTOTAL A PAGAR 3,19\nNumerario 10,00\nTROCO 6,81\n Taxa IVA Total Liq. IVA Total\n(C) 23,00% 2.59 0.60 3,19\n18062900226826281440\nubQV-Processado por programa certificado\nN. 1356/\n2114 0002 262868 255576 - 100110274466436\nIVA INCLUIDO\nTALAO INDISPENSAVEL PARA TROCA\nPRAZO DE DEVOLUCAO:15 DIAS\n** OBRIGADO **"
+  }
+}

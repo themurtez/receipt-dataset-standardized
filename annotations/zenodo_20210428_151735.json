@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Botaminuto",
+    "address": "Lisboa",
+    "phone": "210994257",
+    "tax_id": "506175502",
+    "website": "www.botaminuto.com"
+  },
+  "transaction": {
+    "date": "2019-03-02",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 25.6,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 25.6,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CHAVE 4 EM XCI / CRC-1X",
+      "quantity": 2,
+      "unit_price": 12.65,
+      "total_price": 25.3,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_151735.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "botaminuto\nAMOREIRAS\nContribuente: 506175502\nConsortes Rápidos das Amoreiras,\nConsortes da Calçada Copia\nR. Alfredo \nC.Com Amoreiras Lj.35041 1070\nCap. Soc \n\nExemplo: S\n\nLISBOA\nNIF 510770914\nC/O21305600\nETR 6/3900 Data 2019\nFactura\nVendedor: Filipe AGUIAR\n\nArt. Descricao Qt Do.\n\nCHAVE 4 EM XCI / CRC-IX\n534\nVALOR\n\n\n0.00\n0.00\n\nVALOR\n\n\n23\n\n\n23\nVALOR\n\nIVA\n\nIVA\n0.00\n\n\n\n2 12.650\n\nValor Liq\n\nDESCONTO\nTOTAL DOCUMENTO EURO\n\nMultibanco\n\nn23r-Processado \n\nBens colocados á disposiçao do adqui\nrente resta data, de acordo com a\na Insp. d) n. 5 do artigo 36 o CK\n\nTROCAS E DEVOLUÇÕES ACEITES COM COMPRO\nVATIVO\nA DEVOLUÇÃO DE QUALQUER QUANTIA\n£ TROCA DEVO\nPOR VALE DE REEMB\n\ndrigado FPela Visita - Volte Sempre\n/ ENTREGA-RECLAMAÇÃO\n1 MES\nTel.:  \n\n\n531\n0.00\n\n12.00\n13\n0.00\n0.00\n\n23\n\n5.30\n0.75\n\n0.00\n25.60\n\n9.25.60\nPor protra\na 6227/AI\n\nmpro\nA\n\nAUERENTE\n\nRE E FEITA\nSO COM VALIDADE DE 3\n\nVOLTE SEMPRE\n-  P/ENTR\n\n\nwww.botaminuto.c\n\nM\nmultibanco\nCODIGO\n075656 D.R\n1070 T\n\n0955/200\nes\nINDISPENSAVE\ntto\nvLIDANTE DE\n\n\nH\nerra\n\n5.24\n\n5.9\n\n1.05\n\n95.5/2\n\n19.2\n\n\n\nvenho te conom\n\nntp 2\n\nn 9 / 1/100\n"
+  }
+}

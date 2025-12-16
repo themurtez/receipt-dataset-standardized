@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Western Eastern Stationery Sdn. Bhd",
+    "address": "42-46, Jln Sultan Azlan Shah, 51200 Kuala Lumpur",
+    "phone": "03-4043 7678",
+    "tax_id": "000517095424",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-16",
+    "time": "14:51:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 4.72,
+    "tax": 0.28,
+    "tip": 0.0,
+    "total": 5.0,
+    "accounting_category": "Stationery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CLR P. S A4/A3",
+      "quantity": 1,
+      "unit_price": 4.72,
+      "total_price": 5.0,
+      "category": "Stationery",
+      "accounting_category": "Stationery",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006466062.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "3180404\nWESTERN EASTERN STATIONERY SDN.BHD\nCO REG NO : 210038-K\nGST ID : 000517095424\n42-46, JLN SULTAN AZLAN\nSHAH 51200 KUALA LUMPUR\nTEL : 03-4043 7678\nTAX INVOICE\nREG 16-04-2018 14:51\nC01 KL 001 037846\nCLR P.S A4/A3 S RM5.00\n1 No\nGST TA AMT RM4.72\nGST 6% RM0.28\nTOTAL RM5.00\nCASH RM5.00\nTAX INVOICE OF GST\nGOODS SOLD ARE NOT\nRETURNABLE"
+  }
+}

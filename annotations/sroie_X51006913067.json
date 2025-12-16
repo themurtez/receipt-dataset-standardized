@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "UNIHANKKA INTERNATIONAL SDN BHD",
+    "address": "12, Jalan Tampoi 7/4, Kawasan Perindustrian Tampoi, 81200 Johor Bahru, Johor",
+    "phone": "",
+    "tax_id": "867388-U",
+    "website": "Facebook.com/BarWangRice"
+  },
+  "transaction": {
+    "date": "2018-05-28",
+    "time": "18:30:00",
+    "currency": "USD",
+    "payment_method": "CASH",
+    "subtotal": 6.7,
+    "tax": 0.4,
+    "tip": 0.0,
+    "total": 7.1,
+    "accounting_category": "Food",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "4 Vege",
+      "quantity": 1,
+      "unit_price": 5.5,
+      "total_price": 5.5,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Imported Veggies",
+      "quantity": 1,
+      "unit_price": 1.6,
+      "total_price": 1.6,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006913067.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "UNIHANKKA INTERNATIONAL SDN BHD\n28 May 2018 18:30\n(867388-U)\n12, Jalan Tampoi 7/4,Kawasan Perindustrian\nTampoi,81200 Johor Bahru,Johor\nTAX INVOICE\nInvoice # : OR18052802160335\nItem Qty Total\nSR I001000000060- 4 Vege\n$5.50 1 $5.50\nSR I00100000170- Imported Veggies\n$1.60 1 $1.60\nTotal Amount: $7.10\nGST @6%: $0.40\nNett Total: $7.10\nPayment Mode\nAmount\nCASH $7.10\nChange $0.00\nGST Summary Amount($) Tax($)\nSR = GST @6% 6.70 0.40\nGST REG #000656195584\nBAR WANG RICE@PERMAS JAYA\n(Price Inclusive Of GST)\nThank You & Come Again!\nLike and Follow Us on Facebook!\nFacebook.com/BarWangRice"
+  }
+}

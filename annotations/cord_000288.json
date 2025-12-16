@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "GoPay",
+    "subtotal": 72727.0,
+    "tax": 7273.0,
+    "tip": 0.0,
+    "total": 80000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Gyro Platter - Large",
+      "quantity": 1,
+      "unit_price": 72727.0,
+      "total_price": 72727.0,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000288.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Gyro Platter - Large 72,727\nSubtotal 72,727\nPBI-TAX Tax 7,273\nFor Here Total 80,000\nGoPay 80,000"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 291975.0,
+    "tax": 30657.0,
+    "tip": 0.0,
+    "total": 337230.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PAKET DOSIRAK 3",
+      "quantity": 1,
+      "unit_price": 25975.0,
+      "total_price": 25975.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PAKET DOSIRAK 3",
+      "quantity": 1,
+      "unit_price": 25975.0,
+      "total_price": 25975.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ICE SWEET JASMINE GREENTEA",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "PAKET CHICKEN 3",
+      "quantity": 3,
+      "unit_price": 35000.0,
+      "total_price": 105000.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "JAPCHAE",
+      "quantity": 1,
+      "unit_price": 25000.0,
+      "total_price": 25000.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "KOREAN LEMONADE",
+      "quantity": 1,
+      "unit_price": 15000.0,
+      "total_price": 15000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "KOREAN COLD TEA",
+      "quantity": 1,
+      "unit_price": 9000.0,
+      "total_price": 9000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "PAKET BULGOGI 3",
+      "quantity": 1,
+      "unit_price": 45000.0,
+      "total_price": 45000.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "BANANA MLK+MATCHA PU 2",
+      "quantity": 2,
+      "unit_price": 21000.0,
+      "total_price": 42000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "KAN FRIED CHICKN HNY 1",
+      "quantity": 1,
+      "unit_price": 25000.0,
+      "total_price": 25000.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 10,
+    "rounding": 0.0,
+    "change_due": 12770.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000075.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PAKET DOSIRAK 3 1 25,975 25,975\nPAKET DOSIRAK 3 1 25,975 25,975\nICE SWEET JASMINE GREENTEA\nPAKET CHICKEN 3 3 35,000 105,000\nJAPCHAE 1 25,000 25,000\nKOREAN LEMONADE 1 15,000 15,000\nKOREAN COLD TEA 1 9,000 9,000\nPAKET BULGOGI 3 1 45,000 45,000\nBANANA MLK+MATCHA PU 2 21,800 42,000\nKAN FRIED CHICKN HNY 1 25,000 25,000\nSubtotal 291,975\nServices 14,598\nTax 30,657\nTotal 337,230\nTunai 350,000\nKembali 12,770"
+  }
+}

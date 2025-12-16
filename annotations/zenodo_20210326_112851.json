@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Autovidreira, LDA",
+    "address": "Rua Poco dos Negros 1200-336 L. - Lisboa",
+    "phone": "213904109",
+    "tax_id": "500483310",
+    "website": "www.autovidreira.com"
+  },
+  "transaction": {
+    "date": "2019-02-05",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 50.57,
+    "tax": 11.63,
+    "tip": 0.0,
+    "total": 62.2,
+    "accounting_category": "Purchase",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Vidro",
+      "quantity": 1,
+      "unit_price": 50.57,
+      "total_price": 62.2,
+      "category": "Material",
+      "accounting_category": "Cost of Goods Sold",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210326_112851.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Autovidreira, LDA\n500483310\nRua Poco dos Negros\n1200-336 L. - Lisboa\nTel: 213904109\n\nFax:\nCli.:VD\nFliketHome\n510176914\n\nFactura\nFR N.31    Data: 2019-02-05\nMoeda: EUR   Cambio: 1\nRec. por Multibanco   62.20\n\nCod. o Artigo  Descricao\nQuant.\n\nX  Preco  IVA  Total\n0011VL1    Vidro\n1.00 X     62.20  23.00  62.20\nCted. Devolucoes  0.00\nTotal Illquido    50.57\nTotal Descontos  0.00\nTotal do IVA     11.63\nTotal Liquido    62.20\nTotal Alternativo  62.20 EUR\n\nIVA\n\nTaxa Incidencia  Valor  Motivo\n23.00   50.57  11.63\n\n\nMUITO OBRIGADO\nVisite-nos em\nwww.autovidreira.com\nwww.facebook.com/autovidreira\n\nE5b5-Processado por Programa Certificado\nn.0030/AT/FR 2019S/31"
+  }
+}

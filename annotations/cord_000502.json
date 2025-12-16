@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "D'frans Natural",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2023-10-11",
+    "time": "15:21:00",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 19850.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 19850.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "VANBOOLEN",
+      "quantity": 1,
+      "unit_price": 9000.0,
+      "total_price": 9000.0,
+      "category": "Goods",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "JONGKONG",
+      "quantity": 1,
+      "unit_price": 15500.0,
+      "total_price": 15500.0,
+      "category": "Goods",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "DISC ITEM",
+      "quantity": 1,
+      "unit_price": -0.3,
+      "total_price": -4650.0,
+      "category": "Discount",
+      "accounting_category": "Retail",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "PLASTIK KECIL",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Packaging",
+      "accounting_category": "Retail",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "SENDOK BEBEK",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Utensil",
+      "accounting_category": "Retail",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 150.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000502.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "D'frans Natural\n\nVANBOOLEN 9,000\nJONGKONG 15,500\nDISC ITEM -30.000%\nAMOUNT -4,650\nPLASTIK KECIL 0\nSENDOK BEBEK 0\nSUBTOTAL 19,850\nTOTAL 19,850\nCASH 20,000\nCHANGE 150\n"
+  }
+}

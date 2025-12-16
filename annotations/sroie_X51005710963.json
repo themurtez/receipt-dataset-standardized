@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "TS TOOLS HARDWARE & MACHINERY SDN BHD",
+    "address": "59, Jalan Bandar Satu, Pusat Bandar Puchong, 47160, Puchong, Selangor",
+    "phone": "03-58790352",
+    "tax_id": "000761802752",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-21",
+    "time": "13:40:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 7.0,
+    "tax": 0.42,
+    "tip": 0.0,
+    "total": 7.4,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "29#Samurai Spray Paint",
+      "quantity": 1,
+      "unit_price": 7.0,
+      "total_price": 7.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": -0.02,
+    "change_due": 0.6
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005710963.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TS TOOLS HARDWARE & MACHINERY SDN BHD\n1151414-P\n59, JALAN BANDAR SATU,\nPUSAT BANDAR PUCHONG\n47160, PUCHONG, SELANGOR\nTEL: 03-58790352\nGST NO: 000761802752\nTAX INVOICE\nRECEIPT #: CS000332256 DATE: 21/03/2018\nSALESPERSON : TIME: 13:40:00\nCASHIER : USER\nITEM QTY U/P AMOUNT\n(RM) (RM)\n2017 1 7.00 7.00\nSR(UNIT) 29#SAMURAI SPRAY PAINT\nTOTAL QUANTITY 1\nSUB-TOTAL 7.00\nDISC 0.00\nTAX 0.00\nROUNDING -0.02\nTOTAL 7.40\nCASH 8.00\nCHANGE 0.60\nGST SUMMARY\nCODE AMOUNT % TAX/AMT\nSR 7.00 6 0.42\nTAX TOTAL: 0.42\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU."
+  }
+}

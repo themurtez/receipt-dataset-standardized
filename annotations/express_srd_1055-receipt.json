@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "WINGS & THINGS",
+    "address": "519 Fulton Ave, Hempstead, NY",
+    "phone": "516-483-0936",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "USD",
+    "payment_method": "Cash",
+    "subtotal": 30.58,
+    "tax": 2.43,
+    "tip": 0.0,
+    "total": 30.58,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "#7 2PC R&B MEAL",
+      "quantity": 1,
+      "unit_price": 5.99,
+      "total_price": 5.99,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "#3 3WING MEAL",
+      "quantity": 3,
+      "unit_price": 6.99,
+      "total_price": 20.97,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "COLL GRN - SMALL",
+      "quantity": 1,
+      "unit_price": 1.19,
+      "total_price": 1.19,
+      "category": "Food",
+      "accounting_category": "Side Dish",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 9.42
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1055-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "#195\n1 #7 2PC R&B MEAL 5.99\nICED TEA\nSUB CORNBREAD\n1 #3 3WING MEAL 6.99\nSIERRA\n1 SUB FIXN\nMAC&CHZ\n1 #3 3WING MEAL 6.99\nICED TEA\n1 SUB FIXN\nSP RICE\n1 #3 3WING MEAL 6.99\nICED TEA\n1 SUB FIXN\nMAC&CHZ\n1 COLL GRN - SMALL 1.19\nTXTL 2.43\nTOTL 30.58\nCASH 40.00\nCHNG 9.42"
+  }
+}

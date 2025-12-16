@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "KRW",
+    "payment_method": "Card",
+    "subtotal": 482000.0,
+    "tax": 48685.0,
+    "tip": 0.0,
+    "total": 564425.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "YANG YUM GUI",
+      "quantity": 1,
+      "unit_price": 97000.0,
+      "total_price": 97000.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SOONDUBU CHIGE",
+      "quantity": 1,
+      "unit_price": 75000.0,
+      "total_price": 75000.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "JAP CHAE",
+      "quantity": 1,
+      "unit_price": 105000.0,
+      "total_price": 105000.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MAKOLI",
+      "quantity": 1,
+      "unit_price": 120000.0,
+      "total_price": 120000.0,
+      "category": "Beverage",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "GOCHUJANG BIBIMBAB",
+      "quantity": 1,
+      "unit_price": 85000.0,
+      "total_price": 85000.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000146.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "YANG YUM GUI          1   97,000\nSOONDUBU CHIGE        1   75,000\nJAP CHAE              1  105,000\nMAKOLI                1  120,000\nGOCHUJANG BIBIMBAB    1   85,000\n\nSub Total           482,000\nService              33,740\nTax                  48,685\nDiscount                  0\n\nTOTAL               564,425\nCard                564,425\n\nCHANGE                    0"
+  }
+}

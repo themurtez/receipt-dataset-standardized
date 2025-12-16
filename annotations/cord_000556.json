@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "ALFA",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "GOPAY WALLET",
+    "subtotal": 13801.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 9900.0,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "KP BRANDING S",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Grocery",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "HYDROCOCO 250ML",
+      "quantity": 2,
+      "unit_price": 6900.0,
+      "total_price": 13800.0,
+      "category": "Beverage",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000556.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ALFA\nKP BRANDING S 1 1 1\nDisc. -1\nHYDROCOCO 250ML 2 6,900 13,800\nDisc. -3,900\nTotal Item 2 13,801\nTotal Disc. 3,901\nTotal Belanja 9,900\nGOPAY WALLET 9,900\nKembalian 0\nPPN ( 1,236)"
+  }
+}

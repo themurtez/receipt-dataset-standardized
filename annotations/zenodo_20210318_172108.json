@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "PENHA GRACA FERRAGENS UNIP LDA",
+    "address": "1170-300 LISBOA",
+    "phone": "",
+    "tax_id": "TPA:00675829",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-01-29",
+    "time": "14:59:03",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 16.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 16.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.85
+  },
+  "items": [
+    {
+      "name": "COMPRA",
+      "quantity": 1,
+      "unit_price": 16.0,
+      "total_price": 16.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_172108.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PENHA GRACA\nFERRAGENS UNIP LDA\n1170-300 LISBOA\nIdent. TPA:00675829\n2019-01-29  14:59:03\nPer:099 Tr:013 M:980\nMILLENNIUM BCP\nMANUEL ARROUBE/JOSE\nCARTAO: ****8902/97\n501649FF20\nMULTIBANCO\nCOMPRA 16,00€\nAUT:776205 MB\nNOVOBANCO\nPROCESSADO POR SIBS"
+  }
+}

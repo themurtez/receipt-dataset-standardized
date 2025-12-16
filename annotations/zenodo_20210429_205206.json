@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Restaurante Rubro Avenida",
+    "address": "Rua Rodrigues dos Santos, 35\n1170-278 Lisboa",
+    "phone": "",
+    "tax_id": "509165559",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-12-02",
+    "time": "14:00:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 44.36,
+    "tax": 6.14,
+    "tip": 0.0,
+    "total": 50.5,
+    "accounting_category": "Dining",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Pão",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Azeite",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Agua das Pedras 1L",
+      "quantity": 1,
+      "unit_price": 4.5,
+      "total_price": 4.5,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Chuleton de Buey",
+      "quantity": 1,
+      "unit_price": 38.5,
+      "total_price": 38.5,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Salada Mista",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Café",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_205206.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Restaurante Rubro Avenida\nAposta ao Rubro S.A.\nRua Rodrigues dos Santos, 35\n1170-278 Lisboa\nTelefone:\nNo. Contribuinte: 509165559\nCliente: FLIXEH0ME\nNIF: 510776914\nMorada:\nFatura-Recibo FT 102/12352\nData: 2019-12-02 - Hora: 14:00\nSala NF 14 - Emp.: Oscar\nQ\tI.V.A\tTotal\nPão\t13\t1.50 €\nAzeite\t13\t1.00 €\nAgua das Pedras 1L\t23\t4.50 €\nChuleton de Buey\t13\t38.50 €\nSalada Mista\t13\t2.00 €\nCafé\t13\t2.00 €\nTotal:\t50.50 €\nTroco:\t0.00 €\nMultibanco\t50.50 €\nTaxa\tBase\tIVA\tTotal\n13.00\t40.70 €\t5.30 €\t46.00 €\n6.00\t5.30 €\t0.84 €\t4.50 €\n23.00\t3.66 €\t0.34 €\nTOTAL\t44.36 €\t6.14 €\t50.50 €\nIVA incluido ás taxas em vigor\nInformalizado por 351 pt\nConsulta: DC 102/11559\nObrigado e volte sempre\nPréA-Processado por programa\ncertificado n. 0071/AT\nCopyright GrupoPIE, SA"
+  }
+}

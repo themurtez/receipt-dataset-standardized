@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Casa das Chaves",
+    "address": "R. Bartolomeu Dias, Lote 16, Lj. 3, 8200-096 Albufeira",
+    "phone": "289 512810",
+    "tax_id": "175067120",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-03",
+    "time": "16:13:54",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 9.76,
+    "tax": 2.24,
+    "tip": 0.0,
+    "total": 12.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chaves Especial Abus",
+      "quantity": 3,
+      "unit_price": 4.0,
+      "total_price": 12.0,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_174136.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CASA DAS CHAVES\nO ALEMÃO\nJosé Agusto Saraiva\nNif: 175 067 120\nR. Bartolomeu Dias, Lote 16, Lj. 3\n8200-096 Albufeira\nTelefone: 289 512810\nIva Incluido as Tanks Legais e Vigor\nBWZ - Processado por programs certificado n:3/AT\nOriginal\nData: 2019-05-03 / 16:13:54\nFactura Simplificada: 19FS 001/1284\nNIF: 514407395\nDoc Orig:\n-----------------------\nDescrição   Qtd.  Desc.%  Valor\nCHAVES ESPECIAL ABUS\n(D) 23%  4,00       1      4,00\nCHAVES ESPECIAL ABUS\n(D) 23%  4,00       1      4,00\nCHAVES ESPECIAL ABUS\n(D) 23%  4,00       1      4,00\nItens:                  3  12,00\n\nIliquido       Tax%      V.Tax\n(D) 9,76   23        2,24\n----------\nTotal a Pagar:\nMULTIBANCO\n         12,00 €\n\n                                                            OBRIGADO - THANK YOU - MERCI"
+  }
+}

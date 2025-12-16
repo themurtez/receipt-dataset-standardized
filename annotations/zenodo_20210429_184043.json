@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "La Focacceria Pugliese",
+    "address": "Rua Tomas de Anunciacao, 25 1350-321",
+    "phone": "Tel. 218032402",
+    "tax_id": "N. Contrib. 513755772",
+    "website": "info@lafocacceriapugliese.com"
+  },
+  "transaction": {
+    "date": "2019-09-22",
+    "time": "12:15:06",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 5.58,
+    "tax": 0.72,
+    "tip": 0.0,
+    "total": 6.3,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Unknown Item",
+      "quantity": 1,
+      "unit_price": 5.58,
+      "total_price": 5.58,
+      "category": "Food & Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_184043.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SAPORI DI PUGLIA SAPORI DI PUGLIA, LDA.\nRUA TOMAS DE ANUNCIACAO, 25 1350-321\nTel.218032402\nN.Contrib. 513755772\nRegistro-Lisboa n.513755772\nCapital Social 5.000,00 Euros\ninfo@lafocacceriapugliese.com\nN.C. 5107.5914\nFatura simplificada FS 003/69935\nOriginal\n2019-09-22 12:15:06\nQt Artigo IVA Total\nDesconto\nTotal 6.30\nTaxa Base IVA Total\n13.00 - 5.58 - 0.72\nEmp 7\nIVA incluido\nConsultas:\nObrigado e volte sempre\nGRAZIE E ARRIVEDERCI\nU7JH-Processado por programa\ncertificado n. 0071/AT\nCopyright GrupoPIE, SA"
+  }
+}

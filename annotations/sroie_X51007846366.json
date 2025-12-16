@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "AEON CO. (M) BHD",
+    "address": "3RD FLR, AEON TAMAN MALURI SC, JLN JEJAKA, TAMAN MALURI, CHERAS, 55100 KUALA LUMPUR",
+    "phone": "1-300-80-AEON (2366)",
+    "tax_id": "002017394688",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-12",
+    "time": "19:40:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 38.6,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 38.6,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PREMIER 4X200S",
+      "quantity": 1,
+      "unit_price": 14.85,
+      "total_price": 14.85,
+      "category": "Household",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "APACHE BLACK &",
+      "quantity": 1,
+      "unit_price": 13.85,
+      "total_price": 13.85,
+      "category": "Apparel",
+      "accounting_category": "Clothing",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "SUPER ESSENSO M",
+      "quantity": 1,
+      "unit_price": 15.0,
+      "total_price": 15.0,
+      "category": "Groceries",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 11.4
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007846366.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "P06067\nAEON CO. (M) BHD (126926-H)\n3RD FLR, AEON TAMAN MALURI SC\nJLN JEJAKA, TAMAN MALURI\nCHERAS, 55100 KUALA LUMPUR\nGST ID : 002017394688\nSHOPPING HOURS\nSUN-THU:1000 HRS - 2230 HRS\nFRI-SAT:1000 HRS - 2300 HRS\n\n1x 000001092678 14.85SR\nPREMIER 4X200S\nItem promo @10.99 -3.86\n1x 000003384541 13.85SR\nAPACHE BLACK &\n1x 000006420611 15.00SR\nSUPER ESSENSO M\nItem promo @13.75 -1.25\n\nSub-total 38.60\nTotal Sales Incl GST 38.60\nTotal After Adj Incl GST 38.60\nCASH 50.00\nItem Count 3 Change Amt 11.40\nInvoice No: 2018061210100070265\nGST Summary Amount Tax\nSR @ 0% 38.60 0.00\nTotal 38.60 0.00\n12/06/2018 19:40 1010 007 0070265\n0306651 PJ NUR AYU\n\nREGULAR STAMP(S) : 1\nBONUS STAMP(S) : 0\nTOTAL STAMP(S) : 1\n\nAEON Stamps Loyalty Program \"Product(s)\"\nsold are neither exchangeable nor\nrefundable\n\nAEON PERMAS JAYA\nTEL 1-300-80-AEON (2366)\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN\n"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "One One Three Seafood Restaurant SDN BHD",
+    "address": "No.1, Taman Sri Dengkil, Jalan Air Hitam, 43800 Dengkil, Selangor.",
+    "phone": "",
+    "tax_id": "000670224384",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-30",
+    "time": "13:45:46",
+    "currency": "RM",
+    "payment_method": "CASH",
+    "subtotal": 82.5,
+    "tax": 4.95,
+    "tip": 0.0,
+    "total": 87.45,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chicken Item",
+      "quantity": 1,
+      "unit_price": 15.0,
+      "total_price": 15.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Fish Item",
+      "quantity": 1,
+      "unit_price": 46.0,
+      "total_price": 46.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Vege Item",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "White Rice",
+      "quantity": 1,
+      "unit_price": 4.5,
+      "total_price": 4.5,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Beverage",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008164992.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ONE ONE THREE SEAFOOD RESTAURANT SDN BHD\n(1120908-M)\nNO.1, TAMAN SRI DENGKIL, JALAN AIR HITAM\n43800 DENGKIL, SELANGOR.\n(GST Reg. No : 000670224384)\nTax Invoice\nTable 31\nBill#:V001-539327 Order#: 139430\nDate : 30-05-2018 13:45:46\nCashier: 113 CASHIER Pax s) : 0\nQty Description Total TAX\n1 D 15.00 SR\nChicken Item\n1 D 46.00 SR\nFish Item\n1 D 12.00 SR\nVege item\n1 D 4.50 SR\nWhite Rice\n1 D 5.00 SR\nBeverage\nTotal (Excluding GST): 82.50\nGST Payable: 4.95\nTotal (Inclusive of GST): 87.45\nTOTAL: 87.45\nClosed: 1 30-05-2018 14:39:47\nServer: 113 CASHIER\nCASH : 87.45\nGST Summary Amount(RM) Tax(RM)\nSR @ 6% 82.50 4.95\n**** Thank You ****\nPlease Come Again"
+  }
+}

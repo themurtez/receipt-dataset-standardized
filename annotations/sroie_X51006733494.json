@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Kedai Ubat Dan Runcit CHONG HWA",
+    "address": "3, Jalan Perdana 5, Taman Indah Perdana, Kepong, 52100 KL.",
+    "phone": "03-62801198",
+    "tax_id": "001379917824",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-10-03",
+    "time": "12:16:25",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 31.98,
+    "tax": 1.92,
+    "tip": 0.0,
+    "total": 33.9,
+    "accounting_category": "Health",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Liquid Medicine",
+      "quantity": 1,
+      "unit_price": 33.9,
+      "total_price": 33.9,
+      "category": "Health",
+      "accounting_category": "Health",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 66.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006733494.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Kedai Ubat Dan Runcit CHONG HWA\n3, Jalan Perdana 5, Taman Indah Perdana,\nKepong, 52100 KL.\nTelephone No. 03-62801198\nGST No. 001379917824\n\nReceipt: 33037\nDate: Oct 3, 2016 12:16:25 PM\nTerminal: CW01\nServed by: Employee\n\nItem Price Qty Value\nLiquid Medicine RM33.90 x1 RM33.90\n\nItems count: 1\nTotal Sales Incl. GST @ 6% RM33.90\nCash\nTendered: RM100.00\nChange: RM66.10\n\nNett of Tax: RM31.98\nGST @ 6%: RM1.92\n\nSR RM31.98 RM1.92\nStandard Rated Tax RM0.00 RM0.00\nZR RM0.00 RM0.00\nZero Rated Tax (ZR RM0.00 RM0.00\n\nThank You"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 42000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 42000.0,
+    "accounting_category": "Food and Drinks",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Caramel Almond",
+      "quantity": 1,
+      "unit_price": 23000.0,
+      "total_price": 23000.0,
+      "category": "Snack",
+      "accounting_category": "Food and Drinks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Stix Eclairs",
+      "quantity": 1,
+      "unit_price": 19000.0,
+      "total_price": 19000.0,
+      "category": "Snack",
+      "accounting_category": "Food and Drinks",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 58000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000305.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CARAMEL ALMOND\n1 23,000 23,000\nSTIX ECLAIRS\n1 19,000 19,000\nSUB TOTAL 42,000\nGRAND TOTAL 42,000\nCASH IDR 100,000\nCHANGE DUE 58,000"
+  }
+}

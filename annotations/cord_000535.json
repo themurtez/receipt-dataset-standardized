@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 14000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 14000.0,
+    "accounting_category": "beverages",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Milo",
+      "quantity": 1,
+      "unit_price": 14000.0,
+      "total_price": 14000.0,
+      "category": "beverages",
+      "accounting_category": "beverages",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000535.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Milo 14,000\nSUBTOTAL 14,000\nTOTAL 14,000\nCASH 14,000"
+  }
+}

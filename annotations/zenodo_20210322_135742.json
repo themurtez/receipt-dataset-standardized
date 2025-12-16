@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "TALHO RESTAURANTE ALXAMA",
+    "address": "URB. DAS SENTINELAS, Lt. 170, 8125-018 QUARTEIRA",
+    "phone": "",
+    "tax_id": "513179682",
+    "website": "www.alxama.com"
+  },
+  "transaction": {
+    "date": "2019-03-28",
+    "time": "20:34:00",
+    "currency": "EUR",
+    "payment_method": "Card",
+    "subtotal": 17.7,
+    "tax": 2.3,
+    "tip": 0.0,
+    "total": 20.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "BOLO CACO C/ MANTEIGA",
+      "quantity": 0.501,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "SOBR TRAMISU",
+      "quantity": 0.501,
+      "unit_price": 1.76,
+      "total_price": 1.76,
+      "category": "Food",
+      "accounting_category": "Dessert",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "ACOMP BATATA FRITA",
+      "quantity": 0.501,
+      "unit_price": 2.01,
+      "total_price": 2.01,
+      "category": "Food",
+      "accounting_category": "Side Dish",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "ACOMP ARROZ",
+      "quantity": 0.501,
+      "unit_price": 1.25,
+      "total_price": 1.25,
+      "category": "Food",
+      "accounting_category": "Side Dish",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "SOBR PUDIM FLAN",
+      "quantity": 0.501,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Food",
+      "accounting_category": "Dessert",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "ESP ENTRECOSTO PORCO",
+      "quantity": 0.501,
+      "unit_price": 3.05,
+      "total_price": 3.05,
+      "category": "Food",
+      "accounting_category": "Main Dish",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "AGUA S/ GAS GRD",
+      "quantity": 0.501,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Beverage",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "ESPETO DE ANANAS",
+      "quantity": 0.501,
+      "unit_price": 2.46,
+      "total_price": 2.46,
+      "category": "Food",
+      "accounting_category": "Dessert",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210322_135742.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TALHO RESTAURANTE ALXAMA \nALXAMA LDA \nContribuinte N. 513179682 \nURB. DAS SENTINELAS, Lt. 170 \n8125-018 QUARTEIRA \nCapital Social 10.000eur \nFATURA / RECIBO FR 190021/292 \nOhEU-Processado por programa \nCertificado n. 398/AT \nORIGINAL 2019-03-28 20:34 \nCABO 5 2 / BALCAO \nNIF: 514407395 \nCLIENTE: FLIKEHOME ALGARVE, LDA \nMORADA: \nQTD PRODUTO VALOR IVA \n0.501 BOLO CACO C/ MANTEIGA 1.50 13% \n0.501 SOBR TRAMISU 1.76 13% \n0.501 ACOMP BATATA FRITA 2.01 13% \n0.501 ACOMP ARROZ 1.25 13% \n0.501 SOBR PUDIM FLAN 1.50 13% \n0.501 ESP ENTRECOSTO PORCO 3.05 13% \n0.501 AGUA S/ GAS GRD 1.50 13% \n0.501 ESPETO DE ANANAS 2.46 13% \nTOTAL 20.00 \nCARTAO 20.00 \nTAXA BASE IVA TOTAL \n13% 17.70 2.30 20.00 \nObservações \nORIGEM: CM 190012/172 - 2019-03-28 \nIVA Incluido a taxa em vigor \nNOME: \nNIF: \nIBAN: PT50 0035 004 0000 5496 4305 1 \ngeral@alxama.com \nwww.alxama.com \nObrigado - Thank You"
+  }
+}

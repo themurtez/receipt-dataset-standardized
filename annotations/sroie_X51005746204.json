@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "BEMED (SP) SDN. BHD.",
+    "address": "No.49, Jalan Dilar G U3/G, Subang Perdana, 40150 Shah Alam, Selangor D.E.",
+    "phone": "03-7845 8155",
+    "tax_id": "001731614680",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-27",
+    "time": "06:27:41",
+    "currency": "MYR",
+    "payment_method": "MASTER",
+    "subtotal": 308.7,
+    "tax": 17.47,
+    "tip": 0.0,
+    "total": 308.7,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PRISTIN MOPL FISH OIL",
+      "quantity": 1,
+      "unit_price": 143.7,
+      "total_price": 143.7,
+      "category": "Health & Wellness",
+      "accounting_category": "Supplements",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "ALPHA LIPID LIFE LINE",
+      "quantity": 1,
+      "unit_price": 165.0,
+      "total_price": 165.0,
+      "category": "Health & Wellness",
+      "accounting_category": "Supplements",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005746204.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BEMED (SP) SDN. BHD.\nNo.49, Jalan Dilar G U3/G,\nSubang Perdana,\n40150 Shah Alam, Selangor D.E.\n03-7845 8155\nGST Reg: 001731614680\nCASH RECEIPT\nCB#: 236110411023 27 Mar 2018 06:27:41\nCashier: mimie O\nQty Code&Desc Price Total\nPRISTIN MOPL FISH OIL\n1 468920 143.70 143.70\nALPHA LIPID LIFE LINE\n1 184810 165.00 165.00\n2 Type: 2\nSubTotal: 308.70\nRounding Adj: 0.00\nTotal Inclusive GST: 308.70\nMASTER 308.70\nGST Summary: Amount Tax\n(MYR) (MYR)\n SR 291.23 17.47\nONG GUAT CHYE\nPoints: 1,546\nThank you.\nPlease come again."
+  }
+}

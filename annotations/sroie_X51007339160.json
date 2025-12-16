@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "SANYU STATIONERY SHOP",
+    "address": "NO. 31G&33G, JALAN SETIA INDAH X, U13/X, 40170 SETIA ALAM",
+    "phone": "+603-3362 4137",
+    "tax_id": "001531760640",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-21",
+    "time": "14:13:48",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 3.68,
+    "tax": 0.22,
+    "tip": 0.0,
+    "total": 3.9,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CAMPAP CR 36364 A4 10S BRIEF CARD",
+      "quantity": 1,
+      "unit_price": 3.9,
+      "total_price": 3.9,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 6.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007339160.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SANYU STATIONERY SHOP\nNO. 31G&33G, JALAN SETIA INDAH X, U13/X, 40170 SETIA ALAM\nMobile /Whatsapps : +6012-918 7937\nTel: +603-3362 4137\nGST ID No: 001531760640\nOwned By : SANYU SUPPLY SDN BHD (1135772-K)\nTAX INVOICE\nCASH SALES COUNTER\n1. 2000-0240 CAMPAP CR 36364 A4 10S\nBRIEF CARD (CAMPAP ARTO)\n1 X 3.9000 - 3.90 SR\nTotal Sales Inclusive GST @6% 3.90\nDiscount 0.00\nTotal 3.90\nRound Adj 0.00\nFinal Total 3.90\nCASH 10.00\nCHANGE 6.10\nGST Summary Amount(RM) Tax(RM)\nSR @ 6% 3.68\nINV NO: CS-SA-0131945\nDate: 21/12/2017\nTotal Qty: 1\nPrint Time : Thursday, 21 December, 2017 2:13:48 PM\nGoods sold are not Returnable & Refundable\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN.\nTERIMA KASIH SILA DATANG LAGI\n** PLEASE KEEP THIS RECEIPT FOR PROVE OF PURCHASE DATE FOR I.T PRODUCT WARRANTY PURPOSE **\nFollow us in Facebook : Sanyu.Stationery"
+  }
+}

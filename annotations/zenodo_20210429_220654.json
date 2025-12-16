@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Art&Dedal-P.Serv.Costura,Lda.",
+    "address": "S.I: R. Prof. Moises Amzalak, 1600-648 Lisboa",
+    "phone": "213 909 095",
+    "tax_id": "506 998 720",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-11-06",
+    "time": "14:13:00",
+    "currency": "EUR",
+    "payment_method": "DINHEIRO",
+    "subtotal": 10.0,
+    "tax": 1.87,
+    "tip": 0.0,
+    "total": 10.0,
+    "accounting_category": "Repairs",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ARRANJOS DIVERSOS",
+      "quantity": 1,
+      "unit_price": 10.0,
+      "total_price": 10.0,
+      "category": "Repairs",
+      "accounting_category": "Repairs",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_220654.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "R. DA ROCHA, MERCADO MUN\nLISBOA\nTel. : 213 909 095\n\nFatura N.: S 10112019A/04117\nARRANJOS DIVERSOS   10,00 eur\nTOTAL               10,00 eu\nCom IVA            23,00%   1,87 eur\nPagamento: DINHEIRO\nRECEBI: 10,00 eur\nTROCO: 0,00 eur\nNo. Pegas : 0\nAtendido por : ANA\n\n06/11/2019 14:13\n\n3279\n\nNuTI-Processado por programa\ncertificado N. 1397/DGCI\nCABIDE N. <\n\nArt&Dedal-P Serv.Costura,Lda.\nS. : R. Prof. Moises Amzalak\n1600-648 Lisboa\nNIPC: 506 998 720\nCRC Lisboa - N. Q 12598\nC.S. 10.000e\n\nCLIENTE : 01175\nFLIKEHOME FLIKEHOME\nMORADA :\nN. 510776914\n\n1,00 eur"
+  }
+}

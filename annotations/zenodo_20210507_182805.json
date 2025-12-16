@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Delta Q - Lisboa Avenida",
+    "address": "Av. Liberdade, 144 E/F, 1250-146 Lisboa",
+    "phone": "00 800 20 50 20 50",
+    "tax_id": "500853975",
+    "website": "mydeltaq.com"
+  },
+  "transaction": {
+    "date": "2019-12-05",
+    "time": "11:02:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 8.85,
+    "tax": 1.15,
+    "tip": 0.0,
+    "total": 10.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Yogurt/Cereals & Mango Passionfruit",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Yogurt/Cereals & Seasonal Pulp",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Expresso Qalidus",
+      "quantity": 5,
+      "unit_price": 0.8,
+      "total_price": 4.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_182805.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Delta Q - Lisboa Avenida\nAv. Liberdade, 144 E/F, 1250-146 Lisboa\nManuel Rui Azinhais Nabeiro, Lda.\nAv. Calouste Gulbenkian\n7370-025 Campo Maior\nMatricula/NIPC: 500 853 975\nCapital Social: 2.500.000,00 Eur\n\n2019-12-05\nOriginal: FATURA SIMPLIFICADA N:\n11:02 MESA N: 104/0 FS 2A1903/21475\nContribuinte: 510776914\n\nQTD UNI DESCRIÇÃO IVA VALOR\nIOGURT C/CEREAIS E POLPA MANGA MARACUJA\n\n1 Uni 13% 3,00\nPreco: 3,00/Unidade\nIOGURT C/CEREAIS E POLPA DA EPOCA\n\n1 Uni 13% 3,00\nPreco: 3,00/Unidade\nEXPRESSO QALIDUS\n5 Uni 13% 4,00\nPreco: 0,80/Unidade\n\nTAXA INCID:\n13% 1,15 8,85\n\nTOTAL: 10,00 €\nVendido por: Abilene Goncalves\nPago em Numerario\nValor entregue: 10,00\nTroco: 0,00\n\nLinha Apoio Cliente: 00 800 20 50 20 50\ninfo@mydeltaq.com\n\nFree Wi-Fi:\nSSID: Delta Q | Password: umdiafeliz\n\nWTNN-Processado por programa\ncertificado n. 196/AT\nLicenca: Manuel Rui Azinhais Nabeiro,\nLda\nContribuinte: 500853975"
+  }
+}

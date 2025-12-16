@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "COPIMATICA - Informatica e Copia, Serviços e Sistemas, Lda",
+    "address": "Sede R Ota Palmeiras, 31 D Oeiras",
+    "phone": "Tel. 211321083",
+    "tax_id": "MIF 502413177",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-11",
+    "time": "20:45:00",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 5.43,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 5.43,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Fotocopias/Impressões Cores A4",
+      "quantity": 3,
+      "unit_price": 0.83,
+      "total_price": 2.49,
+      "category": "Printing Services",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cartolina branca A4 160 gramas",
+      "quantity": 3,
+      "unit_price": 1.0,
+      "total_price": 3.0,
+      "category": "Paper Products",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.07
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_203500.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "COPIMATICA - Informatica e Copia, Servicos e Sistemas, Lda\nSede R Ota Palmeiras, 31 D Oeiras PARQUE, Loja 1017 - Paco Arcos 2780-219 Oeiras Tel. 211321083\nCap.Soc. 249739.90Euros MIF 502413177 C.R.Com-Cascais N.9610\nExmo(s) Senhor(es):\nF. LIKE HOME\nV/Nc 510776914 N.Cli.PT510776914\nFTR 2/68637 Data 2017-11-11 20:45\nFactura\nVendedor: Dliogo Cacho\nArt. Descricao Qde.Pr.Unit.Val.Liq.Desc\n3 0.830 0.830 0.49 0%\nFotocopias/Impressões Cores A4\n90 3.000 1.050 0.45 0%\nCartolina branca A4 160 gramas\nTotal Ilquido 5.43\n------------------------------------------\nVALOR LIQUIDO IVA\n0.00 0.00\n0.00 13\n0.00 6\n4.41 23\n1.02\n------------------------------------------\nDESCONTO 0.00% 0.00\nTOTAL DOCUMENTO EURO 5.43\nNumerario 5.50\nTroco 0.07\nBens colocados a disposicao do adquirente nesta data, de acordo com a alínea f) do n. 5 do artigo 36 do CIVA\nLocal Carga : Nossa Morada Hora:09:00\nLocal Descarga: Morada Cliente Hora:11:00\nViatura :\nHZyQ-Processado por programa certificado N. 1627/AT\nObrigado Volte Sempre"
+  }
+}

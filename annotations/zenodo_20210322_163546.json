@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Intermarché",
+    "address": "Poco Partido, Carvoeiro, 8400-552 LAGOA",
+    "phone": "282380520",
+    "tax_id": "502 297 767",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-07-05",
+    "time": "18:35:00",
+    "currency": "EUR",
+    "payment_method": "Visa",
+    "subtotal": 1.4,
+    "tax": 0.32,
+    "tip": 0.0,
+    "total": 1.72,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "QUADRO C/PRETA S/L",
+      "quantity": 1,
+      "unit_price": 0.48,
+      "total_price": 0.48,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CARTEIRA ETIQUETAS 3",
+      "quantity": 1,
+      "unit_price": 0.48,
+      "total_price": 0.48,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CAD AGR C PRET AS LI",
+      "quantity": 1,
+      "unit_price": 0.44,
+      "total_price": 0.44,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210322_163546.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Intermarché\nDISTRI LAGOA SUPERMERCADOS LDA\nCONI. N 502 297 767\nPOCO PARTIDO CARVOEIRO\n8400-552 LAGOA\nTELEFON: 282380520\nFAX 282342807\n\nDocumento processado por computador\n\nFATURA      FT 3F5C11219/753\nreferência: 91861112458     DUPLICADO\n\n(Precos em Euros)\n\nIdentificaçáo cliente\nNIF     P 514407395\nNOME     FILKENOM ALºAR LDA\nMORADA : LISBOA\nVIATURA :\nC POSTAL :\nLOCAL  DE DESCARGA :\n\nData   20/07/05   18:35\n\nArtigo   P.Unitário    P.Total\n          sem IVA        sem IVA\n\nQUADRO S/P\nCARTEIRA ETIQUETAS 3\n\n1        0.48         0.48 23.00 B\n\n1        0.48\n\nCAD AGR C PRET AS LI\n\n1        0.44         0.44 23.00 B\n\nTOTAL S/IVA        1.40\n\nTOTAL C/IVA        1.72\n\nVISA                             1.72\n\nCód.  Taxa                                 s/IVA       c/IVA\n\nB     23.00     0.32   1.40   1.72\n\nTotalis          0.32     1.40     1.72\n\nHa coisas na vida que valem muito,\nnos devem custar muito pouco.\nIntermarche\nJuntos pelo melhor e mais barato.\nDOCUMENTO PROCESSADO POR COMPUTADOR\nCONSERVE ESTE DOCUMENTO\nSERVE DE RECIBO APÓS BOA COBRANCA\n\nllKY Processado por programa\nCertificado no 1359/AT\n\nLoja: 02567 CAIXA 0011 07-2012 IRS: 0211\nData de compra   2019-07-05    18:35\n"
+  }
+}

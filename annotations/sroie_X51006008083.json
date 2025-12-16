@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "PRINT EXPERT SDN BHD",
+    "address": "NO 18, 20, 22, JALAN BUNGA TANJONG 2/16, 40000 SHAH ALAM, SELANGOR",
+    "phone": "03-55250588",
+    "tax_id": "00088677504",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-25",
+    "time": "15:32:00",
+    "currency": "MYR",
+    "payment_method": "VISA",
+    "subtotal": 112.8,
+    "tax": 6.77,
+    "tip": 0.0,
+    "total": 119.55,
+    "accounting_category": "Printing",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "FLYERS IVORY A5",
+      "quantity": 40,
+      "unit_price": 0.82,
+      "total_price": 32.8,
+      "category": "Printing",
+      "accounting_category": "Printing",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MIRRORKOTE DIECUT",
+      "quantity": 20,
+      "unit_price": 4.35,
+      "total_price": 88.92,
+      "category": "Printing",
+      "accounting_category": "Printing",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 60,
+    "rounding": -0.02,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006008083.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PRINT EXPERT SDN BHD\n(989625-A)\nNO 18, 20, 22, JALAN BUNGA TANJONG 2/16,\n40000 SHAH ALAM, SELANGOR\nTEL: 03-55250588\nGST ID: 00088677504\nTAX INVOICE\nReceipt #: CS00534200  Table: 105\nStaff: LEO  Date: 25/03/2018\nCashier: USER  Time: 15.32.00\nDescription  Qty  Price  Amt  Tax\nFLYERS IVORY A5  40  0.82  32.85  SR\nMIRRORKOTE DIECUT  20  4.35  88.92  SR\nTotal:  60  119.57\nTotal Sales (Excluding GST)  :  112.80\nDiscount  :  0.00\nService Charge  :  0.00\nTotal GST  :  6.77\nRounding  :  -0.02\nTotal Sales (Inclusive of GST)  119.55\n(000031013140) VISA  119.55\nCHANGE  0.00\nGST SUMMARY\nTax Code  %  Amt (RM)  Tax (RM)\nSR  6  112.80  6.77\nTotal :  112.80  6.77\n# indicated this tax code belong to service charges.\nGOODS SOLD ARE NOT RETURNABLE. ITEM NOT COLLECTED MORE THAN 1 MONTH WILL BE DISPOSED."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "One One Three Seafood Restaurant Sdn Bhd",
+    "address": "No.1, Taman Sri Dengkil, Jalan Air Hitam, 43600 Dengkil, Selangor",
+    "phone": "",
+    "tax_id": "000670224384",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-28",
+    "time": "20:10:51",
+    "currency": "RM",
+    "payment_method": "Cash",
+    "subtotal": 62.0,
+    "tax": 3.72,
+    "tip": 0.0,
+    "total": 65.7,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Chicken Item",
+      "quantity": 1,
+      "unit_price": 20.0,
+      "total_price": 20.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Vege Item",
+      "quantity": 1,
+      "unit_price": 15.0,
+      "total_price": 15.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Sausage Fried Rice (L)",
+      "quantity": 1,
+      "unit_price": 22.0,
+      "total_price": 22.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Beverage",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Drink",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": -0.02,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008142005.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ONE ONE THREE SEAFOOD RESTAURANT SDN BHD\n(1120908-M)\nNO.1, TAMAN SRI DENGKIL, JALAN AIR HITAM\n43600 DENGKIL, SELANGOR.\n(GST Reg. No : 000670224384)\nTax Invoice\nTable 40\nBill#: V001-536988   Order#: 137088\nDate : 28-04-2018 20:10:51\nCashier: 113 CASHIER\nPax(s) : 0\nQty Description        Total  TAX\n1   D\nChicken Item         D  20.00 SR\n1   D\nVege item            D  15.00 SR\n1   D\nSausage Fried Rice (L)  D  22.00 SR\n1   D\nBeverage             D  5.00 SR\nTotal (Excluding GST):             62.00\nGST Payable:                       3.72\nTotal (Inclusive of GST):          65.72\nRounding Adj:                     -0.02\nTOTAL:                             65.70\nClosed: 1         28-04-2018 21:08:20\nServer: 113 CASHIER\nCASH :                             65.70\nGST Summary  Amount(RM)  Tax(RM)\nSR   (@ 6%)  62.00       3.72\n**** Thank You ****\nPlease Come Again"
+  }
+}

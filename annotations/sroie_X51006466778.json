@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Roti Man Bakery",
+    "address": "117, Jalan Radin Bagus, Sri Petaling",
+    "phone": "03-9054 3765",
+    "tax_id": "000965911-p",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2013-05-04",
+    "time": "16:07:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 20.4,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 20.4,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Bacon",
+      "quantity": 1,
+      "unit_price": 4.9,
+      "total_price": 4.9,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Walnut Raisin",
+      "quantity": 1,
+      "unit_price": 8.6,
+      "total_price": 8.6,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Dark Rye Bun",
+      "quantity": 1,
+      "unit_price": 6.9,
+      "total_price": 6.9,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006466778.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "the Roti man bakery 000965911-p\n117, Jalan Radin Bagus, Sri Petaling\nTel: 03-9054 3765\nGST 000223065280\nREG C01 MC #01\n04-05-2013 16:07 456277\nBacon RM4.90\nWalnut Raisin RM8.60\nDark Rye Bun RM6.90\nSUBTOTAL RM20.40\nCASH RM20.40\nTAX INVOICE NO.\n223894\nTHANK YOU PLEASE COME AGAIN\nPRICE INCLSIVE 6% GST"
+  }
+}

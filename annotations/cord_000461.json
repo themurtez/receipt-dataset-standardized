@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "KFC",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 48182.0,
+    "tax": 4818.0,
+    "tip": 0.0,
+    "total": 53000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "KFC Winger HC",
+      "quantity": 2,
+      "unit_price": 20000.0,
+      "total_price": 40000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Spaghetti Deluxe",
+      "quantity": 1,
+      "unit_price": 8182.0,
+      "total_price": 8182.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 7000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000461.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "2 KFC Winger HC 40,000\n1 Spaghetti Deluxe 8,182\nSub Total 48,182\nP. Rest 10% 4,818\nTotal 53,000\nCash 60,000\nKembali 7,000\n3 Items,"
+  }
+}

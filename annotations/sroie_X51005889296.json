@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "IKEA Cheras",
+    "address": "No 2A Jalan Cochrane, Taman Maluri, 55100 Kuala Lumpur",
+    "phone": "",
+    "tax_id": "000115154944",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-25",
+    "time": "11:06:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 20.75,
+    "tax": 1.25,
+    "tip": 0.0,
+    "total": 22.0,
+    "accounting_category": "Food",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chicken Curry Puff",
+      "quantity": 4,
+      "unit_price": 5.5,
+      "total_price": 22.0,
+      "category": "Food",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005889296.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Smart tich. 8 persons.\nIKANO HANDEL SDN BHD\n(1074617K)\nIKEA Cheras\nNo 2A Jalan Cochrane\nTaman Maluri\n55100 KUALA LUMPUR\nGST No.: 000115154944\n-----------------------------------------\nTAX INVOICE\nSlip: 0000000109000712950\nDate: 25/04/18\nTime: 11:06\nTrans: 409712949\nStaff : 95897\nDescription                              Amount  TX\n598336001 6 Chicken Curry Puff\n4 bag @ 5.50                           22.00    SR\n--------------------------------------------------\nTotal RM Including GST 6%           22.00\nRounding Adj                          0.00\nTotal Rounded                        22.00\nCash                                       -22.00\nGST       SR     6%          22.00           1.25\nAmt. Excl. GST                                20.75\nNo. of Items                                    4\n-----------------------------------------\nThank you. Please come again.\nAPPROVED\nBY\nDATE\nlan\n30/4/18\n"
+  }
+}

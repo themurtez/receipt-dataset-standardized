@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Gerbang Alaf Restaurants Sdn Bhd",
+    "address": "Level 6, Bangunan TH, Damansara Uptown 3, No. 3, Jalan SS21/39, 47400 Petaling Jaya, Selangor",
+    "phone": "03-9010-9849",
+    "tax_id": "000504664064",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-11",
+    "time": "20:22:56",
+    "currency": "MYR",
+    "payment_method": "cash",
+    "subtotal": 17.83,
+    "tax": 1.07,
+    "tip": 0.0,
+    "total": 18.9,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "McChicken Set",
+      "quantity": 1,
+      "unit_price": 11.1,
+      "total_price": 11.1,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "6 Nuggets",
+      "quantity": 1,
+      "unit_price": 7.8,
+      "total_price": 7.8,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 31.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008042783.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "158\nGerbang Alaf Restaurants Sdn Bhd\n(65351-M)\n* Licensee of McDonald's\nLevel 6, Bangunan TH, Damansara Uptown3\nNo.3, Jalan SS21/39,47400 Petaling Jaya\nSelangor\n(GST ID No: 000504664064)\nMcDonald's Shell Mankota Cheras DT (#36)\nTel No. 03-9010-9849\nTAX INVOICE\nMFY Side 1\nINV# 003621900031356\nORD #56 - REG #19- 11/05/2018 20:22:56\nQTY ITEM TOTAL\n1 L McChicken\n1 L Coke\n1 L Fries 11.10\n1 6Nuggets 7.80\n1 French Cheese Sauce\nTakeOut Total (incl GST) 18.90\nTotal Rounded 18.90\nCash Tendered 50.00\nChange 31.10\nTOTAL INCLUDES 6% GST 1.07\nThank You and Please Come Again.\nGuest Relations Center : 1300-13-1300"
+  }
+}

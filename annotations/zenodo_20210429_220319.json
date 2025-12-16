@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Security Center",
+    "address": "Rua Alfredo Keil, 18 Arm L Amoreiras 1070-023 Lisboa",
+    "phone": "213 853 292",
+    "tax_id": "PT510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-11-05",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 52.11,
+    "tax": 11.99,
+    "tip": 0.0,
+    "total": 64.1,
+    "accounting_category": "Tools",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CHAVE PONTOS MC14R",
+      "quantity": 1,
+      "unit_price": 17.9,
+      "total_price": 53.7,
+      "category": "Hardware",
+      "accounting_category": "Tools",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHAVE PLANA C5206",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.69,
+      "category": "Hardware",
+      "accounting_category": "Tools",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHAVE PLANA UL050",
+      "quantity": 1,
+      "unit_price": 2.6,
+      "total_price": 3.2,
+      "category": "Hardware",
+      "accounting_category": "Tools",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_220319.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Security Center\nAmoreiras\nContactos Rapidos Familiares, Lda\nRua E Alfredo Keil, L9C 18 Arm L\nCentro Comercial Amoreiras 1070-023\nLisboa Tel 213853292\nSoc. 5.000,00 Euro NIF 510776914\nR. Com Cascais N 99955/2007\nCliente: Senhora\nFleixibele\nLISBOA\nCL: 510776914 N CLI: PT510776914\nC 710158597\nFTX 31/6397 Data 2019-11-05 Original\nFactura\nVendedor: OTELO\nArt. Descrição Qte. P. Unit. Valor IVA\nCHAVE PONTOS MC14R 1 17.90 53.70 23\n1699\nCHAVE PLANA C5206 CI-DL\n62 3.00 3.60 23\nCHAVE PLANA UL050 U-USD\n172 2.60 3.20 23\nTotal de pecas: 7\nVALOR LIQUIDO IVA VALOR\n0.00 1.30 0.00\n6.00 13 0.99\n0.00 10 0.02\n52.11 23 11.99\nDESCENTO 0.00\nTOTAL DOCUMENTO EURO 64.10\nMultibanco 64.10\nProcessado por programa\nCertificado N. 162747\nBens colocados a disposicao do adquirente nesta data, de acordo com\nalinea f) do n. 5 do artigo 36 do CIVA\nTROCAS E DEVOLUÇÕES ACEITES COM COMPOROVO\nATIVO DE COMPRA E ATE 30 DIAS DA DATA\nDE COMPRA.\nObrigado Pela Visita - Volte Sempre\nTALÃO INDISPENSAVEL P/ENTREGA-RECLAMACAO\nTROCAS PRAZO 1 MES\nConte-nos a sua\nExperiência!"
+  }
+}

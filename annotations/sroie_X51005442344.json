@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "YONG TAT HARDWARE TRADING",
+    "address": "NO 4, JALAN PERJIRANAN 10, TAMAN AIR BIRU, 81700 PASIR GUDANG, JOHOR.",
+    "phone": "07-2614733",
+    "tax_id": "001570349036",
+    "website": "YONGTAT99@YAHOO.COM.MY"
+  },
+  "transaction": {
+    "date": "2018-03-13",
+    "time": "12:49:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 95.17,
+    "tax": 5.71,
+    "tip": 0.0,
+    "total": 100.88,
+    "accounting_category": "Hardware",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "10\" WING COMPASS",
+      "quantity": 1,
+      "unit_price": 48.0,
+      "total_price": 50.88,
+      "category": "Tool",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "1/8\"-3/4\" 12PCS HOLLOW PUNCH SET",
+      "quantity": 1,
+      "unit_price": 47.17,
+      "total_price": 50.0,
+      "category": "Tool",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.02,
+    "change_due": 0.1
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005442344.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "YONG TAT HARDWARE TRADING (JM0292487-D)\nNO 4, JALAN PERJIRANAN 10, TAMAN AIR BIRU,\n81700 PASIR GUDANG, JOHOR.\nTEL: 07-2614733 FAX : 07-2541733\nYONGTAT99@YAHOO.COM.MY\nGST ID : 001570349036\nTAX INVOICE\nDoc No. C500035683\nCashier USER\nSalesperson\nItem\n2587\n10\" WING COMPASS\n6736\n1/8\"-3/4\" 12PCS HOLLOW PUNCH SET\nSR\nQtr\n1.00 PCS\nS/Price\n48.00\n5/Pnce\nGST)\n50.88\n48.00\n47.17\nTotal Qty 2\nTotal Sales Excluding GST Total GST Rounding\nTax\n50.88\n58. 60.00\n95.17\n0.71\n0.02 100.88\nTotal Sales Inclusive of GAST CASH\nChange\n101.00\n0.10\nGST SUMMARY\nTax Cod SR\n96.17 5.71 95.17 5.71.\nGoods Sold Are Not Returnable, Thank You"
+  }
+}

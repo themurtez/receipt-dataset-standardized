@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "Gardenia Bakeries (KL) Sdn Bhd",
+    "address": "Lot 3, Jalan Pelabur 23/1, 40300 Shah Alam, Selangor",
+    "phone": "03-55423228",
+    "tax_id": "000381399040",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-10-12",
+    "time": "12:29:00",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 59.54,
+    "tax": 1.82,
+    "tip": 0.0,
+    "total": 59.54,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "O.C. WHITE",
+      "quantity": 6,
+      "unit_price": 2.13,
+      "total_price": 12.78,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "WHOLEMEAL",
+      "quantity": 1,
+      "unit_price": 2.78,
+      "total_price": 2.78,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "O.C. JUMBO",
+      "quantity": 4,
+      "unit_price": 2.97,
+      "total_price": 11.88,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "CR-CORN",
+      "quantity": 20,
+      "unit_price": 0.72,
+      "total_price": 14.4,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "CB-B'SCOTCH",
+      "quantity": -1,
+      "unit_price": 0.72,
+      "total_price": -0.72,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "SQ-CHOCLMT",
+      "quantity": -9,
+      "unit_price": 0.84,
+      "total_price": -7.56,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "BUN-SBILIS",
+      "quantity": 20,
+      "unit_price": 0.84,
+      "total_price": 16.8,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "SC-CLASSIC",
+      "quantity": 4,
+      "unit_price": 1.84,
+      "total_price": 7.36,
+      "category": "Bakery",
+      "accounting_category": "Food",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006557195.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GARDENIA BAKERIES (KL) SDN BHD (139386 X)\nLot 3, Jalan Pelabur 23/1,\n40300 Shah Alam, Selangor.\nTel: 03-55423228 Fax:03-55423213\nGST ID: 000381399040\nTAX INVOICE / ADJUSTMENT NOTE\nCash Inv No.: 7012F715\nDate: 12/10/2017\nMAKASSAR FRESH MARKET SDN BHD\nGROUND FLOOR, NO. 4 & 6,\nJALAN SS 15/4B,\n47500 SUBANG JAYA, SELANGOR\nVE05: Ridzuan (11900)\nDD: 12/10/2017 12:29\nDescription U.P Iss Exc D Sale Amt(RM)\nO.C. WHITE 2.13 6 0 0 6 12.78\nWHOLEMEAL 2.78 2 1 0 1 2.78\nO.C JUMBO 2.97 4 0 0 4 11.88\nTotal 0% supplies: 27.44\nCR-CORN 0.72 20 0 0 20 14.40\nCB-B'SCOTCH 0.72 2 0 0 -1 -0.72\nSQ-CHOCLMT 0.84 9 0 0 -9 -7.56\nBUN-SBILIS 0.84 20 0 0 20 16.80\nSC-CLASSIC 1.84 4 0 0 4 7.36\nTotal 6% supplies (excl. GST): 30.28\nGST: 1.82\nTotal 6% supplies (Inc. GST): 32.10\nTotal 0% supplies: 27.44\nTotal Payable: 59.54\nE.&O.E.\nReceived above goods in good order condition.\nThe recipient of Gardenia's products is\nrequired to make necessary adjustments to its\ninout tax claims, on the basis of the\nadjustments shown in this Tax Invoice /\nAdjustment Note\nCUSTOMER'S COPY"
+  }
+}

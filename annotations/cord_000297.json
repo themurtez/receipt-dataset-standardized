@@ -1,0 +1,118 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 273000.0,
+    "tax": 0.0,
+    "tip": 27300.0,
+    "total": 300300.0,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "KUE CUBIT OVO/SKIPPY",
+      "quantity": 1,
+      "unit_price": 39000.0,
+      "total_price": 39000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ES BUAH",
+      "quantity": 2,
+      "unit_price": 18000.0,
+      "total_price": 36000.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "DODOT KAKEK",
+      "quantity": 1,
+      "unit_price": 28000.0,
+      "total_price": 28000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "DODOT CUCU COKLAT",
+      "quantity": 1,
+      "unit_price": 28000.0,
+      "total_price": 28000.0,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHOCOLATE MILK SHAKE",
+      "quantity": 1,
+      "unit_price": 22000.0,
+      "total_price": 22000.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "T. TARIK GREENTEA DINGIN",
+      "quantity": 2,
+      "unit_price": 20000.0,
+      "total_price": 40000.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ICED CAPPUCINO JELLY",
+      "quantity": 1,
+      "unit_price": 24000.0,
+      "total_price": 24000.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TEH PAHIT PANAS",
+      "quantity": 1,
+      "unit_price": 6000.0,
+      "total_price": 6000.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MINERAL WATER",
+      "quantity": 1,
+      "unit_price": 8000.0,
+      "total_price": 8000.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 13,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000297.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 KUE CUBIT OVO/SKIPPY 39,000\n2 ES BUAH 36,000\n1 DODOT KAKEK 28,000\n1 DODOT CUCU COKLAT 28,000\n1 CHOCOLATE MILK SHAKE 22,000\n2 T. TARIK GREENTEA DINGIN 40,000\n1 ICED CAPPUCINO JELLY 24,000\n1 TEH PAHIT PANAS 6,000\n1 MINERAL WATER 8,000\nTotal Menu 13\nSUBTOTAL 273,000\nDISKON 0\nBIAYA TAMBAHAN 27,300\nPAJAK PPN 10 % 0\nPAJAK PBM 25 % 0\nBIAYA CC 0\nPEMBULATAN 0\nTOTAL 300,300"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "merchant": {
+    "name": "Solar dos Presuntos",
+    "address": "Rua das Portas de St Antao, 150, 1150-269 Lisboa",
+    "phone": "213 424 253 / 213 472 955",
+    "tax_id": "500 129 312",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-02",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 144.3,
+    "tax": 17.13,
+    "tip": 0.0,
+    "total": 144.3,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Bife de Atum",
+      "quantity": 3,
+      "unit_price": 25.5,
+      "total_price": 76.5,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Filetes de peixe gato",
+      "quantity": 1,
+      "unit_price": 20.0,
+      "total_price": 20.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Buik Sagres",
+      "quantity": 2,
+      "unit_price": 3.0,
+      "total_price": 6.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Fute de cerveja",
+      "quantity": 2,
+      "unit_price": 2.15,
+      "total_price": 4.3,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Luso 1L",
+      "quantity": 1,
+      "unit_price": 1.75,
+      "total_price": 1.75,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cafe",
+      "quantity": 3,
+      "unit_price": 1.9,
+      "total_price": 5.7,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Couvert (pão, manteiga e azeitonas)",
+      "quantity": 2,
+      "unit_price": 3.7,
+      "total_price": 7.4,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Combinado especial",
+      "quantity": 1,
+      "unit_price": 11.5,
+      "total_price": 11.5,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Queijo de Azeitão",
+      "quantity": 1,
+      "unit_price": 5.8,
+      "total_price": 5.8,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 9,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_220051.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SOLAR DOS PRESUNTOS\n\nGonzalez Teixeira & Sescone, lda\nContribuinte n_ 500 129 312 Cap Social €24 939,89\nRua das Portas de S'~ Antao, 150 - 1150-269 Lisboa\n(Junto ao elevador da lava)\nTelef_ 213 424 253 / 213 472 955\n\nCliente: Fliteehome \n\nData:  \nContribu n°   51076914\n\n· FaCtura F   331/06681 Data: 2011-11-02 M 7.70\n\nEm substituicã0 d F 331/00580 de 2017-11-02\n\nQtd  Artigo  \n\n3  Bife de Atum                 76,50 \n1  Filetes de peixe gato        20,00 \n2  Buik Sagres                   6,00 \n2  Flute de cerveja              4,30 \n1  Luso  1L                     1,75 \n3  Cafe                         5,70 \n2  Couvert (pão, manteiga e azeitonas)  7,40 \n1  Combinado especial           11,50 \n1  Queijo de Azeitão             5,80 \n\n                     Sub-Total     144,30 \n                     A pagar       144,30 \n\nIVA Incluido \nTaxa Iva\n3  23,0% \t5,89 €\t1,36 €\n2  13,0%  121,28 €  15,77 €\n\n05BC - Processado por programa certificado n° 1903/AT"
+  }
+}

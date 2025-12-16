@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "KFC",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 22727.0,
+    "tax": 2273.0,
+    "tip": 0.0,
+    "total": 25000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Rice Organik",
+      "quantity": 1,
+      "unit_price": 6818.0,
+      "total_price": 6818.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "1pc Chicken OR",
+      "quantity": 1,
+      "unit_price": 15909.0,
+      "total_price": 15909.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000144.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Rice Organik 6.818\n1 1pc Chicken OR 15.909\nSub Total 22.727\nP.Rest 10% 2.273\nTotal 25.000\nCash 25.000\n2 Items\n"
+  }
+}

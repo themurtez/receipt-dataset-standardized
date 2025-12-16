@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "Doremi",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 34000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 34000.0,
+    "accounting_category": "Entertainment",
+    "category_confidence": 0.8
+  },
+  "items": [
+    {
+      "name": "Sate Babi Manis",
+      "quantity": 1,
+      "unit_price": 6000.0,
+      "total_price": 6000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sate Babi Bumbu Bali",
+      "quantity": 2,
+      "unit_price": 4000.0,
+      "total_price": 8000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lapciong",
+      "quantity": 1,
+      "unit_price": 4000.0,
+      "total_price": 4000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sate Babi Cabe Ijo",
+      "quantity": 1,
+      "unit_price": 4000.0,
+      "total_price": 4000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Paru Babi",
+      "quantity": 1,
+      "unit_price": 3000.0,
+      "total_price": 3000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Nghiong",
+      "quantity": 1,
+      "unit_price": 4000.0,
+      "total_price": 4000.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Es Teh Manis",
+      "quantity": 1,
+      "unit_price": 5000.0,
+      "total_price": 5000.0,
+      "category": "Beverage",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000569.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Kasir:\nA1. Sate Babi Manis\n1 6.000\nA2. Sate Babi Bumbu Bali\n2 8.000\nA2. Lapciong\n1 4.000\nA2. Sate Babi Cabe Ijo\n1 4.000\nA1. Paru Babi\n1 3.000\nA2. Nghiong\n1 4.000\nA4. Es Teh Manis\n1 5.000\nTotal 34.000\nCash 34.000"
+  }
+}

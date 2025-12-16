@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Chef Nino",
+    "address": "Rua Rodrigues Faria, 103\n1300-501 Lisboa",
+    "phone": "",
+    "tax_id": "509930265",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-11-15",
+    "time": "18:03:00",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 19.46,
+    "tax": 2.54,
+    "tip": 0.0,
+    "total": 22.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Crepe / 1 Bola G",
+      "quantity": 1,
+      "unit_price": 6.5,
+      "total_price": 6.5,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Cone/Copo 2 Bolas G",
+      "quantity": 1,
+      "unit_price": 4.0,
+      "total_price": 4.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Cone/Copo 1 Bola",
+      "quantity": 1,
+      "unit_price": 3.0,
+      "total_price": 3.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Granola",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Café",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Beverages",
+      "accounting_category": "Drinks",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Croiss Simples",
+      "quantity": 2,
+      "unit_price": 3.0,
+      "total_price": 6.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_205349.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Chef Nino\nGelados Italianos do Chefino, Lda.\nRua Rodrigues Faria, 103\n1300-501 Lisboa\nNIF: 509930265 CS: 5000E CRC Lisboa\nNome : Consumidor final\nNIF : 510776914\nFatura\n\nOpr: Gerente FT: 001/00065799\nData: 2019-11-15 Hora: 18:03\nQuant Artigo IVA Valor\n1 Crepe / 1 Bola G 13,00 6,50\n1 Cone/Copo 2 Bolas G 13,00 4,00\n1 Cone/Copo 1 Bola 13,00 3,00\n1 granola 13,00 1,00\n1 Café 13,00 1,00\n2 Croiss Simples 13,00 3,00\nTotal EUR 22,00\n\nResumo do IVA\nTaxa Incidência Imposto Total\n13,00 19,46 2,54 22,00\nMESAS - 1\n\nMeio Liquidação: Numerário\nqGA+Processado por Programa\nCertificado n. 525/AT\nIVA Incluído\nSede em:\nRua Francisco Baía, 14 - 5D\n1500-279 Lisboa\n\nObrigado pela Visita"
+  }
+}

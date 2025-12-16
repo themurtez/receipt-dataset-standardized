@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "KRW",
+    "payment_method": "Cash",
+    "subtotal": 42000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 42000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PAIN AU CHOCOLATE",
+      "quantity": 2,
+      "unit_price": 11000.0,
+      "total_price": 22000.0,
+      "category": "Pastry",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "APPLE PIE",
+      "quantity": 1,
+      "unit_price": 11000.0,
+      "total_price": 11000.0,
+      "category": "Pastry",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "REDBEAN BREAD",
+      "quantity": 1,
+      "unit_price": 9000.0,
+      "total_price": 9000.0,
+      "category": "Bread",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 58000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000184.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TOUS LES JOURS\n\n2 PAIN AU CHOCOLATE        22,000\n1 APPLE PIE                11,000\n1 REDBEAN BREAD             9,000\n\nTOTAL                     42,000\nCASH                      100,000\nCHANGE                    58,000"
+  }
+}

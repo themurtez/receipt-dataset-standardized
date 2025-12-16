@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "",
+    "subtotal": 95000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 95000.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Blend GT (M)",
+      "quantity": 1,
+      "unit_price": 60000.0,
+      "total_price": 60000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Es Kopi Susu Pandan",
+      "quantity": 1,
+      "unit_price": 35000.0,
+      "total_price": 35000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000417.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "XXX GARDEN\nHOLYWINGS ABC\n\nORDER NO: 211306\nCashier : A452\nWaiter : J012\n01/02/2019 19:02\n\n1   Blend GT (M)          60.000\n1   Es Kopi Susu Pandan   35.000\n\nSUB-TOTAL                 95.000\nService Charge            0\nPB1                       0\n\nTOTAL                     95.000"
+  }
+}

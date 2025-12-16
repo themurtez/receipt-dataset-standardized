@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Restaurante Gina",
+    "address": "",
+    "phone": "965127348",
+    "tax_id": "510776914",
+    "website": "www.pingwin.ws"
+  },
+  "transaction": {
+    "date": "2019-03-26",
+    "time": "14:12:00",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 45.0,
+    "tax": 5.68,
+    "tip": 0.0,
+    "total": 45.0,
+    "accounting_category": "Meals and Entertainment",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BIFE GRELHADO",
+      "quantity": 2,
+      "unit_price": 13.5,
+      "total_price": 27.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "FRANGO",
+      "quantity": 1,
+      "unit_price": 11.0,
+      "total_price": 11.0,
+      "category": "Food",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "COCA-COLA ZERO",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Beverage",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ÁGUA 33CL",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Beverage",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CAFE",
+      "quantity": 3,
+      "unit_price": 1.0,
+      "total_price": 3.0,
+      "category": "Beverage",
+      "accounting_category": "Meals and Entertainment",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_190519.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Restaurante Gina\nMaria Georgina lopes Alves Pinto\nTel. 965127348\nN. Contrib. 176153446\nRegisto na Cons. n.\nCapital Social\nNIF: 510776914\nNome: flikehome\nMorada:\nFatura_recibo FR 19LRG/513\n2019-03-26 14:12\nOriginal\nDocumentos referenciados\nTC 19LRG/3020\nQtDescrição P.Untt. Valor\n2.00BIFE GRELHADO INT €13.50 €27.00\n1.00FRANGO INT €11.00 €11.00\n1.00COCA-COLA ZERO NOR €2.00 €2.00\n1.00ÁGUA 33CL NOR €2.00 €2.00\n3.00CAFE NOR €1.00 €3.00\nTotal liq. €45.00\nPagamento Numerário\nValor\n€45.00\nTaxa Base Valor Total\n13.00 €33.62 €4.38 €38.00 INT\n23.00 €5.70 €1.30 €7.00 NOR\nIVA Incluído\n30 LUCIANO\nMrf Processado por programa certificado\n92519/AT\nwww.pingwin.ws"
+  }
+}

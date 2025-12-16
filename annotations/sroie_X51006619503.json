@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "KEDAI UBAT & RUNCIT HONG NING SDN. BHD.",
+    "address": "NO.8, JALAN LANG KUNING, KEPONG BARU, 52100 KUALA LUMPUR",
+    "phone": "03-6273 2153",
+    "tax_id": "002069163456",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-12-21",
+    "time": "09:29:44",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 8.83,
+    "tax": 0.17,
+    "tip": 0.0,
+    "total": 9.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "BROWN CANDY 400g",
+      "quantity": 2,
+      "unit_price": 1.5,
+      "total_price": 3.0,
+      "category": "Groceries",
+      "accounting_category": "Goods",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "LUO HAN GUO",
+      "quantity": 2,
+      "unit_price": 1.42,
+      "total_price": 2.83,
+      "category": "Groceries",
+      "accounting_category": "Goods",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006619503.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PLAZA COME AGAIN\n\nDuplicated Receipt\n\nKEDAI UBAT & RUNCIT HONG NING SDN. BHD.\n(717853-P)\n(CGST ID No: 002069163456)\nNO.8, JALAN LANG KUNING,\nKEPONG BARU,\n52100 KUALA LUMPUR.\n\nTel: 03-6273 2153\n\nBill No : POS/26870\nDate : 21/12/16 9:29:44 AM\nCashier : admin\nPayment : Cash\n\nItem Qty Price Amount\nBROWN CANDY 400G @1.50\n89349770 2 1.50 3.00 ZRL\n\n羅漢果 LUO HAN GUO (B) @1.42\nS7031 2 1.42 2.83 SR\n\nNvt Amt @ GST 6% : 8.83\nCash Paid : 9.00\nCard Paid : 0.00\nChange : 0.00\n\nRound Adj. : 0.00\n\nGST Summary Amount Tax\nSR @6% 2.83 0.17\nZRL @0% 3.00 0.00\n\nTHANK YOU\n"
+  }
+}

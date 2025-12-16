@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Auntie Anne's",
+    "address": "Mall Location",
+    "phone": "021-xxxxxxx",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 28000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 28000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Almond Cream Cheese",
+      "quantity": 1,
+      "unit_price": 28000.0,
+      "total_price": 28000.0,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 2000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000625.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Auntie Anne's\nMall Location\n021-xxxxxxx\nALMOND CREAM CHEESE\n1 28,000\nSUB TOTAL 28,000\nGRAND TOTAL 28,000\nCASH IDR 30,000\nCHANGE DUE 2,000"
+  }
+}

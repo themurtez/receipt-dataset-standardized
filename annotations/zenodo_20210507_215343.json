@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "TJSR-COMBUSTIVEIS UNIPESSOAL, LDA",
+    "address": "AV. MOSENHOR BASTOS, 2520-206 PENICHE",
+    "phone": "262782304",
+    "tax_id": "508729084",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-11",
+    "time": "14:15:34",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 20.13,
+    "tax": 4.63,
+    "tip": 0.0,
+    "total": 24.76,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "GASOLEO BUMBA NR: 3",
+      "quantity": 18.77,
+      "unit_price": 1.319,
+      "total_price": 24.76,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_215343.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TJSR - COMBUSTIVEIS UNIPESSOAL, LDA\nAV. MOSENHOR BASTOS 2520-206 PENICHE\nTEL 262782304 NIF: 508729084\nPOS nr. 2 Oper. 3\nData: 2017-11-11 14:15:34 Ref.nr. 5000\n\nFatura Simplificada FS 27060_003/086415\n\n************************************************\n\nGASOLEO BUMBA NR: 3 24,76\n18,77 Lit 1,319 €/Lit\n\n*\n\n************************************************\n\nTOTAL € 24,76\nPOUPA MAIS € 6,00\nMULTIBANCO € 18,76\n\nNumero cartao: ****************\nPontos Emitidos: 19\nPontos por Promocao: 0\nPontos Actuais: 513\nUtilizado: 5000241604758\nSaldo disponivel Poupa Mais: 0 EUR\n\nTJSR-COMBUSTIVEIS,UN\nIPESSOAL LDA\nPENICHE\n\nPagamento Automatico: 00991566\n2017-11-11 14:14:56 Per065 Tr006 Msg241\nB. SANTANDER TOTTA\nALMEIDA, FERNANDO ALM.\nCartao: ****6851/60\n501649FF20 MULTIBANCO\nCOMPRA 18.76 EUR MB\nAUT:595383\n\nPROCESSADO POR OIBS\n\nIVAX IVA + I1Q = ILIQ\nIVA4 23.00% 4.63 20.13 24.76\n\nRTsB-Processado por Programa Certificado\nno. 0177/AT\n\nNome\nFIKE HOME\nNIF: PT510776914"
+  }
+}

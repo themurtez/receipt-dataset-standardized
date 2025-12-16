@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "SM Ferragens e Livraria Lda",
+    "address": "Rua da Madalena, 191-193, 1100-319 LISBOA",
+    "phone": "218869341",
+    "tax_id": "501376734",
+    "website": "geral@luva.com"
+  },
+  "transaction": {
+    "date": "2019-04-30",
+    "time": "10:03:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 2.54,
+    "tax": 0.58,
+    "tip": 0.0,
+    "total": 3.12,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "FITA ADESIVA",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TAPA JUNTAS 4",
+      "quantity": 1,
+      "unit_price": 0.62,
+      "total_price": 0.62,
+      "category": "Hardware",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_203059.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SM\nFerragens e Livraria Lda\nRua da Madalena, 191 - 193\n1100-319 LISBOA\nContribuinte N. 501376734\nCapital Social 34.916,00 Euros\nTel.: 21 8869341/ Fax:218863158\nMail: geral@vluva.com\nNIF:510776914\nNome:FLIKEHOME MEDIACAO IMOBILIA\nMorada:LISBOA\nLocalidade:LISBOA\nCod.Postal:\nFatura\nNIF: FT POS19V12/1908056 Original\nData:30-04-2019 Hora:10:03\nDESIGNACAO IVAX QTD VALOR\nFITA ADESIVA\nTAPA JUNTAS 4\n8X20mt 23 1.0 2.50\nLIXA CARNET 1\n80 RHYNOWOOD 23 2.0 0.62\nTaxa valor IVA T.Bruto:\n12 * 3\n6 0.00 T.Osc. 0.00\n23 0.58 T.Liq. 2.54\n13 0.00 T.IVA: 0.58\n... PAGAR...: 3.12\nNUMERARIO 3.12\nPK6N-Processado por programa cer\ntificado n. 76/AT"
+  }
+}

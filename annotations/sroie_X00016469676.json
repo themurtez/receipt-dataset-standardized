@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "S.H.H. Motor (Sungai Rengit) Sdn. Bhd.",
+    "address": "No. 343, Jalan Kurau, Sungai Rengit, 81620 Pengerang, Johor.",
+    "phone": "07-8263254",
+    "tax_id": "801580-T",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-01-23",
+    "time": "13:14:15",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 20.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 20.0,
+    "accounting_category": "Automotive Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CROCS 300X17 Tubes",
+      "quantity": 1,
+      "unit_price": 20.0,
+      "total_price": 20.0,
+      "category": "Automotive Supplies",
+      "accounting_category": "Automotive Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X00016469676.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "tan chay yee\nS.H.H. MOTOR ( SUNGAI RENGIT ) SDN. BHD.\n801580-T\nNo. 343, Jalan Kurau, Sungai Rengit,\n81620 Pengerang, Johor.\nTel: 07-8263254 Fax: 07-8266888\nINVOICE\nITEM/DESC.\n4132\nQTY U.PRICE RM(TOTAL)\n1 20.00 20.00\nCROCS 300X17 TUBES\nSUB TOTAL : 20.00\nROUNDING ADJUSTMENT : 0.00\nGRAND TOTAL : 20.00\nCASH : 20.00\nCHANGE : 0.00\n23-01-2019 13:14:15 PM, PRINT BY: root\nTOKEN NO: 0, STATION ID: A1, PID: POS\nINVOICE NO: 22497\nThanks Your Support\n20.00"
+  }
+}

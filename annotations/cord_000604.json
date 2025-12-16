@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Flazz",
+    "subtotal": 31364.0,
+    "tax": 3136.0,
+    "tip": 0.0,
+    "total": 34500.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Bihun Ayam Jamur",
+      "quantity": 1,
+      "unit_price": 25090.0,
+      "total_price": 25090.0,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Es Teh",
+      "quantity": 1,
+      "unit_price": 5455.0,
+      "total_price": 5455.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000604.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Bihun Ayam Jamur 25.090\n1 Es Teh 5.455\nSubtotal 31.364\nPB 1 3.136\n2 Total 34.500\nFLAZZ 34.500"
+  }
+}

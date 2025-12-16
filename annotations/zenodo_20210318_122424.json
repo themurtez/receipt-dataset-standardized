@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Alves Bandeira, S.A.",
+    "address": "Vale de Vaz, 3330-110 Vila Nova de Poiares",
+    "phone": "924 407 767",
+    "tax_id": "500433402",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-01",
+    "time": "11:21:00",
+    "currency": "EUR",
+    "payment_method": "MultiBanco",
+    "subtotal": 8.81,
+    "tax": 2.03,
+    "tip": 0.0,
+    "total": 10.84,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Gasolina 95 - Bomba 3",
+      "quantity": 7.411,
+      "unit_price": 1.463,
+      "total_price": 10.84,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210318_122424.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Alves Bandeira, S.A.\nPosto Abastecimento de Arroios\nSede: Vale de Vaz\n3330-110 Vila Nova de Poiares\nTel: 924 407 767 Sede: 231 244 200\nNIF: 500433402 Cap. Social 6 950.300 €\nFatura Recibo: POST 479A2/125516\nData 2019-02-01 Hora 11:21\nCliente: FLIKEHOME MED. IMOB., LDA\nContribuinte: 510776914\nMatricula: 03-TR-50\nProd/Qtd P. Unit. Iva Total\nGasolina 95 - Bomba 3\n7.411 1.463€/L 23.00% 10,84€\nTotal 10,84€\nPago em MultiBanco 10,84€\nTaxa Incidencia IVA Total\n23.00% 8,81 2,03 10,84\nYMuB - Processado por programa\ncertificado nº311/AT, WARESOFT\nPara resolução de conflitos de consumo\ncontate o Centro de Arbitragem do Setor\nAutomóvel. www.arbitragemauto.pt\nTlf. 217951596 info@arbitragemauto.pt\nConcurso Publicitário nº 175/2018\nautorizado pela Secretaria-Geral do\nMinisterio de Administração Interna.\nPrêmio e vales de combustível não\nconvertíveis em dinheiro.\nOBRIGADO BOA VIAGEM"
+  }
+}

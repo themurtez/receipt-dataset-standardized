@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "IMAGE PRINTEC (M) SDN BHD",
+    "address": "No. 12A-G, Jalan Wangsa Delima 11, Dwanga Wangsa Maju, 53300 Kuala Lumpur",
+    "phone": "+(603) 4141 9822",
+    "tax_id": "001241862144",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-02-23",
+    "time": "07:44:16",
+    "currency": "MYR",
+    "payment_method": "cash",
+    "subtotal": 7.2,
+    "tax": 0.43,
+    "tip": 0.0,
+    "total": 7.65,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "COLOR COPY A4",
+      "quantity": 2,
+      "unit_price": 1.0,
+      "total_price": 2.0,
+      "category": "Printing",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PHOTOCOPY A4",
+      "quantity": 2,
+      "unit_price": 0.1,
+      "total_price": 0.2,
+      "category": "Printing",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "LAMINATE A4",
+      "quantity": 2,
+      "unit_price": 2.5,
+      "total_price": 5.0,
+      "category": "Laminating",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.02,
+    "change_due": 2.35
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005806696.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "IMAGE PRINTEC (M) SDN BHD\nReg No: 416123-U\nGST: 001241862144\nNo. 12A-G, Jalan Wangsa Delima 11,\nD'wangsa Wangsa Maju,\n53300 Kuala Lumpur\nT: +(603) 4141 9822 F: +(603) 4141 9722\nTAX INVOICE\nCB#: 61967 23/02/2018 7:44:16\nSalesperson:\nQty Desc Price Total\n2 COLOR COPY A4 1.00 2.00 SR\n2 PHOTOCOPY A4 0.10 0.20 SR\n2 LAMINATE A4 2.50 5.00 SR\n6 Type: 3\nSubTotal: 7.20 0.43\nGST 6%\nRounding Adj. 0.02\nNET TOTAL: 7.65\nCASH 10.00\nChange: 2.35\nThank you.\nPlease come again."
+  }
+}

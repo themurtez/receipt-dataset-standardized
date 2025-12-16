@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Tous Les Jours",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2023-10-05",
+    "time": "14:30:00",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 64000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 64000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Twist Donut",
+      "quantity": 1,
+      "unit_price": 9000.0,
+      "total_price": 9000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Milk Pastry Roll",
+      "quantity": 1,
+      "unit_price": 9000.0,
+      "total_price": 9000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "[MD] Soft Steamed Chococake",
+      "quantity": 1,
+      "unit_price": 10000.0,
+      "total_price": 10000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Redbean Bread",
+      "quantity": 1,
+      "unit_price": 9000.0,
+      "total_price": 9000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Kaya Bun",
+      "quantity": 1,
+      "unit_price": 9500.0,
+      "total_price": 9500.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Premium Milk Pan Bread",
+      "quantity": 1,
+      "unit_price": 17500.0,
+      "total_price": 17500.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 36000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000759.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TOUS LES JOURS\nTWIST DONUT\n1 9000 9000\nMILK PASTRY ROLL\n1 9000 9000\n[MD] SOFT STEAMED CHOCOCAKE\n1 10000 10000\nREDBEAN BREAD\n1 9000 9000\nKAYA BUN\n1 9500 9500\nPREMIUM MILK PAN BREAD\n1 17500 17500\nTOTAL 64000\nCASH 100000\nCHANGE 36000\n"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Worten Vasco da Gama",
+    "address": "C.C. Vasco da Gama - Lisboa",
+    "phone": "808 100 007",
+    "tax_id": "PT507769140",
+    "website": "www.worten.pt"
+  },
+  "transaction": {
+    "date": "2019-02-12",
+    "time": "20:22:00",
+    "currency": "EUR",
+    "payment_method": "Numerário",
+    "subtotal": 14.63,
+    "tax": 3.36,
+    "tip": 0.0,
+    "total": 17.99,
+    "accounting_category": "Electronics",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Termoventilador",
+      "quantity": 1,
+      "unit_price": 14.63,
+      "total_price": 17.99,
+      "category": "Electronics",
+      "accounting_category": "Electronics",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_142648.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Worten Vasco da Gama\nWORTEN Equipamentos para o Lar SA\nServico Apoio Cliente: 808 100 007\nCe Vasco da Gama C.C. Vasco da Gama 1990-094 Lisboa\nRegistada CRC Porto sob no 503503030\nNIF: 503503030\nC.S.C. 8.950.000,00 EUR - PEQLE: P1001257\nFactura Original\nDoc no: FT AB/1905\nCliente: FUKHOME\nNIF: PT507769140\nMorada: Lisboa\nLocal: Lisboa\nC. Postal: Oeiras\nIVA DESCRICAO\n\nC 76560 TERMOVENTILADOR\nTOTAL A PAGAR\nNumerario\nTROCO\n\nZIVA Total Liq IVA\n23,02 14,63 3,36 17,99\n\n19021200333271905264\n\nKCO-Processado por programa certificado\nN. 1356/AT\n0526 0003 332719 685551 - 1000120851880527\nLocal carga: Morada da loja\nLocal descarga: Morada do cliente\nData: 12/02/2019 Hora: 20:22\n\nConsulte as condicoes da Polftica de\nSatisfacao/Devolucao, afixadas na loja\nTalao indispensavel para troca no\nPrazo de 15 dias, nos termos previstos\nNao estao abrangidos pela politica de\n\nde satisfacao/devolucao os artigos com\nactivacao de utilizador\n\nPara mais informacoes consultar\nwww.worten.pt"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "YVM Mid Valley",
+    "address": "Lot T-015b, Level 3, Mid Valley City, Lingkaran Syed Putra, 59200 Kuala Lumpur, Malaysia",
+    "phone": "",
+    "tax_id": "002105827328",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-15",
+    "time": "18:00:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 21.6,
+    "tax": 1.23,
+    "tip": 0.0,
+    "total": 21.6,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Karaage",
+      "quantity": 1,
+      "unit_price": 3.8,
+      "total_price": 3.8,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Otm Beef Bukkake L",
+      "quantity": 1,
+      "unit_price": 17.8,
+      "total_price": 17.8,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.4
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006828200.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "YVM Mid Valley\nLot T-015b, Level 3,\nMid Valley City,\nLingkaran Syed Putra,\n59200 Kuala Lumpur Malaysia.\n002105827328\n* TAX INVOICE *\nOrder Co. 1010758 15/12/2017 06:00 PM\nReceipt No. 600-1402935 Pax: 1\nCashier :Cashier\nEat In\nItem Qty U.Price Amount Tax\nFG-H00030 1 3.80 3.80 SR\nKaraage\nFG-H01008 1 17.80 17.80 SR\nOtm Beef Bukkake L\nSubTotal : 21.60\nTotal : 21.60\nTOTAL:MYR 21.60\nTotal Excluded Tax : 20.37\n1 23\nPayment Details:\nCash: 22.00\nCash Change: 0.40\nTax Summary\nTax Code % Amount(MYR) Tax(MYR)\nSR 6 20.37 1.23\n*** Thank You ***\nPlease Come Again."
+  }
+}

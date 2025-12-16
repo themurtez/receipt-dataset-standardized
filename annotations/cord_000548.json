@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 86000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 86000.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "French Bread Pudding",
+      "quantity": 1,
+      "unit_price": 20000.0,
+      "total_price": 20000.0,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Choco Bun",
+      "quantity": 3,
+      "unit_price": 22000.0,
+      "total_price": 66000.0,
+      "category": "Bakery",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Plastic Bag Medium",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Other",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.7
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 14000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000548.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1057-French Bread Pudding\n20.000 x1 20.000\n1001-Choco Bun\n22.000 x3 66.000\n6002-Plastic Bag Medium\n0 x1 0\nTotal Items: 5\nTotal. 86.000\nCash\nTendered: 100.000\nChange: 14.000"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Dynamic",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 10200.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 10200.0,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Arem - Arem",
+      "quantity": 1,
+      "unit_price": 8000.0,
+      "total_price": 4800.0,
+      "category": "Food",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lemper",
+      "quantity": 1,
+      "unit_price": 9000.0,
+      "total_price": 5400.0,
+      "category": "Food",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Plastik Kecil",
+      "quantity": 1,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Miscellaneous",
+      "accounting_category": "Retail",
+      "category_confidence": 0.7
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 9800.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000033.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1X @8000\nAREM - AREM 8,000\nDISC ITEM -40.00%\nAMOUNT -3,200\n1X @9000\nLEMPER 9,000\nDISC ITEM -40.00%\nAMOUNT -3,600\n1X @0\nPLASTIK KECIL 0\n3.00xITEMS\nSUBTOTAL 10,200\nTOTAL 10,200\nCASH 20,000\nCHANGE 9,800"
+  }
+}

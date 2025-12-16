@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "My Palace",
+    "address": "Av. Boavista, 4191",
+    "phone": "224964450",
+    "tax_id": "510687962",
+    "website": "www.inforcelula.com"
+  },
+  "transaction": {
+    "date": "2019-09-30",
+    "time": "13:59:00",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 19.5,
+    "tax": 2.51,
+    "tip": 0.0,
+    "total": 19.5,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Prego Pao Misto",
+      "quantity": 2,
+      "unit_price": 5.5,
+      "total_price": 11.0,
+      "category": "Food",
+      "accounting_category": "Main Course",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Rissois Carne",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Food",
+      "accounting_category": "Snack",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Coca Cola Lata",
+      "quantity": 2,
+      "unit_price": 0.9,
+      "total_price": 1.8,
+      "category": "Drink",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Rissois Carne",
+      "quantity": 2,
+      "unit_price": 0.6,
+      "total_price": 1.2,
+      "category": "Food",
+      "accounting_category": "Snack",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Cafe",
+      "quantity": 1,
+      "unit_price": 0.9,
+      "total_price": 0.9,
+      "category": "Drink",
+      "accounting_category": "Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_184348.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "My Palace\nAutenticerecita - Sociedade Restauracao\nLda\nAv. Boavista, 4191\nTel. 224964450\nN. Contribu. 510687962\nRegisto na Cons. n.\nCapital Social\nBALCAO\nBalcao 104\nNIF: 510776914\nName:\nMorada:\nFatura-recibo FR 19MPSD22/40158\n2019-09-30 13:59\n(Original)\nDocumentos referenciados\nFRRF 19MPB922/952\nQt Descricao P.Unit. Valor\n2.00 Prego Pao Misto e5.50 e11.00 INT\n1.00 Rissois Carne e1.00 e1.00 INT\n2.00 Coca Cola Lata e0.90 e1.80 NOR\n2.00 Rissois Carne e0.60 e1.20 INT\n1.00 Cafe e0.90 e0.90 INT\nTotal liq. e19.50\nPagamento Valor\nNumerario e19.50\nTaxa Base Valor Total\n23.00 e2.93 e0.67 e3.60 NOR\n13.00 e14.06 e1.84 e15.90 INT\nIVA Incluido\nsaO/-Processado por programa\ncertificado n.2518/AT\nwww.inforcelula.com"
+  }
+}

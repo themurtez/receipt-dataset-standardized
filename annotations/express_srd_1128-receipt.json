@@ -1,0 +1,82 @@
+{
+  "merchant": {
+    "name": "Kalaveras - Bellflower",
+    "address": "16530 Bellflower Blvd, Bellflower, CA 90706",
+    "phone": "5624610599",
+    "tax_id": "",
+    "website": "http://www.kalaveras.com/"
+  },
+  "transaction": {
+    "date": "2019-08-30",
+    "time": "15:24:10",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 63.0,
+    "tax": 5.99,
+    "tip": 0.0,
+    "total": 68.99,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Classic Michelada",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Classic Michelada",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Don Julio Anejo",
+      "quantity": 1,
+      "unit_price": 15.0,
+      "total_price": 15.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Classic Michelada",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Balam Madurado",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "total_price": 12.0,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1128-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KALAVERAS - BELLFLOWER\n16530 BELLFLOWER BLVD\nBELLFLOWER, CA 90706\n5624610599\nhttp://www.kalaveras.com/\nORDER: Bar B11\nCashier: BAR PM\n30-Aug-2019 3:24:10P\n1 Classic Michelada $12.00\n1 Classic Michelada $12.00\n1 Don Julio Anejo $15.00\n1 Classic Michelada $12.00\n1 Balam Madurado $12.00\nSubtotal $63.00\nTax $5.99\nTotal $68.99\nThank you for your visit!"
+  }
+}

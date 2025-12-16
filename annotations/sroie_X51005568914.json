@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "IKEA Cheras",
+    "address": "No 2A Jalan Cochrane, Taman Maluri, 55100 Kuala Lumpur",
+    "phone": "",
+    "tax_id": "000115154944",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-09-08",
+    "time": "01:06:00",
+    "currency": "MYR",
+    "payment_method": "Mastercard",
+    "subtotal": 94.16,
+    "tax": 5.64,
+    "tip": 0.0,
+    "total": 99.8,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "BAGIS COAT-HANGER CH",
+      "quantity": 2,
+      "unit_price": 4.9,
+      "total_price": 9.8,
+      "category": "Furniture",
+      "accounting_category": "Home Goods",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TEODORES CH",
+      "quantity": 1,
+      "unit_price": 90.0,
+      "total_price": 90.0,
+      "category": "Furniture",
+      "accounting_category": "Home Goods",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005568914.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "IKANO HANDEL SDN BHD\n(1074617K)\nIKEA Cheras\nNo 2A Jalan Cochrane\nTaman Maluri\n55100 KUALA LUMPUR\nGST No.: 000115154944\n\nTAX INVOICE\nSlip: 0000000011000140428 Date: 09/08/17\nTrans: 311140123 Time: 1:06\nStaff: 96728\nDescription Amount TX\n\n30169728 BAGIS COAT-HANGER CH\n2 pc @ 4.90 9.80 SRM\n70350938 TEODORES CH 90.00 SR S\n\nTotal RM Including GST 6% 99.80\nRounding Adj. 0.00\nTotal Rounded 99.80\n\nMastercard -99.80\n\nGST SR 6% 99.80 5.64\nAmt. Excl. GST 94.16\nNo. of Items 3\n\nThank you. Please come again."
+  }
+}

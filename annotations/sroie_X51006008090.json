@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Popular Book Co. (M) SDN BHD",
+    "address": "No 8, Jalan 7/118B, Desa Tun Razak, 56000 Kuala Lumpur, Malaysia",
+    "phone": "03-56319320",
+    "tax_id": "001492992000",
+    "website": "www.popular.com.my"
+  },
+  "transaction": {
+    "date": "2018-03-05",
+    "time": "13:56:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 28.75,
+    "tax": 1.73,
+    "tip": 0.0,
+    "total": 30.48,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "PB 2D R/FILE A4 40MM",
+      "quantity": 2,
+      "unit_price": 7.99,
+      "total_price": 15.98,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PLASTIC RULER 20CM",
+      "quantity": 1,
+      "unit_price": 0.8,
+      "total_price": 0.8,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PB SHT/P 11H A4 50'S",
+      "quantity": 1,
+      "unit_price": 16.9,
+      "total_price": 16.9,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.02,
+    "change_due": 20.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006008090.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "POPULAR BOOK CO. (M) SDN BHD\n(Co. No. 113825-W)\n(GST Reg No. 001492992000)\nNo 8, Jalan 7/118B, Desa Tun Razak\n56000 Kuala Lumpur, Malaysia\nEMPIRE SHOPPING GALLERY\nTel : 03-56319320\n\n05/03/18 13:56 Slip No : 1020313836\nHanum Trans. : 261486\n\nMember Card No: 1001016688849\nCard Expiry: 31/05/18\n\nDescription Amount\n\nNo Plastic Bag Campai 0.20 T\nSpring Issue 20% Reba\n\nPB 2D R/FILE A4 40MM\n2pc @ 7.99 15.98 T\nStat-Buy 20RM 13 -2.98\n\nPB 1H SHRP PB8172-GY 1.50 T\nMember Discount -0.15\nPLASTIC RULER 20CM - \nMember Discount -0.08\nPB SHT/P 11H A4 50'S 16.90 T\nMember Discount -1.89\n\nTotal RM Incl. of GST 30.48\nRounding Adj 0.02\nTotal RM 30.50\nCash -50.50\nCHANGE 20.00\n\nItem Count 7\nGST Summary Amount (RM) Tax (RM)\nT @ 6% 28.75 1.73\nZ @ 0% 0.00 0.00\n\nTotal Savings -4.90\n\nBE A POPULAR CARD MEMBER\nAND ENJOY SPECIAL DISCOUNTS\nTHANK YOU. PLEASE COME AGAIN.\n\nwww.popular.com.my\nBuy Chinese books online\nwww.popularonline.com.my"
+  }
+}

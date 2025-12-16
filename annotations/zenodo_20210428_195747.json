@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "E1505 - E.S. COVA DA PIEDADE",
+    "address": "AV 23 de Julho 9, 2800-099 COVA DA PIEDADE",
+    "phone": "212750778",
+    "tax_id": "507139320",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-02-15",
+    "time": "07:18:00",
+    "currency": "EUR",
+    "payment_method": "CARTAO BANCARIO",
+    "subtotal": 76.04,
+    "tax": 13.72,
+    "tip": 0.0,
+    "total": 73.38,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GASOLEO",
+      "quantity": 53.21,
+      "unit_price": 1.429,
+      "total_price": 76.04,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Discount",
+      "quantity": 1,
+      "unit_price": -2.66,
+      "total_price": -2.66,
+      "category": "Discount",
+      "accounting_category": "Discount",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_195747.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "E1505 - E.S. COVA DA PIEDADE\nROQUE & SOUSA - COM. COMB., LDA\nAV 23 de Julho 9\n2800-099 COVA DA PIEDADE\nCAP. SOCIAL: 75000\nNIF: 507139320 TEL/FAX: 212750778\n\nDATA/HORA: 15-02-19 07:18 Factura: 196944\nOperador: Ana Vieira POS: 001\n\nARTIGO B. QT. IVA/EX. P.Un. VALOR\nGASOLEO 1 53,21 3 1.429 76,04\nDesconto 0,050/1 -2,66\n\nT.IVA Sem IVA IVA(23) IVA TOTAL\n3 59,66 23,06 13,72 73,38\nTOTAL EUROS 73,38\nCARTAO BANCARIO 73,38\nQUOTA SOCIO 0,00\n\nmVx - Processado por Programa\nCertificado N.: 1237/AT\n\n*** OBRIGADO E BOA VIAGEM ***\n\nN.I.F.: 510776914\nNome: flikhome\nMorada: lx\nLocalidade: o\nMatricula:\n\nIVA incluido a taxa em vigor"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Marco Pierre White Steakhouse & Grill",
+    "address": "Dawson Street",
+    "phone": "01 6771155",
+    "tax_id": "6533398P",
+    "website": "marcopierrewhite.ie/Dawson"
+  },
+  "transaction": {
+    "date": "2019-02-16",
+    "time": "21:31:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 0.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 129.75,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Boz Fil Bearn",
+      "quantity": 1,
+      "unit_price": 35.95,
+      "total_price": 35.95,
+      "category": "Main Course",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Boz Fil Au Po",
+      "quantity": 1,
+      "unit_price": 35.95,
+      "total_price": 35.95,
+      "category": "Main Course",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Onion Ring",
+      "quantity": 1,
+      "unit_price": 4.95,
+      "total_price": 4.95,
+      "category": "Side",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Haricots Vert",
+      "quantity": 1,
+      "unit_price": 4.95,
+      "total_price": 4.95,
+      "category": "Side",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Choc Truf Cake",
+      "quantity": 1,
+      "unit_price": 8.95,
+      "total_price": 8.95,
+      "category": "Dessert",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Lunta",
+      "quantity": 1,
+      "unit_price": 39.0,
+      "total_price": 39.0,
+      "category": "Beverage",
+      "accounting_category": "Drink",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1155-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Marco Pierre White\nSteakhouse & grill\nDawson Street\nVAT: 6533398P\nTel: 01 6771155\nmarcopierrewhite.ie/Dawson\n\n40006 Charlie\n\nTbl 15/1  Chk 1501  Gst 2\nStation 1         16Feb'19 21:31\n\n1 Boz Fil Bearn             35.95\n1 Boz Fil Au Po            35.95\n1 Onion Ring                4.95\n1 Haricots Vert             4.95\n1 Choc Truf Cake         8.95\n1 Lunta                        39.00\n                     22:57 Balance Due  129.75\n\nThank you for your custom.\nPlease call again\nVisit us online at\nmarcopierrewhite.ie/dawson"
+  }
+}

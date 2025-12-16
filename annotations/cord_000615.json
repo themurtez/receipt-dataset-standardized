@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "cash",
+    "subtotal": 27272.0,
+    "tax": 2727.0,
+    "tip": 0.0,
+    "total": 29999.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Nutella Cheese",
+      "quantity": 1,
+      "unit_price": 27272.0,
+      "total_price": 27272.0,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 20001.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000615.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 Nutella Cheese 27,272\nSubTotal: 27,272\nPB1: 2,727\nTotal: 29,999\ncash: 50,000\nChange: 20,001"
+  }
+}

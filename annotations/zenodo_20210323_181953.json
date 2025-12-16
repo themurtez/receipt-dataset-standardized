@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Lizzy's Bar 1",
+    "address": "Av. Marina Edifício Olympus - Vilamoura, 8125-401 Quarteira",
+    "phone": "502 663 308",
+    "tax_id": "502 663 308",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-21",
+    "time": "08:03:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 4.1,
+    "tax": 0.65,
+    "tip": 0.0,
+    "total": 4.1,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Café",
+      "quantity": 2,
+      "unit_price": 0.8,
+      "total_price": 1.6,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Pão C/Manteiga/Baguete/Rústico",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 2.5,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 5.9
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_181953.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "*** LIZZY'S BAR 1 ***\nGALÁXIA-SOCIEDADE EXPL HOTELIERA, LDA\nCONTRIBUINTE N: 502 663 308\nC.S 5.000,00€ C.R.C. LOULÉ 02605/9112010\nAV. MARINA EDIFÍCIO OLYMPUS - VILAMOURA\n8125-401 QUARTEIRA\n\nFATURA SIMPLIFICADA\nDATA 2019/03/21 8:03 Nº BB/86861\n\nCliente: FLIKE HOME ALGARVE\nMorada:\nCont. Nº: 514407395\nArtigo Qtd Preço € Valor €\n\nCAFÉ 2 Un X 0.80 1,60\nPAO C/MANTEIGA/BAGUETE/RUSTICO 1 Un X 2.50 2,50\n\nTOTAL 4,10\nNumeração: 10,00\nTroco: 5,90\n\nIVA Incluído à taxa indicada\nTaxa% Sujeito IVA Total\n23,00 2.03 0.47 2.50\n13,00 1.42 0.18 1.60\n\nArt936 do CIVA - Bens colocados à\ndisposição do adquirente nesta data.\n\nn7WX-Processado por programa certificado\nNº 88/AT - 1 BB/86861\n\nOpr: SUSANA\nOBRIGADO - THANK YOU - MERCI - GRACIAS"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "KEDAI PAPAN YEW CHUAN",
+    "address": "LOT 276 JALAN BANTING, 43800 DENGKIL, SELANGOR",
+    "phone": "03-87686092",
+    "tax_id": "000781500416",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-07",
+    "time": "08:31:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 86.0,
+    "tax": 5.16,
+    "tip": 0.0,
+    "total": 91.16,
+    "accounting_category": "Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "101870 PASIR HALUS (D)",
+      "quantity": 1,
+      "unit_price": 65.0,
+      "total_price": 68.9,
+      "category": "Construction Material",
+      "accounting_category": "Inventory",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "100160 KAPUR AIR (A1)",
+      "quantity": 7,
+      "unit_price": 3.0,
+      "total_price": 22.26,
+      "category": "Construction Material",
+      "accounting_category": "Inventory",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005724622.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KEDAI PAPAN YEW CHUAN (0005583085-K)\nLOT 276 JALAN BANTING\n43800 DENGKIL, SELANGOR\nTEL: 03-87686092 FAX: 03-87686092\nGST ID: 000781500416\nTAX INVOICE\nBill To:\nSUCI ALAM JAYA TRANSPORT\nNO 1 JALAN AMAN 2\nTAMAN DESA 43800\nDENGKIL SELANGOR\n017-6057770\nDoc No. : CS00010562 Date : 07/03/2018\nCashier : USER Time : 08:31:00\nSalesperson : Ref.:\nItem Qty S/Price (GST) (GST) Amount Tax\n(GST) S/Price\n101870 1 65.00 68.90 68.90 SR\nPASIR HALUS (D)\n100160 7 3.00 3.18 22.26 SR\nKAPUR AIR (A1)\nTotal Qty: 8 91.16\nTotal Sales (Excluding GST) : 86.00\nDiscount : 0.00\nTotal GST : 5.16\nRounding : 0.00\nTotal Sales (Inclusive of GST) : 91.16\nCASH : 91.16\nChange : 0.00\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR 6 86.00 5.16\nTotal : 86.00 5.16\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU."
+  }
+}

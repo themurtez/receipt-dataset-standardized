@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "AKI Mafra",
+    "address": "Comendador José Noronha Gorjão, Urbanização Quinta das Pevides, 2640-408 Mafra",
+    "phone": "261 091 200",
+    "tax_id": "502261609",
+    "website": "www.aki.pt"
+  },
+  "transaction": {
+    "date": "2018-04-26",
+    "time": "16:50:00",
+    "currency": "EUR",
+    "payment_method": "Cartão Bancário",
+    "subtotal": 31.13,
+    "tax": 7.16,
+    "tip": 0.0,
+    "total": 38.29,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "EST ROLO INSP VIOLETA 120X1.5",
+      "quantity": 1,
+      "unit_price": 33.29,
+      "total_price": 33.29,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_211208.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AKI Mafra\nComendador José Noronha Gorjão\nUrbanização Quinta das Pevides\n2640-408 Mafra\nTel. 261 091 200\nwww.aki.pt\nMocidos - Distribuição de Bricolage, SA\nOrca do Paizinho 10/12,2790-237 Carnaxide\nCRC Cascais - Cap.social 501.205 EUR\nNIPC: 502261609 - SIRPEE Nº PT0005515\n\nDuplicado Fatura\nNumero: FT 054011/0182955\nData: 26/04/2018 16:50\nFEELSLIKEHOME LDA\nMorada: RUA SARAIVA DE CARVALHO N244 3 DTO\n\nLocalidade: 1350302 LISBOA\nNIF: 510779614\n\nIVA CÓDIGO DESCRIÇÃO VALOR\n\nVENDA\n23,03 3490835\nEST ROLO INSP VIOLETA 120X 33,29€\nTotal 38,29€\nCartão Bancário 38,29€\n\nRECAPITULATIVO IVA\nTAXA LIQ. IVA\n23.0% 31,13 7,16\n\nNº cartão AKI: 9301013020528763\nPontos ganhos: 38\nPontos acumulados: 8\n\nTava Desc. AKI 5,00€ expira 26/05/2018\n\nJá ganhou com o seu cartão AKI: 160,00€\n\n------ 05541 91002278 579434 ------\n\nV02050447051246103435\n\nLocal de carga: morada da loja\nLocal de descarga: morada do cliente\nDate e hora do transporte: data e hora da\nfactura\n\nFATURA INDISPENSAVEL PARA\nTROCA E DEVOLUCAO ATE 15 DIAS\nMqPC-Emitido por programa\nCertificado n°2288/AT\n\nOBRIGADO POR COMPRA NA NOSSA LOJA"
+  }
+}

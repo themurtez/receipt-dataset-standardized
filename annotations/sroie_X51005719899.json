@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Nyonya Colors @ 1 Utama",
+    "address": "HQ: 7, Jln SS21/34, 47400 PJ",
+    "phone": "03 77282288",
+    "tax_id": "001382293504",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-18",
+    "time": "11:23:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 53.6,
+    "tax": 3.03,
+    "tip": 0.0,
+    "total": 53.6,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Kuih Ketayap",
+      "quantity": 1,
+      "unit_price": 2.7,
+      "total_price": 2.7,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ondeh Ondeh",
+      "quantity": 1,
+      "unit_price": 2.95,
+      "total_price": 2.95,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Yellow Laksa",
+      "quantity": 3,
+      "unit_price": 11.6,
+      "total_price": 34.8,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Air Sejuk",
+      "quantity": 1,
+      "unit_price": 0.65,
+      "total_price": 0.65,
+      "category": "Beverage",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cendol",
+      "quantity": 1,
+      "unit_price": 5.3,
+      "total_price": 5.3,
+      "category": "Dessert",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chee Cheong Fun (SOS)",
+      "quantity": 1,
+      "unit_price": 7.2,
+      "total_price": 7.2,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 46.4
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005719899.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "NYONYA COLORS @ 1 UTAMA\nLITTLE CRAVINGS SDN BHD (562007-D)\nHQ: 7,Jln SS21/34,47400 PJ\nTEL-03 77282288 (GST ID 001382293504)\n\nMC #001\nREG CASHIER 18-03-2018 11:23\nTaxInvNo. 1 #000001\n\nKUIH KETAYAP RM2.70 S\nONDEH ONDEH RM2.95 S\nYELLOW LAKSA RM11.60 S\nYELLOW LAKSA RM11.60 S\nYELLOW LAKSA RM11.60 S\nAIR SEJUK RM0.65 S\nCENDOL RM5.30 S\nCHEE CHEONG FUN (SOS) RM7.20 S\n8 No\nSUBTOTAL RM53.60\nCASH RM100.00\nCHANGE RM46.40\nTAXABLE AMOUNT RM50.57\n6% GST RM3.03\n\nTHANK YOU !! PLEASE COME AGAIN"
+  }
+}

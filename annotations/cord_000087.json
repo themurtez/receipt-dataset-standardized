@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "",
+    "payment_method": "Cash",
+    "subtotal": 24000.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 24000.0,
+    "accounting_category": "General",
+    "category_confidence": 0.8
+  },
+  "items": [
+    {
+      "name": "DEPT02",
+      "quantity": 1,
+      "unit_price": 24000.0,
+      "total_price": 24000.0,
+      "category": "General Merchandise",
+      "accounting_category": "General",
+      "category_confidence": 0.75
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 26000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000087.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "DEPT02 24,000\nTOTAL 24,000\nCASH 50,000\nCHANGE 26,000"
+  }
+}

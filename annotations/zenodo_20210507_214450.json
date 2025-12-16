@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Galp Energia",
+    "address": "Rua Torcato da Telve, 20 B, 1500-091 Lisboa",
+    "phone": "213885299",
+    "tax_id": "PT50019406",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2023-12-17",
+    "time": "16:30:56",
+    "currency": "EUR",
+    "payment_method": "NUMERARIO",
+    "subtotal": 63.94,
+    "tax": 14.71,
+    "tip": 0.0,
+    "total": 78.65,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GASOLINA SIMPLES S/",
+      "quantity": 1,
+      "unit_price": 63.94,
+      "total_price": 63.94,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_214450.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "galp energia\nDOCUMENTO DE VENDA\nGAR. RIBAMAR CUNHA COSTA\nRua Torcato Telve 20 B\n1500-091 Lisboa Tel. 213885299\nNIF: PT50019406\nFatura/Recibo\nQuantidade Designaçao Preço\n\nGASOLINA SIMPLES S/\n76.65 A\n23.00 X IVA A EUR 14.71\n\nCliente: 3561\nNome: FUELCARD\nMorada: LISBOA\nCódigo Postal:\nLocalidade:\nN. Contribuinte: 510769814\nOperador: Nuno Monteiro\nDoc. N.: AAAAAAAAA00000112/2017/000001225\nHora: N# Pos NºOp. Turno\n16:30 76/22 01 0003 832\nRegime IVA de Caixa dos combustíveis\nserá aplicável ao presente pagamento.\nTotal EUR 78.65\nNUMERARIO EUR 78.65"
+  }
+}

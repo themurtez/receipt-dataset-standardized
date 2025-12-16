@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "SYARIKAT PERNIAGAAN GIN KEE",
+    "address": "NO 290, JALAN AIR PANAS, SETAPAK, 53200, KUALA LUMPUR.",
+    "phone": "03-40210276",
+    "tax_id": "000750673920",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-30",
+    "time": "14:52:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 84.0,
+    "tax": 5.04,
+    "tip": 0.0,
+    "total": 89.04,
+    "accounting_category": "Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Item 2430",
+      "quantity": 2,
+      "unit_price": 18.02,
+      "total_price": 36.04,
+      "category": "Construction",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "CEMENT (50KG)",
+      "quantity": 10,
+      "unit_price": 5.3,
+      "total_price": 53.0,
+      "category": "Construction",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 12,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005676535.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS,\nSETAPAK,\n53200, KUALA LUMPUR.\nTEL: 03-40210276\nGST ID: 000750673920\nSIMPLIFIED TAX INVOICE\nCASH\nDoc No. : CS00012487 Date: 30/12/2017\nCashier : USER Time: 14:52:00\nSalesperson : Ref. :\nItem Qty S/Price Amount Tax\n2430 2 18 02 36.04 SR\nCEMENT (50KG)\n1699 10 5.30 53.00 SR\nPASIR KASAR (BAG)\nTotal Qty: 12 89.04\nTotal Sales (Excluding GST) : 84.00\nDiscount : 0.00\nTotal GST : 5.04\nRounding : 0.00\nTotal Sales (Inclusive of GST) : 89.04\nCASH : 89.04\nChange : 0.00\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR 6 84.00 5.04\nTotal : 84.00 5.04\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "FARMACIA CENTRAL",
+    "address": "Centro Comercial Continente de Portimão, 8500-510 PORTIMÃO",
+    "phone": "",
+    "tax_id": "514235977",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-13",
+    "time": "14:02:11",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 19.85,
+    "tax": 3.71,
+    "tip": 0.0,
+    "total": 19.85,
+    "accounting_category": "Health",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Trix Mala Kit Prim Socorros",
+      "quantity": 1,
+      "unit_price": 19.85,
+      "total_price": 19.85,
+      "category": "Health",
+      "accounting_category": "Health",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_184007.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1\nFARMACIA CENTRAL\nContifarma, lda\nCentro Comercial Continente de Portimão\n8500-510 PORTIMÃO\nNIF:514235977\n514235977\nDra Maria Alice Borges Silva\nTel: 282422068 Original\nCapital Soc.: 100.000,00 Euros\nFATURA N.º F U003/26424\nData: 13-03-2019 14:02:11\nVenda n.: 209940 (Lidia Albino)\nNome: FEELS LIKE HOME\nContribuinte n.: 514407395\nProduto PVP Qtd Comp Líquido IVA\nTrix Mala Kit Prim Socorros 19,85 0,00 19,85 23%\nTaxa Valor Valor IVA Líquido\n23% 16,14 3,71 19,85\nImportância Liquidada\n(06670)\nDk2f-Processado por programa certificado\nnº 432/AT\nPor motivos legais e de saúde pública\nnão aceitamos devoluções de medicamentos\n****************************************\nEstamos abertos todos os dias\ndas 08:30 às 23:00"
+  }
+}

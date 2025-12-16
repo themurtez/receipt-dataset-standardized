@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "BEMED (SP) SDN. BHD.",
+    "address": "No.49, Jalan Dinar G U3/G, Subang Perdana, 40150 Shah Alam, Selangor D.E.",
+    "phone": "03-7845 8155",
+    "tax_id": "001734164480",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-04-01",
+    "time": "01:25:02",
+    "currency": "MYR",
+    "payment_method": "MASTER",
+    "subtotal": 165.0,
+    "tax": 9.34,
+    "tip": 0.0,
+    "total": 165.0,
+    "accounting_category": "Health",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ALPHA LIPID LIFE LINE",
+      "quantity": 1,
+      "unit_price": 165.0,
+      "total_price": 165.0,
+      "category": "Health Supplement",
+      "accounting_category": "Health",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006387737.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BEMED (SP) SDN. BHD.\nNo.49, Jalan Dinar G U3/G,\nSubang Perdana,\n40150 Shah Alam, Selangor D.E.\n03-7845 8155\nGST Reg : 001734164480\nCASH RECEIPT\nCB#: 67978725142 01/Apr/2017 01:25:02\nCashier : nurul ()\nQty Code&Desc Price Total\nALPHA LIPID LIFE LINE SR\n1 184910 165.00 165.00\nType: 1\nSubTotal: 165.00\nRounding Adj: 0.00\nTotal Inclusive GST: 165.00\nMASTER 165.00\nGST Summary: Amount Tax\n(MYR) (MYR)\nSR 155.66 9.34\nONG GUAT CHYE\nPoints : 525\nThank you.\nPlease come again."
+  }
+}

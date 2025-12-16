@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Aik Huat Hardware Enterprise (Setia Alam) Sdn Bhd",
+    "address": "No. 17-G, Jalan Setia Indah (X) U13/X, Setia Alam, Seksyen U13, 40170 Shah Alam",
+    "phone": "012-6651703",
+    "tax_id": "000394528768",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-12-13",
+    "time": "17:38:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 24.0,
+    "tax": 1.36,
+    "tip": 0.0,
+    "total": 24.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Philips 18W/E27/827 Essential Bulb W/WHI",
+      "quantity": 2,
+      "unit_price": 12.0,
+      "total_price": 24.0,
+      "category": "Lighting",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 76.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007339650.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AIK HUAT HARDWARE ENTERPRISE (SETIA ALAM) SDN BHD\n922737-X\nNO. 17-G, JALAN SETIA INDAH\n(X) U13/X, SETIA ALAM,\nSEKSYEN U13, 40170 SHAH ALAM,\nTEL: 012-6651703 FAX: 03-33623008\nGST NO: 000394528768\nSIMPLIFIED TAX INVOICE\nCASH\nRECEIPT #: CGPO420207 DATE: 13/12/2017\nSALESPERSON : AH019 TIME: 17:38:00\nITEM QTY U/P AMOUNT\n(RM) (RM)\n8710163220987 2 12.00 24.00 S\nPHILIPS 18W/E27/827 ESSENTIAL BULB W/WHI\nTOTAL QUANTITY 2\nSUB-TOTAL (GST) 24.00\nDISC 0.00\nROUNDING 0.00\nTOTAL 24.00\nCASH 100.00\nCHANGE 76.00\n*GST @ 6% INCLUDED IN TOTAL\nGST SUMMARY\nCODE AMOUNT % TAX/AMT\nSR 22.64 6 1.36\nTAX TOTAL: 1.36\nGOODS SOLD ARE NOT REFUNDABLE;\nTHANK YOU FOR CHOOSING US.\nPLS PROVIDE ORIGINAL BILL FOR GOODS\nEXCHANGE WITHIN 1 WEEK FROM TRANSACTION\nGOODS MUST BE IN ORIGINAL STATE TO BE\nENTITLED FOR EXCHANGE."
+  }
+}

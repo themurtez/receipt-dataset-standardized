@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "USD",
+    "payment_method": "CASH",
+    "subtotal": 28.182,
+    "tax": 2.818,
+    "tip": 0.0,
+    "total": 31.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TRAD KY TOAST CARTE",
+      "quantity": 1,
+      "unit_price": 28.182,
+      "total_price": 28.182,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000345.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TRAD KY TOAST CARTE 28.182\n1.00\nSUBTTL 28.182\nPB-1 10% 2.818\nTOTAL 31.000\nCASH 31.000"
+  }
+}

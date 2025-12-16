@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Dion Realties Sdn Bhd",
+    "address": "Menara Dion #02-03, Level 2, 27, Jalan Sultan Ismail, 50250 Kuala Lumpur",
+    "phone": "+6 03 2026 6386",
+    "tax_id": "000850247680",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-28",
+    "time": "11:41:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 5.0,
+    "tax": 0.28,
+    "tip": 0.0,
+    "total": 5.0,
+    "accounting_category": "Parking",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Pay parking ticket",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Parking",
+      "accounting_category": "Parking",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 5.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008123447.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Dion Realties Sdn Bhd (Co. No:20154-T)\n(GST Registration No : 000850247680)\nMenara Dion #02-03, Level 2,\n27, Jalan Sultan Ismail,\n50250 Kuala Lumpur.\nTel : +6 03 2026 6386\nFax : +6 03 2026 6387\n\n>>>TAX INVOICE<<<\n\nTax Invoice no. 7698/0601/00601\n28/05/18 11:41\n\n010100 Pay parking ticket 5.00 RM\n28/05/18 11:23 - 28/05/18 11:40\nLength of stay: 0 Dy. 0 Hr. 17 Min.\n029928870Q2011018148410260??\n\nAmount Incl. GST 5.00 RM\n\nAccepted total 10.00 RM\nChange 5.00 RM\nGST 6% 0.28 RM\n\n******************************\n** Thank you **\n******************************"
+  }
+}

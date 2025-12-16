@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Popular Book Co. (M) Sdn Bhd",
+    "address": "No 8, Jalan 7/118B, Desa Tun Razak, 56000 Kuala Lumpur, Malaysia",
+    "phone": "03-80709188 / 80757830",
+    "tax_id": "001492992000",
+    "website": "www.popular.com.my"
+  },
+  "transaction": {
+    "date": "2018-03-11",
+    "time": "16:30:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 5.75,
+    "tax": 0.33,
+    "tip": 0.0,
+    "total": 5.75,
+    "accounting_category": "Books and Stationery",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Document Holder A4",
+      "quantity": 5,
+      "unit_price": 1.15,
+      "total_price": 5.75,
+      "category": "Office Supplies",
+      "accounting_category": "Books and Stationery",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 44.25
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005757243.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "31803020\nPOPULAR BOOK\nCO. (M) SDN BHD\n(Co. No. 113825-W)\n(GST Reg No. 001492992000)\nNo 8, Jalan 7/118B, Desa Tun Razak,\n56000 Kuala Lumpur, Malaysi.\nIOI MALL\nTel : 03-80709188 / 80757830\n11/03/18 16:30 Slip No.: 9060293576\nWANI Trans: 250504\n----------------------------------\nDescription          Amount\nDOCUMENT HOL A4 9101A-Tra\n5pc @ 1.15        5.75\nTotal RM Incl. of GST     5.75\nCash                      -50.00\nCHANGE                    44.25\n----------------------------------\nItem Count                 5\nGST Summary  Amount (RM)   Tax (RM)\nT @ 6%       5.42          0.33\nTotal Savings             0.00\n---------------------------------\nBE A POPULAR CARD MEMBER\nAND ENJOY SPECIAL DISCOUNTS\nTHANK YOU. PLEASE COME AGAIN.\nwww.popular.com.my\nBuy Chinese books online\nwww.popularonline.com.my"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "CASH",
+    "subtotal": 49000,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 49000,
+    "accounting_category": "Expense",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ORI SLMN",
+      "quantity": 1,
+      "unit_price": 49000,
+      "total_price": 49000,
+      "category": "Groceries",
+      "accounting_category": "Expense",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 51000
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000518.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ORI SLMN 49,000\nTL  49,000\nCASH 100,000\nCG 51,000\n"
+  }
+}

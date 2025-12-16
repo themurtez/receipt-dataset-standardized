@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "AUTOMOTO LIS",
+    "address": "Rua da Palma, 273, 1100-391 Lisboa",
+    "phone": "21 886 1363",
+    "tax_id": "501 470 492",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-17",
+    "time": "10:01:29",
+    "currency": "EUR",
+    "payment_method": "NUMERARIO",
+    "subtotal": 4.07,
+    "tax": 0.94,
+    "tip": 0.0,
+    "total": 5.01,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "GASOLINA SP 95",
+      "quantity": 3.16,
+      "unit_price": 1.288,
+      "total_price": 5.01,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_191856.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AUTOMOTO LIS\nAutomoveis da Lis, Lda.\nRua da Palma, 273 1100-391 Lisboa\nTelef: 21 886 1363 Fax: 21 888 1627\nCap.Social: 9.975,96\nC.R.C Lisboa nº: 501 470 492\n\nDt:17/11/2017 FATURA Nº:PD 001/170999\nCliente Nº: 2583 Desc:Z1\nContribuinte Nº: 510776914\n\nFLIKEHOME\nLISBON\n\nArtigo/Quant. V.Unit. Iva Valor\n\nGASOLINA SP 95\n3.16 1.288 23.0 5.01\n\nINCIDENCIA DE IVA / Desc\n23.0 IIVA 0.94\nTOTAL 5.01\n\n“Os Produtos/serviços constantes deste\ndoc foram colocados à disposição do\nadquirente na data do mesmo”\n\nPRODUTO XENERGIA EMISSÕES CO2\nPRIMÁRIA\nGasoleo 100% Energia 95% Energia\nRodoviario fóssil 2,5 kgCO2e/l 5% Energia de Origem Renov.\n\nGPL Butano\n100% Energia 2,3 kgCO2e/kg\n0,94\n0\nV Total 5.01\nYYRs - Processado por programa certifica\ndo nº 621/AT\nPagamento: NUMERARIO\nHora: 10:01:29\nESTE DOCUMENTO ENCONTRA-SE PAGO"
+  }
+}

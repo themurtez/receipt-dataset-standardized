@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Intermarché",
+    "address": "Estrada do Poço Partido, Carvoeiro, 8400-557 Lagoa",
+    "phone": "282350520",
+    "tax_id": "NIF: 501897767",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-07-05",
+    "time": "18:35:00",
+    "currency": "EUR",
+    "payment_method": "VISA",
+    "subtotal": 1.4,
+    "tax": 0.32,
+    "tip": 0.0,
+    "total": 1.72,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Carteira Etiquetas",
+      "quantity": 3,
+      "unit_price": 0.48,
+      "total_price": 1.44,
+      "category": "Stationery",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210322_161701.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Intermarché\nALGARVE\nDISTRILAGOA SUPERMERCADOS LDA\nCONTR. N. 502 897 767\nPOÇO PARTIDO CARVOEIRO\n8400-557 LAGOA\nTELEFONE: 282350520 /MÁX: 282342807\n\nDocumento processado por computador\n\nFATURA\nFI 35C111219/753\nreferencia: 91861112458\n(DUPLICADO)\n\n(Precos em Euros)\nIdentificação cliente\nNIF - PT. 501440995\nNOME - FILKEM HOME ALGAR LDA\nMORADA - LISBOA\nVIATURA\nC.POSTAL\nLOCALE DE DESCARGA\n\nData 29/07/07 às 18:35\n\nArtigo\nCarteira Etiquetas\n\nTOTAL s/IVA\nTOTAL c/IVA\n\nVISA\nCod Taxa\n\nB\n\nTotais\n\nP.Unitário s/IVA P.Total\n3 0,48 20 0\n\n1,40\n1,72\n\nIVA s/IVA c/IVA\n25,00 0,32 1,40 1,72\n\nTotais: 0,32\n\n1,40\n\n1,72\n\nHá coisas na vida que valem muito,\nmas devem custar muito pouco\nIntermarché\nJuntos pelo melhor mais barato.\nDOCUMENTO PROCESSADO POR COMPUTADOR\nCONSERVE ESTE DOCUMENTO\nSERVE DE RECIBO APÓS BOA COBRANÇA\n\nJKY - Processado por programa\nCertificado nr. 1359/AT\nLoja: Q257 CAIXA 0001 65/2012 TRS: 0211\nData de compra: 2019-07-05 : 18:35\nBens entregues nesta data e hora\n\ncarregados no próprio cliente"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "AEON CO. (M) BHD",
+    "address": "3RD FLR, AEON TAMAN MALURI SC, JLN JEJAKA, TAMAN MALURI, CHERAS, 55100 KUALA LUMPUR",
+    "phone": "1-300-80-AEON (2366)",
+    "tax_id": "002017394688",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-22",
+    "time": "19:26:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 98.37,
+    "tax": 5.57,
+    "tip": 0.0,
+    "total": 98.35,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "KIT KAT SHARE B",
+      "quantity": 1,
+      "unit_price": 14.99,
+      "total_price": 9.99,
+      "category": "Confectionery",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "BERYLS TTOW",
+      "quantity": 1,
+      "unit_price": 21.1,
+      "total_price": 21.1,
+      "category": "Confectionery",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "VH BOX 180G SE",
+      "quantity": 1,
+      "unit_price": 18.29,
+      "total_price": 12.89,
+      "category": "Confectionery",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "VH BOX 180G RA",
+      "quantity": 1,
+      "unit_price": 18.29,
+      "total_price": 12.89,
+      "category": "Confectionery",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "LINDT DT125",
+      "quantity": 1,
+      "unit_price": 31.6,
+      "total_price": 31.6,
+      "category": "Confectionery",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "MILO NUGGETS FU",
+      "quantity": 1,
+      "unit_price": 9.9,
+      "total_price": 9.9,
+      "category": "Confectionery",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": -0.02,
+    "change_due": 1.65
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006414703.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AEON CO. (M) BHD (126926-H)\n3RD FLR, AEON TAMAN MALURI SC\nJLN JEJAKA, TAMAN MALURI\nCHERAS, 55100 KUALA LUMPUR\nGST ID : 002017394688\nSHOPPING HOURS\nSUN-THU:1000 HRS - 2230 HRS\nFRI-SAT:1000 HRS - 2300 HRS\n000008204363\nKIT KAT SHARE B\nItem promo @9.99\n000001018506\nBERYLS TTOW\n000001057437\nVH BOX 180G SE\nItem promo @12.89\n000001057436\nVH BOX 180G RA\nItem promo @12.89\n000001011536\nLINDT DT125\n0000095914876\nMILO NUGGETS FU\nSub-total\nTotal Sales Incl GST\nRounding Adj\nTotal After Adj Incl GST\nCASH\nItem Count 6\nChange Amt\nInvoice No: 2018042210100080567\nGST Summary\nTotal\n22/04/2018 19:26\n0307614 PJ HAZIQ\nAEON PERMAS JAYA.\nTEL 1-300-80-AEON (2366)\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN"
+  }
+}

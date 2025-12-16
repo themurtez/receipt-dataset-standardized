@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Intermarche Lagoa Po",
+    "address": "8400-557 Carvoeiro LGA",
+    "phone": "",
+    "tax_id": "PT259318329",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-06-07",
+    "time": "16:20:25",
+    "currency": "EUR",
+    "payment_method": "Dinheiro",
+    "subtotal": 14.5,
+    "tax": 3.34,
+    "tip": 0.0,
+    "total": 17.84,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CHAVE 2 CORTES",
+      "quantity": 3,
+      "unit_price": 3.2,
+      "total_price": 7.68,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHAVE SIMPLES",
+      "quantity": 6,
+      "unit_price": 1.95,
+      "total_price": 11.7,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ARGOLA METAL",
+      "quantity": 2,
+      "unit_price": 0.4,
+      "total_price": 0.8,
+      "category": "Hardware",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 11,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_165418.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "BRUNO FILIPE CARVALHO MORGADO\nINTERMARCHE LAGOA PO PARTIDO CARVOEIRO\n8400-557 CARVOEIRO LGA\nNIF: PT259318329\nData: 2019-06-07, 16:20:25\nFactura simplificada n: FS S/0000097\nNIF: 514407395\n\nQt Desc. IVA p.unit Total\n3 CHAVE 2 CORTES 23% €3,20 €7,68\n6 CHAVE SIMPLES 23% €1,95 €9,36\n2 ARGOLA METAL 23% €0,40 €0,80\nS/ Desconto: €22,10\nDesconto: €4,26\nMetodos de Pagamento:\nDinheiro €17,84\n\nTaxa Incid, Valor Total\n23% €14,50 €3,34\nTotal: €14,50 €3,34 €17,84\n\nEmpregado: ME\nvZ5t-Processado por programa certificado\nN.2235/AT Sage\nObrigado - Volte Sempre"
+  }
+}

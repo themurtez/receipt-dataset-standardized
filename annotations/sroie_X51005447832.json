@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "PETRODELI ENTERPRISE",
+    "address": "LOT 485, TMN LEMBAH KERAMAT, JLN ULU KELANG, 54200 KUALA LUMPUR",
+    "phone": "03-41056485",
+    "tax_id": "000145047552",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-02-26",
+    "time": "08:28:00",
+    "currency": "MYR",
+    "payment_method": "Visa",
+    "subtotal": 85.54,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 85.54,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "FuelSave 95",
+      "quantity": 39.42,
+      "unit_price": 2.17,
+      "total_price": 85.54,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005447832.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "PETRODELI ENTERPRISE\nCompany No: SA0127959-D\nSite: 2395\nLOT 485, TMN LEMBAH KERAMAT\nJLN ULU KELANG\n54200 KUALA LUMPUR\nTelephone: 03-41056485\nGST No: 000145047552\nInvoice number: 60000152273\n39.42 litre Pump # 09\nFuelSave 95 RM 85.54 C\n2.170 RM / litre\nTotal RM 85.54\nVisa RM 85.54\nRelief GST C RM 0.00\nTotal Gross C RM 85.54\nShell Loyalty Card\n6018840059147765\nPoints Awarded: 39\nDate Time Num OPT\n26/02/18 08:28 10886 09\nDiesel & Petrol RON95\ngiven Relief under Section\n56 (3) (b) GST Act 2014\nThank you\nPlease come again"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "merchant": {
+    "name": "Nasi Kandar Pelita",
+    "address": "No.2-1, Jalan Kamaruddin Isa, 31400 Ipoh, Perak Darul Ridzuan",
+    "phone": "05-5415923",
+    "tax_id": "000038535168",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-06-03",
+    "time": "04:22:16",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 61.72,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 61.7,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Teh Tarik",
+      "quantity": 3,
+      "unit_price": 1.5,
+      "total_price": 4.5,
+      "category": "Beverages",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Maggi Sup",
+      "quantity": 1,
+      "unit_price": 3.9,
+      "total_price": 3.9,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Roti Bawang",
+      "quantity": 1,
+      "unit_price": 1.6,
+      "total_price": 1.6,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Ayam Goreng",
+      "quantity": 4,
+      "unit_price": 4.1,
+      "total_price": 16.4,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Nasi Kandar",
+      "quantity": 1,
+      "unit_price": 7.8,
+      "total_price": 7.8,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Maggi Goreng Telur",
+      "quantity": 2,
+      "unit_price": 5.1,
+      "total_price": 10.2,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Indomie Double",
+      "quantity": 2,
+      "unit_price": 6.1,
+      "total_price": 12.2,
+      "category": "Food",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Teh O Limau Ais",
+      "quantity": 3,
+      "unit_price": 1.7,
+      "total_price": 5.1,
+      "category": "Beverages",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 12,
+    "rounding": -0.02,
+    "change_due": 0.3
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007579714.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "NASI KANDAR PELITA\nPELITA SAMUDRA PERTAMA (M) SDN BHD.\nCO REG NO:481477-P\nNO.2-1,JALAN KAMARUDDIN ISA\n31400 IPOH,PERAK DARUL RIDZUAN\nGST ID NO :000038535168\n\nTAX INVOICE\n\nINVOICE # : 1-868631\nTIME : 03/06/2016 04:22:16 AM\nCASHIER : ADBULLA\nDINE IN : 55\n\nQTY DESCRIPTION PRICE AMOUNT\n3 TEH TARIK 1.50 4.51 S\n1 MAGGI SUP 3.90 3.90 S\n1 ROTI BAWANG 1.60 1.60 S\n4 AYAM GORENG 4.10 16.40 S\n1 NASI KANDAR 7.80 7.80 S\n1 MAGGI GORENG TELUR... 5.10 5.10 S\n1 INDOMIE DOUBLE 6.10 6.10 S\n1 INDOMIE DOUBLE 6.10 6.10 S\n1 MAGGI GORENT TELUR... 5.10 5.10 S\n3 TEH O LIMAU AIS 1.70 5.11 S\n\nSub Total RM 61.72\nRound Adjustmnt RM -0.02\n\nTotal RM 61.70\n\nPayment CASH RM 62.00\nChange RM 0.30\n\n+ \nGST 0% RM 0.00\n\nGST ANALYSIS AMT (RM) TAX (RM)\nS = 0 % 61.70 0.00\nZ = 0 % 0.00 0.00\n\n03/06/2016 04:22:16 AM\n(+ ) SPL. REQUEST\nTEL/FAX: 05-5415923\nTERIMA KASIH SILA DATANG LAGI"
+  }
+}

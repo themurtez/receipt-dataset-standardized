@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Próxima Travessia, Lda",
+    "address": "Mercado Municipal de Campo de Ourique, 1350-075 Campo de Ourique",
+    "phone": "510/769914",
+    "tax_id": "510 854 230",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-01",
+    "time": "14:20:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 15.93,
+    "tax": 2.07,
+    "tip": 0.0,
+    "total": 18.0,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Prego Entrecôte",
+      "quantity": 2,
+      "unit_price": 7.5,
+      "total_price": 15.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Batata Wedge",
+      "quantity": 2,
+      "unit_price": 1.5,
+      "total_price": 3.0,
+      "category": "Food",
+      "accounting_category": "Meals",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_205053.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Próxima Travessia, Lda\nNIF: 510 854 230\nMercado Municipal de Campo de Ourique\n1350-075 Campo de Ourique\nContrib: 510/769914\nFATURA SIMPLIFICADA Nº\nFS 5A1801/24449\nData: 2018-06-01 14:20\nMESA N: 15/0\n2 Prego Entrecôte 13º1 15,00 €\nPreço unitário: 7,50 €/Kg\n2 Batata Wedge 13º1 3,00 €\nPreço unitário: 1,50 €/Kg\n% Incidencias IVA incluído a taxa indicada\n13 15,93 €\nLIQUIDO 15,93 €\nDESCONTOS 0,00 €\nLIQUIDO 15,93 €\nIVA 2,07 €\nTOTAL 18,00 €\nObrigado. Volte Sempre\nPago em Numerário\nValor entregue: 18,00 €\nTroco: 0,00 €\nH5YN-Processado por programa\ncertificado nº 196/AT"
+  }
+}

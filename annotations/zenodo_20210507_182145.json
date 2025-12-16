@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Jasmin LDA",
+    "address": "Rua Comandante Germano Dias, 10, 2780-274",
+    "phone": "214437777",
+    "tax_id": "510795708",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-09-02",
+    "time": "11:45:26",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 7.44,
+    "tax": 1.71,
+    "tip": 0.0,
+    "total": 9.15,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Nido Trampa",
+      "quantity": 2,
+      "unit_price": 1.0,
+      "total_price": 2.0,
+      "category": "Grocery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Sapix po 100g",
+      "quantity": 1,
+      "unit_price": 3.5,
+      "total_price": 3.5,
+      "category": "Grocery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Maton 300ml",
+      "quantity": 1,
+      "unit_price": 2.75,
+      "total_price": 2.75,
+      "category": "Grocery",
+      "accounting_category": "Food",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Toalhitas Infantil",
+      "quantity": 1,
+      "unit_price": 0.9,
+      "total_price": 0.9,
+      "category": "Baby Products",
+      "accounting_category": "Non-food",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.85
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_182145.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Jasmin LDA\nGrande Bazar\nContribuinte Nr: 510795708\nRua Comandante Germano Dias, 10\n2780-274 Tls. 214437777\n2019-09-02 11:45:26\nNome: Flixchrona Lda\nCont Nr: 510765914\nMorada : Lisboa\nDUPLICADO\nFatura Nr.: FAC 101/00022723\nIVA Descricao\n23% Nido Trampa\n2 x 1.00 2.00\n23% Sapix po 100g\n1 x 3.50 3.50\n23% Maton 300ml\n1 x 2.75 2.75\n23% Toalhitas Infantil\n1 x 0.90 0.90\nTotal A Pagar Euros: 9.15\nNumero De Artigos : 5\nRecebido (Euros) : 10.00\nTroco (Euros): 0.85\nIVAX Base IVA Total\n23% 7.44 1.71 9.15\nFato Indispensavel para troca\n vbav Processado por Programa\n Certificado Nr: 1174/A1\nOBRIGADO E VOLTE SEMPRE"
+  }
+}

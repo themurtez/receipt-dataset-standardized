@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Auchan Amoreiras",
+    "address": "Amoreiras, Trav. Teixeira Junior, 1, 1070-031 Lisboa",
+    "phone": "210479700",
+    "tax_id": "502435220",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-10-14",
+    "time": "14:26:00",
+    "currency": "EUR",
+    "payment_method": "Dinheiro",
+    "subtotal": 3.24,
+    "tax": 0.75,
+    "tip": 0.0,
+    "total": 4.0,
+    "accounting_category": "Groceries",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "17 Antina",
+      "quantity": 1,
+      "unit_price": 3.59,
+      "total_price": 3.59,
+      "category": "Grocery",
+      "accounting_category": "Groceries",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_170653.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AUCHAN AMOREIRAS\nTel: 210479700 / Fax: 210479495\nAUCHAN RETAIL PORTUGAL, S.A.\nSede: Trav. Teixeira Junior, 1\n1070-031 Lisboa\nMat.C.R.C. de Lisboa N. 880 Euros\nCap. Social: 842,0 Os os Euros\nSIRPEE: PR00019\nContribuinte No.502435220\nFactura No.12407101901000400219 Serie: 50103581\n\nNome: FEED SLURP, WHAT THIS?\n\nIVA Artigo/Servico(I)\nDescricao IVA NICG VLOR\n17 ANTINA 6,59\nIva\nIVA Liquidado 23.00% (12) 3.24 0.75\nTotal 3.24 0.75\nMova (NCIG) 163481/0040/021104/01\n\nLocal de Carga:\nAV. Eng. D Pc. C. C. Amoreiras\nLocal de Descarga\nMORADA CLIENTE\nData Emissao: 2019-10-14 14:26\n\nJ2 Processado por programa\n   certificado n. 1104/AT\nAtendido por: Lea Silva\nTrocals e Devolucoes com factura\nate 30 dias. Compras e contradados\nIVA 04% config tot. art 9 CIVA\nOs dados pessoais aprentedidos\ndestina-as ao processamento\nda transacao\n"
+  }
+}

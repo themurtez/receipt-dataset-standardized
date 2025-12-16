@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (KUCHAI) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000473792512",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-11",
+    "time": "17:17:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 11.23,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 11.25,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "EVA MEN SANDAL M1044/1",
+      "quantity": 1,
+      "unit_price": 11.23,
+      "total_price": 11.23,
+      "category": "Footwear",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.02,
+    "change_due": 38.75
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008114283.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. D.I.Y. (KUCHAI) SDN BHD\n(CO Reg : 750441-W)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000473792512)\n(KEPONG)\n-TAX INVOICE-\n\nEVA MEN SANDAL M1044/1 SIZE:6-10 *S\nWA26 - 12\n9555825905982 1 X 11.23 11.23\n\nItem(s) : 1 Qty(s) : 1\n\nTotal Incl. GST RM 11.23\nROUNDING ADJUSTMENT RM 0.02\nTOTAL ROUNDED RM 11.25\nCASH RM 50.00\nCHANGE RM 38.75\n\nGST Summary Amt(RM) Tax(RM)\nGST SR@0% 11.23 0.00\n\n*\n11-06-18 17:17 SH02 B003 T2 R000550476\nOPERATOR KPOT - MUHAMMAD SHAWWAL\n\nEXCHANGE ARE ALLOWED WITHIN\n7 DAYS WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

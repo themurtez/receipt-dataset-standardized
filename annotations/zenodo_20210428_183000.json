@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "LELIMEL-MATERIAIS DE CONSTRUÇÃO, LDA",
+    "address": "Casal Cordeiro, 2655-000 Ericeira",
+    "phone": "261862767",
+    "tax_id": "501328670",
+    "website": "geral@lelimel.com"
+  },
+  "transaction": {
+    "date": "2019-01-03",
+    "time": "14:44:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 42.11,
+    "tax": 9.69,
+    "tip": 0.0,
+    "total": 51.8,
+    "accounting_category": "Construction Materials",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Descarga Autoclismo Simples",
+      "quantity": 1,
+      "unit_price": 12.3,
+      "total_price": 12.3,
+      "category": "Construction",
+      "accounting_category": "Construction Materials",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Autoclismo OLI 2010 BR",
+      "quantity": 1,
+      "unit_price": 37.8,
+      "total_price": 37.8,
+      "category": "Construction",
+      "accounting_category": "Construction Materials",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Embalagem Santa Int. 1",
+      "quantity": 1,
+      "unit_price": 1.2,
+      "total_price": 1.2,
+      "category": "Packaging",
+      "accounting_category": "Packaging",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_183000.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "LELIMEL-MATERIAIS DE CONSTRUÇÃO,LDA\nCasai Cordeiro\n2655-000 ERICEIRA\nTEL: 261862767\nNIF: 501328670\nEmail: geral@lelimel.com\nORIGINAL\nFatura-recibo Nº FR 14/8269\nData de emissão: 2019-01-03 14:44\nData de entrega: 03.01.2019\nRef Descr QTD Desc P.Unit IVA P.Total\nASSEC0168 Descarga Autoclismo Simples 1,000 12,30 23,00 12,30\nASSEC0308 Autoclismo OLI 2010 BR 1,000 37,80 23,00 37,80\nASSEC0261 Embalagem Santa Int. 1 1,000 1,20 23,00 1,20\nTaxa Base de Incidência Valor do I.V.A.\n6,00% 12,30 0,74\n13,00% 0,00 0,00\n23,00% 42,11 9,69\nTotal líquido: 42,11\nDesconto Comercial: 0,00\nDesconto Financeiro: 0,00\nBase de Incidência de I.V.A.: 42,11\nTotal de I.V.A.: 9,69\nTOTAL DO DOCUMENTO EUR 51,80\nTROCO EUR 0,00\nData/Hora carga 03.01.2019 14:44\nDocumento Processado por Computador\nObrigadão - Volte Sempre"
+  }
+}

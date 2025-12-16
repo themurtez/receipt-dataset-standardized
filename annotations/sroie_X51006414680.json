@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "AEON CO. (M) BHD",
+    "address": "3RD FLR, AEON TAMAN MALURI SC\nJLN JEJAKA, TAMAN MALURI\nCHERAS, 55100 KUALA LUMPUR",
+    "phone": "1-300-80-AEON (2366)",
+    "tax_id": "002017394688",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-04-18",
+    "time": "20:27:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 1.75,
+    "tax": 0.1,
+    "tip": 0.0,
+    "total": 1.65,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "TAMAGO (S)",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "total_price": 1.75,
+      "category": "Food",
+      "accounting_category": "Grocery",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.05
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006414680.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "AEON CO. (M) BHD (126926-H)\n3RD FLR, AEON TAMAN MALURI SC\nJLN JEJAKA, TAMAN MALURI\nCHERAS, 55100 KUALA LUMPUR\nGST ID : 002017394688\nSHOPPING HOURS\nSUN-THU:1000 HRS - 2200 HRS\nFRI-SAT:1000 HRS - 2300 HRS\nVALUED CUSTOMER: 1170086176\n\n1x 000000811101 2.50SR\nTAMAGO (S)\nDISC 30% @1.75 -0.75\n\nSub-total 1.75\nTotal Sales Incl GST 1.75\nTotal After Adj Incl GST 1.75\nCASH 1.80\nItem Count 1 Change Amt 0.05\nInvoice No: 2018041810090010447\nGST Summary Amount Tax\nSR @ 6% 1.65 0.10\nTotal 1.65 0.10\n18/04/2018 20:27 1009 001 0010447\n0306654 PAVITHRA\n\nAEON TAMAN UNIVERSITI\nTEL 1-300-80-AEON (2366)\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN"
+  }
+}

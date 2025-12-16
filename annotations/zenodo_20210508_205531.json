@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Galp",
+    "address": "Rua Correia Teles 28, 1350 Lisboa",
+    "phone": "213960689",
+    "tax_id": "PT50019406",
+    "website": "galp.com"
+  },
+  "transaction": {
+    "date": "2013-07-13",
+    "time": "09:38:34",
+    "currency": "EUR",
+    "payment_method": "Card",
+    "subtotal": 40.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 40.0,
+    "accounting_category": "Fuel",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Gasoline Simple",
+      "quantity": 1,
+      "unit_price": 40.0,
+      "total_price": 40.0,
+      "category": "Fuel",
+      "accounting_category": "Fuel",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_205531.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "galp\nDOCUMENTO DE VENDA\nGAR. RIBAMAR (Campo de Brga) 11272\nGAR RIBAMR F. CUNHA LDA\nRua Correia Teles 28\n1350 Lisboa Tel. 213960689\nNIF PT50019406\nfatura/Recibo\nQuantidade Preço Unitário\nPreço\n23,207 L\nGASOLEO SIMPLES EUR 40.00\n1.444 EUR /L\nTotal EUR 40.00\n23.00% IVA A EUR 40.00\nCliente: 3561\nNome: LIKEHOME\nMorada: TISEDA\nCost: 0237\nLocalidade:\nNo Contribuinete: 1076914\nCertificado no. 1396.A1\nTotal EUR 40.00\nCARTÃO DÉBITO EUR 40.00\nTerminal Pagamento Automático: 00611497\nData: 2018-07-13 Hora: 09:38:34\nPeríodo: 032 Marisac: 06\nBANCO BPI\nBATALHA DE ALMEIDA M.dra\nCARTÃO: ***/****9101/71\nOperador: VISXA ELEC BPI CL\nDoc NO: 0120010410FAA000068112720180713091814\n"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Brisa - Concessão Rodoviária, S.A.",
+    "address": "Quinta da Torre da Agulha - Edificio Brisa, 2785-599 São Domingos de Rana",
+    "phone": "",
+    "tax_id": "502 790 024",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-23",
+    "time": "15:12:32",
+    "currency": "EUR",
+    "payment_method": "Cartão Bancário",
+    "subtotal": 0.9,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 0.9,
+    "accounting_category": "Toll",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Classe 1 Taxa",
+      "quantity": 1,
+      "unit_price": 0.9,
+      "total_price": 0.9,
+      "category": "Toll",
+      "accounting_category": "Toll",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_210101.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Brisa - Concessão Rodoviária, S.A.\nQuinta da Torre da Agulha - Edificio Brisa\n2785-599 São Domingos de Rana\nMCRC Cascais e NIPC 502 790 024\nCapital Social: 75 000 000 €\n\nFACTURA SIMPLIFICADA\n\nRecibo: FS 09131011802/0038347 Original\nData e Hora: 2018-05-23 15:12:32\n\nSaida: 0913 - Pontinha\nVia: 101 Portageiro: 01460\n\nEntrada: 1603 - Belas PV\nTitulo: Bem lido-Trânsito-\nModo de Pagamento: Cartão Bancário\nClasse: 1 Taxa: 0,90 €\n\nPAGAMENTO AUTOMÁTICO num: 1679\nMONTEPIO ************7312\n\nLocal de pagamento: A09-13\n\nIVA incluído a taxa normal\n\nJtoc-Processado por programa certificado"
+  }
+}

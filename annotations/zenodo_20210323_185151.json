@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Vital Costa Braz",
+    "address": "CC. Continente, Piso -1 Lj E11",
+    "phone": "282483666",
+    "tax_id": "514407395",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-13",
+    "time": "14:06:39",
+    "currency": "EUR",
+    "payment_method": "Numerario",
+    "subtotal": 4.27,
+    "tax": 0.98,
+    "tip": 0.0,
+    "total": 5.25,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "UNI Chaves Univer",
+      "quantity": 3,
+      "unit_price": 1.75,
+      "total_price": 5.25,
+      "category": "Keys",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210323_185151.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "VITAL COSTA BRAZ\nCC. CONTINENTE, PISO -1 LJ E11TLF/FAX: 282483666\n2019-03-13 FATURA SIMPLIFICADA N:\nOriginal FS 1A1901/2275\n14:06:39 BALCAO 1\nContribuinte: 514407395\n\nQTD UNI DESCRICAO IVA VALOR\n3 UNI CHAVES UNIVER 23% 5,25\nPreco: 1,75/UNIDADE\n\nTAXA IVA INCID.\n23% 0,98 4,27\nTOTAL INCIDENCIAS: 4,27\nTOTAL:\n\\t 5,25\n\nPago em Numerario\n\nOBRIGADO/THANK YOU\n\ndef6-Processado por programa\n- certificado n. 217/AT\nLicenca: Vital Costa Bras\nContribuinte: 15253403"
+  }
+}

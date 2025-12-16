@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Syarikat Perniagaan Gin Kee",
+    "address": "No 290, Jalan Air Panas, Setapak, 53200, Kuala Lumpur",
+    "phone": "03-40210276",
+    "tax_id": "000750673920",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-01-24",
+    "time": "10:50:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 70.0,
+    "tax": 4.2,
+    "tip": 0.0,
+    "total": 74.2,
+    "accounting_category": "Sale",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "1700",
+      "quantity": 6,
+      "unit_price": 6.36,
+      "total_price": 38.16,
+      "category": "Goods",
+      "accounting_category": "Inventory",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "2430 Cement (50KG)",
+      "quantity": 2,
+      "unit_price": 18.02,
+      "total_price": 36.04,
+      "category": "Construction Materials",
+      "accounting_category": "Inventory",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005677335.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS,\nSETAPAK,\n53200, KUALA LUMPUR.\nTEL: 03-40210276\nGST ID: 000750673920\nSIMPLIFIED TAX INVOICE\nCASH\nDoc No : CS00012922 Date: 24/01/2018\nCashier : USER Time: 10:50:00\nSalesperson : Ref. :\nItem Qty S/Price Amount Tax\n1700 6 6.36 38.16 SR\nPASIR HALUS (BAG)\n2430 2 18.02 36.04 SR\nCEMENT (50KG)\nTotal Qty: 8 74.20\nTotal Sales (Excluding GST) 70.00\nDiscount 0.00\nTotal GST 4.20\nRounding 0.00\nTotal Sales (Inclusive of GST) 74.20\nCASH 74.20\nChange 0.00\nGST SUMMARY\nTax Code % Amt (RM) Tax (RM)\nSR 6 70.00 4.20\nTotal: 70.00 4.20\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU."
+  }
+}

@@ -1,0 +1,1 @@
+Exact duplicate receipt images were detected across sources using SHA-256 hashing and deduplicated prior to release.

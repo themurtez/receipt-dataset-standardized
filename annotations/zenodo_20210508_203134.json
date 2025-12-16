@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Worten",
+    "address": "Amoreiras Plaza, Rua Maria Ulrich, 1 1070 169 Lisboa",
+    "phone": "",
+    "tax_id": "503603030",
+    "website": "www.worten.pt"
+  },
+  "transaction": {
+    "date": "2018-08-12",
+    "time": "14:38:00",
+    "currency": "EUR",
+    "payment_method": "Card",
+    "subtotal": 32.5,
+    "tax": 7.48,
+    "tip": 0.0,
+    "total": 39.98,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Domestic Ventoinha Kunft KDF 2375 1",
+      "quantity": 2,
+      "unit_price": 19.99,
+      "total_price": 39.98,
+      "category": "Electronics",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 0.02
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_203134.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Worten\nVRT Amoreiras\nVRT Equipamentos para o Lar SA\nAmoreiras Plaza, Rua Maria Ulrich, 1 1070 169 Lisboa\nCRC Porto sob n 503603030\nNIPC: 503603030\n100.000,00 EUR SIRPEE: PT010757\nOriginal\nEnt: 12/08/2018 14:38\nCliente: FLIKHOME LDA.\nContribuinte: PT51076914\nMorada1: Lisboa\nMorada2: Postal:\nDESCRICAO VALOR\nDomesticos:<br>56019882847303 VENTOINHA KUNFT KDF 2375 1\n2 x 19,99 39,98\nTOTAL A PAGAR 39,98\nIVA 23% Total Liq. IVA Total\n32,50 7,48 39,98\nExif-Processado por programa certificado\nN. 1356/\n5198 0002 43414 24538 - 100101829128494\nCopia entregue de loja\nLocal de entrega: Morada do cliente\nData: 12/08/2018 Hora: 14:38\nIVA INCLUIDO\nTalao Indispensavel para troca\nPrazo de devolucao: 15 dias\n*** OBRIGADO ***\nNao estao abrangidos pela politica de\nsatisfacao/devolucao de artigos com\nativacao em caixa\nPara mais infurmacoes consulte\nwww.worten.pt"
+  }
+}

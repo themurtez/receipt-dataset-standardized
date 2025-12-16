@@ -1,0 +1,136 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "KRW",
+    "payment_method": "Card",
+    "subtotal": 1963000.0,
+    "tax": 206611.0,
+    "tip": 0.0,
+    "total": 2307021.0,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SOGOGI JAPCHAE",
+      "quantity": 2,
+      "unit_price": 160000.0,
+      "total_price": 320000.0,
+      "category": "Entree",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "GONG GIBAB",
+      "quantity": 6,
+      "unit_price": 20000.0,
+      "total_price": 120000.0,
+      "category": "Side",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "GYERAN MARI",
+      "quantity": 2,
+      "unit_price": 0.0,
+      "total_price": 0.0,
+      "category": "Side",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "JEK SEOK TEOK POKI(S)",
+      "quantity": 1,
+      "unit_price": 115000.0,
+      "total_price": 115000.0,
+      "category": "Entree",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "*MINERAL WATER EL KEUN",
+      "quantity": 1,
+      "unit_price": 13000.0,
+      "total_price": 13000.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "HWANGTAE SUNDUBU(TUKEBGI)",
+      "quantity": 2,
+      "unit_price": 130000.0,
+      "total_price": 260000.0,
+      "category": "Entree",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "DAK GANG JEONG",
+      "quantity": 1,
+      "unit_price": 380000.0,
+      "total_price": 380000.0,
+      "category": "Entree",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "YANG NYEOM SAM GYEOP SAL",
+      "quantity": 1,
+      "unit_price": 120000.0,
+      "total_price": 120000.0,
+      "category": "Entree",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "PREMIUM YANGNYEOM GALBISAL",
+      "quantity": 1,
+      "unit_price": 250000.0,
+      "total_price": 250000.0,
+      "category": "Entree",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "JEKSEOK YANG NYEOM GUI",
+      "quantity": 1,
+      "unit_price": 300000.0,
+      "total_price": 300000.0,
+      "category": "Entree",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "HAEMUL DENJANG JJIGAE",
+      "quantity": 1,
+      "unit_price": 85000.0,
+      "total_price": 85000.0,
+      "category": "Entree",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 17,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000277.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SOGOGI JAPCHAE 2 320,000\nGONG GIBAB 6 120,000\nGYERAN MARI 2 0\nJEK SEOK TEOK POKI(S) 1 115,000\n*MINERAL WATER EL KEUN 1 13,000\nHWANGTAE SUNDUBU(TUKEBGI) 2 260,000\nDAK GANG JEONG 1 380,000\nYANG NYEOM SAM GYEOP SAL 1 120,000\nPREMIUM YANGNYEOM GALBISAL 1 250,000\nJEKSEOK YANG NYEOM GUI 1 300,000\nHAEMUL DENJANG JJIGAE 1 85,000\nSub Total 1,963,000\nService 137,410\nTax 206,611\nDiscount 0\nTOTAL 2,307,021\nCard 2,307,021\nCHANGE 0\n"
+  }
+}

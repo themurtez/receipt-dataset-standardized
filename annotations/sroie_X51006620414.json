@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Sushi Q",
+    "address": "Lot NO: 20, Level UG1, Publika Solaris Dutamas. No 1, Jalan Dutamas, 50480 KL",
+    "phone": "03-62062378",
+    "tax_id": "000926818304",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2016-10-20",
+    "time": "15:08:19",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 9.2,
+    "tax": 0.55,
+    "tip": 0.0,
+    "total": 9.75,
+    "accounting_category": "Food & Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "ALACARTE SUSHI 2.80",
+      "quantity": 2,
+      "unit_price": 2.8,
+      "total_price": 5.6,
+      "category": "Sushi",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "ALACARTE SUSHI 1.80",
+      "quantity": 2,
+      "unit_price": 1.8,
+      "total_price": 3.6,
+      "category": "Sushi",
+      "accounting_category": "Food & Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.25
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51006620414.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Sushi Q\nEDEN IMPRESSION SDN BHD\n(894996-D)\nLot NO : 20, Level UG1, Publika Solaris\nDutamas.\nNo 1, Jalan Dutamas, 50480 KL\nTel: 03-62062378\n(GST ID: 000926818304)\nTax Invoice\nDate: 20/10/2016 Time: 3:08:19PM\nINV No: 388171\nTable: -Take Away\nCounter: C1 Pax: 1\nStaff: NG XIN YEE\nDescription\nUnit Price Unit Discount\nALACARTE SUSHI 2.80\nRM 2.80 2 0.00\nRM5.60 SR\nALACARTE SUSHI 1.80\nRM 1.80 2 0.00\nRM3.60 SR\nQty: 4 Total Excl GST RM9.20\nDiscount: RM0.00\nAfter Discount: RM9.20\nService Charge (Excl GST): RM0.00\nGST: RM0.55\nItem Value Adi: RM0.00\nTotal Sales: RM9.75\nTendered: RM10.00\nChange : RM0.25\nGST Summary Excl Amount(RM) Tax(RM)\nSR = 6% 9.20 0.55\n*Settled at 20/10/2016 3:08:19 PM*\nTHANK YOU AND PLEASE COME AGAIN"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "KEDAI BUKU NEW ACHEIVERS",
+    "address": "NO. 12 & 14, JALAN JINJANG 27/54, TAMAN ALAM MEGAH, SEKSYEN 27, 40400 SHAH ALAM, SELANGOR D. E.",
+    "phone": "603-51910643",
+    "tax_id": "001729572864",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-09-15",
+    "time": "10:22:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 45.28,
+    "tax": 2.72,
+    "tip": 0.0,
+    "total": 48.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "SEASON ENVELOPE 4X9 WINDOW 20.S",
+      "quantity": 3,
+      "unit_price": 3.39,
+      "total_price": 10.18,
+      "category": "Office Supplies",
+      "accounting_category": "Envelopes",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "HARD COVER BOOK 3007",
+      "quantity": 1,
+      "unit_price": 8.37,
+      "total_price": 8.37,
+      "category": "Office Supplies",
+      "accounting_category": "Notebooks",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "HARD COVER FOOLSCAP 300, S 2613B",
+      "quantity": 3,
+      "unit_price": 2.89,
+      "total_price": 8.68,
+      "category": "Office Supplies",
+      "accounting_category": "Paper Products",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "SHARPIE FINE PERMANENT MARKER",
+      "quantity": 3,
+      "unit_price": 2.89,
+      "total_price": 8.68,
+      "category": "Office Supplies",
+      "accounting_category": "Markers",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 13,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005705784.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KEDAI BUKU NEW ACHEIVERS\n(CO NO. SA0345444-K)\nNO. 12 & 14, JALAN JINJANG 27/54\nTAMAN ALAM MEGAH, SEKSYEN 27,\n40400 SHAH ALAM, SELANGOR D. E.\nTEL: 603-51910643 FAX: 603-51910643\nGST NO: 001729572864\nFULL TAX INVOICE\nRec#: CS00294436\nPerson: Date: 15/09/2017\nUser: USER Time: 10:22:00\nGST\nQty RSP RSP Amount\n3225 SEASON ENVELOPE 4X9 WINDOW 20.S\n12363087 3 3.20 3.39 10.18\n3 SEASONSHARD COVER BOOK 3007\n70448257 1 7.90 8.37 8.37\nP RWT HARDCOVER FOOLSCAP 300,S 2613B\n1300514 3 2.73 2.89 8.68\nO SHARPIE FINE PERMANENT MARKER\n1300637 3 2.73 2.89 8.68\nTOT QTY: 13 48.00\n(Excluded GST) Sub Total : 45.28\nDiscount : 0.00\nTotal GST : 2.72\nRounding : 0.00\nTotal : 48.00\nCASH : 48.00\nChange : 0.00\nSUMMARY\nCode % Amount GST\n6 45.28 2.72\nTotal : 45.28 2.72\nGOODS SOLD ARE NOT RETURNABLE.\nTHANK YOU."
+  }
+}

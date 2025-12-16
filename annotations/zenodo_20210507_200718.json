@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Casa Travanca Capucho",
+    "address": "Rua da Atalaia No113, 1200-039 Lisboa",
+    "phone": "213424181",
+    "tax_id": "510776914",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2017-11-02",
+    "time": "12:09:13",
+    "currency": "EUR",
+    "payment_method": "MULTIBANCO",
+    "subtotal": 9.55,
+    "tax": 2.2,
+    "tip": 0.0,
+    "total": 11.75,
+    "accounting_category": "Sales",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Pera Passagem",
+      "quantity": 2,
+      "unit_price": 3.0,
+      "total_price": 6.0,
+      "category": "Hardware",
+      "accounting_category": "Product",
+      "category_confidence": 0.85
+    },
+    {
+      "name": "Tampo Sanita",
+      "quantity": 1,
+      "unit_price": 8.75,
+      "total_price": 8.75,
+      "category": "Hardware",
+      "accounting_category": "Product",
+      "category_confidence": 0.85
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_200718.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CASA TRAVANCA CAPUCHO\nDE: JOAQUIM ANTÓNIO TRAVANCA CAPUCHO\nRUA DA ATALAIA No113 | 200-039 LISBOA\nNIF: 108085813 TEL. 213424181\n\"FERRAGENS FERRAMENTAS MAT. ELECTRICO\"\nIva incluido às Taxas Legais em Vigor\n\nFactura: 17FT 001/4556 ORIGINAL\nData: 2017-11-02 / 12:09:13\n\nNOCliente: 10.002.059\nNome: F Likehome\nContribuinte: 510776914\nMorada: Lx\n\nDescrição Pvu. Qtd. Desc.% Valor\nPERA PASSAGEM 2 3,00\nTAMPO SANITA\n23 % 8,75 1 8,75\nItens: 2 11,75\n\nIliquido Tax% V.Tax\n9,55 23 2,20\n\nTotal a Pagar: 11,75 €\nMULTIBANCO 11,75 €\n\nOs Artigos e serviços constantes deste documento foram prestados ou colocados à disposição do adquirente nesta data.\nPoms-Processado por programa certificado no 003/AT\n\nOBRIGADO, VOLTE SEMPRE"
+  }
+}

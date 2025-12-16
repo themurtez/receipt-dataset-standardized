@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Tiger Portugal, SA",
+    "address": "Rua Nova do Almada, 105, 1200-219 Lisboa",
+    "phone": "",
+    "tax_id": "51014850",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-10-03",
+    "time": "10:47:00",
+    "currency": "EUR",
+    "payment_method": "Multibanco",
+    "subtotal": 13.82,
+    "tax": 3.18,
+    "tip": 0.0,
+    "total": 17.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Bag Shop Japanese",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Glitter Deco Kit",
+      "quantity": 1,
+      "unit_price": 6.0,
+      "total_price": 6.0,
+      "category": "Arts & Crafts",
+      "accounting_category": "Arts & Crafts",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Permanent Marker",
+      "quantity": 2,
+      "unit_price": 0.5,
+      "total_price": 1.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Notepad Office Kit 2",
+      "quantity": 1,
+      "unit_price": 4.0,
+      "total_price": 4.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Calendar 2019 Desk V",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Notebook Sequence De",
+      "quantity": 1,
+      "unit_price": 2.0,
+      "total_price": 2.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 6,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_215920.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "flying tiger copenhagen\nTIGER PORTUGAL, SA. Chiado\nRua Nova do Almada, 105\n1200-219 Lisboa\nContribuinte No 51014850\nSed R Quinta do Bom Retiro, 7 Vale Fetal\n2820-690 Charneca da Caparica\nNIF CLT: 51076914\nFatura Simplificada\nNatureza:Fatura Simplificada\n2019-10-03 10:47 RAQUEL MENESES FALCAO R.\n19114/199403 Origina \nQuant. Pr. Unit. IVA Desc. Total\n3013426 BAG SHOP JAPANESE 2\n1,00 23% 1,00\n3016015 GLITTER DECO KIT\n1 6,00 23% 6,00\n3003206 PERMANENT MARKE\n2 0,50 23% 1,00\n3016531 NOTEPAD OFFICE KIT 2\n1 4,00 23% 4,00\n3011594 CALENDAR 2019 DESK V\n1 1,00 23% 1,00\n3013240 NOTEBOOK SEQUENCE DE\n1 2,00 23% 2,00\nItens: 6\nTotal 17,00 EUR\nForma Pag. MULTIBANCO 17,00\nIva Incluido à Taxa Indicada\nTaxa Valor Iva Base Imp. Valor Total\n23% 3.18 13,82 17,00\nTrocas apenas com fatura ate 30 dias\nNao trocar objetos de loja\nNao aceitamos cheques\nSkoD Processado por programa certificado\nno 2/AT Sage\nEste documento não constituti documento d\ne transporte, de acoro com o Decreto-Lei\nno 147/2003"
+  }
+}

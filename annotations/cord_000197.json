@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "IDR",
+    "payment_method": "Cash",
+    "subtotal": 67273.0,
+    "tax": 6727.0,
+    "tip": 0.0,
+    "total": 74000.0,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "CK. MANTAP A",
+      "quantity": 1,
+      "unit_price": 25455.0,
+      "total_price": 25455.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "CHEESE B",
+      "quantity": 2,
+      "unit_price": 20455.0,
+      "total_price": 40910.0,
+      "category": "Food",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "TAKE AWAY",
+      "quantity": 1,
+      "unit_price": 909.0,
+      "total_price": 909.0,
+      "category": "Service",
+      "accounting_category": "Restaurant",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 26000.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000197.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "CK. MANTAP A 25,455 1 25,455\nCHEESE B 20,455 2 40,910\nTAKE AWAY 909 1 909\nSub Total 67,273\nPAJAK RESTORAN 10% 6,727\nTotal 74,000\nCash 100,000\nChanging 26,000"
+  }
+}

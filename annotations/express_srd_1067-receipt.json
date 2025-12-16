@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "Anjappar Chettinad Artesia",
+    "address": "18128 Pioneer Blvd, Artesia, CA 90701",
+    "phone": "(562) 991-1801",
+    "tax_id": "",
+    "website": "www.anjapparla.com"
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 36.8,
+    "tax": 3.5,
+    "tip": 0.0,
+    "total": 40.3,
+    "accounting_category": "Restaurant",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Ghee Dosa",
+      "quantity": 1,
+      "unit_price": 7.95,
+      "total_price": 7.95,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Anjappar Mutton Meals",
+      "quantity": 1,
+      "unit_price": 14.95,
+      "total_price": 14.95,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Kaldosa",
+      "quantity": 1,
+      "unit_price": 6.95,
+      "total_price": 6.95,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Plain Dosa",
+      "quantity": 1,
+      "unit_price": 6.95,
+      "total_price": 6.95,
+      "category": "Food",
+      "accounting_category": "Meal",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1067-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "Anjappar Chettinad Artesia\n18128 Pioneer Blvd\nArtesia, Ca 90701\n(562) 991-1801\nwww.anjapparla.com\nAnjappar - Artesia\n\nOrder #004-864\tTicket #35\n\nDine In\n\nTable #C16\nSeat: 1\n\nServer: Deepthi R\t\tDevice #1\n\nSeat #1\n\n1 Ghee Dosa\t\t\t\t7.95\nKid is waiting\n1 Anjappar Mutton Meals\t14.95\n1 Kaldosa\t\t\t\t6.95\n1 Plain Dosa\t\t\t6.95\n---------------------------------\nSub Total:\t\t\t\t36.80\nTax 1:\t\t\t\t\t3.50\n---------------------------------\n                 Total:  40.30"
+  }
+}

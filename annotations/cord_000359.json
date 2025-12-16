@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "",
+    "time": "",
+    "currency": "IDR",
+    "payment_method": "Card",
+    "subtotal": 204000.0,
+    "tax": 20885.0,
+    "tip": 0.0,
+    "total": 239165.0,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "YANG YUM GUI",
+      "quantity": 1,
+      "unit_price": 97000.0,
+      "total_price": 97000.0,
+      "category": "Main Course",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "GALBI TANG",
+      "quantity": 1,
+      "unit_price": 92000.0,
+      "total_price": 92000.0,
+      "category": "Main Course",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "NASI(GONGGI BAB)",
+      "quantity": 1,
+      "unit_price": 15000.0,
+      "total_price": 15000.0,
+      "category": "Side Dish",
+      "accounting_category": "Dining",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000359.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "YANG YUM GUI 1 97,000\nGALBI TANG 1 92,000\nNASI(GONGGI BAB) 1 15,000\nSub Total 204,000\nService 14,280\nTax 20,885\nDiscount 0\nTOTAL 239,165\nCard 239,165\nCHANGE 0"
+  }
+}

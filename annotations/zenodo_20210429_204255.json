@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "Pingo Doce - Tomas Ribeiro",
+    "address": "R Actor António Silva, N7, 1649-033 Lisboa",
+    "phone": "213136180",
+    "tax_id": "500829993",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-07-31",
+    "time": "19:10:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 0.72,
+    "tax": 0.17,
+    "tip": 0.0,
+    "total": 0.89,
+    "accounting_category": "Cleaning Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Deterg. e Prod. Limpeza",
+      "quantity": 1,
+      "unit_price": 0.89,
+      "total_price": 0.89,
+      "category": "Cleaning Supplies",
+      "accounting_category": "Cleaning Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 1,
+    "rounding": 0.0,
+    "change_due": 19.11
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_204255.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "TOMAS RIBEIRO\nTel.: 213136180\nPingo Doce - Distribuição Alimentar, S.A.\nSede: R Actor António Silva, N7, 1649-033 Lisboa\nRegisto C.R.C. Lisboa-Matricula/NIPC: 500829993\nANREEE: PT001730 V C. Social: 33.808.115 EUR\nArtigos\nDETERG. E PROD. LIMPEZA\t0,89\nE 23% DET LOIÇA CONC CLASS\nResumo\nTOTAL A PAGAR\t0.89\nPagamentos\nTOTAL PAGO\t20,00\nTROCO\t19,11\nEURO\nResumo IVA\nTaxa\nE 23%\nValor s/IVA Valor c/IVA\n0,72\t0,89\nValor IVA\n0,17\nAtendido por: Filipa Lobo\n09717 2019-07-31 19:10 0001 0005 0440\nFatura/Recibo\nFT 044000519010106222/01932\nData de emissão: 31-07-2019\nN. Contribuinte: 510776914\nNome: LIKEHOME LDA\nMorada: AV DA LIBERDADE 36 1B 1250/145\nLocalidade: Lisboa\nLocal carga..... TOMAS RIBEIRO\nLocal descarga. Morada do cliente\nData: 2019-07-31 Hora: 19:10\nFactura necessária para troca em 15 dias\n(Artigos Têxtil e Calçado prazo 30 dias)\nNão se trocam medicamentos e artigos assinalados\nApoio ao Cliente\n808 20 45 45 / 210 11 44 14 (24 horas)"
+  }
+}

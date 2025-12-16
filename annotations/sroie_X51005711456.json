@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "Sushi Mentai - Mahkota Cheras",
+    "address": "No: 1-1&2 Ground Floor, Jln Temenggung 37/9, 43200 Cheras Selangor",
+    "phone": "",
+    "tax_id": "001375580160",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-31",
+    "time": "18:12:41",
+    "currency": "MYR",
+    "payment_method": "VISA",
+    "subtotal": 56.2,
+    "tax": 3.71,
+    "tip": 0.0,
+    "total": 65.55,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "Green Tea",
+      "quantity": 2,
+      "unit_price": 1.0,
+      "total_price": 2.0,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Shiro Ramen",
+      "quantity": 1,
+      "unit_price": 12.8,
+      "total_price": 12.8,
+      "category": "Main Course",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Unagi Don",
+      "quantity": 1,
+      "unit_price": 19.8,
+      "total_price": 19.8,
+      "category": "Main Course",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Tori Karaage",
+      "quantity": 1,
+      "unit_price": 8.8,
+      "total_price": 8.8,
+      "category": "Appetizer",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Sushi Yellow",
+      "quantity": 4,
+      "unit_price": 1.8,
+      "total_price": 7.2,
+      "category": "Sushi",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Sushi Red",
+      "quantity": 2,
+      "unit_price": 2.8,
+      "total_price": 5.6,
+      "category": "Sushi",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 11,
+    "rounding": 0.02,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005711456.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "SUSHI MENTAI - MAHKOTA CHERAS\nMIZU MENTAI SDN. BHD. (1248446-V)\nNO: 1-1&2 GROUND FLOOR,\nJLN TEMENGGUNG 37/9,\n43200 CHERAS SELANGOR.\n(GST Reg. No : 001375580160)\n\nTax Invoice\nTable: 9\nOrder#: 114105\nBill#: V042-513777 Pax(s): 0\nDate : 31-03-2018 18:12:41\nCashier: SOFYA\n\nDescription Qty U.price Total TAX\nB1 Green Tea 2 x 1.00 2.00 SR\nN8 Shiro Ramen 1 x 12.80 12.80 SR\nR9 Unagi Don 1 x 19.80 19.80 SR\nF8 Tori Karaage 1 x 8.80 8.80 SR\nSB01 Sushi Yellow 4 x 1.80 7.20 SR\nSB02 Sushi Red 2 x 2.80 5.60 SR\n\nTotal (Excluding GST): 56.20\nServ. Charge (10%): 5.62\nGST Payable: 3.71\nTotal (Inclusive of GST): 65.53\nRounding Adj: 0.02\nTOTAL: 65.55\nClosed: 201710016 31-03-2018 18:43:22\nServer: SOFYA\n\nVISA 65.55\n\nGST Summary Amount(RM) Tax(RM)\nSR (@ 6%) 61.82 3.71\n\nThank you!!!\nPlease Come Again!!!\nPowered By WWW.SISPOS.COM.MY\n"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "merchant": {
+    "name": "IN-N-OUT BURGER ESCONDIDO",
+    "address": "",
+    "phone": "247 2 480 2152",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2013-08-10",
+    "time": "15:02:00",
+    "currency": "USD",
+    "payment_method": "",
+    "subtotal": 18.0,
+    "tax": 1.44,
+    "tip": 0.0,
+    "total": 19.44,
+    "accounting_category": "Food and Beverage",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "DblDbl",
+      "quantity": 1,
+      "unit_price": 3.3,
+      "total_price": 3.3,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "WO K M",
+      "quantity": 1,
+      "unit_price": 4.35,
+      "total_price": 4.35,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "FF",
+      "quantity": 2,
+      "unit_price": 1.6,
+      "total_price": 3.2,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "FF Animal",
+      "quantity": 1,
+      "unit_price": 3.5,
+      "total_price": 3.5,
+      "category": "Food",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Lg Coke",
+      "quantity": 1,
+      "unit_price": 1.7,
+      "total_price": 1.7,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "Med Coke",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "total_price": 1.5,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "C Shk",
+      "quantity": 1,
+      "unit_price": 2.05,
+      "total_price": 2.05,
+      "category": "Beverage",
+      "accounting_category": "Food and Beverage",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 7,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1064-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "2013-08-10 L1 T2  3:04 PM\nYOUR GUEST NUMBER IS \n25\nIN-N-OUT BURGER ESCONDIDO\n2013-08-10   3:02 PM\n247 2 480 2152\nCashier: ADAM EL\nCheck #: 25\nCounter-Eat In\nDblDbl 3.30\nWO K M\nSX3> GR S only\nFF 1.60\nFF  Animal 3.50\nLg Coke 1.70\nMed Coke 1.50\n** C Shk 2.05\nCounter-Eat In 18.00\nTAX 8.00% 1.44\nAmount Due $19.44"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "JMTD-FERRAGENS DO COMBRO LDA",
+    "address": "CALÇADA DO COMBRO N°3 - 1200-110 LISBOA",
+    "phone": "21 347 67 62",
+    "tax_id": "513 350 535",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-03-04",
+    "time": "09:51:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 66.26,
+    "tax": 15.24,
+    "tip": 0.0,
+    "total": 81.5,
+    "accounting_category": "Hardware",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Chave Universal Especial",
+      "quantity": 9,
+      "unit_price": 1.5,
+      "total_price": 13.5,
+      "category": "Tools",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Chave Pontos",
+      "quantity": 6,
+      "unit_price": 9.0,
+      "total_price": 54.0,
+      "category": "Tools",
+      "accounting_category": "Hardware",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Cx. Buchas de Plastico",
+      "quantity": 2,
+      "unit_price": 7.0,
+      "total_price": 14.0,
+      "category": "Hardware",
+      "accounting_category": "Supplies",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210428_150825.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "JMTD-FERRAGENS DO COMBRO LDA\nFERRAGENS FERRAMENTAS CHAVES FECHADURAS\nMAT. ELECTRICO • MAT. CANALIZACAO\nCALÇADA DO COMBRO N°3 - 1200-110 LISBOA\nNIF: 513 350 535\nEmail: jose.m.a.duarte@sapo.pt\nTelf: 21 347 67 62\n\nFATURA SIMPLIFICADA\nORIGINAL\nDATA 04/03/2019 - 9:51 Nº A/29567\n\nCliente: FLKEHOME Lda\nMorada:\nCont.N : 510776914\n\nArtigo Qtd Preço € Valor €\n\nChave Universal Especial\n23% 9 Un x 1,50 = 13,50\nChave Pontos\n23% 6 Un x 9,00 = 54,00\n1Cx. Buchas de Plastico\n23% 2 Un x 7,00 = 14,00\n#017\n\nTOTAL................................... 81,50\n\nNumerário..............................\nTroco.................................... 81,50\n\nIVA Incluido á taxa indicada\nTaxa% Sujeito IVA Total\n23,00 66,26 15,24 81,50\n\nData de carga: 04/03/2019\nHora de carga: 10:01\nLocal carga: N/Instalações\nMatricula:\nData descarga:\nHora descarga:\nLocal descarga: V/Instalações\n\nFxGS-Processado por programa certifiado\nN° 88/AT - 1 A/29567\nOP: Administrador\n\nOBRIGADO VOLTE SEMPRE\n"
+  }
+}

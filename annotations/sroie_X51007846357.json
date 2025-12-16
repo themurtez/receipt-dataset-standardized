@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "KEDAI RUNCIT ZBH",
+    "address": "NO. 17, JALAN PERMAS 1/7, BANDAR BARU PERMAS JAYA, 81750, MASAI",
+    "phone": "",
+    "tax_id": "001019043840",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-01",
+    "time": "06:31:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 43.4,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 43.4,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "RUNCIT",
+      "quantity": 2,
+      "unit_price": 1.0,
+      "total_price": 2.0,
+      "category": "General Merchandise",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "RUNCIT",
+      "quantity": 1,
+      "unit_price": 7.8,
+      "total_price": 7.8,
+      "category": "General Merchandise",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "RUNCIT",
+      "quantity": 4,
+      "unit_price": 2.2,
+      "total_price": 8.8,
+      "category": "General Merchandise",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "RUNCIT",
+      "quantity": 1,
+      "unit_price": 1.8,
+      "total_price": 1.8,
+      "category": "General Merchandise",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "RUNCIT",
+      "quantity": 2,
+      "unit_price": 4.5,
+      "total_price": 9.0,
+      "category": "General Merchandise",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "RUNCIT",
+      "quantity": 1,
+      "unit_price": 14.0,
+      "total_price": 14.0,
+      "category": "General Merchandise",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 11,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007846357.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "KEDAI RUNCIT ZBH\nNO. 17, JALAN PERMAS 1/7,\nBANDAR BARU PERMAS JAYA,\n81750, MASAI\n(GST:001019043840)\nTAX INVOICE\n#195360  01/06/2018   6:31\n01 CLERK01            000000\nINVOICE NO : 052949\n*BILL*\n\n2x 1.00\n*RUNCIT          RM2.00 Z\n1x 7.80\n*RUNCIT          RM7.80 Z\n4x 2.20\n*RUNCIT          RM8.80 Z\n1x 1.80\n*RUNCIT          RM1.80 Z\n2x 4.50\n*RUNCIT          RM9.00 Z\n1x  14.00\n*RUNCIT          RM14.00 Z\nSUBTOTAL         RM43.40\n\nZERO TAX AMT     RM43.40\n0% Z             RM0.00\nZ ITEM AMT       RM43.40\n\nTTL CASH         RM43.40"
+  }
+}

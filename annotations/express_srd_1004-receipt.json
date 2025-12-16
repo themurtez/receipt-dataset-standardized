@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "Golden Bowl Teriyaki",
+    "address": "8610 Garfield Ave, South Gate, CA, 90280",
+    "phone": "(562) 928-8999",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-05-18",
+    "time": "11:19:00",
+    "currency": "USD",
+    "payment_method": "Cash",
+    "subtotal": 13.63,
+    "tax": 1.4,
+    "tip": 0.0,
+    "total": 15.03,
+    "accounting_category": "Food and Dining",
+    "category_confidence": 0.95
+  },
+  "items": [
+    {
+      "name": "#1 CHKN PLATE",
+      "quantity": 1,
+      "unit_price": 9.39,
+      "total_price": 9.39,
+      "category": "Food",
+      "accounting_category": "Entree",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "AVOCADO",
+      "quantity": 1,
+      "unit_price": 1.95,
+      "total_price": 1.95,
+      "category": "Food",
+      "accounting_category": "Add-on",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "MD. DRINK",
+      "quantity": 1,
+      "unit_price": 2.29,
+      "total_price": 2.29,
+      "category": "Beverage",
+      "accounting_category": "Drink",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 4.97
+  },
+  "ocr_metadata": {
+    "source_image": "express_srd_1004-receipt.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "GOLDEN BOWL TERIYAKI\n8610 GARFIELD AVE.\nSOUTH GATE, CA. 90280\nTEL: (562) 928-8999\n\nREG 05-18-2019 11:19 AM\nManager1 MC #01 000141\n\nORDER# 000141\n\n1 #1 CHKN PLATE $9.39\n1 + AVOCADO $1.95\n1 MD. DRINK $2.29\n*HERE\nTAX $1.40\nTOTAL $15.03\nCASH\n$20.00\nCG $4.97"
+  }
+}

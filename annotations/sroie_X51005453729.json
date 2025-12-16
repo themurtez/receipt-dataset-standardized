@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Lian Hing Stationery SDN BHD",
+    "address": "No. 32 & 33, Jalan SR 1/9, Seksyen 9, Taman Serdang Raya, 43300 Seri Kembangan, Selangor, Darul Ehsan",
+    "phone": "",
+    "tax_id": "002139201536",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-03-27",
+    "time": "",
+    "currency": "MYR",
+    "payment_method": "",
+    "subtotal": 75.0,
+    "tax": 4.5,
+    "tip": 0.0,
+    "total": 79.5,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Durafile H399 (110x95mm) Name Badge",
+      "quantity": 100,
+      "unit_price": 0.583,
+      "total_price": 58.3,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "809 Metal Name Badge Clip",
+      "quantity": 1,
+      "unit_price": 21.2,
+      "total_price": 21.2,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 20.5
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51005453729.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "3180303\n\nLIAN HING STATIONERY SDN BHD\n(162761-M)\nNO. 32 & 33, JALAN SR 1.9, SEKSYEN 9,\nTAMAN SERDANG RAYA,\n43300 SERI KEMBANGAN, SELANGOR\nDARUL EHSAN\nGST ID : 002139201536\nTax Invoice\n27.03/2018 No. CS:20242\n\nDurafile H399 (110x95mm)\nName Badge (H) @ 0.5500\n\n809 Metal Name Badge Clip\n- 100's @ 20.0000\n\nTotal Amt Incl. GST @ 6%:\nRounding Adjustment\nTotal Amt Payable :\nPaid Amount\nChange :\n\nQty Tax RM\n100 SR 58.30\n1 SR 21.20\n\n79.50\n79.50\n100.00\n20.50\n\nTotal Qty Tender : 101\n\nGST Summary Amount\n(RM)\nSR @ A. 75.00\nTotal 75.00\n\nTax\n(RM)\n4.50\n4.50\n\nTHANK YOU\nFor any enquiry, please contact us"
+  }
+}

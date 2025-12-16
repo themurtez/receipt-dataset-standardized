@@ -1,0 +1,91 @@
+{
+  "merchant": {
+    "name": "",
+    "address": "",
+    "phone": "",
+    "tax_id": "",
+    "website": ""
+  },
+  "transaction": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:MM:SS",
+    "currency": "JPY",
+    "payment_method": "CASH",
+    "subtotal": 58100.0,
+    "tax": 5810.0,
+    "tip": 0.0,
+    "total": 63910.0,
+    "accounting_category": "restaurant",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "KOROKE ORI",
+      "quantity": 1,
+      "unit_price": 12600.0,
+      "total_price": 12600.0,
+      "category": "food",
+      "accounting_category": "meal",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "KOROKE CURRY",
+      "quantity": 1,
+      "unit_price": 13500.0,
+      "total_price": 13500.0,
+      "category": "food",
+      "accounting_category": "meal",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "EBI KTSU 1 PCS",
+      "quantity": 1,
+      "unit_price": 29800.0,
+      "total_price": 29800.0,
+      "category": "food",
+      "accounting_category": "meal",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "TSUKUNE",
+      "quantity": 3,
+      "unit_price": 35100.0,
+      "total_price": 35100.0,
+      "category": "food",
+      "accounting_category": "meal",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "MOMO",
+      "quantity": 1,
+      "unit_price": 11700.0,
+      "total_price": 11700.0,
+      "category": "food",
+      "accounting_category": "meal",
+      "category_confidence": 0.95
+    },
+    {
+      "name": "ONIGIRI",
+      "quantity": 1,
+      "unit_price": 13500.0,
+      "total_price": 13500.0,
+      "category": "food",
+      "accounting_category": "meal",
+      "category_confidence": 0.95
+    }
+  ],
+  "summary": {
+    "total_items": 8,
+    "rounding": 0.0,
+    "change_due": 90.0
+  },
+  "ocr_metadata": {
+    "source_image": "cord_000601.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "1 KOROKE ORI 12,600\n1 KOROKE CURRY 13,500\n1 EBI KTSU 1 PCS 29,800\n3 TSUKUNE 35,100\n1 MOMO 11,700\n1 ONIGIRI 13,500\nSubtotal 116,200\n50% Disc -58,100\nSubtotal 58,100\nTax 5,810\nTOTAL 63,910\nCASH 64,000\nChange 90"
+  }
+}

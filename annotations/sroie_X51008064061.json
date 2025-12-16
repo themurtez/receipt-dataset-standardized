@@ -1,0 +1,64 @@
+{
+  "merchant": {
+    "name": "MR. D.I.Y. (M) SDN BHD",
+    "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SELANGOR",
+    "phone": "",
+    "tax_id": "000306020352",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-05-03",
+    "time": "14:12:00",
+    "currency": "MYR",
+    "payment_method": "CASH",
+    "subtotal": 65.28,
+    "tax": 3.92,
+    "tip": 0.0,
+    "total": 69.2,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "ARTLINE WHITEBOARD MAKER PEN 500A (R)",
+      "quantity": 1,
+      "unit_price": 3.1,
+      "total_price": 3.1,
+      "category": "Office Supplies",
+      "accounting_category": "Stationery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "ARTLINE WHITEBOARD MAKER PEN 500A (B)",
+      "quantity": 1,
+      "unit_price": 3.1,
+      "total_price": 3.1,
+      "category": "Office Supplies",
+      "accounting_category": "Stationery",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "MAGNETIC WHITEBOARD LD001# 120*90CM",
+      "quantity": 1,
+      "unit_price": 63.0,
+      "total_price": 63.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Equipment",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008064061.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MR. D.I.Y. (M) SDN BHD\n(CO REG: 860871-D)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No: 000306020352)\n(MELAWATI MALL)\n-TAX INVOICE-\n------------------------------------------\nARTLINE WHITEBOARD MAKER PEN 500A (R  *S\nWA25 - 24/288\n4974052854583 1 X 3.10 3.10\nARTLINE WHITEBOARD MAKER PEN 500A (B  *S\nWA26 - 24/288\n4974052854569 1 X 3.10 3.10\nMAGNETIC WHITEBOARD LD001# 120*90CM  *S\nHC07-08 - 6\n9087397 1 X 63.00 63.00\nItem(s) : 3 Qty(s) : 3\n------------------------------------------\nTotal Incl. GST@6%\nCASH RM 69.20\nRM 69.20\n\nGST Summary Amt(RM) Tax(RM)\nGST S@6% 65.28 3.92\n*------------------------------------------*\n03-05-18 14:12 SH02 ZJ94 T1 R000090406\nOPERATOR MLWC - SITI AISHAH\n\nEXCHANGE ARE ALLOWED WITHIN\n7 DAYS WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "JMTD-FERRAGENS DO COMBRO LDA",
+    "address": "CALÇADA DO COMBRO Nº3, 1200-110 LISBOA",
+    "phone": "21 347 67 62",
+    "tax_id": "513 350 535",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-10-02",
+    "time": "12:21:00",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 7.32,
+    "tax": 1.68,
+    "tip": 0.0,
+    "total": 9.0,
+    "accounting_category": "Sales",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Desentupidor de Canos",
+      "quantity": 1,
+      "unit_price": 4.0,
+      "total_price": 4.0,
+      "category": "Household Supplies",
+      "accounting_category": "Product",
+      "category_confidence": 0.8
+    },
+    {
+      "name": "Bichas Desentupir",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Household Supplies",
+      "accounting_category": "Product",
+      "category_confidence": 0.8
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210429_192501.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "\nJMTD-FERRAGENS DO COMBRO LDA\nFERRAGENS FERRAMENTAS CHAVES FECHADURAS\nMAT. ELECTRICO - MAT. CANALIZAÇÃO\nCALÇADA DO COMBRO Nº3 1200-110 LISBOA\nNIF: 513 350 535\nEmail: jose.m.a.duarte@sapo.pt\nTelf: 21 347 67 62\n\nFATURA SIMPLIFICADA\nORIGINAL\nDATA 02/10/2019 - 12:21 Nº A/33866\n\nCliente: FLKHOME\nMorada: \nCont.Nº: 510776914\n\nArtigo Qtd Preço € Valor €\n\nDesentupidor de Canos\n23% 1 Un x 4,00 = 4,00\n\nBichas Desentupir\n23% 1 Un x 5,00 = 5,00\n\nTOTAL.................................. 9,00\nNumerário..................................9,00\nTroco..........................................0,00\n\nIVA Incluido à taxa indicada\nTaxa% Sujeito IVA Total\n23,00 7,32 1,68 9,00\n\nData de carga: 02/10/2019\nHora de carga: 12:31\nLocal carga: N/Instalações\nMatrícula: \nData descarga: \nHora descarga: \nLocal descarga: V/Instalações\n\nwTAO-Processado por programa certificado\nNº 88/AT 1 A/33866\n\nOpr: Administrador\n"
+  }
+}

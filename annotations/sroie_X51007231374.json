@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "Warakuya Permas City Sdn Bhd",
+    "address": "Jalan Permas Utara 1, Permas Jaya 81750, Masai Johor",
+    "phone": "0111-558 0000",
+    "tax_id": "0016 6993 5104",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-07-05",
+    "time": "17:42:46",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 20.9,
+    "tax": 1.38,
+    "tip": 2.09,
+    "total": 24.4,
+    "accounting_category": "Dining",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Buta Shoga Yaki Set",
+      "quantity": 1,
+      "unit_price": 19.9,
+      "total_price": 19.9,
+      "category": "Food",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Iced Green Tea",
+      "quantity": 1,
+      "unit_price": 1.0,
+      "total_price": 1.0,
+      "category": "Beverage",
+      "accounting_category": "Dining",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 2,
+    "rounding": 0.03,
+    "change_due": 6.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51007231374.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "WARAKUYA PERMAS CITY SDN BHD\nReg No: 1203194-W\nJALAN PERMAS UTARA 1,\nPERMAS JAYA 81750 MASAI JOHOR\nTel: 0111-558 0000\nGST ID: 0016 6993 5104\nTAX INVOICE NO 47 PAX NO: 1\n66346\nDate: 07/05/2018 5:42:46 PM\nCashier: c002\nWaiter: ALICE\nQty Code/Desc Total RM\n1 BUTA SHOGA YAKI SET 19.90\n1 ICED GREEN TEA 1.00\nServ Charge 10% 2.09\nGST @ 6% 1.38\nRounding Adj : 0.03\nTotal Amount : 24.40\nTOTAL : RM 24.40\nType 2 Qty: 2\nCASH 30.40\nChange RM: 6.00\nGST Summary Amount RM TAX RM\nSR 6% 22.99 1.38"
+  }
+}

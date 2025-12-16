@@ -1,0 +1,55 @@
+{
+  "merchant": {
+    "name": "FlikeHome",
+    "address": "RUA DOS FANQUEIROS 46, 1100-231 LISBOA",
+    "phone": "327003791",
+    "tax_id": "246018160",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2019-10-07",
+    "time": "",
+    "currency": "EUR",
+    "payment_method": "",
+    "subtotal": 7.97,
+    "tax": 1.83,
+    "tip": 0.0,
+    "total": 9.8,
+    "accounting_category": "Retail",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Artigos de Usodario",
+      "quantity": 2,
+      "unit_price": 1.65,
+      "total_price": 3.3,
+      "category": "Goods",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Artigos de Usodario",
+      "quantity": 1,
+      "unit_price": 6.5,
+      "total_price": 6.5,
+      "category": "Goods",
+      "accounting_category": "Retail",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 3,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210507_172114.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "MINGFAN ZHENG\nContribuinte Nr: 246018160\nRUA DOS FANQUEIROS 46\n1100-231 LISBOA\nTel: 327003791\n2019-10-07\n\nNome: FlikeHome\nCont.Nr: 510776914\nMorada:\n\nDUPLICADO\nFatura Nr: FAC 201/00002263\n\nIVA Descricao\n\n23% Artigos de Usodario\n2 x 1.65 3.30\n23% Artigos de Usodario\n1 x 6.50 6.50\n\nTotal A Pagar Euros: 9.80\nNumero De Artigos: 3\n\nRecebido (Euros): 9.80\nTroco (Euros): 0.00\n\nIVA% Base IVA Total\n23% 7.97 1.83 9.80\n\nTotal: 9.80Euros\n\nFactura indispensavel para troca.\nDm13 - Processado por Programa\nCertificado Nr: 1174/AT\n\nOBRIGADO E VOLTE SEMPRE"
+  }
+}

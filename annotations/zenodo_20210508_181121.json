@@ -1,0 +1,73 @@
+{
+  "merchant": {
+    "name": "ROGERIO PAIS, LDA",
+    "address": "Almirante Reis, 9-E, 1150-007 Lisboa",
+    "phone": "966008696",
+    "tax_id": "500544000",
+    "website": "www.ticasgest.pt"
+  },
+  "transaction": {
+    "date": "2018-06-08",
+    "time": "06:44:00",
+    "currency": "EUR",
+    "payment_method": "Cash",
+    "subtotal": 20.33,
+    "tax": 4.67,
+    "tip": 0.0,
+    "total": 25.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Fita dupla face PECOL 1",
+      "quantity": 2,
+      "unit_price": 6.0,
+      "total_price": 12.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "AMIG - placa perf. 120x",
+      "quantity": 1,
+      "unit_price": 4.0,
+      "total_price": 4.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Tubo Extensivo 1/2-40",
+      "quantity": 1,
+      "unit_price": 5.0,
+      "total_price": 5.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    },
+    {
+      "name": "Soda Caustica Emb 1 Kg",
+      "quantity": 1,
+      "unit_price": 4.0,
+      "total_price": 4.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 5,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "zenodo_20210508_181121.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "ROGERIO PAIS, LDA\nFERAMENTAS + MAQUINAS + UTILIDADES\nAv. Almirante Reis, 9-E * 1150-007 LISBOA\nTel/Fax: 218653901 Tel. 966008696\nS. sociedade por quotas * Capital Social\n5.012,92€ REG.CRC. 34852\nNIB: 0033 0000 0128028463 52\n\n2018-06-08 FATURA SIMPLIFICADA N.\nOriginal FS 1A1801/4935\n06:44 BALCAO 1\n\nContribuinte: 510776914\n\nDESCRICAO IVA VALOR\n2 Fita dupla face PECOL 1 23% 12,00\nPreco: 6,00/UNIDADE\n1 AMIG - placa perf. 120x 23% 4,00\n1 Tubo Extensivo 1/2-40 23% 5,00\n1 Soda Caustica Emb 1 Kg 23% 4,00\n\nTAXA IVA INCID.\n23% 4,67 20,33\nTOTAL INCIDENCIAS: 4,67 20,33\nTOTAL: Eur 25,00\n\nPago em Numerario\nValor entregue: 25,00\nTroco: 0,00\n\nImplementado por www.ticasgest.pt\n\nojf-Processado por programa\ncertificado n. 217/AT\n\nOs servicos e/ou bens foram realizados e/ou colocados\na disposicao do adquirente nesta data (Art°\n-36 do CIVA, No5 alInea F)\n\nLicenca: ROGERIO PAIS, LDA\nContribuinte: 500544000"
+  }
+}

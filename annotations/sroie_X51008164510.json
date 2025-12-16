@@ -1,0 +1,46 @@
+{
+  "merchant": {
+    "name": "OCEAN LC PACKAGING ENTERPRISE",
+    "address": "41-1, JLN RADIN ANUM 2, SRI PETALING, 57000 KUALA LUMPUR.",
+    "phone": "012-3163818",
+    "tax_id": "000945983488",
+    "website": ""
+  },
+  "transaction": {
+    "date": "2018-06-27",
+    "time": "12:45:00",
+    "currency": "MYR",
+    "payment_method": "Cash",
+    "subtotal": 152.0,
+    "tax": 0.0,
+    "tip": 0.0,
+    "total": 152.0,
+    "accounting_category": "Office Supplies",
+    "category_confidence": 0.9
+  },
+  "items": [
+    {
+      "name": "Others",
+      "quantity": 4,
+      "unit_price": 38.0,
+      "total_price": 152.0,
+      "category": "Office Supplies",
+      "accounting_category": "Office Supplies",
+      "category_confidence": 0.9
+    }
+  ],
+  "summary": {
+    "total_items": 4,
+    "rounding": 0.0,
+    "change_due": 0.0
+  },
+  "ocr_metadata": {
+    "source_image": "sroie_X51008164510.jpg",
+    "extraction_engine": "gpt-4o-vision",
+    "model_version": "2024-05-13",
+    "confidence": 0.95
+  },
+  "ocr_raw": {
+    "full_text": "OCEAN LC PACKAGING ENTERPRISE\nGST NO: 000945983488\n41-1, JLN RADIN ANUM 2, SRI PETALING, 57000 KUALA LUMPUR.\nH/P: 012-3163818 FAX: 0390542829\nTAX INVOICE\n\n#027553 27/06/2018 12:45\n01 Lai 000000\n\n4x 38.00 RM152.00\nOthers\nSUBTOTAL RM152.00\n\nGST TAXABLE RM152.00\nGST 0% RM0.00\n\nITEMS 4Q\nCASH RM152.00"
+  }
+}
