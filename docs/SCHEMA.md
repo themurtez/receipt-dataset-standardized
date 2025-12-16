@@ -22,6 +22,22 @@ All top-level fields are expected to be present unless explicitly stated otherwi
 
 ---
 
+## Missing / unknown fields
+
+Not all receipts contain all information. For example:
+- merchant headers may be blurred or cropped
+- timestamps may be missing
+- payment method may not be printed
+
+When a value cannot be reliably extracted, the dataset may represent it as:
+- an empty string `""` for text fields
+- `null` (if present)
+- placeholders such as `"YYYY-MM-DD"` or `"HH:MM:SS"` for unknown date/time in some samples
+
+Consumers should treat empty/placeholder values as **unknown**, not as literal values.
+
+---
+
 ## merchant
 
 Information about the merchant issuing the receipt.

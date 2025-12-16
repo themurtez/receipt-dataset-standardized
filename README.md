@@ -20,16 +20,25 @@ sroie_000145.json
 
 ---
 
+## Data quality / completeness
+
+Receipts are real-world scans. Some fields may be **missing, unreadable, cropped, or blurred** (common in OCR datasets).
+When information is unavailable, fields may be present but empty (e.g. `""`) or may use placeholders for unknown values (e.g. `"YYYY-MM-DD"` / `"HH:MM:SS"`).
+
+This dataset is intended for **training and evaluation** of document AI systems under realistic conditions, not as perfectly complete ground truth.
+
+---
+
 ## Full dataset download
 
 The full dataset is provided as a single archive:
 
-- `receipt_dataset_2781.tgz` (contains `receipts/` and `annotations/`)
-- `receipt_dataset_2781.tgz.sha256` (checksum)
+- `receipt_dataset_2780.tgz` (contains `receipts/` and `annotations/`)
+- `receipt_dataset_2780.tgz.sha256` (checksum)
 
 Extract:
 ```bash
-tar -xzf receipt_dataset_2781.tgz
+tar -xzf receipt_dataset_2780.tgz
 ```
 The dataset is hosted externally to keep this repository lightweight:
 

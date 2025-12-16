@@ -6,7 +6,7 @@ Usage (local folders):
   python3 examples/load_sample.py --id sroie_X51005442346
 
 Usage (from archive):
-  python3 examples/load_sample.py --id sroie_X51005442346 --archive receipt_dataset_2781.tgz
+  python3 examples/load_sample.py --id sroie_X51005442346 --archive receipt_dataset_2780.tgz
 
 Notes:
 - Default expects:
