@@ -22,7 +22,16 @@ sroie_000145.json
 
 ## Full dataset download
 
-The full dataset (~1.05 GB, 2800 samples) is hosted externally to keep this repository lightweight:
+The full dataset is provided as a single archive:
+
+- `receipt_dataset_2781.tgz` (contains `receipts/` and `annotations/`)
+- `receipt_dataset_2781.tgz.sha256` (checksum)
+
+Extract:
+```bash
+tar -xzf receipt_dataset_2781.tgz
+
+The dataset is hosted externally to keep this repository lightweight:
 
 👉 https://huggingface.co/datasets/mankind1023/receipt-dataset-standardized
 
