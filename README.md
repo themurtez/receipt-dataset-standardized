@@ -30,14 +30,14 @@ The full dataset is provided as a single archive:
 Extract:
 ```bash
 tar -xzf receipt_dataset_2781.tgz
-
+```
 The dataset is hosted externally to keep this repository lightweight:
 
 👉 https://huggingface.co/datasets/mankind1023/receipt-dataset-standardized
 
 ---
 
-**Pairing rule:**
+## Pairing rule: ##
 
 receipts/<id>.jpg ↔ annotations/<id>.json
 
